@@ -63,9 +63,10 @@ class ApiTests(DatabaseTest):
         self.assertEqual(self.search(p_query='acme jacket'), ['Denim Jacket'])
         self.assertEqual(self.search(p_query='zzzz'), [])
 
-    def test_typos_fall_back_to_fuzzy_title_match(self):
-        self.assertEqual(self.search(p_query='loafrs'), ['Leather Loafers'])
-        self.assertEqual(self.search(p_query='jaket'), ['Denim Jacket'])
+    def test_misspelled_words_find_nothing(self):
+        # The fuzzy fallback and its trigram index were removed to save space (20261119000001).
+        self.assertEqual(self.search(p_query='loafrs'), [])
+        self.assertEqual(self.search(p_query='loafers'), ['Leather Loafers'])
 
     def test_odd_input_does_not_error(self):
         for text in ("'; drop table products; --", 'the', '   ', '!!!', 'a:*', 'x' * 500, '\\'):
@@ -297,13 +298,13 @@ class ApiTests(DatabaseTest):
         with self.assertRaises(psycopg.errors.InvalidParameterValue):
             titles(p_stock='maybe')
 
-    def test_typo_search_works_for_anon_in_a_fresh_session(self):
+    def test_search_works_for_anon_in_a_fresh_session(self):
         # A new connection has not loaded pg_trgm yet, which is the situation on Supabase.
         with psycopg.connect(test_url(), autocommit=True) as fresh:
             with fresh.transaction():
                 fresh.execute('set local role anon')
-                titles = [row[0] for row in fresh.execute("select title from search_products(p_query => 'loafrs')")]
-                count = fresh.execute("select search_products_count(p_query => 'loafrs')").fetchone()[0]
+                titles = [row[0] for row in fresh.execute("select title from search_products(p_query => 'loafers')")]
+                count = fresh.execute("select search_products_count(p_query => 'loafers')").fetchone()[0]
         self.assertEqual(titles, ['Leather Loafers'])
         self.assertEqual(count, 1)
 

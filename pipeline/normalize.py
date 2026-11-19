@@ -6,8 +6,9 @@ Rule-based and deliberately conservative: when nothing matches, the value is Non
 import html
 import re
 
-DESCRIPTION_LIMIT = 2000
-IMAGE_LIMIT = 8
+# Kept small for the free database (2026-11-19): 3 images, 500 characters of description.
+DESCRIPTION_LIMIT = 500
+IMAGE_LIMIT = 3
 
 GENDERS = ('women', 'men', 'kids')
 CATEGORIES = ('unstitched', 'eastern', 'western', 'formal', 'footwear',
@@ -18,6 +19,10 @@ _SPACE = re.compile(r'\s+')
 _WORD = re.compile(r'[a-z0-9]+')
 _UNSTITCHED = re.compile(r'\b(?:un|non)[\s\-_]*stitched\b')
 _COORD = re.compile(r'\bco[\s\-_]*ord\b')
+# Shopify adds ?v=<timestamp> to image links and changes it often; dropping it stops rows being
+# rewritten every scan. private.clean_image_url() in the database must give the same result.
+_IMAGE_VERSION = re.compile(r'([?&])v=[0-9]+(?=&|$)&?')
+_TRAILING_SEPARATOR = re.compile(r'[?&]$')
 _WAISTCOAT = re.compile(r'\bwaist[\s\-_]*coats?\b')
 _TRACKSUIT = re.compile(r'\btrack[\s\-_]*suits?\b')
 
@@ -93,6 +98,11 @@ def clean_description(value):
     return text[:DESCRIPTION_LIMIT] or None
 
 
+def clean_image_url(url):
+    """Drop the ?v= cache-busting parameter, keeping any other parameters."""
+    return _TRAILING_SEPARATOR.sub('', _IMAGE_VERSION.sub(r'\1', url))
+
+
 def clean_images(images):
     result = []
     for image in images or []:
@@ -100,7 +110,7 @@ def clean_images(images):
             continue
         if image.startswith('//'):
             image = 'https:' + image
-        result.append(image.replace('\x00', ''))
+        result.append(clean_image_url(image.replace('\x00', '')))
         if len(result) == IMAGE_LIMIT:
             break
     return result

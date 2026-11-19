@@ -13,6 +13,10 @@ on:
         description: 'Accept snapshots sharing under half of the live products (type yes)'
         required: false
         default: ''
+      compact:
+        description: 'Also rebuild indexes and tables to shrink the database files (type yes)'
+        required: false
+        default: ''
 permissions:
   contents: read
 concurrency:
@@ -28,6 +32,7 @@ jobs:
       EXPO_ACCESS_TOKEN: ${{ secrets.EXPO_ACCESS_TOKEN }}
       INGEST_BRANDS: ${{ github.event.inputs.brands || vars.INGEST_BRANDS }}
       FORCE: ${{ github.event.inputs.force }}
+      COMPACT: ${{ github.event.inputs.compact }}
     steps:
       - name: Check that a database is configured
         id: config
@@ -58,6 +63,9 @@ jobs:
       - name: Apply pending migrations
         if: steps.config.outputs.ready == 'true'
         run: python -m pipeline.migrate
+      - name: Trim rows and delete old data
+        if: steps.config.outputs.ready == 'true'
+        run: python -m pipeline.maintain
       - name: Ingest new snapshots
         if: steps.config.outputs.ready == 'true'
         shell: bash
@@ -66,6 +74,9 @@ jobs:
           args=()
           if [ "${FORCE:-}" = "yes" ]; then args+=(--force); fi
           python -m pipeline.ingest "${args[@]}"
+      - name: Rebuild indexes and tables that fit (on request)
+        if: steps.config.outputs.ready == 'true' && env.COMPACT == 'yes'
+        run: python -m pipeline.maintain --compact
       - name: Report table sizes
         if: steps.config.outputs.ready == 'true' && always()
         run: python -m pipeline.ingest --stats

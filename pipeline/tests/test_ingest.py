@@ -159,12 +159,13 @@ class IngestSnapshotTests(DatabaseTest):
     def test_description_and_images_are_cleaned(self):
         brand = self.brand()
         self.load(brand, 'c1', {'p1': product(description='<p>Soft&nbsp;lawn</p>\n<b>x</b>' + 'y' * 5000,
-                                              images=['//cdn.example/a.jpg'] + ['https://cdn.example/b.jpg'] * 20)})
-        description, images = self.conn.execute('select description, images from products').fetchone()
+                                              images=['//cdn.example/a.jpg?v=123'] + ['https://cdn.example/b.jpg'] * 20)})
+        description, images, options = self.conn.execute('select description, images, options from products').fetchone()
         self.assertTrue(description.startswith('Soft lawn x'))
-        self.assertEqual(len(description), 2000)
+        self.assertEqual(len(description), 500)
         self.assertEqual(images[0], 'https://cdn.example/a.jpg')
-        self.assertEqual(len(images), 8)
+        self.assertEqual(len(images), 3)
+        self.assertIsNone(options)
 
     def test_old_snapshots_are_not_notifiable(self):
         brand = self.brand()

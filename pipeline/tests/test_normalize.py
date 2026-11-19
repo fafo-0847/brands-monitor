@@ -62,6 +62,17 @@ class NormalizeTests(unittest.TestCase):
                 self.assertEqual(normalize.category_of(item), expected)
         self.assertTrue({normalize.category_of(item) for item, _ in cases} <= set(normalize.CATEGORIES))
 
+    def test_image_version_parameter_is_dropped(self):
+        cases = {'https://x/a.jpg?v=1792829380': 'https://x/a.jpg',
+                 'https://x/a.jpg?v=1&width=400': 'https://x/a.jpg?width=400',
+                 'https://x/a.jpg?width=400&v=1': 'https://x/a.jpg?width=400',
+                 'https://x/a.jpg?w=1&v=2&h=3': 'https://x/a.jpg?w=1&h=3',
+                 'https://x/a.jpg?version=2': 'https://x/a.jpg?version=2',
+                 'https://x/a.jpg': 'https://x/a.jpg'}
+        for raw, expected in cases.items():
+            with self.subTest(raw):
+                self.assertEqual(normalize.clean_image_url(raw), expected)
+
     def test_text_cleaning(self):
         self.assertEqual(normalize.clean_description('<p>A&amp;B</p>  <br> c\x00'), 'A&B c')
         self.assertIsNone(normalize.clean_description('<p> </p>'))

@@ -198,7 +198,7 @@ def product_rows(snapshot, rules=None):
             normalize.clean_description(product.get('description')),
             tags,
             normalize.clean_images(product.get('images')),
-            Jsonb(options) if options is not None else None,
+            None,  # product-level option lists are not stored (2026-11-19, to save space)
             normalize.category_of(product, rules),
             normalize.gender_of(product),
         )
