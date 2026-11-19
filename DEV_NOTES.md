@@ -203,3 +203,4 @@ To drop a loaded brand and reuse its space: remove the slug from `include`, then
 5. Push notifications (`pipeline/notify_push.py`) are not written.
 6. No retention policy for `product_events` or history yet; decide before the database nears its limit.
 7. SKU search is not indexed (`variants.sku` has no index).
+8. **Equator** cannot be scraped from GitHub (Cloudflare refuses cloud-server addresses; it loads normally from the owner's home connection and its robots.txt allows catalog pages). Owner's decision on 2026-11-20: leave it for now. Planned option: a Windows Task Scheduler job on the owner's PC that scrapes Equator twice a day and pushes `brands/equator/state.json` to `monitor-state`, with Equator removed from the GitHub matrix. Do not route it through free proxies or disguise the scraper.
