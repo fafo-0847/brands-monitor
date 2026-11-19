@@ -1,0 +1,1041 @@
+{
+  "khushposh": {
+    "name": "Khushposh",
+    "slug": "khushposh",
+    "website": "https://www.khushposh.co",
+    "strategy": "monitor_store",
+    "store": "khushposh",
+    "origin": "https://www.khushposh.co",
+    "all_products_url": "https://www.khushposh.co/collections/all",
+    "legacy_state": "state.json",
+    "note": "Original monitor.py scanner (unchanged); baseline migrated from monitor-state:state.json",
+    "module": "khushposh"
+  },
+  "khaadi": {
+    "name": "Khaadi",
+    "slug": "khaadi",
+    "website": "https://pk.khaadi.com",
+    "strategy": "sfcc",
+    "origin": "https://pk.khaadi.com",
+    "all_products_url": "https://pk.khaadi.com/new-in/",
+    "category_urls": [
+      "https://pk.khaadi.com/new-in/",
+      "https://pk.khaadi.com/ready-to-wear/",
+      "https://pk.khaadi.com/fabrics/",
+      "https://pk.khaadi.com/accessories/",
+      "https://pk.khaadi.com/fragrances/",
+      "https://pk.khaadi.com/home/",
+      "https://pk.khaadi.com/sale/",
+      "https://pk.khaadi.com/winter-collection/",
+      "https://pk.khaadi.com/festive-edit/",
+      "https://pk.khaadi.com/best-sellers/ready-to-wear-best-sellers/"
+    ],
+    "note": "Salesforce Commerce Cloud: no all-products page; crawls top-level categories and dedupes by product ID.",
+    "module": "khaadi"
+  },
+  "sapphire": {
+    "name": "Sapphire",
+    "slug": "sapphire",
+    "website": "https://pk.sapphireonline.pk",
+    "strategy": "sfcc",
+    "origin": "https://pk.sapphireonline.pk",
+    "all_products_url": "https://pk.sapphireonline.pk/collections/woman",
+    "category_urls": [
+      "https://pk.sapphireonline.pk/collections/new-in",
+      "https://pk.sapphireonline.pk/collections/woman",
+      "https://pk.sapphireonline.pk/collections/ready-to-wear",
+      "https://pk.sapphireonline.pk/collections/unstitched",
+      "https://pk.sapphireonline.pk/collections/western-wear",
+      "https://pk.sapphireonline.pk/collections/modest-wear",
+      "https://pk.sapphireonline.pk/collections/fragrances",
+      "https://pk.sapphireonline.pk/collections/accessories",
+      "https://pk.sapphireonline.pk/collections/bags",
+      "https://pk.sapphireonline.pk/collections/womens-shoes"
+    ],
+    "note": "Salesforce Commerce Cloud: crawls top-level categories and dedupes by product ID.",
+    "module": "sapphire"
+  },
+  "gul-ahmed-ideas": {
+    "name": "Gul Ahmed / Ideas",
+    "slug": "gul-ahmed-ideas",
+    "website": "https://www.gulahmedshop.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.gulahmedshop.com",
+    "all_products_url": "https://www.gulahmedshop.com/collections/all",
+    "api_url": "https://www.gulahmedshop.com/collections/all/products.json",
+    "module": "gul_ahmed_ideas"
+  },
+  "alkaram-studio": {
+    "name": "Alkaram Studio",
+    "slug": "alkaram-studio",
+    "website": "https://www.alkaramstudio.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.alkaramstudio.com",
+    "all_products_url": "https://www.alkaramstudio.com/collections/all",
+    "api_url": "https://www.alkaramstudio.com/collections/all/products.json",
+    "module": "alkaram_studio"
+  },
+  "j-junaid-jamshed": {
+    "name": "J. (Junaid Jamshed)",
+    "slug": "j-junaid-jamshed",
+    "website": "https://www.junaidjamshed.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.junaidjamshed.com",
+    "all_products_url": "https://www.junaidjamshed.com/collections/all",
+    "api_url": "https://www.junaidjamshed.com/collections/all/products.json",
+    "module": "j_junaid_jamshed"
+  },
+  "bonanza-satrangi": {
+    "name": "Bonanza Satrangi",
+    "slug": "bonanza-satrangi",
+    "website": "https://bonanzasatrangi.com",
+    "strategy": "shopify_json",
+    "origin": "https://bonanzasatrangi.com",
+    "all_products_url": "https://bonanzasatrangi.com/collections/all",
+    "api_url": "https://bonanzasatrangi.com/collections/all/products.json",
+    "module": "bonanza_satrangi"
+  },
+  "nishat-linen": {
+    "name": "Nishat Linen",
+    "slug": "nishat-linen",
+    "website": "https://nishatlinen.com",
+    "strategy": "shopify_json",
+    "origin": "https://nishatlinen.com",
+    "all_products_url": "https://nishatlinen.com/collections/all",
+    "api_url": "https://nishatlinen.com/collections/all/products.json",
+    "module": "nishat_linen"
+  },
+  "limelight": {
+    "name": "Limelight",
+    "slug": "limelight",
+    "website": "https://www.limelight.pk",
+    "strategy": "shopify_json",
+    "origin": "https://www.limelight.pk",
+    "all_products_url": "https://www.limelight.pk/collections/all",
+    "api_url": "https://www.limelight.pk/collections/all/products.json",
+    "module": "limelight"
+  },
+  "beechtree": {
+    "name": "Beechtree",
+    "slug": "beechtree",
+    "website": "https://beechtree.pk",
+    "strategy": "shopify_json",
+    "origin": "https://beechtree.pk",
+    "all_products_url": "https://beechtree.pk/collections/all",
+    "api_url": "https://beechtree.pk/collections/all/products.json",
+    "module": "beechtree"
+  },
+  "cross-stitch": {
+    "name": "Cross Stitch",
+    "slug": "cross-stitch",
+    "website": "https://www.crossstitch.pk",
+    "strategy": "shopify_json",
+    "origin": "https://crossstitch.pk",
+    "all_products_url": "https://crossstitch.pk/collections/all",
+    "api_url": "https://crossstitch.pk/collections/all/products.json",
+    "module": "cross_stitch"
+  },
+  "generation": {
+    "name": "Generation",
+    "slug": "generation",
+    "website": "https://generation.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://generation.com.pk",
+    "all_products_url": "https://generation.com.pk/collections/all",
+    "api_url": "https://generation.com.pk/collections/all/products.json",
+    "module": "generation"
+  },
+  "zeen": {
+    "name": "Zeen",
+    "slug": "zeen",
+    "website": "https://zeenwoman.com",
+    "strategy": "shopify_json",
+    "origin": "https://zeenwoman.com",
+    "all_products_url": "https://zeenwoman.com/collections/all",
+    "api_url": "https://zeenwoman.com/collections/all/products.json",
+    "module": "zeen"
+  },
+  "ethnic": {
+    "name": "Ethnic",
+    "slug": "ethnic",
+    "website": "https://pk.ethnc.com",
+    "strategy": "shopify_json",
+    "origin": "https://pk.ethnc.com",
+    "all_products_url": "https://pk.ethnc.com/collections/all",
+    "api_url": "https://pk.ethnc.com/collections/all/products.json",
+    "module": "ethnic"
+  },
+  "charizma": {
+    "name": "Charizma",
+    "slug": "charizma",
+    "website": "https://charizma.pk",
+    "strategy": "unavailable",
+    "origin": "https://charizma.pk",
+    "all_products_url": null,
+    "reason": "Domain charizma.pk does not resolve (DNS failure).",
+    "module": "charizma"
+  },
+  "kayseria": {
+    "name": "Kayseria",
+    "slug": "kayseria",
+    "website": "https://www.kayseria.com",
+    "strategy": "unavailable",
+    "origin": "https://www.kayseria.com",
+    "all_products_url": null,
+    "reason": "Shopify store publishes no products (products.json and sitemap empty).",
+    "module": "kayseria"
+  },
+  "bareeze": {
+    "name": "Bareeze",
+    "slug": "bareeze",
+    "website": "https://www.bareeze.com",
+    "strategy": "bareeze_listing",
+    "origin": "https://bareeze.com",
+    "all_products_url": "https://bareeze.com/all-products",
+    "category_sitemap": "https://www.bareeze.com/sitemap/sitemap_cat_0.xml",
+    "skip_categories": [
+      "test",
+      "lookbook"
+    ],
+    "note": "Next.js storefront: every top-level category (2 requests each via its load-more page), deduped by product ID.",
+    "module": "bareeze"
+  },
+  "lulusar": {
+    "name": "Lulusar",
+    "slug": "lulusar",
+    "website": "https://lulusar.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.lulusar.com",
+    "all_products_url": "https://www.lulusar.com/collections/all",
+    "api_url": "https://www.lulusar.com/collections/all/products.json",
+    "module": "lulusar"
+  },
+  "saya": {
+    "name": "Saya",
+    "slug": "saya",
+    "website": "https://saya.pk",
+    "strategy": "shopify_json",
+    "origin": "https://saya.pk",
+    "all_products_url": "https://saya.pk/collections/all",
+    "api_url": "https://saya.pk/collections/all/products.json",
+    "module": "saya"
+  },
+  "sana-safinaz": {
+    "name": "Sana Safinaz",
+    "slug": "sana-safinaz",
+    "website": "https://www.sanasafinaz.com",
+    "strategy": "shopify_json",
+    "origin": "https://sanasafinaz.com",
+    "all_products_url": "https://sanasafinaz.com/collections/all",
+    "api_url": "https://sanasafinaz.com/collections/all/products.json",
+    "module": "sana_safinaz"
+  },
+  "maria-b": {
+    "name": "Maria B",
+    "slug": "maria-b",
+    "website": "https://www.mariab.pk",
+    "strategy": "shopify_json",
+    "origin": "https://www.mariab.pk",
+    "all_products_url": "https://www.mariab.pk/collections/all",
+    "api_url": "https://www.mariab.pk/collections/all/products.json",
+    "module": "maria_b"
+  },
+  "zara-shahjahan": {
+    "name": "Zara Shahjahan",
+    "slug": "zara-shahjahan",
+    "website": "https://www.zarashahjahan.com",
+    "strategy": "shopify_json",
+    "origin": "https://zarashahjahan.com",
+    "all_products_url": "https://zarashahjahan.com/collections/all",
+    "api_url": "https://zarashahjahan.com/collections/all/products.json",
+    "module": "zara_shahjahan"
+  },
+  "agha-noor": {
+    "name": "Agha Noor",
+    "slug": "agha-noor",
+    "website": "https://aghanoorofficial.com",
+    "strategy": "shopify_json",
+    "origin": "https://pk.aghanoorofficial.com",
+    "all_products_url": "https://pk.aghanoorofficial.com/collections/all",
+    "api_url": "https://pk.aghanoorofficial.com/collections/all/products.json",
+    "module": "agha_noor"
+  },
+  "asim-jofa": {
+    "name": "Asim Jofa",
+    "slug": "asim-jofa",
+    "website": "https://asimjofa.com",
+    "strategy": "shopify_json",
+    "origin": "https://asimjofa.com",
+    "all_products_url": "https://asimjofa.com/collections/all",
+    "api_url": "https://asimjofa.com/collections/all/products.json",
+    "module": "asim_jofa"
+  },
+  "elan": {
+    "name": "Elan",
+    "slug": "elan",
+    "website": "https://www.elan.pk",
+    "strategy": "shopify_json",
+    "origin": "https://elan.pk",
+    "all_products_url": "https://elan.pk/collections/all",
+    "api_url": "https://elan.pk/collections/all/products.json",
+    "module": "elan"
+  },
+  "baroque": {
+    "name": "Baroque",
+    "slug": "baroque",
+    "website": "https://baroque.pk",
+    "strategy": "shopify_json",
+    "origin": "https://baroque.pk",
+    "all_products_url": "https://baroque.pk/collections/all",
+    "api_url": "https://baroque.pk/collections/all/products.json",
+    "module": "baroque"
+  },
+  "mushq": {
+    "name": "Mushq",
+    "slug": "mushq",
+    "website": "https://mushq.pk",
+    "strategy": "unavailable",
+    "origin": "https://mushq.pk",
+    "all_products_url": null,
+    "reason": "Shopify returns HTTP 423 \"This store is unavailable\".",
+    "module": "mushq"
+  },
+  "so-kamal": {
+    "name": "So Kamal",
+    "slug": "so-kamal",
+    "website": "https://sokamal.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.sokamal.com",
+    "all_products_url": "https://www.sokamal.com/collections/all",
+    "api_url": "https://www.sokamal.com/collections/all/products.json",
+    "module": "so_kamal"
+  },
+  "zellbury": {
+    "name": "Zellbury",
+    "slug": "zellbury",
+    "website": "https://zellbury.com",
+    "strategy": "shopify_json",
+    "origin": "https://zellbury.com",
+    "all_products_url": "https://zellbury.com/collections/all",
+    "api_url": "https://zellbury.com/collections/all/products.json",
+    "module": "zellbury"
+  },
+  "edenrobe": {
+    "name": "Edenrobe",
+    "slug": "edenrobe",
+    "website": "https://edenrobe.com",
+    "strategy": "shopify_json",
+    "origin": "https://edenrobe.com",
+    "all_products_url": "https://edenrobe.com/collections/all",
+    "api_url": "https://edenrobe.com/collections/all/products.json",
+    "module": "edenrobe"
+  },
+  "outfitters": {
+    "name": "Outfitters",
+    "slug": "outfitters",
+    "website": "https://outfitters.com.pk",
+    "strategy": "monitor_store",
+    "store": "outfitters",
+    "origin": "https://outfitters.com.pk",
+    "all_products_url": "https://outfitters.com.pk/collections/men-view-all-collection",
+    "legacy_state": "outfitters/state.json",
+    "note": "Original monitor.py scanner (unchanged); baseline migrated from monitor-state:outfitters/state.json",
+    "module": "outfitters"
+  },
+  "breakout": {
+    "name": "Breakout",
+    "slug": "breakout",
+    "website": "https://www.breakout.com.pk",
+    "strategy": "hydrogen_listing",
+    "origin": "https://www.breakout.com.pk",
+    "all_products_url": "https://www.breakout.com.pk/collections/all",
+    "collection_path": "/collections/all",
+    "sitemaps": [
+      "https://www.breakout.com.pk/sitemap.xml"
+    ],
+    "note": "Shopify Hydrogen (headless): /collections/all listing pages; product pages only to confirm unclear stock and for sitemap products missing from the listing.",
+    "module": "breakout"
+  },
+  "diners": {
+    "name": "Diners",
+    "slug": "diners",
+    "website": "https://diners.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://diners.com.pk",
+    "all_products_url": "https://diners.com.pk/collections/all",
+    "api_url": "https://diners.com.pk/collections/all/products.json",
+    "module": "diners"
+  },
+  "cougar": {
+    "name": "Cougar",
+    "slug": "cougar",
+    "website": "https://cougar.com.pk",
+    "strategy": "sitemap_jsonld",
+    "origin": "https://cougar.com.pk",
+    "all_products_url": "https://cougar.com.pk/sitemap.xml",
+    "sitemaps": [
+      "https://cougar.com.pk/sitemap.xml"
+    ],
+    "note": "Shopify Hydrogen (headless): its listings carry no stock data, so sitemap + product JSON-LD.",
+    "module": "cougar"
+  },
+  "charcoal": {
+    "name": "Charcoal",
+    "slug": "charcoal",
+    "website": "https://charcoal.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://charcoal.com.pk",
+    "all_products_url": "https://charcoal.com.pk/collections/all",
+    "api_url": "https://charcoal.com.pk/collections/all/products.json",
+    "module": "charcoal"
+  },
+  "engine": {
+    "name": "Engine",
+    "slug": "engine",
+    "website": "https://engine.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://engine.com.pk",
+    "all_products_url": "https://engine.com.pk/collections/all",
+    "api_url": "https://engine.com.pk/collections/all/products.json",
+    "module": "engine"
+  },
+  "furor": {
+    "name": "Furor",
+    "slug": "furor",
+    "website": "https://furorjeans.com",
+    "strategy": "shopify_json",
+    "origin": "https://furorjeans.com",
+    "all_products_url": "https://furorjeans.com/collections/all",
+    "api_url": "https://furorjeans.com/collections/all/products.json",
+    "module": "furor"
+  },
+  "leisure-club": {
+    "name": "Leisure Club",
+    "slug": "leisure-club",
+    "website": "https://leisureclub.pk",
+    "strategy": "unavailable",
+    "origin": "https://www.leisureclub.pk",
+    "all_products_url": null,
+    "reason": "Shopify store publishes no products (products.json and sitemap empty).",
+    "module": "leisure_club"
+  },
+  "uniworth": {
+    "name": "Uniworth",
+    "slug": "uniworth",
+    "website": "https://uniworthshop.com",
+    "strategy": "shopify_json",
+    "origin": "https://uniworthshop.com",
+    "all_products_url": "https://uniworthshop.com/collections/all",
+    "api_url": "https://uniworthshop.com/collections/all/products.json",
+    "module": "uniworth"
+  },
+  "cambridge": {
+    "name": "Cambridge",
+    "slug": "cambridge",
+    "website": "https://thecambridgeshop.com",
+    "strategy": "shopify_json",
+    "origin": "https://thecambridgeshop.com",
+    "all_products_url": "https://thecambridgeshop.com/collections/all",
+    "api_url": "https://thecambridgeshop.com/collections/all/products.json",
+    "module": "cambridge"
+  },
+  "chester-bernard": {
+    "name": "Chester Bernard",
+    "slug": "chester-bernard",
+    "website": "https://chesterbernard.com",
+    "strategy": "shopify_json",
+    "origin": "https://chesterbernard.com",
+    "all_products_url": "https://chesterbernard.com/collections/all",
+    "api_url": "https://chesterbernard.com/collections/all/products.json",
+    "module": "chester_bernard"
+  },
+  "garderobe": {
+    "name": "Garderobe",
+    "slug": "garderobe",
+    "website": "https://garderobe.pk",
+    "strategy": "shopify_json",
+    "origin": "https://garderobe.pk",
+    "all_products_url": "https://garderobe.pk/collections/all",
+    "api_url": "https://garderobe.pk/collections/all/products.json",
+    "module": "garderobe"
+  },
+  "wewear": {
+    "name": "WeWear",
+    "slug": "wewear",
+    "website": "https://wewearpk.com",
+    "strategy": "shopify_json",
+    "origin": "https://wewearpk.com",
+    "all_products_url": "https://wewearpk.com/collections/all",
+    "api_url": "https://wewearpk.com/collections/all/products.json",
+    "module": "wewear"
+  },
+  "mtj": {
+    "name": "MTJ",
+    "slug": "mtj",
+    "website": "https://mtjonline.com",
+    "strategy": "shopify_json",
+    "origin": "https://mtjonline.com",
+    "all_products_url": "https://mtjonline.com/collections/all",
+    "api_url": "https://mtjonline.com/collections/all/products.json",
+    "module": "mtj"
+  },
+  "amir-adnan": {
+    "name": "Amir Adnan",
+    "slug": "amir-adnan",
+    "website": "https://amiradnan.com",
+    "strategy": "shopify_json",
+    "origin": "https://amiradnan.com",
+    "all_products_url": "https://amiradnan.com/collections/all",
+    "api_url": "https://amiradnan.com/collections/all/products.json",
+    "module": "amir_adnan"
+  },
+  "republic-by-omar-farooq": {
+    "name": "Republic by Omar Farooq",
+    "slug": "republic-by-omar-farooq",
+    "website": "https://republicbyomarfarooq.com",
+    "strategy": "shopify_handles",
+    "origin": "https://republicbespoke.com",
+    "all_products_url": "https://republicbespoke.com/sitemap.xml",
+    "sitemaps": [
+      "https://republicbespoke.com/sitemap.xml"
+    ],
+    "min_pause": 1.0,
+    "note": "products.json is empty; handles from sitemap, details from /products/<handle>.js (~1,600 requests, paced at 1/s to stay under the Shopify 429 limit).",
+    "module": "republic_by_omar_farooq"
+  },
+  "rastah": {
+    "name": "Rastah",
+    "slug": "rastah",
+    "website": "https://rastah.co",
+    "strategy": "shopify_json",
+    "origin": "https://pk.rastah.co",
+    "all_products_url": "https://pk.rastah.co/collections/all",
+    "api_url": "https://pk.rastah.co/collections/all/products.json",
+    "module": "rastah"
+  },
+  "manto": {
+    "name": "Manto",
+    "slug": "manto",
+    "website": "https://www.shopmanto.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.shopmanto.com",
+    "all_products_url": "https://www.shopmanto.com/collections/all",
+    "api_url": "https://www.shopmanto.com/collections/all/products.json",
+    "module": "manto"
+  },
+  "awkwrd": {
+    "name": "AWKWRD",
+    "slug": "awkwrd",
+    "website": "https://www.awkwardxstore.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.awkwardxstore.com",
+    "all_products_url": "https://www.awkwardxstore.com/collections/all",
+    "api_url": "https://www.awkwardxstore.com/collections/all/products.json",
+    "module": "awkwrd"
+  },
+  "groovy": {
+    "name": "Groovy",
+    "slug": "groovy",
+    "website": "https://groovypakistan.com",
+    "strategy": "shopify_json",
+    "origin": "https://groovypakistan.com",
+    "all_products_url": "https://groovypakistan.com/collections/all",
+    "api_url": "https://groovypakistan.com/collections/all/products.json",
+    "module": "groovy"
+  },
+  "bata": {
+    "name": "Bata",
+    "slug": "bata",
+    "website": "https://www.bata.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://www.bata.com.pk",
+    "all_products_url": "https://www.bata.com.pk/collections/all",
+    "api_url": "https://www.bata.com.pk/collections/all/products.json",
+    "module": "bata"
+  },
+  "servis": {
+    "name": "Servis",
+    "slug": "servis",
+    "website": "https://www.servis.pk",
+    "strategy": "shopify_json",
+    "origin": "https://servis.pk",
+    "all_products_url": "https://servis.pk/collections/all",
+    "api_url": "https://servis.pk/collections/all/products.json",
+    "module": "servis"
+  },
+  "stylo": {
+    "name": "Stylo",
+    "slug": "stylo",
+    "website": "https://www.stylo.pk",
+    "strategy": "shopify_json",
+    "origin": "https://stylo.pk",
+    "all_products_url": "https://stylo.pk/collections/all",
+    "api_url": "https://stylo.pk/collections/all/products.json",
+    "module": "stylo"
+  },
+  "borjan": {
+    "name": "Borjan",
+    "slug": "borjan",
+    "website": "https://borjan.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://www.borjan.com.pk",
+    "all_products_url": "https://www.borjan.com.pk/collections/all",
+    "api_url": "https://www.borjan.com.pk/collections/all/products.json",
+    "module": "borjan"
+  },
+  "metro": {
+    "name": "Metro",
+    "slug": "metro",
+    "website": "https://www.metroshoes.com.pk",
+    "strategy": "unavailable",
+    "origin": "https://www.metroshoes.com.pk",
+    "all_products_url": null,
+    "reason": "Shopify returns HTTP 402 \"Store unavailable\".",
+    "module": "metro"
+  },
+  "ecs": {
+    "name": "ECS",
+    "slug": "ecs",
+    "website": "https://www.ecs.com.pk",
+    "strategy": "unavailable",
+    "origin": "https://ecs.com.pk",
+    "all_products_url": null,
+    "reason": "WordPress site without a product catalog (no WooCommerce, no product sitemap).",
+    "module": "ecs"
+  },
+  "hush-puppies": {
+    "name": "Hush Puppies",
+    "slug": "hush-puppies",
+    "website": "https://www.hushpuppies.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://www.hushpuppies.com.pk",
+    "all_products_url": "https://www.hushpuppies.com.pk/collections/all",
+    "api_url": "https://www.hushpuppies.com.pk/collections/all/products.json",
+    "module": "hush_puppies"
+  },
+  "insignia": {
+    "name": "Insignia",
+    "slug": "insignia",
+    "website": "https://www.insignia.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://insignia.com.pk",
+    "all_products_url": "https://insignia.com.pk/collections/all",
+    "api_url": "https://insignia.com.pk/collections/all/products.json",
+    "module": "insignia"
+  },
+  "unze-london": {
+    "name": "Unze London",
+    "slug": "unze-london",
+    "website": "https://www.unze.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://unze.com.pk",
+    "all_products_url": "https://unze.com.pk/collections/all",
+    "api_url": "https://unze.com.pk/collections/all/products.json",
+    "module": "unze_london"
+  },
+  "ndure": {
+    "name": "Ndure",
+    "slug": "ndure",
+    "website": "https://www.ndure.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.ndure.com",
+    "all_products_url": "https://www.ndure.com/collections/all",
+    "api_url": "https://www.ndure.com/collections/all/products.json",
+    "module": "ndure"
+  },
+  "1st-step": {
+    "name": "1st Step",
+    "slug": "1st-step",
+    "website": "https://1ststep.pk",
+    "strategy": "shopify_json",
+    "origin": "https://1ststep.pk",
+    "all_products_url": "https://1ststep.pk/collections/all",
+    "api_url": "https://1ststep.pk/collections/all/products.json",
+    "module": "brand_1st_step"
+  },
+  "starlet": {
+    "name": "Starlet",
+    "slug": "starlet",
+    "website": "https://starlet.pk",
+    "strategy": "shopify_json",
+    "origin": "https://starlet.pk",
+    "all_products_url": "https://starlet.pk/collections/all",
+    "api_url": "https://starlet.pk/collections/all/products.json",
+    "module": "starlet"
+  },
+  "urban-sole": {
+    "name": "Urban Sole",
+    "slug": "urban-sole",
+    "website": "https://urbansole.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://www.urbansole.com.pk",
+    "all_products_url": "https://www.urbansole.com.pk/collections/all",
+    "api_url": "https://www.urbansole.com.pk/collections/all/products.json",
+    "module": "urban_sole"
+  },
+  "walkeaze": {
+    "name": "Walkeaze",
+    "slug": "walkeaze",
+    "website": "https://walkeaze.com",
+    "strategy": "shopify_json",
+    "origin": "https://walkeaze.com",
+    "all_products_url": "https://walkeaze.com/collections/all",
+    "api_url": "https://walkeaze.com/collections/all/products.json",
+    "module": "walkeaze"
+  },
+  "retro-walk": {
+    "name": "Retro Walk",
+    "slug": "retro-walk",
+    "website": "https://retrowalk.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.retrowalk.com",
+    "all_products_url": "https://www.retrowalk.com/collections/all",
+    "api_url": "https://www.retrowalk.com/collections/all/products.json",
+    "module": "retro_walk"
+  },
+  "zeesy": {
+    "name": "Zeesy",
+    "slug": "zeesy",
+    "website": "https://zeesy.pk",
+    "strategy": "shopify_json",
+    "origin": "https://zeesy.pk",
+    "all_products_url": "https://zeesy.pk/collections/all",
+    "api_url": "https://zeesy.pk/collections/all/products.json",
+    "module": "zeesy"
+  },
+  "jadeno": {
+    "name": "Jadeno",
+    "slug": "jadeno",
+    "website": "https://jadeno.pk",
+    "strategy": "shopify_json",
+    "origin": "https://jadeno.pk",
+    "all_products_url": "https://jadeno.pk/collections/all",
+    "api_url": "https://jadeno.pk/collections/all/products.json",
+    "module": "jadeno"
+  },
+  "preloved-labels": {
+    "name": "Preloved Labels",
+    "slug": "preloved-labels",
+    "website": "https://prelovedlabels.com",
+    "strategy": "shopify_json",
+    "origin": "https://prelovedlabels.com",
+    "all_products_url": "https://prelovedlabels.com/collections/all",
+    "api_url": "https://prelovedlabels.com/collections/all/products.json",
+    "module": "preloved_labels"
+  },
+  "khazanay": {
+    "name": "Khazanay",
+    "slug": "khazanay",
+    "website": "https://khazanay.pk",
+    "strategy": "shopify_json",
+    "origin": "https://www.khazanay.pk",
+    "all_products_url": "https://www.khazanay.pk/collections/all",
+    "api_url": "https://www.khazanay.pk/collections/all/products.json",
+    "module": "khazanay"
+  },
+  "thriftshop-pk": {
+    "name": "ThriftShop.pk",
+    "slug": "thriftshop-pk",
+    "website": "https://thriftshop.pk",
+    "strategy": "shopify_json",
+    "origin": "https://thriftshop.pk",
+    "all_products_url": "https://thriftshop.pk/collections/all",
+    "api_url": "https://thriftshop.pk/collections/all/products.json",
+    "module": "thriftshop_pk"
+  },
+  "onlinethriftstore-pk": {
+    "name": "OnlineThriftStore.pk",
+    "slug": "onlinethriftstore-pk",
+    "website": "https://onlinethriftstore.pk",
+    "strategy": "shopify_json",
+    "origin": "https://onlinethriftstore.pk",
+    "all_products_url": "https://onlinethriftstore.pk/collections/all",
+    "api_url": "https://onlinethriftstore.pk/collections/all/products.json",
+    "module": "onlinethriftstore_pk"
+  },
+  "swag-kicks": {
+    "name": "Swag Kicks",
+    "slug": "swag-kicks",
+    "website": "https://swag-kicks.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.swag-kicks.com",
+    "all_products_url": "https://www.swag-kicks.com/collections/all",
+    "api_url": "https://www.swag-kicks.com/collections/all/products.json",
+    "module": "swag_kicks"
+  },
+  "monark": {
+    "name": "Monark",
+    "slug": "monark",
+    "website": "https://monark.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://monark.com.pk",
+    "all_products_url": "https://monark.com.pk/collections/all",
+    "api_url": "https://monark.com.pk/collections/all/products.json",
+    "module": "monark"
+  },
+  "royal-tag": {
+    "name": "Royal Tag",
+    "slug": "royal-tag",
+    "website": "https://royaltag.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://royaltag.com.pk",
+    "all_products_url": "https://royaltag.com.pk/collections/all",
+    "api_url": "https://royaltag.com.pk/collections/all/products.json",
+    "module": "royal_tag"
+  },
+  "lawrencepur": {
+    "name": "Lawrencepur",
+    "slug": "lawrencepur",
+    "website": "https://lawrencepur.com",
+    "strategy": "shopify_json",
+    "origin": "https://lawrencepur.com",
+    "all_products_url": "https://lawrencepur.com/collections/all",
+    "api_url": "https://lawrencepur.com/collections/all/products.json",
+    "module": "lawrencepur"
+  },
+  "ismail-farid": {
+    "name": "Ismail Farid",
+    "slug": "ismail-farid",
+    "website": "https://www.ismailfarid.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.ismailfarid.com",
+    "all_products_url": "https://www.ismailfarid.com/collections/all",
+    "api_url": "https://www.ismailfarid.com/collections/all/products.json",
+    "module": "ismail_farid"
+  },
+  "equator": {
+    "name": "Equator",
+    "slug": "equator",
+    "website": "https://equatorstores.com",
+    "strategy": "hydrogen_listing",
+    "origin": "https://equatorstores.com",
+    "all_products_url": "https://equatorstores.com/collections/all",
+    "collection_path": "/collections/all",
+    "sitemaps": [
+      "https://equatorstores.com/sitemap.xml"
+    ],
+    "note": "Shopify Hydrogen (headless): /collections/all listing pages; product pages only to confirm unclear stock and for sitemap products missing from the listing.",
+    "module": "equator"
+  },
+  "shaffer": {
+    "name": "Shaffer",
+    "slug": "shaffer",
+    "website": "https://shaffer.store",
+    "strategy": "shopify_json",
+    "origin": "https://shaffer.store",
+    "all_products_url": "https://shaffer.store/collections/all",
+    "api_url": "https://shaffer.store/collections/all/products.json",
+    "module": "shaffer"
+  },
+  "dynasty-fabrics": {
+    "name": "Dynasty Fabrics",
+    "slug": "dynasty-fabrics",
+    "website": "https://www.dynastyfabrics.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.dynastyfabrics.com",
+    "all_products_url": "https://www.dynastyfabrics.com/collections/all",
+    "api_url": "https://www.dynastyfabrics.com/collections/all/products.json",
+    "module": "dynasty_fabrics"
+  },
+  "eminent": {
+    "name": "Eminent",
+    "slug": "eminent",
+    "website": "https://eminent.pk",
+    "strategy": "shopify_json",
+    "origin": "https://eminent.pk",
+    "all_products_url": "https://eminent.pk/collections/all",
+    "api_url": "https://eminent.pk/collections/all/products.json",
+    "module": "eminent"
+  },
+  "giordano": {
+    "name": "Giordano",
+    "slug": "giordano",
+    "website": "https://giordanopk.com",
+    "strategy": "shopify_json",
+    "origin": "https://giordanopk.com",
+    "all_products_url": "https://giordanopk.com/collections/all",
+    "api_url": "https://giordanopk.com/collections/all/products.json",
+    "module": "giordano"
+  },
+  "mango": {
+    "name": "Mango",
+    "slug": "mango",
+    "website": "https://shop.mango.com/pk",
+    "strategy": "sitemap_jsonld",
+    "origin": "https://shop.mango.com",
+    "all_products_url": "https://shop.mango.com/sitemap.xml",
+    "sitemaps": [
+      "https://shop.mango.com/sitemap.xml"
+    ],
+    "url_pattern": "/pk/en/p/",
+    "sitemap_pattern": "pk.*(product|prod)|product.*pk",
+    "note": "Global Mango site: sitemap + JSON-LD for the PK store (heavy bot protection; may fail).",
+    "module": "mango"
+  },
+  "focus-clothing": {
+    "name": "Focus Clothing",
+    "slug": "focus-clothing",
+    "website": "https://focusclothing.pk",
+    "strategy": "shopify_json",
+    "origin": "https://focusclothing.pk",
+    "all_products_url": "https://focusclothing.pk/collections/all",
+    "api_url": "https://focusclothing.pk/collections/all/products.json",
+    "module": "focus_clothing"
+  },
+  "kross-kulture": {
+    "name": "Kross Kulture",
+    "slug": "kross-kulture",
+    "website": "https://krosskulture.com",
+    "strategy": "shopify_json",
+    "origin": "https://krosskulture.com",
+    "all_products_url": "https://krosskulture.com/collections/all",
+    "api_url": "https://krosskulture.com/collections/all/products.json",
+    "module": "kross_kulture"
+  },
+  "ego": {
+    "name": "Ego",
+    "slug": "ego",
+    "website": "https://wearego.com",
+    "strategy": "shopify_json",
+    "origin": "https://wearego.com",
+    "all_products_url": "https://wearego.com/collections/all",
+    "api_url": "https://wearego.com/collections/all/products.json",
+    "module": "ego"
+  },
+  "image": {
+    "name": "Image",
+    "slug": "image",
+    "website": "https://image1993.com",
+    "strategy": "unavailable",
+    "origin": "https://image1993.com",
+    "all_products_url": null,
+    "reason": "Homepage is a static landing page; no public product listing found.",
+    "module": "image"
+  },
+  "threads-motifs": {
+    "name": "Threads & Motifs",
+    "slug": "threads-motifs",
+    "website": "https://www.threadsandmotifs.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.threadsandmotifs.com",
+    "all_products_url": "https://www.threadsandmotifs.com/collections/all",
+    "api_url": "https://www.threadsandmotifs.com/collections/all/products.json",
+    "module": "threads_motifs"
+  },
+  "beyond-east": {
+    "name": "Beyond East",
+    "slug": "beyond-east",
+    "website": "https://www.beyondeast.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.beyondeast.com",
+    "all_products_url": "https://www.beyondeast.com/collections/all",
+    "api_url": "https://www.beyondeast.com/collections/all/products.json",
+    "module": "beyond_east"
+  },
+  "orient-textiles": {
+    "name": "Orient Textiles",
+    "slug": "orient-textiles",
+    "website": "https://www.shopatorient.com",
+    "strategy": "hydrogen_listing",
+    "origin": "https://shopatorient.com",
+    "all_products_url": "https://shopatorient.com/collections/all",
+    "collection_path": "/collections/all",
+    "sitemaps": [
+      "https://shopatorient.com/sitemap.xml"
+    ],
+    "note": "Shopify Hydrogen (headless): /collections/all listing pages; product pages only to confirm unclear stock and for sitemap products missing from the listing.",
+    "module": "orient_textiles"
+  },
+  "batik": {
+    "name": "Batik",
+    "slug": "batik",
+    "website": "https://batik.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://batik.com.pk",
+    "all_products_url": "https://batik.com.pk/collections/all",
+    "api_url": "https://batik.com.pk/collections/all/products.json",
+    "module": "batik"
+  },
+  "chinyere": {
+    "name": "Chinyere",
+    "slug": "chinyere",
+    "website": "https://www.chinyere.pk",
+    "strategy": "shopify_json",
+    "origin": "https://www.chinyere.pk",
+    "all_products_url": "https://www.chinyere.pk/collections/all",
+    "api_url": "https://www.chinyere.pk/collections/all/products.json",
+    "module": "chinyere"
+  },
+  "lama-retail": {
+    "name": "Lama Retail",
+    "slug": "lama-retail",
+    "website": "https://lamaretail.com",
+    "strategy": "shopify_json",
+    "origin": "https://lamaretail.com",
+    "all_products_url": "https://lamaretail.com/collections/all",
+    "api_url": "https://lamaretail.com/collections/all/products.json",
+    "pkr_labelled_as": "SAR",
+    "note": "Store currency is set to SAR (rate 1.0) but the amounts are PKR.",
+    "module": "lama_retail"
+  },
+  "bachaa-party": {
+    "name": "Bachaa Party",
+    "slug": "bachaa-party",
+    "website": "https://bachaaparty.com",
+    "strategy": "shopify_json",
+    "origin": "https://bachaaparty.com",
+    "all_products_url": "https://bachaaparty.com/collections/all",
+    "api_url": "https://bachaaparty.com/collections/all/products.json",
+    "module": "bachaa_party"
+  },
+  "mocciani": {
+    "name": "Mocciani",
+    "slug": "mocciani",
+    "website": "https://mocciani.com.pk",
+    "strategy": "shopify_json",
+    "origin": "https://mocciani.com.pk",
+    "all_products_url": "https://mocciani.com.pk/collections/all",
+    "api_url": "https://mocciani.com.pk/collections/all/products.json",
+    "module": "mocciani"
+  },
+  "logo": {
+    "name": "Logo",
+    "slug": "logo",
+    "website": "https://www.logoofficial.com",
+    "strategy": "shopify_json",
+    "origin": "https://www.logoofficial.com",
+    "all_products_url": "https://www.logoofficial.com/collections/all",
+    "api_url": "https://www.logoofficial.com/collections/all/products.json",
+    "module": "logo"
+  },
+  "sputnik": {
+    "name": "Sputnik",
+    "slug": "sputnik",
+    "website": "https://sputnikfootwear.com",
+    "strategy": "shopify_json",
+    "origin": "https://sputnikfootwear.com",
+    "all_products_url": "https://sputnikfootwear.com/collections/all",
+    "api_url": "https://sputnikfootwear.com/collections/all/products.json",
+    "module": "sputnik"
+  },
+  "aldo": {
+    "name": "Aldo",
+    "slug": "aldo",
+    "website": "https://aldoshoes.pk",
+    "strategy": "shopify_json",
+    "origin": "https://aldoshoes.pk",
+    "all_products_url": "https://aldoshoes.pk/collections/all",
+    "api_url": "https://aldoshoes.pk/collections/all/products.json",
+    "module": "aldo"
+  },
+  "jafferjees": {
+    "name": "Jafferjees",
+    "slug": "jafferjees",
+    "website": "https://jafferjees.com",
+    "strategy": "shopify_json",
+    "origin": "https://jafferjees.com",
+    "all_products_url": "https://jafferjees.com/collections/all",
+    "api_url": "https://jafferjees.com/collections/all/products.json",
+    "module": "jafferjees"
+  }
+}
