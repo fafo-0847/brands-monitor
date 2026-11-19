@@ -15,6 +15,7 @@ INGEST_BRANDS="slug slug" narrows a run further.
 import argparse
 import hashlib
 import json
+import re
 import os
 import subprocess
 import sys
@@ -484,7 +485,9 @@ def ingest_snapshot(conn, brand, sha, snapshot, *, now=None, force=False, brand_
                left join stg_p s on s.external_id = p.external_id
                where p.brand_id = %s and p.removed_at is null""", (brand['id'],)).fetchone()
         if live and overlap < MIN_OVERLAP * live and not force:
-            raise Rejected(f'only {overlap} of {live} live products are in this snapshot')
+            if not confirms_previous_shrink(cur, brand['id'], overlap, live):
+                raise Rejected(f'only {overlap} of {live} live products are in this snapshot')
+            log(f'  {brand["slug"]}: catalog shrank to {overlap} of {live} products in two scans in a row; accepted')
         first = not cur.execute('select exists (select 1 from products where brand_id = %s)',
                                 (brand['id'],)).fetchone()[0]
         scan = cur.execute(
@@ -501,6 +504,24 @@ def ingest_snapshot(conn, brand, sha, snapshot, *, now=None, force=False, brand_
             cur.execute('analyze products')
             cur.execute('analyze variants')
     return 'ok'
+
+
+_SHRINK = re.compile(r'^only (\d+) of (\d+) live products')
+
+
+def confirms_previous_shrink(cur, brand_id, overlap, live, tolerance=0.1):
+    """True when the brand's previous scan was rejected for the same shrink: same number of live
+    products and an overlap within 10%. One broken scrape is rejected; a catalog that really got
+    smaller shows the same size twice in a row and is accepted on the second scan."""
+    previous = cur.execute("""select status, error from scans where brand_id = %s
+                              order by ingested_at desc, id desc limit 1""", (brand_id,)).fetchone()
+    if not previous or previous[0] != 'rejected' or not previous[1]:
+        return False
+    match = _SHRINK.match(previous[1])
+    if not match:
+        return False
+    previous_overlap, previous_live = int(match.group(1)), int(match.group(2))
+    return previous_live == live and abs(overlap - previous_overlap) <= tolerance * max(previous_overlap, 1)
 
 
 def record_rejection(conn, brand, sha, snapshot, reason):
@@ -538,6 +559,13 @@ def ingest_brand(conn, brand, ref, *, force=False, max_commits=None, cwd=ROOT, n
         log(f'  {brand["slug"]}: {exc}; history was replaced, loading the newest snapshot only')
         if os.environ.get('GITHUB_ACTIONS') and commits:
             print(f'::warning::{brand["slug"]}: snapshot history was replaced; loaded the newest snapshot only')
+    if force and not commits and cursor:
+        # A forced run also retries the commit the cursor stopped at when it was rejected, so an
+        # owner-approved shrink does not have to wait for the next scrape.
+        last = conn.execute('select status from scans where brand_id = %s and commit_sha = %s',
+                            (brand['id'], cursor[0])).fetchone()
+        if last and last[0] == 'rejected':
+            commits = [cursor[0]]
     if max_commits:
         commits = commits[:max_commits]
     counts = {'ok': 0, 'skipped': 0, 'rejected': 0}

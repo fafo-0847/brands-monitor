@@ -76,9 +76,10 @@ with `notifiable = false`, so a backfill never notifies anyone.
 ### Rejected snapshots
 
 A rejected snapshot is recorded in `scans` (`status = 'rejected'`, with the reason) and skipped; the
-cursor moves past it so the next good scan repairs the brand. If a catalog really did shrink by more
-than half, every later snapshot is rejected too: check `brand_health`, then run
-`python -m pipeline.ingest --brand <slug> --force` (or the workflow with `force = yes`) on the next commit.
+cursor moves past it so the next good scan repairs the brand. A catalog that really shrank by more than half is accepted automatically on the second scan in a row
+that shows the same size (same live count, overlap within 10% of the rejected one). To accept it
+straight away, run the workflow with `force = yes` (and the brand in `brands`): a forced run also retries
+the rejected commit the brand's cursor stopped at.
 
 ## GitHub Actions setup
 

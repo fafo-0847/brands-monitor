@@ -283,6 +283,46 @@ class GitIngestTests(DatabaseTest):
         self.assertEqual(self.scalar("select count(*) from scans where status = 'rejected' and error like 'only 1 of 10%'"), 1)
         self.assertEqual(self.scalar('select rejected_since_success from brand_health'), 0)
 
+    def test_a_shrink_seen_twice_in_a_row_is_accepted(self):
+        repo = self.make_repo()
+        brand = self.brand('acme')
+        full = {f'p{i}': product() for i in range(10)}
+        small = {f'p{i}': product() for i in range(4)}
+        self.commit(repo, 'acme', snapshot(full, at=day(0)), 'full')
+        self.commit(repo, 'acme', snapshot(small, at=day(1)), 'smaller')
+        with mock.patch.object(ingest, 'log'):
+            first = ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(1))
+        self.assertEqual(first, {'ok': 1, 'skipped': 0, 'rejected': 1})
+        self.assertEqual(self.scalar('select count(*) from products where removed_at is null'), 10)
+        self.commit(repo, 'acme', snapshot(small, at=day(2)), 'smaller again')
+        with mock.patch.object(ingest, 'log'):
+            second = ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(2))
+        self.assertEqual(second, {'ok': 1, 'skipped': 0, 'rejected': 0})
+        self.assertEqual(self.scalar('select count(*) from products where removed_at is null'), 4)
+
+    def test_a_different_shrink_is_still_rejected(self):
+        repo = self.make_repo()
+        brand = self.brand('acme')
+        self.commit(repo, 'acme', snapshot({f'p{i}': product() for i in range(10)}, at=day(0)), 'full')
+        self.commit(repo, 'acme', snapshot({f'p{i}': product() for i in range(4)}, at=day(1)), 'broken 1')
+        self.commit(repo, 'acme', snapshot({f'p{i}': product() for i in range(1)}, at=day(2)), 'broken 2')
+        with mock.patch.object(ingest, 'log'):
+            counts = ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(2))
+        self.assertEqual(counts, {'ok': 1, 'skipped': 0, 'rejected': 2})
+        self.assertEqual(self.scalar('select count(*) from products where removed_at is null'), 10)
+
+    def test_force_retries_the_rejected_commit_the_cursor_stopped_at(self):
+        repo = self.make_repo()
+        brand = self.brand('acme')
+        self.commit(repo, 'acme', snapshot({f'p{i}': product() for i in range(10)}, at=day(0)), 'full')
+        self.commit(repo, 'acme', snapshot({f'p{i}': product() for i in range(4)}, at=day(1)), 'smaller')
+        with mock.patch.object(ingest, 'log'):
+            ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(1))
+            self.assertEqual(ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(1))['ok'], 0)
+            forced = ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(1), force=True)
+        self.assertEqual(forced['ok'], 1)
+        self.assertEqual(self.scalar('select count(*) from products where removed_at is null'), 4)
+
     def test_replaced_history_loads_only_the_newest_snapshot(self):
         repo = self.make_repo()
         brand = self.brand('acme')

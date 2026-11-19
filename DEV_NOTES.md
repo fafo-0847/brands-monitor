@@ -152,7 +152,7 @@ To drop a loaded brand and reuse its space: remove the slug from `include`, then
 ## Known problems in the data
 
 - **25,000-product cut-off.** `strategy_shopify_json` stops at 100 pages × 250. Khazanay, Stylo and Bachaa Party hit it exactly, so their catalogs are incomplete and the set returned can differ between scans (false "new"/"removed" events). Warn the owner if any of the three is selected before the scraper is fixed.
-- **Cougar, 2026-11-16.** The scraper accepted a partial catalog (866 products, 2,346 the day before) and overwrote its baseline. The ingest rejected that snapshot. If the next scan is complete it loads normally; if Cougar keeps returning the short catalog every snapshot is rejected until someone runs `python -m pipeline.ingest --brand cougar --force`.
+- **Cougar shrank for real** (2,346 products on 2026-11-12; its own sitemap listed 1,133 on 2026-11-20 and the scrape found 1,069). The "under half of the live products" rule rejected every Cougar scan after 12 Nov, so the app kept the 12 Nov data. Since 2026-11-20 a shrink is accepted when two scans in a row show it (same live count, overlap within 10%); a forced ingest run also retries the last rejected commit.
 - **Product-level brands have no sizes**: khaadi, sapphire (`sfcc`), bareeze, cougar, mango (`sitemap_jsonld`), breakout, equator, orient-textiles (`hydrogen_listing`). `brands.granularity = 'product'`; the app must hide size filters and size watches for them.
 - **Image lists churn.** Shopify image URLs carry a `?v=` parameter that changes; such a change rewrites the product row but creates no event.
 - **A removed product keeps its last price and stock values.** Always filter on `removed_at is null`.
