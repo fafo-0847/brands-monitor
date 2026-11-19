@@ -1,0 +1,2821 @@
+{
+  "khaadi": {
+    "brand": "Khaadi",
+    "slug": "khaadi",
+    "website": "https://pk.khaadi.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "homepage.html",
+      "listing.html"
+    ],
+    "home_status": 200,
+    "origin": "https://pk.khaadi.com",
+    "platform": "sfcc",
+    "nav_candidates": [
+      "https://pk.khaadi.com/new-in/"
+    ],
+    "strategy": "listing_pages",
+    "all_products_url": "https://pk.khaadi.com/new-in/",
+    "probed_seconds": 3.4
+  },
+  "sapphire": {
+    "brand": "Sapphire",
+    "slug": "sapphire",
+    "website": "https://pk.sapphireonline.pk",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://pk.sapphireonline.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://pk.sapphireonline.pk/collections/ready-to-wear",
+      "https://pk.sapphireonline.pk/collections/unstitched",
+      "https://pk.sapphireonline.pk/collections/western-wear",
+      "https://pk.sapphireonline.pk/collections/modest-wear",
+      "https://pk.sapphireonline.pk/collections/accessories",
+      "https://pk.sapphireonline.pk/collections/woman",
+      "https://pk.sapphireonline.pk/collections/for_her",
+      "https://pk.sapphireonline.pk/collections/for_him",
+      "https://pk.sapphireonline.pk/pages/shop-by-scent.html",
+      "https://pk.sapphireonline.pk/collections/fragrances",
+      "https://pk.sapphireonline.pk/collections/west-fall-winter",
+      "https://pk.sapphireonline.pk/collections/new-in"
+    ],
+    "currency": null,
+    "strategy": "shopify_handles",
+    "probed_seconds": 2.6
+  },
+  "gul-ahmed-ideas": {
+    "brand": "Gul Ahmed / Ideas",
+    "slug": "gul-ahmed-ideas",
+    "website": "https://www.gulahmedshop.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.gulahmedshop.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.gulahmedshop.com/collections/all",
+      "https://www.gulahmedshop.com/collections/new-arrivals",
+      "https://www.gulahmedshop.com/collections/sale",
+      "https://www.gulahmedshop.com/collections/women-ideas-pret",
+      "https://www.gulahmedshop.com/collections/new-arrivals-ready-to-wear",
+      "https://www.gulahmedshop.com/collections/shop-by-season-pret",
+      "https://www.gulahmedshop.com/collections/shop-by-style-pret",
+      "https://www.gulahmedshop.com/collections/shop-by-piece",
+      "https://www.gulahmedshop.com/collections/unstitched-fabric",
+      "https://www.gulahmedshop.com/collections/new-arrivals-unstitched",
+      "https://www.gulahmedshop.com/collections/shop-by-piece-unstitched",
+      "https://www.gulahmedshop.com/collections/featured-collection",
+      "https://www.gulahmedshop.com/collections/mens-clothes-unstitched",
+      "https://www.gulahmedshop.com/collections/shop-by-type",
+      "https://www.gulahmedshop.com/collections/mens-clothes"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.gulahmedshop.com/collections/all",
+    "api": "https://www.gulahmedshop.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.9
+  },
+  "alkaram-studio": {
+    "brand": "Alkaram Studio",
+    "slug": "alkaram-studio",
+    "website": "https://www.alkaramstudio.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.alkaramstudio.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.alkaramstudio.com/collections/shop-by-discount",
+      "https://www.alkaramstudio.com/collections/shop-by-occassion-festive",
+      "https://www.alkaramstudio.com/collections/11-11-sale",
+      "https://www.alkaramstudio.com/collections/sale-unstitched-carousel",
+      "https://www.alkaramstudio.com/collections/rtw-sale-carousel",
+      "https://www.alkaramstudio.com/collections/ready-to-wear-sale-1",
+      "https://www.alkaramstudio.com/collections/man",
+      "https://www.alkaramstudio.com/collections/winter-26",
+      "https://www.alkaramstudio.com/collections/ready-to-wear",
+      "https://www.alkaramstudio.com/collections/home",
+      "https://www.alkaramstudio.com/collections/accessories",
+      "https://www.alkaramstudio.com/collections/fragrance"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.alkaramstudio.com/collections/all",
+    "api": "https://www.alkaramstudio.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1642,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.9
+  },
+  "j-junaid-jamshed": {
+    "brand": "J. (Junaid Jamshed)",
+    "slug": "j-junaid-jamshed",
+    "website": "https://www.junaidjamshed.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.junaidjamshed.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.junaidjamshed.com/collections/latest-arrival",
+      "https://www.junaidjamshed.com/collections/womens-stitched",
+      "https://www.junaidjamshed.com/collections/womens-un-stitched",
+      "https://www.junaidjamshed.com/collections/womens-bags",
+      "https://www.junaidjamshed.com/collections/womens-stitched-co-ord-set",
+      "https://www.junaidjamshed.com/collections/womens-un-stitched-3-piece",
+      "https://www.junaidjamshed.com/collections/womens-stitched-kurti",
+      "https://www.junaidjamshed.com/collections/womens-jewelry",
+      "https://www.junaidjamshed.com/search?q="
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.junaidjamshed.com/collections/all",
+    "api": "https://www.junaidjamshed.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.2
+  },
+  "bonanza-satrangi": {
+    "brand": "Bonanza Satrangi",
+    "slug": "bonanza-satrangi",
+    "website": "https://bonanzasatrangi.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://bonanzasatrangi.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://bonanzasatrangi.com/collections/winter-2026",
+      "https://bonanzasatrangi.com/collections/fragrances",
+      "https://bonanzasatrangi.com/collections/beauty",
+      "https://bonanzasatrangi.com/collections/new-arrival"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://bonanzasatrangi.com/collections/all",
+    "api": "https://bonanzasatrangi.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 10508,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.1
+  },
+  "nishat-linen": {
+    "brand": "Nishat Linen",
+    "slug": "nishat-linen",
+    "website": "https://nishatlinen.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://nishatlinen.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://nishatlinen.com/collections/all-w26-every-version-of-you",
+      "https://nishatlinen.com/collections/all-shawls",
+      "https://nishatlinen.com/collections/all-scarf",
+      "https://nishatlinen.com/collections/new-in-all",
+      "https://nishatlinen.com/collections/ready-to-wear-1",
+      "https://nishatlinen.com/collections/unstitched",
+      "https://nishatlinen.com/collections/freedom-to-buy",
+      "https://nishatlinen.com/collections/bottoms",
+      "https://nishatlinen.com/collections/women",
+      "https://nishatlinen.com/collections/luxury-pret-1",
+      "https://nishatlinen.com/collections/luxury",
+      "https://nishatlinen.com/collections/luxury-men",
+      "https://nishatlinen.com/collections/men-unstitched",
+      "https://nishatlinen.com/collections/men-stitched",
+      "https://nishatlinen.com/collections/men"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://nishatlinen.com/collections/all",
+    "api": "https://nishatlinen.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 2886,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.2
+  },
+  "limelight": {
+    "brand": "Limelight",
+    "slug": "limelight",
+    "website": "https://www.limelight.pk",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.limelight.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.limelight.pk/collections/shop-by-product"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.limelight.pk/collections/all",
+    "api": "https://www.limelight.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 5542,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.2
+  },
+  "beechtree": {
+    "brand": "Beechtree",
+    "slug": "beechtree",
+    "website": "https://beechtree.pk",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://beechtree.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://beechtree.pk/collections/sale",
+      "https://beechtree.pk/collections/summer-sale",
+      "https://beechtree.pk/collections/unstitched",
+      "https://beechtree.pk/collections/pret",
+      "https://beechtree.pk/collections/outerwear",
+      "https://beechtree.pk/collections/kids-summer-sale",
+      "https://beechtree.pk/collections/kids-summer-sale-east",
+      "https://beechtree.pk/collections/sale-fusion-kids",
+      "https://beechtree.pk/collections/luxury-pret",
+      "https://beechtree.pk/collections/western",
+      "https://beechtree.pk/collections/accessories",
+      "https://beechtree.pk/#New-Arrivals",
+      "https://beechtree.pk/collections/kids-new-arrivals",
+      "https://beechtree.pk/collections/new-arrivals-kids-east",
+      "https://beechtree.pk/collections/new-arrivals-kids-fusion"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://beechtree.pk/collections/all",
+    "api": "https://beechtree.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 6,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "cross-stitch": {
+    "brand": "Cross Stitch",
+    "slug": "cross-stitch",
+    "website": "https://www.crossstitch.pk",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://crossstitch.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://crossstitch.pk/collections/sale",
+      "https://crossstitch.pk/",
+      "https://crossstitch.pk/collections/new-unstitch",
+      "https://crossstitch.pk/collections/new-ready-to-wear",
+      "https://crossstitch.pk/collections/accessories",
+      "https://crossstitch.pk/collections/unstitched-1",
+      "https://crossstitch.pk/collections/daily-wear",
+      "https://crossstitch.pk/collections/winter-unstitched-26",
+      "https://crossstitch.pk/collections/new-ready-to-wear-1"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://crossstitch.pk/collections/all",
+    "api": "https://crossstitch.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 2047,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.9
+  },
+  "generation": {
+    "brand": "Generation",
+    "slug": "generation",
+    "website": "https://generation.com.pk",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://generation.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://generation.com.pk/collections/all",
+      "https://generation.com.pk",
+      "https://generation.com.pk/collections/new-ins"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://generation.com.pk/collections/all",
+    "api": "https://generation.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 7746,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.9
+  },
+  "zeen": {
+    "brand": "Zeen",
+    "slug": "zeen",
+    "website": "https://zeenwoman.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://zeenwoman.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://zeenwoman.com/collections/new-arrivals",
+      "https://zeenwoman.com/search?q="
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://zeenwoman.com/collections/all",
+    "api": "https://zeenwoman.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1675,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.2
+  },
+  "ethnic": {
+    "brand": "Ethnic",
+    "slug": "ethnic",
+    "website": "https://pk.ethnc.com",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://pk.ethnc.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://pk.ethnc.com/collections/all",
+      "https://pk.ethnc.com/collections/women-eastern-view-all-sale",
+      "https://pk.ethnc.com/collections/women-eastern-view-all",
+      "https://pk.ethnc.com/collections/western",
+      "https://pk.ethnc.com/collections/women-east-meets-west-view-all",
+      "https://pk.ethnc.com/collections/kids-eastern-view-all",
+      "https://pk.ethnc.com/collections/kids-eastern25",
+      "https://pk.ethnc.com/collections/chota-fusion-toddler",
+      "https://pk.ethnc.com/collections/chota-fusion-junior",
+      "https://pk.ethnc.com/collections/kids-sale-view-all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://pk.ethnc.com/collections/all",
+    "api": "https://pk.ethnc.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 4963,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "charizma": {
+    "brand": "Charizma",
+    "slug": "charizma",
+    "website": "https://charizma.pk",
+    "category": "Eastern wear",
+    "status": "unreachable",
+    "saved": [
+      "homepage.html"
+    ],
+    "home_status": null,
+    "error": "ERROR: ConnectionError: HTTPSConnectionPool(host='charizma.pk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='charizma.pk', port=443): Failed to res",
+    "probed_seconds": 0.3
+  },
+  "kayseria": {
+    "brand": "Kayseria",
+    "slug": "kayseria",
+    "website": "https://www.kayseria.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.kayseria.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.kayseria.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.kayseria.com/collections/all",
+    "api": "https://www.kayseria.com/collections/all/products.json",
+    "first_page_count": 0,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.1
+  },
+  "bareeze": {
+    "brand": "Bareeze",
+    "slug": "bareeze",
+    "website": "https://www.bareeze.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://www.bareeze.com",
+    "platform": "unknown",
+    "nav_candidates": [],
+    "strategy": "listing_pages",
+    "probed_seconds": 38.1
+  },
+  "lulusar": {
+    "brand": "Lulusar",
+    "slug": "lulusar",
+    "website": "https://lulusar.com",
+    "category": "Western + Eastern",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.lulusar.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.lulusar.com/collections/sale-november-2026",
+      "https://www.lulusar.com/collections/flat-40",
+      "https://www.lulusar.com/collections/flat-60",
+      "https://www.lulusar.com/collections/new-arrivals",
+      "https://www.lulusar.com/collections/essentials",
+      "https://www.lulusar.com/collections/best-sellers",
+      "https://www.lulusar.com/collections/view-all-lulusar",
+      "https://www.lulusar.com/collections/view-all-morich",
+      "https://www.lulusar.com/collections/view-all-passu",
+      "https://www.lulusar.com/collections/view-all-basics",
+      "https://www.lulusar.com/collections/all",
+      "https://www.lulusar.com/collections/dear-october",
+      "https://www.lulusar.com/collections/morich-45",
+      "https://www.lulusar.com/collections/gulukara",
+      "https://www.lulusar.com/collections/tops-1"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.lulusar.com/collections/all",
+    "api": "https://www.lulusar.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.7
+  },
+  "saya": {
+    "brand": "Saya",
+    "slug": "saya",
+    "website": "https://saya.pk",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://saya.pk",
+    "platform": "shopify",
+    "nav_candidates": [],
+    "currency": "PKR",
+    "all_products_url": "https://saya.pk/collections/all",
+    "api": "https://saya.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 12332,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.1
+  },
+  "sana-safinaz": {
+    "brand": "Sana Safinaz",
+    "slug": "sana-safinaz",
+    "website": "https://www.sanasafinaz.com",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://sanasafinaz.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://sanasafinaz.com/collections/sale",
+      "https://sanasafinaz.com/collections/new-arrivals",
+      "https://sanasafinaz.com/",
+      "https://sanasafinaz.com/collections/unstitched-fabric",
+      "https://sanasafinaz.com/collections/ready-to-wear",
+      "https://sanasafinaz.com/collections/luxury-pret",
+      "https://sanasafinaz.com/collections/kids",
+      "https://sanasafinaz.com/collections/accessories",
+      "https://sanasafinaz.com/collections/bottoms",
+      "https://sanasafinaz.com/pages/couture-ss",
+      "https://sanasafinaz.com/collections/home-3",
+      "https://sanasafinaz.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://sanasafinaz.com/collections/all",
+    "api": "https://sanasafinaz.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1694,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.1
+  },
+  "maria-b": {
+    "brand": "Maria B",
+    "slug": "maria-b",
+    "website": "https://www.mariab.pk",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.mariab.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.mariab.pk/collections/all",
+      "https://www.mariab.pk/collections/new-arrivals",
+      "https://www.mariab.pk/collections/unstitched-fabrics",
+      "https://www.mariab.pk/collections/stitched",
+      "https://www.mariab.pk/collections/new-arrivals-luxury-formals",
+      "https://www.mariab.pk/collections/new-arrivals-luxury-pret",
+      "https://www.mariab.pk/collections/new-arrivals-jewelry",
+      "https://www.mariab.pk/collections/jewelry",
+      "https://www.mariab.pk/collections/m-kids",
+      "https://www.mariab.pk/collections/menswear-new-arrivals",
+      "https://www.mariab.pk/collections/menswear",
+      "https://www.mariab.pk/collections/sale-view-all",
+      "https://www.mariab.pk/collections/all-jewelry",
+      "https://www.mariab.pk/collections/maharani",
+      "https://www.mariab.pk/products/wl-1312"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.mariab.pk/collections/all",
+    "api": "https://www.mariab.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 8808,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 5.9
+  },
+  "zara-shahjahan": {
+    "brand": "Zara Shahjahan",
+    "slug": "zara-shahjahan",
+    "website": "https://www.zarashahjahan.com",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://zarashahjahan.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://zarashahjahan.com/collections/all-collections",
+      "https://zarashahjahan.com/blogs/news",
+      "https://zarashahjahan.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://zarashahjahan.com/collections/all",
+    "api": "https://zarashahjahan.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1041,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.7
+  },
+  "agha-noor": {
+    "brand": "Agha Noor",
+    "slug": "agha-noor",
+    "website": "https://aghanoorofficial.com",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://aghanoorofficial.com",
+    "platform": "unknown",
+    "nav_candidates": [],
+    "strategy": "listing_pages",
+    "probed_seconds": 4.4
+  },
+  "asim-jofa": {
+    "brand": "Asim Jofa",
+    "slug": "asim-jofa",
+    "website": "https://asimjofa.com",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://asimjofa.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://asimjofa.com/collections/40-off-unstitched",
+      "https://asimjofa.com/collections/under-rs-10-000-unstitched",
+      "https://asimjofa.com/collections/under-5-000-unstitched",
+      "https://asimjofa.com/collections/under-rs-3-000-unstitch",
+      "https://asimjofa.com/collections/40-off-pret",
+      "https://asimjofa.com/collections/under-rs-10-000-pret",
+      "https://asimjofa.com/collections/under-5-000-pret",
+      "https://asimjofa.com/collections/under-rs-3-000-pret",
+      "https://asimjofa.com/products/ajbpm-04-embroidered-lawn-stitched-2pcs",
+      "https://asimjofa.com/products/ajuln-14-embroidered-net-unstitched-3-pcs",
+      "https://asimjofa.com/products/ajpb-271-printed-lawn-stitched-2pcs",
+      "https://asimjofa.com/products/ajpb-278-printed-lawn-stitched-2pcs",
+      "https://asimjofa.com/pages/shop-by-collection",
+      "https://asimjofa.com/pages/shop-by-celebrities",
+      "https://asimjofa.com/search?q="
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://asimjofa.com/collections/all",
+    "api": "https://asimjofa.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1001,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.6
+  },
+  "elan": {
+    "brand": "Elan",
+    "slug": "elan",
+    "website": "https://www.elan.pk",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://elan.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://elan.pk/collections/new-arrivals",
+      "https://elan.pk/collections/all-sale-unstitched",
+      "https://elan.pk/collections/unstitched",
+      "https://elan.pk/collections/all-sale-ready-to-wear",
+      "https://elan.pk/collections/ready-to-wear",
+      "https://elan.pk/collections/pret-a-porter"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://elan.pk/collections/all",
+    "api": "https://elan.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.2
+  },
+  "baroque": {
+    "brand": "Baroque",
+    "slug": "baroque",
+    "website": "https://baroque.pk",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://baroque.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://baroque.pk/collections/unstitched",
+      "https://baroque.pk/collections/stitched",
+      "https://baroque.pk/collections/pret",
+      "https://baroque.pk/collections/unstitched-chantelle",
+      "https://baroque.pk/collections/stitched-chantelle",
+      "https://baroque.pk/collections/shawls"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://baroque.pk/collections/all",
+    "api": "https://baroque.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 842,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.0
+  },
+  "mushq": {
+    "brand": "Mushq",
+    "slug": "mushq",
+    "website": "https://mushq.pk",
+    "category": "Designer",
+    "status": "http_423",
+    "saved": [
+      "homepage.html"
+    ],
+    "home_status": 423,
+    "error": null,
+    "probed_seconds": 0.7
+  },
+  "so-kamal": {
+    "brand": "So Kamal",
+    "slug": "so-kamal",
+    "website": "https://sokamal.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.sokamal.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.sokamal.com/collections/new-arrival-summer-26"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.sokamal.com/collections/all",
+    "api": "https://www.sokamal.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 6412,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.3
+  },
+  "zellbury": {
+    "brand": "Zellbury",
+    "slug": "zellbury",
+    "website": "https://zellbury.com",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://zellbury.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://zellbury.com/collections/all-day-pants",
+      "https://zellbury.com/collections/all-day-satin-pants",
+      "https://zellbury.com/collections/all",
+      "https://zellbury.com/products/hoodie-wwzhq1118",
+      "https://zellbury.com/collections/chikankari-unstitched"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://zellbury.com/collections/all",
+    "api": "https://zellbury.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.1
+  },
+  "edenrobe": {
+    "brand": "Edenrobe",
+    "slug": "edenrobe",
+    "website": "https://edenrobe.com",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://edenrobe.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://edenrobe.com/collections/all-aboard",
+      "https://edenrobe.com/collections/new-arrivals",
+      "https://edenrobe.com/collections/women-new-arrivals",
+      "https://edenrobe.com/collections/women-unstitched",
+      "https://edenrobe.com/collections/women-ready-to-wear",
+      "https://edenrobe.com/collections/women-accessories",
+      "https://edenrobe.com/collections/women-fragrance",
+      "https://edenrobe.com/collections/women",
+      "https://edenrobe.com/collections/men-new-arrivals",
+      "https://edenrobe.com/collections/men-ethnic-wear",
+      "https://edenrobe.com/collections/men-ceremonial",
+      "https://edenrobe.com/collections/men-western-wear",
+      "https://edenrobe.com/collections/men-winter-wear",
+      "https://edenrobe.com/collections/men-accessories",
+      "https://edenrobe.com/collections/men-fragrance"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://edenrobe.com/collections/all",
+    "api": "https://edenrobe.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 2895,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.6
+  },
+  "outfitters": {
+    "brand": "Outfitters",
+    "slug": "outfitters",
+    "website": "https://outfitters.com.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://outfitters.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://outfitters.com.pk/collections/men-view-all-collection",
+      "https://outfitters.com.pk/collections/men-further-reduction-flat50-off",
+      "https://outfitters.com.pk/collections/women-view-all-collection",
+      "https://outfitters.com.pk/collections/women-further-reduction-flat50-off",
+      "https://outfitters.com.pk/collections/toddler-girls-view-all-collection",
+      "https://outfitters.com.pk/collections/toddler-girls-further-reduction-flat50-off",
+      "https://outfitters.com.pk/collections/junior-girls-view-all-collection",
+      "https://outfitters.com.pk/collections/girls-further-reduction-flat50-off",
+      "https://outfitters.com.pk/collections/toddler-boys-view-all-collection",
+      "https://outfitters.com.pk/collections/toddler-boys-further-reduction-flat50-off",
+      "https://outfitters.com.pk/collections/junior-boys-view-all-collection",
+      "https://outfitters.com.pk/collections/boys-further-reduction-flat50-off",
+      "https://outfitters.com.pk/collections/all",
+      "https://outfitters.com.pk/collections/girls-footwear-1",
+      "https://outfitters.com.pk/collections/girls-shirts-must-haves"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://outfitters.com.pk/collections/all",
+    "api": "https://outfitters.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 3,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 6.9
+  },
+  "breakout": {
+    "brand": "Breakout",
+    "slug": "breakout",
+    "website": "https://www.breakout.com.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://www.breakout.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.breakout.com.pk/collections/men-new-in",
+      "https://www.breakout.com.pk/collections/women-new-in",
+      "https://www.breakout.com.pk/collections/boys-newin",
+      "https://www.breakout.com.pk/collections/girls-newin"
+    ],
+    "currency": null,
+    "strategy": "shopify_handles",
+    "probed_seconds": 4.5
+  },
+  "diners": {
+    "brand": "Diners",
+    "slug": "diners",
+    "website": "https://diners.com.pk",
+    "category": "Western + Eastern",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://diners.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://diners.com.pk/collections/diners-men",
+      "https://diners.com.pk/collections/boys-eastern",
+      "https://diners.com.pk/collections/boys-western",
+      "https://diners.com.pk/collections/girls-eastern",
+      "https://diners.com.pk/collections/girls-western"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://diners.com.pk/collections/all",
+    "api": "https://diners.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.8
+  },
+  "cougar": {
+    "brand": "Cougar",
+    "slug": "cougar",
+    "website": "https://cougar.com.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://cougar.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://cougar.com.pk/collections/men-sale",
+      "https://cougar.com.pk/collections/women-sale",
+      "https://cougar.com.pk/collections/accessories-sale",
+      "https://cougar.com.pk/collections/boys-sale",
+      "https://cougar.com.pk/collections/girls-sale",
+      "https://cougar.com.pk/collections/kids-accessories-sale",
+      "https://cougar.com.pk/collections/men",
+      "https://cougar.com.pk/collections/men-footwear",
+      "https://cougar.com.pk/collections/men-accessories",
+      "https://cougar.com.pk/collections/women",
+      "https://cougar.com.pk/collections/women-footwear",
+      "https://cougar.com.pk/collections/women-accessories",
+      "https://cougar.com.pk/collections/boys",
+      "https://cougar.com.pk/collections/shop-by-age-boys",
+      "https://cougar.com.pk/collections/boys-eastern-wear"
+    ],
+    "currency": null,
+    "strategy": "shopify_handles",
+    "probed_seconds": 3.5
+  },
+  "charcoal": {
+    "brand": "Charcoal",
+    "slug": "charcoal",
+    "website": "https://charcoal.com.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://charcoal.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://charcoal.com.pk/collections/all-formals",
+      "https://charcoal.com.pk/collections/all-casual",
+      "https://charcoal.com.pk/collections/all-afroz",
+      "https://charcoal.com.pk/collections/all-casual-tops",
+      "https://charcoal.com.pk/collections/all-casual-bottom",
+      "https://charcoal.com.pk/collections/all-outerwear",
+      "https://charcoal.com.pk/collections/perfume-bodyworks",
+      "https://charcoal.com.pk/collections/accessories",
+      "https://charcoal.com.pk/collections/mens-formal-shirts-dress-smart-limited-edition-shirts",
+      "https://charcoal.com.pk/collections/casual-coat",
+      "https://charcoal.com.pk/collections/dress-pants",
+      "https://charcoal.com.pk/collections/n-sweater",
+      "https://charcoal.com.pk/collections/jacket",
+      "https://charcoal.com.pk/collections/waistcoat",
+      "https://charcoal.com.pk/collections/prince-coat"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://charcoal.com.pk/collections/all",
+    "api": "https://charcoal.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 1.8
+  },
+  "engine": {
+    "brand": "Engine",
+    "slug": "engine",
+    "website": "https://engine.com.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://engine.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://engine.com.pk/collections/all-boys",
+      "https://engine.com.pk/collections/all-boys-sale",
+      "https://engine.com.pk/collections/all-girls",
+      "https://engine.com.pk/collections/all-girls-sale"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://engine.com.pk/collections/all",
+    "api": "https://engine.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 18465,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 5.4
+  },
+  "furor": {
+    "brand": "Furor",
+    "slug": "furor",
+    "website": "https://furorjeans.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://furorjeans.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://furorjeans.com/collections/new-arrivals",
+      "https://furorjeans.com/collections/men-tops",
+      "https://furorjeans.com/collections/men-bottoms",
+      "https://furorjeans.com/collections/men-accessories",
+      "https://furorjeans.com/collections/men-footwear",
+      "https://furorjeans.com/collections/men-winter-wear",
+      "https://furorjeans.com/collections/men",
+      "https://furorjeans.com/collections/winter-collection",
+      "https://furorjeans.com/collections/women",
+      "https://furorjeans.com/collections/footwear",
+      "https://furorjeans.com/collections/accessories"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://furorjeans.com/collections/all",
+    "api": "https://furorjeans.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1204,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "leisure-club": {
+    "brand": "Leisure Club",
+    "slug": "leisure-club",
+    "website": "https://leisureclub.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.leisureclub.pk",
+    "platform": "shopify",
+    "nav_candidates": [],
+    "currency": "PKR",
+    "all_products_url": "https://www.leisureclub.pk/collections/all",
+    "api": "https://www.leisureclub.pk/collections/all/products.json",
+    "first_page_count": 0,
+    "listed_total": 0,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.8
+  },
+  "uniworth": {
+    "brand": "Uniworth",
+    "slug": "uniworth",
+    "website": "https://uniworthshop.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://uniworthshop.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://uniworthshop.com/pages/shop-the-look"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://uniworthshop.com/collections/all",
+    "api": "https://uniworthshop.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.0
+  },
+  "cambridge": {
+    "brand": "Cambridge",
+    "slug": "cambridge",
+    "website": "https://thecambridgeshop.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://thecambridgeshop.com",
+    "platform": "shopify",
+    "nav_candidates": [],
+    "currency": "PKR",
+    "all_products_url": "https://thecambridgeshop.com/collections/all",
+    "api": "https://thecambridgeshop.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 4810,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.7
+  },
+  "chester-bernard": {
+    "brand": "Chester Bernard",
+    "slug": "chester-bernard",
+    "website": "https://chesterbernard.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://chesterbernard.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://chesterbernard.com/collections/shop-all",
+      "https://chesterbernard.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://chesterbernard.com/collections/all",
+    "api": "https://chesterbernard.com/collections/all/products.json",
+    "first_page_count": 165,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.8
+  },
+  "garderobe": {
+    "brand": "Garderobe",
+    "slug": "garderobe",
+    "website": "https://garderobe.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://garderobe.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://garderobe.pk/collections/new-arrival",
+      "https://garderobe.pk/collections/all-shirts",
+      "https://garderobe.pk/collections/all-pants",
+      "https://garderobe.pk/collections/shop",
+      "https://garderobe.pk/collections/trousers",
+      "https://garderobe.pk/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://garderobe.pk/collections/all",
+    "api": "https://garderobe.pk/collections/all/products.json",
+    "first_page_count": 111,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "wewear": {
+    "brand": "WeWear",
+    "slug": "wewear",
+    "website": "https://wewearpk.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://wewearpk.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://wewearpk.com/collections/all-men-s-bottoms",
+      "https://wewearpk.com/collections/all-women-s-bottoms",
+      "https://wewearpk.com/collections/winter-2026-27",
+      "https://wewearpk.com/collections/all-men",
+      "https://wewearpk.com/collections/all-women",
+      "https://wewearpk.com/collections/shop-all",
+      "https://wewearpk.com/collections/footwear",
+      "https://wewearpk.com/collections/fragrances",
+      "https://wewearpk.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://wewearpk.com/collections/all",
+    "api": "https://wewearpk.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.5
+  },
+  "mtj": {
+    "brand": "MTJ",
+    "slug": "mtj",
+    "website": "https://mtjonline.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://mtjonline.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://mtjonline.com/cdn/shop/files/01_24c08da5-299e-45db-8239-4f4c7c1aa3ad.jpg?v=1766125186",
+      "https://mtjonline.com/cdn/shop/files/03_c55197c2-dfba-4b63-8729-08c5e37dc6f5.jpg?v=1766125187",
+      "https://mtjonline.com/cdn/shop/files/04_a7e5eee8-d672-495a-8ea7-2dc6af00f481.jpg?v=1766125186",
+      "https://mtjonline.com/cdn/shop/files/02_872debbe-569a-46f5-819d-161c56a78aa5.jpg?v=1766125187",
+      "https://mtjonline.com/collections/new-in"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://mtjonline.com/collections/all",
+    "api": "https://mtjonline.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.8
+  },
+  "amir-adnan": {
+    "brand": "Amir Adnan",
+    "slug": "amir-adnan",
+    "website": "https://amiradnan.com",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://amiradnan.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://amiradnan.com/collections/all",
+      "https://amiradnan.com/collections/best-sellers",
+      "https://amiradnan.com/collections/kurta-pajama",
+      "https://amiradnan.com/collections/kameez-shalwar-1",
+      "https://amiradnan.com/collections/kurta",
+      "https://amiradnan.com/collections/summer-essentials",
+      "https://amiradnan.com/collections/semi-formal",
+      "https://amiradnan.com/blogs/custom-blog"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://amiradnan.com/collections/all",
+    "api": "https://amiradnan.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 462,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.6
+  },
+  "republic-by-omar-farooq": {
+    "brand": "Republic by Omar Farooq",
+    "slug": "republic-by-omar-farooq",
+    "website": "https://republicbyomarfarooq.com",
+    "category": "Designer",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://republicbespoke.com",
+    "platform": "shopify",
+    "nav_candidates": [],
+    "currency": null,
+    "all_products_url": "https://republicbespoke.com/products",
+    "api": "https://republicbespoke.com/products.json",
+    "first_page_count": 0,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 4.1
+  },
+  "rastah": {
+    "brand": "Rastah",
+    "slug": "rastah",
+    "website": "https://rastah.co",
+    "category": "Streetwear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://pk.rastah.co",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://pk.rastah.co/collections/bfcm-2026",
+      "https://pk.rastah.co/collections/discover-all-products",
+      "https://pk.rastah.co/collections/pre-fall-capsule",
+      "https://pk.rastah.co/collections/core-collection-v6",
+      "https://pk.rastah.co/collections/volume-15",
+      "https://pk.rastah.co/collections/core-collection-1",
+      "https://pk.rastah.co/collections/core-ss-26",
+      "https://pk.rastah.co/collections/whispering-walls",
+      "https://pk.rastah.co/collections/azad-nazm",
+      "https://pk.rastah.co/collections/winter25",
+      "https://pk.rastah.co/collections/the-morning-shift",
+      "https://pk.rastah.co/collections/after-hours",
+      "https://pk.rastah.co/cdn/shop/t/219/assets/bfcm-early-access.ics?v=53368261169727778191794411951",
+      "https://pk.rastah.co/collections/new-arrivals",
+      "https://pk.rastah.co/?shpxid=93389464-4494-4880-ae76-1f5bc91aef50"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://pk.rastah.co/collections/all",
+    "api": "https://pk.rastah.co/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1760,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 5.4
+  },
+  "manto": {
+    "brand": "Manto",
+    "slug": "manto",
+    "website": "https://www.shopmanto.com",
+    "category": "Streetwear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.shopmanto.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.shopmanto.com/collections/new-arrivals-women",
+      "https://www.shopmanto.com/collections/all-co-ord-sets",
+      "https://www.shopmanto.com/collections/shop-by-fabric",
+      "https://www.shopmanto.com/collections/new-arrivals-men",
+      "https://www.shopmanto.com/collections/comfort-revolution",
+      "https://www.shopmanto.com/collections",
+      "https://www.shopmanto.com/collections/manto-fragrances",
+      "https://www.shopmanto.com/collections/solid-co-ords",
+      "https://www.shopmanto.com/collections/winter-outerwear",
+      "https://www.shopmanto.com/collections/best-sellers-women",
+      "https://www.shopmanto.com/products/sang-e-raah-shawl"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.shopmanto.com/collections/all",
+    "api": "https://www.shopmanto.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 521,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.6
+  },
+  "awkwrd": {
+    "brand": "AWKWRD",
+    "slug": "awkwrd",
+    "website": "https://www.awkwardxstore.com",
+    "category": "Streetwear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.awkwardxstore.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.awkwardxstore.com/collections/shop-the-look",
+      "https://www.awkwardxstore.com/collections/summer-capsule",
+      "https://www.awkwardxstore.com/collections/essentials-tops",
+      "https://www.awkwardxstore.com/collections/trousers"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.awkwardxstore.com/collections/all",
+    "api": "https://www.awkwardxstore.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.4
+  },
+  "groovy": {
+    "brand": "Groovy",
+    "slug": "groovy",
+    "website": "https://groovypakistan.com",
+    "category": "Streetwear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://groovypakistan.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://groovypakistan.com/collections/all-tops",
+      "https://groovypakistan.com/collections/all-bottoms",
+      "https://groovypakistan.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://groovypakistan.com/collections/all",
+    "api": "https://groovypakistan.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 418,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.6
+  },
+  "bata": {
+    "brand": "Bata",
+    "slug": "bata",
+    "website": "https://www.bata.com.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.bata.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.bata.com.pk/collections/all",
+      "https://www.bata.com.pk/collections/new-arrivals",
+      "https://www.bata.com.pk/collections/back-to-school",
+      "https://www.bata.com.pk/collections/super-sale",
+      "https://www.bata.com.pk/collections/men-collection",
+      "https://www.bata.com.pk/collections/women-collection",
+      "https://www.bata.com.pk/collections/kids-new-arrivals",
+      "https://www.bata.com.pk/collections/women-bags",
+      "https://www.bata.com.pk/collections/accessories-1"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.bata.com.pk/collections/all",
+    "api": "https://www.bata.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 6,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.4
+  },
+  "servis": {
+    "brand": "Servis",
+    "slug": "servis",
+    "website": "https://www.servis.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://servis.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://servis.pk/collections/all",
+      "https://servis.pk/collections/new-men",
+      "https://servis.pk/collections/new-women-22",
+      "https://servis.pk/collections/new-sneakers",
+      "https://servis.pk/collections/kids-new-arrivals",
+      "https://servis.pk/collections/new-overall"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://servis.pk/collections/all",
+    "api": "https://servis.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 2670,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.2
+  },
+  "stylo": {
+    "brand": "Stylo",
+    "slug": "stylo",
+    "website": "https://www.stylo.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://stylo.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://stylo.pk/collections/women-shoes",
+      "https://stylo.pk/collections/winter",
+      "https://stylo.pk/collections/fall-winter",
+      "https://stylo.pk/collections/summer-shoes",
+      "https://stylo.pk/collections/ladies-fancy-shoes",
+      "https://stylo.pk/collections/heels",
+      "https://stylo.pk/collections/ethnic",
+      "https://stylo.pk/collections/bags",
+      "https://stylo.pk/collections/online-exclusive-shoes",
+      "https://stylo.pk/collections/bedsheets",
+      "https://stylo.pk/collections/men-online-exclusive",
+      "https://stylo.pk/collections/winter-pret",
+      "https://stylo.pk/collections/kids-shoes",
+      "https://stylo.pk/collections/fragrances"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://stylo.pk/collections/all",
+    "api": "https://stylo.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 10376,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 4.3
+  },
+  "borjan": {
+    "brand": "Borjan",
+    "slug": "borjan",
+    "website": "https://borjan.com.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.borjan.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.borjan.com.pk/collections/sale",
+      "https://www.borjan.com.pk/collections/women-sale",
+      "https://www.borjan.com.pk/collections/men-sale",
+      "https://www.borjan.com.pk/collections/kids-sale",
+      "https://www.borjan.com.pk/collections/all-women-shoes",
+      "https://www.borjan.com.pk/collections/accessorieswomen",
+      "https://www.borjan.com.pk/collections/men",
+      "https://www.borjan.com.pk/collections/men-accessories",
+      "https://www.borjan.com.pk/collections/hand-bagswomen",
+      "https://www.borjan.com.pk/collections/online-exclusive"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.borjan.com.pk/collections/all",
+    "api": "https://www.borjan.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 5165,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 4.2
+  },
+  "metro": {
+    "brand": "Metro",
+    "slug": "metro",
+    "website": "https://www.metroshoes.com.pk",
+    "category": "Shoes",
+    "status": "http_402",
+    "saved": [
+      "homepage.html"
+    ],
+    "home_status": 402,
+    "error": null,
+    "probed_seconds": 0.8
+  },
+  "ecs": {
+    "brand": "ECS",
+    "slug": "ecs",
+    "website": "https://www.ecs.com.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://ecs.com.pk",
+    "platform": "wordpress",
+    "nav_candidates": [],
+    "strategy": "listing_pages",
+    "probed_seconds": 9.9
+  },
+  "hush-puppies": {
+    "brand": "Hush Puppies",
+    "slug": "hush-puppies",
+    "website": "https://www.hushpuppies.com.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.hushpuppies.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.hushpuppies.com.pk/collections/ss26-all",
+      "https://www.hushpuppies.com.pk/collections/men-collections-all",
+      "https://www.hushpuppies.com.pk/collections/women-all",
+      "https://www.hushpuppies.com.pk/collections/kids",
+      "https://www.hushpuppies.com.pk/collections/best-sellers-2026-27",
+      "https://www.hushpuppies.com.pk/collections/ss26-women",
+      "https://www.hushpuppies.com.pk/collections/new-arrivals-ss-25"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.hushpuppies.com.pk/collections/all",
+    "api": "https://www.hushpuppies.com.pk/collections/all/products.json",
+    "first_page_count": 247,
+    "listed_total": 196,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.2
+  },
+  "insignia": {
+    "brand": "Insignia",
+    "slug": "insignia",
+    "website": "https://www.insignia.com.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://insignia.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://insignia.com.pk/collections/sale-off-50"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://insignia.com.pk/collections/all",
+    "api": "https://insignia.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 4631,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 4.6
+  },
+  "unze-london": {
+    "brand": "Unze London",
+    "slug": "unze-london",
+    "website": "https://www.unze.com.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://unze.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://unze.com.pk/collections/women-shoes-1",
+      "https://unze.com.pk/collections/women-clothing-1",
+      "https://unze.com.pk/collections/women-bags-accessorie-new-in",
+      "https://unze.com.pk/collections/women-shoes-sandals",
+      "https://unze.com.pk/collections/women-bags-accessories",
+      "https://unze.com.pk/collections/women-shoes-sale",
+      "https://unze.com.pk/collections/women-clothing-sale",
+      "https://unze.com.pk/pages/shop-by-video",
+      "https://unze.com.pk/collections/men-shoes-all",
+      "https://unze.com.pk/collections/men-clothing-1",
+      "https://unze.com.pk/collections/men-shoes-sale-1",
+      "https://unze.com.pk/collections/men-clothing-sale",
+      "https://unze.com.pk/collections/boys-clothing-viewall",
+      "https://unze.com.pk/collections/boys-shoes-view-all",
+      "https://unze.com.pk/collections/boys-clothing-sale-view-all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://unze.com.pk/collections/all",
+    "api": "https://unze.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 6.3
+  },
+  "ndure": {
+    "brand": "Ndure",
+    "slug": "ndure",
+    "website": "https://www.ndure.com",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.ndure.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.ndure.com/collections/all-sneakers"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.ndure.com/collections/all",
+    "api": "https://www.ndure.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "1st-step": {
+    "brand": "1st Step",
+    "slug": "1st-step",
+    "website": "https://1ststep.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://1ststep.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://1ststep.pk/collections/pret",
+      "https://1ststep.pk/collections/new-arrivals",
+      "https://1ststep.pk/collections/men-shoes-view-all",
+      "https://1ststep.pk/collections/men-sandals-view-all",
+      "https://1ststep.pk/collections/bridal-sandals-view-all",
+      "https://1ststep.pk/collections/ladies-pumps",
+      "https://1ststep.pk/collections/ladies-slippers-view-all",
+      "https://1ststep.pk/collections/court-shoes",
+      "https://1ststep.pk/collections/boy",
+      "https://1ststep.pk/collections/girls",
+      "https://1ststep.pk/collections/hand-bags-view-all",
+      "https://1ststep.pk/collections/shoe-care-view-all",
+      "https://1ststep.pk/collections/all",
+      "https://1ststep.pk/collections/men-s-footwear-best-sellers",
+      "https://1ststep.pk/collections/women-s-footwear-best-sellers"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://1ststep.pk/collections/all",
+    "api": "https://1ststep.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.7
+  },
+  "starlet": {
+    "brand": "Starlet",
+    "slug": "starlet",
+    "website": "https://starlet.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://starlet.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://starlet.pk/collections/all",
+      "https://starlet.pk/collections/abs",
+      "https://starlet.pk/collections/men-formal",
+      "https://starlet.pk/collections/women-heels",
+      "https://starlet.pk/collections/boot",
+      "https://starlet.pk/collections/sling-back",
+      "https://starlet.pk/collections/pumps",
+      "https://starlet.pk/collections/new-arrivals"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://starlet.pk/collections/all",
+    "api": "https://starlet.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.2
+  },
+  "urban-sole": {
+    "brand": "Urban Sole",
+    "slug": "urban-sole",
+    "website": "https://urbansole.com.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.urbansole.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.urbansole.com.pk/collections/urbansole-men-new-in",
+      "https://www.urbansole.com.pk/collections/kids-new-in",
+      "https://www.urbansole.com.pk/collections/all",
+      "https://www.urbansole.com.pk/collections/shop-by-discount",
+      "https://www.urbansole.com.pk/collections/urbansole-men-sale",
+      "https://www.urbansole.com.pk/collections/urbansole-women-sale",
+      "https://www.urbansole.com.pk/collections/urbansole-kid-sale",
+      "https://www.urbansole.com.pk/collections/accessories-sale",
+      "https://www.urbansole.com.pk/collections/urbansole-women-new-in",
+      "https://www.urbansole.com.pk/collections/fragrances",
+      "https://www.urbansole.com.pk/collections/accessories-new-in",
+      "https://www.urbansole.com.pk/collections/festive-collection",
+      "https://www.urbansole.com.pk/collections/men",
+      "https://www.urbansole.com.pk/collections/men-accessories",
+      "https://www.urbansole.com.pk/collections/fragrances-for-men"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.urbansole.com.pk/collections/all",
+    "api": "https://www.urbansole.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.8
+  },
+  "walkeaze": {
+    "brand": "Walkeaze",
+    "slug": "walkeaze",
+    "website": "https://walkeaze.com",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://walkeaze.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://walkeaze.com/collections/sale",
+      "https://walkeaze.com/collections/shop-by-percentage",
+      "https://walkeaze.com/collections/shop-by-category",
+      "https://walkeaze.com/collections/new-arrivals",
+      "https://walkeaze.com/collections/footwear",
+      "https://walkeaze.com/collections/bags",
+      "https://walkeaze.com/collections/fragrance",
+      "https://walkeaze.com/collections/make-up",
+      "https://walkeaze.com/collections/accessories",
+      "https://walkeaze.com/collections/glam-society"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://walkeaze.com/collections/all",
+    "api": "https://walkeaze.com/collections/all/products.json",
+    "first_page_count": 249,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.2
+  },
+  "retro-walk": {
+    "brand": "Retro Walk",
+    "slug": "retro-walk",
+    "website": "https://retrowalk.com",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.retrowalk.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.retrowalk.com/collections/new-arrivals",
+      "https://www.retrowalk.com/collections/the-winter-edit",
+      "https://www.retrowalk.com/collections/chappal",
+      "https://www.retrowalk.com/collections/loafers",
+      "https://www.retrowalk.com/collections/loved-by-customers"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.retrowalk.com/collections/all",
+    "api": "https://www.retrowalk.com/collections/all/products.json",
+    "first_page_count": 107,
+    "listed_total": 87,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.0
+  },
+  "zeesy": {
+    "brand": "Zeesy",
+    "slug": "zeesy",
+    "website": "https://zeesy.pk",
+    "category": "Accessories",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://zeesy.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://zeesy.pk/collections/shop-under-pkr-2-000",
+      "https://zeesy.pk/collections/shop-under-pkr-5-000",
+      "https://zeesy.pk/collections/all-products",
+      "https://zeesy.pk/collections/new-arrivals",
+      "https://zeesy.pk/collections/all",
+      "https://zeesy.pk/collections/zee-sy-best-sellers",
+      "https://zeesy.pk/collections/bridal-jewellery-sets",
+      "https://zeesy.pk/collections/stock-clearance-sale?filter.v.availability=1",
+      "https://zeesy.pk/collections/stock-clearance-sale?view=outlet",
+      "https://zeesy.pk/collections/necklace-sets",
+      "https://zeesy.pk/collections/earrings",
+      "https://zeesy.pk/collections/bracelet",
+      "https://zeesy.pk/blogs/latest",
+      "https://zeesy.pk/collections"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://zeesy.pk/collections/all",
+    "api": "https://zeesy.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.9
+  },
+  "jadeno": {
+    "brand": "Jadeno",
+    "slug": "jadeno",
+    "website": "https://jadeno.pk",
+    "category": "Accessories",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://jadeno.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://jadeno.pk/collections/sale",
+      "https://jadeno.pk/collections/earrings-jhumkas",
+      "https://jadeno.pk/collections/customer-favorites",
+      "https://jadeno.pk/collections/best-seller",
+      "https://jadeno.pk/products/buy-designers-handmade-rhinestone-necklace-set-online-in-pakistan",
+      "https://jadeno.pk/collections/iconics",
+      "https://jadeno.pk/collections/designers-favourite",
+      "https://jadeno.pk/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://jadeno.pk/collections/all",
+    "api": "https://jadeno.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.8
+  },
+  "preloved-labels": {
+    "brand": "Preloved Labels",
+    "slug": "preloved-labels",
+    "website": "https://prelovedlabels.com",
+    "category": "Thrift",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://prelovedlabels.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://prelovedlabels.com/collections/all",
+      "https://prelovedlabels.com/collections/men-new-arrivals",
+      "https://prelovedlabels.com/collections/women-new-arrivals",
+      "https://prelovedlabels.com/collections/nike"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://prelovedlabels.com/collections/all",
+    "api": "https://prelovedlabels.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 20,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.3
+  },
+  "khazanay": {
+    "brand": "Khazanay",
+    "slug": "khazanay",
+    "website": "https://khazanay.pk",
+    "category": "Thrift",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.khazanay.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.khazanay.pk/collections/preloved"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.khazanay.pk/collections/all",
+    "api": "https://www.khazanay.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.3
+  },
+  "thriftshop-pk": {
+    "brand": "ThriftShop.pk",
+    "slug": "thriftshop-pk",
+    "website": "https://thriftshop.pk",
+    "category": "Thrift",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://thriftshop.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://thriftshop.pk/collections/summer-top"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://thriftshop.pk/collections/all",
+    "api": "https://thriftshop.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.2
+  },
+  "onlinethriftstore-pk": {
+    "brand": "OnlineThriftStore.pk",
+    "slug": "onlinethriftstore-pk",
+    "website": "https://onlinethriftstore.pk",
+    "category": "Thrift",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://onlinethriftstore.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://onlinethriftstore.pk/collections/all",
+      "https://onlinethriftstore.pk/pages/summer-collections"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://onlinethriftstore.pk/collections/all",
+    "api": "https://onlinethriftstore.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 9168,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.7
+  },
+  "swag-kicks": {
+    "brand": "Swag Kicks",
+    "slug": "swag-kicks",
+    "website": "https://swag-kicks.com",
+    "category": "Thrift",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.swag-kicks.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.swag-kicks.com/collections/new-arrival",
+      "https://www.swag-kicks.com/collections/premium-condition-shoes-10-10",
+      "https://www.swag-kicks.com/collections/running-shoes-pakistan"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.swag-kicks.com/collections/all",
+    "api": "https://www.swag-kicks.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 7,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.5
+  },
+  "monark": {
+    "brand": "Monark",
+    "slug": "monark",
+    "website": "https://monark.com.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://monark.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://monark.com.pk/collections/new-arrivals"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://monark.com.pk/collections/all",
+    "api": "https://monark.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.0
+  },
+  "royal-tag": {
+    "brand": "Royal Tag",
+    "slug": "royal-tag",
+    "website": "https://royaltag.com.pk",
+    "category": "Western + Eastern",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://royaltag.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://royaltag.com.pk/collections/winter-26-new-arrivals",
+      "https://royaltag.com.pk/collections/11-11-sale",
+      "https://royaltag.com.pk/collections/coats-new-arrivals",
+      "https://royaltag.com.pk/collections/jackets-new-arrivals",
+      "https://royaltag.com.pk/collections/polo-shirts-clearance-sale",
+      "https://royaltag.com.pk/collections/tehwar-collection"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://royaltag.com.pk/collections/all",
+    "api": "https://royaltag.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 912,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.4
+  },
+  "lawrencepur": {
+    "brand": "Lawrencepur",
+    "slug": "lawrencepur",
+    "website": "https://lawrencepur.com",
+    "category": "Western + Eastern",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://lawrencepur.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://lawrencepur.com/collections/home",
+      "https://lawrencepur.com/collections/new-arrivals",
+      "https://lawrencepur.com/collections/mens-winter-jackets-coats-suits"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://lawrencepur.com/collections/all",
+    "api": "https://lawrencepur.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1133,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.1
+  },
+  "ismail-farid": {
+    "brand": "Ismail Farid",
+    "slug": "ismail-farid",
+    "website": "https://www.ismailfarid.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.ismailfarid.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.ismailfarid.com/"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.ismailfarid.com/collections/all",
+    "api": "https://www.ismailfarid.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.4
+  },
+  "equator": {
+    "brand": "Equator",
+    "slug": "equator",
+    "website": "https://equatorstores.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://equatorstores.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://equatorstores.com/#campaign-gid://shopify/Metaobject/620924961012",
+      "https://equatorstores.com/collections/new-arrivals"
+    ],
+    "currency": null,
+    "strategy": "shopify_handles",
+    "probed_seconds": 8.4
+  },
+  "shaffer": {
+    "brand": "Shaffer",
+    "slug": "shaffer",
+    "website": "https://shaffer.store",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://shaffer.store",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://shaffer.store/collections/all-unstitched-products",
+      "https://shaffer.store/collections/all-season",
+      "https://shaffer.store/collections/all-eastern-products",
+      "https://shaffer.store/collections/accessories-1",
+      "https://shaffer.store/collections/all",
+      "https://shaffer.store/collections/western-wear-1"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://shaffer.store/collections/all",
+    "api": "https://shaffer.store/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "dynasty-fabrics": {
+    "brand": "Dynasty Fabrics",
+    "slug": "dynasty-fabrics",
+    "website": "https://www.dynastyfabrics.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.dynastyfabrics.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.dynastyfabrics.com/collections/all",
+      "https://www.dynastyfabrics.com/collections/unstitched-winter",
+      "https://www.dynastyfabrics.com/collections/view-all",
+      "https://www.dynastyfabrics.com/collections/all-season",
+      "https://www.dynastyfabrics.com/collections/sale",
+      "https://www.dynastyfabrics.com/collections/the-art-of-gifting",
+      "https://www.dynastyfabrics.com/collections/zarbaft-collection-26"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.dynastyfabrics.com/collections/all",
+    "api": "https://www.dynastyfabrics.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 434,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.6
+  },
+  "eminent": {
+    "brand": "Eminent",
+    "slug": "eminent",
+    "website": "https://eminent.pk",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://eminent.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://eminent.pk/collections/new-arrivals-boy"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://eminent.pk/collections/all",
+    "api": "https://eminent.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.8
+  },
+  "giordano": {
+    "brand": "Giordano",
+    "slug": "giordano",
+    "website": "https://giordanopk.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://giordanopk.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://giordanopk.com/collections/new",
+      "https://giordanopk.com/collections/bottoms"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://giordanopk.com/collections/all",
+    "api": "https://giordanopk.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 4.5
+  },
+  "mango": {
+    "brand": "Mango",
+    "slug": "mango",
+    "website": "https://shop.mango.com/pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "homepage.html",
+      "listing.html",
+      "sample_product.html",
+      "sitemap_products.txt"
+    ],
+    "home_status": 200,
+    "origin": "https://shop.mango.com",
+    "platform": "unknown",
+    "nav_candidates": [
+      "https://shop.mango.com/pk/en#page-content-layer",
+      "https://shop.mango.com/pk/en/h/women",
+      "https://shop.mango.com/pk/en/h/men",
+      "https://shop.mango.com/pk/en/h/teen",
+      "https://shop.mango.com/pk/en/h/kids",
+      "https://shop.mango.com/pk/en",
+      "https://shop.mango.com/pk/en/search/women",
+      "https://shop.mango.com/pk/en/login",
+      "https://shop.mango.com/pk/en/favorites",
+      "https://shop.mango.com/pk/en/help",
+      "https://shop.mango.com/pk/en/sitemap",
+      "https://shop.mango.com/pk/en/my-purchases",
+      "https://shop.mango.com/pk/en/responsibility",
+      "https://shop.mango.com/pk/en/help/returns",
+      "https://shop.mango.com/pk/en/privacy-policy"
+    ],
+    "strategy": "sitemap_jsonld",
+    "sitemap": "https://shop.mango.com/sitemap.xml",
+    "product_sitemaps": [
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_10.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_2.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_3.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_4.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_5.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_6.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_7.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_8.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-ae_9.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_10.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_2.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_3.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_4.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_5.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_6.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_7.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_8.xml",
+      "https://shop.mango.com/sitemap-products/sitemap-products_ar-bh_9.xml"
+    ],
+    "sitemap_product_count": 938,
+    "all_products_url": "https://shop.mango.com/pk/en#page-content-layer",
+    "probed_seconds": 5.9
+  },
+  "focus-clothing": {
+    "brand": "Focus Clothing",
+    "slug": "focus-clothing",
+    "website": "https://focusclothing.pk",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://focusclothing.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://focusclothing.pk/collections/new-in-men",
+      "https://focusclothing.pk/collections/bottom",
+      "https://focusclothing.pk/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://focusclothing.pk/collections/all",
+    "api": "https://focusclothing.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 424,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "kross-kulture": {
+    "brand": "Kross Kulture",
+    "slug": "kross-kulture",
+    "website": "https://krosskulture.com",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://krosskulture.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://krosskulture.com/collections/ghazal"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://krosskulture.com/collections/all",
+    "api": "https://krosskulture.com/collections/all/products.json",
+    "first_page_count": 180,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.0
+  },
+  "ego": {
+    "brand": "Ego",
+    "slug": "ego",
+    "website": "https://wearego.com",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://wearego.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://wearego.com/collections/all-casuals",
+      "https://wearego.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://wearego.com/collections/all",
+    "api": "https://wearego.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.7
+  },
+  "image": {
+    "brand": "Image",
+    "slug": "image",
+    "website": "https://image1993.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://image1993.com",
+    "platform": "shopify",
+    "nav_candidates": [],
+    "currency": null,
+    "strategy": "shopify_handles",
+    "probed_seconds": 1.4
+  },
+  "threads-motifs": {
+    "brand": "Threads & Motifs",
+    "slug": "threads-motifs",
+    "website": "https://www.threadsandmotifs.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.threadsandmotifs.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.threadsandmotifs.com/collections/all-sale",
+      "https://www.threadsandmotifs.com/collections/couette-printed-velvets",
+      "https://www.threadsandmotifs.com/collections/new-arrivals-luxury-formals",
+      "https://www.threadsandmotifs.com/collections/new-arrival-semi-formals",
+      "https://www.threadsandmotifs.com/collections/best-sellers-semi-formals"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.threadsandmotifs.com/collections/all",
+    "api": "https://www.threadsandmotifs.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 826,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "beyond-east": {
+    "brand": "Beyond East",
+    "slug": "beyond-east",
+    "website": "https://www.beyondeast.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.beyondeast.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.beyondeast.com/collections/new-arrivals",
+      "https://www.beyondeast.com/collections/new-arrivals-pret-1",
+      "https://www.beyondeast.com/collections/unstitched-2026",
+      "https://www.beyondeast.com/pages/shop-by-category",
+      "https://www.beyondeast.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.beyondeast.com/collections/all",
+    "api": "https://www.beyondeast.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1661,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 3.6
+  },
+  "orient-textiles": {
+    "brand": "Orient Textiles",
+    "slug": "orient-textiles",
+    "website": "https://www.shopatorient.com",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html"
+    ],
+    "home_status": 200,
+    "origin": "https://shopatorient.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://shopatorient.com/collections/best-sellers",
+      "https://shopatorient.com/collections/sale",
+      "https://shopatorient.com/collections/sale-unstitched",
+      "https://shopatorient.com/collections/sale-ready-to-wear",
+      "https://shopatorient.com/collections/all-flat-40",
+      "https://shopatorient.com/collections/all-flat-50",
+      "https://shopatorient.com/collections/new-in",
+      "https://shopatorient.com/collections/unstitched",
+      "https://shopatorient.com/collections/ready-to-wear",
+      "https://shopatorient.com/collections/new-in-ready-to-wear",
+      "https://shopatorient.com/collections/lawn-printed",
+      "https://shopatorient.com/collections/fragrances",
+      "https://shopatorient.com/collections/winter-unstitched-26",
+      "https://shopatorient.com/collections/luxury-festive-formals26",
+      "https://shopatorient.com/pages/shop-orient"
+    ],
+    "currency": null,
+    "strategy": "shopify_handles",
+    "probed_seconds": 4.4
+  },
+  "batik": {
+    "brand": "Batik",
+    "slug": "batik",
+    "website": "https://batik.com.pk",
+    "category": "Eastern wear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://batik.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://batik.com.pk/collections/pret",
+      "https://batik.com.pk/collections/batikstudio",
+      "https://batik.com.pk/collections/batik-new-arrivals-ready-to-wear"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://batik.com.pk/collections/all",
+    "api": "https://batik.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.3
+  },
+  "chinyere": {
+    "brand": "Chinyere",
+    "slug": "chinyere",
+    "website": "https://www.chinyere.pk",
+    "category": "Eastern + Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.chinyere.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.chinyere.pk/collections/shop-by-type",
+      "https://www.chinyere.pk/collections/shop-by-piece"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.chinyere.pk/collections/all",
+    "api": "https://www.chinyere.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.6
+  },
+  "lama-retail": {
+    "brand": "Lama Retail",
+    "slug": "lama-retail",
+    "website": "https://lamaretail.com",
+    "category": "Western",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://lamaretail.com",
+    "platform": "shopify",
+    "nav_candidates": [],
+    "currency": "SAR",
+    "all_products_url": "https://lamaretail.com/collections/all",
+    "api": "https://lamaretail.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 1.9
+  },
+  "bachaa-party": {
+    "brand": "Bachaa Party",
+    "slug": "bachaa-party",
+    "website": "https://bachaaparty.com",
+    "category": "Kidswear",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://bachaaparty.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://bachaaparty.com/collections/shop-by-brand",
+      "https://bachaaparty.com/collections/shop-by-brand-bts",
+      "https://bachaaparty.com/collections/shop-by-theme",
+      "https://bachaaparty.com/collections/shop-by-characters",
+      "https://bachaaparty.com/collections/fall-winter-collection",
+      "https://bachaaparty.com/collections/gloves-earmuffs",
+      "https://bachaaparty.com/collections/wonder-child",
+      "https://bachaaparty.com/collections/kids-shoes",
+      "https://bachaaparty.com/collections/baby-clothes",
+      "https://bachaaparty.com/collections/baby-care",
+      "https://bachaaparty.com/collections/new-toys",
+      "https://bachaaparty.com/collections/school-supplies",
+      "https://bachaaparty.com/collections/bachaaparty-own-brand"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://bachaaparty.com/collections/all",
+    "api": "https://bachaaparty.com/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 25001,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 4.8
+  },
+  "mocciani": {
+    "brand": "Mocciani",
+    "slug": "mocciani",
+    "website": "https://mocciani.com.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://mocciani.com.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://mocciani.com.pk/collections/sale",
+      "https://mocciani.com.pk/collections/women-sale",
+      "https://mocciani.com.pk/collections/men-sale",
+      "https://mocciani.com.pk/collections/ladies",
+      "https://mocciani.com.pk/collections/women-accessories",
+      "https://mocciani.com.pk/collections/men",
+      "https://mocciani.com.pk/collections/all-bags-and-accessoriesmen-bags-and-access-1",
+      "https://mocciani.com.pk/collections/bags-ladies",
+      "https://mocciani.com.pk/collections/fragrances"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://mocciani.com.pk/collections/all",
+    "api": "https://mocciani.com.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 1859,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.5
+  },
+  "logo": {
+    "brand": "Logo",
+    "slug": "logo",
+    "website": "https://www.logoofficial.com",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://www.logoofficial.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://www.logoofficial.com/collections/view-all",
+      "https://www.logoofficial.com/collections/kids",
+      "https://www.logoofficial.com/collections/fragrance",
+      "https://www.logoofficial.com/collections/accessories",
+      "https://www.logoofficial.com/collections/new-arrival",
+      "https://www.logoofficial.com/collections/logoall",
+      "https://www.logoofficial.com/collections/sports-shoes",
+      "https://www.logoofficial.com/collections/online-exclusive"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://www.logoofficial.com/collections/all",
+    "api": "https://www.logoofficial.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.6
+  },
+  "sputnik": {
+    "brand": "Sputnik",
+    "slug": "sputnik",
+    "website": "https://sputnikfootwear.com",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://sputnikfootwear.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://sputnikfootwear.com/collections/women-new-arrival",
+      "https://sputnikfootwear.com/collections/mens-collection",
+      "https://sputnikfootwear.com/collections/womens-collection",
+      "https://sputnikfootwear.com/collections/all"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://sputnikfootwear.com/collections/all",
+    "api": "https://sputnikfootwear.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.7
+  },
+  "aldo": {
+    "brand": "Aldo",
+    "slug": "aldo",
+    "website": "https://aldoshoes.pk",
+    "category": "Shoes",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://aldoshoes.pk",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://aldoshoes.pk/collections/all",
+      "https://aldoshoes.pk/collections/new-featured",
+      "https://aldoshoes.pk/collections/mens",
+      "https://aldoshoes.pk/collections/women",
+      "https://aldoshoes.pk/collections/women-accessories",
+      "https://aldoshoes.pk/collections/gift-card"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://aldoshoes.pk/collections/all",
+    "api": "https://aldoshoes.pk/collections/all/products.json",
+    "first_page_count": 250,
+    "listed_total": 694,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.7
+  },
+  "jafferjees": {
+    "brand": "Jafferjees",
+    "slug": "jafferjees",
+    "website": "https://jafferjees.com",
+    "category": "Accessories",
+    "status": "ok",
+    "saved": [
+      "collections_all.html",
+      "homepage.html",
+      "products_page1.json"
+    ],
+    "home_status": 200,
+    "origin": "https://jafferjees.com",
+    "platform": "shopify",
+    "nav_candidates": [
+      "https://jafferjees.com/collections/new-arrivals",
+      "https://jafferjees.com/collections/our-signature-designs",
+      "https://jafferjees.com/collections/dinner-dance"
+    ],
+    "currency": "PKR",
+    "all_products_url": "https://jafferjees.com/collections/all",
+    "api": "https://jafferjees.com/collections/all/products.json",
+    "first_page_count": 250,
+    "strategy": "shopify_products_json",
+    "probed_seconds": 2.4
+  }
+}
