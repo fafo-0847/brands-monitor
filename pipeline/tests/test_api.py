@@ -298,6 +298,41 @@ class ApiTests(DatabaseTest):
         with self.assertRaises(psycopg.errors.InvalidParameterValue):
             titles(p_stock='maybe')
 
+    def test_changed_on_day_filter(self):
+        self.load_changes()
+        nov2 = '2026-11-02'
+        self.assertCountEqual(self.search(p_changed_day=nov2),
+                              ['Embroidered Lawn Kurta', 'Denim Jacket', 'Leather Loafers', 'Wool Cap'])
+        self.assertCountEqual(self.search(p_changed_day=nov2, p_change_kinds=['price_drop']),
+                              ['Embroidered Lawn Kurta', 'Denim Jacket'])
+        self.assertEqual(self.search(p_change_kinds=['out_of_stock']), ['Printed Kurta'])
+        self.assertEqual(self.search(p_changed_day='2026-11-05'), [])
+        self.assertEqual(self.search(p_changed_day=nov2, p_brand_ids=[self.zed['id']]), [])
+        for params in ({'p_changed_day': nov2}, {'p_change_kinds': ['price_drop', 'new_product']},
+                       {'p_changed_day': nov2, 'p_change_kinds': ['back_in_stock']}):
+            with self.subTest(params):
+                self.assertEqual(self.count(**params), len(self.search(p_limit=50, **params)))
+
+    def test_recent_activity_sort(self):
+        self.load_changes()
+        titles = self.search(p_sort='recent_activity')
+        self.assertEqual(len(titles), 5)
+        # Four Acme items had activity on 2 Nov (the cap was added last, so it sorts first among ties);
+        # Zed's kurta only sold out, which is not activity, so it comes last.
+        self.assertEqual((titles[0], titles[-1]), ('Wool Cap', 'Printed Kurta'))
+        self.assertNotIn('Secret Kurta', titles)
+
+    def test_price_stats(self):
+        stats = self.scalar('select search_price_stats()')
+        self.assertEqual(stats['n'], 4)
+        self.assertEqual((stats['min'], stats['max']), (250000, 900000))
+        self.assertEqual(len(stats['q']), 4)
+        self.assertEqual(self.scalar("select search_price_stats(p_query => 'kurta')")['n'], 2)
+        self.assertEqual(self.scalar("select search_price_stats(p_query => 'zzzz')")['n'], 0)
+        self.load_changes()
+        day = self.scalar("select change_price_stats('2026-11-02')")
+        self.assertEqual((day['n'], day['min'], day['max']), (4, 90000, 810000))
+
     def test_search_works_for_anon_in_a_fresh_session(self):
         # A new connection has not loaded pg_trgm yet, which is the situation on Supabase.
         with psycopg.connect(test_url(), autocommit=True) as fresh:

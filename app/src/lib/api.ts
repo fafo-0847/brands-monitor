@@ -1,6 +1,7 @@
 // Typed wrappers around the database functions in supabase/migrations/*_api.sql.
 // Prices are integers in minor units (199900 = PKR 1,999.00).
 import { NotConfiguredError } from '@/lib/api-errors';
+import type { PriceStats } from '@/lib/filters';
 import { currentUserId, ensureSession } from '@/lib/session';
 import { isConfigured, supabase } from '@/lib/supabase';
 
@@ -92,10 +93,22 @@ export type SeriesPoint = {
   available: boolean;
 };
 
-export type SortKey = 'relevance' | 'price_asc' | 'price_desc' | 'discount' | 'recent_price_change' | 'newest';
+export type SortKey =
+  | 'relevance' | 'price_asc' | 'price_desc' | 'discount' | 'recent_price_change' | 'newest' | 'recent_activity';
 export type FeedKind = 'price_drops' | 'back_in_stock' | 'new_arrivals';
 
+/** Kinds of change a product can have appeared with in the change log (removed products are not listed). */
+export const PRODUCT_CHANGE_KINDS = [
+  'price_drop', 'price_rise', 'back_in_stock', 'out_of_stock', 'new_product', 'sale_started', 'sale_ended',
+] as const;
+
 export type SearchParams = {
+  /** Only products that appeared in this day's change log (YYYY-MM-DD, Pakistan time). */
+  changedDay?: string | null;
+  /** Only products that appeared in the change log on any day. */
+  changedAnyDay?: boolean;
+  /** ...with one of these kinds of change. */
+  changeKinds?: string[];
   query?: string;
   brandIds?: number[];
   categories?: string[];
@@ -149,6 +162,9 @@ function filterArgs(params: SearchParams) {
     p_types: orNull(params.types),
     p_exclude_brand_ids: orNull(params.excludeBrandIds),
     p_exclude_categories: orNull(params.excludeCategories),
+    p_changed_day: params.changedDay ?? null,
+    // "Any day" without chosen kinds means any kind of change.
+    p_change_kinds: orNull(params.changeKinds) ?? (params.changedAnyDay ? [...PRODUCT_CHANGE_KINDS] : null),
   };
 }
 
@@ -163,6 +179,16 @@ export function searchProducts(params: SearchParams, page: number): Promise<Prod
 
 /** Number of matching products; the server stops counting at COUNT_CAP + 1. */
 export const COUNT_CAP = 10_000;
+
+/** Price spread of the products matching everything except their own price limits. */
+export function searchPriceStats(params: SearchParams): Promise<PriceStats> {
+  return rpc<PriceStats>('search_price_stats', compact(filterArgs({ ...params, priceMin: null, priceMax: null })));
+}
+
+/** Price spread of one day's changes. */
+export function changePriceStats(day: string): Promise<PriceStats> {
+  return rpc<PriceStats>('change_price_stats', { p_day: day });
+}
 
 export function searchCount(params: SearchParams): Promise<number> {
   return rpc<number>('search_products_count', compact(filterArgs(params)));
