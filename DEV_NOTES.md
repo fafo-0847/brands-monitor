@@ -176,6 +176,9 @@ To drop a loaded brand and reuse its space: remove the slug from `include`, then
 
 ## Operational facts
 
+- **Repository moved on 2026-11-19** to the public repo `github.com/fafo-0847/brands-monitor` (unlimited Actions minutes). Every branch there starts from a single "Initial commit": the history was not carried over, and `monitor-state` held a copy of the code, not the brand snapshots. Scraping therefore restarted every brand from a fresh baseline (first scan, no change report). The database kept all products and history. `pipeline/ingest.py` handles the missing history: when a brand's last loaded commit is not in the branch, it logs a warning and loads only the newest snapshot, which is compared with the database as usual. A local backup of the old history is the branch `history-backup` on the owner's machine; the old repo `soban23/brands-monitor` returned "not found" on 2026-11-19.
+- Secrets must be set again in the new repo: `DATABASE_URL` (required), `MONITOR_PROXY` and `EXPO_ACCESS_TOKEN` (optional).
+
 - `DATABASE_URL` (GitHub secret) must be the Supabase **session pooler** string. The direct connection is IPv6-only and GitHub runners have no IPv6.
 - `ingest.yml` is triggered by the brands workflow finishing, and `workflow_run` triggers only work once the workflow file is on the default branch.
 - `ingest.yml` works on GitHub, including the partial fetch of `monitor-state`. A run exits with an error only when a brand could not be processed; rejected snapshots and brands left out for space are shown as warnings.

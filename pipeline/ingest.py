@@ -59,13 +59,17 @@ def state_path(slug):
     return f'brands/{slug}/state.json'
 
 
+class HistoryRewritten(Exception):
+    """The last loaded commit is not in the branch history (the history was replaced)."""
+
+
 def commits_after(slug, ref, cursor, cwd=ROOT):
     """Commits on ref that touched this brand's snapshot after the cursor, oldest first."""
     if cursor:
         try:
             git('merge-base', '--is-ancestor', cursor, ref, cwd=cwd)
         except subprocess.CalledProcessError:
-            raise RuntimeError(f'cursor {cursor[:10]} is not on {ref}; the branch history was rewritten') from None
+            raise HistoryRewritten(f'cursor {cursor[:10]} is not on {ref}') from None
     span = f'{cursor}..{ref}' if cursor else ref
     out = git('log', '--reverse', '--format=%H', span, '--', state_path(slug), cwd=cwd)
     return out.decode().split()
@@ -524,7 +528,16 @@ def record_rejection(conn, brand, sha, snapshot, reason):
 
 def ingest_brand(conn, brand, ref, *, force=False, max_commits=None, cwd=ROOT, now=None, brand_types=None):
     cursor = conn.execute('select last_commit_sha from ingest_cursor where brand_id = %s', (brand['id'],)).fetchone()
-    commits = commits_after(brand['slug'], ref, cursor[0] if cursor else None, cwd=cwd)
+    try:
+        commits = commits_after(brand['slug'], ref, cursor[0] if cursor else None, cwd=cwd)
+    except HistoryRewritten as exc:
+        # The snapshot branch was replaced (on 2026-11-19 the repository moved with its history
+        # squashed). Each snapshot is compared with the database, not with git, so loading only the
+        # newest one is correct; changes between the old and new history are seen as one step.
+        commits = commits_after(brand['slug'], ref, None, cwd=cwd)[-1:]
+        log(f'  {brand["slug"]}: {exc}; history was replaced, loading the newest snapshot only')
+        if os.environ.get('GITHUB_ACTIONS') and commits:
+            print(f'::warning::{brand["slug"]}: snapshot history was replaced; loaded the newest snapshot only')
     if max_commits:
         commits = commits[:max_commits]
     counts = {'ok': 0, 'skipped': 0, 'rejected': 0}

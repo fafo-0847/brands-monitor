@@ -2,6 +2,7 @@ import json
 import subprocess
 import tempfile
 import unittest
+from unittest import mock
 from datetime import timedelta
 from pathlib import Path
 
@@ -281,14 +282,24 @@ class GitIngestTests(DatabaseTest):
         self.assertEqual(self.scalar("select count(*) from scans where status = 'rejected' and error like 'only 1 of 10%'"), 1)
         self.assertEqual(self.scalar('select rejected_since_success from brand_health'), 0)
 
-    def test_rewritten_history_is_an_error(self):
+    def test_replaced_history_loads_only_the_newest_snapshot(self):
         repo = self.make_repo()
         brand = self.brand('acme')
-        self.commit(repo, 'acme', snapshot({'p1': product()}, at=day(0)), 'one')
+        self.commit(repo, 'acme', snapshot({'p1': product({'v1': variant(500000)})}, at=day(0)), 'one')
         ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(0))
+        # The branch is replaced: the loaded commit is gone and new snapshots start from scratch.
         self.conn.execute("update ingest_cursor set last_commit_sha = '0123456789012345678901234567890123456789'")
-        with self.assertRaises(RuntimeError):
-            ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(0))
+        self.commit(repo, 'acme', snapshot({'p1': product({'v1': variant(450000)})}, at=day(1)), 'new history 1')
+        self.commit(repo, 'acme', snapshot({'p1': product({'v1': variant(400000)})}, at=day(2)), 'new history 2')
+        with mock.patch.object(ingest, 'log'):
+            counts = ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(2))
+        self.assertEqual(counts, {'ok': 1, 'skipped': 0, 'rejected': 0})
+        self.assertEqual(self.events(), [('price_drop', 'p1')])
+        old, new = self.conn.execute('select old_value, new_value from product_events').fetchone()
+        self.assertEqual((old['price'], new['price']), (500000, 400000))
+        # The cursor is now on the new history, so the next run continues normally.
+        self.commit(repo, 'acme', snapshot({'p1': product({'v1': variant(350000)})}, at=day(3)), 'new history 3')
+        self.assertEqual(ingest.ingest_brand(self.conn, brand, 'state', cwd=repo, now=day(3))['ok'], 1)
 
     def test_sync_brands_keeps_operator_edits(self):
         configs = {'acme': {'name': 'Acme', 'origin': 'https://acme.example', 'strategy': 'shopify_json'},
