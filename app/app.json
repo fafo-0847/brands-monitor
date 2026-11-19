@@ -1,0 +1,73 @@
+{
+  "expo": {
+    "name": "StockWatch PK",
+    "slug": "stockwatch-pk",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "stockwatch",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.stockwatchpk.app.dev"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/android-icon-background.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.stockwatchpk.app.dev",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#208AEF",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 76
+        }
+      ],
+      "expo-sqlite",
+      [
+        "expo-notifications",
+        {
+          "defaultChannel": "default"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "d6b04ef6-6638-406b-8ecd-e1811db601cc"
+      },
+      "supabase": {
+        "url": "https://oqloraqtyxxhfvmoeuaq.supabase.co",
+        "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9xbG9yYXF0eXh4aGZ2bW9ldWFxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ4NDI4ODUsImV4cCI6MjExMDQxODg4NX0.N9YQZ1qamHgjOWw9M3uj_TP_Bzm4WySjx6_IJORZXSA"
+      }
+    },
+    "owner": "soban23",
+    "updates": {
+      "url": "https://u.expo.dev/d6b04ef6-6638-406b-8ecd-e1811db601cc"
+    }
+  }
+}

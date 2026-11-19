@@ -1,0 +1,32 @@
+{
+  "comment": [
+    "How each brand's own product types are used. Edit freely; the next ingest re-labels every product.",
+    "show_types: false hides the brand's own types on its brand page (use when they are colours, seasons or codes).",
+    "primary: the brand mainly sells this category, so anything the keyword rules call 'formal' or 'other' becomes it (shoe brands: 'MEN FORMAL' means formal shoes).",
+    "types: exact brand product type -> shared category; wins over every rule. Categories: unstitched, eastern, western, formal, footwear, bags-accessories, fragrance-beauty, home, other.",
+    "Drafted 2026-11-18 from the 31 selected brands' data; brands not listed use the keyword rules and show their types."
+  ],
+  "brands": {
+    "1st-step": {"primary": "footwear", "types": {"Water Bottle": "bags-accessories"}},
+    "bata": {"primary": "footwear"},
+    "cambridge": {"show_types": false, "types": {"2 PC SUIT": "formal"}},
+    "charcoal": {"show_types": false},
+    "engine": {"show_types": false},
+    "hush-puppies": {"primary": "footwear"},
+    "ismail-farid": {"show_types": false},
+    "logo": {"primary": "footwear"},
+    "mocciani": {"primary": "footwear"},
+    "monark": {"types": {"Suits": "formal"}},
+    "ndure": {"primary": "footwear"},
+    "royal-tag": {
+      "show_types": false,
+      "types": {"SM326 Pocket Square": "bags-accessories", "SM326 CUFF LINKS": "bags-accessories"}
+    },
+    "servis": {"primary": "footwear"},
+    "sputnik": {"primary": "footwear"},
+    "starlet": {"primary": "footwear"},
+    "swag-kicks": {"primary": "footwear"},
+    "uniworth": {"show_types": false},
+    "urban-sole": {"primary": "footwear"}
+  }
+}
