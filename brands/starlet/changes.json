@@ -1,7 +1,25 @@
 {
-  "checked_at": "2026-11-19T17:17:53.206946+00:00",
-  "baseline_created": true,
+  "checked_at": "2026-11-20T10:07:41.996571+00:00",
+  "baseline_created": false,
   "product_count": 1534,
-  "change_count": 0,
-  "changes": []
+  "change_count": 2,
+  "changes": [
+    {
+      "product_id": "15499878990044",
+      "title": "Force Lane",
+      "url": "https://starlet.pk/products/go-2050-grey?variant=68036892688604",
+      "kind": "Sold out",
+      "detail": "41/8 / GREY"
+    },
+    {
+      "product_id": "9595398258908",
+      "title": "Woven Tassel Loafers",
+      "url": "https://starlet.pk/products/fcg-8141-brown",
+      "kind": "Product updated",
+      "detail": "title: Caro Voss Loafers → Woven Tassel Loafers",
+      "field": "title",
+      "before": "Caro Voss Loafers",
+      "after": "Woven Tassel Loafers"
+    }
+  ]
 }
