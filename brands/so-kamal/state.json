@@ -3,7 +3,7 @@
   "source": "https://www.sokamal.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-19T15:53:09.147219+00:00",
+  "checked_at": "2026-11-20T08:42:52.260937+00:00",
   "products": {
     "7729198727324": {
       "id": "7729198727324",
@@ -23071,7 +23071,7 @@
             "L"
           ],
           "sku": "MK11122-LRG-SKN",
-          "available": false,
+          "available": true,
           "price": 1850000,
           "compare_at_price": 1850000
         },
@@ -23084,7 +23084,7 @@
             "M"
           ],
           "sku": "MK11122-MED-SKN",
-          "available": false,
+          "available": true,
           "price": 1850000,
           "compare_at_price": 1850000
         },
@@ -23097,12 +23097,12 @@
             "S"
           ],
           "sku": "MK11122-SML-SKN",
-          "available": false,
+          "available": true,
           "price": 1850000,
           "compare_at_price": 1850000
         }
       },
-      "available": false
+      "available": true
     },
     "9286457819292": {
       "id": "9286457819292",
@@ -58997,12 +58997,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03365-Std-SGR",
-          "available": false,
+          "available": true,
           "price": 257500,
           "compare_at_price": 515000
         }
       },
-      "available": false
+      "available": true
     },
     "8971921981596": {
       "id": "8971921981596",
@@ -60289,12 +60289,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03498-Std-MLT",
-          "available": false,
+          "available": true,
           "price": 260000,
           "compare_at_price": 520000
         }
       },
-      "available": false
+      "available": true
     },
     "9134913421468": {
       "id": "9134913421468",
@@ -61469,12 +61469,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03536-Std-MRN",
-          "available": true,
+          "available": false,
           "price": 267500,
           "compare_at_price": 535000
         }
       },
-      "available": true
+      "available": false
     },
     "9175738319004": {
       "id": "9175738319004",
@@ -71750,12 +71750,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03374-Std-BLU",
-          "available": false,
+          "available": true,
           "price": 362500,
           "compare_at_price": 725000
         }
       },
-      "available": false
+      "available": true
     },
     "8847649669276": {
       "id": "8847649669276",
@@ -72812,6 +72812,72 @@
       },
       "available": true
     },
+    "8981144305820": {
+      "id": "8981144305820",
+      "title": "Embroidered - 3 Pc Lawn Suit",
+      "handle": "dpl-5431-suit",
+      "url": "https://www.sokamal.com/products/dpl-5431-suit",
+      "vendor": "Lawn-vol-2-26",
+      "type": "2026-SS-VOL2",
+      "description": "<p><strong>Product Description:</strong><br>A celebration of elegance and artistry, this three-piece embroidered &amp; Printed lawn ensemble is designed to leave a lasting impression. Intricate threadwork harmonizes beautifully, creating a look that is both sophisticated and contemporary. The ensemble is complemented by a richly detailed, Lawn printed dupatta that enhances its regal appeal. Ideal for intimate soirées, it embodies graceful luxury with ease.<br></p>\n<p><strong>Product Details:</strong><br></p>\n<div><span>DYED EMBROIDERED LAWN SHIRT </span></div>\n<div><span>DIGITAL PRINTED LAWN DUPATTA </span></div>\n<div><span>DYED EMBROIDERED LAWN TROUSER </span></div>\n<div><span>EMBROIDERED FRONT </span></div>\n<div><span>EMBROIDERED BORDER</span></div>",
+      "tags": [
+        "2026",
+        "2026-SS-VOL2",
+        "3 Pc",
+        "Eid Edit 26",
+        "Summer",
+        "Summer2024",
+        "Unstitched",
+        "Vacation Edit",
+        "vacation festive"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0477/5614/8892/files/5431_1.jpg?v=1781339653",
+        "https://cdn.shopify.com/s/files/1/0477/5614/8892/files/5431_1s.jpg?v=1781339653",
+        "https://cdn.shopify.com/s/files/1/0477/5614/8892/files/5431_2.jpg?v=1781339653",
+        "https://cdn.shopify.com/s/files/1/0477/5614/8892/files/5431_3.jpg?v=1781339653",
+        "https://cdn.shopify.com/s/files/1/0477/5614/8892/files/5431_4.jpg?v=1781339653"
+      ],
+      "options": [
+        {
+          "name": "Fabric",
+          "position": 1,
+          "values": [
+            "LAWN"
+          ]
+        },
+        {
+          "name": "No. Of Pieces",
+          "position": 2,
+          "values": [
+            "3PC DYD SHIRT + DYD TROUSER + LAWN DUPATA W/EMB"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 3,
+          "values": [
+            "UNSTITCHED"
+          ]
+        }
+      ],
+      "variants": {
+        "46705030791324": {
+          "id": "46705030791324",
+          "title": "LAWN / 3PC DYD SHIRT + DYD TROUSER + LAWN DUPATA W/EMB / UNSTITCHED",
+          "options": [
+            "LAWN",
+            "3PC DYD SHIRT + DYD TROUSER + LAWN DUPATA W/EMB",
+            "UNSTITCHED"
+          ],
+          "sku": "LA03418-Std-LGR",
+          "available": true,
+          "price": 475000,
+          "compare_at_price": 950000
+        }
+      },
+      "available": true
+    },
     "8981144371356": {
       "id": "8981144371356",
       "title": "Embroidered - 3 Pc Lawn Suit",
@@ -73436,12 +73502,12 @@
             "3PC DP SHIRT + DP TROUSER + LAWN DUPATA W/EMB"
           ],
           "sku": "LA03455-Std-RED",
-          "available": false,
+          "available": true,
           "price": 360000,
           "compare_at_price": 720000
         }
       },
-      "available": false
+      "available": true
     },
     "9013123907740": {
       "id": "9013123907740",
@@ -73603,12 +73669,12 @@
             "3PC DP SHIRT + DP TROUSER + LAWN DUPATA W/EMB"
           ],
           "sku": "LA03458-Std-BLU",
-          "available": false,
+          "available": true,
           "price": 360000,
           "compare_at_price": 720000
         }
       },
-      "available": false
+      "available": true
     },
     "9022772347036": {
       "id": "9022772347036",
@@ -74235,12 +74301,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03556-Std-BLU",
-          "available": false,
+          "available": true,
           "price": 370000,
           "compare_at_price": 740000
         }
       },
-      "available": false
+      "available": true
     },
     "9142148989084": {
       "id": "9142148989084",
@@ -167435,7 +167501,7 @@
             "L"
           ],
           "sku": "MK11123-LRG-PNK",
-          "available": false,
+          "available": true,
           "price": 1850000,
           "compare_at_price": 1850000
         },
@@ -167448,7 +167514,7 @@
             "M"
           ],
           "sku": "MK11123-MED-PNK",
-          "available": false,
+          "available": true,
           "price": 1850000,
           "compare_at_price": 1850000
         },
@@ -167461,12 +167527,12 @@
             "S"
           ],
           "sku": "MK11123-SML-PNK",
-          "available": false,
+          "available": true,
           "price": 1850000,
           "compare_at_price": 1850000
         }
       },
-      "available": false
+      "available": true
     },
     "6684450586780": {
       "id": "6684450586780",
@@ -204303,12 +204369,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03360-Std-BLK",
-          "available": false,
+          "available": true,
           "price": 227500,
           "compare_at_price": 455000
         }
       },
-      "available": false
+      "available": true
     },
     "8813593198748": {
       "id": "8813593198748",
@@ -229033,12 +229099,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03331-Std-GRN",
-          "available": true,
+          "available": false,
           "price": 285000,
           "compare_at_price": 570000
         }
       },
-      "available": true
+      "available": false
     },
     "8807124009116": {
       "id": "8807124009116",
@@ -229354,12 +229420,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03347-Std-GRY",
-          "available": true,
+          "available": false,
           "price": 312500,
           "compare_at_price": 625000
         }
       },
-      "available": true
+      "available": false
     },
     "8813593460892": {
       "id": "8813593460892",
@@ -230806,12 +230872,12 @@
             "UNSTITCHED"
           ],
           "sku": "LA03508-Std-MON",
-          "available": false,
+          "available": true,
           "price": 312500,
           "compare_at_price": 625000
         }
       },
-      "available": false
+      "available": true
     },
     "9095459143836": {
       "id": "9095459143836",
