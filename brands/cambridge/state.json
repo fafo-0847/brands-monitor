@@ -3,7 +3,7 @@
   "source": "https://thecambridgeshop.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-20T09:13:46.718068+00:00",
+  "checked_at": "2026-11-20T22:08:31.172150+00:00",
   "products": {
     "9733898731815": {
       "id": "9733898731815",
@@ -13981,7 +13981,7 @@
             "15"
           ],
           "sku": "BAP5-07",
-          "available": true,
+          "available": false,
           "price": 699650,
           "compare_at_price": 999500
         },
@@ -14659,7 +14659,7 @@
             "15"
           ],
           "sku": "BAP5-19",
-          "available": true,
+          "available": false,
           "price": 699650,
           "compare_at_price": 999500
         },
@@ -14719,7 +14719,7 @@
             "17½"
           ],
           "sku": "BAP5-19",
-          "available": true,
+          "available": false,
           "price": 699650,
           "compare_at_price": 999500
         }
@@ -32261,7 +32261,7 @@
             "XS"
           ],
           "sku": "W25TSH01",
-          "available": true,
+          "available": false,
           "price": 189750,
           "compare_at_price": 379500
         },
@@ -43468,6 +43468,126 @@
       },
       "available": false
     },
+    "10588674949415": {
+      "id": "10588674949415",
+      "title": "BREED LEATHER FORMAL REVERSIBLE BELT",
+      "handle": "belts-btl26-14-brown",
+      "url": "https://thecambridgeshop.com/products/belts-btl26-14-brown",
+      "vendor": "ACCESSORIES",
+      "type": "100% Leather",
+      "description": "<p><strong>Product Details:</strong></p>\n<ul>\n<li>100% Breed leather belt is designed for comfort, style, and easy pairing with any outfit.</li>\n<li>Sleek, smooth finish for a timeless look</li>\n<li>Reversible square buckle for versatile styling</li>\n<li>35 mm width, ideal for pairing with formal trousers</li>\n<li>Perfect for office, business meetings, and smart occasions</li>\n</ul>\n<p><strong>Size &amp; Fit:</strong><br>Length is measured from the buckle to the center hole for an accurate fit.</p>\n<hr>\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n<div class=\"index-tableContainer\">\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Material</div>\n<div class=\"index-rowValue\">100% Breed Leather</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Buckle</div>\n<div class=\"index-rowValue\">Reversible Square Buckle</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Width</div>\n<div class=\"index-rowValue\">35 mm</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Style</div>\n<div class=\"index-rowValue\">Formal / Business Casual</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Reversible</div>\n<div class=\"index-rowValue\">Yes</div>\n</div>\n</div>\n<style>\n.index-tableContainer {\n  display: flex;\n  flex-wrap: wrap;\n}\n.index-row {\n  flex: 45%;\n  margin: 0 5% 10px 0;\n}\n.index-rowKey {\n  font-size: 12px;\n  opacity: 0.7;\n  padding-top: 5px;\n}\n.index-rowValue {\n  border-bottom: 1px solid #3333332e;\n  font-size: 12px;\n  padding-bottom: 5px;\n}\n</style>",
+      "tags": [
+        "2026",
+        "ACCESSORIES",
+        "BLACK/TAN",
+        "Belts",
+        "Cambridge",
+        "Leather",
+        "New"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTL26-14.jpg?v=1795175701",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTL26-14_2.jpg?v=1795175700",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTL26-14_3.jpg?v=1795175700",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTL26-14_4.jpg?v=1795175700"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "DARK BROWN"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+          ]
+        }
+      ],
+      "variants": {
+        "52673318682919": {
+          "id": "52673318682919",
+          "title": "DARK BROWN / 34",
+          "options": [
+            "DARK BROWN",
+            "34"
+          ],
+          "sku": "BTL26-14",
+          "available": true,
+          "price": 799500,
+          "compare_at_price": 799500
+        },
+        "52673318715687": {
+          "id": "52673318715687",
+          "title": "DARK BROWN / 36",
+          "options": [
+            "DARK BROWN",
+            "36"
+          ],
+          "sku": "BTL26-14",
+          "available": true,
+          "price": 799500,
+          "compare_at_price": 799500
+        },
+        "52673318748455": {
+          "id": "52673318748455",
+          "title": "DARK BROWN / 38",
+          "options": [
+            "DARK BROWN",
+            "38"
+          ],
+          "sku": "BTL26-14",
+          "available": true,
+          "price": 799500,
+          "compare_at_price": 799500
+        },
+        "52673318781223": {
+          "id": "52673318781223",
+          "title": "DARK BROWN / 40",
+          "options": [
+            "DARK BROWN",
+            "40"
+          ],
+          "sku": "BTL26-14",
+          "available": false,
+          "price": 799500,
+          "compare_at_price": 799500
+        },
+        "52673318813991": {
+          "id": "52673318813991",
+          "title": "DARK BROWN / 42",
+          "options": [
+            "DARK BROWN",
+            "42"
+          ],
+          "sku": "BTL26-14",
+          "available": false,
+          "price": 799500,
+          "compare_at_price": 799500
+        },
+        "52673318846759": {
+          "id": "52673318846759",
+          "title": "DARK BROWN / 44",
+          "options": [
+            "DARK BROWN",
+            "44"
+          ],
+          "sku": "BTL26-14",
+          "available": false,
+          "price": 799500,
+          "compare_at_price": 799500
+        }
+      },
+      "available": true
+    },
     "6674972966998": {
       "id": "6674972966998",
       "title": "Bright Red Line",
@@ -53425,6 +53545,399 @@
       },
       "available": false
     },
+    "10567780565287": {
+      "id": "10567780565287",
+      "title": "CASUAL LEATHER BELT",
+      "handle": "belts-btlc2601-dark-brown",
+      "url": "https://thecambridgeshop.com/products/belts-btlc2601-dark-brown",
+      "vendor": "ACCESSORIES",
+      "type": "100% Leather",
+      "description": "<p><strong>Product Details:</strong></p>\n<ul>\n<li>Casual belt crafted from 100% Leather</li>\n<li>Sleek, smooth finish for everyday casual wear</li>\n<li>Fixed square buckle for a clean, versatile look</li>\n<li>40 mm width, perfect for pairing with jeans or chinos</li>\n<li>Ideal for casual outings and weekend styling</li>\n</ul>\n<p><strong>Size &amp; Fit:</strong><br>Length is measured from the buckle to the centre hole for an accurate fit.</p>\n<hr>\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n<div class=\"index-tableContainer\">\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Material</div>\n<div class=\"index-rowValue\">100% Cow Milled Leather</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Buckle</div>\n<div class=\"index-rowValue\">Fixed Buckle</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Width</div>\n<div class=\"index-rowValue\">40 mm</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Style</div>\n<div class=\"index-rowValue\">Casual</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Reversible</div>\n<div class=\"index-rowValue\">No</div>\n</div>\n</div>\n<style>\n.index-tableContainer {\n  display: flex;\n  flex-wrap: wrap;\n}\n.index-row {\n  flex: 45%;\n  margin: 0 5% 10px 0;\n}\n.index-rowKey {\n  font-size: 12px;\n  opacity: 0.7;\n  padding-top: 5px;\n}\n.index-rowValue {\n  border-bottom: 1px solid #3333332e;\n  font-size: 12px;\n  padding-bottom: 5px;\n}\n</style>",
+      "tags": [
+        "2026",
+        "ACCESSORIES",
+        "Belts",
+        "Cambridge",
+        "Leather",
+        "New"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2601-1.jpg?v=1794648447",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2601-2.jpg?v=1794648447",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2601.jpg?v=1794648447"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "DARK BROWN"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+          ]
+        }
+      ],
+      "variants": {
+        "52609792639271": {
+          "id": "52609792639271",
+          "title": "DARK BROWN / 32",
+          "options": [
+            "DARK BROWN",
+            "32"
+          ],
+          "sku": "BTLC2601",
+          "available": false,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792672039": {
+          "id": "52609792672039",
+          "title": "DARK BROWN / 34",
+          "options": [
+            "DARK BROWN",
+            "34"
+          ],
+          "sku": "BTLC2601",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792704807": {
+          "id": "52609792704807",
+          "title": "DARK BROWN / 36",
+          "options": [
+            "DARK BROWN",
+            "36"
+          ],
+          "sku": "BTLC2601",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792737575": {
+          "id": "52609792737575",
+          "title": "DARK BROWN / 38",
+          "options": [
+            "DARK BROWN",
+            "38"
+          ],
+          "sku": "BTLC2601",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792770343": {
+          "id": "52609792770343",
+          "title": "DARK BROWN / 40",
+          "options": [
+            "DARK BROWN",
+            "40"
+          ],
+          "sku": "BTLC2601",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792803111": {
+          "id": "52609792803111",
+          "title": "DARK BROWN / 42",
+          "options": [
+            "DARK BROWN",
+            "42"
+          ],
+          "sku": "BTLC2601",
+          "available": false,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792835879": {
+          "id": "52609792835879",
+          "title": "DARK BROWN / 44",
+          "options": [
+            "DARK BROWN",
+            "44"
+          ],
+          "sku": "BTLC2601",
+          "available": false,
+          "price": 589500,
+          "compare_at_price": 589500
+        }
+      },
+      "available": true
+    },
+    "10567780598055": {
+      "id": "10567780598055",
+      "title": "CASUAL LEATHER BELT",
+      "handle": "belts-btlc2602-black",
+      "url": "https://thecambridgeshop.com/products/belts-btlc2602-black",
+      "vendor": "ACCESSORIES",
+      "type": "100% Leather",
+      "description": "<p><strong>Product Details:</strong></p>\n<ul>\n<li>Casual belt crafted from 100% Leather</li>\n<li>Sleek, smooth finish for everyday casual wear</li>\n<li>Fixed square buckle for a clean, versatile look</li>\n<li>40 mm width, perfect for pairing with jeans or chinos</li>\n<li>Ideal for casual outings and weekend styling</li>\n</ul>\n<p><strong>Size &amp; Fit:</strong><br>Length is measured from the buckle to the centre hole for an accurate fit.</p>\n<hr>\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n<div class=\"index-tableContainer\">\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Material</div>\n<div class=\"index-rowValue\">100% Cow Milled Leather</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Buckle</div>\n<div class=\"index-rowValue\">Fixed Buckle</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Width</div>\n<div class=\"index-rowValue\">40 mm</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Style</div>\n<div class=\"index-rowValue\">Casual</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Reversible</div>\n<div class=\"index-rowValue\">No</div>\n</div>\n</div>\n<style>\n.index-tableContainer {\n  display: flex;\n  flex-wrap: wrap;\n}\n.index-row {\n  flex: 45%;\n  margin: 0 5% 10px 0;\n}\n.index-rowKey {\n  font-size: 12px;\n  opacity: 0.7;\n  padding-top: 5px;\n}\n.index-rowValue {\n  border-bottom: 1px solid #3333332e;\n  font-size: 12px;\n  padding-bottom: 5px;\n}\n</style>",
+      "tags": [
+        "2026",
+        "ACCESSORIES",
+        "Belts",
+        "Cambridge",
+        "Leather",
+        "New"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2602-1.jpg?v=1794648485",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2602-2.jpg?v=1794648485",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2602.jpg?v=1794648485"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "BLACK"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+          ]
+        }
+      ],
+      "variants": {
+        "52609792868647": {
+          "id": "52609792868647",
+          "title": "BLACK / 32",
+          "options": [
+            "BLACK",
+            "32"
+          ],
+          "sku": "BTLC2602",
+          "available": false,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792901415": {
+          "id": "52609792901415",
+          "title": "BLACK / 34",
+          "options": [
+            "BLACK",
+            "34"
+          ],
+          "sku": "BTLC2602",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792934183": {
+          "id": "52609792934183",
+          "title": "BLACK / 36",
+          "options": [
+            "BLACK",
+            "36"
+          ],
+          "sku": "BTLC2602",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792966951": {
+          "id": "52609792966951",
+          "title": "BLACK / 38",
+          "options": [
+            "BLACK",
+            "38"
+          ],
+          "sku": "BTLC2602",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609792999719": {
+          "id": "52609792999719",
+          "title": "BLACK / 40",
+          "options": [
+            "BLACK",
+            "40"
+          ],
+          "sku": "BTLC2602",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609793032487": {
+          "id": "52609793032487",
+          "title": "BLACK / 42",
+          "options": [
+            "BLACK",
+            "42"
+          ],
+          "sku": "BTLC2602",
+          "available": false,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609793065255": {
+          "id": "52609793065255",
+          "title": "BLACK / 44",
+          "options": [
+            "BLACK",
+            "44"
+          ],
+          "sku": "BTLC2602",
+          "available": false,
+          "price": 589500,
+          "compare_at_price": 589500
+        }
+      },
+      "available": true
+    },
+    "10567780663591": {
+      "id": "10567780663591",
+      "title": "CASUAL LEATHER BELT",
+      "handle": "belts-btlc2603-beige",
+      "url": "https://thecambridgeshop.com/products/belts-btlc2603-beige",
+      "vendor": "ACCESSORIES",
+      "type": "100% Leather",
+      "description": "<p><strong>Product Details:</strong></p>\n<ul>\n<li>Casual belt crafted from 100% Leather</li>\n<li>Sleek, smooth finish for everyday casual wear</li>\n<li>Fixed square buckle for a clean, versatile look</li>\n<li>40 mm width, perfect for pairing with jeans or chinos</li>\n<li>Ideal for casual outings and weekend styling</li>\n</ul>\n<p><strong>Size &amp; Fit:</strong><br>Length is measured from the buckle to the centre hole for an accurate fit.</p>\n<hr>\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n<div class=\"index-tableContainer\">\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Material</div>\n<div class=\"index-rowValue\">100% Cow Milled Leather</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Buckle</div>\n<div class=\"index-rowValue\">Fixed Buckle</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Width</div>\n<div class=\"index-rowValue\">40 mm</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Style</div>\n<div class=\"index-rowValue\">Casual</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Reversible</div>\n<div class=\"index-rowValue\">No</div>\n</div>\n</div>\n<style>\n.index-tableContainer {\n  display: flex;\n  flex-wrap: wrap;\n}\n.index-row {\n  flex: 45%;\n  margin: 0 5% 10px 0;\n}\n.index-rowKey {\n  font-size: 12px;\n  opacity: 0.7;\n  padding-top: 5px;\n}\n.index-rowValue {\n  border-bottom: 1px solid #3333332e;\n  font-size: 12px;\n  padding-bottom: 5px;\n}\n</style>",
+      "tags": [
+        "2026",
+        "ACCESSORIES",
+        "Belts",
+        "Cambridge",
+        "Leather",
+        "New"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2603-1.jpg?v=1794648518",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2603-2.jpg?v=1794648518",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2603.jpg?v=1794648519"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "BROWN"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+          ]
+        }
+      ],
+      "variants": {
+        "52609793130791": {
+          "id": "52609793130791",
+          "title": "BROWN / 32",
+          "options": [
+            "BROWN",
+            "32"
+          ],
+          "sku": "BTLC2603",
+          "available": false,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609793163559": {
+          "id": "52609793163559",
+          "title": "BROWN / 34",
+          "options": [
+            "BROWN",
+            "34"
+          ],
+          "sku": "BTLC2603",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609793196327": {
+          "id": "52609793196327",
+          "title": "BROWN / 36",
+          "options": [
+            "BROWN",
+            "36"
+          ],
+          "sku": "BTLC2603",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609793229095": {
+          "id": "52609793229095",
+          "title": "BROWN / 38",
+          "options": [
+            "BROWN",
+            "38"
+          ],
+          "sku": "BTLC2603",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609793261863": {
+          "id": "52609793261863",
+          "title": "BROWN / 40",
+          "options": [
+            "BROWN",
+            "40"
+          ],
+          "sku": "BTLC2603",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609793294631": {
+          "id": "52609793294631",
+          "title": "BROWN / 42",
+          "options": [
+            "BROWN",
+            "42"
+          ],
+          "sku": "BTLC2603",
+          "available": false,
+          "price": 589500,
+          "compare_at_price": 589500
+        },
+        "52609793327399": {
+          "id": "52609793327399",
+          "title": "BROWN / 44",
+          "options": [
+            "BROWN",
+            "44"
+          ],
+          "sku": "BTLC2603",
+          "available": true,
+          "price": 589500,
+          "compare_at_price": 589500
+        }
+      },
+      "available": true
+    },
     "9922696413479": {
       "id": "9922696413479",
       "title": "Casual Leather Belt - Black",
@@ -53966,399 +54479,6 @@
           "available": false,
           "price": 869500,
           "compare_at_price": 869500
-        }
-      },
-      "available": true
-    },
-    "10567780565287": {
-      "id": "10567780565287",
-      "title": "Casual Sueded Leather Belt",
-      "handle": "belts-btlc2601-dark-brown",
-      "url": "https://thecambridgeshop.com/products/belts-btlc2601-dark-brown",
-      "vendor": "ACCESSORIES",
-      "type": "100% Leather",
-      "description": "<p><strong>Product Details:</strong></p> \n<ul>\n  <li>Casual belt crafted from 100% Cow Milled Leather</li>\n  <li>Sleek, smooth finish for everyday casual wear</li>\n  <li>Fixed square buckle for a clean, versatile look</li>\n  <li>40 mm width, perfect for pairing with jeans or chinos</li>\n  <li>Ideal for casual outings and weekend styling</li>\n</ul>\n\n<p><strong>Size &amp; Fit:</strong><br>\nLength is measured from the buckle to the centre hole for an accurate fit.\n</p>\n\n<hr>\n\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n\n<div class=\"index-tableContainer\">\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Material</div>\n    <div class=\"index-rowValue\">100% Cow Milled Leather</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Buckle</div>\n    <div class=\"index-rowValue\">Fixed Buckle</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Width</div>\n    <div class=\"index-rowValue\">40 mm</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Style</div>\n    <div class=\"index-rowValue\">Casual</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Reversible</div>\n    <div class=\"index-rowValue\">No</div>\n  </div>\n</div>\n\n<style>\n.index-tableContainer {\n  display: flex;\n  flex-wrap: wrap;\n}\n.index-row {\n  flex: 45%;\n  margin: 0 5% 10px 0;\n}\n.index-rowKey {\n  font-size: 12px;\n  opacity: 0.7;\n  padding-top: 5px;\n}\n.index-rowValue {\n  border-bottom: 1px solid #3333332e;\n  font-size: 12px;\n  padding-bottom: 5px;\n}\n</style>\n",
-      "tags": [
-        "2026",
-        "ACCESSORIES",
-        "Belts",
-        "Cambridge",
-        "Leather",
-        "New"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2601-1.jpg?v=1794648447",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2601-2.jpg?v=1794648447",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2601.jpg?v=1794648447"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "DARK BROWN"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "32",
-            "34",
-            "36",
-            "38",
-            "40",
-            "42",
-            "44"
-          ]
-        }
-      ],
-      "variants": {
-        "52609792639271": {
-          "id": "52609792639271",
-          "title": "DARK BROWN / 32",
-          "options": [
-            "DARK BROWN",
-            "32"
-          ],
-          "sku": "BTLC2601",
-          "available": false,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792672039": {
-          "id": "52609792672039",
-          "title": "DARK BROWN / 34",
-          "options": [
-            "DARK BROWN",
-            "34"
-          ],
-          "sku": "BTLC2601",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792704807": {
-          "id": "52609792704807",
-          "title": "DARK BROWN / 36",
-          "options": [
-            "DARK BROWN",
-            "36"
-          ],
-          "sku": "BTLC2601",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792737575": {
-          "id": "52609792737575",
-          "title": "DARK BROWN / 38",
-          "options": [
-            "DARK BROWN",
-            "38"
-          ],
-          "sku": "BTLC2601",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792770343": {
-          "id": "52609792770343",
-          "title": "DARK BROWN / 40",
-          "options": [
-            "DARK BROWN",
-            "40"
-          ],
-          "sku": "BTLC2601",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792803111": {
-          "id": "52609792803111",
-          "title": "DARK BROWN / 42",
-          "options": [
-            "DARK BROWN",
-            "42"
-          ],
-          "sku": "BTLC2601",
-          "available": false,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792835879": {
-          "id": "52609792835879",
-          "title": "DARK BROWN / 44",
-          "options": [
-            "DARK BROWN",
-            "44"
-          ],
-          "sku": "BTLC2601",
-          "available": false,
-          "price": 589500,
-          "compare_at_price": 589500
-        }
-      },
-      "available": true
-    },
-    "10567780598055": {
-      "id": "10567780598055",
-      "title": "Casual Sueded Leather Belt",
-      "handle": "belts-btlc2602-black",
-      "url": "https://thecambridgeshop.com/products/belts-btlc2602-black",
-      "vendor": "ACCESSORIES",
-      "type": "100% Leather",
-      "description": "<p><strong>Product Details:</strong></p> \n<ul>\n  <li>Casual belt crafted from 100% Cow Milled Leather</li>\n  <li>Sleek, smooth finish for everyday casual wear</li>\n  <li>Fixed square buckle for a clean, versatile look</li>\n  <li>40 mm width, perfect for pairing with jeans or chinos</li>\n  <li>Ideal for casual outings and weekend styling</li>\n</ul>\n\n<p><strong>Size &amp; Fit:</strong><br>\nLength is measured from the buckle to the centre hole for an accurate fit.\n</p>\n\n<hr>\n\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n\n<div class=\"index-tableContainer\">\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Material</div>\n    <div class=\"index-rowValue\">100% Cow Milled Leather</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Buckle</div>\n    <div class=\"index-rowValue\">Fixed Buckle</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Width</div>\n    <div class=\"index-rowValue\">40 mm</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Style</div>\n    <div class=\"index-rowValue\">Casual</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Reversible</div>\n    <div class=\"index-rowValue\">No</div>\n  </div>\n</div>\n\n<style>\n.index-tableContainer {\n  display: flex;\n  flex-wrap: wrap;\n}\n.index-row {\n  flex: 45%;\n  margin: 0 5% 10px 0;\n}\n.index-rowKey {\n  font-size: 12px;\n  opacity: 0.7;\n  padding-top: 5px;\n}\n.index-rowValue {\n  border-bottom: 1px solid #3333332e;\n  font-size: 12px;\n  padding-bottom: 5px;\n}\n</style>\n",
-      "tags": [
-        "2026",
-        "ACCESSORIES",
-        "Belts",
-        "Cambridge",
-        "Leather",
-        "New"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2602-1.jpg?v=1794648485",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2602-2.jpg?v=1794648485",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2602.jpg?v=1794648485"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "BLACK"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "32",
-            "34",
-            "36",
-            "38",
-            "40",
-            "42",
-            "44"
-          ]
-        }
-      ],
-      "variants": {
-        "52609792868647": {
-          "id": "52609792868647",
-          "title": "BLACK / 32",
-          "options": [
-            "BLACK",
-            "32"
-          ],
-          "sku": "BTLC2602",
-          "available": false,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792901415": {
-          "id": "52609792901415",
-          "title": "BLACK / 34",
-          "options": [
-            "BLACK",
-            "34"
-          ],
-          "sku": "BTLC2602",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792934183": {
-          "id": "52609792934183",
-          "title": "BLACK / 36",
-          "options": [
-            "BLACK",
-            "36"
-          ],
-          "sku": "BTLC2602",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792966951": {
-          "id": "52609792966951",
-          "title": "BLACK / 38",
-          "options": [
-            "BLACK",
-            "38"
-          ],
-          "sku": "BTLC2602",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609792999719": {
-          "id": "52609792999719",
-          "title": "BLACK / 40",
-          "options": [
-            "BLACK",
-            "40"
-          ],
-          "sku": "BTLC2602",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609793032487": {
-          "id": "52609793032487",
-          "title": "BLACK / 42",
-          "options": [
-            "BLACK",
-            "42"
-          ],
-          "sku": "BTLC2602",
-          "available": false,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609793065255": {
-          "id": "52609793065255",
-          "title": "BLACK / 44",
-          "options": [
-            "BLACK",
-            "44"
-          ],
-          "sku": "BTLC2602",
-          "available": false,
-          "price": 589500,
-          "compare_at_price": 589500
-        }
-      },
-      "available": true
-    },
-    "10567780663591": {
-      "id": "10567780663591",
-      "title": "Casual Sueded Leather Belt",
-      "handle": "belts-btlc2603-beige",
-      "url": "https://thecambridgeshop.com/products/belts-btlc2603-beige",
-      "vendor": "ACCESSORIES",
-      "type": "100% Leather",
-      "description": "<p><strong>Product Details:</strong></p> \n<ul>\n  <li>Casual belt crafted from 100% Cow Milled Leather</li>\n  <li>Sleek, smooth finish for everyday casual wear</li>\n  <li>Fixed square buckle for a clean, versatile look</li>\n  <li>40 mm width, perfect for pairing with jeans or chinos</li>\n  <li>Ideal for casual outings and weekend styling</li>\n</ul>\n\n<p><strong>Size &amp; Fit:</strong><br>\nLength is measured from the buckle to the centre hole for an accurate fit.\n</p>\n\n<hr>\n\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n\n<div class=\"index-tableContainer\">\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Material</div>\n    <div class=\"index-rowValue\">100% Cow Milled Leather</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Buckle</div>\n    <div class=\"index-rowValue\">Fixed Buckle</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Width</div>\n    <div class=\"index-rowValue\">40 mm</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Style</div>\n    <div class=\"index-rowValue\">Casual</div>\n  </div>\n\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Reversible</div>\n    <div class=\"index-rowValue\">No</div>\n  </div>\n</div>\n\n<style>\n.index-tableContainer {\n  display: flex;\n  flex-wrap: wrap;\n}\n.index-row {\n  flex: 45%;\n  margin: 0 5% 10px 0;\n}\n.index-rowKey {\n  font-size: 12px;\n  opacity: 0.7;\n  padding-top: 5px;\n}\n.index-rowValue {\n  border-bottom: 1px solid #3333332e;\n  font-size: 12px;\n  padding-bottom: 5px;\n}\n</style>\n",
-      "tags": [
-        "2026",
-        "ACCESSORIES",
-        "Belts",
-        "Cambridge",
-        "Leather",
-        "New"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2603-1.jpg?v=1794648518",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2603-2.jpg?v=1794648518",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/BTLC2603.jpg?v=1794648519"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "BROWN"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "32",
-            "34",
-            "36",
-            "38",
-            "40",
-            "42",
-            "44"
-          ]
-        }
-      ],
-      "variants": {
-        "52609793130791": {
-          "id": "52609793130791",
-          "title": "BROWN / 32",
-          "options": [
-            "BROWN",
-            "32"
-          ],
-          "sku": "BTLC2603",
-          "available": false,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609793163559": {
-          "id": "52609793163559",
-          "title": "BROWN / 34",
-          "options": [
-            "BROWN",
-            "34"
-          ],
-          "sku": "BTLC2603",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609793196327": {
-          "id": "52609793196327",
-          "title": "BROWN / 36",
-          "options": [
-            "BROWN",
-            "36"
-          ],
-          "sku": "BTLC2603",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609793229095": {
-          "id": "52609793229095",
-          "title": "BROWN / 38",
-          "options": [
-            "BROWN",
-            "38"
-          ],
-          "sku": "BTLC2603",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609793261863": {
-          "id": "52609793261863",
-          "title": "BROWN / 40",
-          "options": [
-            "BROWN",
-            "40"
-          ],
-          "sku": "BTLC2603",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609793294631": {
-          "id": "52609793294631",
-          "title": "BROWN / 42",
-          "options": [
-            "BROWN",
-            "42"
-          ],
-          "sku": "BTLC2603",
-          "available": false,
-          "price": 589500,
-          "compare_at_price": 589500
-        },
-        "52609793327399": {
-          "id": "52609793327399",
-          "title": "BROWN / 44",
-          "options": [
-            "BROWN",
-            "44"
-          ],
-          "sku": "BTLC2603",
-          "available": true,
-          "price": 589500,
-          "compare_at_price": 589500
         }
       },
       "available": true
@@ -56948,7 +57068,7 @@
             "S"
           ],
           "sku": "S26PJC01",
-          "available": true,
+          "available": false,
           "price": 258650,
           "compare_at_price": 369500
         },
@@ -57830,7 +57950,7 @@
             "XL"
           ],
           "sku": "S26PJC01",
-          "available": true,
+          "available": false,
           "price": 258650,
           "compare_at_price": 369500
         },
@@ -58088,7 +58208,7 @@
             "M"
           ],
           "sku": "S26PJC01",
-          "available": true,
+          "available": false,
           "price": 258650,
           "compare_at_price": 369500
         },
@@ -63300,8 +63420,8 @@
         "Summer 2025"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12Cabernet.jpg?v=1776488740",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12Caberneta.jpg?v=1756905185",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/69.webp?v=1795183067",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/71.webp?v=1795183066",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12Cabernetb.jpg?v=1776488740"
       ],
       "options": [
@@ -69962,9 +70082,9 @@
         "Summer 2025"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12BrightGold-1.jpg?v=1756905060",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12BrightGold-2.jpg?v=1776488720",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12BrightGold.jpg?v=1776488720"
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/72.webp?v=1795183155",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/77.webp?v=1795183155",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12BrightGold-2.jpg?v=1776488720"
       ],
       "options": [
         {
@@ -70444,8 +70564,8 @@
         "Summer 2025"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12Lavender.jpg?v=1776488790",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12Lavendera.jpg?v=1756905185",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/65.webp?v=1795182980",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/74.webp?v=1795182980",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/KSP25-12Lavenderb.jpg?v=1776488790"
       ],
       "options": [
@@ -75794,10 +75914,8 @@
         "Summer 2025"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/SAB02886.jpg?v=1756898837",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/SAB02887.jpg?v=1756898837",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/SAB02889.jpg?v=1756898837",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/SAB02892.jpg?v=1756898837",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/64.webp?v=1795182816",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/66.webp?v=1795182816",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/SAB02897.jpg?v=1756898837"
       ],
       "options": [
@@ -77489,7 +77607,7 @@
             "S"
           ],
           "sku": "S26PJC03-B",
-          "available": true,
+          "available": false,
           "price": 295600,
           "compare_at_price": 369500
         },
@@ -77940,7 +78058,7 @@
             "XXL"
           ],
           "sku": "S26PJC03-B",
-          "available": true,
+          "available": false,
           "price": 295600,
           "compare_at_price": 369500
         },
@@ -80121,7 +80239,7 @@
             "16"
           ],
           "sku": "CP6-10",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 599500
         },
@@ -83877,7 +83995,7 @@
             "XXL"
           ],
           "sku": "S25PSTC1",
-          "available": true,
+          "available": false,
           "price": 129750,
           "compare_at_price": 259500
         },
@@ -83894,7 +84012,7 @@
           "compare_at_price": 259500
         }
       },
-      "available": true
+      "available": false
     },
     "6766664777814": {
       "id": "6766664777814",
@@ -94706,7 +94824,7 @@
             "W 40 / L 30"
           ],
           "sku": "CCPS2501",
-          "available": true,
+          "available": false,
           "price": 419750,
           "compare_at_price": 839500
         },
@@ -97777,13 +97895,11 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/0021_CCJ26-03.jpg?v=1793702318",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/0022_CCJ26-03.jpg?v=1793702399",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/Ai_jacket2-back-website.jpg_1.jpg?v=1795178821",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/Ai_jacket2-flatlyback_jpg.webp?v=1795153486",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/Ai_jacket2-flatlyfront_jpg.webp?v=1795153486",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/Ai_jacket2-websize_1.webp?v=1795154457",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CCJ26-03-CU.jpg?v=1793094895",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CCJ26-03.jpg?v=1793094895",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CCJ26-03_5f2301fe-6fc5-4b3d-a9de-80736d78adfb.jpg?v=1793094895"
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CCJ26-03-CU.jpg?v=1793094895"
       ],
       "options": [
         {
@@ -99593,7 +99709,7 @@
             "S"
           ],
           "sku": "SWC27-10",
-          "available": true,
+          "available": false,
           "price": 623600,
           "compare_at_price": 779500
         },
@@ -103127,7 +103243,7 @@
             "L"
           ],
           "sku": "BCL5-33",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -104758,7 +104874,7 @@
             "XL"
           ],
           "sku": "SWC27-03",
-          "available": true,
+          "available": false,
           "price": 591600,
           "compare_at_price": 739500
         },
@@ -114610,7 +114726,7 @@
             "XXL"
           ],
           "sku": "UCRC25-1",
-          "available": true,
+          "available": false,
           "price": 459500,
           "compare_at_price": 459500
         },
@@ -122806,7 +122922,7 @@
             "M"
           ],
           "sku": "BS5-51",
-          "available": true,
+          "available": false,
           "price": 549500,
           "compare_at_price": 549500
         },
@@ -130020,7 +130136,7 @@
             "38"
           ],
           "sku": "CDSF2503",
-          "available": true,
+          "available": false,
           "price": 284750,
           "compare_at_price": 569500
         },
@@ -130097,7 +130213,7 @@
           "compare_at_price": 569500
         }
       },
-      "available": true
+      "available": false
     },
     "9983422300455": {
       "id": "9983422300455",
@@ -134439,7 +134555,7 @@
             "40"
           ],
           "sku": "CDRF2603",
-          "available": false,
+          "available": true,
           "price": 398650,
           "compare_at_price": 569500
         },
@@ -139685,7 +139801,7 @@
             "S"
           ],
           "sku": "CDS5-03",
-          "available": true,
+          "available": false,
           "price": 384650,
           "compare_at_price": 549500
         },
@@ -139750,7 +139866,7 @@
           "compare_at_price": 549500
         }
       },
-      "available": true
+      "available": false
     },
     "9026572878119": {
       "id": "9026572878119",
@@ -141739,7 +141855,7 @@
             "S"
           ],
           "sku": "SWD26-2",
-          "available": true,
+          "available": false,
           "price": 743600,
           "compare_at_price": 929500
         },
@@ -142155,7 +142271,7 @@
             "S"
           ],
           "sku": "SWD26-5",
-          "available": true,
+          "available": false,
           "price": 743600,
           "compare_at_price": 929500
         },
@@ -142191,7 +142307,7 @@
             "XL"
           ],
           "sku": "SWD26-5",
-          "available": true,
+          "available": false,
           "price": 743600,
           "compare_at_price": 929500
         },
@@ -142329,7 +142445,7 @@
             "XL"
           ],
           "sku": "SWD26-6",
-          "available": true,
+          "available": false,
           "price": 743600,
           "compare_at_price": 929500
         },
@@ -142431,7 +142547,7 @@
             "S"
           ],
           "sku": "SWD26-7",
-          "available": true,
+          "available": false,
           "price": 743600,
           "compare_at_price": 929500
         },
@@ -142467,7 +142583,7 @@
             "XL"
           ],
           "sku": "SWD26-7",
-          "available": true,
+          "available": false,
           "price": 743600,
           "compare_at_price": 929500
         },
@@ -144250,7 +144366,7 @@
             "S"
           ],
           "sku": "SWD26-35",
-          "available": true,
+          "available": false,
           "price": 823600,
           "compare_at_price": 1029500
         },
@@ -144286,7 +144402,7 @@
             "XL"
           ],
           "sku": "SWD26-35",
-          "available": true,
+          "available": false,
           "price": 823600,
           "compare_at_price": 1029500
         },
@@ -144427,7 +144543,7 @@
             "XL"
           ],
           "sku": "SWD26-36",
-          "available": true,
+          "available": false,
           "price": 823600,
           "compare_at_price": 1029500
         },
@@ -144567,7 +144683,7 @@
             "XL"
           ],
           "sku": "SWD26-37",
-          "available": true,
+          "available": false,
           "price": 823600,
           "compare_at_price": 1029500
         },
@@ -148176,7 +148292,7 @@
             "M"
           ],
           "sku": "S26PDN01",
-          "available": true,
+          "available": false,
           "price": 314650,
           "compare_at_price": 449500
         },
@@ -152066,7 +152182,7 @@
             "L"
           ],
           "sku": "W25HAF01",
-          "available": true,
+          "available": false,
           "price": 531650,
           "compare_at_price": 759500
         },
@@ -152350,7 +152466,7 @@
             "XL"
           ],
           "sku": "W25HAF01",
-          "available": true,
+          "available": false,
           "price": 531650,
           "compare_at_price": 759500
         },
@@ -153122,7 +153238,7 @@
             "M"
           ],
           "sku": "W25SAF01",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -153146,7 +153262,7 @@
             "XL"
           ],
           "sku": "W25SAF01",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -153175,7 +153291,7 @@
           "compare_at_price": 599500
         }
       },
-      "available": true
+      "available": false
     },
     "9969119953191": {
       "id": "9969119953191",
@@ -153258,7 +153374,7 @@
             "M"
           ],
           "sku": "W25SAF01",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -153294,7 +153410,7 @@
             "XXL"
           ],
           "sku": "W25SAF01",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -153522,7 +153638,7 @@
             "S"
           ],
           "sku": "W25SAF01",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -153558,7 +153674,7 @@
             "XL"
           ],
           "sku": "W25SAF01",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -153570,7 +153686,7 @@
             "XXL"
           ],
           "sku": "W25SAF01",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -154605,7 +154721,7 @@
             "M"
           ],
           "sku": "W25HSF01",
-          "available": true,
+          "available": false,
           "price": 447650,
           "compare_at_price": 639500
         },
@@ -155427,7 +155543,7 @@
             "L"
           ],
           "sku": "W25HSF01-B",
-          "available": false,
+          "available": true,
           "price": 383700,
           "compare_at_price": 639500
         },
@@ -155468,7 +155584,7 @@
           "compare_at_price": 639500
         }
       },
-      "available": false
+      "available": true
     },
     "10178548007207": {
       "id": "10178548007207",
@@ -156348,7 +156464,7 @@
           ],
           "sku": "FEC-2401",
           "available": true,
-          "price": 599500,
+          "price": 509500,
           "compare_at_price": 599500
         }
       },
@@ -187448,7 +187564,7 @@
             "100% Cotton"
           ],
           "sku": "BCD-04",
-          "available": true,
+          "available": false,
           "price": 304750,
           "compare_at_price": 609500
         },
@@ -187461,7 +187577,7 @@
             "100% Cotton"
           ],
           "sku": "BCD-04",
-          "available": true,
+          "available": false,
           "price": 304750,
           "compare_at_price": 609500
         },
@@ -187487,7 +187603,7 @@
             "100% Cotton"
           ],
           "sku": "BCD-04",
-          "available": true,
+          "available": false,
           "price": 304750,
           "compare_at_price": 609500
         },
@@ -212479,7 +212595,7 @@
             "M"
           ],
           "sku": "W25SGF01",
-          "available": true,
+          "available": false,
           "price": 412650,
           "compare_at_price": 589500
         },
@@ -212922,7 +213038,7 @@
             "XL"
           ],
           "sku": "W25SGF02",
-          "available": true,
+          "available": false,
           "price": 370650,
           "compare_at_price": 529500
         },
@@ -220930,7 +221046,7 @@
             "17"
           ],
           "sku": "BAP5-02",
-          "available": true,
+          "available": false,
           "price": 699650,
           "compare_at_price": 999500
         },
@@ -230056,7 +230172,7 @@
             "100% Cotton"
           ],
           "sku": "BCD-02",
-          "available": true,
+          "available": false,
           "price": 384650,
           "compare_at_price": 549500
         },
@@ -230069,7 +230185,7 @@
             "100% Cotton"
           ],
           "sku": "BCD-02",
-          "available": true,
+          "available": false,
           "price": 384650,
           "compare_at_price": 549500
         },
@@ -237021,7 +237137,7 @@
             "Cotton"
           ],
           "sku": "BCL5-48",
-          "available": true,
+          "available": false,
           "price": 419650,
           "compare_at_price": 599500
         },
@@ -256080,7 +256196,7 @@
             "36"
           ],
           "sku": "BLZI26-14",
-          "available": true,
+          "available": false,
           "price": 3314575,
           "compare_at_price": 3899500
         },
@@ -261318,7 +261434,7 @@
             "L"
           ],
           "sku": "W25JSF01",
-          "available": true,
+          "available": false,
           "price": 489650,
           "compare_at_price": 699500
         },
@@ -262137,7 +262253,7 @@
           ],
           "sku": "FIF-2501",
           "available": true,
-          "price": 549500,
+          "price": 467000,
           "compare_at_price": 549500
         }
       },
@@ -262240,7 +262356,7 @@
           ],
           "sku": "FIB-2501",
           "available": true,
-          "price": 549500,
+          "price": 467000,
           "compare_at_price": 549500
         }
       },
@@ -267009,7 +267125,7 @@
             "XL"
           ],
           "sku": "S26PZD01",
-          "available": false,
+          "available": true,
           "price": 489500,
           "compare_at_price": 489500
         },
@@ -269754,7 +269870,7 @@
             "XXL"
           ],
           "sku": "S26PJJ01",
-          "available": true,
+          "available": false,
           "price": 258650,
           "compare_at_price": 369500
         },
@@ -272147,7 +272263,7 @@
             "L"
           ],
           "sku": "W25TFJ01",
-          "available": false,
+          "available": true,
           "price": 199750,
           "compare_at_price": 399500
         },
@@ -272188,7 +272304,7 @@
           "compare_at_price": 399500
         }
       },
-      "available": false
+      "available": true
     },
     "10178554265895": {
       "id": "10178554265895",
@@ -281354,7 +281470,7 @@
             "M"
           ],
           "sku": "KBDW2502",
-          "available": true,
+          "available": false,
           "price": 299750,
           "compare_at_price": 599500
         },
@@ -281483,7 +281599,7 @@
             "S"
           ],
           "sku": "KBDW2502",
-          "available": true,
+          "available": false,
           "price": 299750,
           "compare_at_price": 599500
         },
@@ -286629,7 +286745,7 @@
             "XL"
           ],
           "sku": "SWD27-3",
-          "available": true,
+          "available": false,
           "price": 917575,
           "compare_at_price": 1079500
         },
@@ -295722,7 +295838,7 @@
             "XXL"
           ],
           "sku": "SWP27-3",
-          "available": true,
+          "available": false,
           "price": 1087600,
           "compare_at_price": 1359500
         },
@@ -311358,7 +311474,7 @@
             "W 33 / L 32"
           ],
           "sku": "LFPL2501",
-          "available": true,
+          "available": false,
           "price": 374750,
           "compare_at_price": 749500
         },
@@ -343443,7 +343559,7 @@
             "XL"
           ],
           "sku": "W26PSH01",
-          "available": true,
+          "available": false,
           "price": 339575,
           "compare_at_price": 399500
         },
@@ -344804,7 +344920,7 @@
             "S"
           ],
           "sku": "W26PZP01-B",
-          "available": true,
+          "available": false,
           "price": 399600,
           "compare_at_price": 499500
         },
@@ -349801,7 +349917,7 @@
             "XL"
           ],
           "sku": "W26PCFL1",
-          "available": true,
+          "available": false,
           "price": 484075,
           "compare_at_price": 569500
         },
@@ -380667,7 +380783,7 @@
             "S"
           ],
           "sku": "W25JHO01",
-          "available": true,
+          "available": false,
           "price": 489650,
           "compare_at_price": 699500
         },
@@ -380715,7 +380831,7 @@
             "XXL"
           ],
           "sku": "W25JHO01",
-          "available": true,
+          "available": false,
           "price": 489650,
           "compare_at_price": 699500
         },
@@ -383728,7 +383844,7 @@
           ],
           "sku": "FOM-2501",
           "available": true,
-          "price": 599500,
+          "price": 509500,
           "compare_at_price": 599500
         }
       },
@@ -384020,7 +384136,7 @@
             "S"
           ],
           "sku": "S26PJP01",
-          "available": true,
+          "available": false,
           "price": 244650,
           "compare_at_price": 349500
         },
@@ -384085,7 +384201,7 @@
           "compare_at_price": 349500
         }
       },
-      "available": true
+      "available": false
     },
     "10382399013159": {
       "id": "10382399013159",
@@ -390650,7 +390766,7 @@
             "XXL"
           ],
           "sku": "S26PBP01",
-          "available": true,
+          "available": false,
           "price": 409500,
           "compare_at_price": 409500
         },
@@ -401406,7 +401522,7 @@
             "L"
           ],
           "sku": "S26PJP01",
-          "available": true,
+          "available": false,
           "price": 244650,
           "compare_at_price": 349500
         },
@@ -401447,7 +401563,7 @@
           "compare_at_price": 349500
         }
       },
-      "available": true
+      "available": false
     },
     "10197264859431": {
       "id": "10197264859431",
@@ -425710,7 +425826,7 @@
             "15½"
           ],
           "sku": "BPS5-09",
-          "available": false,
+          "available": true,
           "price": 849500,
           "compare_at_price": 849500
         },
@@ -425763,7 +425879,7 @@
           "compare_at_price": 849500
         }
       },
-      "available": false
+      "available": true
     },
     "9942385590567": {
       "id": "9942385590567",
@@ -427717,7 +427833,7 @@
             "14½"
           ],
           "sku": "BPS6-08",
-          "available": false,
+          "available": true,
           "price": 899500,
           "compare_at_price": 899500
         },
@@ -431236,10 +431352,8 @@
         "knits"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CK25-02-BEIGE_1.jpg?v=1756208830",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CK25-02_1.jpg?v=1756208830",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CK25-02_4.jpg?v=1756208830",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CK25-02_5.jpg?v=1756208830"
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/67.webp?v=1795183522",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/73.webp?v=1795183522"
       ],
       "options": [
         {
@@ -431362,9 +431476,8 @@
         "knits"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CK25-04_1.jpg?v=1756208828",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CK25-04_2.jpg?v=1756208828",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CK25-04_3.jpg?v=1756208829",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/68.webp?v=1795183436",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/70.webp?v=1795183436",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CK25-04_4.jpg?v=1756208829"
       ],
       "options": [
@@ -451444,7 +451557,7 @@
             "Waist 32/31 Inseam"
           ],
           "sku": "CRTM6-09",
-          "available": true,
+          "available": false,
           "price": 799500,
           "compare_at_price": 799500
         },
@@ -493194,7 +493307,7 @@
             "L"
           ],
           "sku": "W26SSFS1",
-          "available": true,
+          "available": false,
           "price": 390575,
           "compare_at_price": 459500
         },
@@ -493673,7 +493786,7 @@
             "L"
           ],
           "sku": "W26SSFS1-B",
-          "available": false,
+          "available": true,
           "price": 275700,
           "compare_at_price": 459500
         },
@@ -499321,7 +499434,7 @@
             "S"
           ],
           "sku": "W26BFS1",
-          "available": true,
+          "available": false,
           "price": 509575,
           "compare_at_price": 599500
         },
@@ -515393,7 +515506,7 @@
             "L"
           ],
           "sku": "S26PSS01",
-          "available": true,
+          "available": false,
           "price": 328650,
           "compare_at_price": 469500
         },
@@ -515405,7 +515518,7 @@
             "XL"
           ],
           "sku": "S26PSS01",
-          "available": true,
+          "available": false,
           "price": 328650,
           "compare_at_price": 469500
         },
@@ -515521,7 +515634,7 @@
             "M"
           ],
           "sku": "S26PSS01",
-          "available": true,
+          "available": false,
           "price": 328650,
           "compare_at_price": 469500
         },
@@ -517463,7 +517576,7 @@
             "M"
           ],
           "sku": "S26PSS01",
-          "available": true,
+          "available": false,
           "price": 328650,
           "compare_at_price": 469500
         },
@@ -517616,7 +517729,7 @@
             "L"
           ],
           "sku": "S26PSS01",
-          "available": true,
+          "available": false,
           "price": 328650,
           "compare_at_price": 469500
         },
@@ -518464,7 +518577,7 @@
             "XXL"
           ],
           "sku": "S26PSS01",
-          "available": true,
+          "available": false,
           "price": 328650,
           "compare_at_price": 469500
         },
@@ -518481,7 +518594,7 @@
           "compare_at_price": 469500
         }
       },
-      "available": true
+      "available": false
     },
     "10096083763495": {
       "id": "10096083763495",
@@ -518722,7 +518835,7 @@
             "L"
           ],
           "sku": "S26PSS01",
-          "available": true,
+          "available": false,
           "price": 328650,
           "compare_at_price": 469500
         },
@@ -534559,7 +534672,7 @@
             "S"
           ],
           "sku": "PSW27-21",
-          "available": true,
+          "available": false,
           "price": 629500,
           "compare_at_price": 629500
         },
@@ -534583,7 +534696,7 @@
             "L"
           ],
           "sku": "PSW27-21",
-          "available": true,
+          "available": false,
           "price": 629500,
           "compare_at_price": 629500
         },
@@ -544347,7 +544460,7 @@
             "XL"
           ],
           "sku": "W26BSJ01",
-          "available": false,
+          "available": true,
           "price": 479600,
           "compare_at_price": 599500
         },
@@ -545372,7 +545485,7 @@
             "L"
           ],
           "sku": "W26SCO01",
-          "available": true,
+          "available": false,
           "price": 450075,
           "compare_at_price": 529500
         },
@@ -553357,7 +553470,7 @@
             "XXL"
           ],
           "sku": "CTP26-02",
-          "available": false,
+          "available": true,
           "price": 599500,
           "compare_at_price": 599500
         }
@@ -554494,7 +554607,7 @@
             "50"
           ],
           "sku": "CTTZ2601",
-          "available": false,
+          "available": true,
           "price": 999900,
           "compare_at_price": 999900
         },
@@ -554535,7 +554648,7 @@
           "compare_at_price": 999900
         }
       },
-      "available": false
+      "available": true
     },
     "10428141076775": {
       "id": "10428141076775",
@@ -563406,7 +563519,7 @@
             "W 30 / L 30"
           ],
           "sku": "CCUS2602",
-          "available": true,
+          "available": false,
           "price": 799500,
           "compare_at_price": 799500
         },
@@ -567297,7 +567410,7 @@
             "XXL"
           ],
           "sku": "UVRC25-1",
-          "available": true,
+          "available": false,
           "price": 483500,
           "compare_at_price": 483500
         },
@@ -569933,7 +570046,7 @@
             "L"
           ],
           "sku": "W25BSW01",
-          "available": true,
+          "available": false,
           "price": 244750,
           "compare_at_price": 489500
         },
@@ -571211,7 +571324,7 @@
             "XL"
           ],
           "sku": "W25JZW01",
-          "available": true,
+          "available": false,
           "price": 510650,
           "compare_at_price": 729500
         },
@@ -571492,7 +571605,7 @@
             "XL"
           ],
           "sku": "W25JZW01",
-          "available": true,
+          "available": false,
           "price": 510650,
           "compare_at_price": 729500
         },
@@ -573536,7 +573649,7 @@
             "M"
           ],
           "sku": "W26PSW01",
-          "available": false,
+          "available": true,
           "price": 424575,
           "compare_at_price": 499500
         },
@@ -573721,7 +573834,7 @@
             "S"
           ],
           "sku": "W26PSW01",
-          "available": true,
+          "available": false,
           "price": 424575,
           "compare_at_price": 499500
         },
@@ -574658,7 +574771,7 @@
             "46"
           ],
           "sku": "CCJ25-11",
-          "available": true,
+          "available": false,
           "price": 1679650,
           "compare_at_price": 2399500
         },
@@ -574706,7 +574819,7 @@
             "54"
           ],
           "sku": "CCJ25-11",
-          "available": true,
+          "available": false,
           "price": 1679650,
           "compare_at_price": 2399500
         },
@@ -574730,7 +574843,7 @@
             "58"
           ],
           "sku": "CCJ25-11",
-          "available": true,
+          "available": false,
           "price": 1679650,
           "compare_at_price": 2399500
         }
@@ -576019,7 +576132,7 @@
             "52"
           ],
           "sku": "CCJL2501",
-          "available": false,
+          "available": true,
           "price": 1259650,
           "compare_at_price": 1799500
         },
@@ -576043,7 +576156,7 @@
             "56"
           ],
           "sku": "CCJL2501",
-          "available": false,
+          "available": true,
           "price": 1259650,
           "compare_at_price": 1799500
         },
@@ -576060,7 +576173,7 @@
           "compare_at_price": 1799500
         }
       },
-      "available": false
+      "available": true
     },
     "9969118740775": {
       "id": "9969118740775",
@@ -578765,7 +578878,7 @@
             "58"
           ],
           "sku": "CCJ26-17",
-          "available": false,
+          "available": true,
           "price": 2899500,
           "compare_at_price": 2899500
         }
@@ -588557,6 +588670,294 @@
       },
       "available": false
     },
+    "10581846917415": {
+      "id": "10581846917415",
+      "title": "WOOL LONG COAT - BLACK",
+      "handle": "long-coat-clcl2601-black",
+      "url": "https://thecambridgeshop.com/products/long-coat-clcl2601-black",
+      "vendor": "Coat",
+      "type": "Long Coat",
+      "description": "<p> The Wool Long Coat is a timeless winter essential that brings elegance and sophistication to your seasonal wardrobe. Its classic appeal makes it easy to style with different outfits, offering a polished look for various occasions. Whether you're heading out for a casual day or attending a special winter event, this coat adds a refined touch to your overall appearance. </p>\n<p><strong>Features:</strong></p>\n<ul>\n<li>Crafted from premium-quality wool fabric for a refined look</li>\n<li>Features a regular fit that offers a balanced silhouette and comfortable wear</li>\n<li>Comes with full sleeves for a polished and sophisticated look</li>\n<li>Includes full lining for comfort, structure, and a smooth finish</li>\n<li>Carefully tailored to deliver a neat and well-defined appearance</li>\n<li>Ideal for casual wear and special winter events</li>\n</ul>\n<p><strong>Care:</strong></p>\n<p>Do Not Wash | Do Not Bleach I Warm Iron (Max 150C)  | Professional Dry Clean</p>\n\n<hr>\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n<div class=\"index-tableContainer\">\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Category</div>\n<div class=\"index-rowValue\">Long Coat</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fabric</div>\n<div class=\"index-rowValue\">Premium Quality Wool</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fit</div>\n<div class=\"index-rowValue\">Regular Fit</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fabric Composition</div>\n<div class=\"index-rowValue\">50% Wool, 50% Polyester\t</div>\n</div>\n\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Sleeves</div>\n<div class=\"index-rowValue\">Full Sleeves</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Lining</div>\n<div class=\"index-rowValue\">Full Lining</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Occasion</div>\n<div class=\"index-rowValue\">Casual / Winter Events</div>\n</div>\n</div>\n<style>   .index-tableContainer {     display: flex;     flex-wrap: wrap;   }   .index-row {     flex: 45%;     margin: 0 5% 10px 0;   }   .index-rowKey {     font-size: 12px;     opacity: 0.7;     padding-top: 5px;   }   .index-rowValue {     border-bottom: 1px solid #3333332e;     font-size: 12px;     padding-bottom: 5px;   } </style>\t",
+      "tags": [
+        "2026",
+        "Cambridge",
+        "Coat",
+        "Long Coat",
+        "Long-Coat-Regular-Fit-SimplifiedSizechart",
+        "New",
+        "Winter",
+        "Winter 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2601-2.jpg?v=1795167501",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2601-3.jpg?v=1795167501",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2601-4.jpg?v=1795167501",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2601.jpg?v=1795167501",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2601_7a27158c-5819-4fc1-a057-0485f282194a.jpg?v=1795167501"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "BLACK"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "52650931159335": {
+          "id": "52650931159335",
+          "title": "BLACK / S",
+          "options": [
+            "BLACK",
+            "S"
+          ],
+          "sku": "CLCL2601",
+          "available": false,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931192103": {
+          "id": "52650931192103",
+          "title": "BLACK / M",
+          "options": [
+            "BLACK",
+            "M"
+          ],
+          "sku": "CLCL2601",
+          "available": true,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931224871": {
+          "id": "52650931224871",
+          "title": "BLACK / L",
+          "options": [
+            "BLACK",
+            "L"
+          ],
+          "sku": "CLCL2601",
+          "available": true,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931257639": {
+          "id": "52650931257639",
+          "title": "BLACK / XL",
+          "options": [
+            "BLACK",
+            "XL"
+          ],
+          "sku": "CLCL2601",
+          "available": false,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        }
+      },
+      "available": true
+    },
+    "10581847015719": {
+      "id": "10581847015719",
+      "title": "WOOL LONG COAT - BROWN",
+      "handle": "long-coat-clcl2603-brown",
+      "url": "https://thecambridgeshop.com/products/long-coat-clcl2603-brown",
+      "vendor": "Coat",
+      "type": "Long Coat",
+      "description": "<p> The Wool Long Coat is a timeless winter essential that brings elegance and sophistication to your seasonal wardrobe. Its classic appeal makes it easy to style with different outfits, offering a polished look for various occasions. Whether you're heading out for a casual day or attending a special winter event, this coat adds a refined touch to your overall appearance. </p>\n<p><strong>Features:</strong></p>\n<ul>\n<li>Crafted from premium-quality wool fabric for a refined look</li>\n<li>Features a regular fit that offers a balanced silhouette and comfortable wear</li>\n<li>Comes with full sleeves for a polished and sophisticated look</li>\n<li>Includes full lining for comfort, structure, and a smooth finish</li>\n<li>Carefully tailored to deliver a neat and well-defined appearance</li>\n<li>Ideal for casual wear and special winter events</li>\n</ul>\n<p><strong>Care:</strong></p>\n<p>Do Not Wash | Do Not Bleach I Warm Iron (Max 150C)  | Professional Dry Clean</p>\n\n<hr>\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n<div class=\"index-tableContainer\">\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Category</div>\n<div class=\"index-rowValue\">Long Coat</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fabric</div>\n<div class=\"index-rowValue\">Premium Quality Wool</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fit</div>\n<div class=\"index-rowValue\">Regular Fit</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fabric Composition</div>\n<div class=\"index-rowValue\">50% Wool, 50% Polyester\t</div>\n</div>\n\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Sleeves</div>\n<div class=\"index-rowValue\">Full Sleeves</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Lining</div>\n<div class=\"index-rowValue\">Full Lining</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Occasion</div>\n<div class=\"index-rowValue\">Casual / Winter Events</div>\n</div>\n</div>\n<style>   .index-tableContainer {     display: flex;     flex-wrap: wrap;   }   .index-row {     flex: 45%;     margin: 0 5% 10px 0;   }   .index-rowKey {     font-size: 12px;     opacity: 0.7;     padding-top: 5px;   }   .index-rowValue {     border-bottom: 1px solid #3333332e;     font-size: 12px;     padding-bottom: 5px;   } </style>\t",
+      "tags": [
+        "2026",
+        "Cambridge",
+        "Coat",
+        "Long Coat",
+        "Long-Coat-Regular-Fit-SimplifiedSizechart",
+        "New",
+        "Winter",
+        "Winter 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2603-1.jpg?v=1795167694",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2603-1_2.jpg?v=1795167694",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2603-2.jpg?v=1795167694",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2603.jpg?v=1795167694",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2603_94a09126-e8bd-4b1b-b1e6-832e2bd20eba.jpg?v=1795167694"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "BROWN"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "52650931585319": {
+          "id": "52650931585319",
+          "title": "BROWN / S",
+          "options": [
+            "BROWN",
+            "S"
+          ],
+          "sku": "CLCL2603",
+          "available": false,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931618087": {
+          "id": "52650931618087",
+          "title": "BROWN / M",
+          "options": [
+            "BROWN",
+            "M"
+          ],
+          "sku": "CLCL2603",
+          "available": true,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931650855": {
+          "id": "52650931650855",
+          "title": "BROWN / L",
+          "options": [
+            "BROWN",
+            "L"
+          ],
+          "sku": "CLCL2603",
+          "available": true,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931683623": {
+          "id": "52650931683623",
+          "title": "BROWN / XL",
+          "options": [
+            "BROWN",
+            "XL"
+          ],
+          "sku": "CLCL2603",
+          "available": true,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        }
+      },
+      "available": true
+    },
+    "10581846950183": {
+      "id": "10581846950183",
+      "title": "WOOL LONG COAT - GREY",
+      "handle": "long-coat-clcl2602-grey",
+      "url": "https://thecambridgeshop.com/products/long-coat-clcl2602-grey",
+      "vendor": "Coat",
+      "type": "Long Coat",
+      "description": "<p> The Wool Long Coat is a timeless winter essential that brings elegance and sophistication to your seasonal wardrobe. Its classic appeal makes it easy to style with different outfits, offering a polished look for various occasions. Whether you're heading out for a casual day or attending a special winter event, this coat adds a refined touch to your overall appearance. </p>\n<p><strong>Features:</strong></p>\n<ul>\n<li>Crafted from premium-quality wool fabric for a refined look</li>\n<li>Features a regular fit that offers a balanced silhouette and comfortable wear</li>\n<li>Comes with full sleeves for a polished and sophisticated look</li>\n<li>Includes full lining for comfort, structure, and a smooth finish</li>\n<li>Carefully tailored to deliver a neat and well-defined appearance</li>\n<li>Ideal for casual wear and special winter events</li>\n</ul>\n<p><strong>Care:</strong></p>\n<p>Do Not Wash | Do Not Bleach I Warm Iron (Max 150C)  | Professional Dry Clean</p>\n\n<hr>\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n<div class=\"index-tableContainer\">\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Category</div>\n<div class=\"index-rowValue\">Long Coat</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fabric</div>\n<div class=\"index-rowValue\">Premium Quality Wool</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fit</div>\n<div class=\"index-rowValue\">Regular Fit</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Fabric Composition</div>\n<div class=\"index-rowValue\">50% Wool, 50% Polyester\t</div>\n</div>\n\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Sleeves</div>\n<div class=\"index-rowValue\">Full Sleeves</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Lining</div>\n<div class=\"index-rowValue\">Full Lining</div>\n</div>\n<div class=\"index-row\">\n<div class=\"index-rowKey\">Occasion</div>\n<div class=\"index-rowValue\">Casual / Winter Events</div>\n</div>\n</div>\n<style>   .index-tableContainer {     display: flex;     flex-wrap: wrap;   }   .index-row {     flex: 45%;     margin: 0 5% 10px 0;   }   .index-rowKey {     font-size: 12px;     opacity: 0.7;     padding-top: 5px;   }   .index-rowValue {     border-bottom: 1px solid #3333332e;     font-size: 12px;     padding-bottom: 5px;   } </style>\t",
+      "tags": [
+        "2026",
+        "Cambridge",
+        "Coat",
+        "Long Coat",
+        "Long-Coat-Regular-Fit-SimplifiedSizechart",
+        "New",
+        "Winter",
+        "Winter 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2602-1.jpg?v=1795167610",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2602-2.jpg?v=1795167609",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2602-3.jpg?v=1795167609",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2602.jpg?v=1795167609",
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/CLCL2602_049300dd-ca9d-4b70-b94a-a1b89b40cb57.jpg?v=1795167610"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "GREY"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "52650931290407": {
+          "id": "52650931290407",
+          "title": "GREY / S",
+          "options": [
+            "GREY",
+            "S"
+          ],
+          "sku": "CLCL2602",
+          "available": false,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931323175": {
+          "id": "52650931323175",
+          "title": "GREY / M",
+          "options": [
+            "GREY",
+            "M"
+          ],
+          "sku": "CLCL2602",
+          "available": true,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931355943": {
+          "id": "52650931355943",
+          "title": "GREY / L",
+          "options": [
+            "GREY",
+            "L"
+          ],
+          "sku": "CLCL2602",
+          "available": true,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        },
+        "52650931388711": {
+          "id": "52650931388711",
+          "title": "GREY / XL",
+          "options": [
+            "GREY",
+            "XL"
+          ],
+          "sku": "CLCL2602",
+          "available": true,
+          "price": 3499500,
+          "compare_at_price": 3499500
+        }
+      },
+      "available": true
+    },
     "6822975209558": {
       "id": "6822975209558",
       "title": "Wrinkle Free Pant",
@@ -593678,7 +594079,7 @@
             "W 36/L 30"
           ],
           "sku": "CWPS2601",
-          "available": true,
+          "available": false,
           "price": 729500,
           "compare_at_price": 729500
         },
@@ -598954,7 +599355,7 @@
             "38/30"
           ],
           "sku": "CWSS2501",
-          "available": false,
+          "available": true,
           "price": 510650,
           "compare_at_price": 729500
         },
@@ -599953,7 +600354,7 @@
             "36/30"
           ],
           "sku": "CWSS2501",
-          "available": false,
+          "available": true,
           "price": 510650,
           "compare_at_price": 729500
         },
@@ -605657,7 +606058,7 @@
             "L"
           ],
           "sku": "CAM26-09",
-          "available": true,
+          "available": false,
           "price": 342650,
           "compare_at_price": 489500
         },
@@ -608603,7 +609004,7 @@
             "L"
           ],
           "sku": "BC5-020",
-          "available": true,
+          "available": false,
           "price": 349650,
           "compare_at_price": 499500
         },
@@ -608627,7 +609028,7 @@
             "XXL"
           ],
           "sku": "BC5-020",
-          "available": true,
+          "available": false,
           "price": 349650,
           "compare_at_price": 499500
         },
@@ -609032,7 +609433,7 @@
             "XXL"
           ],
           "sku": "BC5-022",
-          "available": true,
+          "available": false,
           "price": 349650,
           "compare_at_price": 499500
         },
@@ -611078,7 +611479,7 @@
             "16"
           ],
           "sku": "BPY5-33",
-          "available": false,
+          "available": true,
           "price": 849500,
           "compare_at_price": 849500
         },
@@ -611119,7 +611520,7 @@
           "compare_at_price": 849500
         }
       },
-      "available": false
+      "available": true
     },
     "9851246739751": {
       "id": "9851246739751",
@@ -615464,7 +615865,7 @@
             "17"
           ],
           "sku": "BPY5-11",
-          "available": true,
+          "available": false,
           "price": 849500,
           "compare_at_price": 849500
         },
@@ -620169,7 +620570,7 @@
             "L"
           ],
           "sku": "W26JSF01-B",
-          "available": false,
+          "available": true,
           "price": 583600,
           "compare_at_price": 729500
         },
