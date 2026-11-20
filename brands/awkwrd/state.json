@@ -3,7 +3,7 @@
   "source": "https://www.awkwardxstore.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-19T17:06:56.199483+00:00",
+  "checked_at": "2026-11-20T09:50:38.117011+00:00",
   "products": {
     "7965883072706": {
       "id": "7965883072706",
@@ -1186,6 +1186,92 @@
         }
       },
       "available": false
+    },
+    "8007035420866": {
+      "id": "8007035420866",
+      "title": "Aqua Blue Hoodie",
+      "handle": "aqua-blue-hoodie",
+      "url": "https://www.awkwardxstore.com/products/aqua-blue-hoodie",
+      "vendor": "AWKWRDx",
+      "type": "Oversize Hoodie",
+      "description": "<p>For the Misfits &amp; the Rule Breakers.</p>\n<p>Oversize Zipper Hoodie.</p>\n<p>Fleece/Jersey: 300+ GSM</p>\n<p>Embellishments: Concealed Waterproof Black Zip</p>\n<p>Print Method: Screen print, (Hi-definition Puff)<br></p>\n<p>Colour: Black</p>\n<p>AWKWRD™ label included.</p>\n<p>Disclaimer: Colours may vary slightly depending on screen settings.<br>Actual product specifications may vary by ±20%.</p>\n<!---->",
+      "tags": [
+        "Oversize Hoodie"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/aqua_blue_awkwardxstore_basic_oversize_hoodie_1_0ef081bb-c199-4f2f-9dc9-888e5872463e.jpg?v=1733016761",
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/aqua_blue_awkwardxstore_basic_oversize_hoodie_2_b29958e1-1f9e-4cc9-9eaa-4c8d9801891b.jpg?v=1733016761"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Aqua Blue"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "44821701230786": {
+          "id": "44821701230786",
+          "title": "Aqua Blue / S",
+          "options": [
+            "Aqua Blue",
+            "S"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701263554": {
+          "id": "44821701263554",
+          "title": "Aqua Blue / M",
+          "options": [
+            "Aqua Blue",
+            "M"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701296322": {
+          "id": "44821701296322",
+          "title": "Aqua Blue / L",
+          "options": [
+            "Aqua Blue",
+            "L"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701329090": {
+          "id": "44821701329090",
+          "title": "Aqua Blue / XL",
+          "options": [
+            "Aqua Blue",
+            "XL"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        }
+      },
+      "available": true
     },
     "8693627519170": {
       "id": "8693627519170",
@@ -6993,7 +7079,7 @@
             "M"
           ],
           "sku": "Coachella-Fleece-M-Travis Brown",
-          "available": true,
+          "available": false,
           "price": 105000,
           "compare_at_price": 240000
         },
@@ -7020,6 +7106,92 @@
           "available": false,
           "price": 105000,
           "compare_at_price": 240000
+        }
+      },
+      "available": false
+    },
+    "8007035551938": {
+      "id": "8007035551938",
+      "title": "Cocoa Hoodie",
+      "handle": "cocoa-oversize-hoodie",
+      "url": "https://www.awkwardxstore.com/products/cocoa-oversize-hoodie",
+      "vendor": "AWKWRDx",
+      "type": "Oversize Hoodie",
+      "description": "<p>For the Misfits &amp; the Rule Breakers.</p>\n<p>Oversize Zipper Hoodie.</p>\n<p>Fleece/Jersey: 300+ GSM</p>\n<p>Embellishments: Concealed Waterproof Black Zip</p>\n<p>Print Method: Screen print, (Hi-definition Puff)<br></p>\n<p>Colour: Black</p>\n<p>AWKWRD™ label included.</p>\n<p>Disclaimer: Colours may vary slightly depending on screen settings.<br>Actual product specifications may vary by ±20%.</p>\n<!---->",
+      "tags": [
+        "Oversize Hoodie"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/cocoa_x2__awkwardxstore_basic_oversize_hoodie-_2.jpg?v=1735655425",
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/cocoa_x2_awkwardxstore_basic_oversize_hoodie-_1.jpg?v=1735655426"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Cocoa"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "44821701656770": {
+          "id": "44821701656770",
+          "title": "Cocoa / S",
+          "options": [
+            "Cocoa",
+            "S"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701689538": {
+          "id": "44821701689538",
+          "title": "Cocoa / M",
+          "options": [
+            "Cocoa",
+            "M"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701722306": {
+          "id": "44821701722306",
+          "title": "Cocoa / L",
+          "options": [
+            "Cocoa",
+            "L"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701755074": {
+          "id": "44821701755074",
+          "title": "Cocoa / XL",
+          "options": [
+            "Cocoa",
+            "XL"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
         }
       },
       "available": true
@@ -7674,7 +7846,7 @@
             "S"
           ],
           "sku": "Cuff-Trouser-Fleece-S-Travis Brown",
-          "available": true,
+          "available": false,
           "price": 100000,
           "compare_at_price": 160000
         },
@@ -9340,6 +9512,92 @@
       },
       "available": true
     },
+    "8007035584706": {
+      "id": "8007035584706",
+      "title": "Dune Hoodie",
+      "handle": "dune-oversize-hoodie",
+      "url": "https://www.awkwardxstore.com/products/dune-oversize-hoodie",
+      "vendor": "AWKWRDx",
+      "type": "Oversize Hoodie",
+      "description": "<p>For the Misfits &amp; the Rule Breakers.</p>\n<p>Oversize Zipper Hoodie.</p>\n<p>Fleece/Jersey: 300+ GSM</p>\n<p>Embellishments: Concealed Waterproof Black Zip</p>\n<p>Print Method: Screen print, (Hi-definition Puff)<br></p>\n<p>Colour: Black</p>\n<p>AWKWRD™ label included.</p>\n<p>Disclaimer: Colours may vary slightly depending on screen settings.<br>Actual product specifications may vary by ±20%.</p>\n<!---->",
+      "tags": [
+        "Oversize Hoodie"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/dune_awkwardxstore_basic_oversize_hoodie_1_0c84a3db-1902-49d5-b008-7f3edc50d06d.jpg?v=1733016499",
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/dune_awkwardxstore_basic_oversize_hoodie_2_dea9ba73-0f65-4886-a3db-cb8d588a52eb.jpg?v=1733016499"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Dune"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "44821701787842": {
+          "id": "44821701787842",
+          "title": "Dune / S",
+          "options": [
+            "Dune",
+            "S"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701820610": {
+          "id": "44821701820610",
+          "title": "Dune / M",
+          "options": [
+            "Dune",
+            "M"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701853378": {
+          "id": "44821701853378",
+          "title": "Dune / L",
+          "options": [
+            "Dune",
+            "L"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701886146": {
+          "id": "44821701886146",
+          "title": "Dune / XL",
+          "options": [
+            "Dune",
+            "XL"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        }
+      },
+      "available": true
+    },
     "8251570684098": {
       "id": "8251570684098",
       "title": "Duo Tone Set | Dune",
@@ -9601,7 +9859,7 @@
           ],
           "sku": "Basic Hoodie-Fleece-S-Electric Blue",
           "available": true,
-          "price": 220000,
+          "price": 180000,
           "compare_at_price": 280000
         },
         "44821701951682": {
@@ -9613,7 +9871,7 @@
           ],
           "sku": "Basic Hoodie-Fleece-M-Electric Blue",
           "available": true,
-          "price": 220000,
+          "price": 180000,
           "compare_at_price": 280000
         },
         "44821701984450": {
@@ -9625,7 +9883,7 @@
           ],
           "sku": "Basic Hoodie-Fleece-L-Electric Blue",
           "available": true,
-          "price": 220000,
+          "price": 180000,
           "compare_at_price": 280000
         },
         "44821702017218": {
@@ -9636,8 +9894,8 @@
             "XL"
           ],
           "sku": "Basic Hoodie-Fleece-XL-Electric Blue",
-          "available": false,
-          "price": 220000,
+          "available": true,
+          "price": 180000,
           "compare_at_price": 280000
         }
       },
@@ -11648,6 +11906,91 @@
       },
       "available": false
     },
+    "8021244477634": {
+      "id": "8021244477634",
+      "title": "Heather Red Hoodie",
+      "handle": "heather-red-hoodie",
+      "url": "https://www.awkwardxstore.com/products/heather-red-hoodie",
+      "vendor": "AWKWRDx",
+      "type": "Oversize Hoodie",
+      "description": "<p>For the Misfits &amp; the Rule Breakers.</p>\n<p>Oversize Zipper Hoodie.</p>\n<p>Fleece/Jersey: 300+ GSM</p>\n<p>Embellishments: Concealed Waterproof Black Zip</p>\n<p>Print Method: Screen print, (Hi-definition Puff)<br></p>\n<p>Colour: Black</p>\n<p>AWKWRD™ label included.</p>\n<p>Disclaimer: Colours may vary slightly depending on screen settings.<br>Actual product specifications may vary by ±20%.</p>\n<!---->",
+      "tags": [
+        "Oversize Hoodie"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/02.png?v=1737760736"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Heather Red"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "44889369510082": {
+          "id": "44889369510082",
+          "title": "Heather Red / S",
+          "options": [
+            "Heather Red",
+            "S"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 185000,
+          "compare_at_price": 280000
+        },
+        "44889369542850": {
+          "id": "44889369542850",
+          "title": "Heather Red / M",
+          "options": [
+            "Heather Red",
+            "M"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 185000,
+          "compare_at_price": 280000
+        },
+        "44889369575618": {
+          "id": "44889369575618",
+          "title": "Heather Red / L",
+          "options": [
+            "Heather Red",
+            "L"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 185000,
+          "compare_at_price": 280000
+        },
+        "44889369608386": {
+          "id": "44889369608386",
+          "title": "Heather Red / XL",
+          "options": [
+            "Heather Red",
+            "XL"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 185000,
+          "compare_at_price": 280000
+        }
+      },
+      "available": true
+    },
     "8335650160834": {
       "id": "8335650160834",
       "title": "Highschool Club",
@@ -13433,7 +13776,7 @@
             "XS"
           ],
           "sku": "Monster-Light-XS-Black",
-          "available": true,
+          "available": false,
           "price": 180000,
           "compare_at_price": 300000
         },
@@ -13445,7 +13788,7 @@
             "S"
           ],
           "sku": "Monster-Light-S-Black",
-          "available": true,
+          "available": false,
           "price": 180000,
           "compare_at_price": 300000
         },
@@ -15783,6 +16126,92 @@
       },
       "available": true
     },
+    "8007035060418": {
+      "id": "8007035060418",
+      "title": "Olive Green Hoodie",
+      "handle": "olive-oversize-hoodie",
+      "url": "https://www.awkwardxstore.com/products/olive-oversize-hoodie",
+      "vendor": "AWKWRDx",
+      "type": "Oversize Hoodie",
+      "description": "<p>For the Misfits &amp; the Rule Breakers.</p>\n<p>Oversize Zipper Hoodie.</p>\n<p>Fleece/Jersey: 300+ GSM</p>\n<p>Embellishments: Concealed Waterproof Black Zip</p>\n<p>Print Method: Screen print, (Hi-definition Puff)<br></p>\n<p>Colour: Black</p>\n<p>AWKWRD™ label included.</p>\n<p>Disclaimer: Colours may vary slightly depending on screen settings.<br>Actual product specifications may vary by ±20%.</p>\n<!---->",
+      "tags": [
+        "Oversize Hoodie"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/olive_green_awkwardxstore_basic_oversize_hoodie_1_e386bf0b-bbf0-4fb6-a58f-97f1878f56d5.jpg?v=1733016549",
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/olive_green_awkwardxstore_basic_oversize_hoodie_2_007aecda-70fa-4b49-9044-e8a6b4deed02.jpg?v=1733016549"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Olive Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "44821699821762": {
+          "id": "44821699821762",
+          "title": "Olive Green / S",
+          "options": [
+            "Olive Green",
+            "S"
+          ],
+          "sku": "Basic Hoodie-Fleece-S-Olive Green",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821699854530": {
+          "id": "44821699854530",
+          "title": "Olive Green / M",
+          "options": [
+            "Olive Green",
+            "M"
+          ],
+          "sku": "Basic Hoodie-Fleece-M-Olive Green",
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821699887298": {
+          "id": "44821699887298",
+          "title": "Olive Green / L",
+          "options": [
+            "Olive Green",
+            "L"
+          ],
+          "sku": "Basic Hoodie-Fleece-L-Olive Green",
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821699920066": {
+          "id": "44821699920066",
+          "title": "Olive Green / XL",
+          "options": [
+            "Olive Green",
+            "XL"
+          ],
+          "sku": "Basic Hoodie-Fleece-XL-Olive Green",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        }
+      },
+      "available": true
+    },
     "7965896245442": {
       "id": "7965896245442",
       "title": "One Piece",
@@ -17991,7 +18420,7 @@
             "S"
           ],
           "sku": "Basic Zipper-Fleece-S-Dune",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 400000
         },
@@ -18003,7 +18432,7 @@
             "M"
           ],
           "sku": "Basic Zipper-Fleece-M-Dune",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 400000
         },
@@ -18015,7 +18444,7 @@
             "L"
           ],
           "sku": "Basic Zipper-Fleece-L-Dune",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 400000
         },
@@ -18027,12 +18456,12 @@
             "XL"
           ],
           "sku": "Basic Zipper-Fleece-XL-Dune",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 400000
         }
       },
-      "available": false
+      "available": true
     },
     "8250229326018": {
       "id": "8250229326018",
@@ -20410,6 +20839,92 @@
       },
       "available": true
     },
+    "8007035355330": {
+      "id": "8007035355330",
+      "title": "Red Wine Hoodie",
+      "handle": "red-hoodie",
+      "url": "https://www.awkwardxstore.com/products/red-hoodie",
+      "vendor": "AWKWRDx",
+      "type": "Oversize Hoodie",
+      "description": "<p>For the Misfits &amp; the Rule Breakers.</p>\n<p>Oversize Zipper Hoodie.</p>\n<p>Fleece/Jersey: 300+ GSM</p>\n<p>Embellishments: Concealed Waterproof Black Zip</p>\n<p>Print Method: Screen print, (Hi-definition Puff)<br></p>\n<p>Colour: Black</p>\n<p>AWKWRD™ label included.</p>\n<p>Disclaimer: Colours may vary slightly depending on screen settings.<br>Actual product specifications may vary by ±20%.</p>\n<!---->",
+      "tags": [
+        "Oversize Hoodie"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/red_wine_awkwardxstore_basic_oversize_hoodie_1_96f9f298-6f7f-43ce-bfe2-87435d2ac1d2.jpg?v=1733016704",
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/red_wine_awkwardxstore_basic_oversize_hoodie_2_d16a658c-d963-426f-9e4b-454190d9c8b2.jpg?v=1733016704"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Red Wine"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "44821701001410": {
+          "id": "44821701001410",
+          "title": "Red Wine / S",
+          "options": [
+            "Red Wine",
+            "S"
+          ],
+          "sku": "Basic Hoodie-Fleece-S-Red Wine",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701034178": {
+          "id": "44821701034178",
+          "title": "Red Wine / M",
+          "options": [
+            "Red Wine",
+            "M"
+          ],
+          "sku": "Basic Hoodie-Fleece-M-Red Wine",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701066946": {
+          "id": "44821701066946",
+          "title": "Red Wine / L",
+          "options": [
+            "Red Wine",
+            "L"
+          ],
+          "sku": "Basic Hoodie-Fleece-L-Red Wine",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821701099714": {
+          "id": "44821701099714",
+          "title": "Red Wine / XL",
+          "options": [
+            "Red Wine",
+            "XL"
+          ],
+          "sku": "Basic Hoodie-Fleece-XL-Red Wine",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        }
+      },
+      "available": true
+    },
     "8720381018306": {
       "id": "8720381018306",
       "title": "Ringer Set | Maroon",
@@ -21464,6 +21979,92 @@
         }
       },
       "available": false
+    },
+    "8007090241730": {
+      "id": "8007090241730",
+      "title": "Space Grey Hoodie",
+      "handle": "space-grey-hoodie",
+      "url": "https://www.awkwardxstore.com/products/space-grey-hoodie",
+      "vendor": "AWKWRDx",
+      "type": "Oversize Hoodie",
+      "description": "<p>For the Misfits &amp; the Rule Breakers.</p>\n<p>Oversize Zipper Hoodie.</p>\n<p>Fleece/Jersey: 300+ GSM</p>\n<p>Embellishments: Concealed Waterproof Black Zip</p>\n<p>Print Method: Screen print, (Hi-definition Puff)<br></p>\n<p>Colour: Black</p>\n<p>AWKWRD™ label included.</p>\n<p>Disclaimer: Colours may vary slightly depending on screen settings.<br>Actual product specifications may vary by ±20%.</p>\n<!---->",
+      "tags": [
+        "Oversize Hoodie"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/space_grey_x2_awkwardxstore_basic_oversize_hoodie_back.jpg?v=1735655484",
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/space_grey_x2_awkwardxstore_basic_oversize_hoodie_front.jpg?v=1735655484"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Space Grey"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "44822093201602": {
+          "id": "44822093201602",
+          "title": "Space Grey / S",
+          "options": [
+            "Space Grey",
+            "S"
+          ],
+          "sku": "Basic Hoodie-Fleece-S-Space Grey",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44822093234370": {
+          "id": "44822093234370",
+          "title": "Space Grey / M",
+          "options": [
+            "Space Grey",
+            "M"
+          ],
+          "sku": "Basic Hoodie-Fleece-M-Space Grey",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44822093267138": {
+          "id": "44822093267138",
+          "title": "Space Grey / L",
+          "options": [
+            "Space Grey",
+            "L"
+          ],
+          "sku": "Basic Hoodie-Fleece-L-Space Grey",
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44822093299906": {
+          "id": "44822093299906",
+          "title": "Space Grey / XL",
+          "options": [
+            "Space Grey",
+            "XL"
+          ],
+          "sku": "Basic Hoodie-Fleece-XL-Space Grey",
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        }
+      },
+      "available": true
     },
     "7988878082242": {
       "id": "7988878082242",
@@ -25717,6 +26318,92 @@
           "available": false,
           "price": 200000,
           "compare_at_price": 240000
+        }
+      },
+      "available": true
+    },
+    "8007035125954": {
+      "id": "8007035125954",
+      "title": "Violet Pink Hoodie",
+      "handle": "violet-pink-hoodie",
+      "url": "https://www.awkwardxstore.com/products/violet-pink-hoodie",
+      "vendor": "AWKWRDx",
+      "type": "Oversize Hoodie",
+      "description": "<p>For the Misfits &amp; the Rule Breakers.</p>\n<p>Oversize Zipper Hoodie.</p>\n<p>Fleece/Jersey: 300+ GSM</p>\n<p>Embellishments: Concealed Waterproof Black Zip</p>\n<p>Print Method: Screen print, (Hi-definition Puff)<br></p>\n<p>Colour: Black</p>\n<p>AWKWRD™ label included.</p>\n<p>Disclaimer: Colours may vary slightly depending on screen settings.<br>Actual product specifications may vary by ±20%.</p>\n<!---->",
+      "tags": [
+        "Oversize Hoodie"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/heather_pink_awkwardxstore_basic_oversize_hoodie_1_2122f39d-656c-409b-b954-8c9bf20403ca.jpg?v=1733086286",
+        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/heather_pink_awkwardxstore_basic_oversize_hoodie_2_018ae15a-3e52-481f-981f-8141b3064f30.jpg?v=1733086286"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Violet Pink"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "44821700051138": {
+          "id": "44821700051138",
+          "title": "Violet Pink / S",
+          "options": [
+            "Violet Pink",
+            "S"
+          ],
+          "sku": "Basic Hoodie-Fleece-S-Violet Pink",
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821700083906": {
+          "id": "44821700083906",
+          "title": "Violet Pink / M",
+          "options": [
+            "Violet Pink",
+            "M"
+          ],
+          "sku": "Basic Hoodie-Fleece-M-Violet Pink",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821700116674": {
+          "id": "44821700116674",
+          "title": "Violet Pink / L",
+          "options": [
+            "Violet Pink",
+            "L"
+          ],
+          "sku": "Basic Hoodie-Fleece-L-Violet Pink",
+          "available": false,
+          "price": 180000,
+          "compare_at_price": 280000
+        },
+        "44821700149442": {
+          "id": "44821700149442",
+          "title": "Violet Pink / XL",
+          "options": [
+            "Violet Pink",
+            "XL"
+          ],
+          "sku": "Basic Hoodie-Fleece-XL-Violet Pink",
+          "available": true,
+          "price": 180000,
+          "compare_at_price": 280000
         }
       },
       "available": true
