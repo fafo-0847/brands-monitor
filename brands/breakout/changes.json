@@ -1,134 +1,497 @@
 {
-  "checked_at": "2026-11-20T08:52:38.225052+00:00",
+  "checked_at": "2026-11-20T21:40:07.620206+00:00",
   "baseline_created": false,
-  "product_count": 2019,
-  "change_count": 18,
+  "product_count": 2016,
+  "change_count": 55,
   "changes": [
+    {
+      "product_id": "8962795700278",
+      "title": "RABBIT CHARM",
+      "url": "https://www.breakout.com.pk/products/6aswa042-who",
+      "kind": "New product",
+      "detail": "Price: PKR 749.00; available sizes/options: Default"
+    },
+    {
+      "product_id": "9209441845302",
+      "title": "HOBO TOTE BAG",
+      "url": "https://www.breakout.com.pk/products/6esbg008-bro",
+      "kind": "New product",
+      "detail": "Price: PKR 4,249.00; available sizes/options: Default"
+    },
+    {
+      "product_id": "9219766681654",
+      "title": "GIRLS EMBROIDERED BUTTON DOWN SHIRT",
+      "url": "https://www.breakout.com.pk/products/k26fw503-blk?variant=9219766681654",
+      "kind": "Sold out",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9225563406390",
+      "title": "CROSSBODY BAG",
+      "url": "https://www.breakout.com.pk/products/26fbg026-olv?variant=9225563406390",
+      "kind": "Sold out",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9249272725558",
+      "title": "TEXTURED TOTE BAG",
+      "url": "https://www.breakout.com.pk/products/26fbg041-blk?variant=9249272725558",
+      "kind": "Back in stock",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9340991864886",
+      "title": "BAGUETTE SHOULDER BAG",
+      "url": "https://www.breakout.com.pk/products/26fbg115-bge?variant=9340991864886",
+      "kind": "Sold out",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9393668030518",
+      "title": "KIMONO OVERSIZED TOP",
+      "url": "https://www.breakout.com.pk/products/26fwt333-blk?variant=9393668030518",
+      "kind": "Sold out",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9399878746166",
+      "title": "GIRLS WOOL BLEND LONG COAT",
+      "url": "https://www.breakout.com.pk/products/k26wc930-blk",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WC930-BLK_1.jpg?v=1790251918"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WC930-BLK_1_37a95836-f487-4e68-b149-8a65bd409d13.jpg?v=1795156729"
+      ]
+    },
+    {
+      "product_id": "9458056888374",
+      "title": "BASIC TANK TOP",
+      "url": "https://www.breakout.com.pk/products/26fnt350-blk?variant=9458056888374",
+      "kind": "Back in stock",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9458058231862",
+      "title": "WOOL BERET CAP",
+      "url": "https://www.breakout.com.pk/products/26wgc051-bro?variant=9458058231862",
+      "kind": "Sold out",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9519502360630",
+      "title": "GIRLS HELLO KITTY POLO SWEATSHIRT",
+      "url": "https://www.breakout.com.pk/products/k26wu333-pnk?variant=9519502360630",
+      "kind": "Back in stock",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9536222986294",
+      "title": "TURTLE NECK KNITTED DRESS",
+      "url": "https://www.breakout.com.pk/products/26wfs354-brg?variant=9536222986294",
+      "kind": "Sold out",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9550402224182",
+      "title": "GIRLS RIBBED BUTTON UP T-SHIRT",
+      "url": "https://www.breakout.com.pk/products/k26ft330-ber?variant=9550402224182",
+      "kind": "Sold out",
+      "detail": "Default"
+    },
+    {
+      "product_id": "9550402453558",
+      "title": "BOYS FLOCK PRINT HOODED TOP",
+      "url": "https://www.breakout.com.pk/products/k26wu204-bri",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WU204-BRI_1.jpg?v=1792567475"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WU204-BRI_1_8b22fe17-461b-4300-b52d-9bf6c1805523.jpg?v=1795156742"
+      ]
+    },
+    {
+      "product_id": "9719020486710",
+      "title": "HAND EMBROIDERED SWEATER COAT",
+      "url": "https://www.breakout.com.pk/products/26wfs384-brn",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9719020617782",
+      "title": "MINK OVERSIZED JUMPER",
+      "url": "https://www.breakout.com.pk/products/26wfs556-grn",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9719020716086",
+      "title": "MINK OVERSIZED JUMPER",
+      "url": "https://www.breakout.com.pk/products/26wfs556-mav",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9719020978230",
+      "title": "PANELLED ZIP-UP JACKET",
+      "url": "https://www.breakout.com.pk/products/26wjk549-bge",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9719023042614",
+      "title": "PLEATED WIDE LEG PANT",
+      "url": "https://www.breakout.com.pk/products/26wwj549-bge",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
     {
       "product_id": "9777552162870",
       "title": "CONTRAST FLAP WALLET",
       "url": "https://www.breakout.com.pk/products/26fwl161-bgt",
-      "kind": "New product",
-      "detail": "Price: PKR 2,449.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FWL161-BGT_1.jpg?v=1795156069"
+      ]
+    },
+    {
+      "product_id": "9777552162870",
+      "title": "CONTRAST FLAP WALLET",
+      "url": "https://www.breakout.com.pk/products/26fwl161-bgt?variant=9777552162870",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 3,499.00"
     },
     {
       "product_id": "9777552195638",
       "title": "CONTRAST FLAP WALLET",
       "url": "https://www.breakout.com.pk/products/26fwl161-mpl",
-      "kind": "New product",
-      "detail": "Price: PKR 2,449.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FWL161-MPL_1.jpg?v=1795156063"
+      ]
+    },
+    {
+      "product_id": "9777552195638",
+      "title": "CONTRAST FLAP WALLET",
+      "url": "https://www.breakout.com.pk/products/26fwl161-mpl?variant=9777552195638",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 3,499.00"
     },
     {
       "product_id": "9777552228406",
       "title": "BI-FOLD WALLET",
       "url": "https://www.breakout.com.pk/products/26fwl166-bro",
-      "kind": "New product",
-      "detail": "Price: PKR 2,449.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FWL166-BRO_1.jpg?v=1795156050"
+      ]
+    },
+    {
+      "product_id": "9777552228406",
+      "title": "BI-FOLD WALLET",
+      "url": "https://www.breakout.com.pk/products/26fwl166-bro?variant=9777552228406",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 3,499.00"
     },
     {
       "product_id": "9777552261174",
       "title": "BI-FOLD WALLET",
       "url": "https://www.breakout.com.pk/products/26fwl166-prp",
-      "kind": "New product",
-      "detail": "Price: PKR 2,449.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FWL166-PRP_1.jpg?v=1795156045"
+      ]
+    },
+    {
+      "product_id": "9777552261174",
+      "title": "BI-FOLD WALLET",
+      "url": "https://www.breakout.com.pk/products/26fwl166-prp?variant=9777552261174",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 3,499.00"
     },
     {
       "product_id": "9777552293942",
       "title": "BOYS CARPENTER BERMUDA SHORTS",
       "url": "https://www.breakout.com.pk/products/k26fb649-blk",
-      "kind": "New product",
-      "detail": "Price: PKR 1,679.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26FB649-BLK_1.jpg?v=1795156041"
+      ]
+    },
+    {
+      "product_id": "9777552293942",
+      "title": "BOYS CARPENTER BERMUDA SHORTS",
+      "url": "https://www.breakout.com.pk/products/k26fb649-blk?variant=9777552293942",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 2,399.00"
     },
     {
       "product_id": "9777552326710",
       "title": "GIRLS CONTRAST PANELLED LOOSE FIT DENIM",
       "url": "https://www.breakout.com.pk/products/k26fd770-dbl",
-      "kind": "New product",
-      "detail": "Price: PKR 2,099.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26FD770-DBL_1.jpg?v=1795156035"
+      ]
+    },
+    {
+      "product_id": "9777552326710",
+      "title": "GIRLS CONTRAST PANELLED LOOSE FIT DENIM",
+      "url": "https://www.breakout.com.pk/products/k26fd770-dbl?variant=9777552326710",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 2,999.00"
     },
     {
       "product_id": "9777552392246",
       "title": "BOYS CHELSEA ANKLE BOOT",
       "url": "https://www.breakout.com.pk/products/k26fsh06-brn",
-      "kind": "New product",
-      "detail": "Price: PKR 4,899.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26FSH06-BRN_1.jpg?v=1795156030"
+      ]
+    },
+    {
+      "product_id": "9777552392246",
+      "title": "BOYS CHELSEA ANKLE BOOT",
+      "url": "https://www.breakout.com.pk/products/k26fsh06-brn?variant=9777552392246",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 6,999.00"
     },
     {
       "product_id": "9777552425014",
       "title": "GIRLS CINCH RIB TEE",
       "url": "https://www.breakout.com.pk/products/k26ft337-grn",
-      "kind": "New product",
-      "detail": "Price: PKR 1,259.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26FT337-GRN_1.jpg?v=1795156118"
+      ]
+    },
+    {
+      "product_id": "9777552425014",
+      "title": "GIRLS CINCH RIB TEE",
+      "url": "https://www.breakout.com.pk/products/k26ft337-grn?variant=9777552425014",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 1,799.00"
     },
     {
       "product_id": "9777552457782",
       "title": "BOYS CHECKERED SHACKET",
       "url": "https://www.breakout.com.pk/products/k26fw458-ofn",
-      "kind": "New product",
-      "detail": "Price: PKR 2,029.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26FW458-OFN_1.jpg?v=1795156038"
+      ]
+    },
+    {
+      "product_id": "9777552457782",
+      "title": "BOYS CHECKERED SHACKET",
+      "url": "https://www.breakout.com.pk/products/k26fw458-ofn?variant=9777552457782",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 2,899.00"
     },
     {
       "product_id": "9777552523318",
       "title": "BOYS TEXTURED FLEECE TAPERED TROUSER",
       "url": "https://www.breakout.com.pk/products/k26wb234-bgy",
-      "kind": "New product",
-      "detail": "Price: PKR 1,959.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WB234-BGY_1.jpg?v=1795156013"
+      ]
+    },
+    {
+      "product_id": "9777552523318",
+      "title": "BOYS TEXTURED FLEECE TAPERED TROUSER",
+      "url": "https://www.breakout.com.pk/products/k26wb234-bgy?variant=9777552523318",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 2,799.00"
     },
     {
       "product_id": "9777552556086",
       "title": "GIRLS CONTRAST TAPE SPORTY TROUSER",
       "url": "https://www.breakout.com.pk/products/k26wb308-mrn",
-      "kind": "New product",
-      "detail": "Price: PKR 1,959.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WB308-MRN_1.jpg?v=1795156007"
+      ]
+    },
+    {
+      "product_id": "9777552556086",
+      "title": "GIRLS CONTRAST TAPE SPORTY TROUSER",
+      "url": "https://www.breakout.com.pk/products/k26wb308-mrn?variant=9777552556086",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 2,799.00"
     },
     {
       "product_id": "9777552588854",
       "title": "GIRLS CONTRAST TRIM FLEECE TROUSER",
       "url": "https://www.breakout.com.pk/products/k26wb309-dsp",
-      "kind": "New product",
-      "detail": "Price: PKR 1,959.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WB309-DSP_2.jpg?v=1795156003"
+      ]
+    },
+    {
+      "product_id": "9777552588854",
+      "title": "GIRLS CONTRAST TRIM FLEECE TROUSER",
+      "url": "https://www.breakout.com.pk/products/k26wb309-dsp?variant=9777552588854",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 2,799.00"
     },
     {
       "product_id": "9777552621622",
       "title": "GIRLS LOOSE PANELLED FLEECE TROUSER",
       "url": "https://www.breakout.com.pk/products/k26wb340-pst",
-      "kind": "New product",
-      "detail": "Price: PKR 1,959.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WB340-PST_1.jpg?v=1795155995"
+      ]
+    },
+    {
+      "product_id": "9777552621622",
+      "title": "GIRLS LOOSE PANELLED FLEECE TROUSER",
+      "url": "https://www.breakout.com.pk/products/k26wb340-pst?variant=9777552621622",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 2,799.00"
     },
     {
       "product_id": "9777552654390",
       "title": "BOYS DOUBLE BREASTED FORMAL BLAZER",
       "url": "https://www.breakout.com.pk/products/k26wc654-nvy",
-      "kind": "New product",
-      "detail": "Price: PKR 4,269.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WC654-NVY_1.jpg?v=1795155991"
+      ]
+    },
+    {
+      "product_id": "9777552654390",
+      "title": "BOYS DOUBLE BREASTED FORMAL BLAZER",
+      "url": "https://www.breakout.com.pk/products/k26wc654-nvy?variant=9777552654390",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 6,099.00"
     },
     {
       "product_id": "9777552687158",
       "title": "GIRLS FRINGE DETAILED WOOL SWEATER",
       "url": "https://www.breakout.com.pk/products/k26ws518-bnw",
-      "kind": "New product",
-      "detail": "Price: PKR 4,409.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WS518-BNW_1.jpg?v=1795155981"
+      ]
+    },
+    {
+      "product_id": "9777552687158",
+      "title": "GIRLS FRINGE DETAILED WOOL SWEATER",
+      "url": "https://www.breakout.com.pk/products/k26ws518-bnw?variant=9777552687158",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 6,299.00"
     },
     {
       "product_id": "9777553178678",
       "title": "GIRLS CONTRAST TAPE SPORTY HOODIE",
       "url": "https://www.breakout.com.pk/products/k26wu308-mrn",
-      "kind": "New product",
-      "detail": "Price: PKR 2,589.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WU308-MRN_1.jpg?v=1795155971"
+      ]
+    },
+    {
+      "product_id": "9777553178678",
+      "title": "GIRLS CONTRAST TAPE SPORTY HOODIE",
+      "url": "https://www.breakout.com.pk/products/k26wu308-mrn?variant=9777553178678",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 3,699.00"
     },
     {
       "product_id": "9777553244214",
       "title": "GIRLS CONTRAST TRIM ZIPPER HOODIE",
       "url": "https://www.breakout.com.pk/products/k26wu309-dpi",
-      "kind": "New product",
-      "detail": "Price: PKR 2,659.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WU309-DPI_1.jpg?v=1795155970"
+      ]
+    },
+    {
+      "product_id": "9777553244214",
+      "title": "GIRLS CONTRAST TRIM ZIPPER HOODIE",
+      "url": "https://www.breakout.com.pk/products/k26wu309-dpi?variant=9777553244214",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 3,799.00"
     },
     {
       "product_id": "9777553276982",
       "title": "GIRLS ELASTICATED HEM SWEATSHIRT",
       "url": "https://www.breakout.com.pk/products/k26wu357-blu",
-      "kind": "New product",
-      "detail": "Price: PKR 2,309.00; available sizes/options: Default"
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/K26WU357-BLU_1.jpg?v=1795155962"
+      ]
+    },
+    {
+      "product_id": "9777553276982",
+      "title": "GIRLS ELASTICATED HEM SWEATSHIRT",
+      "url": "https://www.breakout.com.pk/products/k26wu357-blu?variant=9777553276982",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 3,299.00"
     }
   ]
 }
