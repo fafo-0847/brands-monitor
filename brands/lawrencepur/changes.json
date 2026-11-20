@@ -1,29 +1,460 @@
 {
-  "checked_at": "2026-11-20T10:20:57.810789+00:00",
+  "checked_at": "2026-11-20T23:15:20.836999+00:00",
   "baseline_created": false,
   "product_count": 1185,
-  "change_count": 3,
+  "change_count": 34,
   "changes": [
-    {
-      "product_id": "8096162119937",
-      "title": "Ladies Zipper - Woolen Fleece Grey Plain",
-      "url": "https://lawrencepur.com/products/zipper-woolen-fleece-grey-plain",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8493058982145",
-      "title": "Bluish Grey Self Embroidered Schiffli Cotton Kurta",
-      "url": "https://lawrencepur.com/products/kurta-self-embroidery-cotton-bluish-grey-design?variant=46760406679809",
-      "kind": "Sold out",
-      "detail": "SK06-BS / L"
-    },
     {
       "product_id": "8930879078657",
       "title": "Black Plain  3 Piece Suit - Tropical Classic Poly Wool",
       "url": "https://lawrencepur.com/products/3-pcs-suit-tropical-classic-p-black-plain-10-oct?variant=46808629870849",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "3PCBUK / 54/40"
+    },
+    {
+      "product_id": "9252757930241",
+      "title": "2-Piece Formal Suit Light Grey Plain",
+      "url": "https://lawrencepur.com/products/2pc-suit-imp-garment-light-grey-plain?variant=49840197894401",
+      "kind": "Sold out",
+      "detail": "J05/T16 / 48/34"
+    },
+    {
+      "product_id": "9778670731521",
+      "title": "Ladies Long Coat - Signature Tweed Black Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-black-plain",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-16",
+            "WLC-15"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "XXL",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-16"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "XXL",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "9778670731521",
+      "title": "Ladies Long Coat - Signature Tweed Black Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-black-plain?variant=51244785828097",
+      "kind": "Size/option removed",
+      "detail": "WLC-15 / L"
+    },
+    {
+      "product_id": "9778670731521",
+      "title": "Ladies Long Coat - Signature Tweed Black Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-black-plain?variant=51244785860865",
+      "kind": "Size/option removed",
+      "detail": "WLC-15 / XL"
+    },
+    {
+      "product_id": "9778670731521",
+      "title": "Ladies Long Coat - Signature Tweed Black Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-black-plain?variant=51244785893633",
+      "kind": "Size/option removed",
+      "detail": "WLC-15 / S"
+    },
+    {
+      "product_id": "9778670731521",
+      "title": "Ladies Long Coat - Signature Tweed Black Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-black-plain?variant=51244785926401",
+      "kind": "Size/option removed",
+      "detail": "WLC-15 / M"
+    },
+    {
+      "product_id": "9778670731521",
+      "title": "Ladies Long Coat - Signature Tweed Black Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-black-plain?variant=51244785959169",
+      "kind": "Size/option removed",
+      "detail": "WLC-15 / XXL"
+    },
+    {
+      "product_id": "9778670764289",
+      "title": "Ladies Long Coat - Signature Tweed Charcoal Grey Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-charcoal-grey-plain",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-12",
+            "WLC-15",
+            "WLC-06"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-15"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "L",
+            "XL",
+            "S",
+            "M",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "9778670764289",
+      "title": "Ladies Long Coat - Signature Tweed Charcoal Grey Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-charcoal-grey-plain?variant=51244785991937",
+      "kind": "Size/option removed",
+      "detail": "WLC-12 / S"
+    },
+    {
+      "product_id": "9778670764289",
+      "title": "Ladies Long Coat - Signature Tweed Charcoal Grey Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-charcoal-grey-plain?variant=51244786024705",
+      "kind": "Size/option removed",
+      "detail": "WLC-12 / M"
+    },
+    {
+      "product_id": "9778670764289",
+      "title": "Ladies Long Coat - Signature Tweed Charcoal Grey Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-charcoal-grey-plain?variant=51244786057473",
+      "kind": "Size/option removed",
+      "detail": "WLC-12 / L"
+    },
+    {
+      "product_id": "9778670764289",
+      "title": "Ladies Long Coat - Signature Tweed Charcoal Grey Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-charcoal-grey-plain?variant=51244786090241",
+      "kind": "Size/option removed",
+      "detail": "WLC-12 / XL"
+    },
+    {
+      "product_id": "9778670764289",
+      "title": "Ladies Long Coat - Signature Tweed Charcoal Grey Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-charcoal-grey-plain?variant=51244786123009",
+      "kind": "Size/option removed",
+      "detail": "WLC-12 / XXL"
+    },
+    {
+      "product_id": "9778670764289",
+      "title": "Ladies Long Coat - Signature Tweed Charcoal Grey Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-charcoal-grey-plain?variant=51244786319617",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / M"
+    },
+    {
+      "product_id": "9778670797057",
+      "title": "Ladies Long Coat - Signature Tweed Prussian Blue Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-prussian-blue-plain",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-11",
+            "WLC-14"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-14"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XL",
+            "S",
+            "M",
+            "XXL",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "9778670797057",
+      "title": "Ladies Long Coat - Signature Tweed Prussian Blue Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-prussian-blue-plain?variant=51244786352385",
+      "kind": "Size/option removed",
+      "detail": "WLC-11 / S"
+    },
+    {
+      "product_id": "9778670797057",
+      "title": "Ladies Long Coat - Signature Tweed Prussian Blue Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-prussian-blue-plain?variant=51244786385153",
+      "kind": "Size/option removed",
+      "detail": "WLC-11 / M"
+    },
+    {
+      "product_id": "9778670797057",
+      "title": "Ladies Long Coat - Signature Tweed Prussian Blue Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-prussian-blue-plain?variant=51244786417921",
+      "kind": "Size/option removed",
+      "detail": "WLC-11 / L"
+    },
+    {
+      "product_id": "9778670797057",
+      "title": "Ladies Long Coat - Signature Tweed Prussian Blue Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-prussian-blue-plain?variant=51244786450689",
+      "kind": "Size/option removed",
+      "detail": "WLC-11 / XL"
+    },
+    {
+      "product_id": "9778670797057",
+      "title": "Ladies Long Coat - Signature Tweed Prussian Blue Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-prussian-blue-plain?variant=51244786483457",
+      "kind": "Size/option removed",
+      "detail": "WLC-11 / XXL"
+    },
+    {
+      "product_id": "9778670895361",
+      "title": "Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-beige-plain",
+      "kind": "Product updated",
+      "detail": "title: Ladies Long Coat - Signature Tweed Beige Plain → Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar",
+      "field": "title",
+      "before": "Ladies Long Coat - Signature Tweed Beige Plain",
+      "after": "Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar"
+    },
+    {
+      "product_id": "9778670895361",
+      "title": "Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-beige-plain",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-16",
+            "WLC-06"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "XXL",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-16"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "XXL",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "9778670895361",
+      "title": "Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-beige-plain?variant=51244787237121",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / S"
+    },
+    {
+      "product_id": "9778670895361",
+      "title": "Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-beige-plain?variant=51244787269889",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / M"
+    },
+    {
+      "product_id": "9778670895361",
+      "title": "Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-beige-plain?variant=51244787302657",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / L"
+    },
+    {
+      "product_id": "9778670895361",
+      "title": "Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-beige-plain?variant=51244787335425",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / XL"
+    },
+    {
+      "product_id": "9778670895361",
+      "title": "Ladies Long Coat - Signature Tweed Beige Plain Shawl Collar",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-beige-plain?variant=51244787368193",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / XXL"
+    },
+    {
+      "product_id": "9778670928129",
+      "title": "Ladies Long Coat - Signature Tweed Maroon Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-maroon-plain",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-14",
+            "WLC-06"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XL",
+            "S",
+            "M",
+            "XXL",
+            "L"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Style",
+          "position": 1,
+          "values": [
+            "WLC-14"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XL",
+            "S",
+            "M",
+            "XXL",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "9778670928129",
+      "title": "Ladies Long Coat - Signature Tweed Maroon Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-maroon-plain?variant=51244787564801",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / S"
+    },
+    {
+      "product_id": "9778670928129",
+      "title": "Ladies Long Coat - Signature Tweed Maroon Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-maroon-plain?variant=51244787597569",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / M"
+    },
+    {
+      "product_id": "9778670928129",
+      "title": "Ladies Long Coat - Signature Tweed Maroon Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-maroon-plain?variant=51244787630337",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / L"
+    },
+    {
+      "product_id": "9778670928129",
+      "title": "Ladies Long Coat - Signature Tweed Maroon Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-maroon-plain?variant=51244787663105",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / XL"
+    },
+    {
+      "product_id": "9778670928129",
+      "title": "Ladies Long Coat - Signature Tweed Maroon Plain",
+      "url": "https://lawrencepur.com/products/ladies-long-coat-signature-tweed-maroon-plain?variant=51244787695873",
+      "kind": "Size/option removed",
+      "detail": "WLC-06 / XXL"
     }
   ]
 }
