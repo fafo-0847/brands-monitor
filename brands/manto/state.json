@@ -3,7 +3,7 @@
   "source": "https://www.shopmanto.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-20T09:49:48.134562+00:00",
+  "checked_at": "2026-11-20T22:42:23.637346+00:00",
   "products": {
     "7867896496190": {
       "id": "7867896496190",
@@ -1192,7 +1192,7 @@
             "XS"
           ],
           "sku": "1011822",
-          "available": false,
+          "available": true,
           "price": 1180000,
           "compare_at_price": 0
         },
@@ -1214,7 +1214,7 @@
             "M"
           ],
           "sku": "1011819",
-          "available": false,
+          "available": true,
           "price": 1180000,
           "compare_at_price": 0
         },
@@ -1247,12 +1247,12 @@
             "XXL"
           ],
           "sku": "1011823",
-          "available": false,
+          "available": true,
           "price": 1180000,
           "compare_at_price": 0
         }
       },
-      "available": false
+      "available": true
     },
     "8115678478398": {
       "id": "8115678478398",
@@ -3092,7 +3092,7 @@
             "XL"
           ],
           "sku": "1013638",
-          "available": false,
+          "available": true,
           "price": 980000,
           "compare_at_price": null
         },
@@ -3208,7 +3208,7 @@
             "XXL"
           ],
           "sku": "1013634",
-          "available": false,
+          "available": true,
           "price": 980000,
           "compare_at_price": null
         }
@@ -3417,12 +3417,12 @@
             "XXL"
           ],
           "sku": "66335fa743419",
-          "available": false,
+          "available": true,
           "price": 695000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "7914167173182": {
       "id": "7914167173182",
@@ -4762,7 +4762,7 @@
             "XL"
           ],
           "sku": "1011389",
-          "available": false,
+          "available": true,
           "price": 850000,
           "compare_at_price": null
         },
@@ -8296,6 +8296,53 @@
       },
       "available": true
     },
+    "8201123856446": {
+      "id": "8201123856446",
+      "title": "Dilbar Shawl",
+      "handle": "dilbar-shawl",
+      "url": "https://www.shopmanto.com/products/dilbar-shawl",
+      "vendor": "Herringbone",
+      "type": "Odhni-Shawls",
+      "description": "<p dir=\"ltr\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><strong>Dilbar Shawl is made from Herringbone, featuring the words of Hafiz Banarasi calligraphed throughout.</strong></p>",
+      "tags": [
+        "New In",
+        "Odhni",
+        "Scarves Stoles & Odhnis",
+        "Scarves-odhnis-stoles",
+        "odhnis"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0121/0803/8206/files/NO.2_61_10c39e07-a1f7-47d8-88be-5fe15e26b7e9.jpg?v=1795171959",
+        "https://cdn.shopify.com/s/files/1/0121/0803/8206/files/NO.2_63_014d6be8-7162-47a8-a495-f214703caec1.jpg?v=1795171959",
+        "https://cdn.shopify.com/s/files/1/0121/0803/8206/files/NO.2_64_25b0d5c6-5d5b-4424-93f7-a2d6e0a53b64.jpg?v=1795171959",
+        "https://cdn.shopify.com/s/files/1/0121/0803/8206/files/NO.2_65_3c13d4a7-3d49-4cd8-80ea-8b4c9cff7afe.jpg?v=1795171959",
+        "https://cdn.shopify.com/s/files/1/0121/0803/8206/files/NO.2_66.jpg?v=1795171959",
+        "https://cdn.shopify.com/s/files/1/0121/0803/8206/files/NO.2_67.jpg?v=1795171959"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "43159194533950": {
+          "id": "43159194533950",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "1013496",
+          "available": true,
+          "price": 580000,
+          "compare_at_price": 0
+        }
+      },
+      "available": true
+    },
     "7994835402814": {
       "id": "7994835402814",
       "title": "Dillagi Kaftaan",
@@ -8627,7 +8674,7 @@
             "L"
           ],
           "sku": "1011558",
-          "available": false,
+          "available": true,
           "price": 1080000,
           "compare_at_price": null
         },
@@ -11372,7 +11419,7 @@
             "S-M-L"
           ],
           "sku": "1011809",
-          "available": false,
+          "available": true,
           "price": 2700000,
           "compare_at_price": 0
         },
@@ -14070,12 +14117,12 @@
             "Default Title"
           ],
           "sku": "1012113",
-          "available": false,
+          "available": true,
           "price": 395000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "15409390092350": {
       "id": "15409390092350",
@@ -15993,7 +16040,7 @@
             "S"
           ],
           "sku": "1010033",
-          "available": true,
+          "available": false,
           "price": 940000,
           "compare_at_price": null
         },
@@ -16334,7 +16381,7 @@
             "L"
           ],
           "sku": "1012025",
-          "available": false,
+          "available": true,
           "price": 940000,
           "compare_at_price": null
         },
@@ -16345,7 +16392,7 @@
             "XL"
           ],
           "sku": "1012028",
-          "available": false,
+          "available": true,
           "price": 940000,
           "compare_at_price": null
         },
@@ -16356,7 +16403,7 @@
             "XXL"
           ],
           "sku": "1012030",
-          "available": false,
+          "available": true,
           "price": 940000,
           "compare_at_price": null
         }
@@ -16558,7 +16605,7 @@
             "XL"
           ],
           "sku": "1012034",
-          "available": false,
+          "available": true,
           "price": 940000,
           "compare_at_price": null
         },
@@ -18317,7 +18364,7 @@
             "XS"
           ],
           "sku": "1012808",
-          "available": false,
+          "available": true,
           "price": 920000,
           "compare_at_price": 0
         },
@@ -18350,7 +18397,7 @@
             "L"
           ],
           "sku": "1012804",
-          "available": false,
+          "available": true,
           "price": 920000,
           "compare_at_price": 0
         },
@@ -22158,7 +22205,7 @@
             "M"
           ],
           "sku": "1011566",
-          "available": false,
+          "available": true,
           "price": 2700000,
           "compare_at_price": 0
         },
@@ -26449,7 +26496,7 @@
             "L"
           ],
           "sku": "1012629",
-          "available": false,
+          "available": true,
           "price": 580000,
           "compare_at_price": null
         },
@@ -30272,7 +30319,7 @@
             "L"
           ],
           "sku": "1012358",
-          "available": false,
+          "available": true,
           "price": 820000,
           "compare_at_price": null
         },
@@ -30283,7 +30330,7 @@
             "XL"
           ],
           "sku": "1012361",
-          "available": false,
+          "available": true,
           "price": 820000,
           "compare_at_price": null
         },
@@ -30491,7 +30538,7 @@
             "L"
           ],
           "sku": "1011973",
-          "available": false,
+          "available": true,
           "price": 1350000,
           "compare_at_price": 0
         },
@@ -30502,7 +30549,7 @@
             "XL"
           ],
           "sku": "1011976",
-          "available": false,
+          "available": true,
           "price": 1350000,
           "compare_at_price": 0
         },
@@ -32289,7 +32336,7 @@
             "L"
           ],
           "sku": "1011237",
-          "available": false,
+          "available": true,
           "price": 980000,
           "compare_at_price": null
         },
@@ -32305,7 +32352,7 @@
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "8019092635710": {
       "id": "8019092635710",
@@ -32396,7 +32443,7 @@
             "XL"
           ],
           "sku": "1011294",
-          "available": true,
+          "available": false,
           "price": 980000,
           "compare_at_price": null
         }
@@ -33092,7 +33139,7 @@
             "XL"
           ],
           "sku": "1008129",
-          "available": false,
+          "available": true,
           "price": 3450000,
           "compare_at_price": 0
         },
@@ -33527,12 +33574,12 @@
             "Default Title"
           ],
           "sku": "1010138",
-          "available": false,
+          "available": true,
           "price": 580000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "8033227604030": {
       "id": "8033227604030",
@@ -33654,7 +33701,7 @@
             "M"
           ],
           "sku": "1012817",
-          "available": false,
+          "available": true,
           "price": 780000,
           "compare_at_price": 0
         },
@@ -33676,7 +33723,7 @@
             "XL"
           ],
           "sku": "1012819",
-          "available": false,
+          "available": true,
           "price": 780000,
           "compare_at_price": 0
         },
@@ -33692,7 +33739,7 @@
           "compare_at_price": 0
         }
       },
-      "available": false
+      "available": true
     },
     "7988400586814": {
       "id": "7988400586814",
@@ -33737,12 +33784,12 @@
             "Default Title"
           ],
           "sku": "1013410",
-          "available": false,
+          "available": true,
           "price": 215000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "8000461078590": {
       "id": "8000461078590",
@@ -36316,7 +36363,7 @@
             "L"
           ],
           "sku": "1011732",
-          "available": false,
+          "available": true,
           "price": 1050000,
           "compare_at_price": 0
         },
@@ -36338,7 +36385,7 @@
             "XXL"
           ],
           "sku": "1011737",
-          "available": false,
+          "available": true,
           "price": 1050000,
           "compare_at_price": 0
         }
@@ -37468,7 +37515,7 @@
             "XS"
           ],
           "sku": "1012608",
-          "available": false,
+          "available": true,
           "price": 880000,
           "compare_at_price": 0
         },
@@ -38681,7 +38728,7 @@
             "S"
           ],
           "sku": "1012645",
-          "available": false,
+          "available": true,
           "price": 920000,
           "compare_at_price": null
         },
@@ -38730,7 +38777,7 @@
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "7265465172030": {
       "id": "7265465172030",
@@ -40900,7 +40947,7 @@
             "L"
           ],
           "sku": "1011544",
-          "available": false,
+          "available": true,
           "price": 580000,
           "compare_at_price": 0
         },
