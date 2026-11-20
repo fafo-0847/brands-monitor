@@ -3,7 +3,7 @@
   "source": "https://walkeaze.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-20T10:11:02.481407+00:00",
+  "checked_at": "2026-11-20T22:58:47.453277+00:00",
   "products": {
     "8998885097720": {
       "id": "8998885097720",
@@ -604,47 +604,6 @@
           "available": true,
           "price": 399500,
           "compare_at_price": 470000
-        }
-      },
-      "available": true
-    },
-    "9442000535800": {
-      "id": "9442000535800",
-      "title": "Enchanted Vial - 3 ml",
-      "handle": "000068f-tester-perfume",
-      "url": "https://walkeaze.com/products/000068f-tester-perfume",
-      "vendor": "Walkeaze",
-      "type": "Perfume Tester",
-      "description": "<p class=\"MsoNormal\">The 3ml perfume tester is a perfect option to try a new fragrance before buying the full-size bottle. This small bottle lets you experience the original scent easily. It is travel-friendly and ideal for testing different perfumes.</p>",
-      "tags": [
-        "3 ml",
-        "FOC"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/enchanted-vial-3-ml-walkeaze-2096525.png?v=1773533116",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/enchanted-vial-3-ml-walkeaze-4951472.png?v=1773533115",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/enchanted-vial-3-ml-walkeaze-5244506.png?v=1773533115"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "3 ml"
-          ]
-        }
-      ],
-      "variants": {
-        "48099235987704": {
-          "id": "48099235987704",
-          "title": "3 ml",
-          "options": [
-            "3 ml"
-          ],
-          "sku": "000068F_ALL_3ML",
-          "available": true,
-          "price": 35000,
-          "compare_at_price": 0
         }
       },
       "available": true
@@ -2252,7 +2211,7 @@
             "30"
           ],
           "sku": "700009KS_FAWN_30",
-          "available": true,
+          "available": false,
           "price": 140000,
           "compare_at_price": 280000
         },
@@ -9990,47 +9949,6 @@
       },
       "available": true
     },
-    "9474944270584": {
-      "id": "9474944270584",
-      "title": "Horizon Vial - 3 ml",
-      "handle": "000069f-tester-perfume",
-      "url": "https://walkeaze.com/products/000069f-tester-perfume",
-      "vendor": "Walkeaze",
-      "type": "Perfume Tester",
-      "description": "<p class=\"MsoNormal\">The 3ml perfume tester is a perfect option to try a new fragrance before buying the full-size bottle. This small bottle lets you experience the original scent easily. It is travel-friendly and ideal for testing different perfumes.</p>",
-      "tags": [
-        "3 ml",
-        "FOC"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/horizon-vial-3-ml-walkeaze-2916990.jpg?v=1776178152",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/horizon-vial-3-ml-walkeaze-4995520.jpg?v=1776178151",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/horizon-vial-3-ml-walkeaze-7963533.jpg?v=1776178152"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "3 ml"
-          ]
-        }
-      ],
-      "variants": {
-        "48231188594936": {
-          "id": "48231188594936",
-          "title": "3 ml",
-          "options": [
-            "3 ml"
-          ],
-          "sku": "000069F_ALL_3ML",
-          "available": true,
-          "price": 35000,
-          "compare_at_price": null
-        }
-      },
-      "available": true
-    },
     "9464418238712": {
       "id": "9464418238712",
       "title": "Ignite For Unisex - 100 ml",
@@ -11834,6 +11752,7 @@
         "25per",
         "36",
         "37",
+        "39",
         "41",
         "Best Seller",
         "Black",
@@ -12003,7 +11922,7 @@
             "39"
           ],
           "sku": "98518S_GOLDEN_39",
-          "available": false,
+          "available": true,
           "price": 637500,
           "compare_at_price": 850000
         },
@@ -12345,7 +12264,7 @@
             "38"
           ],
           "sku": "98578S_BLACK_38",
-          "available": false,
+          "available": true,
           "price": 680000,
           "compare_at_price": 850000
         },
@@ -13327,7 +13246,6 @@
         "Black and White",
         "FOOTWEAR",
         "FR",
-        "Gray",
         "Life Style Images",
         "Miss Signature",
         "Mother day",
@@ -13488,7 +13406,7 @@
             "40"
           ],
           "sku": "98436S_GRAY_40",
-          "available": true,
+          "available": false,
           "price": 705000,
           "compare_at_price": 940000
         },
@@ -13735,7 +13653,6 @@
         "20per",
         "37",
         "40",
-        "41",
         "Black",
         "Black and White",
         "Camel",
@@ -13828,7 +13745,7 @@
             "37"
           ],
           "sku": "98439S_CAMEL_37",
-          "available": true,
+          "available": false,
           "price": 848000,
           "compare_at_price": 1060000
         },
@@ -13924,7 +13841,7 @@
             "41"
           ],
           "sku": "98439S_CAMEL_41",
-          "available": true,
+          "available": false,
           "price": 848000,
           "compare_at_price": 1060000
         }
@@ -16357,7 +16274,6 @@
       "description": "<p><span>The Imported Casual Softy, offered in Beige and Cream, combines a durable chunky sole with stylish rexine material, delivering reliable comfort and versatility for both indoor and outdoor fashion wear.</span></p>\n<ul>\n<li>Color: Beige, Cream</li>\n<li>Indoor &amp; Outdoor Fashion</li>\n<li>Casual wear</li>\n<li>Chunky Sole</li>\n<li>Flat</li>\n<li>Material: Rexine</li>\n<li>Article no: 98546S</li>\n</ul>",
       "tags": [
         "25per",
-        "37",
         "38",
         "39",
         "40",
@@ -16431,7 +16347,7 @@
             "37"
           ],
           "sku": "98546S_BEIGE_37",
-          "available": true,
+          "available": false,
           "price": 723800,
           "compare_at_price": 965000
         },
@@ -18374,7 +18290,7 @@
             "40"
           ],
           "sku": "98595S_BLACK_40",
-          "available": false,
+          "available": true,
           "price": 760000,
           "compare_at_price": 950000
         },
@@ -19764,7 +19680,6 @@
       "type": "Court Shoes",
       "description": "<p>The Imported Formal Court-Shoes  come in a variety of colors, such as Black and Peach, and are designed for both indoor and outdoor wear. The Sheet Sole and Medium Pencil Heel provide comfortable fashion options, while the Rhinestones material ensures durability.</p>\n<ul>\n<li>Color: Black, Peach</li>\n<li>Indoor &amp; Outdoor Fashion</li>\n<li>Party wear</li>\n<li>Sheet Sole</li>\n<li>Heel Size 3 Inch</li>\n<li>Pencil Heel</li>\n<li>Material: Rhinestones</li>\n<li>Article No: 98347S</li>\n</ul>",
       "tags": [
-        "36",
         "37",
         "50per",
         "BRIDAL",
@@ -19830,7 +19745,7 @@
             "36"
           ],
           "sku": "98347S_PEACH_36",
-          "available": true,
+          "available": false,
           "price": 567500,
           "compare_at_price": 1135000
         },
@@ -22586,10 +22501,14 @@
         "party-wear"
       ],
       "images": [
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-1122590.jpg?v=1795187711",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-1513561.jpg?v=1795187711",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-3550101.jpg?v=1795101189",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-3884409.jpg?v=1795101189",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-5243685.jpg?v=1795101189",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-6239549.jpg?v=1795101189"
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-5442868.jpg?v=1795187711",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-6239549.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-court-shoes-98480s-walkeaze-9399947.jpg?v=1795187711"
       ],
       "options": [
         {
@@ -27382,7 +27301,7 @@
             "39"
           ],
           "sku": "98340S_SILVER_39",
-          "available": true,
+          "available": false,
           "price": 852000,
           "compare_at_price": 1065000
         },
@@ -29712,8 +29631,12 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98473s-walkeaze-1643667.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98473s-walkeaze-2076633.jpg?v=1795187712",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98473s-walkeaze-3232243.jpg?v=1795187712",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98473s-walkeaze-3434250.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98473s-walkeaze-3904595.jpg?v=1795187712",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98473s-walkeaze-6056945.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98473s-walkeaze-6122628.jpg?v=1795187712",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98473s-walkeaze-9053155.jpg?v=1795101189"
       ],
       "options": [
@@ -29920,10 +29843,14 @@
         "party-wear"
       ],
       "images": [
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-2198056.jpg?v=1795187712",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-4461045.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-4532174.jpg?v=1795187712",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-7903104.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-8959301.jpg?v=1795187712",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-9230069.jpg?v=1795101189",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-9903797.jpg?v=1795101189"
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-9903797.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98474s-walkeaze-9998473.jpg?v=1795187712"
       ],
       "options": [
         {
@@ -30631,9 +30558,13 @@
         "party-wear"
       ],
       "images": [
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98478s-walkeaze-1425425.jpg?v=1795187710",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98478s-walkeaze-2142313.jpg?v=1795101190",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98478s-walkeaze-2563847.jpg?v=1795187711",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98478s-walkeaze-2712907.jpg?v=1795101190",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98478s-walkeaze-5276541.jpg?v=1795101190",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98478s-walkeaze-5314422.jpg?v=1795187710",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98478s-walkeaze-5748243.jpg?v=1795187711",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98478s-walkeaze-8808717.jpg?v=1795101190"
       ],
       "options": [
@@ -31506,7 +31437,7 @@
             "40"
           ],
           "sku": "98492S_GOLDEN_40",
-          "available": true,
+          "available": false,
           "price": 852000,
           "compare_at_price": 1065000
         },
@@ -32553,7 +32484,6 @@
       "tags": [
         "20per",
         "38",
-        "39",
         "BRIDAL",
         "BRIDALS",
         "Black",
@@ -32565,7 +32495,6 @@
         "HEELS",
         "Hot Seller",
         "Life Style Images",
-        "Maroon",
         "Miss Signature",
         "Mother day",
         "Pre Ramadan",
@@ -32655,7 +32584,7 @@
             "39"
           ],
           "sku": "98552S_MAROON_39",
-          "available": true,
+          "available": false,
           "price": 844000,
           "compare_at_price": 1055000
         },
@@ -33125,11 +33054,9 @@
       "type": "Slingback",
       "description": "<p>The Imported Formal Slingback come in a variety of colors, such as Black and Beige, and are designed for both indoor and outdoor wear. The Sheet Sole and Medium Pencil Heel provide comfortable fashion options, while the Rexine material ensures durability.</p>\n<ul>\n<li>Color: Black, Beige</li>\n<li>Indoor &amp; Outdoor Fashion</li>\n<li>Party wear</li>\n<li>Sheet Sole</li>\n<li>Heel Size 2.5 Inch</li>\n<li>Pencil Heel</li>\n<li>Material: Rexine</li>\n<li>Article No: 98556S</li>\n</ul>",
       "tags": [
-        "41",
         "50per",
         "BRIDAL",
         "BRIDALS",
-        "Black",
         "Black and White",
         "FOOTWEAR",
         "FR",
@@ -33252,7 +33179,7 @@
             "41"
           ],
           "sku": "98556S_Black_41",
-          "available": true,
+          "available": false,
           "price": 527500,
           "compare_at_price": 1055000
         },
@@ -33329,7 +33256,7 @@
           "compare_at_price": 1055000
         }
       },
-      "available": true
+      "available": false
     },
     "9479523074296": {
       "id": "9479523074296",
@@ -34821,7 +34748,7 @@
             "39"
           ],
           "sku": "98568S_BLACK_39",
-          "available": true,
+          "available": false,
           "price": 844000,
           "compare_at_price": 1055000
         },
@@ -35129,8 +35056,12 @@
       "images": [
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-3868570.jpg?v=1795101189",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-5458056.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-5975274.jpg?v=1795187710",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-6001883.jpg?v=1795187710",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-6533415.jpg?v=1795101189",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-7096069.jpg?v=1795101190"
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-6692960.jpg?v=1795187710",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-7096069.jpg?v=1795101190",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98598s-walkeaze-8620837.jpg?v=1795187710"
       ],
       "options": [
         {
@@ -35337,9 +35268,13 @@
         "party-wear"
       ],
       "images": [
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98599s-walkeaze-1169888.jpg?v=1795187711",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98599s-walkeaze-1230685.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98599s-walkeaze-3829965.jpg?v=1795187711",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98599s-walkeaze-5338696.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98599s-walkeaze-6107096.jpg?v=1795187711",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98599s-walkeaze-6450361.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98599s-walkeaze-8723446.jpg?v=1795187711",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98599s-walkeaze-8962148.jpg?v=1795101189"
       ],
       "options": [
@@ -35653,7 +35588,7 @@
             "36"
           ],
           "sku": "98600S_GOLDEN_36",
-          "available": true,
+          "available": false,
           "price": 900000,
           "compare_at_price": 1125000
         },
@@ -35755,9 +35690,13 @@
         "party-wear"
       ],
       "images": [
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98601s-walkeaze-2806819.jpg?v=1795187712",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98601s-walkeaze-2908685.jpg?v=1795187712",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98601s-walkeaze-3208356.jpg?v=1795187712",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98601s-walkeaze-4281630.jpg?v=1795101190",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98601s-walkeaze-4536100.jpg?v=1795101189",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98601s-walkeaze-5135799.jpg?v=1795101189",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98601s-walkeaze-6190909.jpg?v=1795187712",
         "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/imported-formal-slingback-98601s-walkeaze-8557569.jpg?v=1795101189"
       ],
       "options": [
@@ -37788,7 +37727,7 @@
             "41"
           ],
           "sku": "98529S_NAVY_41",
-          "available": true,
+          "available": false,
           "price": 476300,
           "compare_at_price": 635000
         }
@@ -38223,7 +38162,6 @@
         "38",
         "39",
         "40",
-        "41",
         "FOOTWEAR",
         "FR",
         "Hot Seller",
@@ -38337,7 +38275,7 @@
             "41"
           ],
           "sku": "98532S_PINK_41",
-          "available": true,
+          "available": false,
           "price": 487500,
           "compare_at_price": 650000
         },
@@ -39985,10 +39923,10 @@
         "Wedding Edit"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/indigo-for-unisex-100-ml-walkeaze-1322932.jpg?v=1793715009",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/indigo-for-unisex-100-ml-walkeaze-6042571.jpg?v=1793715010",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/indigo-for-unisex-100-ml-walkeaze-7227787.jpg?v=1793715010",
-        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/indigo-for-unisex-100-ml-walkeaze-9010148.jpg?v=1793715010"
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/indigo-for-unisex-100-ml-walkeaze-1709589.jpg?v=1795187708",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/indigo-for-unisex-100-ml-walkeaze-1917220.jpg?v=1795187708",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/indigo-for-unisex-100-ml-walkeaze-5157468.jpg?v=1795187708",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/indigo-for-unisex-100-ml-walkeaze-9999491.jpg?v=1795187708"
       ],
       "options": [
         {
@@ -42204,6 +42142,94 @@
             "Caramel"
           ],
           "sku": "LIQUID FOUNDATION_CARAMEL_5",
+          "available": true,
+          "price": 420000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "9478671565048": {
+      "id": "9478671565048",
+      "title": "Liquid Foundation - Fair",
+      "handle": "liquid-foundation",
+      "url": "https://walkeaze.com/products/liquid-foundation",
+      "vendor": "Haya Beauty",
+      "type": "Liquid Foundation",
+      "description": "<p>Experience the perfect blend of coverage, hydration, and long-lasting wear with Haya Beauty Liquid Foundation. This lightweight and breathable foundation is specially designed to provide a natural, radiant look while controlling oil and reducing shine. Enriched with skin-loving botanicals, it helps hydrate and balance your skin for a flawless finish.<br><br><strong>KEY FEATURES</strong></p>\n<ul>\n<li>\n<strong>Flawless Coverage:</strong><span> </span>Buildable 24-hour wear that evens out skin tone, conceals imperfections, and minimizes fine lines for a radiant, natural look.</li>\n<li>\n<strong>Oil Control:</strong><span> </span>Formulated with oil-controlling ingredients to reduce shine and maintain a smooth, matte finish throughout the day.</li>\n<li>\n<strong>Hydrating Formula:</strong><span> </span>Infused with Aloe Vera, Echinacea, and Barbary Fig extracts to keep your skin hydrated and balanced all day long.</li>\n<li>\n<strong>Lightweight &amp; Breathable:</strong><span> </span>Creamy, breathable texture ensures all-day comfort with a natural allure.</li>\n<li>\n<strong>Suitable for All Skin Types:</strong><span> </span>Whether you have oily, dry, or combination skin, this foundation adapts to your needs.</li>\n</ul>",
+      "tags": [
+        "FR",
+        "Face",
+        "Haya",
+        "Liquid Foundation",
+        "Makeup"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/FAir.webp?v=1785403657",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/liquid-foundation-fair-walkeaze-1290009.webp?v=1785457027",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/liquid-foundation-fair-walkeaze-5034273.webp?v=1785457027"
+      ],
+      "options": [
+        {
+          "name": "Makeup shade",
+          "position": 1,
+          "values": [
+            "Fair"
+          ]
+        }
+      ],
+      "variants": {
+        "48248148852984": {
+          "id": "48248148852984",
+          "title": "Fair",
+          "options": [
+            "Fair"
+          ],
+          "sku": "LIQUID FOUNDATION_FAIR_1",
+          "available": true,
+          "price": 420000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "10244755357944": {
+      "id": "10244755357944",
+      "title": "Liquid Foundation - Ivory",
+      "handle": "liquid-foundation-ivory",
+      "url": "https://walkeaze.com/products/liquid-foundation-ivory",
+      "vendor": "Haya Beauty",
+      "type": "Liquid Foundation",
+      "description": "<p>Experience the perfect blend of coverage, hydration, and long-lasting wear with Haya Beauty Liquid Foundation. This lightweight and breathable foundation is specially designed to provide a natural, radiant look while controlling oil and reducing shine. Enriched with skin-loving botanicals, it helps hydrate and balance your skin for a flawless finish.<br><br><strong>KEY FEATURES</strong></p>\n<ul>\n<li>\n<strong>Flawless Coverage:</strong><span> </span>Buildable 24-hour wear that evens out skin tone, conceals imperfections, and minimizes fine lines for a radiant, natural look.</li>\n<li>\n<strong>Oil Control:</strong><span> </span>Formulated with oil-controlling ingredients to reduce shine and maintain a smooth, matte finish throughout the day.</li>\n<li>\n<strong>Hydrating Formula:</strong><span> </span>Infused with Aloe Vera, Echinacea, and Barbary Fig extracts to keep your skin hydrated and balanced all day long.</li>\n<li>\n<strong>Lightweight &amp; Breathable:</strong><span> </span>Creamy, breathable texture ensures all-day comfort with a natural allure.</li>\n<li>\n<strong>Suitable for All Skin Types:</strong><span> </span>Whether you have oily, dry, or combination skin, this foundation adapts to your needs.</li>\n</ul>",
+      "tags": [
+        "FR",
+        "Face",
+        "Haya",
+        "Liquid Foundation",
+        "Makeup"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/ivory.webp?v=1785403625",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/liquid-foundation-ivory-walkeaze-5277499.webp?v=1785456607",
+        "https://cdn.shopify.com/s/files/1/0502/1748/4438/files/liquid-foundation-ivory-walkeaze-9413684.webp?v=1785456607"
+      ],
+      "options": [
+        {
+          "name": "Makeup shade",
+          "position": 1,
+          "values": [
+            "Ivory"
+          ]
+        }
+      ],
+      "variants": {
+        "50078573756664": {
+          "id": "50078573756664",
+          "title": "Ivory",
+          "options": [
+            "Ivory"
+          ],
+          "sku": "LIQUID FOUNDATION_IVORY_3",
           "available": true,
           "price": 420000,
           "compare_at_price": null
