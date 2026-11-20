@@ -3,7 +3,7 @@
   "source": "https://lawrencepur.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-19T17:36:25.393811+00:00",
+  "checked_at": "2026-11-20T10:20:57.810789+00:00",
   "products": {
     "9252758126849": {
       "id": "9252758126849",
@@ -3088,7 +3088,7 @@
             "54/40"
           ],
           "sku": "2980-02111-010-0-000",
-          "available": false,
+          "available": true,
           "price": 3500000,
           "compare_at_price": 5000000
         },
@@ -12669,7 +12669,7 @@
             "L"
           ],
           "sku": "2270-30151-060-8-003",
-          "available": true,
+          "available": false,
           "price": 405000,
           "compare_at_price": 810000
         },
@@ -58772,122 +58772,6 @@
           "sku": "2010-22512-070-0-002",
           "available": false,
           "price": 1500000,
-          "compare_at_price": null
-        }
-      },
-      "available": true
-    },
-    "8096162119937": {
-      "id": "8096162119937",
-      "title": "Ladies Zipper - Woolen Fleece Grey Plain",
-      "handle": "zipper-woolen-fleece-grey-plain",
-      "url": "https://lawrencepur.com/products/zipper-woolen-fleece-grey-plain",
-      "vendor": "Woolen Fleece - Poly Wool",
-      "type": "Zipper",
-      "description": "<p>Ladies Zipper - Woolen Fleece Grey Plain</p>",
-      "tags": [
-        "30% discount _31st dec",
-        "FLAT 35%",
-        "Ladies Ready To Wear",
-        "WOMEN",
-        "Woolen Fleece",
-        "active_product",
-        "blessed friday_0.3"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0647/7093/2993/files/2130-05603-020-0-001_LadiesZipperJacket.jpg?v=1740127710"
-      ],
-      "options": [
-        {
-          "name": "Style",
-          "position": 1,
-          "values": [
-            "APS"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 3,
-          "values": [
-            "Grey"
-          ]
-        }
-      ],
-      "variants": {
-        "45640784183553": {
-          "id": "45640784183553",
-          "title": "APS / XS / Grey",
-          "options": [
-            "APS",
-            "XS",
-            "Grey"
-          ],
-          "sku": "2130-05603-020-0-001",
-          "available": true,
-          "price": 461000,
-          "compare_at_price": null
-        },
-        "45640784216321": {
-          "id": "45640784216321",
-          "title": "APS / S / Grey",
-          "options": [
-            "APS",
-            "S",
-            "Grey"
-          ],
-          "sku": "2130-05603-020-0-001",
-          "available": true,
-          "price": 461000,
-          "compare_at_price": null
-        },
-        "45640784249089": {
-          "id": "45640784249089",
-          "title": "APS / M / Grey",
-          "options": [
-            "APS",
-            "M",
-            "Grey"
-          ],
-          "sku": "2130-05603-020-0-001",
-          "available": false,
-          "price": 461000,
-          "compare_at_price": null
-        },
-        "45640784281857": {
-          "id": "45640784281857",
-          "title": "APS / L / Grey",
-          "options": [
-            "APS",
-            "L",
-            "Grey"
-          ],
-          "sku": "2130-05603-020-0-001",
-          "available": false,
-          "price": 461000,
-          "compare_at_price": null
-        },
-        "45640784314625": {
-          "id": "45640784314625",
-          "title": "APS / XL / Grey",
-          "options": [
-            "APS",
-            "XL",
-            "Grey"
-          ],
-          "sku": "2130-05603-020-0-001",
-          "available": false,
-          "price": 461000,
           "compare_at_price": null
         }
       },
