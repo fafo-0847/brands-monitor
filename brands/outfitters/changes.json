@@ -1,7 +1,526 @@
 {
-  "checked_at": "2026-11-19T15:58:50.360765+00:00",
-  "baseline_created": true,
-  "product_count": 1256,
-  "change_count": 0,
-  "changes": []
+  "checked_at": "2026-11-20T08:48:08.904054+00:00",
+  "baseline_created": false,
+  "product_count": 1241,
+  "change_count": 74,
+  "changes": [
+    {
+      "product_id": "7212847202495",
+      "title": "Fearless",
+      "url": "https://outfitters.com.pk/products/f0008-124",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8169800827071",
+      "title": "Basic Shirt",
+      "url": "https://outfitters.com.pk/products/f0918-103",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8181595144383",
+      "title": "BI-Fold Leather Card Holder",
+      "url": "https://outfitters.com.pk/products/f0234-113",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8213269479615",
+      "title": "Crew Neck Ribbed Sweater",
+      "url": "https://outfitters.com.pk/products/crew-neck-ribbed-sweater",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8218048495807",
+      "title": "Graphic Quarter Zip-Up Sweatshirt",
+      "url": "https://outfitters.com.pk/products/graphic-quarter-zip-up-sweatshirt-1",
+      "kind": "New product",
+      "detail": "Price: PKR 2,990.00; available sizes/options: Antique White / L / WS-25"
+    },
+    {
+      "product_id": "8219790213311",
+      "title": "Basic Resort Collar Shirt",
+      "url": "https://outfitters.com.pk/products/f0995-103?variant=44638198235327",
+      "kind": "Sold out",
+      "detail": "Off White / S / WS-25"
+    },
+    {
+      "product_id": "8229188272319",
+      "title": "Balloon Fit Jeans",
+      "url": "https://outfitters.com.pk/products/f0721-109?variant=44679733346495",
+      "kind": "Sold out",
+      "detail": "Denim Blue / 36 / WS-25"
+    },
+    {
+      "product_id": "8232039252159",
+      "title": "High-Top Chunky Sneakers",
+      "url": "https://outfitters.com.pk/products/f0331-112?variant=44693071036607",
+      "kind": "Sold out",
+      "detail": "Light Grey / 42 / WS-25"
+    },
+    {
+      "product_id": "8247266476223",
+      "title": "Rubberized Clogs",
+      "url": "https://outfitters.com.pk/products/f0349-112?variant=44762011304127",
+      "kind": "Back in stock",
+      "detail": "Taupe / 42/43 / WS-25"
+    },
+    {
+      "product_id": "8270572060863",
+      "title": "Multi-Piece Contrast Trainers",
+      "url": "https://outfitters.com.pk/products/f0339-112",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8270573142207",
+      "title": "Wide Leg Trousers",
+      "url": "https://outfitters.com.pk/products/f0626-108",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8270573863103",
+      "title": "Button Up Shirt",
+      "url": "https://outfitters.com.pk/products/f1004-103?variant=44858592526527",
+      "kind": "Sold out",
+      "detail": "Sand / S-M / SS-26"
+    },
+    {
+      "product_id": "8270575468735",
+      "title": "Graphic T-Shirt",
+      "url": "https://outfitters.com.pk/products/f1625-106?variant=44858602520767",
+      "kind": "Sold out",
+      "detail": "Emerald / M / SS-26"
+    },
+    {
+      "product_id": "8273724178623",
+      "title": "Polo Shirt With Label Patch",
+      "url": "https://outfitters.com.pk/products/f1506-106?variant=44873622913215",
+      "kind": "Sold out",
+      "detail": "Khaaki / XL / SS-26"
+    },
+    {
+      "product_id": "8278682697919",
+      "title": "Short Crew Socks",
+      "url": "https://outfitters.com.pk/products/f0166-119",
+      "kind": "New product",
+      "detail": "Price: PKR 490.00; available sizes/options: Multi Color / 43-46 / SS-26"
+    },
+    {
+      "product_id": "8278683058367",
+      "title": "Baggy Fit Jeans",
+      "url": "https://outfitters.com.pk/products/f0746-109?variant=44900608704703",
+      "kind": "Sold out",
+      "detail": "Indigo Blue / 34 / SS-26"
+    },
+    {
+      "product_id": "8283618607295",
+      "title": "Pack of 3 Boxers",
+      "url": "https://outfitters.com.pk/products/f0169-122",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8283618836671",
+      "title": "Pack Of 3-Boxers",
+      "url": "https://outfitters.com.pk/products/f0171-122",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8283623784639",
+      "title": "Textured Rubber Slides",
+      "url": "https://outfitters.com.pk/products/f0364-112",
+      "kind": "New product",
+      "detail": "Price: PKR 1,190.00 – PKR 2,490.00; available sizes/options: Black / 41 / SS-26"
+    },
+    {
+      "product_id": "8283628765375",
+      "title": "Skater Fit Cargo Jeans",
+      "url": "https://outfitters.com.pk/products/f0645-109?variant=45178896974015",
+      "kind": "Sold out",
+      "detail": "Black / 34 / SS-26"
+    },
+    {
+      "product_id": "8283648229567",
+      "title": "Crew Neck T-Shirt",
+      "url": "https://outfitters.com.pk/products/f1742-106?variant=44929573552319",
+      "kind": "Sold out",
+      "detail": "Brown / S / SS-26"
+    },
+    {
+      "product_id": "8298426597567",
+      "title": "Textured Crew Neck T-Shirt",
+      "url": "https://outfitters.com.pk/products/f1872-106?variant=45137058365631",
+      "kind": "Sold out",
+      "detail": "Blue Ice / L / SS-26"
+    },
+    {
+      "product_id": "8306754453695",
+      "title": "Baggy Fit Jeans",
+      "url": "https://outfitters.com.pk/products/f0651-109?variant=45162920509631",
+      "kind": "Sold out",
+      "detail": "Denim Blue / 34 / SS-26"
+    },
+    {
+      "product_id": "8306754584767",
+      "title": "Regular Fit Jogger Trousers",
+      "url": "https://outfitters.com.pk/products/f0721-108?variant=45162921623743",
+      "kind": "Sold out",
+      "detail": "Black / 32 / SS-26"
+    },
+    {
+      "product_id": "8308663386303",
+      "title": "Activewear Color Block Shorts",
+      "url": "https://outfitters.com.pk/products/f0228-125?variant=45167659974847",
+      "kind": "Sold out",
+      "detail": "Dark Blue / S / SS-26"
+    },
+    {
+      "product_id": "8308663910591",
+      "title": "Balloon Fit Jeans",
+      "url": "https://outfitters.com.pk/products/f0633-109?variant=45167663874239",
+      "kind": "Sold out",
+      "detail": "Indigo Blue / 32 / SS-26"
+    },
+    {
+      "product_id": "8308663976127",
+      "title": "Straight Fit Jeans",
+      "url": "https://outfitters.com.pk/products/f0646-109?variant=45167664955583",
+      "kind": "Sold out",
+      "detail": "Indigo Blue / 38 / SS-26"
+    },
+    {
+      "product_id": "8308663976127",
+      "title": "Straight Fit Jeans",
+      "url": "https://outfitters.com.pk/products/f0646-109?variant=45167665053887",
+      "kind": "Sold out",
+      "detail": "Skyway / 34 / SS-26"
+    },
+    {
+      "product_id": "8308664041663",
+      "title": "Straight Fit Jeans",
+      "url": "https://outfitters.com.pk/products/f0649-109?variant=45167665676479",
+      "kind": "Sold out",
+      "detail": "Denim Blue / 32 / SS-26"
+    },
+    {
+      "product_id": "8308664074431",
+      "title": "Relaxed Fit Trousers",
+      "url": "https://outfitters.com.pk/products/f0690-108",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8308664893631",
+      "title": "Contrast Knit Polo Shirt",
+      "url": "https://outfitters.com.pk/products/f1855-106?variant=45167670952127",
+      "kind": "Sold out",
+      "detail": "Brown / M / SS-26"
+    },
+    {
+      "product_id": "8310605840575",
+      "title": "Multi-Piece Sneakers",
+      "url": "https://outfitters.com.pk/products/f0393-112",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8310606004415",
+      "title": "Multi-Piece Sneakers",
+      "url": "https://outfitters.com.pk/products/f0399-112?variant=45172437647551",
+      "kind": "Sold out",
+      "detail": "Grey / 42 / SS-26"
+    },
+    {
+      "product_id": "8310606201023",
+      "title": "Textured Striped Shirt",
+      "url": "https://outfitters.com.pk/products/f1073-103?variant=45172439253183",
+      "kind": "Sold out",
+      "detail": "Dark Brown / L / SS-26"
+    },
+    {
+      "product_id": "8314857160895",
+      "title": "Slogan Print Polo Shirt",
+      "url": "https://outfitters.com.pk/products/f1726-106?variant=45178891534527",
+      "kind": "Sold out",
+      "detail": "Black / M / SS-26"
+    },
+    {
+      "product_id": "8314857390271",
+      "title": "Knitted Polo Shirt",
+      "url": "https://outfitters.com.pk/products/f1774-106?variant=45178892943551",
+      "kind": "Sold out",
+      "detail": "Black / S / SS-26"
+    },
+    {
+      "product_id": "8321254850751",
+      "title": "Monochrome Sneakers",
+      "url": "https://outfitters.com.pk/products/f0371-112?variant=45198819918015",
+      "kind": "Sold out",
+      "detail": "White / 42 / SS-26"
+    },
+    {
+      "product_id": "8336346644671",
+      "title": "Multi-Piece Sneakers",
+      "url": "https://outfitters.com.pk/products/f0403-112?variant=45244416065727",
+      "kind": "Sold out",
+      "detail": "Dark Green / 41 / SS-26"
+    },
+    {
+      "product_id": "8336346644671",
+      "title": "Multi-Piece Sneakers",
+      "url": "https://outfitters.com.pk/products/f0403-112?variant=45263313764543",
+      "kind": "Sold out",
+      "detail": "Yellow / 41 / SS-26"
+    },
+    {
+      "product_id": "8336346710207",
+      "title": "Baggy Fit Cargo Pants",
+      "url": "https://outfitters.com.pk/products/f0691-108?variant=45403900444863",
+      "kind": "Sold out",
+      "detail": "Black / 36 / SS-26"
+    },
+    {
+      "product_id": "8340877410495",
+      "title": "Suede Clogs",
+      "url": "https://outfitters.com.pk/products/f0392-112",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8340879245503",
+      "title": "Striped Polo Shirt",
+      "url": "https://outfitters.com.pk/products/f1768-106?variant=45263305212095",
+      "kind": "Sold out",
+      "detail": "Multi Colour / L / SS-26"
+    },
+    {
+      "product_id": "8381283336383",
+      "title": "Relaxed Fit Trousers",
+      "url": "https://outfitters.com.pk/products/f0706-108?variant=45416116125887",
+      "kind": "Sold out",
+      "detail": "Black / 36 / SS-26"
+    },
+    {
+      "product_id": "8396911902911",
+      "title": "Multi-Piece Mesh Sneakers",
+      "url": "https://outfitters.com.pk/products/f0377-112?variant=45480369520831",
+      "kind": "Sold out",
+      "detail": "Taupe / 43 / SS-26"
+    },
+    {
+      "product_id": "8406285746367",
+      "title": "Textured Flip Flops",
+      "url": "https://outfitters.com.pk/products/f0383-112?variant=45506883748031",
+      "kind": "Sold out",
+      "detail": "Beige / 44 / SS-26"
+    },
+    {
+      "product_id": "8406285779135",
+      "title": "Rubber Flip Flops",
+      "url": "https://outfitters.com.pk/products/f0384-112?variant=45506884010175",
+      "kind": "Sold out",
+      "detail": "Brown / 40 / SS-26"
+    },
+    {
+      "product_id": "8406286467263",
+      "title": "Slogan Print Shirt",
+      "url": "https://outfitters.com.pk/products/f1039-103?variant=45506890236095",
+      "kind": "Sold out",
+      "detail": "Cobalt / XL / SS-26"
+    },
+    {
+      "product_id": "8411015250111",
+      "title": "Balloon Fit Trousers With Pleat Detail",
+      "url": "https://outfitters.com.pk/products/f0735-108",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8411030814911",
+      "title": "Slogan Print Polo Shirt",
+      "url": "https://outfitters.com.pk/products/f1976-106",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8411031437503",
+      "title": "Color Block Slogan Print T-Shirt",
+      "url": "https://outfitters.com.pk/products/f1989-106",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8411031470271",
+      "title": "Varsity Graphic T-Shirt",
+      "url": "https://outfitters.com.pk/products/f1990-106",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8411032322239",
+      "title": "Slogan Print T-Shirt",
+      "url": "https://outfitters.com.pk/products/f1997-106",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8411042447551",
+      "title": "Color Block Raglan T-Shirt",
+      "url": "https://outfitters.com.pk/products/f2091-106?variant=45527525064895",
+      "kind": "Sold out",
+      "detail": "White / XXL / HS-26"
+    },
+    {
+      "product_id": "8411044577471",
+      "title": "Crew Neck T-Shirt",
+      "url": "https://outfitters.com.pk/products/f2117-106",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8411044610239",
+      "title": "Textured Slogan Print T-Shirt",
+      "url": "https://outfitters.com.pk/products/f2118-106",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8417885061311",
+      "title": "Quarter Zip Up Polo Shirt",
+      "url": "https://outfitters.com.pk/products/f1890-106?variant=45615460942015",
+      "kind": "Sold out",
+      "detail": "Dark Blue / L / SS-26"
+    },
+    {
+      "product_id": "8417885257919",
+      "title": "Slogan Print T-Shirt",
+      "url": "https://outfitters.com.pk/products/f2007-106?variant=45555431997631",
+      "kind": "Sold out",
+      "detail": "Stone / L / HS-26"
+    },
+    {
+      "product_id": "8426155147455",
+      "title": "Activewear Slogan Print Trousers",
+      "url": "https://outfitters.com.pk/products/f0252-125?variant=45633203798207",
+      "kind": "Sold out",
+      "detail": "Brown / M / HS-26"
+    },
+    {
+      "product_id": "8426156032191",
+      "title": "Relaxed Fit Trousers",
+      "url": "https://outfitters.com.pk/products/f0708-108?variant=45615441248447",
+      "kind": "Sold out",
+      "detail": "Peanut / 30 / SS-26"
+    },
+    {
+      "product_id": "8426156032191",
+      "title": "Relaxed Fit Trousers",
+      "url": "https://outfitters.com.pk/products/f0708-108?variant=45615441346751",
+      "kind": "Sold out",
+      "detail": "Peanut / 36 / SS-26"
+    },
+    {
+      "product_id": "8426156032191",
+      "title": "Relaxed Fit Trousers",
+      "url": "https://outfitters.com.pk/products/f0708-108?variant=45615441543359",
+      "kind": "Sold out",
+      "detail": "Black / 32 / SS-26"
+    },
+    {
+      "product_id": "8426157637823",
+      "title": "Slogan Print T-Shirt",
+      "url": "https://outfitters.com.pk/products/f1998-106?variant=45615449866431",
+      "kind": "Sold out",
+      "detail": "Dusty Green / L / HS-26"
+    },
+    {
+      "product_id": "8431515959487",
+      "title": "Regular Fit Cargo Jogger Trousers",
+      "url": "https://outfitters.com.pk/products/f0742-108?variant=45633160052927",
+      "kind": "Sold out",
+      "detail": "Black / XL / HS-26"
+    },
+    {
+      "product_id": "8431517597887",
+      "title": "Striped Shirt",
+      "url": "https://outfitters.com.pk/products/f1141-103",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8431517663423",
+      "title": "Seersucker Striped Shirt",
+      "url": "https://outfitters.com.pk/products/f1145-103?variant=45633170833599",
+      "kind": "Back in stock",
+      "detail": "Multi Color / M / HS-26"
+    },
+    {
+      "product_id": "8437502738623",
+      "title": "Textured Polo Shirt",
+      "url": "https://outfitters.com.pk/products/f2132-106?variant=45650359353535",
+      "kind": "Back in stock",
+      "detail": "Dark Olive / L / SS-26"
+    },
+    {
+      "product_id": "8448789512383",
+      "title": "Baggy Fit Cargo Pants",
+      "url": "https://outfitters.com.pk/products/f0772-109?variant=45800488304831",
+      "kind": "Back in stock",
+      "detail": "Dark Grey / 38 / HS-26"
+    },
+    {
+      "product_id": "8459213439167",
+      "title": "Activewear Trousers With Piping Detail",
+      "url": "https://outfitters.com.pk/products/f0257-125?variant=45824570458303",
+      "kind": "Sold out",
+      "detail": "Black / M / HS-26"
+    },
+    {
+      "product_id": "8463051817151",
+      "title": "Seersucker Checkered Shirt",
+      "url": "https://outfitters.com.pk/products/f1126-103",
+      "kind": "New product",
+      "detail": "Price: PKR 2,490.00; available sizes/options: Multi Color / S / HS-26, Multi Color / M / HS-26, Multi Color / L / HS-26, Multi Color / XL / HS-26"
+    },
+    {
+      "product_id": "8477216243903",
+      "title": "Crew Neck T-Shirt",
+      "url": "https://outfitters.com.pk/products/f2372-106?variant=45769065496767",
+      "kind": "Sold out",
+      "detail": "Magenta / XL / HS-26"
+    },
+    {
+      "product_id": "8487906934975",
+      "title": "Striped Polo Shirt",
+      "url": "https://outfitters.com.pk/products/f2125-106",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8487906967743",
+      "title": "Washed Out T-Shirt",
+      "url": "https://outfitters.com.pk/products/f2370-106?variant=45800421490879",
+      "kind": "Sold out",
+      "detail": "Deep Blue / L / HS-26"
+    },
+    {
+      "product_id": "8487906967743",
+      "title": "Washed Out T-Shirt",
+      "url": "https://outfitters.com.pk/products/f2370-106?variant=45800421884095",
+      "kind": "Sold out",
+      "detail": "Mid Grey / L / HS-26"
+    },
+    {
+      "product_id": "8493475004607",
+      "title": "Activewear Slogan Print T-Shirt",
+      "url": "https://outfitters.com.pk/products/f0242-125",
+      "kind": "New product",
+      "detail": "Price: PKR 1,390.00; available sizes/options: Off White / L / HS-26"
+    }
+  ]
 }
