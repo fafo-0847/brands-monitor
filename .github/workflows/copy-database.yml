@@ -1,0 +1,36 @@
+name: Copy the database to a new Supabase project
+# One-off move: reads the database in the DATABASE_URL secret (left unchanged) and copies it into
+# the empty project in the NEW_DATABASE_URL secret. Afterwards, put the new project's URL in
+# DATABASE_URL and the app config. See pipeline/README.md "Moving to a new project".
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type copy to start'
+        required: true
+        default: ''
+permissions:
+  contents: read
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+jobs:
+  copy:
+    if: github.event.inputs.confirm == 'copy'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      SOURCE_DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      DATABASE_URL: ${{ secrets.NEW_DATABASE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+      - run: pip install -r pipeline/requirements.txt
+      - name: Copy every table into the new project
+        run: python -m pipeline.copy_db
+      - name: Table sizes in the new project
+        run: python -m pipeline.maintain --stats

@@ -13,8 +13,10 @@ sections 5 and 7 for the design.
 | `pipeline/ingest.py` | Reads new commits per brand, upserts rows, writes history points and events |
 | `pipeline/normalize.py` | Shared category / gender / size vocabulary, text cleaning |
 | `pipeline/brand_types.json` | Per-brand category settings: type overrides, a primary category, whether the brand's own types are shown. Changing it (or `normalize.py`) re-labels every product on the next ingest |
+| `pipeline/copy_db.py` | One-off copy of the whole database into a new, empty Supabase project |
 | `pipeline/tests/` | Tests against a real Postgres |
 | `.github/workflows/ingest.yml` | Runs after the brands workflow finishes, or manually |
+| `.github/workflows/copy-database.yml` | Runs `copy_db.py` on request (type `copy`) |
 | `.github/workflows/pipeline-tests.yml` | Runs the tests on changes to `pipeline/` or `supabase/` |
 
 ## Commands
@@ -91,3 +93,23 @@ Only brands listed under `include` in `pipeline/ingest_brands.json` are loaded, 
 selection; the free database cannot hold every brand). A brand that has never been loaded is skipped once the
 database reaches `INGEST_MAX_DB_MB` (default 420); the log line `NOT LOADED` names the brands left out. The optional repository variable `INGEST_BRANDS` narrows a single run
 further, and `brands.ingest_enabled = false` switches one brand off.
+
+## Moving to a new project
+
+Used when the free database is nearly full: a fresh copy leaves behind the dead space VACUUM cannot hand
+back, so it starts smaller. The old project is only read and stays as it is until you delete it.
+
+1. In the new project: Authentication → Sign In / Providers → turn on **Anonymous sign-ins**.
+2. Add the new project's session pooler string as the repository secret `NEW_DATABASE_URL`.
+3. Actions → **Copy the database to a new Supabase project** → type `copy`. It waits for a running ingest,
+   applies the migrations, copies every catalog and pipeline table in one transaction (a failure leaves the
+   new database empty, so it can be run again) and prints the row counts and the new size.
+4. Replace `DATABASE_URL` with the new string, and put the new project's URL and anon key in
+   `app/app.json` (`extra.supabase`), then publish an over-the-air update.
+
+Accounts do not move (anonymous sign-ins belong to the old project), so the phone starts a new one. The
+watched articles wait in `private.moved_watches`; the first account to open the watchlist or a product
+page on the new project takes them over (`claim_moved_watches`). Alert history and per-account device rows
+are not copied; the phones re-register on the next app start. Ingest continues from the copied cursor, so
+scans made between the copy and the switch are loaded on the next run.
+

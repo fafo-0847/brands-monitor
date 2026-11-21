@@ -351,7 +351,27 @@ export type Alert = {
   read_at: string | null;
 };
 
+// After the database moves to a new Supabase project, the old watchlist waits there (accounts
+// cannot move) and the first account to look at it takes it over. Checked once per app start;
+// a database without these functions simply answers with an error, which is ignored.
+let movedWatchesChecked: Promise<void> | null = null;
+
+function claimMovedWatches(): Promise<void> {
+  movedWatchesChecked ??= (async () => {
+    const waiting = await supabase.rpc('moved_watches_waiting');
+    if (waiting.error || !waiting.data) return;
+    await ensureSession();
+    const claimed = await supabase.rpc('claim_moved_watches');
+    if (claimed.error) console.warn('Could not take over the moved watchlist:', claimed.error.message);
+  })().catch((error) => {
+    movedWatchesChecked = null;
+    console.warn('Moved watchlist check failed:', error?.message ?? error);
+  });
+  return movedWatchesChecked;
+}
+
 export async function isWatching(productId: number): Promise<boolean> {
+  await claimMovedWatches();
   if (!(await currentUserId())) return false;
   const { data, error } = await supabase
     .from('watches')
@@ -377,6 +397,7 @@ export async function removeWatch(productId: number): Promise<void> {
 }
 
 export async function listWatches(): Promise<WatchedProduct[]> {
+  await claimMovedWatches();
   if (!(await currentUserId())) return [];
   const { data, error } = await supabase
     .from('watches')
