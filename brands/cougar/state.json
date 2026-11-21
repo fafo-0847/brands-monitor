@@ -3,7 +3,7 @@
   "source": "https://cougar.com.pk/sitemap.xml",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-21T09:22:44.570091+00:00",
+  "checked_at": "2026-11-21T20:57:12.221708+00:00",
   "products": {
     "OMJLF2-00S-BLK": {
       "id": "OMJLF2-00S-BLK",
@@ -194,12 +194,12 @@
             "LW2524-FSZ-GRY"
           ],
           "sku": "LW2524-FSZ-GRY",
-          "available": true,
+          "available": false,
           "price": 118900,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "SHL503-FSZ-SKN": {
       "id": "SHL503-FSZ-SKN",
@@ -7763,12 +7763,12 @@
     },
     "GFT637-2Y3-BRN": {
       "id": "GFT637-2Y3-BRN",
-      "title": "Corduroy Jacket",
+      "title": "Corduroy Shirt",
       "handle": "corduroy-jacket-gft637",
       "url": "https://cougar.com.pk/products/corduroy-jacket-gft637",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Point collar, five-button front, two chest flap pockets with buttons, gathered elasticated hem and cuffs, waffle-grid textureStyle: JacketFabric: Polyester Corduroy",
+      "description": "Design Details: Point collar, five-button front, two chest flap pockets with buttons, gathered elasticated hem and cuffs, waffle-grid textureStyle: ShirtFabric: Polyester Corduroy",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/GFT637-2Y3-BRN_2.webp?v=1793019495"
@@ -11436,7 +11436,7 @@
       "url": "https://cougar.com.pk/products/cropped-wide-leg-jeans-jf2609",
       "vendor": null,
       "type": null,
-      "description": "Cropped Wide Leg Jeans",
+      "description": "Composition: 98% Cotton, 2% Elastane",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_0612copy.webp?v=1795105771"
@@ -14035,7 +14035,7 @@
     },
     "GKT604-2Y3-BEI": {
       "id": "GKT604-2Y3-BEI",
-      "title": "Graphic Trousers",
+      "title": "Graphic  Jogger Trousers",
       "handle": "gkt604-bei",
       "url": "https://cougar.com.pk/products/gkt604-bei",
       "vendor": null,
@@ -14091,12 +14091,12 @@
     },
     "GKT607-7Y8-CRM": {
       "id": "GKT607-7Y8-CRM",
-      "title": "Interlock Joggers",
+      "title": "Interlock Jogger Trousers",
       "handle": "gkt607-crm",
       "url": "https://cougar.com.pk/products/gkt607-crm",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Elasticated drawcord waist, side pockets, elasticated cuffsStyle: JoggersFabric: Interlock",
+      "description": "Design Details: Elasticated drawcord waist, side pockets, elasticated cuffsStyle: Jogger TrousersFabric: Interlock",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_3542.webp?v=1793083635"
@@ -14119,7 +14119,7 @@
     },
     "GKT608-2Y3-LTS": {
       "id": "GKT608-2Y3-LTS",
-      "title": "Knitted Trousers",
+      "title": "Knitted Jogger Trousers",
       "handle": "gkt608-lts",
       "url": "https://cougar.com.pk/products/gkt608-lts",
       "vendor": null,
@@ -14147,7 +14147,7 @@
     },
     "GKT609-2Y3-WIN": {
       "id": "GKT609-2Y3-WIN",
-      "title": "Knitted Trousers",
+      "title": "Knitted  Jogger Trousers",
       "handle": "gkt609-win",
       "url": "https://cougar.com.pk/products/gkt609-win",
       "vendor": null,
@@ -18320,8 +18320,8 @@
     "SFG621-XSS-RST": {
       "id": "SFG621-XSS-RST",
       "title": "Draped Panel Sweater",
-      "handle": "sfg621-rst",
-      "url": "https://cougar.com.pk/products/sfg621-rst",
+      "handle": "draped-panel-sweater-sfg621",
+      "url": "https://cougar.com.pk/products/draped-panel-sweater-sfg621",
       "vendor": null,
       "type": null,
       "description": "Design Details: Round neck with a single contrast button at the shoulder holding a long attached drape panel, wide sleeves, and side slits at the hemStyle: Sweater",
@@ -21399,12 +21399,12 @@
     },
     "GFT642-2Y3-PLM": {
       "id": "GFT642-2Y3-PLM",
-      "title": "Jacket With Pocket Flaps",
+      "title": "Shirt With Pocket Flaps",
       "handle": "jacket-with-pocket-flaps-gft642",
       "url": "https://cougar.com.pk/products/jacket-with-pocket-flaps-gft642",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Check pattern, spread collar, button front, chest pocket flaps, cropped lengthStyle: Cropped JacketFabric: Poly Woolen",
+      "description": "Design Details: Check pattern, spread collar, button front, chest pocket flaps, cropped lengthStyle: Cropped Fabric: Poly Woolen",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_5961copy.webp?v=1794900561"
@@ -21516,7 +21516,7 @@
       "url": "https://cougar.com.pk/products/pleated-trousers-cf2620",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Solid trousers with a part-elasticated waistband, button closure, single front pleats, belt loops, and slant side pocketsStyle: Pleated TrousersFit: Relaxed Tapered Fit",
+      "description": "Design Details: Solid trousers with a part-elasticated waistband, button closure, single front pleats, belt loops, and slant side pocketsStyle: Pleated TrousersFit: Relaxed Tapered FitComposition: 100% Cotton",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_6303copy.webp?v=1795013515"
@@ -21544,7 +21544,7 @@
       "url": "https://cougar.com.pk/products/drawstring-relaxed-chino-pants-cf2620",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Faded wash jeans with light distressed marks, five-pocket styling, button and zip closure, and belt loopsStyle: Drawstring Fit: Relaxed",
+      "description": "Design Details: Faded wash jeans with light distressed marks, five-pocket styling, button and zip closure, and belt loopsStyle: Drawstring Fit: RelaxedComposition: 98% Cotton, 2% Elastane",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/pents_0001_IMG_6239.webp?v=1795013582"
@@ -23224,7 +23224,7 @@
       "url": "https://cougar.com.pk/products/skinny-ripped-jeans-df2624",
       "vendor": null,
       "type": null,
-      "description": "Skinny Ripped Jeans",
+      "description": "Composition: 98% Cotton, 2% Elastane",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/pents_0007_IMG_6200.webp?v=1795013706"
@@ -23976,8 +23976,8 @@
     "LTR640-0XS-LPK": {
       "id": "LTR640-0XS-LPK",
       "title": "Paneled Trousers",
-      "handle": "ltr640-lpk",
-      "url": "https://cougar.com.pk/products/ltr640-lpk",
+      "handle": "paneled-trousers-ltr640",
+      "url": "https://cougar.com.pk/products/paneled-trousers-ltr640",
       "vendor": null,
       "type": null,
       "description": "Design Details: Elasticated drawstring waist with deep turn-up cuffs at the hem and side pocketsStyle: TrousersFabric: Blended Cotton",
@@ -24060,8 +24060,8 @@
     "TLF638-0XS-SKN": {
       "id": "TLF638-0XS-SKN",
       "title": "Cowl Neck Belted Top",
-      "handle": "tlf638-skn",
-      "url": "https://cougar.com.pk/products/tlf638-skn",
+      "handle": "cowl-neck-belted-top-tlf638",
+      "url": "https://cougar.com.pk/products/cowl-neck-belted-top-tlf638",
       "vendor": null,
       "type": null,
       "description": "Design Details: Draped cowl neckline, bishop sleeves with elasticated cuffs, buckle belt at the waist, and a curved asymmetric hemStyle: Top",
@@ -24116,8 +24116,8 @@
     "TLF643-0XS-LBU": {
       "id": "TLF643-0XS-LBU",
       "title": "Statement Collar Shirt",
-      "handle": "tlf643-lbu",
-      "url": "https://cougar.com.pk/products/tlf643-lbu",
+      "handle": "statement-collar-shirt-tlf643",
+      "url": "https://cougar.com.pk/products/statement-collar-shirt-tlf643",
       "vendor": null,
       "type": null,
       "description": "Design Details: Oversized pointed collar with button-through front and elasticated balloon cuffsStyle: ShirtFabric: Woven",
@@ -24703,7 +24703,7 @@
     },
     "BTW615-2Y3-BLK": {
       "id": "BTW615-2Y3-BLK",
-      "title": "Cuffed Jogger",
+      "title": "Jogger Trousers",
       "handle": "cuffed-jogger-btw615",
       "url": "https://cougar.com.pk/products/cuffed-jogger-btw615",
       "vendor": null,
@@ -24731,7 +24731,7 @@
     },
     "BTW616-2Y3-BLK": {
       "id": "BTW616-2Y3-BLK",
-      "title": "Side Piping Jogger",
+      "title": "Side Piping Jogger Trousers",
       "handle": "side-piping-jogger-btw616",
       "url": "https://cougar.com.pk/products/side-piping-jogger-btw616",
       "vendor": null,
@@ -25375,12 +25375,12 @@
     },
     "JM2612-00S-GRY": {
       "id": "JM2612-00S-GRY",
-      "title": "Textured Jacket",
+      "title": "MÃ©lange Rib Snap Jacket",
       "handle": "textured-jacket-jm2612",
       "url": "https://cougar.com.pk/products/textured-jacket-jm2612",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Mock neck with contrast buttons, side welt pockets, ribbed cuffs Style: JacketFabric: FleeceComposition: 68% Polyester, 24% Nylon, 3% Spandex, 5% Wool",
+      "description": "Design Details: Mock neck with contrast buttons, side welt pockets, ribbed cuffs Style: JacketComposition: 68% Polyester, 24% Nylon, 3% Spandex, 5% Wool",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_2319copy.webp?v=1794909310"
@@ -25403,12 +25403,12 @@
     },
     "JM2613-00S-CWT": {
       "id": "JM2613-00S-CWT",
-      "title": "Ribbed Fleece Zip Jacket",
+      "title": "Ribbed Zip Jacket",
       "handle": "ribbed-fleece-zip-jacket-jm2613",
       "url": "https://cougar.com.pk/products/ribbed-fleece-zip-jacket-jm2613",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Spread collar, zip front, ribbed texture, side welt pockets, contrast inner liningStyle: Collared Zip JacketFabric: Fleece",
+      "description": "Design Details: Spread collar, zip front, ribbed texture, side welt pockets, contrast inner liningStyle: Collared Zip Jacket",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_2164copy.webp?v=1794909259"
@@ -25460,8 +25460,8 @@
     "JM2628-00M-LGY": {
       "id": "JM2628-00M-LGY",
       "title": "Contrast Hood Bomber",
-      "handle": "jm2628-lgy",
-      "url": "https://cougar.com.pk/products/jm2628-lgy",
+      "handle": "contrast-hood-bomber-jm2628",
+      "url": "https://cougar.com.pk/products/contrast-hood-bomber-jm2628",
       "vendor": null,
       "type": null,
       "description": "Design Details: Contrast hood with drawstrings, zip front, zip side pockets, zip sleeve pocket, rib knit collar, cuffs and hem, quilted liningStyle: Hooded Bomber",
@@ -25488,8 +25488,8 @@
     "JM2629-00M-MEH": {
       "id": "JM2629-00M-MEH",
       "title": "Hooded Bomber",
-      "handle": "jm2629-meh",
-      "url": "https://cougar.com.pk/products/jm2629-meh",
+      "handle": "hooded-bomber-jm2629",
+      "url": "https://cougar.com.pk/products/hooded-bomber-jm2629",
       "vendor": null,
       "type": null,
       "description": "Design Details: Drawstring hood with a quilted lining, detachable hood, fleece-lined mock neck, full zip front, zipped side pockets, and ribbed cuffs and hemStyle: Bomber",
@@ -25516,8 +25516,8 @@
     "JM2630-00M-SGR": {
       "id": "JM2630-00M-SGR",
       "title": "Lightweight Harrington Jacket",
-      "handle": "jm2630-sgr",
-      "url": "https://cougar.com.pk/products/jm2630-sgr",
+      "handle": "lightweight-harrington-jacket-jm2630",
+      "url": "https://cougar.com.pk/products/lightweight-harrington-jacket-jm2630",
       "vendor": null,
       "type": null,
       "description": "Design Details: Mock neck with full zip front, flap side pockets, elasticated cuffs, and hemStyle: Harrington",
@@ -25768,8 +25768,8 @@
     "SN2609-00S-CHL": {
       "id": "SN2609-00S-CHL",
       "title": "Shawl Collar Pullover",
-      "handle": "sn2609-chl",
-      "url": "https://cougar.com.pk/products/sn2609-chl",
+      "handle": "shawl-collar-pullover-sn2609",
+      "url": "https://cougar.com.pk/products/shawl-collar-pullover-sn2609",
       "vendor": null,
       "type": null,
       "description": "Design Details: Wide ribbed shawl collar on a plain body, dropped shoulders, and ribbed cuffs and hemStyle: SweaterKnit: Fine Knit",
@@ -25824,8 +25824,8 @@
     "SN2601-00S-RST": {
       "id": "SN2601-00S-RST",
       "title": "Roll Neck Sweater",
-      "handle": "sn2601-rst",
-      "url": "https://cougar.com.pk/products/sn2601-rst",
+      "handle": "roll-neck-sweater-sn2601",
+      "url": "https://cougar.com.pk/products/roll-neck-sweater-sn2601",
       "vendor": null,
       "type": null,
       "description": "Design Details: Roll neck with raglan sleeves and an all-over chunky rib, ribbed cuffs and hemStyle: Sweater",
@@ -26384,8 +26384,8 @@
     "WTS611-FSZ-DGR": {
       "id": "WTS611-FSZ-DGR",
       "title": "Zip Knit Co-Ord Set",
-      "handle": "wts611-dgr",
-      "url": "https://cougar.com.pk/products/wts611-dgr",
+      "handle": "zip-knit-co-ord-set-wts611",
+      "url": "https://cougar.com.pk/products/zip-knit-co-ord-set-wts611",
       "vendor": null,
       "type": null,
       "description": "Design Details: Zip-up cardigan with funnel collar, two-way zip, patch pockets and ribbed cuffs and hem; wide leg trousers with elasticated waistStyle: Co-Ord SetKnit: Fine Knit",
@@ -26468,8 +26468,8 @@
     "WTS614-FSZ-GRY": {
       "id": "WTS614-FSZ-GRY",
       "title": "Rosette Knit Co-Ord Set",
-      "handle": "wts614-gry",
-      "url": "https://cougar.com.pk/products/wts614-gry",
+      "handle": "rosette-knit-co-ord-set-wts614",
+      "url": "https://cougar.com.pk/products/rosette-knit-co-ord-set-wts614",
       "vendor": null,
       "type": null,
       "description": "Design Details: Batwing sweater with boat neck, crochet rosettes and ribbed hem; A-line midi skirt with ribbed elasticated waistStyle: Co-Ord SetKnit: Brushed Knit",
@@ -26944,8 +26944,8 @@
     "SFG654-FSZ-Cof": {
       "id": "SFG654-FSZ-Cof",
       "title": "Asymmetric Button Sweater",
-      "handle": "sfg654-cof",
-      "url": "https://cougar.com.pk/products/sfg654-cof",
+      "handle": "asymmetric-button-sweater-sfg654",
+      "url": "https://cougar.com.pk/products/asymmetric-button-sweater-sfg654",
       "vendor": null,
       "type": null,
       "description": "Design Details: Ribbed mock neck with two buttons at the shoulder, wrap-over front with a stepped hem and balloon sleevesStyle: SweaterKnit: Fine Gauge",
@@ -27000,8 +27000,8 @@
     "SFG657-FSZ-TPK": {
       "id": "SFG657-FSZ-TPK",
       "title": "Two-Button Cardigan",
-      "handle": "sfg657-tpk",
-      "url": "https://cougar.com.pk/products/sfg657-tpk",
+      "handle": "two-button-cardigan-sfg657",
+      "url": "https://cougar.com.pk/products/two-button-cardigan-sfg657",
       "vendor": null,
       "type": null,
       "description": "Design Details: Rib knit collar, two-button closure at the neck, concealed placket, patch pockets, two-button cuff detail, drop shouldersStyle: SweaterKnit: Fine Knit",
@@ -28264,7 +28264,7 @@
       "url": "https://cougar.com.pk/products/heart-knit-sweater-gsw619",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Round neck sweater with a contrast heart pattern knitted across the front, ribbed neck, cuffs, and hemStyle: Round Neck Sweater",
+      "description": "Design Details: Round neck sweater with a contrast heart pattern knitted across the front, ribbed neck, cuffs, and hemStyle: Round Neck SweaterComposition: Viscose, Polyester, Nylon",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_6291copy.webp?v=1795013806"
@@ -30700,7 +30700,7 @@
       "url": "https://cougar.com.pk/products/balloon-pants-gkt614",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Elasticated waist, gathered cuffs, plush texture, pull-on styleStyle: Balloon PantsFabric: Polyester Velvet",
+      "description": "Design Details: Elasticated waist, gathered cuffs, plush texture, pull-on styleStyle: Balloon PantsFabric: Polyester VelvetComposition: 100% Polyester",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/pents_0000_IMG_5683.webp?v=1795100145"
@@ -30784,7 +30784,7 @@
       "url": "https://cougar.com.pk/products/pleated-waist-tunic-tlf637",
       "vendor": null,
       "type": null,
-      "description": "Design Details: V-neck tunic with front button closure, pintuck fitted waist, pleated flared hem and voluminous puff sleevesStyle: Button-Front TunicFit: Fit and Flare",
+      "description": "Design Details: V-neck tunic with front button closure, pintuck fitted waist, pleated flared hem and voluminous puff sleevesStyle: Button-Front TunicFit: Fit and FlareComposition: 60% Cotton, 40% Polyester",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/Untitled-1_0096_030A2714copy.webp?v=1795002937"
@@ -30840,7 +30840,7 @@
       "url": "https://cougar.com.pk/products/raglan-zip-hoodie-hdj620",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Solid zip-up hoodie with raglan sleeves, full front zip closure, split kangaroo pockets, ribbed cuffs and hemStyle: Zip-Up HoodieFabric: Fleece",
+      "description": "Design Details: Solid zip-up hoodie with raglan sleeves, full front zip closure, split kangaroo pockets, ribbed cuffs and hemStyle: Zip-Up HoodieFabric: FleeceComposition: 70% Cotton, 30% Polyester",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_6107copy.webp?v=1795086284"
@@ -31067,7 +31067,7 @@
       "description": "Design Details: Reversible hooded bomber with a solid navy side and a solid tan side, full front zip closure, drawcord hood, side pockets, ribbed collar, cuffs and hemStyle: Reversible Hooded Bomber",
       "tags": [],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_5010copy.webp?v=1795099330"
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_2289copy.webp?v=1795180507"
       ],
       "options": null,
       "variants": {
@@ -31087,12 +31087,12 @@
     },
     "JM2644-00M-GRY": {
       "id": "JM2644-00M-GRY",
-      "title": "Suede Jacket",
+      "title": "Sterling Suede Jacket",
       "handle": "suede-jacket-jm2644",
       "url": "https://cougar.com.pk/products/suede-jacket-jm2644",
       "vendor": null,
       "type": null,
-      "description": "Suede Jacket",
+      "description": "Design Details: Solid jacket with mock collar, full front zip closure, angled seam pockets, elasticated cuffs with snap tabs, and elasticated hemStyle: Bomber JacketFabric: Suede",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_2229copy.webp?v=1795105369"
@@ -31288,7 +31288,7 @@
       "url": "https://cougar.com.pk/products/contrast-hood-sweater-sfg676",
       "vendor": null,
       "type": null,
-      "description": "Contrast Hood Sweater",
+      "description": "Composition: 65% Polyester, 35% Nylon",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/womenshirts_0005_IMG_6496.webp?v=1795109858"
@@ -31428,7 +31428,7 @@
       "url": "https://cougar.com.pk/products/wrap-front-fine-knit-cardigan-sfg680",
       "vendor": null,
       "type": null,
-      "description": "Wrap-Front Fine Knit Cardigan",
+      "description": "Composition: 66.2% Polyester, 18.9% Acrylic, 9.3% Nylon, 5.6% Wool",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/womenshirts_0000_IMG_6537.webp?v=1795109761"
@@ -31596,7 +31596,7 @@
       "url": "https://cougar.com.pk/products/fine-gauge-long-cardigan-sfg686",
       "vendor": null,
       "type": null,
-      "description": "Fine Gauge Long Cardigan",
+      "description": "Composition: 46.3% Acrylic, 31.8% Polyester, 21.9% Nylon",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/Court_0000_IMG_6511.webp?v=1795109672"
@@ -31820,7 +31820,7 @@
       "url": "https://cougar.com.pk/products/sfg696-cml",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Crew neck sweater with tonal cord embroidery across the front and sleeves, drop shoulders, ribbed neck, cuffs and hemStyle: Crew Neck Sweater",
+      "description": "Design Details: Crew neck sweater with tonal cord embroidery across the front and sleeves, drop shoulders, ribbed neck, cuffs and hemStyle: Crew Neck SweaterComposition: 60% acrylic, 30% wool, 10% mohair",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/womenshirts_0004_IMG_6500.webp?v=1795180147"
@@ -31848,7 +31848,7 @@
       "url": "https://cougar.com.pk/products/staple-knitted-co-ord-set-wts631",
       "vendor": null,
       "type": null,
-      "description": "Staple Knitted Co-Ord Set",
+      "description": "Composition: 35% Nylon, 35% Polyester, 30% PBT",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/womenshirts_0001_IMG_6529-ass.webp?v=1795109245"
@@ -32044,7 +32044,7 @@
       "url": "https://cougar.com.pk/products/mock-neck-jacket-jm2633",
       "vendor": null,
       "type": null,
-      "description": "Mock Neck Jacket",
+      "description": "Design Details: Solid bomber jacket with mock neck, full front zip closure, side zip pockets, ribbed cuffs and hemStyle: Bomber Jacket",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_2105copy.webp?v=1795105982"
@@ -32151,12 +32151,12 @@
     },
     "JM2693-00M-BRN": {
       "id": "JM2693-00M-BRN",
-      "title": "Sherpa Collar PU Jacket",
+      "title": "Classic Aviator Jacket",
       "handle": "sherpa-collar-pu-jacket-jm2693",
       "url": "https://cougar.com.pk/products/sherpa-collar-pu-jacket-jm2693",
       "vendor": null,
       "type": null,
-      "description": "Sherpa Collar PU Jacket",
+      "description": "Design Details: Jacket in a distressed finish with contrast fleece collar, full front zip closure, side welt pockets, ribbed cuffs and hemStyle: Aviator JacketFabric: PU",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_0942copy.webp?v=1795104031"
@@ -32647,7 +32647,7 @@
           ],
           "sku": "JKJ610-2Y3-BLK",
           "available": true,
-          "price": 1399900,
+          "price": 979900,
           "compare_at_price": null
         }
       },
@@ -32675,7 +32675,7 @@
           ],
           "sku": "JKJ610-2Y3-BRN",
           "available": true,
-          "price": 1399900,
+          "price": 979900,
           "compare_at_price": null
         }
       },
@@ -32703,7 +32703,7 @@
           ],
           "sku": "GCT602-2Y3-BEI",
           "available": true,
-          "price": 1399900,
+          "price": 979900,
           "compare_at_price": null
         }
       },
@@ -32731,7 +32731,7 @@
           ],
           "sku": "GCT602-2Y3-COF",
           "available": true,
-          "price": 1399900,
+          "price": 979900,
           "compare_at_price": null
         }
       },
@@ -32759,7 +32759,7 @@
           ],
           "sku": "GJK615-2Y3-BEI",
           "available": true,
-          "price": 999900,
+          "price": 699900,
           "compare_at_price": null
         }
       },
@@ -32767,12 +32767,12 @@
     },
     "GJK614-7Y8-BRN": {
       "id": "GJK614-7Y8-BRN",
-      "title": "Little Explorer Jacket",
+      "title": "Little Explorer Bomber Jacket",
       "handle": "gjk614-brn",
       "url": "https://cougar.com.pk/products/gjk614-brn",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Jacket in a bouclÃ© texture with spread collar, full front zip closure, flap chest pockets, elasticated cuffs and hemStyle: Zip JacketFabric: Tweed",
+      "description": "Design Details: Jacket in a bouclÃ© texture with spread collar, full front zip closure, flap chest pockets, elasticated cuffs and hemStyle: Bomber JacketFabric: Tweed",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_6738copy.webp?v=1795177126"
@@ -32787,7 +32787,7 @@
           ],
           "sku": "GJK614-7Y8-BRN",
           "available": true,
-          "price": 1299900,
+          "price": 909900,
           "compare_at_price": null
         }
       },
@@ -32795,12 +32795,12 @@
     },
     "GJK614-7Y8-GRY": {
       "id": "GJK614-7Y8-GRY",
-      "title": "Little Explorer Jacket",
+      "title": "Little Explorer Bomber Jacket",
       "handle": "gjk614-gry",
       "url": "https://cougar.com.pk/products/gjk614-gry",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Jacket in a bouclÃ© texture with spread collar, full front zip closure, flap chest pockets, elasticated cuffs and hemStyle: Zip JacketFabric: Tweed",
+      "description": "Design Details: Jacket in a bouclÃ© texture with spread collar, full front zip closure, flap chest pockets, elasticated cuffs and hemStyle: Bomber JacketFabric: Tweed",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_6738.webp?v=1795177173"
@@ -32815,7 +32815,7 @@
           ],
           "sku": "GJK614-7Y8-GRY",
           "available": true,
-          "price": 1299900,
+          "price": 909900,
           "compare_at_price": null
         }
       },
@@ -32823,12 +32823,12 @@
     },
     "JM2615-00S-Cho": {
       "id": "JM2615-00S-Cho",
-      "title": "Textured Jacket",
+      "title": "Oakwood Snap-Front Jacket",
       "handle": "jm2615-cho",
       "url": "https://cougar.com.pk/products/jm2615-cho",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Mock neck with contrast buttons, side welt pockets, ribbed cuffs Style: JacketFabric: FleeceComposition: 68% Polyester, 24% Nylon, 3% Spandex, 5% Wool",
+      "description": "Design Details: Solid knit jacket with spread collar, snap front closure, curved yoke seam and side welt pocketsStyle: Knit JacketComposition: 68% Polyester, 24% Nylon, 5% Wool, 3% Spandex",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_1313copy.webp?v=1795187210"
@@ -32843,7 +32843,7 @@
           ],
           "sku": "JM2615-00S-Cho",
           "available": true,
-          "price": 1499900,
+          "price": 1049900,
           "compare_at_price": null
         }
       },
@@ -32871,7 +32871,7 @@
           ],
           "sku": "JM2681-00M-BLK",
           "available": true,
-          "price": 1399900,
+          "price": 979900,
           "compare_at_price": null
         }
       },
@@ -32899,7 +32899,7 @@
           ],
           "sku": "JM2683-00M-BLK",
           "available": true,
-          "price": 1699900,
+          "price": 1189900,
           "compare_at_price": null
         }
       },
@@ -32927,7 +32927,7 @@
           ],
           "sku": "JM2689-00M-BRN",
           "available": true,
-          "price": 1799900,
+          "price": 1259900,
           "compare_at_price": null
         }
       },
@@ -33039,7 +33039,7 @@
           ],
           "sku": "JM2672-00M-OLV",
           "available": true,
-          "price": 1799900,
+          "price": 1259900,
           "compare_at_price": null
         }
       },
@@ -33075,12 +33075,12 @@
     },
     "JM2649-00M-NVY": {
       "id": "JM2649-00M-NVY",
-      "title": "Tweed Jacket",
+      "title": "Midnight-Navy Tweed Jacket",
       "handle": "jm2649-nvy",
       "url": "https://cougar.com.pk/products/jm2649-nvy",
       "vendor": null,
       "type": null,
-      "description": "Tweed Jacket",
+      "description": "Midnight-Navy Tweed Jacket",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_2377copy.webp?v=1795187305"
@@ -33095,7 +33095,7 @@
           ],
           "sku": "JM2649-00M-NVY",
           "available": true,
-          "price": 1799900,
+          "price": 1259900,
           "compare_at_price": null
         }
       },
@@ -33123,7 +33123,7 @@
           ],
           "sku": "SR2637-00S-RST",
           "available": true,
-          "price": 749900,
+          "price": 524900,
           "compare_at_price": null
         }
       },
@@ -33151,7 +33151,7 @@
           ],
           "sku": "MFG601-00S-WHT",
           "available": true,
-          "price": 799900,
+          "price": 559900,
           "compare_at_price": null
         }
       },
@@ -33179,7 +33179,7 @@
           ],
           "sku": "LC2602-00S-CML",
           "available": true,
-          "price": 1799900,
+          "price": 1259900,
           "compare_at_price": null
         }
       },
@@ -33192,7 +33192,7 @@
       "url": "https://cougar.com.pk/products/lc2607-blu",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Solid short coat with buttoned funnel neck, off-center button front closure, side welt pockets, buttoned cuff tabs, and drop shouldersStyle: Short CoatFit: Relaxed Fit",
+      "description": "Design Details: Solid short coat with buttoned funnel neck, off-centre button front closure, side welt pockets, buttoned cuff tabs, and drop shouldersStyle: Short CoatFit: Relaxed FitComposition: 65% Polyester, 35% Cotton",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_9a96d0e8-a448-4d27-8e61-48ec3277ef06.webp?v=1795177718"
@@ -33207,7 +33207,7 @@
           ],
           "sku": "LC2607-00S-BLU",
           "available": true,
-          "price": 1399900,
+          "price": 979900,
           "compare_at_price": null
         }
       },
@@ -33220,7 +33220,7 @@
       "url": "https://cougar.com.pk/products/lc2611-khk",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Double-breasted long coat with notch lapel collar, raglan sleeves, tie belt, patch pockets, and buttoned cuff tabsStyle: Long Coat",
+      "description": "Design Details: Double-breasted long coat with notch lapel collar, raglan sleeves, tie belt, patch pockets, and buttoned cuff tabsStyle: Long CoatComposition: 35% Cotton, 65% Polyester",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_1610copy.webp?v=1795185005"
@@ -33235,7 +33235,7 @@
           ],
           "sku": "LC2611-00S-KHK",
           "available": true,
-          "price": 1799900,
+          "price": 1259900,
           "compare_at_price": null
         }
       },
@@ -33263,7 +33263,7 @@
           ],
           "sku": "LJ2623-00S-Cof",
           "available": true,
-          "price": 1299900,
+          "price": 909900,
           "compare_at_price": null
         }
       },
@@ -33291,7 +33291,7 @@
           ],
           "sku": "LJ2622-00S-Cof",
           "available": true,
-          "price": 1499900,
+          "price": 1049900,
           "compare_at_price": null
         }
       },
@@ -33319,7 +33319,7 @@
           ],
           "sku": "LJ2615-0XS-BEI",
           "available": true,
-          "price": 1299900,
+          "price": 909900,
           "compare_at_price": null
         }
       },
@@ -33347,7 +33347,7 @@
           ],
           "sku": "LJ2621-00S-BLK",
           "available": true,
-          "price": 1499900,
+          "price": 1049900,
           "compare_at_price": null
         }
       },
@@ -33375,7 +33375,7 @@
           ],
           "sku": "LJ2621-00S-CML",
           "available": true,
-          "price": 1499900,
+          "price": 1049900,
           "compare_at_price": null
         }
       },
@@ -33403,7 +33403,7 @@
           ],
           "sku": "WTS632-FSZ-KHK",
           "available": true,
-          "price": 1299900,
+          "price": 909900,
           "compare_at_price": null
         }
       },
@@ -33431,7 +33431,7 @@
           ],
           "sku": "SFG011-FSZ-BRN",
           "available": true,
-          "price": 699900,
+          "price": 489900,
           "compare_at_price": null
         }
       },
@@ -33459,7 +33459,7 @@
           ],
           "sku": "SFG012-FSZ-SKY",
           "available": true,
-          "price": 899900,
+          "price": 629900,
           "compare_at_price": null
         }
       },
@@ -33487,7 +33487,7 @@
           ],
           "sku": "SFG013-FSZ-WHT",
           "available": true,
-          "price": 899900,
+          "price": 629900,
           "compare_at_price": null
         }
       },
@@ -33515,7 +33515,7 @@
           ],
           "sku": "SFG015-FSZ-BLK",
           "available": true,
-          "price": 1099900,
+          "price": 769900,
           "compare_at_price": null
         }
       },
@@ -33543,7 +33543,7 @@
           ],
           "sku": "SFG015-FSZ-CWT",
           "available": true,
-          "price": 1099900,
+          "price": 769900,
           "compare_at_price": null
         }
       },
@@ -33571,7 +33571,7 @@
           ],
           "sku": "SFG016-FSZ-LGY",
           "available": true,
-          "price": 1099900,
+          "price": 769900,
           "compare_at_price": null
         }
       },
@@ -33599,7 +33599,7 @@
           ],
           "sku": "SFG019-FSZ-GRY",
           "available": true,
-          "price": 1099900,
+          "price": 769900,
           "compare_at_price": null
         }
       },
@@ -33627,7 +33627,7 @@
           ],
           "sku": "SFG019-FSZ-NVY",
           "available": true,
-          "price": 1099900,
+          "price": 769900,
           "compare_at_price": null
         }
       },
@@ -33655,7 +33655,7 @@
           ],
           "sku": "SFG020-FSZ-BRN",
           "available": true,
-          "price": 1299900,
+          "price": 909900,
           "compare_at_price": null
         }
       },
@@ -33668,7 +33668,7 @@
       "url": "https://cougar.com.pk/products/sfg022-blk",
       "vendor": null,
       "type": null,
-      "description": "Design Details: Long open-front cardigan with contrast bird jacquard, shawl collar, front pockets, and ribbed cuffsStyle: Long CardiganKnit: Jacquard Knit",
+      "description": "Design Details: Long open-front cardigan with contrast bird jacquard, shawl collar, front pockets, and ribbed cuffsStyle: Long CardiganKnit: Jacquard KnitComposition: 50% Viscose, 28% Nylon, 22% Polyester",
       "tags": [],
       "images": [
         "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_6542copy.webp?v=1795178675"
@@ -33683,7 +33683,7 @@
           ],
           "sku": "SFG022-FSZ-BLK",
           "available": true,
-          "price": 1399900,
+          "price": 979900,
           "compare_at_price": null
         }
       },
@@ -33711,7 +33711,7 @@
           ],
           "sku": "SFG697-FSZ-CWT",
           "available": true,
-          "price": 1099900,
+          "price": 769900,
           "compare_at_price": null
         }
       },
@@ -33739,7 +33739,7 @@
           ],
           "sku": "SFG698-FSZ-PNK",
           "available": true,
-          "price": 899900,
+          "price": 629900,
           "compare_at_price": null
         }
       },
@@ -33767,7 +33767,7 @@
           ],
           "sku": "SFG699-FSZ-BRN",
           "available": true,
-          "price": 699900,
+          "price": 489900,
           "compare_at_price": null
         }
       },
@@ -33795,7 +33795,7 @@
           ],
           "sku": "SFG014-FSZ-OFW",
           "available": true,
-          "price": 899900,
+          "price": 629900,
           "compare_at_price": null
         }
       },
