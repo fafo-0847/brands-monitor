@@ -3,7 +3,7 @@
   "source": "https://royaltag.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-20T23:14:42.030259+00:00",
+  "checked_at": "2026-11-21T10:39:03.849378+00:00",
   "products": {
     "8875920720046": {
       "id": "8875920720046",
@@ -986,7 +986,7 @@
             "BEIGE"
           ],
           "sku": "169013",
-          "available": false,
+          "available": true,
           "price": 222500,
           "compare_at_price": 445000
         },
@@ -3099,7 +3099,7 @@
             "Beige"
           ],
           "sku": "164432",
-          "available": true,
+          "available": false,
           "price": 575000,
           "compare_at_price": 1150000
         },
@@ -4339,7 +4339,7 @@
             "BLACK"
           ],
           "sku": "166054",
-          "available": false,
+          "available": true,
           "price": 2280000,
           "compare_at_price": 2850000
         },
@@ -8578,7 +8578,7 @@
             "BLUE"
           ],
           "sku": "163951",
-          "available": false,
+          "available": true,
           "price": 347500,
           "compare_at_price": 695000
         },
@@ -9504,7 +9504,7 @@
             "Blue"
           ],
           "sku": "152416",
-          "available": false,
+          "available": true,
           "price": 2125000,
           "compare_at_price": 4250000
         },
@@ -11886,7 +11886,7 @@
             "Smart Fit"
           ],
           "sku": "167791",
-          "available": false,
+          "available": true,
           "price": 182500,
           "compare_at_price": 365000
         },
@@ -12589,6 +12589,94 @@
           "available": true,
           "price": 1850000,
           "compare_at_price": 1850000
+        }
+      },
+      "available": true
+    },
+    "15444201734318": {
+      "id": "15444201734318",
+      "title": "Cable Knit Wool Cashmere Jumper",
+      "handle": "lm2610-br",
+      "url": "https://royaltag.com.pk/products/lm2610-br",
+      "vendor": "Royal Tag",
+      "type": "W26 SWEATERS",
+      "description": "<p>This cable-knit jumper is crafted from wool-and-cashmere yarn.<br>Rib- knit mock neck.<br>Quarter-zip placket.<br>Long sleeves with rib-knit cuffs.</p>\n<p><br><strong>STYLE: LM2610-BR</strong></p>",
+      "tags": [
+        "W26 SWEATERS"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_1.jpg?v=1793356717",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_2.jpg?v=1793356717",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_3.jpg?v=1793356717",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_4.jpg?v=1793356717"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BROWN"
+          ]
+        }
+      ],
+      "variants": {
+        "67903121490094": {
+          "id": "67903121490094",
+          "title": "M / BROWN",
+          "options": [
+            "M",
+            "BROWN"
+          ],
+          "sku": "173501",
+          "available": true,
+          "price": 895000,
+          "compare_at_price": 895000
+        },
+        "67903121522862": {
+          "id": "67903121522862",
+          "title": "L / BROWN",
+          "options": [
+            "L",
+            "BROWN"
+          ],
+          "sku": "173502",
+          "available": true,
+          "price": 895000,
+          "compare_at_price": 895000
+        },
+        "67903121555630": {
+          "id": "67903121555630",
+          "title": "XL / BROWN",
+          "options": [
+            "XL",
+            "BROWN"
+          ],
+          "sku": "173503",
+          "available": true,
+          "price": 895000,
+          "compare_at_price": 895000
+        },
+        "67903121588398": {
+          "id": "67903121588398",
+          "title": "2XL / BROWN",
+          "options": [
+            "2XL",
+            "BROWN"
+          ],
+          "sku": "173504",
+          "available": true,
+          "price": 895000,
+          "compare_at_price": 895000
         }
       },
       "available": true
@@ -13836,7 +13924,7 @@
             "-"
           ],
           "sku": "162887",
-          "available": false,
+          "available": true,
           "price": 262500,
           "compare_at_price": 525000
         },
@@ -14975,7 +15063,7 @@
             "CH.Grey"
           ],
           "sku": "166524",
-          "available": false,
+          "available": true,
           "price": 689500,
           "compare_at_price": 985000
         },
@@ -15089,7 +15177,7 @@
             "Slim Fit"
           ],
           "sku": "165292",
-          "available": true,
+          "available": false,
           "price": 2600000,
           "compare_at_price": 3250000
         },
@@ -16184,7 +16272,7 @@
             "Charcoal Grey"
           ],
           "sku": "164437",
-          "available": true,
+          "available": false,
           "price": 575000,
           "compare_at_price": 1150000
         }
@@ -16239,7 +16327,7 @@
             "GREY"
           ],
           "sku": "169657",
-          "available": false,
+          "available": true,
           "price": 172500,
           "compare_at_price": 345000
         },
@@ -19114,7 +19202,7 @@
             "BK/OL"
           ],
           "sku": "173539",
-          "available": false,
+          "available": true,
           "price": 1450000,
           "compare_at_price": 1450000
         },
@@ -20359,7 +20447,7 @@
             "COFFEE"
           ],
           "sku": "168152",
-          "available": false,
+          "available": true,
           "price": 232500,
           "compare_at_price": 465000
         }
@@ -25753,7 +25841,7 @@
             "BEIGE"
           ],
           "sku": "167654",
-          "available": false,
+          "available": true,
           "price": 247500,
           "compare_at_price": 495000
         }
@@ -28192,7 +28280,7 @@
             "GREY"
           ],
           "sku": "167655",
-          "available": false,
+          "available": true,
           "price": 2280000,
           "compare_at_price": 2850000
         },
@@ -28403,7 +28491,7 @@
             "GREY"
           ],
           "sku": "167998",
-          "available": false,
+          "available": true,
           "price": 2360000,
           "compare_at_price": 2950000
         },
@@ -32490,94 +32578,6 @@
       },
       "available": true
     },
-    "15414068510894": {
-      "id": "15414068510894",
-      "title": "Interlock Pull-On Hoodie",
-      "handle": "rthc260890-rst",
-      "url": "https://royaltag.com.pk/products/rthc260890-rst",
-      "vendor": "Royal Tag",
-      "type": "W26 Hood",
-      "description": "<p>A modern interlock hoodie designed with a comfortable pull-on style.<br><br><br><strong>STYLE: RTHC260890-RST</strong></p>",
-      "tags": [
-        "W26 Hood"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTHC260890-RST_1.jpg?v=1792058609",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTHC260890-RST_2.jpg?v=1792058608",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTHC260890-RST_3.jpg?v=1792058609",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTHC260890-RST_4.jpg?v=1792058609"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "M",
-            "L",
-            "XL",
-            "2XL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "RUST"
-          ]
-        }
-      ],
-      "variants": {
-        "67699567460526": {
-          "id": "67699567460526",
-          "title": "M / RUST",
-          "options": [
-            "M",
-            "RUST"
-          ],
-          "sku": "172099",
-          "available": false,
-          "price": 525000,
-          "compare_at_price": 525000
-        },
-        "67699567493294": {
-          "id": "67699567493294",
-          "title": "L / RUST",
-          "options": [
-            "L",
-            "RUST"
-          ],
-          "sku": "172100",
-          "available": false,
-          "price": 525000,
-          "compare_at_price": 525000
-        },
-        "67699567526062": {
-          "id": "67699567526062",
-          "title": "XL / RUST",
-          "options": [
-            "XL",
-            "RUST"
-          ],
-          "sku": "172101",
-          "available": true,
-          "price": 525000,
-          "compare_at_price": 525000
-        },
-        "67699567558830": {
-          "id": "67699567558830",
-          "title": "2XL / RUST",
-          "options": [
-            "2XL",
-            "RUST"
-          ],
-          "sku": "172102",
-          "available": false,
-          "price": 525000,
-          "compare_at_price": 525000
-        }
-      },
-      "available": true
-    },
     "15414068576430": {
       "id": "15414068576430",
       "title": "Interlock Pull-On Hoodie",
@@ -33863,7 +33863,7 @@
             "Smart Fit"
           ],
           "sku": "165282",
-          "available": false,
+          "available": true,
           "price": 367500,
           "compare_at_price": 525000
         }
@@ -35669,7 +35669,7 @@
             "Khaki"
           ],
           "sku": "169375",
-          "available": false,
+          "available": true,
           "price": 172500,
           "compare_at_price": 345000
         },
@@ -36627,7 +36627,7 @@
             "LT-GREEN"
           ],
           "sku": "170085",
-          "available": false,
+          "available": true,
           "price": 382500,
           "compare_at_price": 765000
         },
@@ -40673,7 +40673,7 @@
             "BROWN"
           ],
           "sku": "167210",
-          "available": false,
+          "available": true,
           "price": 262500,
           "compare_at_price": 525000
         }
@@ -43816,7 +43816,7 @@
             "Smart Fit"
           ],
           "sku": "165596",
-          "available": false,
+          "available": true,
           "price": 416500,
           "compare_at_price": 595000
         }
@@ -44639,7 +44639,7 @@
             "NAVY"
           ],
           "sku": "166492",
-          "available": false,
+          "available": true,
           "price": 472500,
           "compare_at_price": 945000
         }
@@ -44834,7 +44834,7 @@
             "NAVY"
           ],
           "sku": "171021",
-          "available": true,
+          "available": false,
           "price": 3850000,
           "compare_at_price": 3850000
         },
@@ -47698,7 +47698,7 @@
             "OFF WHITE"
           ],
           "sku": "170581",
-          "available": true,
+          "available": false,
           "price": 495000,
           "compare_at_price": 495000
         }
@@ -47989,7 +47989,7 @@
             "OLIVE"
           ],
           "sku": "166460",
-          "available": false,
+          "available": true,
           "price": 262500,
           "compare_at_price": 525000
         },
@@ -49375,7 +49375,7 @@
             "Smart Fit"
           ],
           "sku": "164045",
-          "available": false,
+          "available": true,
           "price": 262500,
           "compare_at_price": 525000
         },
@@ -54151,7 +54151,7 @@
             "PURPLE"
           ],
           "sku": "168064",
-          "available": false,
+          "available": true,
           "price": 232500,
           "compare_at_price": 465000
         },
@@ -54564,94 +54564,6 @@
           "available": true,
           "price": 595000,
           "compare_at_price": 595000
-        }
-      },
-      "available": true
-    },
-    "15444201734318": {
-      "id": "15444201734318",
-      "title": "Quarter-Zip  Mock neck Jumper",
-      "handle": "lm2610-br",
-      "url": "https://royaltag.com.pk/products/lm2610-br",
-      "vendor": "Royal Tag",
-      "type": "W26 SWEATERS",
-      "description": "<p>Rib-knit mock neck. Quarter-zip placket. Long sleeves with rib-knit cuffs.<br><br><br><strong>STYLE: LM2610-BR</strong></p>",
-      "tags": [
-        "W26 SWEATERS"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_1.jpg?v=1793356717",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_2.jpg?v=1793356717",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_3.jpg?v=1793356717",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_4.jpg?v=1793356717"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "M",
-            "L",
-            "XL",
-            "2XL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "BROWN"
-          ]
-        }
-      ],
-      "variants": {
-        "67903121490094": {
-          "id": "67903121490094",
-          "title": "M / BROWN",
-          "options": [
-            "M",
-            "BROWN"
-          ],
-          "sku": "173501",
-          "available": true,
-          "price": 895000,
-          "compare_at_price": 895000
-        },
-        "67903121522862": {
-          "id": "67903121522862",
-          "title": "L / BROWN",
-          "options": [
-            "L",
-            "BROWN"
-          ],
-          "sku": "173502",
-          "available": true,
-          "price": 895000,
-          "compare_at_price": 895000
-        },
-        "67903121555630": {
-          "id": "67903121555630",
-          "title": "XL / BROWN",
-          "options": [
-            "XL",
-            "BROWN"
-          ],
-          "sku": "173503",
-          "available": true,
-          "price": 895000,
-          "compare_at_price": 895000
-        },
-        "67903121588398": {
-          "id": "67903121588398",
-          "title": "2XL / BROWN",
-          "options": [
-            "2XL",
-            "BROWN"
-          ],
-          "sku": "173504",
-          "available": true,
-          "price": 895000,
-          "compare_at_price": 895000
         }
       },
       "available": true
@@ -56980,7 +56892,7 @@
             "BEIGE"
           ],
           "sku": "170953",
-          "available": true,
+          "available": false,
           "price": 2950000,
           "compare_at_price": 2950000
         },
