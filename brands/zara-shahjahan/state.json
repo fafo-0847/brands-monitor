@@ -3,7 +3,7 @@
   "source": "https://zarashahjahan.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-21T08:53:11.954663+00:00",
+  "checked_at": "2026-11-21T20:24:46.907121+00:00",
   "products": {
     "7241561669765": {
       "id": "7241561669765",
@@ -1920,7 +1920,7 @@
             "S"
           ],
           "sku": "ZR26B1015-R-S",
-          "available": false,
+          "available": true,
           "price": 1149800,
           "compare_at_price": null
         },
@@ -1958,7 +1958,7 @@
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "5174731079813": {
       "id": "5174731079813",
@@ -2244,7 +2244,7 @@
             "M"
           ],
           "sku": "ZR26B1056-M",
-          "available": true,
+          "available": false,
           "price": 1199800,
           "compare_at_price": null
         },
@@ -2255,7 +2255,7 @@
             "L/XL"
           ],
           "sku": "ZR26B1056-L/XL",
-          "available": true,
+          "available": false,
           "price": 1199800,
           "compare_at_price": null
         }
@@ -13556,7 +13556,7 @@
             "L"
           ],
           "sku": "ZR26F1016-L",
-          "available": false,
+          "available": true,
           "price": 3499800,
           "compare_at_price": 0
         },
@@ -13572,7 +13572,7 @@
           "compare_at_price": 0
         }
       },
-      "available": false
+      "available": true
     },
     "7213917274245": {
       "id": "7213917274245",
@@ -13999,7 +13999,7 @@
             "XS"
           ],
           "sku": "ZR26F1010-XS",
-          "available": false,
+          "available": true,
           "price": 3799800,
           "compare_at_price": 0
         },
@@ -14048,7 +14048,7 @@
           "compare_at_price": 0
         }
       },
-      "available": false
+      "available": true
     },
     "6914791997573": {
       "id": "6914791997573",
@@ -22618,7 +22618,7 @@
             "XL"
           ],
           "sku": "ZR26P1059-XL",
-          "available": false,
+          "available": true,
           "price": 2199800,
           "compare_at_price": 0
         }
@@ -23117,7 +23117,7 @@
             "L"
           ],
           "sku": "ZR26P1055-L",
-          "available": false,
+          "available": true,
           "price": 2199800,
           "compare_at_price": 0
         },
@@ -40236,12 +40236,12 @@
             "Default Title"
           ],
           "sku": "WS26-D5-Default",
-          "available": false,
+          "available": true,
           "price": 2099800,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "7006883184773": {
       "id": "7006883184773",
@@ -41190,12 +41190,12 @@
             "Default Title"
           ],
           "sku": "WS26-D4-R-Default",
-          "available": true,
+          "available": false,
           "price": 2099800,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "7327915704453": {
       "id": "7327915704453",
@@ -44666,7 +44666,7 @@
             "XS"
           ],
           "sku": "ZR26F1008-XS",
-          "available": true,
+          "available": false,
           "price": 3699800,
           "compare_at_price": 0
         },
@@ -44715,7 +44715,7 @@
           "compare_at_price": 0
         }
       },
-      "available": true
+      "available": false
     },
     "7332831101061": {
       "id": "7332831101061",
@@ -44903,12 +44903,12 @@
             "XL"
           ],
           "sku": "ZR26B1036-XL",
-          "available": true,
+          "available": false,
           "price": 949800,
           "compare_at_price": 0
         }
       },
-      "available": true
+      "available": false
     },
     "5136130080901": {
       "id": "5136130080901",
@@ -47888,7 +47888,7 @@
             "S"
           ],
           "sku": "SS26P0398-S",
-          "available": true,
+          "available": false,
           "price": 1799800,
           "compare_at_price": 0
         },
@@ -48801,7 +48801,7 @@
             "S"
           ],
           "sku": "ZR26B1031-S",
-          "available": false,
+          "available": true,
           "price": 1099800,
           "compare_at_price": 0
         },
@@ -48839,7 +48839,7 @@
           "compare_at_price": 0
         }
       },
-      "available": false
+      "available": true
     },
     "7381245755525": {
       "id": "7381245755525",
@@ -49003,7 +49003,7 @@
             "XS/S"
           ],
           "sku": "ZR26B1047-XS/S",
-          "available": true,
+          "available": false,
           "price": 1349800,
           "compare_at_price": null
         },
@@ -53210,7 +53210,7 @@
             "XL"
           ],
           "sku": "ZR26P1020-XL",
-          "available": false,
+          "available": true,
           "price": 2299800,
           "compare_at_price": 0
         }
@@ -53482,7 +53482,7 @@
             "M"
           ],
           "sku": "ZR26P1084-M",
-          "available": true,
+          "available": false,
           "price": 2299800,
           "compare_at_price": null
         },
@@ -60389,12 +60389,12 @@
             "L/XL"
           ],
           "sku": "ZR26B1017-R-L/XL",
-          "available": false,
+          "available": true,
           "price": 1349800,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "6914791833733": {
       "id": "6914791833733",
@@ -81161,7 +81161,7 @@
             "M"
           ],
           "sku": "ZR25H0928-M",
-          "available": true,
+          "available": false,
           "price": 959900,
           "compare_at_price": 1599800
         },
@@ -81177,7 +81177,7 @@
           "compare_at_price": 0
         }
       },
-      "available": true
+      "available": false
     },
     "7193406177413": {
       "id": "7193406177413",
