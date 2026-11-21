@@ -1,162 +1,1876 @@
 {
-  "checked_at": "2026-11-20T23:32:15.911075+00:00",
+  "checked_at": "2026-11-21T10:58:04.981301+00:00",
   "baseline_created": false,
   "product_count": 860,
-  "change_count": 22,
+  "change_count": 71,
   "changes": [
-    {
-      "product_id": "7112248950830",
-      "title": "Comet Black | Long Coat",
-      "url": "https://batik.com.pk/products/comet-black-long-coat?variant=41180551151662",
-      "kind": "Back in stock",
-      "detail": "S / Black / Corduroy"
-    },
-    {
-      "product_id": "7183843262510",
-      "title": "Butter Spread 2pc - Embroidered Lawn Pret",
-      "url": "https://batik.com.pk/products/butter-spread-2pc-embroidered-lawn-pret?variant=41484160827438",
-      "kind": "Back in stock",
-      "detail": "M / Lemon Yellow / Pima Lawn"
-    },
-    {
-      "product_id": "7566074642478",
-      "title": "Kirara 2Pc - Printed Lawn Dress",
-      "url": "https://batik.com.pk/products/kirara-2pc-printed-lawn-dress?variant=42302994645038",
-      "kind": "Sold out",
-      "detail": "M / Yellow / Lawn"
-    },
     {
       "product_id": "7576596447278",
       "title": "Selea 3Pc - Festive Eid Pret",
       "url": "https://batik.com.pk/products/selea-3pc-festive-eid-pret?variant=42332261777454",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "M / Lime Green / Pima Lawn"
+    },
+    {
+      "product_id": "7599427420206",
+      "title": "Selinah 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/selinah-3pc-festive-luxe-pret?variant=42434042134574",
+      "kind": "Sold out",
+      "detail": "L / Pistachio / Crinkle"
+    },
+    {
+      "product_id": "7599428206638",
+      "title": "Mehria 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/mehria-3pc-festive-luxe-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821076014.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821108782.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821141550.jpg?v=1781326012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821174318.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821207086.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821239854.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520903159854.jpg?v=1781326012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520903192622.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520903225390.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520903258158.jpg?v=1781326012"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520821108782.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520821174318.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520821239854.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520903192622.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520903225390.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821076014.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821141550.jpg?v=1781326012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520821207086.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520903159854.jpg?v=1781326012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Mehria-3Pc-Festive-Luxe-Pret-BATIK-25520903258158.jpg?v=1781326012"
+      ]
+    },
+    {
+      "product_id": "7599437578286",
+      "title": "Nazish 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/nazish-3pc-festive-luxe-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nazish-3Pc-Festive-Luxe-Pret-BATIK-25520820289582.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nazish-3Pc-Festive-Luxe-Pret-BATIK-25520820322350.jpg?v=1781325991",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nazish-3Pc-Festive-Luxe-Pret-BATIK-25520820355118.jpg?v=1781325991",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nazish-3Pc-Festive-Luxe-Pret-BATIK-25520820387886.jpg?v=1781325991",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nazish-3Pc-Festive-Luxe-Pret-BATIK-25520820420654.jpg?v=1781325991",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nazish-3Pc-Festive-Luxe-Pret-BATIK-25520820453422.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nazish-3Pc-Festive-Luxe-Pret-BATIK-25520820486190.jpg?v=1781326011",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nazish-3Pc-Festive-Luxe-Pret-BATIK-25520820518958.jpg?v=1781325991"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520820289582.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520820322350.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520820355118.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520820387886.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520820420654.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520820453422.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520820486190.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25520820518958.jpg?v=1795234507"
+      ]
+    },
+    {
+      "product_id": "7601121198126",
+      "title": "Blue Leah 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/blue-leah-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Blue-Leah-2Pc-Printed-Lawn-Dress-BATIK-25525967749166.jpg?v=1781758148",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Blue-Leah-2Pc-Printed-Lawn-Dress-BATIK-25525967781934.jpg?v=1781758148",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Blue-Leah-2Pc-Printed-Lawn-Dress-BATIK-25525967814702.jpg?v=1781758148",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Blue-Leah-2Pc-Printed-Lawn-Dress-BATIK-25525967847470.jpg?v=1781758148",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Blue-Leah-2Pc-Printed-Lawn-Dress-BATIK-25525967880238.jpg?v=1781758148",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Blue-Leah-2Pc-Printed-Lawn-Dress-BATIK-25525967913006.jpg?v=1781758148",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Blue-Leah-2Pc-Printed-Lawn-Dress-BATIK-25525967945774.jpg?v=1781758148",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Blue-Leah-2Pc-Printed-Lawn-Dress-BATIK-25525967978542.jpg?v=1781758148"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967749166.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967781934.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967814702.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967847470.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967880238.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967913006.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967945774.jpg?v=1795234507",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967978542.jpg?v=1795234501"
+      ]
+    },
+    {
+      "product_id": "7601121296430",
+      "title": "Tina 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/tina-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Tina-2Pc-Printed-Lawn-Dress-BATIK-25525914763310.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Tina-2Pc-Printed-Lawn-Dress-BATIK-25525914796078.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Tina-2Pc-Printed-Lawn-Dress-BATIK-25525914828846.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Tina-2Pc-Printed-Lawn-Dress-BATIK-25525914861614.jpg?v=1781758148",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Tina-2Pc-Printed-Lawn-Dress-BATIK-25525914894382.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Tina-2Pc-Printed-Lawn-Dress-BATIK-25525914927150.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Tina-2Pc-Printed-Lawn-Dress-BATIK-25525914959918.jpg?v=1781758134"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525914763310.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525914796078.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525914828846.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525914861614.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525914894382.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525914927150.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525914959918.jpg?v=1795234501"
+      ]
+    },
+    {
+      "product_id": "7601121394734",
+      "title": "Butter Cup 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/butter-cup-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260353582.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260386350.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260419118.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260451886.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260484654.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260517422.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260550190.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260582958.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260615726.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260648494.jpg?v=1781671700",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Butter-Cup-2Pc-Printed-Lawn-Dress-BATIK-25525260681262.jpg?v=1781671686"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260353582.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260386350.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260419118.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260451886.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260484654.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260517422.jpg?v=1795234501",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260550190.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260582958.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260615726.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260648494.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525260681262.jpg?v=1795234480"
+      ]
+    },
+    {
+      "product_id": "7601121689646",
+      "title": "Chace 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/chace-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chace-2Pc-Printed-Lawn-Dress-BATIK-25525967355950.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chace-2Pc-Printed-Lawn-Dress-BATIK-25525967388718.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chace-2Pc-Printed-Lawn-Dress-BATIK-25525967421486.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chace-2Pc-Printed-Lawn-Dress-BATIK-25525967454254.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chace-2Pc-Printed-Lawn-Dress-BATIK-25525967487022.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chace-2Pc-Printed-Lawn-Dress-BATIK-25525967519790.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chace-2Pc-Printed-Lawn-Dress-BATIK-25525967552558.jpg?v=1781758134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chace-2Pc-Printed-Lawn-Dress-BATIK-25525967585326.jpg?v=1781758134"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967355950.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967388718.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967421486.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967454254.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967487022.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967519790.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967552558.jpg?v=1795234480",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967585326.jpg?v=1795234474"
+      ]
+    },
+    {
+      "product_id": "7601121853486",
+      "title": "White Sally 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/white-sally-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/White-Sally-2Pc-Printed-Lawn-Dress-BATIK-25525286600750.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/White-Sally-2Pc-Printed-Lawn-Dress-BATIK-25525286633518.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/White-Sally-2Pc-Printed-Lawn-Dress-BATIK-25525286666286.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/White-Sally-2Pc-Printed-Lawn-Dress-BATIK-25525286699054.jpg?v=1781671686",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/White-Sally-2Pc-Printed-Lawn-Dress-BATIK-25525286731822.jpg?v=1781671686",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/White-Sally-2Pc-Printed-Lawn-Dress-BATIK-25525286764590.jpg?v=1781671686",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/White-Sally-2Pc-Printed-Lawn-Dress-BATIK-25525286797358.jpg?v=1781671686",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/White-Sally-2Pc-Printed-Lawn-Dress-BATIK-25525286830126.jpg?v=1781671685"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525286600750.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525286633518.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525286666286.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525286699054.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525286731822.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525286764590.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525286797358.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525286830126.jpg?v=1795234474"
+      ]
+    },
+    {
+      "product_id": "7601121919022",
+      "title": "Chelsea 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/chelsea-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chelsea-2Pc-Printed-Lawn-Dress-BATIK-25525967028270.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chelsea-2Pc-Printed-Lawn-Dress-BATIK-25525967061038.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chelsea-2Pc-Printed-Lawn-Dress-BATIK-25525967093806.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chelsea-2Pc-Printed-Lawn-Dress-BATIK-25525967126574.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chelsea-2Pc-Printed-Lawn-Dress-BATIK-25525967159342.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chelsea-2Pc-Printed-Lawn-Dress-BATIK-25525967192110.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Chelsea-2Pc-Printed-Lawn-Dress-BATIK-25525967224878.jpg?v=1781758134"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967028270.jpg?v=1795234455",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967061038.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967093806.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967126574.jpg?v=1795234455",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967159342.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967192110.jpg?v=1795234474",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525967224878.jpg?v=1795234474"
+      ]
+    },
+    {
+      "product_id": "7601122050094",
+      "title": "Corduroy 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/corduroy-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Corduroy-2Pc-Printed-Lawn-Dress-BATIK-25525909192750.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Corduroy-2Pc-Printed-Lawn-Dress-BATIK-25525909225518.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Corduroy-2Pc-Printed-Lawn-Dress-BATIK-25525909258286.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Corduroy-2Pc-Printed-Lawn-Dress-BATIK-25525909291054.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Corduroy-2Pc-Printed-Lawn-Dress-BATIK-25525909323822.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Corduroy-2Pc-Printed-Lawn-Dress-BATIK-25525909356590.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Corduroy-2Pc-Printed-Lawn-Dress-BATIK-25525909389358.jpg?v=1781758114"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909192750.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909225518.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909258286.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909291054.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909323822.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909356590.jpg?v=1795234455",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909389358.jpg?v=1795234454"
+      ]
+    },
+    {
+      "product_id": "7601122148398",
+      "title": "Cherry 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/cherry-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Cherry-2Pc-Printed-Lawn-Dress-BATIK-25525966471214.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Cherry-2Pc-Printed-Lawn-Dress-BATIK-25525966503982.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Cherry-2Pc-Printed-Lawn-Dress-BATIK-25525966536750.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Cherry-2Pc-Printed-Lawn-Dress-BATIK-25525966569518.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Cherry-2Pc-Printed-Lawn-Dress-BATIK-25525966602286.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Cherry-2Pc-Printed-Lawn-Dress-BATIK-25525966635054.jpg?v=1781758114",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Cherry-2Pc-Printed-Lawn-Dress-BATIK-25525966667822.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Cherry-2Pc-Printed-Lawn-Dress-BATIK-25525966700590.jpg?v=1781758094"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525966471214.jpg?v=1795234434",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525966503982.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525966536750.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525966569518.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525966602286.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525966635054.jpg?v=1795234454",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525966667822.jpg?v=1795234434",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525966700590.jpg?v=1795234454"
+      ]
+    },
+    {
+      "product_id": "7601122246702",
+      "title": "Wybe 3Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/wybe-3pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Wybe-3Pc-Printed-Lawn-Dress-BATIK-25525293547566.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Wybe-3Pc-Printed-Lawn-Dress-BATIK-25525293580334.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Wybe-3Pc-Printed-Lawn-Dress-BATIK-25525293613102.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Wybe-3Pc-Printed-Lawn-Dress-BATIK-25525293645870.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Wybe-3Pc-Printed-Lawn-Dress-BATIK-25525293678638.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Wybe-3Pc-Printed-Lawn-Dress-BATIK-25525293711406.jpg?v=1781671685",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Wybe-3Pc-Printed-Lawn-Dress-BATIK-25525293744174.jpg?v=1781671667"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525293547566.jpg?v=1795234434",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525293580334.jpg?v=1795234434",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525293613102.jpg?v=1795234434",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525293645870.jpg?v=1795234434",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525293678638.jpg?v=1795234434",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525293711406.jpg?v=1795234434",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525293744174.jpg?v=1795234433"
+      ]
+    },
+    {
+      "product_id": "7601122312238",
+      "title": "Dan 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/dan-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dan-2Pc-Printed-Lawn-Dress-BATIK-25525909422126.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dan-2Pc-Printed-Lawn-Dress-BATIK-25525909454894.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dan-2Pc-Printed-Lawn-Dress-BATIK-25525909487662.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dan-2Pc-Printed-Lawn-Dress-BATIK-25525909520430.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dan-2Pc-Printed-Lawn-Dress-BATIK-25525909553198.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dan-2Pc-Printed-Lawn-Dress-BATIK-25525909585966.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dan-2Pc-Printed-Lawn-Dress-BATIK-25525909618734.jpg?v=1781758094"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909422126.jpg?v=1795234433",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909454894.jpg?v=1795234433",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909487662.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909520430.jpg?v=1795234433",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909553198.jpg?v=1795234433",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909585966.jpg?v=1795234433",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909618734.jpg?v=1795234433"
+      ]
+    },
+    {
+      "product_id": "7601122508846",
+      "title": "Elieen 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/elieen-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909651502.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909684270.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909717038.jpg?v=1781758074",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909749806.jpg?v=1781758074",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909782574.jpg?v=1781758074",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909815342.jpg?v=1781758074",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909848110.jpg?v=1781758093",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909880878.jpg?v=1781758094",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Elieen-2Pc-Printed-Lawn-Dress-BATIK-25525909913646.jpg?v=1781758073"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909651502.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909684270.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909717038.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909749806.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909782574.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909815342.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909848110.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909880878.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909913646.jpg?v=1795234414"
+      ]
+    },
+    {
+      "product_id": "7601122541614",
+      "title": "Zim 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/zim-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915615278.jpg?v=1781758054",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915648046.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915680814.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915713582.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915746350.jpg?v=1781758054",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915779118.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915811886.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915844654.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915877422.jpg?v=1781758073",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zim-2Pc-Printed-Lawn-Dress-BATIK-25525915910190.jpg?v=1781758073"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915615278.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915648046.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915680814.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915713582.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915746350.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915779118.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915811886.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915844654.jpg?v=1795234394",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915877422.jpg?v=1795234414",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525915910190.jpg?v=1795234414"
+      ]
+    },
+    {
+      "product_id": "7601122639918",
+      "title": "Flora 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/flora-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Flora-2Pc-Printed-Lawn-Dress-BATIK-25525909946414.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Flora-2Pc-Printed-Lawn-Dress-BATIK-25525909979182.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Flora-2Pc-Printed-Lawn-Dress-BATIK-25525910011950.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Flora-2Pc-Printed-Lawn-Dress-BATIK-25525910044718.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Flora-2Pc-Printed-Lawn-Dress-BATIK-25525910077486.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Flora-2Pc-Printed-Lawn-Dress-BATIK-25525910110254.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Flora-2Pc-Printed-Lawn-Dress-BATIK-25525910143022.jpg?v=1781758053"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909946414.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525909979182.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910011950.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910044718.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910077486.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910110254.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910143022.jpg?v=1795234393"
+      ]
+    },
+    {
+      "product_id": "7601122770990",
+      "title": "Black Marcella 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/black-marcella-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959215662.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959248430.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959281198.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959313966.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959346734.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959379502.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959412270.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959445038.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959477806.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Black-Marcella-2Pc-Printed-Lawn-Dress-BATIK-25524959510574.jpg?v=1781671667"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959215662.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959248430.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959281198.jpg?v=1795234371",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959313966.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959346734.jpg?v=1795234371",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959379502.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959412270.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959445038.jpg?v=1795234393",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959477806.jpg?v=1795234371",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524959510574.jpg?v=1795234370"
+      ]
+    },
+    {
+      "product_id": "7601123000366",
+      "title": "Darcy 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/darcy-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Darcy-2Pc-Printed-Lawn-Dress-BATIK-25524950958126.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Darcy-2Pc-Printed-Lawn-Dress-BATIK-25524950990894.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Darcy-2Pc-Printed-Lawn-Dress-BATIK-25524951023662.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Darcy-2Pc-Printed-Lawn-Dress-BATIK-25524951056430.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Darcy-2Pc-Printed-Lawn-Dress-BATIK-25524951089198.jpg?v=1781671667",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Darcy-2Pc-Printed-Lawn-Dress-BATIK-25524951121966.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Darcy-2Pc-Printed-Lawn-Dress-BATIK-25524951154734.jpg?v=1781671648"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524950958126.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524950990894.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524951023662.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524951056430.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524951089198.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524951121966.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524951154734.jpg?v=1795234370"
+      ]
+    },
+    {
+      "product_id": "7601123131438",
+      "title": "Jett 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/jett-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jett-2Pc-Printed-Lawn-Dress-BATIK-25524907933742.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jett-2Pc-Printed-Lawn-Dress-BATIK-25524907966510.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jett-2Pc-Printed-Lawn-Dress-BATIK-25524907999278.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jett-2Pc-Printed-Lawn-Dress-BATIK-25524908032046.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jett-2Pc-Printed-Lawn-Dress-BATIK-25524908064814.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jett-2Pc-Printed-Lawn-Dress-BATIK-25524908097582.jpg?v=1781671648"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907933742.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907966510.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907999278.jpg?v=1795234370",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524908032046.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524908064814.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524908097582.jpg?v=1795234351"
+      ]
+    },
+    {
+      "product_id": "7601123164206",
+      "title": "Hanna 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/hanna-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Hanna-2Pc-Printed-Lawn-Dress-BATIK-25525910208558.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Hanna-2Pc-Printed-Lawn-Dress-BATIK-25525910241326.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Hanna-2Pc-Printed-Lawn-Dress-BATIK-25525910274094.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Hanna-2Pc-Printed-Lawn-Dress-BATIK-25525910306862.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Hanna-2Pc-Printed-Lawn-Dress-BATIK-25525910339630.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Hanna-2Pc-Printed-Lawn-Dress-BATIK-25525910372398.jpg?v=1781758053",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Hanna-2Pc-Printed-Lawn-Dress-BATIK-25525910405166.jpg?v=1781758053"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910208558.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910241326.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910274094.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910306862.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910339630.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910372398.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525910405166.jpg?v=1795234351"
+      ]
+    },
+    {
+      "product_id": "7601123328046",
+      "title": "Zoyee 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/zoyee-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zoyee-2Pc-Printed-Lawn-Dress-BATIK-25524907671598.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zoyee-2Pc-Printed-Lawn-Dress-BATIK-25524907704366.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zoyee-2Pc-Printed-Lawn-Dress-BATIK-25524907737134.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zoyee-2Pc-Printed-Lawn-Dress-BATIK-25524907769902.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zoyee-2Pc-Printed-Lawn-Dress-BATIK-25524907802670.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zoyee-2Pc-Printed-Lawn-Dress-BATIK-25524907835438.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zoyee-2Pc-Printed-Lawn-Dress-BATIK-25524907868206.jpg?v=1781671648",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Zoyee-2Pc-Printed-Lawn-Dress-BATIK-25524907900974.jpg?v=1781671629"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907671598.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907704366.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907737134.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907769902.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907802670.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907835438.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907868206.jpg?v=1795234351",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907900974.jpg?v=1795234331"
+      ]
+    },
+    {
+      "product_id": "7601123459118",
+      "title": "Preppy 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/preppy-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Preppy-2Pc-Printed-Lawn-Dress-BATIK-25524907409454.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Preppy-2Pc-Printed-Lawn-Dress-BATIK-25524907442222.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Preppy-2Pc-Printed-Lawn-Dress-BATIK-25524907474990.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Preppy-2Pc-Printed-Lawn-Dress-BATIK-25524907507758.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Preppy-2Pc-Printed-Lawn-Dress-BATIK-25524907540526.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Preppy-2Pc-Printed-Lawn-Dress-BATIK-25524907573294.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Preppy-2Pc-Printed-Lawn-Dress-BATIK-25524907606062.jpg?v=1781671629"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907409454.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907442222.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907474990.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907507758.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907540526.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907573294.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907606062.jpg?v=1795234331"
+      ]
+    },
+    {
+      "product_id": "7601123557422",
+      "title": "Misty Flora 3Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/misty-flora-3pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Misty-Flora-3Pc-Printed-Lawn-Dress-BATIK-25525276278830.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Misty-Flora-3Pc-Printed-Lawn-Dress-BATIK-25525276311598.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Misty-Flora-3Pc-Printed-Lawn-Dress-BATIK-25525276344366.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Misty-Flora-3Pc-Printed-Lawn-Dress-BATIK-25525276377134.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Misty-Flora-3Pc-Printed-Lawn-Dress-BATIK-25525276409902.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Misty-Flora-3Pc-Printed-Lawn-Dress-BATIK-25525276442670.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Misty-Flora-3Pc-Printed-Lawn-Dress-BATIK-25525276475438.jpg?v=1781671629",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Misty-Flora-3Pc-Printed-Lawn-Dress-BATIK-25525276508206.jpg?v=1781671610"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525276278830.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525276311598.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525276344366.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525276377134.jpg?v=1795234314",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525276409902.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525276442670.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525276475438.jpg?v=1795234331",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525276508206.jpg?v=1795234313"
+      ]
+    },
+    {
+      "product_id": "7601123688494",
+      "title": "Eleven 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/eleven-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907016238.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907049006.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907081774.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907114542.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907147310.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907180078.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907212846.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907245614.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907278382.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eleven-2Pc-Printed-Lawn-Dress-BATIK-25524907343918.jpg?v=1781671610"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907016238.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907049006.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907081774.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907114542.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907147310.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907180078.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907212846.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907245614.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907278382.jpg?v=1795234313",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524907343918.jpg?v=1795234313"
+      ]
+    },
+    {
+      "product_id": "7601123819566",
+      "title": "Maxton and Crocus 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/maxton-and-crocus-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906721326.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906754094.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906786862.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906819630.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906852398.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906885166.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906917934.jpg?v=1781671610",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906950702.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maxton-and-Crocus-2Pc-Printed-Lawn-Dress-BATIK-25524906983470.jpg?v=1781671591"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906721326.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906754094.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906786862.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906819630.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906852398.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906885166.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906917934.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906950702.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906983470.jpg?v=1795234295"
+      ]
+    },
+    {
+      "product_id": "7601137418286",
+      "title": "Moonsoon 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/moonsoon-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921382446.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921415214.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921447982.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921480750.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921513518.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921546286.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921579054.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921611822.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Moonsoon-2Pc-Printed-Lawn-Dress-BATIK-25525921644590.jpg?v=1781758034"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921382446.jpg?v=1795234275",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921415214.jpg?v=1795234275",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921447982.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921480750.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921513518.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921546286.jpg?v=1795234275",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921579054.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921611822.jpg?v=1795234295",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525921644590.jpg?v=1795234295"
+      ]
+    },
+    {
+      "product_id": "7601137844270",
+      "title": "Pink Moana 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/pink-moana-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Pink-Moana-2Pc-Printed-Lawn-Dress-BATIK-25525919514670.jpg?v=1781758033",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Pink-Moana-2Pc-Printed-Lawn-Dress-BATIK-25525919547438.jpg?v=1781758033",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Pink-Moana-2Pc-Printed-Lawn-Dress-BATIK-25525919580206.jpg?v=1781758033",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Pink-Moana-2Pc-Printed-Lawn-Dress-BATIK-25525919612974.jpg?v=1781758033",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Pink-Moana-2Pc-Printed-Lawn-Dress-BATIK-25525919645742.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Pink-Moana-2Pc-Printed-Lawn-Dress-BATIK-25525919678510.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Pink-Moana-2Pc-Printed-Lawn-Dress-BATIK-25525919711278.jpg?v=1781758034",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Pink-Moana-2Pc-Printed-Lawn-Dress-BATIK-25525919744046.jpg?v=1781758014"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525919514670.jpg?v=1795234274",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525919547438.jpg?v=1795234275",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525919580206.jpg?v=1795234275",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525919612974.jpg?v=1795234275",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525919645742.jpg?v=1795234274",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525919678510.jpg?v=1795234274",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525919711278.jpg?v=1795234275",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525919744046.jpg?v=1795234274"
+      ]
+    },
+    {
+      "product_id": "7601138237486",
+      "title": "Raegan 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/raegan-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raegan-2Pc-Printed-Lawn-Dress-BATIK-25525916303406.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raegan-2Pc-Printed-Lawn-Dress-BATIK-25525916336174.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raegan-2Pc-Printed-Lawn-Dress-BATIK-25525916368942.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raegan-2Pc-Printed-Lawn-Dress-BATIK-25525916401710.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raegan-2Pc-Printed-Lawn-Dress-BATIK-25525916434478.jpg?v=1781758014"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525916303406.jpg?v=1795234274",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525916336174.jpg?v=1795234274",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525916368942.jpg?v=1795234274",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525916401710.jpg?v=1795234255",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525916434478.jpg?v=1795234274"
+      ]
+    },
+    {
+      "product_id": "7601138368558",
+      "title": "Rein 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/rein-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rein-2Pc-Printed-Lawn-Dress-BATIK-25525912338478.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rein-2Pc-Printed-Lawn-Dress-BATIK-25525912371246.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rein-2Pc-Printed-Lawn-Dress-BATIK-25525912404014.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rein-2Pc-Printed-Lawn-Dress-BATIK-25525912436782.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rein-2Pc-Printed-Lawn-Dress-BATIK-25525912469550.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rein-2Pc-Printed-Lawn-Dress-BATIK-25525912502318.jpg?v=1781758014",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rein-2Pc-Printed-Lawn-Dress-BATIK-25525912535086.jpg?v=1781758014"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912338478.jpg?v=1795234255",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912371246.jpg?v=1795234255",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912404014.jpg?v=1795234255",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912436782.jpg?v=1795234255",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912469550.jpg?v=1795234255",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912502318.jpg?v=1795234255",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912535086.jpg?v=1795234255"
+      ]
+    },
+    {
+      "product_id": "7601138761774",
+      "title": "Shirleen 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/shirleen-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Shirleen-2Pc-Printed-Lawn-Dress-BATIK-25525912109102.jpg?v=1781757993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Shirleen-2Pc-Printed-Lawn-Dress-BATIK-25525912141870.jpg?v=1781757993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Shirleen-2Pc-Printed-Lawn-Dress-BATIK-25525912174638.jpg?v=1781757993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Shirleen-2Pc-Printed-Lawn-Dress-BATIK-25525912207406.jpg?v=1781757993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Shirleen-2Pc-Printed-Lawn-Dress-BATIK-25525912240174.jpg?v=1781757993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Shirleen-2Pc-Printed-Lawn-Dress-BATIK-25525912272942.jpg?v=1781757993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Shirleen-2Pc-Printed-Lawn-Dress-BATIK-25525912305710.jpg?v=1781757993"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912109102.jpg?v=1795234254",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912141870.jpg?v=1795234255",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912174638.jpg?v=1795234254",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912207406.jpg?v=1795234254",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912240174.jpg?v=1795234254",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912272942.jpg?v=1795234254",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912305710.jpg?v=1795234254"
+      ]
+    },
+    {
+      "product_id": "7601138860078",
+      "title": "Katy 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/katy-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906197038.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906229806.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906262574.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906295342.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906328110.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906360878.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906393646.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906426414.jpg?v=1781671591",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Katy-2Pc-Printed-Lawn-Dress-BATIK-25524906459182.jpg?v=1781671591"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906197038.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906229806.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906262574.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906295342.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906328110.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906360878.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906393646.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906426414.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25524906459182.jpg?v=1795234233"
+      ]
+    },
+    {
+      "product_id": "7601140629550",
+      "title": "Siri 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/siri-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Siri-2Pc-Printed-Lawn-Dress-BATIK-25525911846958.jpg?v=1781757992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Siri-2Pc-Printed-Lawn-Dress-BATIK-25525911879726.jpg?v=1781757992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Siri-2Pc-Printed-Lawn-Dress-BATIK-25525911912494.jpg?v=1781757992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Siri-2Pc-Printed-Lawn-Dress-BATIK-25525911945262.jpg?v=1781757992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Siri-2Pc-Printed-Lawn-Dress-BATIK-25525911978030.jpg?v=1781757992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Siri-2Pc-Printed-Lawn-Dress-BATIK-25525912010798.jpg?v=1781757992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Siri-2Pc-Printed-Lawn-Dress-BATIK-25525912043566.jpg?v=1781757993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Siri-2Pc-Printed-Lawn-Dress-BATIK-25525912076334.jpg?v=1781757992"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525911846958.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525911879726.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525911912494.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525911945262.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525911978030.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912010798.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912043566.jpg?v=1795234233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25525912076334.jpg?v=1795234214"
+      ]
     },
     {
       "product_id": "7602728468526",
       "title": "Custard 3Pc - Embroidered Lawn Dress",
-      "url": "https://batik.com.pk/products/custard-3pc-embroidered-lawn-dress?variant=42447711666222",
-      "kind": "Back in stock",
-      "detail": "M / Butter / Pima Lawn"
+      "url": "https://batik.com.pk/products/custard-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528332943406.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528332976174.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528333008942.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528333041710.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528333074478.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528333107246.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528333140014.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528333172782.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528333205550.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Custard-3Pc-Embroidered-Lawn-Dress-BATIK-25528333238318.jpg?v=1781930918"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332943406.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332976174.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333008942.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333041710.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333074478.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333107246.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333140014.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333172782.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333205550.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333238318.jpg?v=1795234214"
+      ]
     },
     {
-      "product_id": "7623781646382",
-      "title": "Blue Neelum 3Pc - Luxury Embroidered Lawn",
-      "url": "https://batik.com.pk/products/neelum-3pc-festive-embroidered-lawn?variant=42525499785262",
-      "kind": "Back in stock",
-      "detail": "M / Cobalt / Pima Lawn"
+      "product_id": "7602728632366",
+      "title": "Yellow Elira 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/yellow-elira-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Yellow-Elira-2Pc-Embroidered-Lawn-Dress-BATIK-25528333303854.jpg?v=1781930901",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Yellow-Elira-2Pc-Embroidered-Lawn-Dress-BATIK-25528333336622.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Yellow-Elira-2Pc-Embroidered-Lawn-Dress-BATIK-25528333369390.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Yellow-Elira-2Pc-Embroidered-Lawn-Dress-BATIK-25528333402158.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Yellow-Elira-2Pc-Embroidered-Lawn-Dress-BATIK-25528333434926.jpg?v=1781930918",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Yellow-Elira-2Pc-Embroidered-Lawn-Dress-BATIK-25528333467694.jpg?v=1781930901"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333303854.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333336622.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333369390.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333402158.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333434926.jpg?v=1795234214",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333467694.jpg?v=1795234192"
+      ]
     },
     {
-      "product_id": "7623783022638",
-      "title": "Taffy Macaron 3Pc - Luxury Embroidered Lawn",
-      "url": "https://batik.com.pk/products/macaron-3pc-luxury-embroidered-lawn?variant=42525504143406",
+      "product_id": "7602728730670",
+      "title": "Maroon Santro 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/maroon-santro-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maroon-Santro-2Pc-Embroidered-Lawn-Dress-BATIK-25528333533230.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maroon-Santro-2Pc-Embroidered-Lawn-Dress-BATIK-25528333565998.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maroon-Santro-2Pc-Embroidered-Lawn-Dress-BATIK-25528333598766.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maroon-Santro-2Pc-Embroidered-Lawn-Dress-BATIK-25528333631534.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maroon-Santro-2Pc-Embroidered-Lawn-Dress-BATIK-25528333664302.jpg?v=1781930901",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maroon-Santro-2Pc-Embroidered-Lawn-Dress-BATIK-25528333697070.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maroon-Santro-2Pc-Embroidered-Lawn-Dress-BATIK-25528333729838.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Maroon-Santro-2Pc-Embroidered-Lawn-Dress-BATIK-25528333762606.jpg?v=1781930901"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333533230.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333565998.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333598766.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333631534.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333664302.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333697070.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333729838.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528333762606.jpg?v=1795234192"
+      ]
+    },
+    {
+      "product_id": "7602728960046",
+      "title": "Second Spring 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/second-spring-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334057518.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334090286.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334123054.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334155822.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334188590.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334221358.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334254126.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334286894.jpg?v=1781930900",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334319662.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Second-Spring-2Pc-Embroidered-Lawn-Dress-BATIK-25528334352430.jpg?v=1781930900"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334057518.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334090286.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334123054.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334155822.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334188590.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334221358.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334254126.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334286894.jpg?v=1795234192",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334319662.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334352430.jpg?v=1795234192"
+      ]
+    },
+    {
+      "product_id": "7602729025582",
+      "title": "Nivea 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/nivea-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nivea-3Pc-Embroidered-Lawn-Dress-BATIK-25528345198638.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nivea-3Pc-Embroidered-Lawn-Dress-BATIK-25528345231406.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nivea-3Pc-Embroidered-Lawn-Dress-BATIK-25528345264174.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nivea-3Pc-Embroidered-Lawn-Dress-BATIK-25528345296942.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nivea-3Pc-Embroidered-Lawn-Dress-BATIK-25528345329710.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nivea-3Pc-Embroidered-Lawn-Dress-BATIK-25528345362478.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nivea-3Pc-Embroidered-Lawn-Dress-BATIK-25528363745326.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Nivea-3Pc-Embroidered-Lawn-Dress-BATIK-25528363810862.jpg?v=1781930882"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345198638.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345231406.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345264174.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345296942.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345329710.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345362478.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528363745326.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528363810862.jpg?v=1795234170"
+      ]
+    },
+    {
+      "product_id": "7602729091118",
+      "title": "Krypt 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/krypt-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334385198.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334417966.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334450734.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334483502.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334516270.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334549038.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334581806.jpg?v=1781930882",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334614574.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Krypt-3Pc-Embroidered-Lawn-Dress-BATIK-25528334647342.jpg?v=1781930864"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334385198.jpg?v=1795234150",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334417966.jpg?v=1795234150",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334450734.jpg?v=1795234150",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334483502.jpg?v=1795234150",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334516270.jpg?v=1795234170",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334549038.jpg?v=1795234150",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334581806.jpg?v=1795234150",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334614574.jpg?v=1795234149",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334647342.jpg?v=1795234149"
+      ]
+    },
+    {
+      "product_id": "7602729615406",
+      "title": "Skylie Jane 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/skylie-jane-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335171630.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335204398.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335237166.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335269934.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335302702.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335335470.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335368238.jpg?v=1781930864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335401006.jpg?v=1781930863",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Skylie-Jane-3Pc-Embroidered-Lawn-Dress-BATIK-25528335433774.jpg?v=1781930845"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335171630.jpg?v=1795234149",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335204398.jpg?v=1795234149",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335237166.jpg?v=1795234149",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335269934.jpg?v=1795234149",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335302702.jpg?v=1795234149",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335335470.jpg?v=1795234149",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335368238.jpg?v=1795234149",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335401006.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335433774.jpg?v=1795234128"
+      ]
+    },
+    {
+      "product_id": "7602746228782",
+      "title": "Candy Moon 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/candy-moon-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Candy-Moon-2Pc-Embroidered-Lawn-Dress-BATIK-25528334942254.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Candy-Moon-2Pc-Embroidered-Lawn-Dress-BATIK-25528334975022.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Candy-Moon-2Pc-Embroidered-Lawn-Dress-BATIK-25528335007790.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Candy-Moon-2Pc-Embroidered-Lawn-Dress-BATIK-25528335106094.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Candy-Moon-2Pc-Embroidered-Lawn-Dress-BATIK-25528335138862.jpg?v=1781930845"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334942254.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334975022.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335007790.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335106094.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528335138862.jpg?v=1795234128"
+      ]
+    },
+    {
+      "product_id": "7602746261550",
+      "title": "Bramble 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/bramble-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Bramble-2Pc-Embroidered-Lawn-Dress-BATIK-25528332681262.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Bramble-2Pc-Embroidered-Lawn-Dress-BATIK-25528332714030.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Bramble-2Pc-Embroidered-Lawn-Dress-BATIK-25528332746798.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Bramble-2Pc-Embroidered-Lawn-Dress-BATIK-25528332779566.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Bramble-2Pc-Embroidered-Lawn-Dress-BATIK-25528332812334.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Bramble-2Pc-Embroidered-Lawn-Dress-BATIK-25528332845102.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Bramble-2Pc-Embroidered-Lawn-Dress-BATIK-25528332877870.jpg?v=1781930845",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Bramble-2Pc-Embroidered-Lawn-Dress-BATIK-25528332910638.jpg?v=1781930845"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332681262.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332714030.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332746798.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332779566.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332812334.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332845102.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332877870.jpg?v=1795234128",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332910638.jpg?v=1795234128"
+      ]
+    },
+    {
+      "product_id": "7602746851374",
+      "title": "Rarity 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/rarity-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rarity-2Pc-Embroidered-Lawn-Dress-BATIK-25528334680110.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rarity-2Pc-Embroidered-Lawn-Dress-BATIK-25528334712878.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rarity-2Pc-Embroidered-Lawn-Dress-BATIK-25528334745646.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rarity-2Pc-Embroidered-Lawn-Dress-BATIK-25528334778414.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rarity-2Pc-Embroidered-Lawn-Dress-BATIK-25528334811182.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rarity-2Pc-Embroidered-Lawn-Dress-BATIK-25528334843950.jpg?v=1781930844",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rarity-2Pc-Embroidered-Lawn-Dress-BATIK-25528334876718.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Rarity-2Pc-Embroidered-Lawn-Dress-BATIK-25528334909486.jpg?v=1781930826"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334680110.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334712878.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334745646.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334778414.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334811182.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334843950.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334876718.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528334909486.jpg?v=1795234107"
+      ]
+    },
+    {
+      "product_id": "7602746916910",
+      "title": "Eris 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/eis-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332386350.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332419118.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332451886.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332484654.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332517422.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332550190.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332582958.jpg?v=1781930808",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332615726.jpg?v=1781930826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Eris-3Pc-Embroidered-Lawn-Dress-BATIK-25528332648494.jpg?v=1781930826"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332386350.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332419118.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332451886.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332484654.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332517422.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332550190.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332582958.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332615726.jpg?v=1795234107",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332648494.jpg?v=1795234107"
+      ]
+    },
+    {
+      "product_id": "7602747506734",
+      "title": "Green Nairobi 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/green-nairobi-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Nairobi-2Pc-Embroidered-Lawn-Dress-BATIK-25528332189742.jpg?v=1781930808",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Nairobi-2Pc-Embroidered-Lawn-Dress-BATIK-25528332222510.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Nairobi-2Pc-Embroidered-Lawn-Dress-BATIK-25528332255278.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Nairobi-2Pc-Embroidered-Lawn-Dress-BATIK-25528332288046.jpg?v=1781930808",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Nairobi-2Pc-Embroidered-Lawn-Dress-BATIK-25528332320814.jpg?v=1781930808",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Nairobi-2Pc-Embroidered-Lawn-Dress-BATIK-25528332353582.jpg?v=1781930808"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332189742.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332222510.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332255278.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332288046.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332320814.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528332353582.jpg?v=1795234087"
+      ]
+    },
+    {
+      "product_id": "7602747539502",
+      "title": "Minsk 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/minsk-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Minsk-3Pc-Embroidered-Lawn-Dress-BATIK-25528344903726.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Minsk-3Pc-Embroidered-Lawn-Dress-BATIK-25528344936494.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Minsk-3Pc-Embroidered-Lawn-Dress-BATIK-25528344969262.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Minsk-3Pc-Embroidered-Lawn-Dress-BATIK-25528345002030.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Minsk-3Pc-Embroidered-Lawn-Dress-BATIK-25528345034798.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Minsk-3Pc-Embroidered-Lawn-Dress-BATIK-25528345067566.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Minsk-3Pc-Embroidered-Lawn-Dress-BATIK-25528345100334.jpg?v=1781930807",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Minsk-3Pc-Embroidered-Lawn-Dress-BATIK-25528345133102.jpg?v=1781930807"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528344903726.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528344936494.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528344969262.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345002030.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345034798.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345067566.jpg?v=1795234087",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345100334.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25528345133102.jpg?v=1795234087"
+      ]
+    },
+    {
+      "product_id": "7604909441070",
+      "title": "Purple Pop 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/purple-pop-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533095968814.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096001582.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096034350.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096067118.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096099886.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096132654.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096165422.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096198190.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096230958.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Purple-Pop-2Pc-Embroidered-Lawn-Dress-BATIK-25533096263726.jpg?v=1782362803"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095968814.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096001582.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096034350.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096067118.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096099886.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096132654.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096165422.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096198190.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096230958.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533096263726.jpg?v=1795234066"
+      ]
+    },
+    {
+      "product_id": "7604911112238",
+      "title": "Raila 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/raila-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raila-3Pc-Embroidered-Lawn-Dress-BATIK-25533095641134.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raila-3Pc-Embroidered-Lawn-Dress-BATIK-25533095673902.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raila-3Pc-Embroidered-Lawn-Dress-BATIK-25533095706670.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raila-3Pc-Embroidered-Lawn-Dress-BATIK-25533095739438.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raila-3Pc-Embroidered-Lawn-Dress-BATIK-25533095772206.jpg?v=1782362803",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raila-3Pc-Embroidered-Lawn-Dress-BATIK-25533095804974.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raila-3Pc-Embroidered-Lawn-Dress-BATIK-25533095837742.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Raila-3Pc-Embroidered-Lawn-Dress-BATIK-25533095870510.jpg?v=1782362803"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095641134.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095673902.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095706670.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095739438.jpg?v=1795234066",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095772206.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095804974.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095837742.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095870510.jpg?v=1795234066"
+      ]
+    },
+    {
+      "product_id": "7604911505454",
+      "title": "Saha 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/saha-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095182382.jpg?v=1782362782",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095215150.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095247918.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095280686.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095313454.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095346222.jpg?v=1782362782",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095378990.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095411758.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095444526.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095477294.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095510062.jpg?v=1782362783",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Saha-3Pc-Embroidered-Lawn-Dress-BATIK-25533095542830.jpg?v=1782362782"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095182382.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095215150.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095247918.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095280686.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095313454.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095346222.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095378990.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095411758.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095444526.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095477294.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095510062.jpg?v=1795234049",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095542830.jpg?v=1795234030"
+      ]
+    },
+    {
+      "product_id": "7604911570990",
+      "title": "Surma 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/surma-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533094789166.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533094821934.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533094854702.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533094887470.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533094920238.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533094953006.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533094985774.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533095051310.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533095116846.jpg?v=1782362764",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Surma-3Pc-Embroidered-Lawn-Dress-BATIK-25533095149614.jpg?v=1782362764"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094789166.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094821934.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094854702.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094887470.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094920238.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094953006.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094985774.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095051310.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095116846.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533095149614.jpg?v=1795234030"
+      ]
+    },
+    {
+      "product_id": "7604912062510",
+      "title": "Green Whisper 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/whisper-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094363182.jpg?v=1784263050",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094395950.jpg?v=1784263050",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094428718.jpg?v=1784263050",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094494254.jpg?v=1784263050",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094559790.jpg?v=1784263050",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094592558.jpg?v=1784263057",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094625326.jpg?v=1784263057",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094658094.jpg?v=1784263050",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094690862.jpg?v=1784263057",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Green-Whisper-2Pc-Embroidered-Lawn-Dress-BATIK-25533094723630.jpg?v=1784263050"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094363182.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094395950.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094428718.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094494254.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094559790.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094592558.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094625326.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094658094.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094690862.jpg?v=1795234030",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094723630.jpg?v=1795234012"
+      ]
+    },
+    {
+      "product_id": "7604913012782",
+      "title": "Ilya 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/ilya-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094035502.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094068270.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094101038.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094133806.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094166574.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094199342.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094232110.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094264878.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094297646.jpg?v=1782362745",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Ilya-2Pc-Embroidered-Lawn-Dress-BATIK-25533094330414.jpg?v=1782362745"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094035502.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094068270.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094101038.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094133806.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094166574.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094199342.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094232110.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094264878.jpg?v=1795234012",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094297646.jpg?v=1795233993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533094330414.jpg?v=1795234012"
+      ]
+    },
+    {
+      "product_id": "7604913340462",
+      "title": "Caramel 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/caramel-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Caramel-3Pc-Embroidered-Lawn-Dress-BATIK-25533089153070.jpg?v=1782362727",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Caramel-3Pc-Embroidered-Lawn-Dress-BATIK-25533089185838.jpg?v=1782362727",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Caramel-3Pc-Embroidered-Lawn-Dress-BATIK-25533089218606.jpg?v=1782362727",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Caramel-3Pc-Embroidered-Lawn-Dress-BATIK-25533089251374.jpg?v=1782362727",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Caramel-3Pc-Embroidered-Lawn-Dress-BATIK-25533089284142.jpg?v=1782362727",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Caramel-3Pc-Embroidered-Lawn-Dress-BATIK-25533089316910.jpg?v=1782362727",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Caramel-3Pc-Embroidered-Lawn-Dress-BATIK-25533089349678.jpg?v=1782362727",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Caramel-3Pc-Embroidered-Lawn-Dress-BATIK-25533089382446.jpg?v=1782362726"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089153070.jpg?v=1795233993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089185838.jpg?v=1795233993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089218606.jpg?v=1795233993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089251374.jpg?v=1795233993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089284142.jpg?v=1795233993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089316910.jpg?v=1795233993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089349678.jpg?v=1795233993",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089382446.jpg?v=1795233993"
+      ]
+    },
+    {
+      "product_id": "7604913504302",
+      "title": "CloudPie 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/cloudpie-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533088759854.jpg?v=1782362726",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533088792622.jpg?v=1782362726",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533088825390.jpg?v=1782362726",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533088858158.jpg?v=1782362726",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533088890926.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533088923694.jpg?v=1782362726",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533088956462.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533088989230.jpg?v=1782362726",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533089087534.jpg?v=1782362726",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/CloudPie-3Pc-Embroidered-Lawn-Dress-BATIK-25533089120302.jpg?v=1782362708"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088759854.jpg?v=1795233992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088792622.jpg?v=1795233992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088825390.jpg?v=1795233973",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088858158.jpg?v=1795233992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088890926.jpg?v=1795233973",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088923694.jpg?v=1795233992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088956462.jpg?v=1795233973",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088989230.jpg?v=1795233992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089087534.jpg?v=1795233992",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533089120302.jpg?v=1795233973"
+      ]
+    },
+    {
+      "product_id": "7604913569838",
+      "title": "Coco Giselle 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/coco-giselle-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088170030.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088202798.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088235566.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088268334.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088301102.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088333870.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088366638.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088399406.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Coco-Giselle-3Pc-Embroidered-Lawn-Dress-BATIK-25533088432174.jpg?v=1782362708"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088170030.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088202798.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088235566.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088268334.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088301102.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088333870.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088366638.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088399406.jpg?v=1795233973",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088432174.jpg?v=1795233972"
+      ]
+    },
+    {
+      "product_id": "7604913700910",
+      "title": "Limgos Denim 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/limgos-denim-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Limgos-Denim-3Pc-Embroidered-Lawn-Dress-BATIK-25533087907886.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Limgos-Denim-3Pc-Embroidered-Lawn-Dress-BATIK-25533087940654.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Limgos-Denim-3Pc-Embroidered-Lawn-Dress-BATIK-25533087973422.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Limgos-Denim-3Pc-Embroidered-Lawn-Dress-BATIK-25533088006190.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Limgos-Denim-3Pc-Embroidered-Lawn-Dress-BATIK-25533088038958.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Limgos-Denim-3Pc-Embroidered-Lawn-Dress-BATIK-25533088071726.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Limgos-Denim-3Pc-Embroidered-Lawn-Dress-BATIK-25533088104494.jpg?v=1782362708",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Limgos-Denim-3Pc-Embroidered-Lawn-Dress-BATIK-25533091184686.jpg?v=1782362689"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087907886.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087940654.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087973422.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088006190.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088038958.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088071726.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533088104494.jpg?v=1795233972",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533091184686.jpg?v=1795233953"
+      ]
+    },
+    {
+      "product_id": "7604914225198",
+      "title": "Enha 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/enha-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Enha-3Pc-Embroidered-Lawn-Dress-BATIK-25533087481902.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Enha-3Pc-Embroidered-Lawn-Dress-BATIK-25533087514670.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Enha-3Pc-Embroidered-Lawn-Dress-BATIK-25533087547438.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Enha-3Pc-Embroidered-Lawn-Dress-BATIK-25533087580206.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Enha-3Pc-Embroidered-Lawn-Dress-BATIK-25533087612974.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Enha-3Pc-Embroidered-Lawn-Dress-BATIK-25533087645742.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Enha-3Pc-Embroidered-Lawn-Dress-BATIK-25533087678510.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Enha-3Pc-Embroidered-Lawn-Dress-BATIK-25533087711278.jpg?v=1782362689"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087481902.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087514670.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087547438.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087580206.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087612974.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087645742.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087678510.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533087711278.jpg?v=1795233953"
+      ]
+    },
+    {
+      "product_id": "7604914552878",
+      "title": "Lime Pop 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/lime-pop-3pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Lime-Pop-3Pc-Embroidered-Lawn-Dress-BATIK-25533086400558.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Lime-Pop-3Pc-Embroidered-Lawn-Dress-BATIK-25533086433326.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Lime-Pop-3Pc-Embroidered-Lawn-Dress-BATIK-25533086466094.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Lime-Pop-3Pc-Embroidered-Lawn-Dress-BATIK-25533086498862.jpg?v=1782362689",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Lime-Pop-3Pc-Embroidered-Lawn-Dress-BATIK-25533086531630.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Lime-Pop-3Pc-Embroidered-Lawn-Dress-BATIK-25533086564398.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Lime-Pop-3Pc-Embroidered-Lawn-Dress-BATIK-25533086597166.jpg?v=1782362671"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086400558.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086433326.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086466094.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086498862.jpg?v=1795233953",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086531630.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086564398.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086597166.jpg?v=1795233934"
+      ]
+    },
+    {
+      "product_id": "7604915699758",
+      "title": "Helia 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/helia-2pc-embroidered-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086040110.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086072878.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086105646.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086138414.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086171182.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086203950.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086236718.jpg?v=1782362670",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086269486.jpg?v=1782362671",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086302254.jpg?v=1782362670",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Helia-2Pc-Embroidered-Lawn-Dress-BATIK-25533086335022.jpg?v=1782362670"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086040110.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086072878.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086105646.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086138414.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086171182.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086203950.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086236718.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086269486.jpg?v=1795233934",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086302254.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25533086335022.jpg?v=1795233934"
+      ]
+    },
+    {
+      "product_id": "7607579050030",
+      "title": "Jiwon 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/jiwon-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015180334.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015213102.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015245870.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015278638.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015311406.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015344174.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015376942.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015409710.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015442478.jpg?v=1782881361",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015475246.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jiwon-2Pc-Printed-Lawn-Dress-BATIK-25539015508014.jpg?v=1782881361"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015180334.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015213102.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015245870.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015278638.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015311406.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015344174.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015376942.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015409710.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015442478.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015475246.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015508014.jpg?v=1795233915"
+      ]
+    },
+    {
+      "product_id": "7607579738158",
+      "title": "Atom 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/atom-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Atom-2Pc-Printed-Lawn-Dress-BATIK-25539015933998.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Atom-2Pc-Printed-Lawn-Dress-BATIK-25539015966766.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Atom-2Pc-Printed-Lawn-Dress-BATIK-25539015999534.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Atom-2Pc-Printed-Lawn-Dress-BATIK-25539016032302.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Atom-2Pc-Printed-Lawn-Dress-BATIK-25539016065070.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Atom-2Pc-Printed-Lawn-Dress-BATIK-25539016097838.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Atom-2Pc-Printed-Lawn-Dress-BATIK-25539016130606.jpg?v=1782881346"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015933998.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015966766.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539015999534.jpg?v=1795233894",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016032302.jpg?v=1795233894",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016065070.jpg?v=1795233915",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016097838.jpg?v=1795233894",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016130606.jpg?v=1795233894"
+      ]
+    },
+    {
+      "product_id": "7607579836462",
+      "title": "Dorami 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/dorami-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979397678.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979430446.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979463214.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979495982.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979528750.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979561518.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979594286.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979627054.jpg?v=1782881346",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Dorami-2Pc-Printed-Lawn-Dress-BATIK-25538979659822.jpg?v=1782881326"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979397678.jpg?v=1795233893",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979430446.jpg?v=1795233893",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979463214.jpg?v=1795233894",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979495982.jpg?v=1795233893",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979528750.jpg?v=1795233894",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979561518.jpg?v=1795233894",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979594286.jpg?v=1795233894",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979627054.jpg?v=1795233894",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538979659822.jpg?v=1795233893"
+      ]
+    },
+    {
+      "product_id": "7607579869230",
+      "title": "Connor 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/connor-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016163374.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016196142.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016228910.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016261678.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016294446.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016327214.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016359982.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016392750.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Connor-2Pc-Printed-Lawn-Dress-BATIK-25539016425518.jpg?v=1782881326"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016163374.jpg?v=1795233875",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016196142.jpg?v=1795233875",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016228910.jpg?v=1795233893",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016261678.jpg?v=1795233875",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016294446.jpg?v=1795233875",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016327214.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016359982.jpg?v=1795233893",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016392750.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25539016425518.jpg?v=1795233874"
+      ]
+    },
+    {
+      "product_id": "7607580000302",
+      "title": "Jeremiah 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/jeremiah-2pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981494830.jpg?v=1795090547",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jeremiah-2Pc-Printed-Lawn-Dress-BATIK-25538981429294.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jeremiah-2Pc-Printed-Lawn-Dress-BATIK-25538981462062.jpg?v=1782881307",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jeremiah-2Pc-Printed-Lawn-Dress-BATIK-25538981527598.jpg?v=1782881307",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jeremiah-2Pc-Printed-Lawn-Dress-BATIK-25538981560366.jpg?v=1782881307",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jeremiah-2Pc-Printed-Lawn-Dress-BATIK-25538981593134.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jeremiah-2Pc-Printed-Lawn-Dress-BATIK-25538981625902.jpg?v=1782881326",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jeremiah-2Pc-Printed-Lawn-Dress-BATIK-25538981658670.jpg?v=1782881307",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/Jeremiah-2Pc-Printed-Lawn-Dress-BATIK-25538981691438.jpg?v=1782881326"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981429294.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981462062.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981494830.jpg?v=1795090547",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981527598.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981560366.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981593134.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981625902.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981658670.jpg?v=1795233874",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25538981691438.jpg?v=1795233874"
+      ]
+    },
+    {
+      "product_id": "7656654438446",
+      "title": "Sky Mirielle 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/sky-mirielle-3pc-festive-luxe-pret?variant=42701908312110",
       "kind": "Sold out",
-      "detail": "XL / Taffy Pink / Pima Lawn"
+      "detail": "M / Sky Blue / Organza"
     },
     {
-      "product_id": "7656637726766",
-      "title": "Black Black 3Pc - Festive Luxe Pret",
-      "url": "https://batik.com.pk/products/black-black-3pc-festive-luxe-pret?variant=42701853753390",
-      "kind": "Back in stock",
-      "detail": "XS / Black / Organza"
-    },
-    {
-      "product_id": "7667723370542",
-      "title": "Maroon Fawn 3Pc - Wedding Formal Dress",
-      "url": "https://batik.com.pk/products/maroon-fawn-3pc-wedding-formal-dress?variant=42763899174958",
+      "product_id": "7659067572270",
+      "title": "Adrina 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/adrina-3pc-festive-luxe-pret?variant=42719679053870",
       "kind": "Sold out",
-      "detail": "M / Maroon / Crinkle"
+      "detail": "M / Black / Paper Silk"
     },
     {
-      "product_id": "7668855242798",
-      "title": "Zaar 3Pc - Embroidered Karandi Pret",
-      "url": "https://batik.com.pk/products/zaar-3pc-embroidered-karandi-pret?variant=42772624343086",
+      "product_id": "7660385108014",
+      "title": "Green Mina 3Pc - Embroidered Cambric Pret",
+      "url": "https://batik.com.pk/products/green-mina-3pc-embroidered-cambric-pret?variant=42730158587950",
       "kind": "Sold out",
-      "detail": "XS / Mustard / Karandi"
+      "detail": "M / Perzik Green / Cambric"
     },
     {
-      "product_id": "7672316493870",
-      "title": "Blue Mantis 3Pc - Embroidered Khaddar Pret",
-      "url": "https://batik.com.pk/products/blue-mantis-3pc-embroidered-khaddar-pret?variant=42796577325102",
+      "product_id": "7663601975342",
+      "title": "Oak Wood 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/oak-wood-3pc-embroidered-khaddar-pret?variant=42743238098990",
       "kind": "Sold out",
-      "detail": "S / Blue Opal / Khaddar"
+      "detail": "S / French Oak / Khaddar"
     },
     {
-      "product_id": "7672316493870",
-      "title": "Blue Mantis 3Pc - Embroidered Khaddar Pret",
-      "url": "https://batik.com.pk/products/blue-mantis-3pc-embroidered-khaddar-pret?variant=42796577390638",
-      "kind": "Sold out",
-      "detail": "L / Blue Opal / Khaddar"
-    },
-    {
-      "product_id": "7672317607982",
-      "title": "Jim 3Pc - Embroidered Khaddar Pret",
-      "url": "https://batik.com.pk/products/jim-3pc-embroidered-khaddar-pret?variant=42796585844782",
-      "kind": "Back in stock",
-      "detail": "L / Magenta Purple / Khaddar"
-    },
-    {
-      "product_id": "7672319115310",
-      "title": "Dave 3Pc - Embroidered Khaddar Pret",
-      "url": "https://batik.com.pk/products/dave-3pc-embroidered-khaddar-pret?variant=42796599509038",
-      "kind": "Sold out",
-      "detail": "L / Winery / Khaddar"
-    },
-    {
-      "product_id": "7672319836206",
-      "title": "Azm 3Pc - Embroidered Khaddar Pret",
-      "url": "https://batik.com.pk/products/azm-3pc-embroidered-khaddar-pret?variant=42796606717998",
-      "kind": "Sold out",
-      "detail": "L / Birch / Khaddar"
-    },
-    {
-      "product_id": "7680613449774",
-      "title": "Red Alanna 3Pc - Embroidered Khaddar Pret",
-      "url": "https://batik.com.pk/products/red-alanna-3pc-embroidered-khaddar-pret?variant=42865778950190",
-      "kind": "Sold out",
-      "detail": "XL / Pink Flora / Khaddar"
-    },
-    {
-      "product_id": "7684182278190",
-      "title": "Raina 3Pc - Festive Luxe Pret",
-      "url": "https://batik.com.pk/products/raina-3pc-festive-luxe-pret?variant=42887770734638",
-      "kind": "Sold out",
-      "detail": "M / Green / Georgette"
-    },
-    {
-      "product_id": "7685860524078",
-      "title": "Selinah Rose 3Pc - Velvet Formal Dress",
-      "url": "https://batik.com.pk/products/selinah-rose-3pc-velvet-formal-dress?variant=42898217861166",
-      "kind": "Back in stock",
-      "detail": "S / Teal blue / Velvet"
-    },
-    {
-      "product_id": "7685861605422",
-      "title": "Avoria 3Pc - Velvet Formal Dress",
-      "url": "https://batik.com.pk/products/avoria-3pc-velvet-formal-dress?variant=42898219794478",
-      "kind": "Sold out",
-      "detail": "M / Blue / Velvet"
-    },
-    {
-      "product_id": "7685863800878",
-      "title": "Feroza Noor 3Pc - Velvet Formal Dress",
-      "url": "https://batik.com.pk/products/feroza-noor-3pc-velvet-formal-dress?variant=42898231722030",
-      "kind": "Back in stock",
-      "detail": "S / Cyan / Velvet"
+      "product_id": "7666610143278",
+      "title": "Avni 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/avni-3pc-embroidered-karandi-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615520302.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615553070.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615585838.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615618606.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615651374.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615684142.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615716910.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615749678.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615782446_3f356859-9882-4a1e-97ff-09ae5252c86a.jpg?v=1795147524",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615815214.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615847982.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615880750.jpg?v=1795088097"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615520302.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615553070.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615585838.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615618606.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615651374.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615684142.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615716910.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615749678.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615782446_8f3012ea-ec63-4c1f-96ff-99d8c50d01d9.jpg?v=1795233621",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615815214.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615847982.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615880750.jpg?v=1795088097"
+      ]
     },
     {
       "product_id": "7685871140910",
       "title": "Vareen 3Pc - Velvet Formal Dress",
       "url": "https://batik.com.pk/products/vareen-3pc-velvet-formal-dress?variant=42898277859374",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "M / Black / Velvet"
     },
     {
-      "product_id": "7691041374254",
-      "title": "Austria 2Pc - Velvet Formal Dress",
-      "url": "https://batik.com.pk/products/austria-3pc-velvet-formal-dress?variant=42927707488302",
+      "product_id": "7688661303342",
+      "title": "Black Charlotte 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/black-charlotte-3pc-embroidered-karandi-pret?variant=42916766679086",
       "kind": "Sold out",
-      "detail": "XL / Black / Velvet"
+      "detail": "XL / Black / Karandi"
     }
   ]
 }
