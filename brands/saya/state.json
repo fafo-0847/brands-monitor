@@ -3,7 +3,7 @@
   "source": "https://saya.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-20T21:20:10.915774+00:00",
+  "checked_at": "2026-11-21T08:50:26.718674+00:00",
   "products": {
     "9573247713512": {
       "id": "9573247713512",
@@ -39331,7 +39331,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13254S.jpg?v=1790679426",
@@ -65885,7 +65886,7 @@
             "Jacquard"
           ],
           "sku": "123951",
-          "available": true,
+          "available": false,
           "price": 295400,
           "compare_at_price": 449900
         },
@@ -86186,7 +86187,7 @@
             "Jacquard"
           ],
           "sku": "166104",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 549900
         },
@@ -93058,7 +93059,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13507.jpg?v=1790660427",
@@ -93204,7 +93206,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13045.jpg?v=1790667015",
@@ -93349,7 +93352,8 @@
         "X-Large",
         "X-Small",
         "Year 2026",
-        "low-stock-cleanup"
+        "low-stock-cleanup",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13171.jpg?v=1790669289",
@@ -112365,15 +112369,23 @@
       ],
       "options": [
         {
-          "name": "Scent",
+          "name": "Barcode",
           "position": 1,
+          "values": [
+            "70573",
+            "155691"
+          ]
+        },
+        {
+          "name": "Scent",
+          "position": 2,
           "values": [
             "Fresh"
           ]
         },
         {
           "name": "For",
-          "position": 2,
+          "position": 3,
           "values": [
             "Unisex"
           ]
@@ -112382,14 +112394,28 @@
       "variants": {
         "47347257278696": {
           "id": "47347257278696",
-          "title": "Fresh / Unisex",
+          "title": "70573 / Fresh / Unisex",
           "options": [
+            "70573",
             "Fresh",
             "Unisex"
           ],
           "sku": "70573",
           "available": false,
           "price": 183800,
+          "compare_at_price": 350000
+        },
+        "68290941944040": {
+          "id": "68290941944040",
+          "title": "155691 / Fresh / Unisex",
+          "options": [
+            "155691",
+            "Fresh",
+            "Unisex"
+          ],
+          "sku": "155691",
+          "available": false,
+          "price": 350000,
           "compare_at_price": 350000
         }
       },
@@ -115487,7 +115513,7 @@
             "Cambric"
           ],
           "sku": "159543",
-          "available": false,
+          "available": true,
           "price": 74900,
           "compare_at_price": 199900
         },
@@ -115531,7 +115557,7 @@
           "compare_at_price": 199900
         }
       },
-      "available": false
+      "available": true
     },
     "9537418395880": {
       "id": "9537418395880",
@@ -138398,7 +138424,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/ST-13363.jpg?v=1790678102",
@@ -140515,7 +140542,7 @@
             "Jacquard"
           ],
           "sku": "136369",
-          "available": true,
+          "available": false,
           "price": 249900,
           "compare_at_price": 249900
         },
@@ -140546,7 +140573,7 @@
           "compare_at_price": 249900
         }
       },
-      "available": true
+      "available": false
     },
     "9530629062888": {
       "id": "9530629062888",
@@ -154943,7 +154970,7 @@
             "Jacquard"
           ],
           "sku": "136414",
-          "available": true,
+          "available": false,
           "price": 319900,
           "compare_at_price": 759900
         },
@@ -155949,7 +155976,7 @@
             "Jacquard"
           ],
           "sku": "143020",
-          "available": false,
+          "available": true,
           "price": 399900,
           "compare_at_price": 549900
         },
@@ -155980,7 +156007,7 @@
           "compare_at_price": 549900
         }
       },
-      "available": false
+      "available": true
     },
     "9348590928104": {
       "id": "9348590928104",
@@ -158703,7 +158730,7 @@
             "Jacquard"
           ],
           "sku": "165011",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         }
@@ -169802,7 +169829,7 @@
             "Cross Hatch"
           ],
           "sku": "111092",
-          "available": true,
+          "available": false,
           "price": 82700,
           "compare_at_price": 179900
         }
@@ -187183,7 +187210,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/ST-13314.jpg?v=1790668062",
@@ -211983,7 +212011,7 @@
             "Jacquard"
           ],
           "sku": "118817",
-          "available": true,
+          "available": false,
           "price": 175000,
           "compare_at_price": 349900
         },
@@ -212014,7 +212042,7 @@
           "compare_at_price": 349900
         }
       },
-      "available": true
+      "available": false
     },
     "9346381742312": {
       "id": "9346381742312",
@@ -217463,7 +217491,7 @@
             "Jacquard"
           ],
           "sku": "170323",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 249900
         },
@@ -220886,12 +220914,12 @@
             "Jacquard"
           ],
           "sku": "169039",
-          "available": true,
+          "available": false,
           "price": 223900,
           "compare_at_price": 279900
         }
       },
-      "available": true
+      "available": false
     },
     "15447343923432": {
       "id": "15447343923432",
@@ -221115,12 +221143,12 @@
             "Jacquard"
           ],
           "sku": "151003",
-          "available": true,
+          "available": false,
           "price": 239900,
           "compare_at_price": 299900
         }
       },
-      "available": true
+      "available": false
     },
     "15447511531752": {
       "id": "15447511531752",
@@ -221854,7 +221882,7 @@
             "Jacquard"
           ],
           "sku": "100297",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 349900
         },
@@ -221867,7 +221895,7 @@
             "Jacquard"
           ],
           "sku": "100293",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 349900
         },
@@ -245525,7 +245553,7 @@
             "Herringbone"
           ],
           "sku": "132100",
-          "available": true,
+          "available": false,
           "price": 519800,
           "compare_at_price": 1199900
         },
@@ -245577,7 +245605,7 @@
             "Herringbone"
           ],
           "sku": "132099",
-          "available": false,
+          "available": true,
           "price": 519800,
           "compare_at_price": 1199900
         }
@@ -308051,7 +308079,7 @@
             "Cambric"
           ],
           "sku": "123612",
-          "available": true,
+          "available": false,
           "price": 74900,
           "compare_at_price": 179900
         },
@@ -308082,7 +308110,7 @@
           "compare_at_price": 179900
         }
       },
-      "available": true
+      "available": false
     },
     "9537426915560": {
       "id": "9537426915560",
@@ -309322,7 +309350,7 @@
             "Cambric"
           ],
           "sku": "96033",
-          "available": true,
+          "available": false,
           "price": 74900,
           "compare_at_price": 149900
         },
@@ -322789,12 +322817,12 @@
             "Cambric"
           ],
           "sku": "152883",
-          "available": false,
+          "available": true,
           "price": 225000,
           "compare_at_price": 449900
         }
       },
-      "available": false
+      "available": true
     },
     "9554500550888": {
       "id": "9554500550888",
@@ -337950,7 +337978,7 @@
             "Khaddar"
           ],
           "sku": "163796",
-          "available": false,
+          "available": true,
           "price": 229900,
           "compare_at_price": 349900
         },
@@ -361562,7 +361590,7 @@
             "Lawn"
           ],
           "sku": "139801",
-          "available": false,
+          "available": true,
           "price": 319900,
           "compare_at_price": 749900
         },
@@ -370338,7 +370366,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13413S.jpg?v=1790681623",
@@ -371599,7 +371628,7 @@
             "Lawn"
           ],
           "sku": "107730",
-          "available": true,
+          "available": false,
           "price": 199800,
           "compare_at_price": 249900
         },
@@ -383297,7 +383326,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-8501.jpg?v=1790680396",
@@ -511646,7 +511676,7 @@
             "Lawn"
           ],
           "sku": "149088",
-          "available": false,
+          "available": true,
           "price": 219900,
           "compare_at_price": 359900
         },
@@ -511677,7 +511707,7 @@
           "compare_at_price": 359900
         }
       },
-      "available": false
+      "available": true
     },
     "9361898438888": {
       "id": "9361898438888",
@@ -514020,7 +514050,7 @@
             "Lawn"
           ],
           "sku": "149097",
-          "available": false,
+          "available": true,
           "price": 319900,
           "compare_at_price": 449900
         }
@@ -514275,7 +514305,7 @@
             "Lawn"
           ],
           "sku": "152892",
-          "available": true,
+          "available": false,
           "price": 219900,
           "compare_at_price": 359900
         },
@@ -514319,7 +514349,7 @@
           "compare_at_price": 359900
         }
       },
-      "available": true
+      "available": false
     },
     "9485891961064": {
       "id": "9485891961064",
@@ -516825,12 +516855,12 @@
             "Lawn"
           ],
           "sku": "156691",
-          "available": false,
+          "available": true,
           "price": 219900,
           "compare_at_price": 359900
         }
       },
-      "available": false
+      "available": true
     },
     "9513498607848": {
       "id": "9513498607848",
@@ -522295,7 +522325,7 @@
             "Lawn"
           ],
           "sku": "166402",
-          "available": true,
+          "available": false,
           "price": 319900,
           "compare_at_price": 399900
         },
@@ -530147,6 +530177,139 @@
             "Lawn"
           ],
           "sku": "185300",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        }
+      },
+      "available": false
+    },
+    "15461811355880": {
+      "id": "15461811355880",
+      "title": "Printed Lawn Stitched 2 Piece (Shirt/Trouser)",
+      "handle": "printed-lawn-stitched-2-piece-shirt-trouser-wp2p-3397",
+      "url": "https://saya.pk/products/printed-lawn-stitched-2-piece-shirt-trouser-wp2p-3397",
+      "vendor": "SAYA WOMENS STITCHED - Shirt & Trouser",
+      "type": "Printed",
+      "description": "<div>\n<div>\n<p><span></span> <strong>Design:</strong><span> SP-13945 (P16-26754-P15A 2Pcs) S+T<br></span> <strong>Color:</strong><span> Dirty Gold <br></span> <strong>Fabric:</strong><span> Lawn</span></p>\n</div>\n<div>\n<div><strong>Product Detail</strong></div>\n<div>\n<p dir=\"ltr\" data-path-to-node=\"1\">Refresh your summer wardrobe with SAYA’s dirty gold printed lawn two-piece suit. This ready-to-wear ensemble features an all-over printed lawn shirt paired with matching stitched trousers. Its lightweight, breathable fabric offers comfortable wear, while the coordinated design creates an effortlessly polished look for casual outings, college days and relaxed gatherings.</p>\n</div>\n</div>\n<p><strong>Shirt<br></strong><span>Ready To Wear Lawn Stitched Shirt.</span><br><br><strong>Trouser</strong><br><span>Ready To Wear </span><span>Stitched Trouser.</span></p>\n</div>\n<p>Disclaimer: These Images Are For Illustrative Purpose, Actual Color Of Product May Slight Vary.</p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 96px; top: -0.420288px;\">\n<div class=\"gtx-trans-icon\"><br></div>\n</div>",
+      "tags": [
+        "26754",
+        "DIRTY GOLD",
+        "LAWN",
+        "Large",
+        "Medium",
+        "NOT APPLICABLE",
+        "PRET - 2 PCS (S+T)",
+        "PRINTED",
+        "Pret",
+        "SAYA",
+        "SAYA GALLERY VOL - 01",
+        "SP-13945 (P16-26754-P15A 2Pcs) S+T",
+        "SS-P09-26",
+        "STRAIGHT MID LENGTH",
+        "SUMMER",
+        "Small",
+        "Women",
+        "X-Large",
+        "X-Small"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13945SET.jpg?v=1795236730",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13945-1Thumbnails.jpg?v=1795236730",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13945-2.jpg?v=1795236730",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13945-3.jpg?v=1795236730",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13945-4.jpg?v=1795236730",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13945-5.jpg?v=1795236730"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Yellow"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "X-Large",
+            "X-Small",
+            "Large",
+            "Medium",
+            "Small"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "Lawn"
+          ]
+        }
+      ],
+      "variants": {
+        "68284573810920": {
+          "id": "68284573810920",
+          "title": "Yellow / X-Large / Lawn",
+          "options": [
+            "Yellow",
+            "X-Large",
+            "Lawn"
+          ],
+          "sku": "181257",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        },
+        "68284573843688": {
+          "id": "68284573843688",
+          "title": "Yellow / X-Small / Lawn",
+          "options": [
+            "Yellow",
+            "X-Small",
+            "Lawn"
+          ],
+          "sku": "181258",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        },
+        "68284573876456": {
+          "id": "68284573876456",
+          "title": "Yellow / Large / Lawn",
+          "options": [
+            "Yellow",
+            "Large",
+            "Lawn"
+          ],
+          "sku": "181254",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        },
+        "68284573909224": {
+          "id": "68284573909224",
+          "title": "Yellow / Medium / Lawn",
+          "options": [
+            "Yellow",
+            "Medium",
+            "Lawn"
+          ],
+          "sku": "181255",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        },
+        "68284573941992": {
+          "id": "68284573941992",
+          "title": "Yellow / Small / Lawn",
+          "options": [
+            "Yellow",
+            "Small",
+            "Lawn"
+          ],
+          "sku": "181256",
           "available": false,
           "price": 399900,
           "compare_at_price": 399900
@@ -571376,7 +571539,7 @@
             "Lawn"
           ],
           "sku": "166712",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 349900
         },
@@ -571402,7 +571565,7 @@
             "Lawn"
           ],
           "sku": "166714",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 349900
         },
@@ -572916,7 +573079,8 @@
         "September",
         "Size Chart Uploaded",
         "Top 100 (Best Seller Collection)",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13715-1Thumbnail.jpg?v=1790671019",
@@ -573063,7 +573227,8 @@
         "September",
         "Size Chart Uploaded",
         "Top 100 (Best Seller Collection)",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13731-1Thumbnail.jpg?v=1790673047",
@@ -574625,7 +574790,7 @@
             "Lawn"
           ],
           "sku": "176251",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 349900
         }
@@ -589598,7 +589763,7 @@
             "Lawn"
           ],
           "sku": "155191",
-          "available": false,
+          "available": true,
           "price": 709900,
           "compare_at_price": 999900
         }
@@ -656293,7 +656458,7 @@
             "Lawn"
           ],
           "sku": "114631",
-          "available": true,
+          "available": false,
           "price": 179900,
           "compare_at_price": 299900
         },
@@ -656337,7 +656502,7 @@
           "compare_at_price": 299900
         }
       },
-      "available": true
+      "available": false
     },
     "9620729757928": {
       "id": "9620729757928",
@@ -666154,7 +666319,7 @@
             "Lawn"
           ],
           "sku": "111197",
-          "available": true,
+          "available": false,
           "price": 100000,
           "compare_at_price": 199900
         },
@@ -673887,6 +674052,143 @@
         }
       },
       "available": true
+    },
+    "15461969232104": {
+      "id": "15461969232104",
+      "title": "Printed Premium Lawn Stitched 2 Piece (Shirt+Trouser)",
+      "handle": "printed-premium-lawn-stitched-2-piece-shirt-trouser-wp2p-3486",
+      "url": "https://saya.pk/products/printed-premium-lawn-stitched-2-piece-shirt-trouser-wp2p-3486",
+      "vendor": "SAYA WOMENS STITCHED - Shirt & Trouser",
+      "type": "Printed",
+      "description": "<div>\n<div>\n<p><strong>Design:</strong><span> SP-14199 (P16-26062-P02A 2Pcs) S+T<br></span><strong>Color: </strong>Purple <span><br></span><strong>Fabric: </strong>Premium<strong> </strong><span>Lawn</span></p>\n</div>\n<div>\n<div><strong>Product Detail</strong></div>\n<div>\n<p dir=\"ltr\" data-path-to-node=\"1\">Refresh your wardrobe with SAYA’s purple printed premium lawn two-piece suit. This ready-to-wear ensemble features a floral digital-printed shirt paired with dyed straight trousers. Crafted from premium lawn, it offers lightweight breathability, soft comfort and lasting durability, making it a stylish choice for summer outings, brunches and family gatherings.</p>\n</div>\n</div>\n<p><strong>Shirt<br></strong><span>Ready To Wear Lawn Stitched Shirt.</span><br><br><strong>Trouser</strong><br><span>Ready To Wear Dyed </span><span>Trouser.</span></p>\n<p>Disclaimer: These Images Are For Illustrative Purpose, Actual Color Of Product May Slight Vary.</p>\n</div>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 48px; top: 26.7283px;\">\n<div class=\"gtx-trans-icon\"><br></div>\n</div>",
+      "tags": [
+        "26062",
+        "Large",
+        "Medium",
+        "NOIRAH",
+        "NOT APPLICABLE",
+        "Noor By Saya",
+        "Not on Sale",
+        "PREMIUM LAWN",
+        "PRET - 2 PC",
+        "PRET - 2 PCS (S+T)",
+        "PRINTED",
+        "Pret",
+        "Product Description Done",
+        "Purple",
+        "SP-14199 (P16-26062-P02A 2Pcs) S+T",
+        "SS-P10-26",
+        "STRAIGHT SHORT LENGTH",
+        "SUMMER",
+        "Size Chart Uploaded",
+        "Small",
+        "Women",
+        "X-Large",
+        "X-Small"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-14199SET.jpg?v=1795239853",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-14199-1Thumbnail.jpg?v=1795239852",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-14199-2.jpg?v=1795239852",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-14199-3.jpg?v=1795239852",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-14199-4.jpg?v=1795239852",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-14199-5.jpg?v=1795239852"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Purple"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "X-Large",
+            "X-Small",
+            "Large",
+            "Medium",
+            "Small"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "Lawn"
+          ]
+        }
+      ],
+      "variants": {
+        "68285537124584": {
+          "id": "68285537124584",
+          "title": "Purple / X-Large / Lawn",
+          "options": [
+            "Purple",
+            "X-Large",
+            "Lawn"
+          ],
+          "sku": "186143",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        },
+        "68285537157352": {
+          "id": "68285537157352",
+          "title": "Purple / X-Small / Lawn",
+          "options": [
+            "Purple",
+            "X-Small",
+            "Lawn"
+          ],
+          "sku": "186144",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        },
+        "68285537190120": {
+          "id": "68285537190120",
+          "title": "Purple / Large / Lawn",
+          "options": [
+            "Purple",
+            "Large",
+            "Lawn"
+          ],
+          "sku": "186140",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        },
+        "68285537222888": {
+          "id": "68285537222888",
+          "title": "Purple / Medium / Lawn",
+          "options": [
+            "Purple",
+            "Medium",
+            "Lawn"
+          ],
+          "sku": "186141",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        },
+        "68285537255656": {
+          "id": "68285537255656",
+          "title": "Purple / Small / Lawn",
+          "options": [
+            "Purple",
+            "Small",
+            "Lawn"
+          ],
+          "sku": "186142",
+          "available": false,
+          "price": 399900,
+          "compare_at_price": 399900
+        }
+      },
+      "available": false
     },
     "9150804918504": {
       "id": "9150804918504",
@@ -682249,7 +682551,7 @@
             "Lawn"
           ],
           "sku": "160164",
-          "available": false,
+          "available": true,
           "price": 319900,
           "compare_at_price": 499900
         },
@@ -682267,7 +682569,7 @@
           "compare_at_price": 499900
         }
       },
-      "available": false
+      "available": true
     },
     "9571910779112": {
       "id": "9571910779112",
@@ -685871,6 +686173,150 @@
         }
       },
       "available": true
+    },
+    "15462123602152": {
+      "id": "15462123602152",
+      "title": "Printed Premium Lawn Stitched 2 Piece (Shirt/Trouser)",
+      "handle": "printed-premium-lawn-stitched-2-piece-shirt-trouser-wp2p-3371",
+      "url": "https://saya.pk/products/printed-premium-lawn-stitched-2-piece-shirt-trouser-wp2p-3371",
+      "vendor": "SAYA WOMENS STITCHED - Shirt & Trouser",
+      "type": "Printed",
+      "description": "<div>\n<div>\n<p><strong>Design</strong>: SP-13856 (P16-26138-P02B 2Pcs) S+T<span><br></span> <strong>Color: </strong>Green<span><br></span> <strong>Fabric:</strong><span> Premium Lawn<br></span></p>\n</div>\n<div>\n<div><strong>Product Detail</strong></div>\n<div>\n<p class=\"ds-markdown-paragraph\">Step Into Lively Botanical Charm And Breezy Comfort With This Printed Premium Lawn Stitched 2 Piece Shirt And Trouser Set By SAYA. Rendered In A Refreshing Green Hue From Fine Premium Lawn Fabric, This Ready-To-Wear Ensemble Pairs Airy Breathability With Expressive Contemporary Prints. Neat Tailoring Shapes The Stitched Shirt Alongside Coordinated Trousers For A Crisp, Balanced Silhouette. An Effortless Choice For Sunny Outings, Daytime Gatherings, And Relaxed Everyday Wear.</p>\n</div>\n</div>\n<strong>Shirt</strong><br><span>Ready To Wear Premium Lawn Stitched Shirt.</span><br><br><strong>Trouser</strong><br><span>Ready To Wear </span><span>Stitched Trouser.</span><br>\n</div>\n<div>\n<span></span><br>\n</div>\n<p>Disclaimer: These Images Are For Illustrative Purpose, Actual Color Of Product May Slight Vary.</p>",
+      "tags": [
+        "26138",
+        "ColorName=GREEN | Updated",
+        "DAILY WEAR",
+        "DUSK LORE",
+        "For Sale Tab > 2024",
+        "Green",
+        "Large",
+        "Medium",
+        "NOT APPLICABLE",
+        "New Arrivals Non-Discounted",
+        "Non-Discounted",
+        "Non-Discounted Tag",
+        "Noor By Saya",
+        "Not on Sale",
+        "November",
+        "PREMIUM LAWN",
+        "PRET - 2 PCS (S+T)",
+        "PRINTED",
+        "Pret",
+        "Product Description Done",
+        "SP-13856 (P16-26138-P02B 2Pcs) S+T",
+        "SS-P09-26",
+        "STRAIGHT LONG LENGTH",
+        "SUMMER",
+        "Size Chart Uploaded",
+        "Small",
+        "Women",
+        "X-Large",
+        "X-Small",
+        "Year 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13856SET.jpg?v=1795242631",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13856-1Thumbnail.jpg?v=1795242631",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13856-2.jpg?v=1795242631",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13856-3.jpg?v=1795242631",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13856-4.jpg?v=1795242631",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13856-5.jpg?v=1795242631"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Large",
+            "Medium",
+            "Small",
+            "X-Large",
+            "X-Small"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "Lawn"
+          ]
+        }
+      ],
+      "variants": {
+        "68286923669736": {
+          "id": "68286923669736",
+          "title": "Green / Large / Lawn",
+          "options": [
+            "Green",
+            "Large",
+            "Lawn"
+          ],
+          "sku": "180231",
+          "available": false,
+          "price": 449900,
+          "compare_at_price": 449900
+        },
+        "68286923702504": {
+          "id": "68286923702504",
+          "title": "Green / Medium / Lawn",
+          "options": [
+            "Green",
+            "Medium",
+            "Lawn"
+          ],
+          "sku": "180232",
+          "available": false,
+          "price": 449900,
+          "compare_at_price": 449900
+        },
+        "68286923735272": {
+          "id": "68286923735272",
+          "title": "Green / Small / Lawn",
+          "options": [
+            "Green",
+            "Small",
+            "Lawn"
+          ],
+          "sku": "180233",
+          "available": false,
+          "price": 449900,
+          "compare_at_price": 449900
+        },
+        "68286923768040": {
+          "id": "68286923768040",
+          "title": "Green / X-Large / Lawn",
+          "options": [
+            "Green",
+            "X-Large",
+            "Lawn"
+          ],
+          "sku": "180234",
+          "available": false,
+          "price": 449900,
+          "compare_at_price": 449900
+        },
+        "68286923800808": {
+          "id": "68286923800808",
+          "title": "Green / X-Small / Lawn",
+          "options": [
+            "Green",
+            "X-Small",
+            "Lawn"
+          ],
+          "sku": "180235",
+          "available": false,
+          "price": 449900,
+          "compare_at_price": 449900
+        }
+      },
+      "available": false
     },
     "9147434172648": {
       "id": "9147434172648",
@@ -691457,7 +691903,7 @@
             "Lawn"
           ],
           "sku": "177758",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 349900
         }
@@ -695478,12 +695924,12 @@
             "Lawn"
           ],
           "sku": "132372",
-          "available": true,
+          "available": false,
           "price": 249900,
           "compare_at_price": 549900
         }
       },
-      "available": true
+      "available": false
     },
     "9149982802152": {
       "id": "9149982802152",
@@ -714854,7 +715300,7 @@
             "Lawn"
           ],
           "sku": "125277",
-          "available": false,
+          "available": true,
           "price": 249900,
           "compare_at_price": 449900
         },
@@ -748176,7 +748622,7 @@
             "Silk"
           ],
           "sku": "162901",
-          "available": true,
+          "available": false,
           "price": 369900,
           "compare_at_price": 749900
         }
@@ -809681,7 +810127,7 @@
             "Lawn"
           ],
           "sku": "125277",
-          "available": false,
+          "available": true,
           "price": 249900,
           "compare_at_price": 449900
         },
@@ -823839,12 +824285,12 @@
             "Cambric"
           ],
           "sku": "136765",
-          "available": false,
+          "available": true,
           "price": 319900,
           "compare_at_price": 399900
         }
       },
-      "available": false
+      "available": true
     },
     "9542219301096": {
       "id": "9542219301096",
@@ -825016,12 +825462,12 @@
             "Cambric"
           ],
           "sku": "159912",
-          "available": false,
+          "available": true,
           "price": 499900,
           "compare_at_price": 499900
         }
       },
-      "available": false
+      "available": true
     },
     "9604909007080": {
       "id": "9604909007080",
@@ -847043,7 +847489,7 @@
             "Cambric"
           ],
           "sku": "156074",
-          "available": true,
+          "available": false,
           "price": 360400,
           "compare_at_price": 549900
         },
@@ -850576,7 +851022,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13685-1thumbnail_113d209b-2311-4c5f-8f36-b81cd7853b10.jpg?v=1792670326",
@@ -854687,7 +855134,7 @@
             "Cambric"
           ],
           "sku": "152155",
-          "available": true,
+          "available": false,
           "price": 491500,
           "compare_at_price": 999900
         },
@@ -869726,7 +870173,7 @@
             "Cotton"
           ],
           "sku": "59270",
-          "available": true,
+          "available": false,
           "price": 449900,
           "compare_at_price": 1029900
         },
@@ -869770,7 +870217,7 @@
           "compare_at_price": 1029900
         }
       },
-      "available": true
+      "available": false
     },
     "9034285220072": {
       "id": "9034285220072",
@@ -876052,7 +876499,7 @@
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13204.jpg?v=1788525537",
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13204-1Thumbnail.jpg?v=1788525537",
-        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13204-2.jpg?v=1788525537",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13204-2_jpg.jpg?v=1795248540",
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13204-3.jpg?v=1788525537",
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13204-4.jpg?v=1788525537",
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/sp-13204-5.jpg?v=1788525536",
@@ -887358,12 +887805,12 @@
             "Dobby Crepe"
           ],
           "sku": "80323",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 349900
         }
       },
-      "available": true
+      "available": false
     },
     "9187606626536": {
       "id": "9187606626536",
@@ -901433,7 +901880,7 @@
             "Khaddar"
           ],
           "sku": "140649",
-          "available": true,
+          "available": false,
           "price": 599900,
           "compare_at_price": 599900
         },
@@ -901464,7 +901911,7 @@
           "compare_at_price": 599900
         }
       },
-      "available": true
+      "available": false
     },
     "15366118768872": {
       "id": "15366118768872",
@@ -904333,7 +904780,7 @@
             "Khaddar"
           ],
           "sku": "141338",
-          "available": true,
+          "available": false,
           "price": 519900,
           "compare_at_price": 649900
         },
@@ -904377,7 +904824,7 @@
           "compare_at_price": 649900
         }
       },
-      "available": true
+      "available": false
     },
     "9521096524008": {
       "id": "9521096524008",
@@ -932255,7 +932702,7 @@
             "Lawn"
           ],
           "sku": "157766",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -932299,7 +932746,7 @@
           "compare_at_price": 499900
         }
       },
-      "available": true
+      "available": false
     },
     "9638860849384": {
       "id": "9638860849384",
@@ -954986,7 +955433,7 @@
             "Silk"
           ],
           "sku": "175601",
-          "available": true,
+          "available": false,
           "price": 319900,
           "compare_at_price": 549900
         },
@@ -1026664,7 +1027111,7 @@
             "Jacquard"
           ],
           "sku": "174909",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 349900
         }
@@ -1028018,7 +1028465,8 @@
         "September",
         "Size Chart Uploaded",
         "Top 100 (Best Seller Collection)",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13373-1Thumbnail.jpg?v=1790675439",
@@ -1028165,7 +1028613,8 @@
         "Size Chart Uploaded",
         "Top 100 (Best Seller Collection)",
         "Western",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13491.jpg?v=1790676670",
@@ -1028312,7 +1028761,8 @@
         "WHIMSICAL",
         "WINTER",
         "Year 2026",
-        "low-stock-cleanup"
+        "low-stock-cleanup",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13453.jpg?v=1790683789",
@@ -1040849,6 +1041299,148 @@
           "sku": "118845",
           "available": true,
           "price": 149900,
+          "compare_at_price": 199900
+        }
+      },
+      "available": true
+    },
+    "15461913002216": {
+      "id": "15461913002216",
+      "title": "Stitched Cotton jacquard Shirt For Kids",
+      "handle": "stitched-cotton-jacquard-shirt-for-kids-kj1p-0146",
+      "url": "https://saya.pk/products/stitched-cotton-jacquard-shirt-for-kids-kj1p-0146",
+      "vendor": "SAYA KIDS",
+      "type": "Jacquard",
+      "description": "<div>\n<strong>Design:</strong> SP-11036 (P30-25571-01A 1Pc)<br><strong>Color: </strong>Lavender <strong><br>Fabric: </strong>Cotton jacquard<strong><br></strong>\n</div>\n<div>\n<div><br></div>\n<div><strong>Product Detail</strong></div>\n<div>Add a smart touch to your child’s wardrobe with SAYA’s lavender cotton jacquard shirt. This premium ready-to-wear piece features a textured fabric finish and a versatile design that pairs easily with trousers or jeans. Comfortable and stylish, it is a lovely choice for casual outings and family gatherings.</div>\n<div><br></div>\n<div><strong>Shirt</strong></div>\n<div>Premium Cotton jacquard Shirt. </div>\n<div>\n<span></span><br>\n</div>\n<div>Disclaimer: These Images Are For Illustrative Purposes, Actual Color Of the Product May Slight Vary.</div>\n<div style=\"position: absolute; left: 50px; top: -20.0109px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\"><br></div>\n</div>\n<p><!----></p>\n</div>",
+      "tags": [
+        "11-12 Y",
+        "25571",
+        "3-4 Y",
+        "5-6 Y",
+        "7-8 Y",
+        "9-10 Y",
+        "All Season",
+        "COTTON JACQUARD",
+        "ColorName=LAVENDER | Updated",
+        "Jacquard",
+        "KIDS",
+        "Kids > 2024",
+        "Kids By SAYA",
+        "Kids PRET > 2024",
+        "Lavender",
+        "NOT APPLICABLE",
+        "November",
+        "PRET  KIDS - 1 PC",
+        "PRET - 1 PC",
+        "PRET KIDS - 1 PC (JACQUARD SHIRT)",
+        "Pret",
+        "Product Description Done",
+        "SAMA",
+        "SAYA",
+        "SP-11036 (P30-25571-01A 1Pc)",
+        "SS-P08-25",
+        "STRAIGHT LONG LENGTH",
+        "Size Chart Uploaded",
+        "Year 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-11036-1Thumbnail_ae927507-5ba6-44b9-b282-e85bc48a6930.jpg?v=1795238281",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-11036-2_b3f1e526-0188-442d-8acf-10a4fbdc5f29.jpg?v=1795238281",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-11036-3_df3c96e8-f1c9-4400-9825-20f0c8ce4e60.jpg?v=1795238280",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-11036-4_2c8562f5-7363-4a07-89e8-0cd568caa584.jpg?v=1795238281",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-11036S.jpg?v=1795238281"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Purple"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "3-4 Y",
+            "5-6 Y",
+            "7-8 Y",
+            "9-10 Y",
+            "11-12 Y"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "Jacquard"
+          ]
+        }
+      ],
+      "variants": {
+        "68285187195112": {
+          "id": "68285187195112",
+          "title": "Purple / 3-4 Y / Jacquard",
+          "options": [
+            "Purple",
+            "3-4 Y",
+            "Jacquard"
+          ],
+          "sku": null,
+          "available": false,
+          "price": 150000,
+          "compare_at_price": 199900
+        },
+        "68285187227880": {
+          "id": "68285187227880",
+          "title": "Purple / 5-6 Y / Jacquard",
+          "options": [
+            "Purple",
+            "5-6 Y",
+            "Jacquard"
+          ],
+          "sku": "114906",
+          "available": true,
+          "price": 150000,
+          "compare_at_price": 199900
+        },
+        "68285187260648": {
+          "id": "68285187260648",
+          "title": "Purple / 7-8 Y / Jacquard",
+          "options": [
+            "Purple",
+            "7-8 Y",
+            "Jacquard"
+          ],
+          "sku": "114907",
+          "available": true,
+          "price": 150000,
+          "compare_at_price": 199900
+        },
+        "68285187293416": {
+          "id": "68285187293416",
+          "title": "Purple / 9-10 Y / Jacquard",
+          "options": [
+            "Purple",
+            "9-10 Y",
+            "Jacquard"
+          ],
+          "sku": "114908",
+          "available": true,
+          "price": 150000,
+          "compare_at_price": 199900
+        },
+        "68285187326184": {
+          "id": "68285187326184",
+          "title": "Purple / 11-12 Y / Jacquard",
+          "options": [
+            "Purple",
+            "11-12 Y",
+            "Jacquard"
+          ],
+          "sku": "114904",
+          "available": true,
+          "price": 150000,
           "compare_at_price": 199900
         }
       },
@@ -1091633,7 +1092225,7 @@
             "Khaddar"
           ],
           "sku": "143684",
-          "available": false,
+          "available": true,
           "price": 199900,
           "compare_at_price": 249900
         },
@@ -1141280,7 +1141872,7 @@
             "Poplin"
           ],
           "sku": "137715",
-          "available": true,
+          "available": false,
           "price": 319900,
           "compare_at_price": 649900
         },
@@ -1152646,7 +1153238,8 @@
         "Women",
         "X-Large",
         "X-Small",
-        "Year 2026"
+        "Year 2026",
+        "new arrival"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/SP-13162.jpg?v=1790659133",
@@ -1174895,7 +1175488,7 @@
             "Jacquard"
           ],
           "sku": "123546",
-          "available": true,
+          "available": false,
           "price": 229900,
           "compare_at_price": 449900
         },
@@ -1175309,7 +1175902,7 @@
             "Jacquard"
           ],
           "sku": "90638",
-          "available": false,
+          "available": true,
           "price": 464600,
           "compare_at_price": 699900
         }
@@ -1179136,7 +1179729,7 @@
             "Lawn"
           ],
           "sku": "132352",
-          "available": true,
+          "available": false,
           "price": 180000,
           "compare_at_price": 319900
         },
@@ -1179154,7 +1179747,7 @@
           "compare_at_price": 319900
         }
       },
-      "available": true
+      "available": false
     },
     "9489742004456": {
       "id": "9489742004456",
@@ -1182888,7 +1183481,7 @@
             "Lawn"
           ],
           "sku": "139820",
-          "available": false,
+          "available": true,
           "price": 321200,
           "compare_at_price": 699900
         },
@@ -1235987,12 +1236580,12 @@
             "Jacquard"
           ],
           "sku": "184024",
-          "available": false,
+          "available": true,
           "price": 399900,
           "compare_at_price": 399900
         }
       },
-      "available": false
+      "available": true
     },
     "9042798018792": {
       "id": "9042798018792",
@@ -1241688,12 +1242281,12 @@
             "Jacquard"
           ],
           "sku": "97611",
-          "available": false,
+          "available": true,
           "price": 269900,
           "compare_at_price": 399900
         }
       },
-      "available": false
+      "available": true
     },
     "9192039809256": {
       "id": "9192039809256",
@@ -1255319,12 +1255912,12 @@
             "Jacquard"
           ],
           "sku": "116739",
-          "available": true,
+          "available": false,
           "price": 362600,
           "compare_at_price": 499900
         }
       },
-      "available": true
+      "available": false
     },
     "9323020288232": {
       "id": "9323020288232",
@@ -1259627,12 +1260220,12 @@
             "Jacquard"
           ],
           "sku": "148972",
-          "available": true,
+          "available": false,
           "price": 269900,
           "compare_at_price": 449900
         }
       },
-      "available": true
+      "available": false
     },
     "9482610180328": {
       "id": "9482610180328",
@@ -1286110,12 +1286703,12 @@
             "Wash N Wear"
           ],
           "sku": "149589",
-          "available": false,
+          "available": true,
           "price": 223400,
           "compare_at_price": 399900
         }
       },
-      "available": false
+      "available": true
     },
     "9501090119912": {
       "id": "9501090119912",
@@ -1296572,7 +1297165,7 @@
             "Wash N Wear"
           ],
           "sku": "176023",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 249900
         },
@@ -1297315,12 +1297908,12 @@
             "Wash N Wear"
           ],
           "sku": "176021",
-          "available": true,
+          "available": false,
           "price": 199900,
           "compare_at_price": 249900
         }
       },
-      "available": true
+      "available": false
     },
     "15348214137064": {
       "id": "15348214137064",
@@ -1297398,12 +1297991,12 @@
             "Wash N Wear"
           ],
           "sku": "172284",
-          "available": true,
+          "available": false,
           "price": 215900,
           "compare_at_price": 269900
         }
       },
-      "available": true
+      "available": false
     },
     "15348222361832": {
       "id": "15348222361832",
@@ -1306944,12 +1307537,12 @@
             "Dobby Blend"
           ],
           "sku": "181343",
-          "available": true,
+          "available": false,
           "price": 269900,
           "compare_at_price": 299900
         }
       },
-      "available": true
+      "available": false
     },
     "15401239380200": {
       "id": "15401239380200",
@@ -1307441,6 +1308034,90 @@
       },
       "available": true
     },
+    "15462271811816": {
+      "id": "15462271811816",
+      "title": "Unstitched Printed Dobby Blend 3 Piece",
+      "handle": "unstitched-printed-dobby-blend-3-piece-wuns-8444",
+      "url": "https://saya.pk/products/unstitched-printed-dobby-blend-3-piece-wuns-8444",
+      "vendor": "SAYA WOMENS UNSTITCHED",
+      "type": "Printed",
+      "description": "<div>\n<strong>Design:</strong><span> U04-26617-P02B (SDT)</span><br><strong>Color:</strong><span> Olive Green</span><br>\n</div>\n<div>\n<div>\n<strong>Fabric: </strong>Dobby Blend</div>\n<div><br></div>\n<div><strong>Product Detail</strong></div>\n<div>\n<p>Bring Earthy Depth And Subtle Tactile Charm To Your Wardrobe With This Unstitched Printed Dobby Blend 3 Piece Suit By SAYA. Styled In A Rich Olive Green Shade From Textured Dobby Blend Fabric, This Ensemble Pairs A Printed Shirt With A Coordinating Printed Dupatta And Matching Dyed Trouser Fabric. Generous Unstitched Yardage Lets You Tailor The Silhouette To Your Exact Cut And Neckline Preference. A Polished, Versatile Choice For Casual Outings, Semi-Formal Gatherings, And Effortless Everyday Dressing.</p>\n</div>\n<div><strong>Shirt</strong></div>\n<div>Premium Printed Dobby Blend Shirt (Wider Width) 1.15 M.<br><br>\n</div>\n<div><strong>Dupatta</strong></div>\n<div>Premium Printed Dobby Blend Dupatta 2.5M.<br><br>\n</div>\n<div><strong>Trouser</strong></div>\n<div><span>Premium Dyed Dobby Blend Trouser 1.1M.</span></div>\n<div>\n<span></span><br>\n</div>\n<div>Disclaimer: These Images Are For Illustrative Purpose, Actual Color Of Product May Slight Vary.</div>\n</div>",
+      "tags": [
+        "26617",
+        "AW-617-26",
+        "ColorName=OLIVE GREEN | Updated",
+        "Dobby Blend",
+        "ESSENTIAL",
+        "ETHNIC V-2",
+        "For Sale Tab > 2024",
+        "New Arrivals Non-Discounted",
+        "Non-Discounted",
+        "Non-Discounted Tag",
+        "Not on Sale",
+        "November",
+        "Olive Green",
+        "PRINTED",
+        "Product Description Done",
+        "SAYA",
+        "Standard",
+        "U04-26617-P02B (SDT)",
+        "UNSTICHED",
+        "UNSTITCHED",
+        "US - 3 PCS",
+        "US - 3 PCS (WINTER DUPATTA)",
+        "WINTER",
+        "Women",
+        "Year 2026",
+        "dobby blend dupatta"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26617-p02B-1thumbnail.jpg?v=1795244901",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26617-p02B-2.jpg?v=1795244901",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26617-p02B-3.jpg?v=1795244901",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26617-p02B-4.jpg?v=1795244901",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26617-p02B-5.jpg?v=1795244901",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26617-p02B-6.jpg?v=1795244901"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Standard"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "Dobby Blend"
+          ]
+        }
+      ],
+      "variants": {
+        "68288073924840": {
+          "id": "68288073924840",
+          "title": "Green / Standard / Dobby Blend",
+          "options": [
+            "Green",
+            "Standard",
+            "Dobby Blend"
+          ],
+          "sku": "183290",
+          "available": false,
+          "price": 299900,
+          "compare_at_price": 299900
+        }
+      },
+      "available": false
+    },
     "8974072611048": {
       "id": "8974072611048",
       "title": "Unstitched Printed Emb Lawn 2 Piece (Shirt/Dupatta)",
@@ -1307755,6 +1308432,87 @@
           "available": false,
           "price": 839900,
           "compare_at_price": 839900
+        }
+      },
+      "available": false
+    },
+    "15462220562664": {
+      "id": "15462220562664",
+      "title": "Unstitched Printed Embroidered Cotton 2 Piece (Shirt/Dupatta)",
+      "handle": "unstitched-printed-embroidered-cotton-2-piece-shirt-dupatta-wu2p-7304",
+      "url": "https://saya.pk/products/unstitched-printed-embroidered-cotton-2-piece-shirt-dupatta-wu2p-7304",
+      "vendor": "SAYA WOMENS UNSTITCHED",
+      "type": "Embroidered",
+      "description": "<p><strong>Design:</strong> U06-26236-E05A (SD) EMB<br><strong>Color: </strong>Ivory <br><strong>Fabric:</strong> Cambric</p>\n<p><strong>Product Detail</strong><br></p>\n<p>Refresh your wardrobe with SAYA’s ivory printed embroidered cotton two-piece suit. This unstitched ensemble includes a premium printed cotton shirt and matching dupatta, complemented by embroidered organza lace and border detailing. Its elegant combination of print and embroidery offers a graceful look, ideal for casual outings and semi-formal occasions.</p>\n<p><strong>Shirt</strong><br></p>\n<div>\n<span>Premium Printed Cotton </span>Shirt  1.75 (Wider Width )<br><span>Embroidered Lace on Organza 1.5M</span><br><span>Embroidered Border on Organza 1Pc</span>\n</div>\n<div><br></div>\n<p><strong>Dupatta</strong><br><span>Premium  Printed Cotton Dupatta 2.50 M </span></p>\n<p>Disclaimer: These Images Are For Illustrative Purposes, Actual Color Of the Product May Slight Vary.<br></p>",
+      "tags": [
+        "26236",
+        "ColorName=IVORY | Updated",
+        "For Sale Tab > 2024",
+        "Ivory",
+        "KILIMKARI V-5",
+        "LAWN DUPATTA",
+        "Not on Sale",
+        "November",
+        "PREMIUM LAWN",
+        "PRINTED+EMB",
+        "Product Description Done",
+        "ROZANA",
+        "SAYA",
+        "SS-236-26",
+        "SUMMER",
+        "Standard",
+        "U06-26236-E05A (SD) EMB",
+        "UNSTICHED",
+        "UNSTITCHED",
+        "US - 2 PCS",
+        "US - 2 PCS (S+D)",
+        "Women",
+        "Year 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u06-26236-e05A-1thumbail.jpg?v=1795243711",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u06-26236-e05A-2.jpg?v=1795243711",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u06-26236-e05A-3.jpg?v=1795243711",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u06-26236-e05A-4.jpg?v=1795243711",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u06-26236-e05A-5.jpg?v=1795243711",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u06-26236-e05A-6.jpg?v=1795243711"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Beige"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Standard"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "Cotton"
+          ]
+        }
+      ],
+      "variants": {
+        "68287490752744": {
+          "id": "68287490752744",
+          "title": "Beige / Standard / Cotton",
+          "options": [
+            "Beige",
+            "Standard",
+            "Cotton"
+          ],
+          "sku": "188192",
+          "available": false,
+          "price": 249900,
+          "compare_at_price": 249900
         }
       },
       "available": false
@@ -1308647,12 +1309405,12 @@
             "Cotton"
           ],
           "sku": "118197",
-          "available": true,
+          "available": false,
           "price": 299900,
           "compare_at_price": 599900
         }
       },
-      "available": true
+      "available": false
     },
     "9236537999592": {
       "id": "9236537999592",
@@ -1319742,12 +1320500,12 @@
             "Lawn"
           ],
           "sku": "122760",
-          "available": true,
+          "available": false,
           "price": 329600,
           "compare_at_price": 699900
         }
       },
-      "available": true
+      "available": false
     },
     "9324332351720": {
       "id": "9324332351720",
@@ -1331079,12 +1331837,12 @@
             "Khaddar"
           ],
           "sku": "172081",
-          "available": true,
+          "available": false,
           "price": 269900,
           "compare_at_price": 299900
         }
       },
-      "available": true
+      "available": false
     },
     "9602293629160": {
       "id": "9602293629160",
@@ -1334382,12 +1335140,12 @@
             "Khaddar"
           ],
           "sku": "178844",
-          "available": false,
+          "available": true,
           "price": 269900,
           "compare_at_price": 299900
         }
       },
-      "available": false
+      "available": true
     },
     "9645322895592": {
       "id": "9645322895592",
@@ -1335691,12 +1336449,12 @@
             "Khaddar"
           ],
           "sku": "176312",
-          "available": true,
+          "available": false,
           "price": 269900,
           "compare_at_price": 299900
         }
       },
-      "available": true
+      "available": false
     },
     "10323370803432": {
       "id": "10323370803432",
@@ -1340788,6 +1341546,87 @@
           "available": false,
           "price": 299900,
           "compare_at_price": 299900
+        }
+      },
+      "available": false
+    },
+    "15462330564840": {
+      "id": "15462330564840",
+      "title": "Unstitched Printed Khaddar 3 Piece",
+      "handle": "unstitched-printed-khaddar-3-piece-wuns-8245",
+      "url": "https://saya.pk/products/unstitched-printed-khaddar-3-piece-wuns-8245",
+      "vendor": "SAYA WOMENS UNSTITCHED",
+      "type": "Printed",
+      "description": "<p><strong>Design</strong>: U04-26444-P05A (SDT)<br><strong>Color</strong>: Green <br><strong>Fabric</strong>: Khaddar</p>\n<p><strong>Product Detail</strong><br>Create a winter look with SAYA’s green unstitched printed khaddar three-piece suit. The set includes a premium printed shirt and matching dupatta, paired with a plain dyed khaddar trouser. Its balanced mix of prints and solid fabric offers versatile styling, while unstitched construction lets you customise the fit and silhouette.<br></p>\n<p><strong>Shirt</strong><br>Premium Printed Khaddar Shirt (Wider Width) 1.75M.</p>\n<p><strong>Dupatta</strong><br>Premium Printed Khaddar Dupatta 2.5M.</p>\n<p><strong>Trouser</strong><br>Premium Dyed Khaddar Trouser 1.75M.</p>\n<p>Disclaimer: Designs are for shoot/styling only, without embroidery unless stated in the title/description. Colors may vary slightly.<br></p>",
+      "tags": [
+        "26444",
+        "AW-444-26",
+        "Attribute2 COTTON KHADDAR",
+        "CoBrandName UNSTICHED",
+        "Cotton Khaddar",
+        "ESSENTIAL",
+        "For Sale Tab > 2024",
+        "Green",
+        "KHADDAR DUPATTA",
+        "KILIMKARI V-6",
+        "Not on Sale",
+        "November",
+        "PRINTED",
+        "Product Description Done",
+        "SAYA",
+        "Standard",
+        "U04-26444-P05A (SDT)",
+        "UNSTICHED",
+        "UNSTITCHED",
+        "US - 3 PCS",
+        "US - 3 PCS (KHADDAR DUPATTA)",
+        "WINTER",
+        "Women",
+        "Year 2026",
+        "colorname=GREEN"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26444-p05A-1thumbnail.jpg?v=1795245533",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26444-p05A-2.jpg?v=1795245533",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26444-p05A-3.jpg?v=1795245533",
+        "https://cdn.shopify.com/s/files/1/0184/5074/3360/files/u04-26444-p05A-4.jpg?v=1795245533"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Standard"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "Lawn"
+          ]
+        }
+      ],
+      "variants": {
+        "68288582025448": {
+          "id": "68288582025448",
+          "title": "Green / Standard / Lawn",
+          "options": [
+            "Green",
+            "Standard",
+            "Lawn"
+          ],
+          "sku": "177892",
+          "available": false,
+          "price": 349900,
+          "compare_at_price": 349900
         }
       },
       "available": false
@@ -1374328,12 +1375167,12 @@
             "Lawn"
           ],
           "sku": "137339",
-          "available": true,
+          "available": false,
           "price": 219900,
           "compare_at_price": 219900
         }
       },
-      "available": true
+      "available": false
     },
     "9482663756008": {
       "id": "9482663756008",
@@ -1375733,12 +1376572,12 @@
             "Lawn"
           ],
           "sku": "171725",
-          "available": false,
+          "available": true,
           "price": 159900,
           "compare_at_price": 219900
         }
       },
-      "available": false
+      "available": true
     },
     "9574889521384": {
       "id": "9574889521384",
@@ -1449533,12 +1450372,12 @@
             "Lawn"
           ],
           "sku": "166982",
-          "available": true,
+          "available": false,
           "price": 244900,
           "compare_at_price": 299900
         }
       },
-      "available": true
+      "available": false
     },
     "9324242305256": {
       "id": "9324242305256",
@@ -1466334,12 +1467173,12 @@
             "Lawn"
           ],
           "sku": "154394",
-          "available": true,
+          "available": false,
           "price": 229900,
           "compare_at_price": 349900
         }
       },
-      "available": true
+      "available": false
     },
     "9522195038440": {
       "id": "9522195038440",
@@ -1466667,12 +1467506,12 @@
             "Lawn"
           ],
           "sku": "151360",
-          "available": false,
+          "available": true,
           "price": 229900,
           "compare_at_price": 299900
         }
       },
-      "available": false
+      "available": true
     },
     "9525593932008": {
       "id": "9525593932008",
@@ -1469912,12 +1470751,12 @@
             "Lawn"
           ],
           "sku": "154501",
-          "available": false,
+          "available": true,
           "price": 229900,
           "compare_at_price": 299900
         }
       },
-      "available": false
+      "available": true
     },
     "9546339647720": {
       "id": "9546339647720",
@@ -1477963,12 +1478802,12 @@
             "Lawn"
           ],
           "sku": "166552",
-          "available": false,
+          "available": true,
           "price": 269900,
           "compare_at_price": 399900
         }
       },
-      "available": false
+      "available": true
     },
     "9645321289960": {
       "id": "9645321289960",
@@ -1478132,12 +1478971,12 @@
             "Lawn"
           ],
           "sku": "166550",
-          "available": false,
+          "available": true,
           "price": 249900,
           "compare_at_price": 349900
         }
       },
-      "available": false
+      "available": true
     },
     "9649270554856": {
       "id": "9649270554856",
@@ -1498252,12 +1499091,12 @@
             "Lawn"
           ],
           "sku": "152721",
-          "available": true,
+          "available": false,
           "price": 229900,
           "compare_at_price": 299900
         }
       },
-      "available": true
+      "available": false
     },
     "9466958151912": {
       "id": "9466958151912",
@@ -1500454,12 +1501293,12 @@
             "Lawn"
           ],
           "sku": "154460",
-          "available": false,
+          "available": true,
           "price": 229900,
           "compare_at_price": 299900
         }
       },
-      "available": false
+      "available": true
     },
     "9501009281256": {
       "id": "9501009281256",
@@ -1542524,12 +1543363,12 @@
             "Cambric"
           ],
           "sku": "142178",
-          "available": true,
+          "available": false,
           "price": 500000,
           "compare_at_price": 999900
         }
       },
-      "available": true
+      "available": false
     },
     "9259481792744": {
       "id": "9259481792744",
@@ -1551553,15 +1552392,23 @@
       ],
       "options": [
         {
-          "name": "Scent",
+          "name": "Barcode",
           "position": 1,
+          "values": [
+            "70569",
+            "155690"
+          ]
+        },
+        {
+          "name": "Scent",
+          "position": 2,
           "values": [
             "Fresh"
           ]
         },
         {
           "name": "Target gender",
-          "position": 2,
+          "position": 3,
           "values": [
             "Female"
           ]
@@ -1551570,14 +1552417,28 @@
       "variants": {
         "47347462177000": {
           "id": "47347462177000",
-          "title": "Fresh / Female",
+          "title": "70569 / Fresh / Female",
           "options": [
+            "70569",
             "Fresh",
             "Female"
           ],
           "sku": "70569",
           "available": false,
           "price": 151600,
+          "compare_at_price": 350000
+        },
+        "68290624061672": {
+          "id": "68290624061672",
+          "title": "155690 / Fresh / Female",
+          "options": [
+            "155690",
+            "Fresh",
+            "Female"
+          ],
+          "sku": "155690",
+          "available": false,
+          "price": 350000,
           "compare_at_price": 350000
         }
       },
