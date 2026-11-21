@@ -3,7 +3,7 @@
   "source": "https://amiradnan.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-20T22:12:02.583748+00:00",
+  "checked_at": "2026-11-21T09:37:59.036805+00:00",
   "products": {
     "6627540172864": {
       "id": "6627540172864",
@@ -5231,7 +5231,7 @@
             "Blue"
           ],
           "sku": "FG-0003664-Outerspace",
-          "available": true,
+          "available": false,
           "price": 1175000,
           "compare_at_price": 2350000
         },
@@ -5243,7 +5243,7 @@
             "White"
           ],
           "sku": "FG-0003664-Cloud Dancer",
-          "available": true,
+          "available": false,
           "price": 1175000,
           "compare_at_price": 2350000
         },
@@ -5315,7 +5315,7 @@
             "White"
           ],
           "sku": "FG-0003664-Cloud Dancer",
-          "available": true,
+          "available": false,
           "price": 1175000,
           "compare_at_price": 2350000
         },
@@ -5351,7 +5351,7 @@
             "White"
           ],
           "sku": "FG-0003664-Cloud Dancer",
-          "available": true,
+          "available": false,
           "price": 1175000,
           "compare_at_price": 2350000
         },
@@ -5583,7 +5583,7 @@
             "L"
           ],
           "sku": "FG-0003565-Ensign Blue",
-          "available": true,
+          "available": false,
           "price": 1750000,
           "compare_at_price": 3500000
         },
@@ -5594,7 +5594,7 @@
             "XL"
           ],
           "sku": "FG-0003565-Ensign Blue",
-          "available": true,
+          "available": false,
           "price": 1750000,
           "compare_at_price": 3500000
         }
@@ -28603,12 +28603,12 @@
             "100ml Bottle"
           ],
           "sku": "FG-0002919-Swat",
-          "available": false,
+          "available": true,
           "price": 360000,
           "compare_at_price": 1200000
         }
       },
-      "available": false
+      "available": true
     },
     "6806707732544": {
       "id": "6806707732544",
@@ -29216,6 +29216,53 @@
           "available": true,
           "price": 45000,
           "compare_at_price": 150000
+        }
+      },
+      "available": true
+    },
+    "7323292991552": {
+      "id": "7323292991552",
+      "title": "Velvet Purple Traditional Sherwani",
+      "handle": "velvet-purple-sherwani-with-inner",
+      "url": "https://amiradnan.com/products/velvet-purple-sherwani-with-inner",
+      "vendor": "Amir Adnan ",
+      "type": "",
+      "description": "<p><span><strong>Velvet Purple Traditional Sherwani</strong></span></p>\n<p><span>Crafted in luxurious velvet with intricate traditional embroidery, this elegant purple sherwani features rich detailing and a regal silhouette. Perfect for weddings,</span></p>",
+      "tags": [
+        "Sherwani",
+        "sherwani-size"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/Velvet_Purple_Traditional_Sherwani.webp?v=1795239988"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "L"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Purple"
+          ]
+        }
+      ],
+      "variants": {
+        "41529723125824": {
+          "id": "41529723125824",
+          "title": "L / Purple",
+          "options": [
+            "L",
+            "Purple"
+          ],
+          "sku": "FG-0003432-Purple",
+          "available": true,
+          "price": 20000000,
+          "compare_at_price": 40000000
         }
       },
       "available": true
