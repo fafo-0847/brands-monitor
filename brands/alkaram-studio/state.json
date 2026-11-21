@@ -3,7 +3,7 @@
   "source": "https://www.alkaramstudio.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-21T08:14:08.755764+00:00",
+  "checked_at": "2026-11-21T20:04:58.295183+00:00",
   "products": {
     "7822276362420": {
       "id": "7822276362420",
@@ -4608,7 +4608,7 @@
             "COTTON SILK"
           ],
           "sku": "GBFS-008-Off White-10-11 Year",
-          "available": true,
+          "available": false,
           "price": 71400,
           "compare_at_price": 119000
         }
@@ -10181,7 +10181,7 @@
             "COTTON SILK"
           ],
           "sku": "MMG-03-Green-10-11 Year",
-          "available": false,
+          "available": true,
           "price": 341400,
           "compare_at_price": 569000
         },
@@ -15737,6 +15737,98 @@
       },
       "available": true
     },
+    "8026632585396": {
+      "id": "8026632585396",
+      "title": "HOME | FITTED SHEET",
+      "handle": "home-fitted-sheet-hew25fs005-dark-beige",
+      "url": "https://www.alkaramstudio.com/products/home-fitted-sheet-hew25fs005-dark-beige",
+      "vendor": "Alkaram",
+      "type": "",
+      "description": "<ul>\n<li>\n<strong>SINGLE:</strong><br>1 x Fitted Sheet / 42x78/12 <br>\n</li>\n<li>\n<strong>DOUBLE:</strong><br>1 x Fitted Sheet / 72x78/12<br>\n</li>\n<li>\n<strong>KING:</strong><br>1 x Fitted Sheet / 84x78/12<br><br>Pillowcases are not included<br>\n</li>\n</ul>",
+      "tags": [
+        "BED SHEETS",
+        "BEDROOM",
+        "HOME-BEDROOM-FITTED SHEET",
+        "Home 1500",
+        "Last-chance",
+        "New In",
+        "cut piece",
+        "hide-fabric",
+        "uploaded-02-FEB-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/HEW25FS005_1.jpg?v=1770040439",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/HEW25FS005_2.jpg?v=1770040439",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/HEW25FS005_3.jpg?v=1770040439"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "SINGLE",
+            "DOUBLE",
+            "KING"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Dark Beige"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "POLY COTTON"
+          ]
+        }
+      ],
+      "variants": {
+        "44137216311476": {
+          "id": "44137216311476",
+          "title": "SINGLE / Dark Beige / POLY COTTON",
+          "options": [
+            "SINGLE",
+            "Dark Beige",
+            "POLY COTTON"
+          ],
+          "sku": "HEW25FS005-Dark Beige-SINGLE",
+          "available": false,
+          "price": 139300,
+          "compare_at_price": 199000
+        },
+        "44137216344244": {
+          "id": "44137216344244",
+          "title": "DOUBLE / Dark Beige / POLY COTTON",
+          "options": [
+            "DOUBLE",
+            "Dark Beige",
+            "POLY COTTON"
+          ],
+          "sku": "HEW25FS005-Dark Beige-DOUBLE",
+          "available": false,
+          "price": 202300,
+          "compare_at_price": 289000
+        },
+        "44137216377012": {
+          "id": "44137216377012",
+          "title": "KING / Dark Beige / POLY COTTON",
+          "options": [
+            "KING",
+            "Dark Beige",
+            "POLY COTTON"
+          ],
+          "sku": "HEW25FS005-Dark Beige-KING",
+          "available": true,
+          "price": 230300,
+          "compare_at_price": 329000
+        }
+      },
+      "available": true
+    },
     "8041226043572": {
       "id": "8041226043572",
       "title": "HOME | FITTED SHEET",
@@ -16249,62 +16341,6 @@
             "WHITE"
           ],
           "sku": "HTWL-02-White",
-          "available": true,
-          "price": 78600,
-          "compare_at_price": 131000
-        }
-      },
-      "available": true
-    },
-    "7447304339636": {
-      "id": "7447304339636",
-      "title": "HOME | HAND TOWEL",
-      "handle": "hand-towel-htwl-07-dark-grey",
-      "url": "https://www.alkaramstudio.com/products/hand-towel-htwl-07-dark-grey",
-      "vendor": "Alkaram",
-      "type": "HAND TOWEL",
-      "description": "<p>• Product: Hand Towel<br>• Color: Dark Grey<br>• Size: 50x70 <br>• Weight: 500gsm</p>",
-      "tags": [
-        "BATHROOM",
-        "Bath Linen",
-        "HAND TOWELS",
-        "Hand Towel",
-        "Home",
-        "Sale 2022",
-        "Under 1500",
-        "show-quickview",
-        "uploaded-01-Nov"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/products/HTWL-07_1.jpg?v=1718667663",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/products/HTWL-07_2.jpg?v=1718667666",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/products/HTWL-07_3.jpg?v=1718667669"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "50X70"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "DARK GREY"
-          ]
-        }
-      ],
-      "variants": {
-        "44050459721908": {
-          "id": "44050459721908",
-          "title": "50X70 / DARK GREY",
-          "options": [
-            "50X70",
-            "DARK GREY"
-          ],
-          "sku": "HTWL-07-Dark Grey",
           "available": true,
           "price": 78600,
           "compare_at_price": 131000
@@ -20365,6 +20401,71 @@
       },
       "available": true
     },
+    "8020566081716": {
+      "id": "8020566081716",
+      "title": "RTS  | SHIRT, TROUSER & DUPATTA",
+      "handle": "rts-shirt-trouser-dupatta-efl-11-3p25-peach",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-efl-11-3p25-peach",
+      "vendor": "Alkaram",
+      "type": "SHIRT, TROUSER & DUPATTA",
+      "description": "Unstitched 3-Piece<br>\n Printed Lawn Suit with Lawn Dupatta<br>\nColor: Peach<br><br>\n\n<strong>Shirt:</strong><br>\nPrinted Lawn Shirt 3 Meter<br>\nFabric: Lawn<br><br>\n\n<strong>Dupatta:</strong><br>\nLawn Dupatta 2.5 Meter<br>\nFabric: Lawn<br><br>\n\n<strong>Trouser:</strong><br>\nDyed Cambric Trouser 2.5 Meters<br>\nFabric: Cambric<br>",
+      "tags": [
+        "1000 off",
+        "ESSENTIALS",
+        "New In",
+        "Ready to Stitch",
+        "Shirt- Trouser & Dupatta",
+        "Shop by Product",
+        "Special Price-26",
+        "Speical Price Women",
+        "Staples",
+        "Summer-26",
+        "WOMEN-RTS",
+        "Woman",
+        "Women",
+        "Women RTS Best Seller",
+        "Women Ready to Stitch",
+        "Women-RTS-Essentials",
+        "hide-fabric"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-11-3P25-Peach-1.jpg?v=1783493803",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-11-3P25-Peach-2.jpg?v=1783493803",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-11-3P25-Peach-3.jpg?v=1783493803",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-11-3P25-Peach-4.jpg?v=1783493803"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Peach"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "LAWN"
+          ]
+        }
+      ],
+      "variants": {
+        "44118629941428": {
+          "id": "44118629941428",
+          "title": "Peach / LAWN",
+          "options": [
+            "Peach",
+            "LAWN"
+          ],
+          "sku": "EFL-11-3P25-Peach",
+          "available": true,
+          "price": 299000,
+          "compare_at_price": 0
+        }
+      },
+      "available": true
+    },
     "8020566180020": {
       "id": "8020566180020",
       "title": "RTS  | SHIRT, TROUSER & DUPATTA",
@@ -20424,6 +20525,71 @@
             "LAWN"
           ],
           "sku": "EFL-13-3P25-Off White",
+          "available": true,
+          "price": 299000,
+          "compare_at_price": 0
+        }
+      },
+      "available": true
+    },
+    "8020566245556": {
+      "id": "8020566245556",
+      "title": "RTS  | SHIRT, TROUSER & DUPATTA",
+      "handle": "rts-shirt-trouser-dupatta-efl-14-3p25-maroon",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-efl-14-3p25-maroon",
+      "vendor": "Alkaram",
+      "type": "SHIRT, TROUSER & DUPATTA",
+      "description": "Unstitched 3-Piece<br>\n Printed Lawn Suit with Lawn Dupatta<br>\nColor: Maroon<br><br>\n\n<strong>Shirt:</strong><br>\nPrinted Lawn Shirt 3 Meter<br>\nFabric: Lawn<br><br>\n\n<strong>Dupatta:</strong><br>\nLawn Dupatta 2.5 Meter<br>\nFabric: Lawn<br><br>\n\n<strong>Trouser:</strong><br>\nDyed Cambric Trouser 2.5 Meters<br>\nFabric: Cambric<br>",
+      "tags": [
+        "1000 off",
+        "ESSENTIALS",
+        "New In",
+        "Ready to Stitch",
+        "Shirt- Trouser & Dupatta",
+        "Shop by Product",
+        "Special Price-26",
+        "Speical Price Women",
+        "Staples",
+        "Summer-26",
+        "WOMEN-RTS",
+        "Woman",
+        "Women",
+        "Women RTS Best Seller",
+        "Women Ready to Stitch",
+        "Women-RTS-Essentials",
+        "hide-fabric"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-14-3P25-Maroon-1.jpg?v=1783592967",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-14-3P25-Maroon-2.jpg?v=1783592967",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-14-3P25-Maroon-3.jpg?v=1783592967",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-14-3P25-Maroon-4.jpg?v=1783592967"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Maroon"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "LAWN"
+          ]
+        }
+      ],
+      "variants": {
+        "44118630105268": {
+          "id": "44118630105268",
+          "title": "Maroon / LAWN",
+          "options": [
+            "Maroon",
+            "LAWN"
+          ],
+          "sku": "EFL-14-3P25-Maroon",
           "available": true,
           "price": 299000,
           "compare_at_price": 0
@@ -24120,70 +24286,6 @@
       },
       "available": true
     },
-    "8020570538164": {
-      "id": "8020570538164",
-      "title": "RTS  | SHIRT, TROUSER & DUPATTA",
-      "handle": "rts-shirt-trouser-dupatta-efl-77-3p25-red",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-efl-77-3p25-red",
-      "vendor": "Alkaram",
-      "type": "SHIRT, TROUSER & DUPATTA",
-      "description": "Unstitched 3-Piece<br>\nPrinted Lawn Suit with Lawn Dupatta<br>\nColor: Red <br><br>\n\n<strong>Shirt:</strong><br>\nPrinted Lawn Shirt 3 Meter<br>\nFabric: Lawn<br><br>\n\n<strong>Dupatta:</strong><br>\nLawn Dupatta 2.5 Meter<br>\nFabric: Lawn<br><br>\n\n<strong>Trouser:</strong><br>\nDyed Cambric Trouser 2.5 Meters<br>\nFabric: Cambric<br>",
-      "tags": [
-        "1000 off",
-        "ESSENTIALS",
-        "New In",
-        "Ready to Stitch",
-        "Shirt- Trouser & Dupatta",
-        "Shop by Product",
-        "Special Price-26",
-        "Speical Price Women",
-        "Staples",
-        "Summer-26",
-        "WOMEN-RTS",
-        "Woman",
-        "Women",
-        "Women Ready to Stitch",
-        "Women-RTS-Essentials",
-        "hide-fabric"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-77-3P25-Red-1.jpg?v=1783944552",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-77-3P25-Red-2.jpg?v=1783944553",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-77-3P25-Red-3.jpg?v=1783944553",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EFL-77-3P25-Red-4.jpg?v=1783944552"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Red"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 2,
-          "values": [
-            "LAWN"
-          ]
-        }
-      ],
-      "variants": {
-        "44118634627252": {
-          "id": "44118634627252",
-          "title": "Red / LAWN",
-          "options": [
-            "Red",
-            "LAWN"
-          ],
-          "sku": "EFL-77-3P25-Red",
-          "available": true,
-          "price": 299000,
-          "compare_at_price": 0
-        }
-      },
-      "available": true
-    },
     "8020570603700": {
       "id": "8020570603700",
       "title": "RTS  | SHIRT, TROUSER & DUPATTA",
@@ -26916,75 +27018,6 @@
           "sku": "AKMUS-S26-202-Gray",
           "available": true,
           "price": 559000,
-          "compare_at_price": 0
-        }
-      },
-      "available": true
-    },
-    "8033064517812": {
-      "id": "8033064517812",
-      "title": "RTS | BLENDED",
-      "handle": "rts-blended-akmus-s26-064-ice-blue",
-      "url": "https://www.alkaramstudio.com/products/rts-blended-akmus-s26-064-ice-blue",
-      "vendor": "Alkaram",
-      "type": "KAMEEZ & SHALWAR",
-      "description": "<p>Classic and polished, this men's unstitched suit is made in a light blend with an easy-care, wrinkle-resistant finish.<br>\nPerfect for tailoring into your go-to summer look.</p>\n<p> </p>\n<ul>\n<li>Season: Summer</li>\n<li>Fabric Base: Blended</li>\n<li>Length: 4.5 Meter</li>\n<li>Width: 54 Inch</li>\n</ul>\n<p>Care &amp; Instructions:</p>\n<ul>\n<li>Dry Clean Preferred</li>\n<li>Do Not Bleach</li>\n<li>Mild Detergent</li>\n</ul>",
-      "tags": [
-        "Blended",
-        "Carousel RTW Men",
-        "ESSENTIALS",
-        "MEN-RTS",
-        "MEN-RTS-ESSENTIALS",
-        "Man",
-        "Men",
-        "New In",
-        "Ready To Stitch",
-        "SUMMER",
-        "Summer-26",
-        "Uploaded-19-FEB-26",
-        "hide-fabric"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/AKMUS-S26-064_2_4b57c601-6cbc-4dbf-a2da-8b655730eb53.jpg?v=1771493180",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/AKMUS-S26-064_3_8956723b-6c7f-4793-a64e-148d5bbd32f6.jpg?v=1771493180",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/AKMUS-S26-064_4_4f32cee3-ba02-4d4a-b142-2bfcd92c9f56.jpg?v=1771493180",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/AKMUS-S26-064_6_98536529-8b95-49ab-802a-6556f76f430a.jpg?v=1771493180"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "4.5 METERS"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Ice Blue"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 3,
-          "values": [
-            "BLENDED"
-          ]
-        }
-      ],
-      "variants": {
-        "67583083675828": {
-          "id": "67583083675828",
-          "title": "4.5 METERS / Ice Blue / BLENDED",
-          "options": [
-            "4.5 METERS",
-            "Ice Blue",
-            "BLENDED"
-          ],
-          "sku": "AKMUS-S26-064-Ice Blue",
-          "available": true,
-          "price": 529000,
           "compare_at_price": 0
         }
       },
@@ -32510,6 +32543,73 @@
       },
       "available": true
     },
+    "8103949828276": {
+      "id": "8103949828276",
+      "title": "RTS | COTTON",
+      "handle": "rts-cotton-akmus-ascs26-004-powder-blue",
+      "url": "https://www.alkaramstudio.com/products/rts-cotton-akmus-ascs26-004-powder-blue",
+      "vendor": "Alkaram",
+      "type": "KAMEEZ & SHALWAR",
+      "description": "<p>A refined men's unstitched suit in lightweight cotton that keeps you comfortable through warm days.<br>\nGet it tailored for dawats, office wear and get-togethers.</p>\n<p> </p>\n<ul>\n<li>Season: Summer</li>\n<li>Fabric Base: Cotton</li>\n<li>Length: 4.5 Meter</li>\n<li>Width: 54 Inch</li>\n</ul>\n<p>Care &amp; Instructions:</p>\n<ul>\n<li>Dry Clean Preferred</li>\n<li>Do Not Bleach</li>\n<li>Mild Detergent</li>\n</ul>",
+      "tags": [
+        "AFFORDABLE",
+        "CORE",
+        "Cotton",
+        "MEN-RTS",
+        "MEN-RTS-CORE",
+        "Man",
+        "Men",
+        "New In",
+        "Ready To Stitch",
+        "SUMMER",
+        "Summer-26",
+        "Uploaded-10-Aug-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/AKMUS-ASCS26-004.jpg?v=1786350718",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/AKMUS-ASCS26-004_b.jpg?v=1786350719",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/AKMUS-ASCS26-004c.jpg?v=1786350718"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "4.5 METERS"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Powder Blue"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "COTTON"
+          ]
+        }
+      ],
+      "variants": {
+        "67583077777588": {
+          "id": "67583077777588",
+          "title": "4.5 METERS / Powder Blue / COTTON",
+          "options": [
+            "4.5 METERS",
+            "Powder Blue",
+            "COTTON"
+          ],
+          "sku": "AKMUS-ASCS26-004-Powder Blue",
+          "available": true,
+          "price": 299500,
+          "compare_at_price": 0
+        }
+      },
+      "available": true
+    },
     "8112374972596": {
       "id": "8112374972596",
       "title": "RTS | COTTON",
@@ -35627,14 +35727,14 @@
       },
       "available": true
     },
-    "8031578292404": {
-      "id": "8031578292404",
+    "8031578521780": {
+      "id": "8031578521780",
       "title": "RTS | SHIRT",
-      "handle": "rts-shirt-bd87-26-2-dark-blue",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-bd87-26-2-dark-blue",
+      "handle": "rts-shirt-br64-26-2-beige",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-br64-26-2-beige",
       "vendor": "Alkaram",
       "type": "SHIRT",
-      "description": "Unstitched 1-Piece<br>\nPrinted Lawn Shirt <br>\nColor: Dark Blue<br><br>\n\n<strong>Shirt:</strong><br>\nPrinted Lawn Shirt 3 Meters<br>\nFabric: Lawn<br><br>",
+      "description": "Unstitched 1-Piece<br>\nPrinted Lawn Shirt <br>\nColor: Beige<br><br>\n\n<strong>Shirt:</strong><br>\nPrinted Lawn Shirt 2.5 Meters<br>\nFabric: Lawn<br><br>",
       "tags": [
         "BASICS",
         "Basics-26 Vol-2",
@@ -35654,17 +35754,18 @@
         "Women RTS Best Seller"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD87-26-2-Dark_Blue-1_e7002efb-b5b9-42e8-8cc7-ef48f4d6a35a.jpg?v=1771313915",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD87-26-2-Dark_Blue-2_0dcb5ab0-9d2f-4537-80a0-fc03afaa772b.jpg?v=1771313915",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD87-26-2-Dark_Blue-3_2b807819-3cd5-4cb4-af30-dc326f090014.jpg?v=1771313915",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD87-26-2-Dark_Blue-4_a489b9a2-e624-4dbe-97b7-5a8ee60ca9a4.jpg?v=1771313915"
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR64-26-2-Beige-1_3e385025-a782-4976-993a-d9735ac25493.jpg?v=1771313926",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR64-26-2-Beige-2_5ad78f6e-763f-442a-96cd-88bfe144d6a6.jpg?v=1771313926",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR64-26-2-Beige-3_37eef5a2-b5f1-49fe-9cfc-c63bea25c1b4.jpg?v=1771313926",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR64-26-2-Beige-4_05b25643-e5dc-411d-9d1a-76bfd202a1c7.jpg?v=1771313926",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BR64-26-2-Beige-5_11da16e4-6a0a-4fb9-9bf9-52f6627cba3a.jpg?v=1771313926"
       ],
       "options": [
         {
           "name": "Color",
           "position": 1,
           "values": [
-            "Dark Blue"
+            "Beige"
           ]
         },
         {
@@ -35676,17 +35777,17 @@
         }
       ],
       "variants": {
-        "44147924107444": {
-          "id": "44147924107444",
-          "title": "Dark Blue / LAWN",
+        "44147924336820": {
+          "id": "44147924336820",
+          "title": "Beige / LAWN",
           "options": [
-            "Dark Blue",
+            "Beige",
             "LAWN"
           ],
-          "sku": "BD87-26-2-Dark Blue",
+          "sku": "BR64-26-2-Beige",
           "available": true,
-          "price": 104300,
-          "compare_at_price": 149000
+          "price": 83300,
+          "compare_at_price": 119000
         }
       },
       "available": true
@@ -36702,71 +36803,6 @@
           "available": true,
           "price": 181300,
           "compare_at_price": 259000
-        }
-      },
-      "available": true
-    },
-    "8020334706868": {
-      "id": "8020334706868",
-      "title": "RTS | SHIRT & DUPATTA",
-      "handle": "rts-shirt-dupatta-bd40-2p26-beige",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-bd40-2p26-beige",
-      "vendor": "Alkaram",
-      "type": "SHIRT & DUPATTA",
-      "description": "Unstitched 2-Piece<br>\nPrinted Lawn Suit With Silver Lawn Dupatta <br>\nColor: Beige<br><br>\n\n<strong>Shirt:</strong><br>\nPrinted Lawn Shirt 3 Meters<br>\nFabric: Lawn<br><br>\n\n<strong>Dupatta:</strong><br>\nPrinted Silver Lawn Dupatta 2.5 Meters<br>\nFabric: Lawn<br><br>",
-      "tags": [
-        "BASICS",
-        "Basics-26 Vol-1",
-        "New In",
-        "Ready to Stitch",
-        "SILVER LAWN",
-        "Shirt & Dupatta",
-        "Shop by Product",
-        "Silver",
-        "Summer-26",
-        "Uploaded-06-Jan-26",
-        "WOMEN-RTS-BASICS",
-        "Woman",
-        "Women",
-        "Women RTS",
-        "Women RTS Azaadi Best Seller",
-        "Women RTS Best Seller",
-        "hide-fabric"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD40-2P26-Beige-1.jpg?v=1767768430",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD40-2P26-Beige-2.jpg?v=1767768431",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD40-2P26-Beige-3.jpg?v=1767768430",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/BD40-2P26-Beige-4.jpg?v=1767768430"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Beige"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 2,
-          "values": [
-            "LAWN"
-          ]
-        }
-      ],
-      "variants": {
-        "44117957640372": {
-          "id": "44117957640372",
-          "title": "Beige / LAWN",
-          "options": [
-            "Beige",
-            "LAWN"
-          ],
-          "sku": "BD40-2P26-Beige",
-          "available": true,
-          "price": 195300,
-          "compare_at_price": 279000
         }
       },
       "available": true
@@ -39331,6 +39367,90 @@
           "available": true,
           "price": 231200,
           "compare_at_price": 289000
+        }
+      },
+      "available": true
+    },
+    "7322951942324": {
+      "id": "7322951942324",
+      "title": "RTS | SHIRT & TROUSER",
+      "handle": "2-pc-embroidered-cambric-suit-with-cambric-trouser-64790",
+      "url": "https://www.alkaramstudio.com/products/2-pc-embroidered-cambric-suit-with-cambric-trouser-64790",
+      "vendor": "Alkaram Studio",
+      "type": "SHIRT & TROUSER",
+      "description": "<p><strong>Unstitched 2-Piece</strong><br>Embroidered Cambric Shirt with Cambric Trouser<br><strong>Season:</strong> Summer<br><strong>Color:</strong> Brown<br><strong>Season:</strong> Festive Collection'22<br><br><strong>Shirt:</strong><br>Embroidered Cambric Shirt 3 Meters<br>Separate Neckline on Organza<br>Printed Sleeves<br><strong>Fabric:</strong> Cambric<br><br><strong>Trouser:</strong><br>Dyed Cambric Trouser<br><strong>Fabric:</strong> Cambric<br><br><strong>Care Instructions:</strong><br>Dry Clean only</p>",
+      "tags": [
+        "2 Piece",
+        "3 Piece Fabrics",
+        "30% OFF Banner",
+        "50% ghost sale",
+        "50% off july 25",
+        "5640",
+        "Brown",
+        "Data-Migrated",
+        "Embroidered",
+        "FS",
+        "Festive",
+        "Festive-22 Vol-1",
+        "Luxury",
+        "Pret",
+        "Sale 2022",
+        "Shirt Trouser",
+        "Signature",
+        "Test-2-Dec-2022-book1-thousandplus",
+        "Top Sellers",
+        "Under 3500",
+        "Unstitched",
+        "WOMEN-RTS-BASICS",
+        "Woman",
+        "Woman Unstitched",
+        "Women-RTS",
+        "hide-fabric",
+        "onelinecare",
+        "show-quickview"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/products/fc-18f-22-brown-1_m1wlrvipchdh6zxj_15f9ff6a-9e29-4777-8cc4-29d871205d45.jpg?v=1718497969",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/products/fc-18f-22-brown-2_la5sfqirznocrwfh_b2079bc6-54a9-4417-bc47-6e29edcb8303.jpg?v=1718497972",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/products/fc-18f-22-brown-3_novke6rzhjblsw2v_7b0ff298-5dbf-43d7-8bfe-c030b55ed820.jpg?v=1718497975",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/products/fc-18f-22-brown-4_i3lwfrgqnzvubmhx_bf468879-a9ab-40b3-ae11-1235d6fc9e11.jpg?v=1718497979"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "4.8"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BROWN"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "CAMBRIC"
+          ]
+        }
+      ],
+      "variants": {
+        "44051262374068": {
+          "id": "44051262374068",
+          "title": "4.8 / BROWN / CAMBRIC",
+          "options": [
+            "4.8",
+            "BROWN",
+            "CAMBRIC"
+          ],
+          "sku": "FC-18F-22-Brown",
+          "available": true,
+          "price": 346800,
+          "compare_at_price": 578000
         }
       },
       "available": true
@@ -44723,6 +44843,72 @@
       },
       "available": true
     },
+    "7869406707892": {
+      "id": "7869406707892",
+      "title": "RTS | SHIRT, TROUSER & DUPATTA",
+      "handle": "3-piece-printed-cambric-suit-with-printed-lawn-dupatta-fw-8-1-24-2-cream",
+      "url": "https://www.alkaramstudio.com/products/3-piece-printed-cambric-suit-with-printed-lawn-dupatta-fw-8-1-24-2-cream",
+      "vendor": "Alkaram",
+      "type": "SHIRT, TROUSER & DUPATTA",
+      "description": "Unstitched 3-Piece<br>\nPrinted Cambric Suit With Printed Lawn Dupatta<br>\nColor: Cream<br> <br>\n\n<strong>Shirt:</strong>:<br>\nPrinted Cambric Shirt 1.75 Meters<br>\nFabric: Cambric<br> <br>\n\n<strong>Dupatta:</strong>:<br>\nPrinted Lawn Dupatta 2.5 Meters<br>\nFabric: Lawn<br> <br>\n\n<strong>Trouser:</strong>:<br>\nDyed Cambric Trouser 1.50 Meters <br>\nFabric: Cambric<br> \n\n<strong>Care Instructions:</strong> <br>\n<ul> \n<li>Dry Clean Only\" </li>\n<li>\n</li>\n</ul>",
+      "tags": [
+        "3 Piece Fabrics",
+        "45% off july 25",
+        "50% ghost sale",
+        "Collections",
+        "Essentials",
+        "FESTIVE  Winter 25",
+        "Flat 40% Nov",
+        "New In",
+        "PRE-FALL",
+        "Printed",
+        "Shirt Trouser & Dupatta",
+        "Unstitched",
+        "WOMEN-RTS-ESSENTIALS",
+        "Winter",
+        "Woman",
+        "Women-RTS",
+        "show-quickview",
+        "uploaded-23-Oct-24"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-8.1-24-2-CREAM-1_c92e513d-5c7d-4306-b48e-18676fcb1d22.jpg?v=1729704724",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-8.1-24-2-CREAM-2_dde107c2-2b4c-4ec7-bd7c-7031bacb50d2.jpg?v=1729704728",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-8.1-24-2-CREAM-3_ab1a80af-9a6f-4b6b-a461-85848b69b346.jpg?v=1729704732",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/FW-8.1-24-2-CREAM-4_086293ce-9239-45bb-9bf4-5f09fa0fcf8a.jpg?v=1729704735"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "CREAM"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "CAMBRIC"
+          ]
+        }
+      ],
+      "variants": {
+        "44050146590900": {
+          "id": "44050146590900",
+          "title": "CREAM / CAMBRIC",
+          "options": [
+            "CREAM",
+            "CAMBRIC"
+          ],
+          "sku": "PF-8.1-24-2-Cream",
+          "available": true,
+          "price": 278900,
+          "compare_at_price": 429000
+        }
+      },
+      "available": true
+    },
     "7891207061684": {
       "id": "7891207061684",
       "title": "RTS | SHIRT, TROUSER & DUPATTA",
@@ -47353,74 +47539,6 @@
             "LAWN"
           ],
           "sku": "SS-55-25-2-Sea Green",
-          "available": true,
-          "price": 275400,
-          "compare_at_price": 459000
-        }
-      },
-      "available": true
-    },
-    "7934058332340": {
-      "id": "7934058332340",
-      "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "handle": "3-pc-printed-lawn-suit-with-printed-lawn-dupatta-ss-57-25-2-peach",
-      "url": "https://www.alkaramstudio.com/products/3-pc-printed-lawn-suit-with-printed-lawn-dupatta-ss-57-25-2-peach",
-      "vendor": "Alkaram",
-      "type": "SHIRT, TROUSER & DUPATTA",
-      "description": "Unstitched 3-Piece<br>\nPrinted Lawn Suit With Printed Lawn Dupatta<br>\nColor: Peach<br>\n\n<strong>Shirt:</strong>:<br>\nPrinted Lawn Shirt 3 Meters<br>\nFabric: Lawn <br> <br>\n\n<strong>Dupatta:</strong>:<br>\nPrinted Lawn Dupatta 2.5 Meters<br>\nFabric: Lawn<br> <br>\n\n<strong>Trouser:</strong> :<br>\nDyed Cambric Trouser 2.5 Meters <br>\nFabric: Cambric <br> \n",
-      "tags": [
-        "25% ghost",
-        "3 Piece Fabrics",
-        "30% off july 25",
-        "By Fabric",
-        "Collections",
-        "Essentials",
-        "Lawn",
-        "New In",
-        "Printed",
-        "SUMMER",
-        "SUMMER Winter 25",
-        "Shirt Trouser & Dupatta",
-        "Spring Summer",
-        "Summer 25",
-        "Unstitched",
-        "WOMEN-RTS-ESSENTIALS",
-        "Woman",
-        "Women-RTS",
-        "show-quickview",
-        "uploaded-24-March-25"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SS-57-25-2-PEACH-1_de5837e1-ec6d-4cea-b1c6-542f171f082e.jpg?v=1742868472",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SS-57-25-2-PEACH-2_85119510-3242-44d1-8492-927c70c9c7c3.jpg?v=1742868474",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SS-57-25-2-PEACH-3_697b0790-e30c-4306-8c6e-75e2927201a4.jpg?v=1742868476",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SS-57-25-2-PEACH-4_7c472f3f-6bd1-4a21-bf48-1c661be7b6be.jpg?v=1742868478"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "PEACH"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 2,
-          "values": [
-            "LAWN"
-          ]
-        }
-      ],
-      "variants": {
-        "44049980817588": {
-          "id": "44049980817588",
-          "title": "PEACH / LAWN",
-          "options": [
-            "PEACH",
-            "LAWN"
-          ],
-          "sku": "SS-57-25-2-Peach",
           "available": true,
           "price": 275400,
           "compare_at_price": 459000
@@ -50818,73 +50936,6 @@
       },
       "available": true
     },
-    "8021177368756": {
-      "id": "8021177368756",
-      "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "handle": "rts-shirt-trouser-dupatta-ef66-26-teal",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef66-26-teal",
-      "vendor": "Alkaram",
-      "type": "SHIRT, TROUSER & DUPATTA",
-      "description": "Embroidered Lawn Suit With Lawn Dupatta<br><br>Color: Teal<br><br><strong>Shirt:</strong><br>Printed Lawn Shirt 3 Meter<br>Separate Bunches<br>Fabric: Lawn<br><br><strong>Dupatta:</strong><br>Lawn Dupatta 2.5 Meter<br>Fabric: Lawn<br><br><strong>Trouser:</strong><br>Dyed Cambric Trouser 2.5 Meter<br>Fabric: Cambric",
-      "tags": [
-        "Essentials",
-        "Essentials Vol 1",
-        "Last-chance",
-        "Lawn 26",
-        "New In",
-        "Ready to Stitch",
-        "Shirt- Trouser & Dupatta",
-        "Shop by Product",
-        "Summer discount 26",
-        "Summer-26",
-        "WOMEN RTS",
-        "WOMEN-RTS-Essentials",
-        "Woman",
-        "Women",
-        "Women RTS Carousel",
-        "cut piece",
-        "hide-fabric",
-        "summer'25",
-        "uploaded-10-Jan-26"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF66-26-Teal-1_2ff969f0-308d-44a9-baf8-e7206ba1b5c1.jpg?v=1768051129",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF66-26-Teal-2_a46c2aaa-7789-43b6-a6d6-bab98d389f3f.jpg?v=1768051129",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF66-26-Teal-3_1db9217d-5a4d-4d59-84c4-8faaf0583761.jpg?v=1768051129",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EF66-26-Teal-4_1fe3119a-ec7a-457b-ac69-fabf9a83e502.jpg?v=1768051129"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Teal"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 2,
-          "values": [
-            "LAWN"
-          ]
-        }
-      ],
-      "variants": {
-        "44120025465012": {
-          "id": "44120025465012",
-          "title": "Teal / LAWN",
-          "options": [
-            "Teal",
-            "LAWN"
-          ],
-          "sku": "EF66-26-Teal",
-          "available": true,
-          "price": 419300,
-          "compare_at_price": 599000
-        }
-      },
-      "available": true
-    },
     "8021177630900": {
       "id": "8021177630900",
       "title": "RTS | SHIRT, TROUSER & DUPATTA",
@@ -52869,72 +52920,6 @@
       },
       "available": true
     },
-    "8022302654644": {
-      "id": "8022302654644",
-      "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "handle": "rts-shirt-trouser-dupatta-sl-15-26-peach",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-sl-15-26-peach",
-      "vendor": "Alkaram",
-      "type": "SHIRT, TROUSER & DUPATTA",
-      "description": " Unstitched 3-Piece<br>\nDyed Embroidered Lawn Dobby Suit With Digital Printed Embroidered Slub Organza Dupatta<br>\nColor: Peach<br><br>\n<strong>Shirt:</strong><br>\nEmbroidered Dyed Lawn Dobby Shirt 3 Meters<br>\nOrganza Daman Border For Front<br>\nOrganza Borders For Back &amp; Sleeves<br>\nFabric: Lawn Dobby<br><br>\n<strong>Dupatta:</strong><br>\nEmbroidered Digital Printed Slub Organza Dupatta 2.5 Meters<br>\nOrganza Pallu Borders For Dupatta<br>\nFabric: Slub Organza<br><br>\n<strong>Trouser:</strong><br>\nDyed Cambric Trousers 2.5 Meters<br>\nFabric: Cambric<br><br>",
-      "tags": [
-        "New In",
-        "Ready to Stitch",
-        "SHOP BY OCCASSION",
-        "SHOP BY OCCASSION FESTIVE",
-        "Shirt- Trouser & Dupatta",
-        "Shop by Product",
-        "Signature",
-        "Summer discount 26",
-        "Summer-26",
-        "WOMEN RTS",
-        "WOMEN-RTS-SIGNATURE",
-        "Wedding Eidt 3500",
-        "Woman",
-        "Women",
-        "Women RTS Azaadi Best Seller",
-        "Women RTS Best Seller",
-        "Women Ready to Stitch",
-        "uploaded-14-Jan-26"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SL-15-26-Peach-1_d480ac51-3c7d-461a-a818-475a33976b85.jpg?v=1768391612",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SL-15-26-Peach-2_acb5a5cb-7277-45ef-bac6-35440a2eed68.jpg?v=1768391613",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SL-15-26-Peach-3_e0a24540-c177-4d61-b799-128ba06af98c.jpg?v=1768391612",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/SL-15-26-Peach-4_494e2ece-74da-48c0-bb97-6fa3361f7b90.jpg?v=1768391612"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Peach"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 2,
-          "values": [
-            "DOBBY"
-          ]
-        }
-      ],
-      "variants": {
-        "44124299788468": {
-          "id": "44124299788468",
-          "title": "Peach / DOBBY",
-          "options": [
-            "Peach",
-            "DOBBY"
-          ],
-          "sku": "SL-15-26-Peach",
-          "available": true,
-          "price": 594300,
-          "compare_at_price": 849000
-        }
-      },
-      "available": true
-    },
     "8022302949556": {
       "id": "8022302949556",
       "title": "RTS | SHIRT, TROUSER & DUPATTA",
@@ -53844,6 +53829,75 @@
             "LAWN"
           ],
           "sku": "EC100-3P26-Rust",
+          "available": true,
+          "price": 279300,
+          "compare_at_price": 399000
+        }
+      },
+      "available": true
+    },
+    "8023017914548": {
+      "id": "8023017914548",
+      "title": "RTS | SHIRT, TROUSER & DUPATTA",
+      "handle": "rts-shirt-trouser-dupatta-ec101-3p26-red",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec101-3p26-red",
+      "vendor": "Alkaram",
+      "type": "SHIRT, TROUSER & DUPATTA",
+      "description": "<p>Printed Lawn Suit With Lawn Dupatta<br>Color: Red<br><br><strong>Shirt:</strong><br>Printed Lawn Shirt 3 Meter<br>Fabric: Lawn<br><br><strong>Dupatta:</strong><br>Lawn Dupatta 2.5 Meter<br>Fabric: Lawn<br><br><strong>Trouser:</strong><br>Dyed Cambric Trouser 2.5 Meter<br>Fabric: Cambric</p>",
+      "tags": [
+        "1000 off",
+        "Essentials",
+        "Essentials Vol 1",
+        "Lawn 26",
+        "New In",
+        "Ready to Stitch",
+        "SUMMER BEST SELLERS",
+        "Selling-Fast",
+        "Shirt- Trouser & Dupatta",
+        "Shop by Product",
+        "Summer-26",
+        "WOMEN-RTS-Essentials",
+        "Woman",
+        "Women",
+        "Women RTS",
+        "cut piece",
+        "hide-fabric",
+        "hide-label",
+        "reprints",
+        "summer'25",
+        "uploaded-18-Jan-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC101-26-Red-1.jpg?v=1770123057",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC101-26-Red-2.jpg?v=1770123057",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC101-26-Red-3.jpg?v=1770123057",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC101-26-Red-4.jpg?v=1770123057"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Red"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "LAWN"
+          ]
+        }
+      ],
+      "variants": {
+        "44125952016564": {
+          "id": "44125952016564",
+          "title": "Red / LAWN",
+          "options": [
+            "Red",
+            "LAWN"
+          ],
+          "sku": "EC101-3P26-Red",
           "available": true,
           "price": 279300,
           "compare_at_price": 399000
@@ -60135,6 +60189,72 @@
           "sku": "EC559-3P26B-Blue",
           "available": true,
           "price": 729000,
+          "compare_at_price": 0
+        }
+      },
+      "available": true
+    },
+    "10297906495668": {
+      "id": "10297906495668",
+      "title": "RTS | SHIRT, TROUSER & DUPATTA",
+      "handle": "rts-shirt-trouser-dupatta-ec562-3p26a-green",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec562-3p26a-green",
+      "vendor": "Alkaram",
+      "type": "SHIRT, TROUSER & DUPATTA",
+      "description": "Unstitched 3-Piece<br>\nEmbroidered Printed Khaddar Suit With Printed Khaddar Dupatta<br>\nColor: Green<br><br>\n<strong>Shirt:</strong><br>\nPrinted Khaddar Shirt 3.0 Meters<br>\nSeparate Neckline On Organza<br>\nFabric: Khaddar<br><br>\n<strong>Trouser:</strong><br>\nDyed Khaddar Trousers 2.5 Meters<br>\nFabric: Khaddar<br><br>\n<strong>Dupatta:</strong><br>\nPrinted Khaddar Dupatta 2.5 Meters<br>\nFabric: Khaddar<br><br>This unstitched Green three-piece intricately embroidered Khaddar suit is crafted from soft, warm khaddar with its signature slightly textured weave, finished with a delicate organza neckline. It comes with a matching dupatta for a coordinated finish. Beautifully detailed and comfortable to wear, it's an elevated option for semi-formal winter dressing — a chic, elevated choice for winter styling.",
+      "tags": [
+        "ESSENTIALS",
+        "New In",
+        "Ready to Stitch",
+        "Shirt- Trouser & Dupatta",
+        "Shop by Product",
+        "WOMEN RTS",
+        "WOMEN-RTS-ESSENTIALS",
+        "Woman",
+        "Women",
+        "hide-fabric",
+        "uploaded-24-Sept-26",
+        "winter-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/DSC04808-1_jpg_ece515b8-243d-4f9b-a623-c0198e21f3b8.jpg?v=1791540175",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-1.jpg?v=1790245373",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-2.jpg?v=1790245373",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-2_5fd94dbd-91ed-49a3-a7a2-f264f5a6ded4.jpg?v=1790682950",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-3.jpg?v=1790245373",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-3_cd90fc87-4358-45ee-83e1-c56e844fd154.jpg?v=1790682950",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-4.jpg?v=1790245373",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-4_9743d9f0-3e92-4de9-9277-83a5e2122969.jpg?v=1790682950",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-5.jpg?v=1790682950",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EC562-3P26A-Green-6.jpg?v=1790682950"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "KHADDAR"
+          ]
+        }
+      ],
+      "variants": {
+        "50479148531892": {
+          "id": "50479148531892",
+          "title": "Green / KHADDAR",
+          "options": [
+            "Green",
+            "KHADDAR"
+          ],
+          "sku": "EC562-3P26A-Green",
+          "available": true,
+          "price": 559000,
           "compare_at_price": 0
         }
       },
@@ -67471,77 +67591,6 @@
             "KHADDAR"
           ],
           "sku": "M-19-25-3-Maroon",
-          "available": true,
-          "price": 779400,
-          "compare_at_price": 1299000
-        }
-      },
-      "available": true
-    },
-    "7994233618612": {
-      "id": "7994233618612",
-      "title": "RTS | SHIRT, TROUSER & SHAWL",
-      "handle": "rts-shirt-trouser-dupatta-m-24-25-3-teal",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-m-24-25-3-teal",
-      "vendor": "Alkaram",
-      "type": "SHIRT, TROUSER & DUPATTA",
-      "description": "<p>Unstitched 3-Piece<br>Embroidered Dyed Khaddar Suit With Yarn Dyed Shawl<br>Color: Teal<br><br><strong>Shawl:</strong><br>Embroidered Dyed Khaddar Shirt 3 Meters<br>Separate Organza Borders For Front &amp; Sleeves <br>Fabric: Khaddar<br><br><strong>Dupatta:</strong><br>Yarn Dyed Shawl 2.5 Meters<br>Fabric: Yarn Dyed<br><br><strong>Trouser:</strong><br>Dyed Khaddar Trousers 1.6 Meters<br>Fabric: Khaddar<br>Width: 60 inches  <br></p>",
-      "tags": [
-        "Capsule",
-        "Last Chance Women",
-        "MERAKI Woman",
-        "Meraki",
-        "RTS Wedding Festive",
-        "Ready to Stitch",
-        "Shirt- Trouser & Dupatta",
-        "Shop By Product",
-        "WINTER SALE 25",
-        "Wedding Edit",
-        "Wedding Eidt 3500",
-        "Winter 25",
-        "Winter Capsule",
-        "Woman",
-        "Women",
-        "Women RTS Azaadi Best Seller",
-        "Women RTS Best Seller",
-        "Women RTS Capsule",
-        "Women-RTS",
-        "hide-fabric",
-        "hide-label",
-        "uploaded-02-Oct-25"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/M-24-25-3-Teal-1_bdbe55cd-6d29-4a0c-ad67-8217b353b8bc.jpg?v=1759394846",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/M-24-25-3-Teal-2_5100bd21-02e1-48b3-ad0e-699bdfc68d0c.jpg?v=1759394846",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/M-24-25-3-Teal-3_68077dff-2272-417f-a79a-6efbad023092.jpg?v=1759394846",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/M-24-25-3-Teal-4_14557c8b-219e-4c3f-84f6-0ce1a40fb064.jpg?v=1759394846",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/M-24-25-3-Teal-5_c7f3ab0c-d284-426e-915d-7f28be0e1bbc.jpg?v=1759394846"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Teal"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 2,
-          "values": [
-            "KHADDAR"
-          ]
-        }
-      ],
-      "variants": {
-        "44057194168500": {
-          "id": "44057194168500",
-          "title": "Teal / KHADDAR",
-          "options": [
-            "Teal",
-            "KHADDAR"
-          ],
-          "sku": "M-24-25-3-Teal",
           "available": true,
           "price": 779400,
           "compare_at_price": 1299000
@@ -77573,6 +77622,7 @@
         "Ready to Wear",
         "Shirt",
         "Shop by Product",
+        "WDE1172-10-26-Black-Simplifiedsizechart",
         "WESTERN",
         "WOMEN-RTW-WESTERN",
         "Woman",
@@ -77698,6 +77748,7 @@
         "Ready to Wear",
         "Shirt",
         "Shop by Product",
+        "WDE1173-10-26-Navy Blue-Simplifiedsizechart",
         "WESTERN",
         "WOMEN-RTW-WESTERN",
         "Woman",
@@ -78211,6 +78262,7 @@
       "description": "Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1132-10-26-Green-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt",
@@ -78336,6 +78388,7 @@
       "description": "Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1131-10-26-Black-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt",
@@ -78460,6 +78513,7 @@
       "description": "Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1177-10-26-Green-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt",
@@ -78584,6 +78638,7 @@
       "description": "Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1133-10-26-Peach-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt",
@@ -81542,7 +81597,7 @@
             "BLENDED"
           ],
           "sku": "GMSU1179-L.PURPLE-XL",
-          "available": true,
+          "available": false,
           "price": 407400,
           "compare_at_price": 679000
         },
@@ -91391,6 +91446,120 @@
       },
       "available": true
     },
+    "8053868953780": {
+      "id": "8053868953780",
+      "title": "RTW | KURTA",
+      "handle": "rtw-kurta-mk-sty26-006-sphagnum",
+      "url": "https://www.alkaramstudio.com/products/rtw-kurta-mk-sty26-006-sphagnum",
+      "vendor": "Alkaram",
+      "type": "KURTA",
+      "description": "Fabric: Blended<br>Fit: Basic<br>Collar Style: Band",
+      "tags": [
+        "Basics",
+        "CORE",
+        "KAMEEZ & SHALWAR",
+        "Kurta",
+        "MEN-RTW-CORE",
+        "MK-STY26-006-Sphagnum-Simplifiedsizechart",
+        "Man",
+        "Men",
+        "Men cut piece",
+        "New In",
+        "Ready to Wear",
+        "Selling-Fast",
+        "Shop by Product",
+        "Summer-26",
+        "hide-fabric",
+        "uploaded-11-May-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MK-STY26-006_1.jpg?v=1778479890",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MK-STY26-006_2.jpg?v=1778479890",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MK-STY26-006_3.jpg?v=1778479893",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MK-STY26-006_4.jpg?v=1778479890"
+      ],
+      "options": [
+        {
+          "name": "Fit",
+          "position": 1,
+          "values": [
+            "BASIC FIT"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "M",
+            "L",
+            "XL",
+            "S"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "BLENDED"
+          ]
+        }
+      ],
+      "variants": {
+        "67583096684724": {
+          "id": "67583096684724",
+          "title": "BASIC FIT / M / BLENDED",
+          "options": [
+            "BASIC FIT",
+            "M",
+            "BLENDED"
+          ],
+          "sku": "MK-STY26-006-Sphagnum-M",
+          "available": false,
+          "price": 191400,
+          "compare_at_price": 319000
+        },
+        "67583096717492": {
+          "id": "67583096717492",
+          "title": "BASIC FIT / L / BLENDED",
+          "options": [
+            "BASIC FIT",
+            "L",
+            "BLENDED"
+          ],
+          "sku": "MK-STY26-006-Sphagnum-L",
+          "available": true,
+          "price": 191400,
+          "compare_at_price": 319000
+        },
+        "67583096750260": {
+          "id": "67583096750260",
+          "title": "BASIC FIT / XL / BLENDED",
+          "options": [
+            "BASIC FIT",
+            "XL",
+            "BLENDED"
+          ],
+          "sku": "MK-STY26-006-Sphagnum-XL",
+          "available": false,
+          "price": 191400,
+          "compare_at_price": 319000
+        },
+        "67583096783028": {
+          "id": "67583096783028",
+          "title": "BASIC FIT / S / BLENDED",
+          "options": [
+            "BASIC FIT",
+            "S",
+            "BLENDED"
+          ],
+          "sku": "MK-STY26-006-Sphagnum-S",
+          "available": false,
+          "price": 191400,
+          "compare_at_price": 319000
+        }
+      },
+      "available": true
+    },
     "8059723841716": {
       "id": "8059723841716",
       "title": "RTW | KURTA",
@@ -95074,118 +95243,6 @@
       },
       "available": true
     },
-    "8112400728244": {
-      "id": "8112400728244",
-      "title": "RTW | KURTA & SHALWAR",
-      "handle": "rtw-kurta-shalwar-mks-emb26-003-deep-cobalt",
-      "url": "https://www.alkaramstudio.com/products/rtw-kurta-shalwar-mks-emb26-003-deep-cobalt",
-      "vendor": "Alkaram",
-      "type": "KURTA & SHALWAR",
-      "description": "Fabric: Blended<br>Fit: Basic<br>Collar Style: Band",
-      "tags": [
-        "ESSENTIALS",
-        "Kameez & Shalwar",
-        "MEN-RTW",
-        "MEN-RTW-ESSENTIALS",
-        "MKS-EMB26-003-Deep Cobalt-Simplifiedsizechart",
-        "Man",
-        "Men",
-        "New In",
-        "Ready to Wear",
-        "Shop by Product",
-        "Summer-26",
-        "hide-fabric",
-        "uploaded-20-Aug-26"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MKS-EMB26-003_1.jpg?v=1787214567",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MKS-EMB26-003_2.jpg?v=1787214566",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MKS-EMB26-003_3.jpg?v=1787214566",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MKS-EMB26-003_4.jpg?v=1787214566",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/MKS-EMB26-003_5.jpg?v=1787214567"
-      ],
-      "options": [
-        {
-          "name": "Fit",
-          "position": 1,
-          "values": [
-            "BASIC FIT"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 3,
-          "values": [
-            "BLENDED"
-          ]
-        }
-      ],
-      "variants": {
-        "67583090720948": {
-          "id": "67583090720948",
-          "title": "BASIC FIT / S / BLENDED",
-          "options": [
-            "BASIC FIT",
-            "S",
-            "BLENDED"
-          ],
-          "sku": "MKS-EMB26-003-Deep Cobalt-S",
-          "available": false,
-          "price": 389400,
-          "compare_at_price": 649000
-        },
-        "67583090753716": {
-          "id": "67583090753716",
-          "title": "BASIC FIT / M / BLENDED",
-          "options": [
-            "BASIC FIT",
-            "M",
-            "BLENDED"
-          ],
-          "sku": "MKS-EMB26-003-Deep Cobalt-M",
-          "available": false,
-          "price": 389400,
-          "compare_at_price": 649000
-        },
-        "67583090786484": {
-          "id": "67583090786484",
-          "title": "BASIC FIT / L / BLENDED",
-          "options": [
-            "BASIC FIT",
-            "L",
-            "BLENDED"
-          ],
-          "sku": "MKS-EMB26-003-Deep Cobalt-L",
-          "available": false,
-          "price": 389400,
-          "compare_at_price": 649000
-        },
-        "67583090819252": {
-          "id": "67583090819252",
-          "title": "BASIC FIT / XL / BLENDED",
-          "options": [
-            "BASIC FIT",
-            "XL",
-            "BLENDED"
-          ],
-          "sku": "MKS-EMB26-003-Deep Cobalt-XL",
-          "available": true,
-          "price": 389400,
-          "compare_at_price": 649000
-        }
-      },
-      "available": true
-    },
     "15401886318772": {
       "id": "15401886318772",
       "title": "RTW | KURTA & SHALWAR",
@@ -97984,7 +98041,7 @@
             "BLENDED"
           ],
           "sku": "MN-TP-13 -Sage Green-XL",
-          "available": true,
+          "available": false,
           "price": 419400,
           "compare_at_price": 699000
         },
@@ -103148,6 +103205,84 @@
           "available": false,
           "price": 389400,
           "compare_at_price": 649000
+        }
+      },
+      "available": true
+    },
+    "7930567590068": {
+      "id": "7930567590068",
+      "title": "RTW | KURTI",
+      "handle": "stitched-printed-embroidered-lawn-kurta-gfku7219-orange",
+      "url": "https://www.alkaramstudio.com/products/stitched-printed-embroidered-lawn-kurta-gfku7219-orange",
+      "vendor": "Alkaram",
+      "type": "KURTI",
+      "description": "<p>This Orange printed ready-to-wear piece comes in soft, lightweight cambric with a smooth, breathable finish. Ready-to-wear basics piece, it's an easy everyday piece with a slightly more polished edge — a versatile addition to your going-out rotation.</p><p><strong>Fabric:</strong> Cambric<br><strong>Style:</strong> Printed<br><strong>Color:</strong> Orange<br><strong>Fit:</strong> Regular</p>",
+      "tags": [
+        "20% ghost sale",
+        "25% ghost",
+        "45% off july 25",
+        "Basics",
+        "Best Seller Women",
+        "Calico Pret",
+        "Eastern",
+        "Embroidered",
+        "Fabric-45%",
+        "GFKU7219-Orange-Simplifiedsizechart",
+        "Lawn-45",
+        "New In",
+        "Pret",
+        "RTW 3000",
+        "SHIRT",
+        "Uploaded-13-Mar-25",
+        "WINTER SALE 25",
+        "WOMEN-RTW-BASICS",
+        "Woman",
+        "Women RTW",
+        "show-quickview",
+        "showpret"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/RB25-1-003_A_1.jpg?v=1742641242",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/RB25-1-003_A_2.jpg?v=1742641239",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/RB25-1-003_A_3.jpg?v=1742641239",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/RB25-1-003_A_4.jpg?v=1742641242"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "FS"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "ORANGE"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "LAWN"
+          ]
+        }
+      ],
+      "variants": {
+        "44049995661492": {
+          "id": "44049995661492",
+          "title": "FS / ORANGE / LAWN",
+          "options": [
+            "FS",
+            "ORANGE",
+            "LAWN"
+          ],
+          "sku": "GFKU7219-Orange-FS",
+          "available": true,
+          "price": 209400,
+          "compare_at_price": 349000
         }
       },
       "available": true
@@ -112387,6 +112522,142 @@
       },
       "available": true
     },
+    "7945453371572": {
+      "id": "7945453371572",
+      "title": "RTW | SHALWAR",
+      "handle": "regular-fit-latha-shalwar-gmss157-white",
+      "url": "https://www.alkaramstudio.com/products/regular-fit-latha-shalwar-gmss157-white",
+      "vendor": "Alkaram",
+      "type": "SHALWAR",
+      "description": "Fabric: Latha<br>Fit: Regular<br>",
+      "tags": [
+        "BASICS",
+        "BOTTOMS",
+        "GMSS157-White-Simplifiedsizechart",
+        "Last Chance Man",
+        "MEN-RTW",
+        "MEN-RTW-BASICS",
+        "Man",
+        "Ready To Wear",
+        "Shalwar",
+        "show-quickview",
+        "showpret",
+        "uploaded-14-May-25"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/R-MS-98_1_b82b8d1c-a9a2-4bae-a96c-78d1297f7dc8.jpg?v=1747165524",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/R-MS-98_2_c7188379-0883-4f04-8f13-47126565a8fb.jpg?v=1747165526"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "WHITE"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "COTTON SILK"
+          ]
+        }
+      ],
+      "variants": {
+        "44049928093876": {
+          "id": "44049928093876",
+          "title": "XS / WHITE / COTTON SILK",
+          "options": [
+            "XS",
+            "WHITE",
+            "COTTON SILK"
+          ],
+          "sku": "GMSS157-White-XS",
+          "available": false,
+          "price": 95400,
+          "compare_at_price": 159000
+        },
+        "44049928126644": {
+          "id": "44049928126644",
+          "title": "S / WHITE / COTTON SILK",
+          "options": [
+            "S",
+            "WHITE",
+            "COTTON SILK"
+          ],
+          "sku": "GMSS157-White-S",
+          "available": false,
+          "price": 95400,
+          "compare_at_price": 159000
+        },
+        "44049928159412": {
+          "id": "44049928159412",
+          "title": "M / WHITE / COTTON SILK",
+          "options": [
+            "M",
+            "WHITE",
+            "COTTON SILK"
+          ],
+          "sku": "GMSS157-White-M",
+          "available": false,
+          "price": 95400,
+          "compare_at_price": 159000
+        },
+        "44049928192180": {
+          "id": "44049928192180",
+          "title": "L / WHITE / COTTON SILK",
+          "options": [
+            "L",
+            "WHITE",
+            "COTTON SILK"
+          ],
+          "sku": "GMSS157-White-L",
+          "available": true,
+          "price": 95400,
+          "compare_at_price": 159000
+        },
+        "44049928224948": {
+          "id": "44049928224948",
+          "title": "XL / WHITE / COTTON SILK",
+          "options": [
+            "XL",
+            "WHITE",
+            "COTTON SILK"
+          ],
+          "sku": "GMSS157-White-XL",
+          "available": false,
+          "price": 95400,
+          "compare_at_price": 159000
+        },
+        "44049928257716": {
+          "id": "44049928257716",
+          "title": "XXL / WHITE / COTTON SILK",
+          "options": [
+            "XXL",
+            "WHITE",
+            "COTTON SILK"
+          ],
+          "sku": "GMSS157-White-XXL",
+          "available": false,
+          "price": 95400,
+          "compare_at_price": 159000
+        }
+      },
+      "available": true
+    },
     "7953716609204": {
       "id": "7953716609204",
       "title": "RTW | SHALWAR",
@@ -112762,7 +113033,7 @@
             "COTTON"
           ],
           "sku": "GMSS147-White-L",
-          "available": false,
+          "available": true,
           "price": 113400,
           "compare_at_price": 189000
         },
@@ -123927,6 +124198,135 @@
       },
       "available": true
     },
+    "8010486612148": {
+      "id": "8010486612148",
+      "title": "RTW | SHIRT",
+      "handle": "rtw-shirt-epe53-8-3p25-blue",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-epe53-8-3p25-blue",
+      "vendor": "Alkaram",
+      "type": "SHIRT",
+      "description": "<p>Crafted from soft, lightweight cambric with a smooth, breathable finish, this Blue embroidered ready-to-wear piece is an easy pick for your closet. Ready-to-wear essentials piece, it's a step-up essential for get-togethers and casual outings — a polished pick for your dressier days.</p><p><strong>Fabric:</strong> Cambric<br><strong>Style:</strong> Embroidered<br><strong>Color:</strong> Blue</p>",
+      "tags": [
+        "Best Seller Women",
+        "EPE53-8-3P25-Blue-Simplifiedsizechart",
+        "ESSENTIALS",
+        "New In",
+        "New in Last Chance",
+        "RTW 3000",
+        "Ready To Wear",
+        "SHIRT",
+        "Shop By Product",
+        "WOMEN-RTW-ESSENTIALS",
+        "Woman",
+        "Women",
+        "Women RTW",
+        "cut piece",
+        "hide-fabric",
+        "uploaded-27-Nov-25"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EPE53-8-3P25_1_0fd746eb-8760-4cb0-ba71-8bba1e378bd1.jpg?v=1764242878",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EPE53-8-3P25_2_6a33face-3e5f-411e-88d1-807984ef4d81.jpg?v=1764242878",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EPE53-8-3P25_3_504d407a-254c-488a-b22b-837ff6a01021.jpg?v=1764242878",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EPE53-8-3P25_4_7a87ce04-df88-4fcf-a9b4-ead7f88c6849.jpg?v=1764242878",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/EPE53-8-3P25_5_34b82df6-d9d2-4a9f-b86d-d2ef05f546a5.jpg?v=1764242878"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "8",
+            "6",
+            "10",
+            "12",
+            "14"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Blue"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "CAMBRIC"
+          ]
+        }
+      ],
+      "variants": {
+        "44097075675316": {
+          "id": "44097075675316",
+          "title": "8 / Blue / CAMBRIC",
+          "options": [
+            "8",
+            "Blue",
+            "CAMBRIC"
+          ],
+          "sku": "EPE53-8-3P25-Blue/multi-8",
+          "available": false,
+          "price": 299400,
+          "compare_at_price": 499000
+        },
+        "44097075708084": {
+          "id": "44097075708084",
+          "title": "6 / Blue / CAMBRIC",
+          "options": [
+            "6",
+            "Blue",
+            "CAMBRIC"
+          ],
+          "sku": "EPE53-8-3P25-Blue/multi-6",
+          "available": true,
+          "price": 299400,
+          "compare_at_price": 499000
+        },
+        "44097075740852": {
+          "id": "44097075740852",
+          "title": "10 / Blue / CAMBRIC",
+          "options": [
+            "10",
+            "Blue",
+            "CAMBRIC"
+          ],
+          "sku": "EPE53-8-3P25-Blue/multi-10",
+          "available": false,
+          "price": 299400,
+          "compare_at_price": 499000
+        },
+        "44097075773620": {
+          "id": "44097075773620",
+          "title": "12 / Blue / CAMBRIC",
+          "options": [
+            "12",
+            "Blue",
+            "CAMBRIC"
+          ],
+          "sku": "EPE53-8-3P25-Blue/multi-12",
+          "available": false,
+          "price": 299400,
+          "compare_at_price": 499000
+        },
+        "44097075806388": {
+          "id": "44097075806388",
+          "title": "14 / Blue / CAMBRIC",
+          "options": [
+            "14",
+            "Blue",
+            "CAMBRIC"
+          ],
+          "sku": "EPE53-8-3P25-Blue/multi-14",
+          "available": false,
+          "price": 299400,
+          "compare_at_price": 499000
+        }
+      },
+      "available": true
+    },
     "8010486939828": {
       "id": "8010486939828",
       "title": "RTW | SHIRT",
@@ -130032,6 +130432,7 @@
       "type": "SHIRT",
       "description": "Fabric: Poly Khaddar<br>Design: Embroidered",
       "tags": [
+        "EPE243-10-25-Blue-Simplifiedsizechart",
         "ESSENTIALS",
         "New In",
         "Ready to Wear",
@@ -131113,154 +131514,6 @@
           "available": false,
           "price": 437400,
           "compare_at_price": 729000
-        }
-      },
-      "available": true
-    },
-    "7937313243316": {
-      "id": "7937313243316",
-      "title": "RTW | SHIRT & CULOTTE",
-      "handle": "stitched-2-pc-printed-embroidered-yarn-dyed-outfit-gfsu5998-black",
-      "url": "https://www.alkaramstudio.com/products/stitched-2-pc-printed-embroidered-yarn-dyed-outfit-gfsu5998-black",
-      "vendor": "Alkaram",
-      "type": "SHIRT & CULOTTE",
-      "description": "<p>This Black embroidered shirt and culotte set comes in yarn-dyed fabric with a rich, colorfast tone and a subtly textured weave. Ready-to-wear essentials piece, it's an easy way to add a polished touch to your everyday rotation — a versatile addition to your going-out rotation.</p><p><strong>Pieces:</strong> 2-Piece (shirt and culotte)<br><strong>Fabric:</strong> Yarn Dyed<br><strong>Style:</strong> Embroidered<br><strong>Color:</strong> Black<br><strong>Fit:</strong> Regular</p>",
-      "tags": [
-        "25% off july 25",
-        "Best Seller Women",
-        "Black & White 26",
-        "Calico Pret",
-        "Eastern",
-        "Embroidered",
-        "Essentials",
-        "New In",
-        "New in Last Chance",
-        "Pret",
-        "Pret Co-ords",
-        "RTW 3000",
-        "Shirt & Trouser",
-        "Uploaded-07-Apr-25",
-        "WINTER SALE 25",
-        "WOMEN-RTW-ESSENTIALS",
-        "Woman",
-        "Women RTW",
-        "cut piece",
-        "hide-fabric",
-        "show-quickview",
-        "showpret"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/WSDE2P25-02-096_1_23db090e-99b9-4586-9213-ebed13c9dfa0.jpg?v=1744116309",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/WSDE2P25-02-096_2_4a1df428-2d5c-4e22-8f99-4197b4157e2c.jpg?v=1744116313",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/WSDE2P25-02-096_3_0a2ee679-9080-4a5e-b721-9ee8d4b2db00.jpg?v=1744116311",
-        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/WSDE2P25-02-096_d8c2e535-fe33-4d7a-8eb8-ca701cfa35fa.jpg?v=1744116307"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "6",
-            "8",
-            "10",
-            "12",
-            "14",
-            "16"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "BLACK"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 3,
-          "values": [
-            "YARN DYED"
-          ]
-        }
-      ],
-      "variants": {
-        "44049957552308": {
-          "id": "44049957552308",
-          "title": "6 / BLACK / YARN DYED",
-          "options": [
-            "6",
-            "BLACK",
-            "YARN DYED"
-          ],
-          "sku": "GFSU5998-Black-6",
-          "available": false,
-          "price": 413400,
-          "compare_at_price": 689000
-        },
-        "44049957585076": {
-          "id": "44049957585076",
-          "title": "8 / BLACK / YARN DYED",
-          "options": [
-            "8",
-            "BLACK",
-            "YARN DYED"
-          ],
-          "sku": "GFSU5998-Black-8",
-          "available": true,
-          "price": 413400,
-          "compare_at_price": 689000
-        },
-        "44049957617844": {
-          "id": "44049957617844",
-          "title": "10 / BLACK / YARN DYED",
-          "options": [
-            "10",
-            "BLACK",
-            "YARN DYED"
-          ],
-          "sku": "GFSU5998-Black-10",
-          "available": false,
-          "price": 413400,
-          "compare_at_price": 689000
-        },
-        "44380612133044": {
-          "id": "44380612133044",
-          "title": "12 / BLACK / YARN DYED",
-          "options": [
-            "12",
-            "BLACK",
-            "YARN DYED"
-          ],
-          "sku": "GFSU5998-Black-12",
-          "available": false,
-          "price": 413400,
-          "compare_at_price": 689000
-        },
-        "44049957683380": {
-          "id": "44049957683380",
-          "title": "14 / BLACK / YARN DYED",
-          "options": [
-            "14",
-            "BLACK",
-            "YARN DYED"
-          ],
-          "sku": "GFSU5998-Black-14",
-          "available": false,
-          "price": 413400,
-          "compare_at_price": 689000
-        },
-        "44380612165812": {
-          "id": "44380612165812",
-          "title": "16 / BLACK / YARN DYED",
-          "options": [
-            "16",
-            "BLACK",
-            "YARN DYED"
-          ],
-          "sku": "GFSU5998-Black-16",
-          "available": false,
-          "price": 413400,
-          "compare_at_price": 689000
         }
       },
       "available": true
@@ -142398,6 +142651,7 @@
       "description": "2 Pc Outfit -  Shirt &amp; Culotte<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1451-10-2P26-Black-Simplifiedsizechart",
         "New In",
         "New-30",
         "Ready to Wear",
@@ -142507,6 +142761,7 @@
       "type": "SHIRT & CULOTTE",
       "description": "2 Pc Outfit -  Shirt &amp; Culotte<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1457-10-2P26-Rust-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -142617,6 +142872,7 @@
       "type": "SHIRT & CULOTTE",
       "description": "2 Pc Outfit -  Shirt &amp; Culotte<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1462-10-2P26-Brown-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -144992,6 +145248,7 @@
       "type": "SHIRT & FARSHI SHALWAR",
       "description": "2 Pc Outfit -  Shirt &amp; Farshi Shalwar<br>Fabric: Raw Silk<br>Design: Embroidered",
       "tags": [
+        "EPE1192-10-3P26-Maroon-Simplifiedsizechart",
         "Essentials",
         "New In",
         "New-30",
@@ -145120,6 +145377,7 @@
       "type": "SHIRT & FARSHI SHALWAR",
       "description": "2 Pc Outfit -  Shirt &amp; Farshi Shalwar<br>Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
+        "BP1248-11-2P26-Teal-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -147634,6 +147892,7 @@
       "type": "SHIRT & SHALWAR",
       "description": "2 Pc Outfit -  Shirt &amp; Shalwar<br>Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
+        "BP1139-10-2P26-Rust-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -147760,6 +148019,7 @@
       "type": "SHIRT & SHALWAR",
       "description": "2 Pc Outfit -  Shirt &amp; Shalwar<br>Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
+        "BP1459-10-2P26-Stone-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -164941,6 +165201,7 @@
         "Ready to Wear",
         "Shirt & Trouser",
         "Shop Category",
+        "WDE297-10-2P25-Blue-Simplifiedsizechart",
         "WESTERN",
         "WOMEN-RTW-WESTERN",
         "Woman",
@@ -165075,6 +165336,7 @@
       "type": "SHIRT & TROUSER",
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Cotton Slub<br>Design: Embroidered",
       "tags": [
+        "EDE232-10-2P25-Beige-Simplifiedsizechart",
         "ESSENTIALS",
         "New In",
         "Ready to Wear",
@@ -165188,6 +165450,7 @@
         "Ready to Wear",
         "Shirt & Trouser",
         "Shop Category",
+        "WDE293-10-2P25-Brown-Simplifiedsizechart",
         "WESTERN",
         "WOMEN-RTW-WESTERN",
         "Woman",
@@ -165312,6 +165575,7 @@
         "Ready to Wear",
         "Shirt & Trouser",
         "Shop by Product",
+        "WDE1176-10-2P26-Pink-Simplifiedsizechart",
         "WESTERN",
         "WOMEN-RTW-WESTERN",
         "Woman",
@@ -165435,6 +165699,7 @@
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1138-10-2P26-Green-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt & Trouser",
@@ -165559,6 +165824,7 @@
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1178-10-2P26-Mauve-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt & Trouser",
@@ -165682,6 +165948,7 @@
       "type": "SHIRT & TROUSER",
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Viscose Slub<br>Design: Embroidered",
       "tags": [
+        "EDE1141-10-2P26-Blue-Simplifiedsizechart",
         "ESSENTIALS",
         "New In",
         "Ready to Wear",
@@ -165807,6 +166074,7 @@
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1136-10-2P26-Brown-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt & Trouser",
@@ -165931,6 +166199,7 @@
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Poly Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1137-10-2P26-Plum-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt & Trouser",
@@ -166057,6 +166326,7 @@
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1140-10-2P26-Black-Simplifiedsizechart",
         "New In",
         "Ready to Wear",
         "Shirt & Trouser",
@@ -166308,6 +166578,7 @@
         "Ready to Wear",
         "Shirt & Trouser",
         "Shop by Product",
+        "WDE1175-10-2P26-Peach-Simplifiedsizechart",
         "WESTERN",
         "WOMEN-RTW-WESTERN",
         "Woman",
@@ -166430,6 +166701,7 @@
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1455-10-2P26-Brown-Simplifiedsizechart",
         "New In",
         "New-30",
         "Ready to Wear",
@@ -166541,6 +166813,7 @@
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
         "BASICS",
+        "BP1452-10-2P26-Blue-Simplifiedsizechart",
         "New In",
         "New-30",
         "Ready to Wear",
@@ -166651,6 +166924,7 @@
       "type": "SHIRT & TROUSER",
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1458-10-2P26-Green-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -166761,6 +167035,7 @@
       "type": "SHIRT & TROUSER",
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1456-10-2P26-Black-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -166871,6 +167146,7 @@
       "type": "SHIRT & TROUSER",
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1460-10-2P26-Maroon-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -166981,6 +167257,7 @@
       "type": "SHIRT & TROUSER",
       "description": "2 Pc Outfit -  Shirt &amp; Trouser<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1461-10-2P26-Blue-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -169919,6 +170196,7 @@
       "type": "SHIRT, CULOTTE & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Culotte &amp; Dupatta<br>Fabric: Khaddar<br>Design: Embroidered",
       "tags": [
+        "EDE1199-10-3P26-Beige-Simplifiedsizechart",
         "Essentials",
         "New In",
         "New-30",
@@ -170045,6 +170323,7 @@
       "type": "SHIRT, CULOTTE & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Culotte &amp; Dupatta<br>Fabric: Khaddar<br>Design: Embroidered",
       "tags": [
+        "BP1464-10-3P26-Mustard-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -170155,6 +170434,7 @@
       "type": "SHIRT, CULOTTE & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Culotte &amp; Dupatta<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1463-10-3P26-Peach-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -170265,6 +170545,7 @@
       "type": "SHIRT, CULOTTE & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Culotte &amp; Dupatta<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1453-10-3P26-Mustard-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -170375,6 +170656,7 @@
       "type": "SHIRT, CULOTTE & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Culotte &amp; Dupatta<br>Fabric: Khaddar<br>Design: Printed",
       "tags": [
+        "BP1465-10-3P26-Charcoal-Simplifiedsizechart",
         "Basics",
         "New In",
         "New-30",
@@ -170485,6 +170767,7 @@
       "type": "SHIRT, CULOTTE & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Culotte &amp; Dupatta<br>Fabric: Raw Silk<br>Design: Embroidered",
       "tags": [
+        "EPE1193-10-3P26-Beige-Simplifiedsizechart",
         "Essentials",
         "New In",
         "New-30",
@@ -171273,6 +171556,7 @@
       "type": "SHIRT, SHALWAR & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Shalwar &amp; Dupatta<br>Fabric: Raw Silk<br>Design: Embroidered",
       "tags": [
+        "EPE1190-10-3P26-Cream-Simplifiedsizechart",
         "Essentials",
         "New In",
         "New-30",
@@ -183054,6 +183338,7 @@
       "type": "SHIRT, TROUSER & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Trouser &amp; Dupatta<br>Fabric: Khaddar<br>Design: Embroidered",
       "tags": [
+        "EDE1166-10-3P26-Green-Simplifiedsizechart",
         "ESSENTIALS",
         "New In",
         "Ready to Wear",
@@ -183180,6 +183465,7 @@
       "type": "SHIRT, TROUSER & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Trouser &amp; Dupatta<br>Fabric: Khaddar<br>Design: Embroidered",
       "tags": [
+        "EDE1167-10-3P26-Peach-Simplifiedsizechart",
         "ESSENTIALS",
         "New In",
         "Ready to Wear",
@@ -183306,6 +183592,7 @@
       "type": "SHIRT, TROUSER & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Trouser &amp; Dupatta<br>Fabric: Light Khaddar<br>Design: Embroidered",
       "tags": [
+        "EDE1154-10-3P26-Beige-Simplifiedsizechart",
         "ESSENTIALS",
         "New In",
         "Ready to Wear",
@@ -183432,6 +183719,7 @@
       "type": "SHIRT, TROUSER & DUPATTA",
       "description": "3 Pc Outfit -  Shirt, Trouser &amp; Dupatta<br>Fabric: Khaddar<br>Design: Embroidered",
       "tags": [
+        "EDE1165-10-3P26-Blue-Simplifiedsizechart",
         "ESSENTIALS",
         "New In",
         "Ready to Wear",
@@ -191599,6 +191887,252 @@
           "available": false,
           "price": 341400,
           "compare_at_price": 569000
+        }
+      },
+      "available": true
+    },
+    "8019999359156": {
+      "id": "8019999359156",
+      "title": "RTW | WAISTCOAT",
+      "handle": "rtw-waistcoat-f-tp-02-rust",
+      "url": "https://www.alkaramstudio.com/products/rtw-waistcoat-f-tp-02-rust",
+      "vendor": "Alkaram",
+      "type": "WAISTCOAT",
+      "description": "Fabric: Raw Silk<br>Fit: Basic<br>Collar Style: Band",
+      "tags": [
+        "Basics",
+        "Carousel Men",
+        "ESSENTIALS",
+        "GMWC214-Rust-Simplifiedsizechart",
+        "MEN-RTW",
+        "MEN-RTW-ESSENTIALS",
+        "Man",
+        "Man Eid Edit",
+        "Men",
+        "Men cut piece",
+        "New In",
+        "New in Last Chance",
+        "Ready to Wear",
+        "Shop by Product",
+        "WAISTCOAT",
+        "hide-fabric",
+        "uploaded-03-Jan-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/F-TP-02_1_1c5d8aa5-993e-4ffa-bb2e-92b05efe9c4e.jpg?v=1767444710",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/F-TP-02_2_82f05d72-8292-4866-ad11-f87475d88d99.jpg?v=1767444710",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/F-TP-02_3_32f9b132-1c01-448a-9ebe-d9475fc848a5.jpg?v=1767444710",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/F-TP-02_4_56c4adfe-c609-4c07-91a1-b2e05233a8ce.jpg?v=1767444710"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "RAW SILK"
+          ]
+        }
+      ],
+      "variants": {
+        "44117046722740": {
+          "id": "44117046722740",
+          "title": "XS / RAW SILK",
+          "options": [
+            "XS",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-XS",
+          "available": false,
+          "price": 389400,
+          "compare_at_price": 649000
+        },
+        "44117046755508": {
+          "id": "44117046755508",
+          "title": "S / RAW SILK",
+          "options": [
+            "S",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-S",
+          "available": false,
+          "price": 389400,
+          "compare_at_price": 649000
+        },
+        "44117046788276": {
+          "id": "44117046788276",
+          "title": "M / RAW SILK",
+          "options": [
+            "M",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-M",
+          "available": true,
+          "price": 389400,
+          "compare_at_price": 649000
+        },
+        "44117046821044": {
+          "id": "44117046821044",
+          "title": "L / RAW SILK",
+          "options": [
+            "L",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-L",
+          "available": false,
+          "price": 389400,
+          "compare_at_price": 649000
+        },
+        "44117046853812": {
+          "id": "44117046853812",
+          "title": "XL / RAW SILK",
+          "options": [
+            "XL",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-XL",
+          "available": false,
+          "price": 389400,
+          "compare_at_price": 649000
+        }
+      },
+      "available": true
+    },
+    "8023985815732": {
+      "id": "8023985815732",
+      "title": "RTW | WAISTCOAT",
+      "handle": "rtw-waistcoat-gmwc214-rust",
+      "url": "https://www.alkaramstudio.com/products/rtw-waistcoat-gmwc214-rust",
+      "vendor": "Alkaram",
+      "type": "WAISTCOAT",
+      "description": "Fabric: Raw Silk<br>Fit: Basic<br>Collar Style: Band",
+      "tags": [
+        "Basics",
+        "Carousel Men",
+        "ESSENTIALS",
+        "GMWC214-Rust-Simplifiedsizechart",
+        "MEN-RTW",
+        "MEN-RTW-ESSENTIALS",
+        "Man",
+        "Man Eid Edit",
+        "Men",
+        "Men cut piece",
+        "New In",
+        "New in Last Chance",
+        "Ready to Wear",
+        "Shop by Product",
+        "WAISTCOAT",
+        "hide-fabric",
+        "uploaded-21-Jan-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/F-TP-02_1_1f3750bc-63ef-48f9-a59a-55ae12e5ac36.jpg?v=1769080593",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/F-TP-02_2_e6866bc7-26da-4808-8a2f-7d10de73dfdc.jpg?v=1769080593",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/F-TP-02_3_a80be364-5552-4dd9-abce-b47426ea90f6.jpg?v=1769080593",
+        "https://cdn.shopify.com/s/files/1/0623/6481/1444/files/F-TP-02_4_166f9b7f-699c-42a5-94cc-5653a9b6f51f.jpg?v=1769080593"
+      ],
+      "options": [
+        {
+          "name": "Fit",
+          "position": 1,
+          "values": [
+            "BASIC FIT"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "RAW SILK"
+          ]
+        }
+      ],
+      "variants": {
+        "44127510921396": {
+          "id": "44127510921396",
+          "title": "BASIC FIT / XS / RAW SILK",
+          "options": [
+            "BASIC FIT",
+            "XS",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-XS",
+          "available": false,
+          "price": 389400,
+          "compare_at_price": 649000
+        },
+        "44127510954164": {
+          "id": "44127510954164",
+          "title": "BASIC FIT / S / RAW SILK",
+          "options": [
+            "BASIC FIT",
+            "S",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-S",
+          "available": false,
+          "price": 389400,
+          "compare_at_price": 649000
+        },
+        "44127510986932": {
+          "id": "44127510986932",
+          "title": "BASIC FIT / M / RAW SILK",
+          "options": [
+            "BASIC FIT",
+            "M",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-M",
+          "available": true,
+          "price": 389400,
+          "compare_at_price": 649000
+        },
+        "44127511019700": {
+          "id": "44127511019700",
+          "title": "BASIC FIT / L / RAW SILK",
+          "options": [
+            "BASIC FIT",
+            "L",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-L",
+          "available": false,
+          "price": 389400,
+          "compare_at_price": 649000
+        },
+        "44127511052468": {
+          "id": "44127511052468",
+          "title": "BASIC FIT / XL / RAW SILK",
+          "options": [
+            "BASIC FIT",
+            "XL",
+            "RAW SILK"
+          ],
+          "sku": "GMWC214-Rust-XL",
+          "available": false,
+          "price": 389400,
+          "compare_at_price": 649000
         }
       },
       "available": true
