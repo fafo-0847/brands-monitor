@@ -3,7 +3,7 @@
   "source": "https://www.ndure.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-20T22:53:35.389282+00:00",
+  "checked_at": "2026-11-21T10:19:36.236940+00:00",
   "products": {
     "8997266686120": {
       "id": "8997266686120",
@@ -5899,7 +5899,7 @@
             "BLACK"
           ],
           "sku": "B-SN-QNT-0001:BLACK:25",
-          "available": false,
+          "available": true,
           "price": 244900,
           "compare_at_price": 349900
         },
@@ -38799,7 +38799,7 @@
             "BLACK"
           ],
           "sku": "B-SN-KNO-0006:BLACK:36",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -72742,7 +72742,7 @@
             "NVY/PNK"
           ],
           "sku": "G-SN-DRC-0001:NVY/PNK:25",
-          "available": true,
+          "available": false,
           "price": 230900,
           "compare_at_price": 329900
         },
@@ -79189,7 +79189,7 @@
             "BROWN"
           ],
           "sku": "M-AT-SPY-0002:BROWN:44",
-          "available": true,
+          "available": false,
           "price": 139900,
           "compare_at_price": 199900
         },
@@ -90478,7 +90478,7 @@
             "BLACK"
           ],
           "sku": "M-LF-AQV-0001:BLACK:45",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         }
@@ -106861,7 +106861,7 @@
             "BLACK"
           ],
           "sku": "A-BL-LAM-0001:BLACK:40IN",
-          "available": false,
+          "available": true,
           "price": 160900,
           "compare_at_price": 229900
         },
@@ -106873,7 +106873,7 @@
             "BLACK"
           ],
           "sku": "A-BL-LAM-0001:BLACK:42IN",
-          "available": false,
+          "available": true,
           "price": 160900,
           "compare_at_price": 229900
         },
@@ -106990,7 +106990,7 @@
             "BROWN"
           ],
           "sku": "A-BL-LAM-0001:BROWN:32IN",
-          "available": false,
+          "available": true,
           "price": 167900,
           "compare_at_price": 239900
         },
@@ -107026,7 +107026,7 @@
             "BROWN"
           ],
           "sku": "A-BL-LAM-0001:BROWN:38IN",
-          "available": false,
+          "available": true,
           "price": 167900,
           "compare_at_price": 239900
         },
@@ -107038,7 +107038,7 @@
             "BROWN"
           ],
           "sku": "A-BL-LAM-0001:BROWN:40IN",
-          "available": false,
+          "available": true,
           "price": 167900,
           "compare_at_price": 239900
         },
@@ -107050,7 +107050,7 @@
             "BROWN"
           ],
           "sku": "A-BL-LAM-0001:BROWN:42IN",
-          "available": false,
+          "available": true,
           "price": 167900,
           "compare_at_price": 239900
         },
@@ -108637,7 +108637,7 @@
             "BROWN"
           ],
           "sku": "M-BF-MNT-0008:BROWN:45",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         }
@@ -118219,14 +118219,17 @@
       "type": "Mens Footwear",
       "description": "<p>Designed to move with you—comfort and flexibility in every step.</p><ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\"> <li style=\"margin-bottom: 12px;\">This pair is made with high-quality Synthetic Leather material, which ensures durability.</li>\n<li style=\"margin-bottom: 12px;\">These slides feature a round toe shape and a Boost midsole for enhanced comfort.</li>\n<li style=\"margin-bottom: 12px;\">The EVA outsole offers comfort, durability, and keeps the shoe lightweight.</li>\n</ul>",
       "tags": [
+        "030",
         "1BS",
         "1Everyday",
         "1Revised",
         "1SPC",
+        "1Sale",
         "1Summer25",
         "1allopen",
         "1men",
         "ALL SHOES",
+        "FLAT30",
         "M&W",
         "Men",
         "Ndure",
@@ -118286,7 +118289,7 @@
             "BLK/GRY"
           ],
           "sku": "M-AT-SIA-0004:BLK/GRY:41",
-          "available": false,
+          "available": true,
           "price": 195900,
           "compare_at_price": 279900
         },
@@ -118339,7 +118342,7 @@
           "compare_at_price": 279900
         }
       },
-      "available": false
+      "available": true
     },
     "8789964685480": {
       "id": "8789964685480",
@@ -123847,7 +123850,7 @@
             "D.BROWN"
           ],
           "sku": "M-PE-KAP-0002:D.BROWN:45",
-          "available": true,
+          "available": false,
           "price": 188900,
           "compare_at_price": 269900
         }
@@ -132737,17 +132740,14 @@
       "type": "Mens Footwear",
       "description": "<p>Every step feels comfortable with light padding and soft, all-day support.</p><p>This pair is made with good quality Man Made Leather material which ensures durability.</p><p>These slippers feature a round toe shape and a padded insole.</p><p>The PU outsole provides  grip and a good resistance to slip.</p><p>This pair is not washable.</p>",
       "tags": [
-        "030",
         "1Chappals",
         "1Open",
         "1SPC",
         "1SWT25",
-        "1Sale",
         "1Summer25",
         "1allopen",
         "1men",
         "ALL SHOES",
-        "FLAT30",
         "M&W",
         "Men",
         "Ndure",
@@ -132830,7 +132830,7 @@
             "ESPRESSO"
           ],
           "sku": "M-PL-GIO-0011:ESPRESSO:43",
-          "available": true,
+          "available": false,
           "price": 230900,
           "compare_at_price": 329900
         },
@@ -132859,7 +132859,7 @@
           "compare_at_price": 329900
         }
       },
-      "available": true
+      "available": false
     },
     "8622312652968": {
       "id": "8622312652968",
@@ -136756,7 +136756,7 @@
             "OLV/GRY"
           ],
           "sku": "M-PL-MIU-0001:OLV/GRY:43",
-          "available": false,
+          "available": true,
           "price": 139900,
           "compare_at_price": 199900
         },
@@ -138385,7 +138385,7 @@
             "BLACK"
           ],
           "sku": "M-PR-KAY-0006:BLACK:42",
-          "available": false,
+          "available": true,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -151702,7 +151702,7 @@
             "BEIGE"
           ],
           "sku": "M-PR-LUC-0023:BEIGE:41",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -157239,7 +157239,7 @@
             "BLK/BLK"
           ],
           "sku": "M-AT-URR-0008:BLK/BLK:45",
-          "available": true,
+          "available": false,
           "price": 293900,
           "compare_at_price": 419900
         }
@@ -161543,7 +161543,7 @@
             "NVY/GRY"
           ],
           "sku": "M-AT-URR-0004:NVY/GRY:44",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -184456,7 +184456,7 @@
             "OLIVE"
           ],
           "sku": "M-PR-LEN-0009:OLIVE:43",
-          "available": false,
+          "available": true,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -205933,7 +205933,7 @@
             "NAVY"
           ],
           "sku": "W-PL-SPO-0001:NAVY:40/8",
-          "available": true,
+          "available": false,
           "price": 118900,
           "compare_at_price": 169900
         },
@@ -222915,7 +222915,7 @@
             "BEG/BLK"
           ],
           "sku": "W-SN-STE-0009:BEG/BLK:40",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -223165,7 +223165,7 @@
             "BROWN"
           ],
           "sku": "W-SN-STE-0002:BROWN:37",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -232548,7 +232548,7 @@
             "BLACK"
           ],
           "sku": "W-BL-MSL-0018:BLACK:38",
-          "available": false,
+          "available": true,
           "price": 314900,
           "compare_at_price": 449900
         },
@@ -278279,7 +278279,7 @@
             "NAVY"
           ],
           "sku": "W-PR-TOR-0004:NAVY:41",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         }
@@ -280956,7 +280956,7 @@
             "BLACK"
           ],
           "sku": "W-PR-SPD-0071:BLACK:40",
-          "available": true,
+          "available": false,
           "price": 244900,
           "compare_at_price": 349900
         },
@@ -300719,7 +300719,7 @@
             "PINK"
           ],
           "sku": "W-PL-MON-0023:PINK:39",
-          "available": true,
+          "available": false,
           "price": 174900,
           "compare_at_price": 249900
         },
@@ -309789,14 +309789,11 @@
       "type": "Womens Footwear",
       "description": "<p>A modern take on the classic silhouette, these Mary Jane sneakers feature dual adjustable straps for a secure, customizable fit. The soft upper is paired with a refined, contemporary design, while the rounded toe and flexible sole keep every step comfortable. A versatile pair that transitions seamlessly from relaxed daytime styling to effortlessly elevated looks.</p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Fashion Silhouette: Mary Jane Sneakers<br>\n</li>\n</ul>",
       "tags": [
-        "030",
-        "1Sale",
         "1Women",
         "ALL SHOES",
         "AW26",
         "AW26 all",
         "Athletic / Sports Shoes",
-        "FLAT30",
         "M&W",
         "Women",
         "Womens Footwear",
@@ -309852,7 +309849,7 @@
             "ESPRESSO"
           ],
           "sku": "W-BL-LIL-0100:ESPRESSO:37",
-          "available": true,
+          "available": false,
           "price": 244900,
           "compare_at_price": 349900
         },
@@ -309905,7 +309902,7 @@
           "compare_at_price": 349900
         }
       },
-      "available": true
+      "available": false
     },
     "9110226436264": {
       "id": "9110226436264",
