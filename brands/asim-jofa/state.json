@@ -3,7 +3,7 @@
   "source": "https://asimjofa.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-20T21:25:44.418730+00:00",
+  "checked_at": "2026-11-21T08:55:05.399476+00:00",
   "products": {
     "8092091908393": {
       "id": "8092091908393",
@@ -68889,11 +68889,23 @@
           "name": "Size",
           "position": 1,
           "values": [
+            "S",
             "M"
           ]
         }
       ],
       "variants": {
+        "67847116357929": {
+          "id": "67847116357929",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "AJDSAI-633-DS-S",
+          "available": false,
+          "price": 250000,
+          "compare_at_price": null
+        },
         "51189417771305": {
           "id": "51189417771305",
           "title": "M",
@@ -101702,11 +101714,23 @@
           "name": "Size",
           "position": 1,
           "values": [
+            "S",
             "M"
           ]
         }
       ],
       "variants": {
+        "67846728941865": {
+          "id": "67846728941865",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "AJHE-04-DS-S",
+          "available": false,
+          "price": 1340000,
+          "compare_at_price": null
+        },
         "51334717931817": {
           "id": "51334717931817",
           "title": "M",
@@ -102027,7 +102051,8 @@
           "name": "Size",
           "position": 1,
           "values": [
-            "XS"
+            "XS",
+            "L"
           ]
         }
       ],
@@ -102039,6 +102064,17 @@
             "XS"
           ],
           "sku": "AJHE-10-DS-XS",
+          "available": false,
+          "price": 1360000,
+          "compare_at_price": null
+        },
+        "67846723666217": {
+          "id": "67846723666217",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "AJHE-10-DS-L",
           "available": false,
           "price": 1360000,
           "compare_at_price": null
@@ -195491,7 +195527,7 @@
             "10-12 Yrs"
           ],
           "sku": "AJKLP-05-10-12",
-          "available": true,
+          "available": false,
           "price": 281400,
           "compare_at_price": 469000
         }
@@ -214316,7 +214352,7 @@
             "L"
           ],
           "sku": "AJLPJ-01-L",
-          "available": false,
+          "available": true,
           "price": 269400,
           "compare_at_price": 449000
         },
@@ -214333,7 +214369,7 @@
           "compare_at_price": 449000
         }
       },
-      "available": false
+      "available": true
     },
     "9645860421929": {
       "id": "9645860421929",
@@ -228883,7 +228919,8 @@
           "name": "Size",
           "position": 1,
           "values": [
-            "S"
+            "S",
+            "M"
           ]
         }
       ],
@@ -228895,6 +228932,17 @@
             "S"
           ],
           "sku": "AJMJ-04-DS-S",
+          "available": false,
+          "price": 1310000,
+          "compare_at_price": null
+        },
+        "67846736937257": {
+          "id": "67846736937257",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "AJMJ-04-DS-M",
           "available": false,
           "price": 1310000,
           "compare_at_price": null
@@ -228934,11 +228982,23 @@
           "name": "Size",
           "position": 1,
           "values": [
+            "XS",
             "M"
           ]
         }
       ],
       "variants": {
+        "67846768296233": {
+          "id": "67846768296233",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "AJMJ-05-DS-XS",
+          "available": false,
+          "price": 1190000,
+          "compare_at_price": null
+        },
         "51334734709033": {
           "id": "51334734709033",
           "title": "M",
@@ -345371,12 +345431,12 @@
             "Default Title"
           ],
           "sku": "AJSO-454-UNS",
-          "available": true,
+          "available": false,
           "price": 105000,
           "compare_at_price": 210000
         }
       },
-      "available": true
+      "available": false
     },
     "10047042978089": {
       "id": "10047042978089",
@@ -347529,7 +347589,7 @@
             "M"
           ],
           "sku": "AJSO-70-M",
-          "available": true,
+          "available": false,
           "price": 238000,
           "compare_at_price": 595000
         },
@@ -347546,7 +347606,7 @@
           "compare_at_price": 595000
         }
       },
-      "available": true
+      "available": false
     },
     "9877323055401": {
       "id": "9877323055401",
@@ -381325,12 +381385,12 @@
             "Default Title"
           ],
           "sku": "AJUFC-09-UNS",
-          "available": false,
+          "available": true,
           "price": 449900,
           "compare_at_price": 749900
         }
       },
-      "available": false
+      "available": true
     },
     "15397088133417": {
       "id": "15397088133417",
@@ -381905,12 +381965,12 @@
             "Default Title"
           ],
           "sku": "AJUFC-19-UNS",
-          "available": false,
+          "available": true,
           "price": 449900,
           "compare_at_price": 749900
         }
       },
-      "available": false
+      "available": true
     },
     "15397366333737": {
       "id": "15397366333737",
@@ -393640,12 +393700,12 @@
             "Default Title"
           ],
           "sku": "AJULN-18-UNS",
-          "available": true,
+          "available": false,
           "price": 1373400,
           "compare_at_price": 2289000
         }
       },
-      "available": true
+      "available": false
     },
     "9975328669993": {
       "id": "9975328669993",
