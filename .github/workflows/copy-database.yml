@@ -1,7 +1,8 @@
 name: Copy the database to a new Supabase project
 # One-off move: reads the database in the DATABASE_URL secret (left unchanged) and copies it into
-# the empty project in the NEW_DATABASE_URL secret. Afterwards, put the new project's URL in
-# DATABASE_URL and the app config. See pipeline/README.md "Moving to a new project".
+# the empty project in the NEW_DATABASE_URL secret. Ingest then writes to NEW_DATABASE_URL. It ran on
+# 2026-11-21 and refuses to run again over a database that already holds products.
+# See pipeline/README.md "Moving to a new project".
 on:
   workflow_dispatch:
     inputs:

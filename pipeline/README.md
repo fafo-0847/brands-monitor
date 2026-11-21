@@ -104,8 +104,9 @@ back, so it starts smaller. The old project is only read and stays as it is unti
 3. Actions → **Copy the database to a new Supabase project** → type `copy`. It waits for a running ingest,
    applies the migrations, copies every catalog and pipeline table in one transaction (a failure leaves the
    new database empty, so it can be run again) and prints the row counts and the new size.
-4. Replace `DATABASE_URL` with the new string, and put the new project's URL and anon key in
-   `app/app.json` (`extra.supabase`), then publish an over-the-air update.
+4. Put the new project's URL and anon key in `app/app.json` (`extra.supabase`) and publish an
+   over-the-air update. `ingest.yml` writes to `NEW_DATABASE_URL` whenever it is set, so `DATABASE_URL`
+   can keep the old project as a backup.
 
 Accounts do not move (anonymous sign-ins belong to the old project), so the phone starts a new one. The
 watched articles wait in `private.moved_watches`; the first account to open the watchlist or a product
