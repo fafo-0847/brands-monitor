@@ -34,5 +34,8 @@ sudo systemctl daemon-reload
 sudo systemctl enable --now stockwatch-ingest.timer stockwatch-backup.timer
 ```
 
+Database tweak made by hand (not a migration): `alter role anon set statement_timeout = '8s'` (Supabase's
+default is 3 s). With all 90 brands the change-log summary took about 2 s on the server.
+
 Free-tier caveats: Oracle may reclaim an Always Free instance that stays idle (upgrading the account to
 Pay As You Go, still free within the limits, avoids that). Backups live on the same disk.
