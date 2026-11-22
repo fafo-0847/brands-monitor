@@ -2,7 +2,7 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
 
-import { dayLabel, formatAgo, formatCount, formatPrice, formatPriceShort, isStale, percentChange } from './format.ts';
+import { dayLabel, formatAgo, formatCount, formatPrice, formatPriceShort, formatTime, isStale, percentChange, roundLabel } from './format.ts';
 import { cycle, passes, stateOf } from './tristate.ts';
 import { activeFilterCount, niceRupees, priceBands, rupeesInput } from './filters.ts';
 import { clip, extremes, isFlat, outOfStockBands, pointAt, scale, stepPath, toPoints, type Point } from './series.ts';
@@ -175,4 +175,15 @@ test('rupeesInput and activeFilterCount', () => {
   assert.equal(activeFilterCount({ categories: [], priceMin: null, onSale: false }), 0);
   assert.equal(activeFilterCount({ excludeBrandIds: [3], priceMax: 500000, changeKinds: ['price_drop'], outOfStock: true }), 4);
   assert.equal(activeFilterCount({ brandIds: [1], excludeBrandIds: [2] }), 1);
+});
+
+test('formatTime and roundLabel', () => {
+  const at = (h: number, m: number, d = 22) => new Date(2026, 10, d, h, m).toISOString();
+  const now = new Date(2026, 10, 22, 20, 0);
+  assert.equal(formatTime(at(6, 5)), '6:05 am');
+  assert.equal(formatTime(at(0, 30)), '12:30 am');
+  assert.equal(formatTime(at(13, 40)), '1:40 pm');
+  assert.equal(roundLabel(at(6, 10), at(8, 52), ['2026-11-22'], now), '6:10 am – 8:52 am');
+  assert.equal(roundLabel(at(18, 0, 21), at(20, 45, 21), ['2026-11-22'], now), 'Yesterday, 6:00 pm – 8:45 pm');
+  assert.equal(roundLabel(at(6, 10), at(8, 52), ['2026-11-21', '2026-11-22'], now), 'Today, 6:10 am – 8:52 am');
 });

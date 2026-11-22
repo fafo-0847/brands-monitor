@@ -8,6 +8,7 @@ import { PanelSection, SidePanel } from '@/components/side-panel';
 import {
   brandTypes,
   changeDays,
+  changeRounds,
   COUNT_CAP,
   listBrands,
   PRODUCT_CHANGE_KINDS,
@@ -16,7 +17,7 @@ import {
   type SearchParams,
   type SortKey,
 } from '@/lib/api';
-import { dayLabel, formatCount } from '@/lib/format';
+import { dayLabel, formatCount, roundLabel } from '@/lib/format';
 import { cycle, stateOf } from '@/lib/tristate';
 
 export const CATEGORIES = [
@@ -85,12 +86,21 @@ function OpenPanel({ visible, value, onClose, onApply, brandId, showSizes = true
     queryFn: () => searchPriceStats(draft),
   });
   const days = useQuery({ queryKey: ['change-days'], queryFn: changeDays });
+  // Older saved state may still hold the single-day form.
+  const chosenDays = draft.changedDays ?? (draft.changedDay ? [draft.changedDay] : []);
+  const rounds = useQuery({
+    queryKey: ['change-rounds', chosenDays],
+    queryFn: () => changeRounds(chosenDays),
+    enabled: chosenDays.length > 0,
+  });
   const brands = useQuery({ queryKey: ['brands'], queryFn: listBrands, enabled: !brandId });
   const types = useQuery({ queryKey: ['brand-types', brandId], queryFn: () => brandTypes(brandId!), enabled: Boolean(brandId) });
   const [allTypes, setAllTypes] = useState(false);
 
   const sort = draft.sort ?? (draft.query ? 'relevance' : 'recent_activity');
-  const changedOn = draft.changedDay ? draft.changedDay : draft.changedAnyDay ? 'any' : 'off';
+  const changedOn = chosenDays.length > 0 ? 'days' : draft.changedAnyDay ? 'any' : 'off';
+  const setDays = (next: string[]) =>
+    set({ changedDays: next, changedDay: null, changedRounds: [], changedAnyDay: false });
   const categoryLists = { include: draft.categories ?? [], exclude: draft.excludeCategories ?? [] };
   const brandLists = { include: draft.brandIds ?? [], exclude: draft.excludeBrandIds ?? [] };
   const stock = draft.inStock ? 'in' : draft.outOfStock ? 'out' : 'any';
@@ -120,20 +130,34 @@ function OpenPanel({ visible, value, onClose, onApply, brandId, showSizes = true
         ))}
       </PanelSection>
 
-      <PanelSection title="In the change log" hint="Only articles that changed on the chosen day (or any day).">
+      <PanelSection title="In the change log" hint="Only articles that changed on the chosen days (or any day).">
         <Chip label="Off" selected={changedOn === 'off'}
-          onPress={() => set({ changedDay: null, changedAnyDay: false, changeKinds: [] })} />
+          onPress={() => set({ changedDay: null, changedDays: [], changedRounds: [], changedAnyDay: false, changeKinds: [] })} />
         <Chip label="Any day" selected={changedOn === 'any'}
-          onPress={() => set({ changedDay: null, changedAnyDay: true })} />
+          onPress={() => set({ changedDay: null, changedDays: [], changedRounds: [], changedAnyDay: true })} />
         {(days.data ?? []).slice(0, 14).map((item) => (
           <Chip
             key={item.day}
             label={dayLabel(item.day)}
-            selected={changedOn === item.day}
-            onPress={() => set({ changedDay: item.day, changedAnyDay: false })}
+            selected={chosenDays.includes(item.day)}
+            onPress={() => setDays(toggle(chosenDays, item.day))}
           />
         ))}
       </PanelSection>
+      {changedOn === 'days' && (rounds.data?.length ?? 0) > 0 ? (
+        <PanelSection title="Checks" hint="Each check looks at every brand once. Whole day shows them all.">
+          <Chip label="Whole day" selected={(draft.changedRounds ?? []).length === 0} onPress={() => set({ changedRounds: [] })} />
+          {(rounds.data ?? []).map((item) => (
+            <Chip
+              key={item.round_id}
+              label={roundLabel(item.started_at, item.ended_at, chosenDays)}
+              selected={draft.changedRounds?.includes(item.round_id)}
+              onPress={() => set({ changedRounds: toggle(draft.changedRounds, item.round_id) })}
+              accessibilityLabel={`Check ${roundLabel(item.started_at, item.ended_at, chosenDays)}`}
+            />
+          ))}
+        </PanelSection>
+      ) : null}
       {changedOn !== 'off' ? (
         <PanelSection title="Kind of change" hint="None selected means any kind.">
           {PRODUCT_CHANGE_KINDS.map((kind) => (

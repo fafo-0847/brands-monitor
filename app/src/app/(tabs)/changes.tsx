@@ -16,6 +16,7 @@ import { useTheme } from '@/hooks/use-theme';
 import {
   changeDays,
   changePriceStats,
+  changeRounds,
   changeSummary,
   CHANGES_PAGE_SIZE,
   recentChanges,
@@ -24,21 +25,26 @@ import {
   type ChangeKind,
   type ChangeSort,
   type ChangeSummaryRow,
+  type ChangeWindow,
 } from '@/lib/api';
 import { activeFilterCount } from '@/lib/filters';
-import { dayLabel, formatCount } from '@/lib/format';
+import { dayLabel, formatCount, roundLabel } from '@/lib/format';
 import { cycle, passes, stateOf, type TriLists } from '@/lib/tristate';
 
-/** Everything the Changes tab is filtered by. The day is chosen in the panel like any other filter. */
+/**
+ * Everything the Changes tab is filtered by. Days and rounds are chosen in the panel like any other
+ * filter: no day means the latest one, no round means the whole of the chosen days.
+ */
 type ChangeState = {
-  day: string | null;
+  days: string[];
+  rounds: number[];
   sort: ChangeSort;
   kinds: ChangeKind[];
   brands: TriLists<number>;
   filter: ChangeFilter;
 };
 
-const EMPTY: Omit<ChangeState, 'day'> = { sort: 'recent', kinds: [], brands: { include: [], exclude: [] }, filter: {} };
+const EMPTY: Omit<ChangeState, 'days' | 'rounds'> = { sort: 'recent', kinds: [], brands: { include: [], exclude: [] }, filter: {} };
 
 const SORTS: { key: ChangeSort; label: string }[] = [
   { key: 'recent', label: 'Newest' },
@@ -62,32 +68,40 @@ function toggle<T>(list: T[] | undefined, key: T): T[] {
   return current.includes(key) ? current.filter((item) => item !== key) : [...current, key];
 }
 
+/** "Today", "Today, Yesterday" or "3 days". */
+function daysLabel(days: string[]): string {
+  if (days.length > 2) return `${days.length} days`;
+  return [...days].sort().reverse().map((day) => dayLabel(day)).join(', ');
+}
+
 /** Counts for a state: the server applies price, category, gender and stock; brand and kind are applied here. */
-function useSummary(day: string | null, filter: ChangeFilter) {
+function useSummary(range: ChangeWindow, filter: ChangeFilter) {
   return useQuery({
-    queryKey: ['change-summary', day, filter],
-    queryFn: () => changeSummary(day!, filter),
-    enabled: Boolean(day),
+    queryKey: ['change-summary', range, filter],
+    queryFn: () => changeSummary(range, filter),
+    enabled: range.days.length > 0,
   });
 }
 
 /** Everything that changed across brands in each check, with earlier days in the filter panel. */
 export default function ChangesScreen() {
   const days = useQuery({ queryKey: ['change-days'], queryFn: changeDays });
-  const [state, setState] = useState<ChangeState>({ day: null, ...EMPTY });
+  const [state, setState] = useState<ChangeState>({ days: [], rounds: [], ...EMPTY });
   const [panelOpen, setPanelOpen] = useState(false);
-  const day = state.day ?? days.data?.[0]?.day ?? null;
+  const latest = days.data?.[0]?.day ?? null;
+  const shownDays = state.days.length > 0 ? state.days : latest ? [latest] : [];
+  const range: ChangeWindow = { days: shownDays, rounds: state.rounds };
   const theme = useTheme();
 
-  const summary = useSummary(day, state.filter);
+  const summary = useSummary(range, state.filter);
   const total = sum(summary.data ?? [], (row) => passes(state.brands, row.brand_id)
     && (state.kinds.length === 0 || state.kinds.includes(row.kind)));
 
   const list = useInfiniteQuery({
-    queryKey: ['changes', day, state],
+    queryKey: ['changes', range, state],
     queryFn: ({ pageParam }) => recentChanges({
       ...state.filter,
-      day: day!,
+      ...range,
       brandIds: state.brands.include,
       excludeBrandIds: state.brands.exclude,
       kinds: state.kinds,
@@ -95,7 +109,7 @@ export default function ChangesScreen() {
     }, pageParam),
     initialPageParam: 0,
     getNextPageParam: (last, pages) => (last.length === CHANGES_PAGE_SIZE ? pages.length : undefined),
-    enabled: Boolean(day),
+    enabled: shownDays.length > 0,
   });
   const items = list.data?.pages.flat() ?? [];
   const filterCount = activeFilterCount({
@@ -107,7 +121,7 @@ export default function ChangesScreen() {
 
   if (days.isPending) return <Screen><Loading /></Screen>;
   if (days.isError) return <Screen><ErrorMessage error={days.error} onRetry={() => days.refetch()} /></Screen>;
-  if (!day) {
+  if (shownDays.length === 0) {
     return (
       <Screen>
         <Message
@@ -124,7 +138,9 @@ export default function ChangesScreen() {
         <View style={styles.titles}>
           <ThemedText style={styles.heading} accessibilityRole="header">Changes</ThemedText>
           <ThemedText type="smallBold" themeColor="textSecondary" accessibilityLiveRegion="polite">
-            {dayLabel(day)} · {summary.isPending ? 'counting…' : `${formatCount(total)} ${total === 1 ? 'change' : 'changes'}`}
+            {daysLabel(shownDays)}
+            {state.rounds.length > 0 ? ` · ${state.rounds.length} ${state.rounds.length === 1 ? 'check' : 'checks'}` : ''}
+            {' · '}{summary.isPending ? 'counting…' : `${formatCount(total)} ${total === 1 ? 'change' : 'changes'}`}
             {state.sort !== 'recent' ? ` · ${SORTS.find((item) => item.key === state.sort)?.label}` : ''}
           </ThemedText>
         </View>
@@ -137,7 +153,7 @@ export default function ChangesScreen() {
         ListEmptyComponent={
           list.isPending ? <Loading />
           : list.isError ? <ErrorMessage error={list.error} onRetry={() => list.refetch()} />
-          : <Message title="No changes match" detail="Open Filters to clear one or pick another day." />
+          : <Message title="No changes match" detail="Open Filters to clear one or pick other days or checks." />
         }
         ListFooterComponent={
           list.isFetchingNextPage ? <ActivityIndicator style={styles.footer} color={theme.textSecondary} /> : <View style={styles.footer} />
@@ -157,7 +173,7 @@ export default function ChangesScreen() {
       {panelOpen ? (
         <ChangeFilterPanel
           days={days.data}
-          value={{ ...state, day }}
+          value={{ ...state, days: shownDays }}
           onClose={() => setPanelOpen(false)}
           onApply={setState}
         />
@@ -184,9 +200,16 @@ function ChangeFilterPanel({ days, value, onClose, onApply }: {
   const set = (patch: Partial<ChangeState>) => setDraft((current) => ({ ...current, ...patch }));
   const setFilter = (patch: Partial<ChangeFilter>) => setDraft((current) => ({ ...current, filter: { ...current.filter, ...patch } }));
 
-  const summary = useSummary(draft.day, draft.filter);
+  const range: ChangeWindow = { days: draft.days, rounds: draft.rounds };
+  const summary = useSummary(range, draft.filter);
   const rows = useMemo(() => summary.data ?? [], [summary.data]);
-  const stats = useQuery({ queryKey: ['change-price-stats', draft.day], queryFn: () => changePriceStats(draft.day!), enabled: Boolean(draft.day) });
+  const stats = useQuery({ queryKey: ['change-price-stats', range], queryFn: () => changePriceStats(range), enabled: draft.days.length > 0 });
+  const rounds = useQuery({ queryKey: ['change-rounds', draft.days], queryFn: () => changeRounds(draft.days), enabled: draft.days.length > 0 });
+  // A day stays chosen: removing the last one keeps it. Changing days clears the rounds.
+  const toggleDay = (day: string) => {
+    const next = toggle(draft.days, day);
+    if (next.length > 0) set({ days: next, rounds: [] });
+  };
 
   const total = sum(rows, (row) => passes(draft.brands, row.brand_id) && (draft.kinds.length === 0 || draft.kinds.includes(row.kind)));
   const kindCount = (kind: ChangeKind) => sum(rows, (row) => row.kind === kind && passes(draft.brands, row.brand_id));
@@ -214,23 +237,38 @@ function ChangeFilterPanel({ days, value, onClose, onApply }: {
       visible
       title="Filters & sort"
       onClose={onClose}
-      onClear={() => setDraft({ day: draft.day, ...EMPTY })}
+      onClear={() => setDraft({ days: draft.days, rounds: [], ...EMPTY })}
       onApply={() => {
         onApply(draft);
         onClose();
       }}
       applyLabel={summary.isPending ? 'Show changes' : `Show ${formatCount(total)} ${total === 1 ? 'change' : 'changes'}`}>
-      <PanelSection title="Day">
+      <PanelSection title="Days" hint="Pick one or more.">
         {days.map((item) => (
           <Chip
             key={item.day}
             label={`${dayLabel(item.day)} · ${formatCount(item.changes)}`}
-            selected={item.day === draft.day}
-            onPress={() => set({ day: item.day })}
+            selected={draft.days.includes(item.day)}
+            onPress={() => toggleDay(item.day)}
             accessibilityLabel={`${dayLabel(item.day)}, ${item.changes} changes`}
           />
         ))}
       </PanelSection>
+
+      {(rounds.data?.length ?? 0) > 0 ? (
+        <PanelSection title="Checks" hint="Each check looks at every brand once. Whole day shows them all.">
+          <Chip label="Whole day" selected={draft.rounds.length === 0} onPress={() => set({ rounds: [] })} />
+          {(rounds.data ?? []).map((item) => (
+            <Chip
+              key={item.round_id}
+              label={`${roundLabel(item.started_at, item.ended_at, draft.days)} · ${formatCount(item.changes)}`}
+              selected={draft.rounds.includes(item.round_id)}
+              onPress={() => set({ rounds: toggle(draft.rounds, item.round_id) })}
+              accessibilityLabel={`Check ${roundLabel(item.started_at, item.ended_at, draft.days)}, ${item.changes} changes`}
+            />
+          ))}
+        </PanelSection>
+      ) : null}
 
       <PanelSection title="Sort by">
         {SORTS.map((item) => (

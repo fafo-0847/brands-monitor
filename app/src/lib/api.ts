@@ -103,7 +103,11 @@ export const PRODUCT_CHANGE_KINDS = [
 ] as const;
 
 export type SearchParams = {
-  /** Only products that appeared in this day's change log (YYYY-MM-DD, Pakistan time). */
+  /** Only products that appeared in these days' change log (YYYY-MM-DD, Pakistan time). */
+  changedDays?: string[];
+  /** ...and in these scrape rounds (ids from changeRounds); none means the whole days. */
+  changedRounds?: number[];
+  /** Older single-day form, still accepted. */
   changedDay?: string | null;
   /** Only products that appeared in the change log on any day. */
   changedAnyDay?: boolean;
@@ -162,7 +166,8 @@ function filterArgs(params: SearchParams) {
     p_types: orNull(params.types),
     p_exclude_brand_ids: orNull(params.excludeBrandIds),
     p_exclude_categories: orNull(params.excludeCategories),
-    p_changed_day: params.changedDay ?? null,
+    p_changed_days: orNull(params.changedDays) ?? (params.changedDay ? [params.changedDay] : null),
+    p_changed_rounds: orNull(params.changedRounds),
     // "Any day" without chosen kinds means any kind of change.
     p_change_kinds: orNull(params.changeKinds) ?? (params.changedAnyDay ? [...PRODUCT_CHANGE_KINDS] : null),
   };
@@ -185,9 +190,9 @@ export function searchPriceStats(params: SearchParams): Promise<PriceStats> {
   return rpc<PriceStats>('search_price_stats', compact(filterArgs({ ...params, priceMin: null, priceMax: null })));
 }
 
-/** Price spread of one day's changes. */
-export function changePriceStats(day: string): Promise<PriceStats> {
-  return rpc<PriceStats>('change_price_stats', { p_day: day });
+/** Price spread of the changes on these days (and rounds). */
+export function changePriceStats(window: ChangeWindow): Promise<PriceStats> {
+  return rpc<PriceStats>('change_price_stats', compact(windowArgs(window)));
 }
 
 export function searchCount(params: SearchParams): Promise<number> {
@@ -208,6 +213,16 @@ export type ChangeKind =
   | 'new_product' | 'sale_started' | 'sale_ended' | 'removed';
 
 export type ChangeDay = { day: string; changes: number };
+
+/** One run of the scraper: every brand checked once, a few hours long. */
+export type ChangeRound = { round_id: number; started_at: string; ended_at: string; brands: number; changes: number };
+
+/** Which part of the change log: one or more days, optionally narrowed to some rounds. */
+export type ChangeWindow = { days: string[]; rounds?: number[] };
+
+function windowArgs(window: ChangeWindow) {
+  return { p_days: orNull(window.days), p_rounds: orNull(window.rounds) };
+}
 
 export type ChangeSummaryRow = {
   brand_id: number;
@@ -248,9 +263,14 @@ export function changeDays(): Promise<ChangeDay[]> {
   return rpc<ChangeDay[]>('change_days', {});
 }
 
-export function changeSummary(day: string, filter: ChangeFilter = {}): Promise<ChangeSummaryRow[]> {
+/** Rounds that checked brands on these days, newest first, with their number of changes on those days. */
+export function changeRounds(days: string[]): Promise<ChangeRound[]> {
+  return rpc<ChangeRound[]>('change_rounds', compact({ p_days: orNull(days) }));
+}
+
+export function changeSummary(window: ChangeWindow, filter: ChangeFilter = {}): Promise<ChangeSummaryRow[]> {
   return rpc<ChangeSummaryRow[]>('change_summary', compact({
-    p_day: day,
+    ...windowArgs(window),
     p_price_min: filter.priceMin ?? null,
     p_price_max: filter.priceMax ?? null,
     p_categories: orNull(filter.categories),
@@ -261,8 +281,7 @@ export function changeSummary(day: string, filter: ChangeFilter = {}): Promise<C
 }
 
 export function recentChanges(
-  filter: ChangeFilter & {
-    day: string;
+  filter: ChangeFilter & ChangeWindow & {
     brandIds: number[];
     excludeBrandIds: number[];
     kinds: ChangeKind[];
@@ -271,7 +290,7 @@ export function recentChanges(
   page: number,
 ): Promise<Change[]> {
   return rpc<Change[]>('recent_changes', compact({
-    p_day: filter.day,
+    ...windowArgs(filter),
     p_brand_ids: orNull(filter.brandIds),
     p_exclude_brand_ids: orNull(filter.excludeBrandIds),
     p_exclude_categories: orNull(filter.excludeCategories),

@@ -57,6 +57,21 @@ export function dayLabel(day: string, now: Date = new Date()): string {
   return `${date} ${MONTHS[month - 1]}${year === now.getFullYear() ? '' : ` ${year}`}`;
 }
 
+/** "6:10 am" in the device's time zone. */
+export function formatTime(value: string | number | Date): string {
+  const date = new Date(value);
+  const hours = date.getHours();
+  return `${hours % 12 || 12}:${String(date.getMinutes()).padStart(2, '0')} ${hours < 12 ? 'am' : 'pm'}`;
+}
+
+/** A scrape round: "6:10 am – 8:52 am", with the day when it is not one of the shown days. */
+export function roundLabel(startedAt: string, endedAt: string, shownDays: string[] = [], now: Date = new Date()): string {
+  const start = new Date(startedAt);
+  const day = `${start.getFullYear()}-${String(start.getMonth() + 1).padStart(2, '0')}-${String(start.getDate()).padStart(2, '0')}`;
+  const prefix = shownDays.length === 1 && shownDays[0] === day ? '' : `${dayLabel(day, now)}, `;
+  return `${prefix}${formatTime(startedAt)} – ${formatTime(endedAt)}`;
+}
+
 /** Percentage change from old to new, rounded; null when it cannot be computed. */
 export function percentChange(oldPrice: number | null, newPrice: number | null): number | null {
   if (!oldPrice || newPrice === null || newPrice === undefined) return null;

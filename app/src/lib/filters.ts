@@ -70,6 +70,8 @@ export function activeFilterCount(filters: {
   outOfStock?: boolean;
   onSale?: boolean;
   changedDay?: string | null;
+  changedDays?: string[];
+  changedRounds?: number[];
   changedAnyDay?: boolean;
   changeKinds?: string[];
   stock?: 'in' | 'out' | null;
@@ -84,6 +86,6 @@ export function activeFilterCount(filters: {
       || (filters.priceMax !== null && filters.priceMax !== undefined),
     Boolean(filters.inStock || filters.outOfStock || filters.stock),
     Boolean(filters.onSale),
-    Boolean(filters.changedDay || filters.changedAnyDay || hasList(filters.changeKinds)),
+    Boolean(filters.changedDay || filters.changedAnyDay || hasList(filters.changedDays) || hasList(filters.changeKinds)),
   ].filter(Boolean).length;
 }
