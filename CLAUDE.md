@@ -49,7 +49,7 @@ Separate from `monitor.py` (which must stay unchanged). `brands/probe.py` → `b
 
 ## App database pipeline (`pipeline/`, `supabase/`)
 
-Loads `monitor-state` snapshots into the Postgres database the mobile app reads (product spec: `PRD.md`; details: `pipeline/README.md`). It only reads the branch; the scraper does not depend on it. `pipeline/ingest.py` treats each commit touching `brands/<slug>/state.json` as one scan, loaded in one transaction and keyed by brand + commit SHA, so re-running is a no-op and the backfill and daily run share one code path. Schema and RLS live in `supabase/migrations/` (applied by `python -m pipeline.migrate`). CI: `ingest.yml` (after the brands workflow; needs the `DATABASE_URL` secret, does nothing without it) and `pipeline-tests.yml`.
+Loads `monitor-state` snapshots into the Postgres database the mobile app reads (product spec: `PRD.md`; details: `pipeline/README.md`). It only reads the branch; the scraper does not depend on it. `pipeline/ingest.py` treats each commit touching `brands/<slug>/state.json` as one scan, loaded in one transaction and keyed by brand + commit SHA, so re-running is a no-op and the backfill and daily run share one code path. Schema and RLS live in `supabase/migrations/` (applied by `python -m pipeline.migrate`). Since 2026-11-22 the database is self-hosted Supabase on an Oracle server, which runs ingest itself on a systemd timer (`deploy/oracle/`); `ingest.yml` is manual-only and loads into the old Supabase cloud project. CI: `pipeline-tests.yml`.
 
 ```bash
 pip install -r pipeline/requirements.txt
