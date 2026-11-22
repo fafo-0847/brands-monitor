@@ -3,7 +3,7 @@
   "source": "https://www.threadsandmotifs.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-22T10:18:45.425610+00:00",
+  "checked_at": "2026-11-22T22:42:53.107208+00:00",
   "products": {
     "7330695577635": {
       "id": "7330695577635",
@@ -6434,6 +6434,7 @@
         "pret",
         "size-large",
         "size-medium",
+        "size-small",
         "velvet"
       ],
       "images": [
@@ -6472,7 +6473,7 @@
             "Small"
           ],
           "sku": "12391-S",
-          "available": false,
+          "available": true,
           "price": 2400000,
           "compare_at_price": null
         },
