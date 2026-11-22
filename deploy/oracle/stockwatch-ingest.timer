@@ -1,0 +1,9 @@
+[Unit]
+Description=StockWatch PK: check for a finished scrape every 15 minutes
+
+[Timer]
+OnCalendar=*:0/15
+Persistent=true
+
+[Install]
+WantedBy=timers.target

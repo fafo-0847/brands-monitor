@@ -1,0 +1,14 @@
+[Unit]
+Description=StockWatch PK: load new snapshots into the database
+After=network-online.target docker.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=ubuntu
+WorkingDirectory=/home/ubuntu/stockwatch
+# Code (and migrations) follow the main branch, as the GitHub workflow did.
+ExecStartPre=/usr/bin/git -C /home/ubuntu/stockwatch pull -q --ff-only origin main
+ExecStart=/bin/sh /home/ubuntu/stockwatch/deploy/oracle/ingest.sh
+TimeoutStartSec=4h
+Nice=10

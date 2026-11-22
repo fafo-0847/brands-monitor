@@ -1,0 +1,14 @@
+# StockWatch PK: only the two APIs the app uses are public. Studio is reached through an SSH tunnel.
+{$PROXY_DOMAIN} {
+    @app_api path /auth/v1/* /rest/v1/*
+
+    handle @app_api {
+        reverse_proxy api-gw:8000
+    }
+
+    handle {
+        respond 404
+    }
+
+    header -server
+}

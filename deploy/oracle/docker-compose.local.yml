@@ -1,0 +1,10 @@
+# StockWatch PK: keep the database, pooler and Studio reachable only from this server.
+# Studio from your PC: ssh -i <key> -L 3000:127.0.0.1:3000 ubuntu@<server>, then open http://localhost:3000
+services:
+  supavisor:
+    ports: !override
+      - "127.0.0.1:5432:5432"
+      - "127.0.0.1:6543:6543"
+  studio:
+    ports:
+      - "127.0.0.1:3000:3000"

@@ -1,8 +1,8 @@
 name: Ingest snapshots into the database
+# Manual only since 2026-11-22: the app's database moved to the Oracle server, which loads new
+# snapshots itself (deploy/oracle/). This workflow still loads into the Supabase cloud project in
+# NEW_DATABASE_URL (or DATABASE_URL) when run by hand.
 on:
-  workflow_run:
-    workflows: ['Monitor Pakistan fashion brands (incl. Khushposh, Outfitters)']
-    types: [completed]
   workflow_dispatch:
     inputs:
       brands:
