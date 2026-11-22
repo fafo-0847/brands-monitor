@@ -76,6 +76,16 @@ def commits_after(slug, ref, cursor, cwd=ROOT):
     return out.decode().split()
 
 
+# The scrape workflow names its run in each snapshot commit: "Update <brand> catalog state (run <id>)".
+_RUN_ID = re.compile(r'\(run (\d+)\)')
+
+
+def run_of(sha, cwd=ROOT):
+    """The GitHub run that made this commit, or None for older commits without one."""
+    match = _RUN_ID.search(git('log', '-1', '--format=%s', sha, cwd=cwd).decode())
+    return int(match.group(1)) if match else None
+
+
 def load_snapshot(slug, sha, cwd=ROOT):
     return json.loads(git('show', f'{sha}:{state_path(slug)}', cwd=cwd))
 
@@ -453,7 +463,7 @@ MERGE = (
 )
 
 
-def ingest_snapshot(conn, brand, sha, snapshot, *, now=None, force=False, brand_types=None):
+def ingest_snapshot(conn, brand, sha, snapshot, *, now=None, force=False, brand_types=None, run_id=None):
     """Load one snapshot. Returns 'ok', 'skipped' (already loaded) or raises Rejected.
 
     brand is a row with id, name and granularity. The caller owns the connection; this function
@@ -491,8 +501,8 @@ def ingest_snapshot(conn, brand, sha, snapshot, *, now=None, force=False, brand_
         first = not cur.execute('select exists (select 1 from products where brand_id = %s)',
                                 (brand['id'],)).fetchone()[0]
         scan = cur.execute(
-            "insert into scans (brand_id, commit_sha, checked_at, status) values (%s, %s, %s, 'ok') returning id",
-            (brand['id'], sha, checked_at)).fetchone()[0]
+            "insert into scans (brand_id, commit_sha, checked_at, status, run_id) values (%s, %s, %s, 'ok', %s) returning id",
+            (brand['id'], sha, checked_at, run_id)).fetchone()[0]
         params = {'brand': brand['id'], 'brand_name': brand['name'], 'scan': scan, 'sha': sha, 'at': checked_at,
                   'first': first, 'notifiable': now - checked_at <= NOTIFY_WINDOW,
                   'by_variant': brand['granularity'] == 'variant'}
@@ -573,7 +583,7 @@ def ingest_brand(conn, brand, ref, *, force=False, max_commits=None, cwd=ROOT, n
         snapshot = load_snapshot(brand['slug'], sha, cwd=cwd)
         try:
             counts[ingest_snapshot(conn, brand, sha, snapshot, now=now, force=force,
-                                   brand_types=brand_types)] += 1
+                                   brand_types=brand_types, run_id=run_of(sha, cwd=cwd))] += 1
         except Rejected as exc:
             counts['rejected'] += 1
             record_rejection(conn, brand, sha, snapshot, str(exc))
