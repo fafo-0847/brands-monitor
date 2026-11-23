@@ -3,7 +3,7 @@
   "source": "https://zeenwoman.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-22T20:34:47.647010+00:00",
+  "checked_at": "2026-11-23T09:07:37.135849+00:00",
   "products": {
     "8213933293708": {
       "id": "8213933293708",
@@ -82310,7 +82310,7 @@
             "Jacquard"
           ],
           "sku": "WAS14674",
-          "available": true,
+          "available": false,
           "price": 289500,
           "compare_at_price": 579000
         },
@@ -82367,7 +82367,7 @@
           "compare_at_price": 579000
         }
       },
-      "available": true
+      "available": false
     },
     "8272120152204": {
       "id": "8272120152204",
@@ -88714,7 +88714,7 @@
             "Velvet"
           ],
           "sku": "WZS14408",
-          "available": true,
+          "available": false,
           "price": 499500,
           "compare_at_price": 999000
         },
@@ -98848,7 +98848,7 @@
             "Yarn Dyed"
           ],
           "sku": "WLM25432",
-          "available": true,
+          "available": false,
           "price": 414500,
           "compare_at_price": 829000
         },
@@ -108224,133 +108224,6 @@
       },
       "available": false
     },
-    "8194697724044": {
-      "id": "8194697724044",
-      "title": "Stitched 2-Piece",
-      "handle": "stitched-2-piece-embroidered-chiffon-suit-wzm25166-chrome",
-      "url": "https://zeenwoman.com/products/stitched-2-piece-embroidered-chiffon-suit-wzm25166-chrome",
-      "vendor": "Ready To Wear",
-      "type": "Summer 2026",
-      "description": "<style>\n  .product-details {\n    font-family: 'Lato', Arial, sans-serif;\n    font-size: 14px;\n    line-height: 1.35;\n    color: #000000;\n    font-weight: 300;\n  }\n\n  .product-details p {\n    margin: 0 0 15px 0;\n  }\n\n  .product-details .title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 15px;\n  }\n\n  .product-details .section-title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 2px;\n  }\n\n  .product-details strong {\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .product-details .note {\n    margin-top: 5px;\n    margin-bottom: 0;\n  }\n</style>\n<div class=\"product-details\">\n<p class=\"title\"><span style=\"text-decoration: underline;\">PRODUCT DETAILS</span></p>\n<span class=\"section-title\">Shirt: </span>Embroidered <br><strong>Fit Type: </strong>Regular Fit <br><strong>Fabric: </strong>ChiffonÂ <br><strong>Color: </strong>ChromeÂ <br><strong>Hand Feel: </strong>Soft</div>\n<div class=\"product-details\">\n<strong>Lining:Â </strong>Raw Silk<br><br><span class=\"section-title\">Trousers: </span>Printed CulottesÂ <br><strong>Fit Type: </strong>Regular FitÂ <br><strong>Fabric: </strong>Raw SilkÂ <br><strong>Color: </strong>ChromeÂ <br><strong>Hand Feel: </strong>Soft <br><br><strong>Size &amp; Care Instructions:</strong> <br>*The model (height 5'5) is wearing a size 10 (S) <br>Dry Clean Recommended <br>Iron on Medium <br><br><strong>Note:</strong><br>Product color may vary slightly due to photographic lighting sources or phone settings.</div>",
-      "tags": [
-        "2 Piece",
-        "50%",
-        "Chiffon",
-        "Chrome",
-        "Embroidered",
-        "Festive Edit 26",
-        "Ready to Wear",
-        "Sale",
-        "Sale26",
-        "Suit",
-        "WZM25166",
-        "WZM25166-SimplifiedSizechart"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM25166-1.jpg?v=1752133518",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM25166-2.jpg?v=1752133518",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM25166-3.jpg?v=1752133517",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM25166-4.jpg?v=1752133517",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM25166-5.jpg?v=1752133517",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM25166-6.jpg?v=1752133517",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM25166.jpg?v=1752133517"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Chrome"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "XS (8)",
-            "S (10)",
-            "M (12)",
-            "L (14)",
-            "XL (16)"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 3,
-          "values": [
-            "Chiffon"
-          ]
-        }
-      ],
-      "variants": {
-        "44557948944524": {
-          "id": "44557948944524",
-          "title": "Chrome / XS (8) / Chiffon",
-          "options": [
-            "Chrome",
-            "XS (8)",
-            "Chiffon"
-          ],
-          "sku": "WZM25166",
-          "available": true,
-          "price": 574500,
-          "compare_at_price": 1149000
-        },
-        "44557948977292": {
-          "id": "44557948977292",
-          "title": "Chrome / S (10) / Chiffon",
-          "options": [
-            "Chrome",
-            "S (10)",
-            "Chiffon"
-          ],
-          "sku": "WZM25166",
-          "available": true,
-          "price": 574500,
-          "compare_at_price": 1149000
-        },
-        "44557949010060": {
-          "id": "44557949010060",
-          "title": "Chrome / M (12) / Chiffon",
-          "options": [
-            "Chrome",
-            "M (12)",
-            "Chiffon"
-          ],
-          "sku": "WZM25166",
-          "available": false,
-          "price": 574500,
-          "compare_at_price": 1149000
-        },
-        "44557949042828": {
-          "id": "44557949042828",
-          "title": "Chrome / L (14) / Chiffon",
-          "options": [
-            "Chrome",
-            "L (14)",
-            "Chiffon"
-          ],
-          "sku": "WZM25166",
-          "available": true,
-          "price": 574500,
-          "compare_at_price": 1149000
-        },
-        "44557949075596": {
-          "id": "44557949075596",
-          "title": "Chrome / XL (16) / Chiffon",
-          "options": [
-            "Chrome",
-            "XL (16)",
-            "Chiffon"
-          ],
-          "sku": "WZM25166",
-          "available": false,
-          "price": 574500,
-          "compare_at_price": 1149000
-        }
-      },
-      "available": true
-    },
     "8194697789580": {
       "id": "8194697789580",
       "title": "Stitched 2-Piece",
@@ -112932,7 +112805,7 @@
             "Cambric"
           ],
           "sku": "WAM25124",
-          "available": true,
+          "available": false,
           "price": 608300,
           "compare_at_price": 869000
         },
@@ -112958,7 +112831,7 @@
             "Cambric"
           ],
           "sku": "WAM25124",
-          "available": true,
+          "available": false,
           "price": 608300,
           "compare_at_price": 869000
         },
@@ -112976,7 +112849,7 @@
           "compare_at_price": 869000
         }
       },
-      "available": true
+      "available": false
     },
     "8244576157836": {
       "id": "8244576157836",
@@ -120303,7 +120176,7 @@
             "Cambric"
           ],
           "sku": "WLM26307",
-          "available": true,
+          "available": false,
           "price": 384300,
           "compare_at_price": 549000
         }
@@ -121524,7 +121397,7 @@
             "10 (S)"
           ],
           "sku": "WAM25128",
-          "available": true,
+          "available": false,
           "price": 468300,
           "compare_at_price": 669000
         },
@@ -121565,7 +121438,7 @@
           "compare_at_price": 669000
         }
       },
-      "available": true
+      "available": false
     },
     "8988184477836": {
       "id": "8988184477836",
@@ -121657,7 +121530,7 @@
             "14 (L)"
           ],
           "sku": "WAM25184",
-          "available": true,
+          "available": false,
           "price": 580300,
           "compare_at_price": 829000
         },
@@ -122533,7 +122406,7 @@
             "10 (S)"
           ],
           "sku": "WAM24670",
-          "available": true,
+          "available": false,
           "price": 559300,
           "compare_at_price": 799000
         },
@@ -130610,7 +130483,7 @@
             "Khaddar"
           ],
           "sku": "WLB25861",
-          "available": true,
+          "available": false,
           "price": 664300,
           "compare_at_price": 949000
         },
@@ -132446,7 +132319,7 @@
             "M (12)"
           ],
           "sku": "WLM26464",
-          "available": true,
+          "available": false,
           "price": 599000,
           "compare_at_price": 599000
         },
@@ -138065,7 +137938,7 @@
             "XL (16)"
           ],
           "sku": "WEM2613",
-          "available": true,
+          "available": false,
           "price": 479200,
           "compare_at_price": 599000
         }
@@ -145184,7 +145057,7 @@
             "Both Side Slub"
           ],
           "sku": "WLB25625",
-          "available": true,
+          "available": false,
           "price": 545300,
           "compare_at_price": 779000
         },
@@ -145202,7 +145075,7 @@
           "compare_at_price": 779000
         }
       },
-      "available": true
+      "available": false
     },
     "11055393308812": {
       "id": "11055393308812",
@@ -145533,7 +145406,7 @@
             "Dull Raw Silk"
           ],
           "sku": "WZB25229",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 1199000
         },
@@ -145687,7 +145560,7 @@
             "Lawn"
           ],
           "sku": "WLB25301",
-          "available": true,
+          "available": false,
           "price": 539500,
           "compare_at_price": 1079000
         },
@@ -149917,7 +149790,7 @@
             "Khaddar"
           ],
           "sku": "WLM33836",
-          "available": true,
+          "available": false,
           "price": 839300,
           "compare_at_price": 1199000
         },
@@ -162945,7 +162818,7 @@
             "Organza"
           ],
           "sku": "WZM35125",
-          "available": true,
+          "available": false,
           "price": 799500,
           "compare_at_price": 1599000
         },
@@ -163504,7 +163377,7 @@
             "Lawn"
           ],
           "sku": "WLM35411",
-          "available": true,
+          "available": false,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -163530,7 +163403,7 @@
             "Lawn"
           ],
           "sku": "WLM35411",
-          "available": true,
+          "available": false,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -164041,7 +163914,7 @@
             "Lawn"
           ],
           "sku": "WLM35418",
-          "available": true,
+          "available": false,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -164054,7 +163927,7 @@
             "Lawn"
           ],
           "sku": "WLM35418",
-          "available": true,
+          "available": false,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -164067,7 +163940,7 @@
             "Lawn"
           ],
           "sku": "WLM35418",
-          "available": true,
+          "available": false,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -166720,7 +166593,7 @@
             "Lawn"
           ],
           "sku": "WLM35413",
-          "available": true,
+          "available": false,
           "price": 629300,
           "compare_at_price": 899000
         },
@@ -166733,7 +166606,7 @@
             "Lawn"
           ],
           "sku": "WLM35413",
-          "available": true,
+          "available": false,
           "price": 629300,
           "compare_at_price": 899000
         },
@@ -166746,7 +166619,7 @@
             "Lawn"
           ],
           "sku": "WLM35413",
-          "available": true,
+          "available": false,
           "price": 629300,
           "compare_at_price": 899000
         },
@@ -166759,7 +166632,7 @@
             "Lawn"
           ],
           "sku": "WLM35413",
-          "available": true,
+          "available": false,
           "price": 629300,
           "compare_at_price": 899000
         },
@@ -166772,7 +166645,7 @@
             "Lawn"
           ],
           "sku": "WLM35413",
-          "available": true,
+          "available": false,
           "price": 629300,
           "compare_at_price": 899000
         },
@@ -166790,7 +166663,7 @@
           "compare_at_price": 899000
         }
       },
-      "available": true
+      "available": false
     },
     "8200776351884": {
       "id": "8200776351884",
@@ -171440,7 +171313,7 @@
             "Yarn Dyed"
           ],
           "sku": "WLM34905",
-          "available": true,
+          "available": false,
           "price": 969000,
           "compare_at_price": 969000
         },
@@ -172761,7 +172634,7 @@
             "Jacquard"
           ],
           "sku": "WLM35114",
-          "available": true,
+          "available": false,
           "price": 839300,
           "compare_at_price": 1199000
         },
@@ -172818,7 +172691,7 @@
           "compare_at_price": 1199000
         }
       },
-      "available": true
+      "available": false
     },
     "8272063627404": {
       "id": "8272063627404",
@@ -173883,7 +173756,7 @@
             "Velvet"
           ],
           "sku": "WZM35802",
-          "available": true,
+          "available": false,
           "price": 1294300,
           "compare_at_price": 1849000
         },
@@ -177975,7 +177848,7 @@
             "Lawn"
           ],
           "sku": "WLM35296",
-          "available": true,
+          "available": false,
           "price": 944300,
           "compare_at_price": 1349000
         },
@@ -178027,7 +177900,7 @@
             "Lawn"
           ],
           "sku": "WLM35296",
-          "available": true,
+          "available": false,
           "price": 944300,
           "compare_at_price": 1349000
         },
@@ -179650,12 +179523,12 @@
             "Cotton Net"
           ],
           "sku": "WZM35222",
-          "available": true,
+          "available": false,
           "price": 1049300,
           "compare_at_price": 1499000
         }
       },
-      "available": true
+      "available": false
     },
     "8759657726092": {
       "id": "8759657726092",
@@ -180901,7 +180774,7 @@
             "14 (L)"
           ],
           "sku": "WZM35872",
-          "available": true,
+          "available": false,
           "price": 1049300,
           "compare_at_price": 1499000
         },
@@ -194194,7 +194067,7 @@
             "M (12)"
           ],
           "sku": "WZM36449",
-          "available": true,
+          "available": false,
           "price": 1899000,
           "compare_at_price": 1899000
         },
@@ -194786,7 +194659,7 @@
             "L (14)"
           ],
           "sku": "WZM36231",
-          "available": true,
+          "available": false,
           "price": 1399000,
           "compare_at_price": 1399000
         },
@@ -194996,7 +194869,7 @@
             "S (10)"
           ],
           "sku": "WZM36235",
-          "available": true,
+          "available": false,
           "price": 1599000,
           "compare_at_price": 1599000
         },
@@ -208032,64 +207905,6 @@
       },
       "available": false
     },
-    "8091984429196": {
-      "id": "8091984429196",
-      "title": "Unstitched 2-Piece",
-      "handle": "unstitched-3-piece-embroidered-lawn-chikankari-suit-wfm35170-white",
-      "url": "https://zeenwoman.com/products/unstitched-3-piece-embroidered-lawn-chikankari-suit-wfm35170-white",
-      "vendor": "Unstitched",
-      "type": "Summer 2025",
-      "description": "<p><strong>Product Detail <br></strong><span data-mce-fragment=\"1\">A timeless white unstitched 3-piece suit adorned with intricate chikankari embroidery for an effortlessly elegant look. The beautifully embroidered lawn fabric front, sleeves, and dupatta adds a touch of refinement. Paired with a dyed cambric trouser for a graceful and polished finish. The delicately embroidered lawn dupatta enhances the ensemble with its soft, flowing charm. A versatile choice for sophisticated everyday wear.</span><br></p>\n<p><strong> Top Design &amp; Color</strong><br>2.50 Mtrs Embroidered Lawn Chikankari Shirt<br>Front, Sleeves &amp; Dupatta Embroidery<br>White Color</p>\n<p><strong> Bottom Design &amp; Color</strong><br>1.50 Mtrs Dyed Cambric Bottom<br>White Color</p>\n<p><strong> Dupatta Design &amp; Color</strong><br>2.50 Mtrs Embroidered Chikankari Lawn Dupatta<br>White Color</p>\n<p><strong>Material &amp; Care </strong><br>Chikankari<br>Hand Wash<br>Warm Iron</p>\n<p><strong>Size &amp; Fit:</strong><br>*The model (height 5'5) is wearing a size 10</p>\n",
-      "tags": [
-        "2 Piece",
-        "2025",
-        "50%",
-        "Lawn",
-        "Sale",
-        "WFM35170",
-        "White",
-        "Zeen Sale"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-1_b3734aa6-e724-4bdb-882d-c1d5d7191828.jpg?v=1756110456",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-2_d4408265-0a6a-4d9c-8118-ea8c5b662431.jpg?v=1756110456",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-3_9a185d03-f091-4046-b7ac-5b8406733fec.jpg?v=1756110456",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-4.jpg?v=1756110456",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-5_04f43b33-755b-445a-97d8-e28fada513a9.jpg?v=1756110456",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170_290c10e5-f8ad-4c34-8ccd-9a735b0149b8.jpg?v=1756110456"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "White"
-          ]
-        },
-        {
-          "name": "Fabric",
-          "position": 2,
-          "values": [
-            "Chikankari Lawn"
-          ]
-        }
-      ],
-      "variants": {
-        "43879653441676": {
-          "id": "43879653441676",
-          "title": "White / Chikankari Lawn",
-          "options": [
-            "White",
-            "Chikankari Lawn"
-          ],
-          "sku": "WFM35170",
-          "available": true,
-          "price": 674500,
-          "compare_at_price": 1349000
-        }
-      },
-      "available": true
-    },
     "8147096535180": {
       "id": "8147096535180",
       "title": "Unstitched 2-Piece",
@@ -208274,7 +208089,7 @@
       "url": "https://zeenwoman.com/products/unstitched-2-piece-shirt-dupatta-suit-wfd4623-grey",
       "vendor": "Unstitched",
       "type": "Summer 2025",
-      "description": "<p><strong>Product DetailÂ <br></strong><span data-mce-fragment=\"1\">Make a colorful statement with this stunning embroidered lawn suit. The shirt features detailed embroidery on the sleeves and daman, blending playful hues with sophisticated craftsmanship. </span><br></p>\n<p><strong> Top Design &amp; Color</strong><br>1.85 Mtrs Digital Printed Embroidered Lawn Shirt<br>Sleeves &amp; Daman Embroidery<br>Lavender Color</p>\n<p><strong>Material &amp; Care </strong><br>Lawn<br>Hand Wash<br>Warm Iron</p>\n<p><strong>Size &amp; Fit:</strong><br>*The model (height 5'5) is wearing a size 10</p>",
+      "description": "<p><strong>Product Details</strong><br></p>\n<p><strong> Top Design &amp; Color</strong><br>1.85 Mtrs Digital Printed Embroidered Lawn Shirt<br>Sleeves &amp; Daman Embroidery<br>Lavender Color<br><br><strong>Dupatta Design &amp; Color<br></strong>2.50 Mtrs Dupatta<br>Lavender Color</p>\n<p><strong>Material &amp; Care </strong><br>Lawn<br>Hand Wash<br>Warm Iron</p>\n<p><strong>Size &amp; Fit:</strong><br>*The model (height 5'5) is wearing a size 10 (S)</p>",
       "tags": [
         "2 Piece",
         "2025",
@@ -215371,12 +215186,12 @@
             "Net"
           ],
           "sku": "WOM34105",
-          "available": true,
+          "available": false,
           "price": 924500,
           "compare_at_price": 1849000
         }
       },
-      "available": true
+      "available": false
     },
     "8044396019852": {
       "id": "8044396019852",
@@ -215432,6 +215247,64 @@
           "available": true,
           "price": 599500,
           "compare_at_price": 1199000
+        }
+      },
+      "available": true
+    },
+    "8091984429196": {
+      "id": "8091984429196",
+      "title": "Unstitched 3-Piece",
+      "handle": "unstitched-3-piece-embroidered-lawn-chikankari-suit-wfm35170-white",
+      "url": "https://zeenwoman.com/products/unstitched-3-piece-embroidered-lawn-chikankari-suit-wfm35170-white",
+      "vendor": "Unstitched",
+      "type": "Summer 2025",
+      "description": "<p><strong>Product Detail<br></strong><br></p>\n<p><strong> Top Design &amp; Color</strong><br>2.50 Mtrs Embroidered Lawn Chikankari Shirt<br>Front, Sleeves &amp; Dupatta Embroidery<br>White Color</p>\n<p><strong> Bottom Design &amp; Color</strong><br>1.50 Mtrs Dyed Cambric Bottom<br>White Color</p>\n<p><strong> Dupatta Design &amp; Color</strong><br>2.50 Mtrs Embroidered Chikankari Lawn Dupatta<br>White Color</p>\n<p><strong>Material &amp; Care </strong><br>Chikankari<br>Hand Wash<br>Warm Iron</p>\n<p><strong>Size &amp; Fit:</strong><br>*The model (height 5'5) is wearing a size 10</p>",
+      "tags": [
+        "2 Piece",
+        "2025",
+        "50%",
+        "Lawn",
+        "Sale",
+        "WFM35170",
+        "White",
+        "Zeen Sale"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-1_b3734aa6-e724-4bdb-882d-c1d5d7191828.jpg?v=1756110456",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-2_d4408265-0a6a-4d9c-8118-ea8c5b662431.jpg?v=1756110456",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-3_9a185d03-f091-4046-b7ac-5b8406733fec.jpg?v=1756110456",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-4.jpg?v=1756110456",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170-5_04f43b33-755b-445a-97d8-e28fada513a9.jpg?v=1756110456",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM35170_290c10e5-f8ad-4c34-8ccd-9a735b0149b8.jpg?v=1756110456"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "White"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "Chikankari Lawn"
+          ]
+        }
+      ],
+      "variants": {
+        "43879653441676": {
+          "id": "43879653441676",
+          "title": "White / Chikankari Lawn",
+          "options": [
+            "White",
+            "Chikankari Lawn"
+          ],
+          "sku": "WFM35170",
+          "available": true,
+          "price": 674500,
+          "compare_at_price": 1349000
         }
       },
       "available": true
@@ -216131,12 +216004,12 @@
             "Lawn"
           ],
           "sku": "WFM35525",
-          "available": true,
+          "available": false,
           "price": 299500,
           "compare_at_price": 599000
         }
       },
-      "available": true
+      "available": false
     },
     "8249037848716": {
       "id": "8249037848716",
@@ -224130,12 +224003,12 @@
             "Lawn"
           ],
           "sku": "WFM35411",
-          "available": false,
+          "available": true,
           "price": 249500,
           "compare_at_price": 499000
         }
       },
-      "available": false
+      "available": true
     },
     "8157108502668": {
       "id": "8157108502668",
