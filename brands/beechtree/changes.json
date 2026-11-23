@@ -1,190 +1,496 @@
 {
-  "checked_at": "2026-11-22T20:30:09.645883+00:00",
+  "checked_at": "2026-11-23T09:03:26.965739+00:00",
   "baseline_created": false,
-  "product_count": 1192,
-  "change_count": 26,
+  "product_count": 1211,
+  "change_count": 59,
   "changes": [
     {
-      "product_id": "15756994412704",
-      "title": "3 PIECE EMBROIDERED LAWN SUIT-FERN MIST (UNSTITCHED)",
-      "url": "https://beechtree.pk/products/bt12601un004164-multi",
+      "product_id": "15248151216288",
+      "title": "4 PIECE EMBROIDERED CHIFFON SUIT-EMINENCE GLOW (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt22501un006527-purple",
+      "kind": "New product",
+      "detail": "Price: PKR 7,495.00; available sizes/options: 4PC / PURPLE / CHIFFON"
+    },
+    {
+      "product_id": "15622257705120",
+      "title": "2 PIECE EMBROIDERED KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2250002pr0128-green",
+      "kind": "Product updated",
+      "detail": "tags: ['2PC-EMB', '50%OFF', 'BA-EMB-PRET', 'BA-PRET', 'BA-PRET-2PC', 'BA-PRET-2PC-SP', 'MAIN-EMB-PRET', 'MAIN-EMB-PRET-SP', 'NA-EMB-PRET', 'NA-PRET', 'NA-PRET-2PC', 'NA-PRET-2PC-SP', 'NEW-ARRIVALS-W26', 'P50%', 'PRET', 'PRET-2PC', 'PRET-2PC-SP', 'R-PRET', 'Sale', 'Sale-Pret', 'Sale-Pret-2P', 'Sale-Pret-2P-winter', 'Sale-Pret-Emb-winter', 'Sale-Pret-Winter', 'Sum21', 't_size_Pants length:38-38-39-39-', 't_size_Pants waist:13-14-15-16-', 't_size_Shirtlength:34-34-36-36-', 't_size_chest:22-23-25-26-', 't_size_shoulder:21.5-22.5-24.5-25.5-', 't_size_sleeves length:19-19-19-19-', 'trouser_size:8-10-12-14-16', 'win26'] → ['2PC-EMB', '50%OFF', 'BA-EMB-PRET', 'BA-PRET', 'BA-PRET-2PC', 'BA-PRET-2PC-SP', 'MAIN-EMB-PRET', 'MAIN-EMB-PRET-SP', 'NA-EMB-PRET', 'NA-PRET', 'NA-PRET-2PC', 'NA-PRET-2PC-SP', 'NEW-ARRIVALS-W26', 'P50%', 'PRET', 'PRET-2PC', 'PRET-2PC-SP', 'R-PRET', 'Sale', 'Sale-Pret', 'Sale-Pret-2P', 'Sale-Pret-2P-winter', 'Sale-Pret-Emb-winter', 'Sale-Pret-Winter', 'Sum21', 't_size_Pants length:38-38-39-39-', 't_size_Pants waist:13-14-15-16-', 't_size_Shirtlength:34-34-36-36-', 't_size_chest:22-23-25-26-', 't_size_shoulder:21.5-22.5-24.5-25.5-', 't_size_sleeves length:19-19-19-19-', 'trouser_size:8-10-12-14-16', 'win26', 'winter-26']",
+      "field": "tags",
+      "before": [
+        "2PC-EMB",
+        "50%OFF",
+        "BA-EMB-PRET",
+        "BA-PRET",
+        "BA-PRET-2PC",
+        "BA-PRET-2PC-SP",
+        "MAIN-EMB-PRET",
+        "MAIN-EMB-PRET-SP",
+        "NA-EMB-PRET",
+        "NA-PRET",
+        "NA-PRET-2PC",
+        "NA-PRET-2PC-SP",
+        "NEW-ARRIVALS-W26",
+        "P50%",
+        "PRET",
+        "PRET-2PC",
+        "PRET-2PC-SP",
+        "R-PRET",
+        "Sale",
+        "Sale-Pret",
+        "Sale-Pret-2P",
+        "Sale-Pret-2P-winter",
+        "Sale-Pret-Emb-winter",
+        "Sale-Pret-Winter",
+        "Sum21",
+        "t_size_Pants length:38-38-39-39-",
+        "t_size_Pants waist:13-14-15-16-",
+        "t_size_Shirtlength:34-34-36-36-",
+        "t_size_chest:22-23-25-26-",
+        "t_size_shoulder:21.5-22.5-24.5-25.5-",
+        "t_size_sleeves length:19-19-19-19-",
+        "trouser_size:8-10-12-14-16",
+        "win26"
+      ],
+      "after": [
+        "2PC-EMB",
+        "50%OFF",
+        "BA-EMB-PRET",
+        "BA-PRET",
+        "BA-PRET-2PC",
+        "BA-PRET-2PC-SP",
+        "MAIN-EMB-PRET",
+        "MAIN-EMB-PRET-SP",
+        "NA-EMB-PRET",
+        "NA-PRET",
+        "NA-PRET-2PC",
+        "NA-PRET-2PC-SP",
+        "NEW-ARRIVALS-W26",
+        "P50%",
+        "PRET",
+        "PRET-2PC",
+        "PRET-2PC-SP",
+        "R-PRET",
+        "Sale",
+        "Sale-Pret",
+        "Sale-Pret-2P",
+        "Sale-Pret-2P-winter",
+        "Sale-Pret-Emb-winter",
+        "Sale-Pret-Winter",
+        "Sum21",
+        "t_size_Pants length:38-38-39-39-",
+        "t_size_Pants waist:13-14-15-16-",
+        "t_size_Shirtlength:34-34-36-36-",
+        "t_size_chest:22-23-25-26-",
+        "t_size_shoulder:21.5-22.5-24.5-25.5-",
+        "t_size_sleeves length:19-19-19-19-",
+        "trouser_size:8-10-12-14-16",
+        "win26",
+        "winter-26"
+      ]
+    },
+    {
+      "product_id": "15685332566176",
+      "title": "3 PIECE EMBROIDERED ZARI JACQUARD SUIT (LUXURY PRET)",
+      "url": "https://beechtree.pk/products/bt1260002lp2518-mix?variant=68574660395168",
+      "kind": "Sold out",
+      "detail": "12 / MULTI / ZARI JACQUARD"
+    },
+    {
+      "product_id": "15760441245856",
+      "title": "3 PIECE PRINTED LAWN SUIT-ONYX BLOOM (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt12603un004859-black",
+      "kind": "New product",
+      "detail": "Price: PKR 2,495.00; available sizes/options: 3PC / BLACK / LAWN"
+    },
+    {
+      "product_id": "15786316169376",
+      "title": "SCARF",
+      "url": "https://beechtree.pk/products/bt1260001ac4513a-pink",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "15808687243424",
+      "title": "3 PIECE EMBROIDERED LAWN SUIT-AZTEC GOLD (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt12603un004918-multi",
+      "kind": "New product",
+      "detail": "Price: PKR 2,995.00; available sizes/options: 3PC / MULTI / LAWN"
     },
     {
       "product_id": "15824106356896",
       "title": "3 PIECE EMBROIDERED LAWN SUIT-LAVENDER SPIRIT (UNSTITCHED)",
       "url": "https://beechtree.pk/products/bt12603un004900-multi",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "kind": "New product",
+      "detail": "Price: PKR 2,995.00; available sizes/options: 3PC / MULTI / LAWN"
     },
     {
-      "product_id": "15897119785120",
-      "title": "EMBROIDERED ZARI JACQUARD SHIRT (LUXURY PRET)",
-      "url": "https://beechtree.pk/products/bt1260002lp2515a-peach?variant=68574644666528",
+      "product_id": "15837828415648",
+      "title": "EMBROIDERED STRAIGHT PANTS",
+      "url": "https://beechtree.pk/products/bt1260006pt1573-white?variant=58741531148448",
       "kind": "Sold out",
-      "detail": "8 / PEACH / JACQUARD"
+      "detail": "16 / WHITE / CAMBRIC"
     },
     {
-      "product_id": "15912035254432",
-      "title": "PRINTED SLUB KHADDAR SHIRT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260001dp2020a-multi",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "product_id": "15839455576224",
+      "title": "2 PICE EMBROIDERED LAWN SUIT-MARINE CHARM (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt12603un004741-blue",
+      "kind": "New product",
+      "detail": "Price: PKR 2,995.00; available sizes/options: 2PC / BLUE / LAWN"
+    },
+    {
+      "product_id": "15842306293920",
+      "title": "EMBROIDERED SHALWAR",
+      "url": "https://beechtree.pk/products/bt1260006pt1571-off-white?variant=58758915489952",
+      "kind": "Sold out",
+      "detail": "12 / OFF WHITE / CAMBRIC"
+    },
+    {
+      "product_id": "15863641079968",
+      "title": "EMBROIDERED RAW SILK SHIRT (LUXURY PRET)",
+      "url": "https://beechtree.pk/products/bt2250002lp2523a-aqua",
+      "kind": "New product",
+      "detail": "Price: PKR 5,995.00; available sizes/options: 8 / AQUA / RAW SILK"
+    },
+    {
+      "product_id": "15872036733088",
+      "title": "CO-ORD SET",
+      "url": "https://beechtree.pk/products/bt1260005fu4069-teal?variant=58916056662176",
+      "kind": "Sold out",
+      "detail": "12 / TEAL / POLY CREPE"
+    },
+    {
+      "product_id": "15872665878688",
+      "title": "3 PIECE EMBROIDERED LAWN SUIT-MELLOW BLOOM ( UNSTITCHED )",
+      "url": "https://beechtree.pk/products/bt12602un004591-multi",
+      "kind": "New product",
+      "detail": "Price: PKR 4,245.00; available sizes/options: 3PC / MULTI / LAWN"
+    },
+    {
+      "product_id": "15872666075296",
+      "title": "3 PIECE PRINTED LAWN SUIT-INDIGO GLAZE ( UNSTITCHED )",
+      "url": "https://beechtree.pk/products/bt12603un004821-multi",
+      "kind": "New product",
+      "detail": "Price: PKR 2,495.00; available sizes/options: 3PC / MULTI / LAWN"
+    },
+    {
+      "product_id": "15872666173600",
+      "title": "3 PIECE PRINTED LAWN SUIT-INDIGO PETAL ( UNSTITCHED )",
+      "url": "https://beechtree.pk/products/bt12603un004853-multi",
+      "kind": "New product",
+      "detail": "Price: PKR 2,495.00; available sizes/options: 3PC / MULTI / LAWN"
+    },
+    {
+      "product_id": "15884319096992",
+      "title": "3 PIECE EMBROIDERED LAWN SUIT-FLORAL FOREST (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt12603un004931-multi",
+      "kind": "New product",
+      "detail": "Price: PKR 3,245.00; available sizes/options: 3PC / MULTI / LAWN"
+    },
+    {
+      "product_id": "15884319195296",
+      "title": "3 PIECE EMBROIDERED LAWN SUIT-MIDNIGHT AURA (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt12603un004925-multi",
+      "kind": "New product",
+      "detail": "Price: PKR 3,245.00; available sizes/options: 3PC / MULTI / LAWN"
+    },
+    {
+      "product_id": "15887660875936",
+      "title": "2 PIECE EMBROIDERED POLY CREPE SUIT (FLOW)",
+      "url": "https://beechtree.pk/products/bt1260004fu4058-green?variant=68574645387424",
+      "kind": "Sold out",
+      "detail": "8 / GREEN / CREPE"
+    },
+    {
+      "product_id": "15898779517088",
+      "title": "3 PIECE PRINTED LAWN SUIT-SKY SERENITY (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt12603un004837-multi",
+      "kind": "New product",
+      "detail": "Price: PKR 2,495.00; available sizes/options: 3PC / MULTI / LAWN"
+    },
+    {
+      "product_id": "15912035451040",
+      "title": "2 PIECE PRINTED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001dp2023-mix?variant=68274377326752",
+      "kind": "Back in stock",
+      "detail": "12 / MULTI / KHADDAR"
+    },
+    {
+      "product_id": "15912035451040",
+      "title": "2 PIECE PRINTED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001dp2023-mix?variant=68274377359520",
+      "kind": "Back in stock",
+      "detail": "14 / MULTI / KHADDAR"
     },
     {
       "product_id": "15912035483808",
       "title": "2 PIECE PRINTED SLUB KHADDAR SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260001dp2024-multi?variant=68274377228448",
-      "kind": "Sold out",
-      "detail": "16 / MULTI / KHADDAR"
+      "url": "https://beechtree.pk/products/bt2260001dp2024-multi?variant=68274377195680",
+      "kind": "Back in stock",
+      "detail": "14 / MULTI / KHADDAR"
+    },
+    {
+      "product_id": "15912035844256",
+      "title": "2 PIECE SOLID TWILL SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0012-blue?variant=67676720365728",
+      "kind": "Back in stock",
+      "detail": "12 / BLUE / TWILL"
     },
     {
       "product_id": "15912035877024",
       "title": "2 PIECE SOLID TWILL SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260001pr0013-pink",
-      "kind": "New product",
-      "detail": "Price: PKR 5,243.00; available sizes/options: 14 / PINK / TWILL"
+      "url": "https://beechtree.pk/products/bt2260001pr0013-pink?variant=67676720496800",
+      "kind": "Back in stock",
+      "detail": "12 / PINK / TWILL"
     },
     {
       "product_id": "15912036171936",
       "title": "EMBROIDERED TWO WAY SLUB SHIRT (PRET)",
       "url": "https://beechtree.pk/products/bt2260001pr0028-blue?variant=67676721676448",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "14 / BLUE / TWO WAY SLUB"
     },
     {
-      "product_id": "15912036597920",
-      "title": "3 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260001pr0101-green?variant=68274373099680",
+      "product_id": "15912036237472",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR  SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0047-brown?variant=68274375131296",
       "kind": "Sold out",
-      "detail": "8 / GREEN / KHADDAR"
+      "detail": "8 / BROWN / KHADDAR"
+    },
+    {
+      "product_id": "15912036303008",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0048-pink",
+      "kind": "New product",
+      "detail": "Price: PKR 5,803.00; available sizes/options: 16 / PINK / KHADDAR"
+    },
+    {
+      "product_id": "15912036335776",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0052-purple",
+      "kind": "New product",
+      "detail": "Price: PKR 6,783.00; available sizes/options: 12 / PURPLE / KHADDAR"
+    },
+    {
+      "product_id": "15912036630688",
+      "title": "3 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0102-lilac?variant=68274373001376",
+      "kind": "Back in stock",
+      "detail": "12 / PURPLE / KHADDAR"
     },
     {
       "product_id": "15912036696224",
       "title": "2 PIECE EMBROIDERED SLUB SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260001pr0106-rust?variant=68574681071776",
+      "url": "https://beechtree.pk/products/bt2260001pr0106-rust?variant=68574681039008",
       "kind": "Sold out",
-      "detail": "12 / BROWN / TWO TONE"
+      "detail": "10 / BROWN / TWO TONE"
+    },
+    {
+      "product_id": "15912036827296",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0191-brown?variant=68274372313248",
+      "kind": "Back in stock",
+      "detail": "10 / BROWN / KHADDAR"
+    },
+    {
+      "product_id": "15912036860064",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0193-navy?variant=68274372149408",
+      "kind": "Back in stock",
+      "detail": "10 / NAVY / KHADDAR"
     },
     {
       "product_id": "15912036860064",
       "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
       "url": "https://beechtree.pk/products/bt2260001pr0193-navy?variant=68274372182176",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "12 / NAVY / KHADDAR"
     },
     {
-      "product_id": "15914595844256",
-      "title": "2 PIECE CHECKERED SUIT",
-      "url": "https://beechtree.pk/products/bk12604bgwt8620-black?variant=68274364448928",
+      "product_id": "15912037220512",
+      "title": "3 PIECE EMBROIDERED SLUB SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260002pr0186-green?variant=67676726165664",
       "kind": "Sold out",
-      "detail": "11-12Y / BLACK / DORIA"
+      "detail": "14 / GREEN / TWO WAY SLUB"
     },
     {
-      "product_id": "15916261507232",
-      "title": "2 PIECE FLORAL PRINTED SUIT",
-      "url": "https://beechtree.pk/products/bk22601gews29581a-multi?variant=68274352685216",
+      "product_id": "15912038138016",
+      "title": "3 PIECE EMBROIDERED YARN DYED JACQUARD SUIT-AURELIA (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt22601un004200-beige",
+      "kind": "New product",
+      "detail": "Price: PKR 7,992.00; available sizes/options: 3PC / BEIGE / YARN DYED"
+    },
+    {
+      "product_id": "15912123400352",
+      "title": "2 PIECE FLORAL EMBROIDERED SUIT",
+      "url": "https://beechtree.pk/products/bk22601gews29523-brown?variant=68274369101984",
       "kind": "Sold out",
+      "detail": "8-9Y / BROWN / KHADDAR"
+    },
+    {
+      "product_id": "15913618768032",
+      "title": "CROPPED TEXTURED KNIT BUTTON UP CARDIGAN",
+      "url": "https://beechtree.pk/products/bt2260001sw3608-maroon?variant=67678566711456",
+      "kind": "Back in stock",
+      "detail": "M / MAROON / ACRYLIC"
+    },
+    {
+      "product_id": "15913619194016",
+      "title": "CASHMERE TOUCH MULTI WEAVE KNITTED SHRUG",
+      "url": "https://beechtree.pk/products/bt2260001sw3655b-beige?variant=68574641455264",
+      "kind": "Back in stock",
+      "detail": "XS / BEIGE / VPN"
+    },
+    {
+      "product_id": "15913619194016",
+      "title": "CASHMERE TOUCH MULTI WEAVE KNITTED SHRUG",
+      "url": "https://beechtree.pk/products/bt2260001sw3655b-beige?variant=68574641553568",
+      "kind": "Back in stock",
+      "detail": "L / BEIGE / VPN"
+    },
+    {
+      "product_id": "15914596597920",
+      "title": "2 PIECE FLORAL PRINTED SUIT",
+      "url": "https://beechtree.pk/products/bk22601gews29580-multi?variant=68274360484000",
+      "kind": "Back in stock",
       "detail": "15-16Y / MULTI / KHADDAR"
     },
     {
-      "product_id": "15929510396064",
-      "title": "2 PIECE FLORAL EMBROIDERED SUIT",
-      "url": "https://beechtree.pk/products/bk22601gews29526-old-rose?variant=68274342297760",
+      "product_id": "15916290834592",
+      "title": "EMBROIDERED TWO WAY SLUB SHIRT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0026-red?variant=67691383259296",
+      "kind": "Back in stock",
+      "detail": "12 / RED / TWO WAY SLUB"
+    },
+    {
+      "product_id": "15916291096736",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0051-rust?variant=68274349899936",
+      "kind": "Back in stock",
+      "detail": "8 / BROWN / KHADDAR"
+    },
+    {
+      "product_id": "15916291096736",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0051-rust?variant=68274349998240",
+      "kind": "Back in stock",
+      "detail": "14 / BROWN / KHADDAR"
+    },
+    {
+      "product_id": "15916291489952",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260002pr0136-black",
+      "kind": "New product",
+      "detail": "Price: PKR 6,993.00; available sizes/options: 16 / BLACK / KHADDAR"
+    },
+    {
+      "product_id": "15916291588256",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260002pr0139-green?variant=68274346623136",
+      "kind": "Back in stock",
+      "detail": "12 / GREEN / KHADDAR"
+    },
+    {
+      "product_id": "15916291653792",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260002pr0180-brown?variant=68274346426528",
       "kind": "Sold out",
-      "detail": "3-4Y / PINK / KHADDAR"
+      "detail": "10 / BROWN / KHADDAR"
+    },
+    {
+      "product_id": "15916291653792",
+      "title": "2 PIECE EMBROIDERED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260002pr0180-brown?variant=68274346459296",
+      "kind": "Back in stock",
+      "detail": "12 / BROWN / KHADDAR"
+    },
+    {
+      "product_id": "15932807807136",
+      "title": "2 PIECE EMBROIDERED SLUB CAMBRIC SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0063-green",
+      "kind": "New product",
+      "detail": "Price: PKR 6,643.00; available sizes/options: 8 / GREEN / CAMBRIC, 10 / GREEN / SLUB CAMBRIC, 12 / GREEN / SLUB CAMBRIC, 14 / GREEN / SLUB CAMBRIC, 16 / GREEN / SLUB CAMBRIC"
+    },
+    {
+      "product_id": "15932807938208",
+      "title": "2 PIECE EMBROIDERED SLUB CAMBRIC SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0069-purple?variant=68574640275616",
+      "kind": "Back in stock",
+      "detail": "8 / PURPLE / CAMBRIC"
     },
     {
       "product_id": "15932808888480",
       "title": "2 PIECE PRINTED DORIA DOBBY SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260002dp2047-multi?variant=68274340069536",
+      "url": "https://beechtree.pk/products/bt2260002dp2047-multi?variant=68274340036768",
       "kind": "Sold out",
-      "detail": "14 / MULTI / DORIA"
+      "detail": "12 / MULTI / DORIA"
     },
     {
       "product_id": "15932809150624",
       "title": "3 PIECE EMBROIDERED SLUB SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260002pr0190-blue?variant=68574640210080",
-      "kind": "Sold out",
-      "detail": "8 / BLUE / TWO TONE"
-    },
-    {
-      "product_id": "15938110816416",
-      "title": "3 PIECE PRINTED KHADDAR SUIT-ORNATE HAZE (UNSTITCHED)",
-      "url": "https://beechtree.pk/products/bt22602un004075-multi",
+      "url": "https://beechtree.pk/products/bt2260002pr0190-blue",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "15952166584480",
-      "title": "2 PIECE EMBROIDERED YARN DYED SLUB SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260001pr0041-brown?variant=68574638702752",
-      "kind": "Sold out",
-      "detail": "8 / BROWN / TWO TONE"
+      "product_id": "15938109997216",
+      "title": "3 PIECE EMBROIDERED KHADDAR SUIT WITH SHAWL-RAVEN BLACK (UNSTITCHED)",
+      "url": "https://beechtree.pk/products/bt22601un004011-black",
+      "kind": "New product",
+      "detail": "Price: PKR 6,993.00; available sizes/options: 3PC / BLACK / KHADDAR"
     },
     {
-      "product_id": "15952166584480",
-      "title": "2 PIECE EMBROIDERED YARN DYED SLUB SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260001pr0041-brown?variant=68574677172384",
-      "kind": "Sold out",
-      "detail": "16 / BROWN / TWO TONE"
+      "product_id": "15952166453408",
+      "title": "EMBROIDERED YARN DYED SLUB SHIRT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0027-beige?variant=68274333679776",
+      "kind": "Back in stock",
+      "detail": "14 / BEIGE / TWO WAY SLUB"
     },
     {
       "product_id": "15952168026272",
       "title": "2 PIECE EMBROIDERED YARN DYED SLUB SUIT (PRET)",
       "url": "https://beechtree.pk/products/bt2260002fu1014-teal?variant=68574676975776",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "12 / GREEN / TWO TONE"
     },
     {
-      "product_id": "15952168779936",
-      "title": "EMBROIDERED TWO TONE SHIRT (LUXURY PRET)",
-      "url": "https://beechtree.pk/products/bt1260006lp2577a-turquaise?variant=68574638211232",
-      "kind": "Sold out",
-      "detail": "14 / GREEN / TWO TONE"
-    },
-    {
-      "product_id": "15958900572320",
-      "title": "2 PIECE SOLID CREPE SUIT (FLOW)",
-      "url": "https://beechtree.pk/products/bt2260001fu1006-off-white?variant=68291958866080",
-      "kind": "Back in stock",
-      "detail": "8 / OFF WHITE / CREPE"
-    },
-    {
-      "product_id": "15958900572320",
-      "title": "2 PIECE SOLID CREPE SUIT (FLOW)",
-      "url": "https://beechtree.pk/products/bt2260001fu1006-off-white?variant=68291958931616",
-      "kind": "Back in stock",
-      "detail": "12 / OFF WHITE / CREPE"
-    },
-    {
-      "product_id": "15958901063840",
+      "product_id": "15952168321184",
       "title": "2 PIECE EMBROIDERED YARN DYED SLUB SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260001pr0035-green?variant=68574676025504",
+      "url": "https://beechtree.pk/products/bt2260002pr0188-pink?variant=68236228526240",
       "kind": "Sold out",
-      "detail": "14 / GREEN / TWO TONE"
+      "detail": "14 / PINK / TWO WAY SLUB"
     },
     {
-      "product_id": "15958902898848",
-      "title": "2 PIECE EMBROIDERED YARN DYED SLUB SUIT (PRET)",
-      "url": "https://beechtree.pk/products/bt2260002pr0132-blue?variant=68574673502368",
-      "kind": "Sold out",
-      "detail": "14 / BLUE / TWO TONE"
+      "product_id": "15958903324832",
+      "title": "STRAIGHT PANTS",
+      "url": "https://beechtree.pk/products/bt2260002pt1525-off-white",
+      "kind": "New product",
+      "detail": "Price: PKR 2,093.00; available sizes/options: 8 / OFF WHITE / CAMBRIC, 10 / OFF WHITE / CAMBRIC, 12 / OFF WHITE / CAMBRIC, 14 / OFF WHITE / CAMBRIC, 16 / OFF WHITE / CAMBRIC"
     },
     {
-      "product_id": "15959116447904",
-      "title": "2 PIECE EMBROIDERED SUIT",
-      "url": "https://beechtree.pk/products/bk22601bgwd8503-beige?variant=68294131613856",
-      "kind": "Sold out",
-      "detail": "13-14Y / BEIGE / -"
+      "product_id": "15959117693088",
+      "title": "EMBROIDERED SHIRT",
+      "url": "https://beechtree.pk/products/bk22601gfws29806-pink",
+      "kind": "New product",
+      "detail": "Price: PKR 4,549.00 – PKR 5,599.00; available sizes/options: 3-4Y / PINK / -, 4-5Y / PINK / -, 5-6Y / PINK / -, 6-7Y / PINK / -, 7-8Y / PINK / -, 8-9Y / PINK / -, 9-10Y / PINK / -, 11-12Y / PINK / -, 13-14Y / PINK / -, 15-16Y / PINK / -"
     },
     {
-      "product_id": "15968759349408",
-      "title": "3 PIECE EMBROIDERED LAWN SUIT-AZURE FLORA (UNSTITCHED)",
-      "url": "https://beechtree.pk/products/bt12603un004705-purple?variant=68561920688288",
-      "kind": "Price increased",
-      "detail": "3PC / PURPLE / LAWN: PKR 3,995.00 → PKR 7,990.00"
+      "product_id": "15969326071968",
+      "title": "EMBROIDERED SLUB KHADDAR SHIRT (PRET)",
+      "url": "https://beechtree.pk/products/bt2260001pr0193a-navy",
+      "kind": "New product",
+      "detail": "Price: PKR 4,193.00; available sizes/options: 16 / NAVY / SLUB KHADDAR"
+    },
+    {
+      "product_id": "15969326956704",
+      "title": "3 PIECE PRINTED SLUB KHADDAR SUIT (PRET)",
+      "url": "https://beechtree.pk/products/bt22601un004198pr-multi",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "<ul>\n<li>\n<strong>Description: </strong>In</li> <li> <strong>Fabric: </strong>Slub Khaddar</li> <li> <strong>What You'll Get: </strong>Shirt+Pant+Dupatta</li> <li> <strong>Fit:</strong>Loose</li>\n<li>Model Height is 5'6\" </li>\n<li>Model is Wearing 8 Size</li> </ul>",
+      "after": "<ul>\n<li>\n<strong>Description: </strong>A contemporary A-line ensemble featuring a softly flared shirt with a defined silhouette and fitted sleeves. The look is complemented by coordinating trousers with printed floral details at the hem, creating a balanced and put-together silhouette. Delicate floral and polka dotted print, a contrasting front border and lace-finished hems add character to the overall design.</li>\n<li>\n<strong>Fabric: </strong>Slub Khaddar</li>\n<li>\n<strong>What You'll Get: </strong>Shirt+Pant+Dupatta</li>\n<li>\n<strong>Fit:</strong>Loose</li>\n<li>Model Height is 5'6\" </li>\n<li>Model is Wearing 8 Size</li>\n</ul>"
     }
   ]
 }
