@@ -3,7 +3,7 @@
   "source": "https://www.chinyere.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-22T22:56:31.114566+00:00",
+  "checked_at": "2026-11-23T11:38:14.161590+00:00",
   "products": {
     "10503628652709": {
       "id": "10503628652709",
@@ -6534,12 +6534,12 @@
             "STD"
           ],
           "sku": "FH002700",
-          "available": true,
+          "available": false,
           "price": 774000,
           "compare_at_price": 1290000
         }
       },
-      "available": true
+      "available": false
     },
     "10633437282469": {
       "id": "10633437282469",
@@ -16188,6 +16188,7 @@
         "Casual",
         "Embroidered",
         "Outfits",
+        "OutofStock",
         "Pret",
         "Signature Pret",
         "Winter Collection",
@@ -16242,7 +16243,7 @@
             "L"
           ],
           "sku": "CS076404",
-          "available": true,
+          "available": false,
           "price": 1000000,
           "compare_at_price": 1250000
         }
@@ -16320,7 +16321,7 @@
             "L"
           ],
           "sku": "CP044004",
-          "available": true,
+          "available": false,
           "price": 714000,
           "compare_at_price": 1190000
         }
@@ -21597,7 +21598,7 @@
             "M"
           ],
           "sku": "CS069203",
-          "available": true,
+          "available": false,
           "price": 952000,
           "compare_at_price": 1190000
         },
@@ -39929,7 +39930,7 @@
             "M"
           ],
           "sku": "CS077203",
-          "available": true,
+          "available": false,
           "price": 1272000,
           "compare_at_price": 1590000
         },
@@ -50546,7 +50547,7 @@
             "M"
           ],
           "sku": "CS072803",
-          "available": false,
+          "available": true,
           "price": 1320000,
           "compare_at_price": 1650000
         },
@@ -50562,7 +50563,7 @@
           "compare_at_price": 1650000
         }
       },
-      "available": false
+      "available": true
     },
     "10775971627173": {
       "id": "10775971627173",
@@ -55509,12 +55510,12 @@
             "L"
           ],
           "sku": "CS052004",
-          "available": true,
+          "available": false,
           "price": 1350000,
           "compare_at_price": 2250000
         }
       },
-      "available": true
+      "available": false
     },
     "10536930705573": {
       "id": "10536930705573",
@@ -62717,6 +62718,60 @@
           "available": true,
           "price": 2680000,
           "compare_at_price": 3350000
+        }
+      },
+      "available": true
+    },
+    "10888406335653": {
+      "id": "10888406335653",
+      "title": "3 Piece Velvet Embroidered Unstitched Suit (UF0050)",
+      "handle": "uf0050",
+      "url": "https://www.chinyere.pk/products/uf0050",
+      "vendor": "WINTER-26",
+      "type": "FORMAL",
+      "description": "<p><span style=\"text-decoration: underline;\"><strong>Details</strong></span></p><p><strong>Article Name: </strong>REGAL U<br><strong>Color: </strong>Black<br><strong>Fabric: </strong>Velvet<br><strong>Pieces: </strong>3 Piece Suit<br>Embrace timeless elegance with this sophisticated black velvet accented with delicate emerald green &amp; antique tilla embroidery coordinated silk lowers and embroidered border on dupatta.</p>",
+      "tags": [
+        "12Nov26",
+        "26th Sep 2026",
+        "26th Sep 2026 - Winter Collection",
+        "3 Piece Suit",
+        "974",
+        "Embroidered",
+        "Formal",
+        "Pret",
+        "UnStitched",
+        "Velvet Deluxe",
+        "Winter Collection"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0510/7535/0693/files/FallUnstitched_26Inlays7x8_2_jpg.jpg?v=1795421781",
+        "https://cdn.shopify.com/s/files/1/0510/7535/0693/files/UF0050_1.jpg?v=1794897079",
+        "https://cdn.shopify.com/s/files/1/0510/7535/0693/files/UF0050_3.jpg?v=1794897079",
+        "https://cdn.shopify.com/s/files/1/0510/7535/0693/files/UF0050_4.jpg?v=1794897079",
+        "https://cdn.shopify.com/s/files/1/0510/7535/0693/files/UF0050_5.jpg?v=1794897079",
+        "https://cdn.shopify.com/s/files/1/0510/7535/0693/files/UF0050_6.jpg?v=1794897079",
+        "https://cdn.shopify.com/s/files/1/0510/7535/0693/files/UF0050_7.jpg?v=1794897079"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "STD"
+          ]
+        }
+      ],
+      "variants": {
+        "51168366461093": {
+          "id": "51168366461093",
+          "title": "STD",
+          "options": [
+            "STD"
+          ],
+          "sku": "UF005000",
+          "available": true,
+          "price": 2650000,
+          "compare_at_price": 2650000
         }
       },
       "available": true
