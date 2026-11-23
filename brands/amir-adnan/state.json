@@ -3,7 +3,7 @@
   "source": "https://amiradnan.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-22T21:30:05.541209+00:00",
+  "checked_at": "2026-11-23T10:07:50.980164+00:00",
   "products": {
     "6627540172864": {
       "id": "6627540172864",
@@ -10424,7 +10424,7 @@
             "M"
           ],
           "sku": "FG-0002405-Iron Grey",
-          "available": true,
+          "available": false,
           "price": 150000,
           "compare_at_price": 900000
         },
@@ -16966,6 +16966,88 @@
           "available": true,
           "price": 64500000,
           "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "7043391455296": {
+      "id": "7043391455296",
+      "title": "Premium Jamawar Creme Brulee Couture Jacket",
+      "handle": "premium-jamawar-creme-brulee-couture-jacket",
+      "url": "https://amiradnan.com/products/premium-jamawar-creme-brulee-couture-jacket",
+      "vendor": "Amir Adnan",
+      "type": "",
+      "description": "<p>Crafted in Pakistan as a part of the Winter 24 Collection, this Creme Brulee jacket features self-on-self our signature design. The outer garment is created using jamawar fabric that makes the garment soft yet structured. With a straight cut, this jacket is tapered along the waist and sleeves to create a slim yet broad shouldered look. The classic fit allows for layering underneath and makes this garment perfect for formal occasions.</p>",
+      "tags": [
+        "Amir Adnan",
+        "jacket",
+        "jacket-size",
+        "nada-hidden",
+        "wedding"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/0004s_0001_FG-0002973SesamePremiumJamawarSesameCoutureJacket_1.jpg?v=1730371836",
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/0004s_0001_FG-0002973SesamePremiumJamawarSesameCoutureJacket_2.jpg?v=1730371836",
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/0004s_0001_FG-0002973SesamePremiumJamawarSesameCoutureJacket_3.jpg?v=1730371836",
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/0004s_0001_FG-0002973SesamePremiumJamawarSesameCoutureJacket_4.jpg?v=1730371836",
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/163A525100_0000_163A5249.jpg?v=1730433590"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "40418848374848": {
+          "id": "40418848374848",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "FG-0002973-Creme Brulee",
+          "available": false,
+          "price": 5000000,
+          "compare_at_price": 10000000
+        },
+        "40418848407616": {
+          "id": "40418848407616",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "FG-0002973-Creme Brulee",
+          "available": true,
+          "price": 5000000,
+          "compare_at_price": 10000000
+        },
+        "40418848440384": {
+          "id": "40418848440384",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "FG-0002973-Creme Brulee",
+          "available": false,
+          "price": 5000000,
+          "compare_at_price": 10000000
+        },
+        "40418848473152": {
+          "id": "40418848473152",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "FG-0002973-Creme Brulee",
+          "available": false,
+          "price": 5000000,
+          "compare_at_price": 10000000
         }
       },
       "available": true
