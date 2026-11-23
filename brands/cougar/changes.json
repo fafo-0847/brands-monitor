@@ -1,140 +1,561 @@
 {
-  "checked_at": "2026-11-22T21:15:26.877211+00:00",
+  "checked_at": "2026-11-23T09:53:34.256214+00:00",
   "baseline_created": false,
   "product_count": 1221,
-  "change_count": 18,
+  "change_count": 53,
   "changes": [
     {
-      "product_id": "GFT642-2Y3-PLM",
-      "title": "Shirt With Pocket Flaps",
-      "url": "https://cougar.com.pk/products/jacket-with-pocket-flaps-gft642",
+      "product_id": "DF2621-w30-BRN",
+      "title": "Relaxed Five-Pocket Jeans",
+      "url": "https://cougar.com.pk/products/relaxed-five-pocket-jeans-df2621",
       "kind": "Product updated",
-      "detail": "title: Jacket With Pocket Flaps → Shirt With Pocket Flaps",
-      "field": "title",
-      "before": "Jacket With Pocket Flaps",
-      "after": "Shirt With Pocket Flaps"
+      "detail": "handle: df2621-brn → relaxed-five-pocket-jeans-df2621",
+      "field": "handle",
+      "before": "df2621-brn",
+      "after": "relaxed-five-pocket-jeans-df2621"
     },
     {
-      "product_id": "GFT642-2Y3-PLM",
-      "title": "Shirt With Pocket Flaps",
-      "url": "https://cougar.com.pk/products/jacket-with-pocket-flaps-gft642",
+      "product_id": "DF2625-w30-SBU",
+      "title": "Skinny Fit Jeans",
+      "url": "https://cougar.com.pk/products/skinny-fit-jeans-df2625",
       "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "Design Details: Check pattern, spread collar, button front, chest pocket flaps, cropped lengthStyle: Cropped JacketFabric: Poly Woolen",
-      "after": "Design Details: Check pattern, spread collar, button front, chest pocket flaps, cropped lengthStyle: Cropped Fabric: Poly Woolen"
+      "detail": "handle: df2625-sbu → skinny-fit-jeans-df2625",
+      "field": "handle",
+      "before": "df2625-sbu",
+      "after": "skinny-fit-jeans-df2625"
+    },
+    {
+      "product_id": "GCT602-2Y3-BEI",
+      "title": "Snowdrop Fur Trim Coat",
+      "url": "https://cougar.com.pk/products/snowdrop-fur-trim-coat-gct602",
+      "kind": "Product updated",
+      "detail": "handle: gct602-bei → snowdrop-fur-trim-coat-gct602",
+      "field": "handle",
+      "before": "gct602-bei",
+      "after": "snowdrop-fur-trim-coat-gct602"
+    },
+    {
+      "product_id": "GFT605-5Y6-OFW",
+      "title": "Embroidered Dress",
+      "url": "https://cougar.com.pk/products/embroidered-dress-gft605",
+      "kind": "Product updated",
+      "detail": "handle: gft605-ofw → embroidered-dress-gft605",
+      "field": "handle",
+      "before": "gft605-ofw",
+      "after": "embroidered-dress-gft605"
+    },
+    {
+      "product_id": "GJK614-7Y8-BRN",
+      "title": "Little Explorer Bomber Jacket",
+      "url": "https://cougar.com.pk/products/little-explorer-bomber-jacket-gjk614",
+      "kind": "Product updated",
+      "detail": "handle: gjk614-brn → little-explorer-bomber-jacket-gjk614",
+      "field": "handle",
+      "before": "gjk614-brn",
+      "after": "little-explorer-bomber-jacket-gjk614"
+    },
+    {
+      "product_id": "GJK615-2Y3-BEI",
+      "title": "Character Patch Teddy Bomber",
+      "url": "https://cougar.com.pk/products/character-patch-teddy-bomber-gjk615",
+      "kind": "Product updated",
+      "detail": "handle: gjk615-bei → character-patch-teddy-bomber-gjk615",
+      "field": "handle",
+      "before": "gjk615-bei",
+      "after": "character-patch-teddy-bomber-gjk615"
+    },
+    {
+      "product_id": "GSK623-2Y3-PNK",
+      "title": "Flap Detailed Skirt",
+      "url": "https://cougar.com.pk/products/gsk623-pnk",
+      "kind": "New product",
+      "detail": "Price: PKR 2,449.00; available sizes/options: None"
     },
     {
       "product_id": "GSK623-3Y4-PNK",
       "title": "Flap Detailed Skirt",
       "url": "https://cougar.com.pk/products/gsk623-pnk",
-      "kind": "New product",
-      "detail": "Price: PKR 2,449.00; available sizes/options: GSK623-3Y4-PNK"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "GWS603-FSZ-PUR",
       "title": "Bow-Pocket Cable Scarf",
-      "url": "https://cougar.com.pk/products/gws603-pur",
-      "kind": "New product",
-      "detail": "Price: PKR 1,329.00; available sizes/options: GWS603-FSZ-PUR"
+      "url": "https://cougar.com.pk/products/bow-pocket-cable-scarf-gws603",
+      "kind": "Product updated",
+      "detail": "handle: gws603-pur → bow-pocket-cable-scarf-gws603",
+      "field": "handle",
+      "before": "gws603-pur",
+      "after": "bow-pocket-cable-scarf-gws603"
     },
     {
       "product_id": "GWS604-FSZ-GRY",
       "title": "Bow-Pocket Cable Scarf",
-      "url": "https://cougar.com.pk/products/gws604-gry",
-      "kind": "New product",
-      "detail": "Price: PKR 1,329.00; available sizes/options: GWS604-FSZ-GRY"
+      "url": "https://cougar.com.pk/products/bow-pocket-cable-scarf-gws604",
+      "kind": "Product updated",
+      "detail": "handle: gws604-gry → bow-pocket-cable-scarf-gws604",
+      "field": "handle",
+      "before": "gws604-gry",
+      "after": "bow-pocket-cable-scarf-gws604"
+    },
+    {
+      "product_id": "HD2637-00S-LGY",
+      "title": "Modern Minds Zip Hoodie",
+      "url": "https://cougar.com.pk/products/modern-minds-zip-hoodie-hd2637",
+      "kind": "Product updated",
+      "detail": "handle: hd2637-lgy → modern-minds-zip-hoodie-hd2637",
+      "field": "handle",
+      "before": "hd2637-lgy",
+      "after": "modern-minds-zip-hoodie-hd2637"
+    },
+    {
+      "product_id": "HD2644-00S-DCH",
+      "title": "Broadcast Print Hoodie",
+      "url": "https://cougar.com.pk/products/broadcast-print-hoodie-hd2644",
+      "kind": "Product updated",
+      "detail": "handle: hd2644-dch → broadcast-print-hoodie-hd2644",
+      "field": "handle",
+      "before": "hd2644-dch",
+      "after": "broadcast-print-hoodie-hd2644"
     },
     {
       "product_id": "JF2612-w26-LBU",
       "title": "Double Waistband Straight Jeans",
-      "url": "https://cougar.com.pk/products/jf2612-lbu",
-      "kind": "New product",
-      "detail": "Price: PKR 4,899.00; available sizes/options: JF2612-w26-LBU"
+      "url": "https://cougar.com.pk/products/double-waistband-straight-jeans-jf2612",
+      "kind": "Product updated",
+      "detail": "handle: jf2612-lbu → double-waistband-straight-jeans-jf2612",
+      "field": "handle",
+      "before": "jf2612-lbu",
+      "after": "double-waistband-straight-jeans-jf2612"
     },
     {
-      "product_id": "LJ2609-0XS-WHT",
-      "title": "Pleated Peplum Jacket",
-      "url": "https://cougar.com.pk/products/lj2609-wht",
-      "kind": "New product",
-      "detail": "Price: PKR 4,899.00; available sizes/options: LJ2609-0XS-WHT"
+      "product_id": "JKJ610-2Y3-BLK",
+      "title": "Cosy Trim Hooded Jacket",
+      "url": "https://cougar.com.pk/products/cosy-trim-hooded-jacket-jkj610",
+      "kind": "Product updated",
+      "detail": "handle: jkj610-blk → cosy-trim-hooded-jacket-jkj610",
+      "field": "handle",
+      "before": "jkj610-blk",
+      "after": "cosy-trim-hooded-jacket-jkj610"
     },
     {
-      "product_id": "LTW660-0XS-NVY",
-      "title": "Ribbed Wide Leg Trousers",
-      "url": "https://cougar.com.pk/products/ltw660-nvy",
-      "kind": "New product",
-      "detail": "Price: PKR 5,949.00; available sizes/options: LTW660-0XS-NVY"
+      "product_id": "JM2609-00S-BRN",
+      "title": "Flap Pocket Jacket",
+      "url": "https://cougar.com.pk/products/flap-pocket-jacket-jm2609",
+      "kind": "Product updated",
+      "detail": "handle: jm2609-brn → flap-pocket-jacket-jm2609",
+      "field": "handle",
+      "before": "jm2609-brn",
+      "after": "flap-pocket-jacket-jm2609"
     },
     {
-      "product_id": "LTW661-0XS-PRP",
-      "title": "Knitted Wide Trousers",
-      "url": "https://cougar.com.pk/products/ltw661-prp",
-      "kind": "New product",
-      "detail": "Price: PKR 5,949.00; available sizes/options: LTW661-0XS-PRP"
+      "product_id": "JM2611-00S-Cho",
+      "title": "Spread Collar Zipper Jacket",
+      "url": "https://cougar.com.pk/products/spread-collar-zipper-jacket-jm2611",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "Design Details: Spread collar, zip front, side pockets, soft brushed textureStyle: Zip-Up",
+      "after": "Design Details: Spread collar, zip front, side pockets, soft brushed textureStyle: Zip-Up Fabric: Heavy fleece"
     },
     {
-      "product_id": "MSF618-w40-KHK",
-      "title": "Penny Loafers",
-      "url": "https://cougar.com.pk/products/msf618-khk",
-      "kind": "New product",
-      "detail": "Price: PKR 9,099.00; available sizes/options: MSF618-w40-KHK"
+      "product_id": "JM2672-00M-OLV",
+      "title": "Scout Zip Jacket",
+      "url": "https://cougar.com.pk/products/scout-zip-jacket-jm2672",
+      "kind": "Product updated",
+      "detail": "handle: jm2672-olv → scout-zip-jacket-jm2672",
+      "field": "handle",
+      "before": "jm2672-olv",
+      "after": "scout-zip-jacket-jm2672"
     },
     {
-      "product_id": "MSW657-00S-BLK",
-      "title": "Contrast Line Raglan Sweatshirt",
-      "url": "https://cougar.com.pk/products/msw657-blk",
-      "kind": "New product",
-      "detail": "Price: PKR 4,549.00; available sizes/options: MSW657-00S-BLK"
+      "product_id": "JM2681-00M-BLK",
+      "title": "Nordic Collar Bomber Jacket",
+      "url": "https://cougar.com.pk/products/nordic-collar-bomber-jacket-jm2681",
+      "kind": "Product updated",
+      "detail": "handle: jm2681-blk → nordic-collar-bomber-jacket-jm2681",
+      "field": "handle",
+      "before": "jm2681-blk",
+      "after": "nordic-collar-bomber-jacket-jm2681"
     },
     {
-      "product_id": "TLF632-00S-LBU",
-      "title": "Top With Balloon Sleeves",
-      "url": "https://cougar.com.pk/products/tlf632-lbu",
+      "product_id": "JM2697-00M-BEI",
+      "title": "Snowline Puffer Jacket",
+      "url": "https://cougar.com.pk/products/snowline-puffer-jacket-jm2697",
+      "kind": "Product updated",
+      "detail": "handle: jm2697-bei → snowline-puffer-jacket-jm2697",
+      "field": "handle",
+      "before": "jm2697-bei",
+      "after": "snowline-puffer-jacket-jm2697"
+    },
+    {
+      "product_id": "JM2697-00M-BEI",
+      "title": "Snowline Puffer Jacket",
+      "url": "https://cougar.com.pk/products/snowline-puffer-jacket-jm2697",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/2_e1fd755e-e6da-4cf9-9731-2c24defacef7.webp?v=1795177672"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/2_7457c36d-fe36-414f-98ed-bc345833136f.webp?v=1795426213"
+      ]
+    },
+    {
+      "product_id": "JMS606-0XS-CWT",
+      "title": "Denim Jumpsuit With Belt",
+      "url": "https://cougar.com.pk/products/denim-jumpsuit-with-belt-jms606",
+      "kind": "Product updated",
+      "detail": "handle: jms606-cwt → denim-jumpsuit-with-belt-jms606",
+      "field": "handle",
+      "before": "jms606-cwt",
+      "after": "denim-jumpsuit-with-belt-jms606"
+    },
+    {
+      "product_id": "LC2602-00S-CML",
+      "title": "Monarch Belted Wrap Coat",
+      "url": "https://cougar.com.pk/products/monarch-belted-wrap-coat-lc2602",
+      "kind": "Product updated",
+      "detail": "handle: lc2602-cml → monarch-belted-wrap-coat-lc2602",
+      "field": "handle",
+      "before": "lc2602-cml",
+      "after": "monarch-belted-wrap-coat-lc2602"
+    },
+    {
+      "product_id": "LC2607-00S-BLU",
+      "title": "Admiral Tab Cuff Coat",
+      "url": "https://cougar.com.pk/products/admiral-tab-cuff-coat-lc2607",
+      "kind": "Product updated",
+      "detail": "handle: lc2607-blu → admiral-tab-cuff-coat-lc2607",
+      "field": "handle",
+      "before": "lc2607-blu",
+      "after": "admiral-tab-cuff-coat-lc2607"
+    },
+    {
+      "product_id": "LC2611-00S-KHK",
+      "title": "Double-Breasted Long Coat",
+      "url": "https://cougar.com.pk/products/double-breasted-long-coat-lc2611",
+      "kind": "Product updated",
+      "detail": "handle: lc2611-khk → double-breasted-long-coat-lc2611",
+      "field": "handle",
+      "before": "lc2611-khk",
+      "after": "double-breasted-long-coat-lc2611"
+    },
+    {
+      "product_id": "LJ2621-00S-BLK",
+      "title": "Alumni Bomber Jacket",
+      "url": "https://cougar.com.pk/products/alumni-bomber-jacket-lj2621",
+      "kind": "Product updated",
+      "detail": "handle: lj2621-blk → alumni-bomber-jacket-lj2621",
+      "field": "handle",
+      "before": "lj2621-blk",
+      "after": "alumni-bomber-jacket-lj2621"
+    },
+    {
+      "product_id": "LJ2621-00S-BLK",
+      "title": "Alumni Bomber Jacket",
+      "url": "https://cougar.com.pk/products/alumni-bomber-jacket-lj2621",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_a6f49381-4d09-42c6-a952-96958de52d9b.webp?v=1795177808"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1copy_b9156b29-993d-4143-91eb-46b2ead942b1.webp?v=1795425571"
+      ]
+    },
+    {
+      "product_id": "LJ2621-00S-CML",
+      "title": "Alumni Bomber Jacket",
+      "url": "https://cougar.com.pk/products/lj2621-cml",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_14052744-9bfb-4c6c-9a3f-31eb9d12c62a.webp?v=1795177851"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1copy_fe4f459f-df00-4842-8ba3-a589d67f9b52.webp?v=1795425508"
+      ]
+    },
+    {
+      "product_id": "LJ2623-00S-Cof",
+      "title": "Balloon Sleeve Harrington",
+      "url": "https://cougar.com.pk/products/lj2623-cof",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_6aa5a4e6-d914-4166-a474-34fdba16b958.webp?v=1795178039"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_f4860c85-79e8-4a51-9a2a-4b63880c8d2f.webp?v=1795425667"
+      ]
+    },
+    {
+      "product_id": "LTR602-00S-BRN",
+      "title": "Pleated Balloon Pants",
+      "url": "https://cougar.com.pk/products/pleated-balloon-pants-ltr602",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "LTR602-0XS-BRN",
+      "title": "Pleated Balloon Pants",
+      "url": "https://cougar.com.pk/products/pleated-balloon-pants-ltr602",
       "kind": "New product",
-      "detail": "Price: PKR 3,709.00; available sizes/options: TLF632-00S-LBU"
+      "detail": "Price: PKR 3,849.00; available sizes/options: LTR602-0XS-BRN"
+    },
+    {
+      "product_id": "LW2524-FSZ-GRY",
+      "title": "Knitted Boot Cuffs | Short Leg Warmers",
+      "url": "https://cougar.com.pk/products/knitted-boot-cuffs-short-leg-warmers-lw2524-gry?variant=LW2524-FSZ-GRY",
+      "kind": "Back in stock",
+      "detail": "LW2524-FSZ-GRY"
+    },
+    {
+      "product_id": "SFG012-FSZ-SKY",
+      "title": "Plush Collar Pocket Cardigan",
+      "url": "https://cougar.com.pk/products/plush-collar-pocket-cardigan-sfg012",
+      "kind": "Product updated",
+      "detail": "handle: sfg012-sky → plush-collar-pocket-cardigan-sfg012",
+      "field": "handle",
+      "before": "sfg012-sky",
+      "after": "plush-collar-pocket-cardigan-sfg012"
+    },
+    {
+      "product_id": "SFG013-FSZ-WHT",
+      "title": "Parisian Collared Cardigan",
+      "url": "https://cougar.com.pk/products/parisian-collared-cardigan-sfg013",
+      "kind": "Product updated",
+      "detail": "handle: sfg013-wht → parisian-collared-cardigan-sfg013",
+      "field": "handle",
+      "before": "sfg013-wht",
+      "after": "parisian-collared-cardigan-sfg013"
+    },
+    {
+      "product_id": "SFG014-FSZ-OFW",
+      "title": "Baroque Floral Sweater",
+      "url": "https://cougar.com.pk/products/baroque-floral-sweater-sfg014",
+      "kind": "Product updated",
+      "detail": "handle: sfg014-ofw → baroque-floral-sweater-sfg014",
+      "field": "handle",
+      "before": "sfg014-ofw",
+      "after": "baroque-floral-sweater-sfg014"
+    },
+    {
+      "product_id": "SFG015-FSZ-BLK",
+      "title": "Zip Cardigan",
+      "url": "https://cougar.com.pk/products/zip-cardigan-sfg015",
+      "kind": "Product updated",
+      "detail": "handle: sfg015-blk → zip-cardigan-sfg015",
+      "field": "handle",
+      "before": "sfg015-blk",
+      "after": "zip-cardigan-sfg015"
+    },
+    {
+      "product_id": "SFG015-FSZ-BLK",
+      "title": "Zip Cardigan",
+      "url": "https://cougar.com.pk/products/zip-cardigan-sfg015",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/SFG015_2.webp?v=1795178379"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_ceda2b87-6c14-4599-a424-050cb3cc2f75.webp?v=1795425307"
+      ]
+    },
+    {
+      "product_id": "SFG016-FSZ-LGY",
+      "title": "Embroidered Caridgan",
+      "url": "https://cougar.com.pk/products/embroidered-caridgan-sfg016",
+      "kind": "Product updated",
+      "detail": "handle: sfg016-lgy → embroidered-caridgan-sfg016",
+      "field": "handle",
+      "before": "sfg016-lgy",
+      "after": "embroidered-caridgan-sfg016"
+    },
+    {
+      "product_id": "SFG019-FSZ-GRY",
+      "title": "Riviera Shawl Cardigan",
+      "url": "https://cougar.com.pk/products/riviera-shawl-cardigan-sfg019",
+      "kind": "Product updated",
+      "detail": "handle: sfg019-gry → riviera-shawl-cardigan-sfg019",
+      "field": "handle",
+      "before": "sfg019-gry",
+      "after": "riviera-shawl-cardigan-sfg019"
+    },
+    {
+      "product_id": "SFG020-FSZ-BRN",
+      "title": "Chalet Fur Collar Cardigan",
+      "url": "https://cougar.com.pk/products/chalet-fur-collar-cardigan-sfg020",
+      "kind": "Product updated",
+      "detail": "handle: sfg020-brn → chalet-fur-collar-cardigan-sfg020",
+      "field": "handle",
+      "before": "sfg020-brn",
+      "after": "chalet-fur-collar-cardigan-sfg020"
+    },
+    {
+      "product_id": "SFG022-FSZ-BLK",
+      "title": "Jacquard Long Cardigan",
+      "url": "https://cougar.com.pk/products/jacquard-long-cardigan-sfg022",
+      "kind": "Product updated",
+      "detail": "handle: sfg022-blk → jacquard-long-cardigan-sfg022",
+      "field": "handle",
+      "before": "sfg022-blk",
+      "after": "jacquard-long-cardigan-sfg022"
+    },
+    {
+      "product_id": "SFG630-FSZ-Cho",
+      "title": "Faux Fur Collar Cardigan",
+      "url": "https://cougar.com.pk/products/sfg630-cho",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_f937f0d7-92f6-4f94-8567-71dd28a2c486.webp?v=1795012390"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_80f7ca89-2cab-45a4-bb7a-4a0be27191f4.webp?v=1795426070"
+      ]
+    },
+    {
+      "product_id": "SFG677-FSZ-BLK",
+      "title": "Fur Cuff Lapel Cardigan",
+      "url": "https://cougar.com.pk/products/fur-cuff-lapel-cardigan-sfg677",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_bb33b031-b884-490c-926a-b892d8aaad08.webp?v=1795085259"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_fd99a344-4d1c-4c1e-b188-05f34683b6de.webp?v=1795425990"
+      ]
+    },
+    {
+      "product_id": "SFG683-FSZ-BEI",
+      "title": "Ombre Stripe Sweater",
+      "url": "https://cougar.com.pk/products/ombre-stripe-sweater-sfg683",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_fcf749df-092d-4538-be86-2021a3388deb.webp?v=1795086079"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_81015406-03f3-48dd-8474-89e576e0d4d6.webp?v=1795425899"
+      ]
+    },
+    {
+      "product_id": "SFG690-FSZ-BRN",
+      "title": "Toggle Cape Cardigan",
+      "url": "https://cougar.com.pk/products/toggle-cape-cardigan-sfg690",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_a2b54f2a-5e25-40e0-9806-ff8917ff31ce.webp?v=1795086131"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_d986eb01-b908-4413-bfe1-8ccfc082877d.webp?v=1795425854"
+      ]
+    },
+    {
+      "product_id": "SFG693-FSZ-BEI",
+      "title": "Blanket-Stitch Cardigan",
+      "url": "https://cougar.com.pk/products/blanket-stitch-cardigan-sfg693",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_68dd9edb-7734-4140-8a34-e268909402c5.webp?v=1795085759"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_f23ddc5e-6e59-450b-9969-2d64dad7e94e.webp?v=1795425796"
+      ]
+    },
+    {
+      "product_id": "SFG697-FSZ-CWT",
+      "title": "Snowdrift Cardigan",
+      "url": "https://cougar.com.pk/products/snowdrift-cardigan-sfg697",
+      "kind": "Product updated",
+      "detail": "handle: sfg697-cwt → snowdrift-cardigan-sfg697",
+      "field": "handle",
+      "before": "sfg697-cwt",
+      "after": "snowdrift-cardigan-sfg697"
+    },
+    {
+      "product_id": "SFG698-FSZ-PNK",
+      "title": "Duchess Fur Embellished Cardigan",
+      "url": "https://cougar.com.pk/products/duchess-fur-embellished-cardigan-sfg698",
+      "kind": "Product updated",
+      "detail": "handle: sfg698-pnk → duchess-fur-embellished-cardigan-sfg698",
+      "field": "handle",
+      "before": "sfg698-pnk",
+      "after": "duchess-fur-embellished-cardigan-sfg698"
+    },
+    {
+      "product_id": "SFG699-FSZ-BRN",
+      "title": "Off-Shoulder Fuzzy Trim Sweater",
+      "url": "https://cougar.com.pk/products/off-shoulder-fuzzy-trim-sweater-sfg699",
+      "kind": "Product updated",
+      "detail": "handle: sfg699-brn → off-shoulder-fuzzy-trim-sweater-sfg699",
+      "field": "handle",
+      "before": "sfg699-brn",
+      "after": "off-shoulder-fuzzy-trim-sweater-sfg699"
+    },
+    {
+      "product_id": "TW2634-00S-GRH",
+      "title": "Side Striped Jogger Trousers",
+      "url": "https://cougar.com.pk/products/side-striped-jogger-trousers-tw2634",
+      "kind": "Product updated",
+      "detail": "handle: tw2634-grh → side-striped-jogger-trousers-tw2634",
+      "field": "handle",
+      "before": "tw2634-grh",
+      "after": "side-striped-jogger-trousers-tw2634"
     },
     {
       "product_id": "WSH620-w39-BEI",
+      "title": "Embroidered  Slingback Sandals",
+      "url": "https://cougar.com.pk/products/embroidered-slingback-sandals-wsh620-bei",
+      "kind": "New product",
+      "detail": "Price: PKR 6,299.00; available sizes/options: WSH620-w39-BEI"
+    },
+    {
+      "product_id": "WSH620-w40-BEI",
       "title": "Embroidered  Slingback Sandals",
       "url": "https://cougar.com.pk/products/embroidered-slingback-sandals-wsh620-bei",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "WSH620-w40-BEI",
-      "title": "Embroidered  Slingback Sandals",
-      "url": "https://cougar.com.pk/products/embroidered-slingback-sandals-wsh620-bei",
-      "kind": "New product",
-      "detail": "Price: PKR 6,299.00; available sizes/options: WSH620-w40-BEI"
+      "product_id": "WTS632-FSZ-KHK",
+      "title": "Stripe Co-Ord Set",
+      "url": "https://cougar.com.pk/products/stripe-co-ord-set-wts632",
+      "kind": "Product updated",
+      "detail": "handle: wts632-khk → stripe-co-ord-set-wts632",
+      "field": "handle",
+      "before": "wts632-khk",
+      "after": "stripe-co-ord-set-wts632"
     },
     {
-      "product_id": "WSS616-0XS-MOS",
-      "title": "Asymmetric Off-Shoulder Sweatshirt",
-      "url": "https://cougar.com.pk/products/wss616-mos",
-      "kind": "New product",
-      "detail": "Price: PKR 3,499.00; available sizes/options: WSS616-0XS-MOS"
-    },
-    {
-      "product_id": "WSS617-0XS-DNY",
-      "title": "Balloon Sleeve Rib Sweatshirt",
-      "url": "https://cougar.com.pk/products/wss617-dny",
-      "kind": "New product",
-      "detail": "Price: PKR 4,899.00; available sizes/options: WSS617-0XS-DNY"
-    },
-    {
-      "product_id": "WSS620-0XS-DBN",
-      "title": "Textured Crew Sweatshirt",
-      "url": "https://cougar.com.pk/products/wss620-dbn",
-      "kind": "New product",
-      "detail": "Price: PKR 4,549.00; available sizes/options: WSS620-0XS-DBN"
-    },
-    {
-      "product_id": "WSS621-0XS-BLK",
-      "title": "Quarter Zip Sweatshirt",
-      "url": "https://cougar.com.pk/products/wss621-blk",
-      "kind": "New product",
-      "detail": "Price: PKR 4,549.00; available sizes/options: WSS621-0XS-BLK"
+      "product_id": "WTS632-FSZ-KHK",
+      "title": "Stripe Co-Ord Set",
+      "url": "https://cougar.com.pk/products/stripe-co-ord-set-wts632",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/7_3419edbb-1cbe-4933-8da0-459f79f5569d.webp?v=1795179943"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/7_9955f34f-16ba-43fb-8961-92428b2e3d44.webp?v=1795425393"
+      ]
     }
   ]
 }
