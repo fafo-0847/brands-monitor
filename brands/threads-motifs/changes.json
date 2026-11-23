@@ -1,15 +1,22 @@
 {
-  "checked_at": "2026-11-22T22:42:53.107208+00:00",
+  "checked_at": "2026-11-23T11:25:25.623962+00:00",
   "baseline_created": false,
-  "product_count": 857,
-  "change_count": 2,
+  "product_count": 861,
+  "change_count": 7,
   "changes": [
+    {
+      "product_id": "7296295927843",
+      "title": "Izzah Skirt Saree",
+      "url": "https://www.threadsandmotifs.com/products/izzah-skirt-saree?variant=44046381809699",
+      "kind": "Sold out",
+      "detail": "Small / Standard"
+    },
     {
       "product_id": "7323136720931",
       "title": "Burnished Copper Velvet (RTW 2PC)",
       "url": "https://www.threadsandmotifs.com/products/aaina-embroidered-velvet-rtw-2pc-copy",
       "kind": "Product updated",
-      "detail": "tags: ['newarrivalspret', 'over-20000', 'pret', 'size-large', 'size-medium', 'velvet'] → ['newarrivalspret', 'over-20000', 'pret', 'size-large', 'size-medium', 'size-small', 'velvet']",
+      "detail": "tags: ['newarrivalspret', 'over-20000', 'pret', 'size-large', 'size-medium', 'size-small', 'velvet'] → ['newarrivalspret', 'over-20000', 'pret', 'size-large', 'size-medium', 'velvet']",
       "field": "tags",
       "before": [
         "newarrivalspret",
@@ -17,6 +24,7 @@
         "pret",
         "size-large",
         "size-medium",
+        "size-small",
         "velvet"
       ],
       "after": [
@@ -25,7 +33,6 @@
         "pret",
         "size-large",
         "size-medium",
-        "size-small",
         "velvet"
       ]
     },
@@ -33,8 +40,36 @@
       "product_id": "7323136720931",
       "title": "Burnished Copper Velvet (RTW 2PC)",
       "url": "https://www.threadsandmotifs.com/products/aaina-embroidered-velvet-rtw-2pc-copy?variant=44142712225827",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "Small"
+    },
+    {
+      "product_id": "7334329843747",
+      "title": "Susan Goldie",
+      "url": "https://www.threadsandmotifs.com/products/susan-goldie",
+      "kind": "New product",
+      "detail": "Price: PKR 21,140.00; available sizes/options: Default Title"
+    },
+    {
+      "product_id": "7334363824163",
+      "title": "Mahtab Lilac",
+      "url": "https://www.threadsandmotifs.com/products/mahtab-lilac",
+      "kind": "New product",
+      "detail": "Price: PKR 133,500.00 – PKR 146,850.00; available sizes/options: Small / Standard, Small / Express- 10% Upcharge, Medium / Standard, Medium / Express- 10% Upcharge, Large / Standard, Large / Express- 10% Upcharge, Customized / Standard, Customized / Express- 10% Upcharge"
+    },
+    {
+      "product_id": "7334396788771",
+      "title": "Roohi Mauve",
+      "url": "https://www.threadsandmotifs.com/products/roohi-mauve",
+      "kind": "New product",
+      "detail": "Price: PKR 115,000.00 – PKR 126,500.00; available sizes/options: Small / Standard, Small / Express- 10% Upcharge, Medium / Standard, Medium / Express- 10% Upcharge, Large / Standard, Large / Express- 10% Upcharge, Customized / Standard, Customized / Express- 10% Upcharge"
+    },
+    {
+      "product_id": "7334445187107",
+      "title": "Ziya",
+      "url": "https://www.threadsandmotifs.com/products/roohi-mauve-copy",
+      "kind": "New product",
+      "detail": "Price: PKR 138,000.00 – PKR 151,800.00; available sizes/options: Small / Standard, Small / Express- 10% Upcharge, Medium / Standard, Medium / Express- 10% Upcharge, Large / Standard, Large / Express- 10% Upcharge, Customized / Standard, Customized / Express- 10% Upcharge"
     }
   ]
 }

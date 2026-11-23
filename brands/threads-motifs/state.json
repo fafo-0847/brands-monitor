@@ -3,7 +3,7 @@
   "source": "https://www.threadsandmotifs.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-22T22:42:53.107208+00:00",
+  "checked_at": "2026-11-23T11:25:25.623962+00:00",
   "products": {
     "7330695577635": {
       "id": "7330695577635",
@@ -6434,7 +6434,6 @@
         "pret",
         "size-large",
         "size-medium",
-        "size-small",
         "velvet"
       ],
       "images": [
@@ -6473,7 +6472,7 @@
             "Small"
           ],
           "sku": "12391-S",
-          "available": true,
+          "available": false,
           "price": 2400000,
           "compare_at_price": null
         },
@@ -28420,7 +28419,7 @@
             "Standard"
           ],
           "sku": "12222-S",
-          "available": true,
+          "available": false,
           "price": 9900000,
           "compare_at_price": null
         },
@@ -31833,6 +31832,161 @@
           "sku": "12228-C-EX",
           "available": true,
           "price": 20130000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "7334363824163": {
+      "id": "7334363824163",
+      "title": "Mahtab Lilac",
+      "handle": "mahtab-lilac",
+      "url": "https://www.threadsandmotifs.com/products/mahtab-lilac",
+      "vendor": "Signature Lehengas",
+      "type": "Formal Shirt",
+      "description": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Cool lavender-lilac shirt and dupatta with silver embellishments, paired with a double-shaded jamawar skirt in ice aqua and pale seafoam green.</p>\n<p>Mahtab Lilac features a long Sheesha silk shirt in cool lavender-lilac. Crystals frame the keyhole and shoulder cutouts, while pearls, sequins and cut-glass beads trace vertical patterns and floral motifs across the shirt. Delicate lattice cutwork opens up the fitted sleeves and scalloped daman, and pastel bead drops accent the waist.</p>\n<p>The flared jamawar skirt blends ice aqua and pale seafoam green, with silver woven motifs that catch the light as the fabric moves. A matching lavender-lilac Sheesha silk dupatta completes the three-piece ensemble, with diagonal rows of embellishment and scalloped borders detailed with pearls, sequins and cut-glass beads.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Shirt length 52 inches</strong><br><strong>Skirt length 45 inches </strong></p>",
+      "tags": [
+        "bestsellerluxuryformal",
+        "bridal",
+        "bridemaid",
+        "formal",
+        "formals",
+        "luxuryformal",
+        "luxuryformals",
+        "muse",
+        "over-20000",
+        "partywear",
+        "weddingguests"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_1.jpg?v=1795432857",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_10.jpg?v=1795432880",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_11.jpg?v=1795432880",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_12.jpg?v=1795432886",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_2.jpg?v=1795432858",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_3.jpg?v=1795432866",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_4.jpg?v=1795432866",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_5.jpg?v=1795432885",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_6.jpg?v=1795432887",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_7.jpg?v=1795432886",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_8.jpg?v=1795432870",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12270_9.jpg?v=1795432882"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "Customized"
+          ]
+        },
+        {
+          "name": "Delivery",
+          "position": 2,
+          "values": [
+            "Standard",
+            "Express- 10% Upcharge"
+          ]
+        }
+      ],
+      "variants": {
+        "44254378065955": {
+          "id": "44254378065955",
+          "title": "Small / Standard",
+          "options": [
+            "Small",
+            "Standard"
+          ],
+          "sku": "12270-S",
+          "available": true,
+          "price": 13350000,
+          "compare_at_price": null
+        },
+        "44254378098723": {
+          "id": "44254378098723",
+          "title": "Small / Express- 10% Upcharge",
+          "options": [
+            "Small",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12270-S-EX",
+          "available": true,
+          "price": 14685000,
+          "compare_at_price": null
+        },
+        "44254378131491": {
+          "id": "44254378131491",
+          "title": "Medium / Standard",
+          "options": [
+            "Medium",
+            "Standard"
+          ],
+          "sku": "12270-M",
+          "available": true,
+          "price": 13350000,
+          "compare_at_price": null
+        },
+        "44254378164259": {
+          "id": "44254378164259",
+          "title": "Medium / Express- 10% Upcharge",
+          "options": [
+            "Medium",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12270-M-EX",
+          "available": true,
+          "price": 14685000,
+          "compare_at_price": null
+        },
+        "44254378197027": {
+          "id": "44254378197027",
+          "title": "Large / Standard",
+          "options": [
+            "Large",
+            "Standard"
+          ],
+          "sku": "12270-L",
+          "available": true,
+          "price": 13350000,
+          "compare_at_price": null
+        },
+        "44254378229795": {
+          "id": "44254378229795",
+          "title": "Large / Express- 10% Upcharge",
+          "options": [
+            "Large",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12270-L-EX",
+          "available": true,
+          "price": 14685000,
+          "compare_at_price": null
+        },
+        "44254378262563": {
+          "id": "44254378262563",
+          "title": "Customized / Standard",
+          "options": [
+            "Customized",
+            "Standard"
+          ],
+          "sku": "12270-C",
+          "available": true,
+          "price": 13350000,
+          "compare_at_price": null
+        },
+        "44254378295331": {
+          "id": "44254378295331",
+          "title": "Customized / Express- 10% Upcharge",
+          "options": [
+            "Customized",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12270-C-EX",
+          "available": true,
+          "price": 14685000,
           "compare_at_price": null
         }
       },
@@ -42875,6 +43029,160 @@
       },
       "available": true
     },
+    "7334396788771": {
+      "id": "7334396788771",
+      "title": "Roohi Mauve",
+      "handle": "roohi-mauve",
+      "url": "https://www.threadsandmotifs.com/products/roohi-mauve",
+      "vendor": "Signature Lehengas",
+      "type": "Formal Shirt",
+      "description": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Pale dusty mauve net shirt with silver-toned embellishments, a metallic mauve-taupe skirt and a soft lilac-mauve dupatta.</p>\n<p>Roohi Mauve features a long, front-open net shirt with a V-neckline and embellished shoulder cutouts. Pearls, sequins and cut-glass beads trace fan-shaped motifs across the bodice and elongated patterns down the sheer sleeves and shirt panels. Open side chaaks reveal the pleated skirt beneath, while fine beaded fringe finishes the cuffs and daman.</p>\n<p>The metallic mauve-taupe shimmer skirt falls in fine pleats to a wide scalloped border embellished with pearls, sequins and cut-glass beads. A sheer lilac-mauve net dupatta completes the three-piece ensemble, with scattered floral motifs and a glistening border detailed in the same beadwork.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Shirt Length 49 inches</strong><br><strong>Skirt Length 46.5 inches</strong><br></p>",
+      "tags": [
+        "bestsellerluxuryformal",
+        "bridal",
+        "bridemaid",
+        "formal",
+        "formals",
+        "luxuryformal",
+        "luxuryformals",
+        "muse",
+        "over-20000",
+        "partywear",
+        "weddingguests"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_1.jpg?v=1795432381",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_10.jpg?v=1795432447",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_11.jpg?v=1795432443",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_2.jpg?v=1795432394",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_3.jpg?v=1795432412",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_4.jpg?v=1795432436",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_5.jpg?v=1795432393",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_6.jpg?v=1795432445",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_7.jpg?v=1795432445",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_8.jpg?v=1795432416",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12231_9.jpg?v=1795432449"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "Customized"
+          ]
+        },
+        {
+          "name": "Delivery",
+          "position": 2,
+          "values": [
+            "Standard",
+            "Express- 10% Upcharge"
+          ]
+        }
+      ],
+      "variants": {
+        "44254495506467": {
+          "id": "44254495506467",
+          "title": "Small / Standard",
+          "options": [
+            "Small",
+            "Standard"
+          ],
+          "sku": "12231.2-S",
+          "available": true,
+          "price": 11500000,
+          "compare_at_price": null
+        },
+        "44254495539235": {
+          "id": "44254495539235",
+          "title": "Small / Express- 10% Upcharge",
+          "options": [
+            "Small",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12231.2-S-EX",
+          "available": true,
+          "price": 12650000,
+          "compare_at_price": null
+        },
+        "44254495572003": {
+          "id": "44254495572003",
+          "title": "Medium / Standard",
+          "options": [
+            "Medium",
+            "Standard"
+          ],
+          "sku": "12231.2-M",
+          "available": true,
+          "price": 11500000,
+          "compare_at_price": null
+        },
+        "44254495604771": {
+          "id": "44254495604771",
+          "title": "Medium / Express- 10% Upcharge",
+          "options": [
+            "Medium",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12231.2-M-EX",
+          "available": true,
+          "price": 12650000,
+          "compare_at_price": null
+        },
+        "44254495637539": {
+          "id": "44254495637539",
+          "title": "Large / Standard",
+          "options": [
+            "Large",
+            "Standard"
+          ],
+          "sku": "12231.2-L",
+          "available": true,
+          "price": 11500000,
+          "compare_at_price": null
+        },
+        "44254495670307": {
+          "id": "44254495670307",
+          "title": "Large / Express- 10% Upcharge",
+          "options": [
+            "Large",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12231.2-L-EX",
+          "available": true,
+          "price": 12650000,
+          "compare_at_price": null
+        },
+        "44254495703075": {
+          "id": "44254495703075",
+          "title": "Customized / Standard",
+          "options": [
+            "Customized",
+            "Standard"
+          ],
+          "sku": "12231.2-C",
+          "available": true,
+          "price": 11500000,
+          "compare_at_price": null
+        },
+        "44254495735843": {
+          "id": "44254495735843",
+          "title": "Customized / Express- 10% Upcharge",
+          "options": [
+            "Customized",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12231.2-C-EX",
+          "available": true,
+          "price": 12650000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "7298971729955": {
       "id": "7298971729955",
       "title": "Rosabelle",
@@ -51299,6 +51607,42 @@
           "sku": "12022-L",
           "available": true,
           "price": 2300000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "7334329843747": {
+      "id": "7334329843747",
+      "title": "Susan Goldie",
+      "handle": "susan-goldie",
+      "url": "https://www.threadsandmotifs.com/products/susan-goldie",
+      "vendor": "Threads & Motifs",
+      "type": "",
+      "description": "<p>d# 10495 <br>balancing amount PKR 21,140 ( customer is exchanging dress with o# 43467)</p>",
+      "tags": [
+        "over-20000"
+      ],
+      "images": [],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "44253879599139": {
+          "id": "44253879599139",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "ANIqa Order",
+          "available": true,
+          "price": 2114000,
           "compare_at_price": null
         }
       },
@@ -72302,6 +72646,161 @@
           "available": true,
           "price": 629000,
           "compare_at_price": 740000
+        }
+      },
+      "available": true
+    },
+    "7334445187107": {
+      "id": "7334445187107",
+      "title": "Ziya",
+      "handle": "roohi-mauve-copy",
+      "url": "https://www.threadsandmotifs.com/products/roohi-mauve-copy",
+      "vendor": "Signature Lehengas",
+      "type": "Formal Jacket",
+      "description": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Light butter yellow net jacket and dupatta, paired with a three-tone chiffon skirt in butter yellow, light pink and mint aqua.</p>\n<p>Mahin Butter Yellow features a long, front-open net jacket in light butter yellow. Pearls, sequins and cut-glass beads trace curved motifs and fine vertical lines across the jacket, with a richly embellished neckline and delicate bead drops at the cuffs and hem.</p>\n<p>The chiffon blouse and flared chiffon skirt are both detailed with Kamdani and sequins. The skirt brings together butter yellow, light pink and mint aqua, with all three shades visible beneath the sheer jacket. A matching light butter yellow net dupatta, embellished with pearls, sequins and cut-glass beads, completes the four-piece ensemble.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Jacket Length 57</strong><strong> inches</strong><br><strong>Skirt Length 46.5 inches</strong><br></p>",
+      "tags": [
+        "Signature Lehengas",
+        "bestsellerluxuryformal",
+        "bridal",
+        "bridemaid",
+        "formal",
+        "formals",
+        "jacket",
+        "luxuryformal",
+        "luxuryformals",
+        "muse",
+        "over-20000",
+        "partywear",
+        "weddingguests"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_1.jpg?v=1795432498",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_10.jpg?v=1795432494",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_11.jpg?v=1795432506",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_12.jpg?v=1795432498",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_2.jpg?v=1795432496",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_4.jpg?v=1795432492",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_6.jpg?v=1795432496",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_7.jpg?v=1795432506",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_8.jpg?v=1795432506",
+        "https://cdn.shopify.com/s/files/1/0057/9233/3881/files/12280_9.jpg?v=1795432500"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "Customized"
+          ]
+        },
+        {
+          "name": "Delivery",
+          "position": 2,
+          "values": [
+            "Standard",
+            "Express- 10% Upcharge"
+          ]
+        }
+      ],
+      "variants": {
+        "44254632902691": {
+          "id": "44254632902691",
+          "title": "Small / Standard",
+          "options": [
+            "Small",
+            "Standard"
+          ],
+          "sku": "12280-S",
+          "available": true,
+          "price": 13800000,
+          "compare_at_price": null
+        },
+        "44254632935459": {
+          "id": "44254632935459",
+          "title": "Small / Express- 10% Upcharge",
+          "options": [
+            "Small",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12280-S-EX",
+          "available": true,
+          "price": 15180000,
+          "compare_at_price": null
+        },
+        "44254632968227": {
+          "id": "44254632968227",
+          "title": "Medium / Standard",
+          "options": [
+            "Medium",
+            "Standard"
+          ],
+          "sku": "12280-M",
+          "available": true,
+          "price": 13800000,
+          "compare_at_price": null
+        },
+        "44254633000995": {
+          "id": "44254633000995",
+          "title": "Medium / Express- 10% Upcharge",
+          "options": [
+            "Medium",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12280-M-EX",
+          "available": true,
+          "price": 15180000,
+          "compare_at_price": null
+        },
+        "44254633033763": {
+          "id": "44254633033763",
+          "title": "Large / Standard",
+          "options": [
+            "Large",
+            "Standard"
+          ],
+          "sku": "12280-L",
+          "available": true,
+          "price": 13800000,
+          "compare_at_price": null
+        },
+        "44254633066531": {
+          "id": "44254633066531",
+          "title": "Large / Express- 10% Upcharge",
+          "options": [
+            "Large",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12280-L-EX",
+          "available": true,
+          "price": 15180000,
+          "compare_at_price": null
+        },
+        "44254633099299": {
+          "id": "44254633099299",
+          "title": "Customized / Standard",
+          "options": [
+            "Customized",
+            "Standard"
+          ],
+          "sku": "12280-C",
+          "available": true,
+          "price": 13800000,
+          "compare_at_price": null
+        },
+        "44254633132067": {
+          "id": "44254633132067",
+          "title": "Customized / Express- 10% Upcharge",
+          "options": [
+            "Customized",
+            "Express- 10% Upcharge"
+          ],
+          "sku": "12280-C-EX",
+          "available": true,
+          "price": 15180000,
+          "compare_at_price": null
         }
       },
       "available": true
