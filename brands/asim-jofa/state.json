@@ -3,7 +3,7 @@
   "source": "https://asimjofa.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-22T20:44:53.918145+00:00",
+  "checked_at": "2026-11-23T09:18:36.157579+00:00",
   "products": {
     "8092091908393": {
       "id": "8092091908393",
@@ -92106,12 +92106,12 @@
             "Default Title"
           ],
           "sku": "AJFS-05-Unstitched",
-          "available": true,
+          "available": false,
           "price": 1625000,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "15424580911401": {
       "id": "15424580911401",
@@ -165947,12 +165947,12 @@
             "Set"
           ],
           "sku": "AJJSE-154",
-          "available": true,
+          "available": false,
           "price": 1190000,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "9568125452585": {
       "id": "9568125452585",
@@ -186510,7 +186510,8 @@
           "name": "Size",
           "position": 1,
           "values": [
-            "12-14"
+            "12-14",
+            "6-8 Yrs"
           ]
         }
       ],
@@ -186522,6 +186523,17 @@
             "12-14"
           ],
           "sku": "AJKC-05-DS-12-14",
+          "available": false,
+          "price": 450000,
+          "compare_at_price": null
+        },
+        "67851164057897": {
+          "id": "67851164057897",
+          "title": "6-8 Yrs",
+          "options": [
+            "6-8 Yrs"
+          ],
+          "sku": "AJKC-05-DS-6-8",
           "available": false,
           "price": 450000,
           "compare_at_price": null
@@ -195370,7 +195382,7 @@
             "10-12 Yrs"
           ],
           "sku": "AJKLP-05-10-12",
-          "available": true,
+          "available": false,
           "price": 281400,
           "compare_at_price": 469000
         }
@@ -273922,7 +273934,7 @@
             "S"
           ],
           "sku": "AJPB-264-S",
-          "available": true,
+          "available": false,
           "price": 819900,
           "compare_at_price": null
         },
@@ -356832,7 +356844,8 @@
           "name": "Size",
           "position": 1,
           "values": [
-            "XS"
+            "XS",
+            "16-18 Yrs"
           ]
         }
       ],
@@ -356844,6 +356857,17 @@
             "XS"
           ],
           "sku": "AJTF-09-DS-XS",
+          "available": false,
+          "price": 1145000,
+          "compare_at_price": null
+        },
+        "67851125686569": {
+          "id": "67851125686569",
+          "title": "16-18 Yrs",
+          "options": [
+            "16-18 Yrs"
+          ],
+          "sku": "AJTF-09-DS-16-18",
           "available": false,
           "price": 1145000,
           "compare_at_price": null
@@ -381506,12 +381530,12 @@
             "Default Title"
           ],
           "sku": "AJUFC-15-UNS",
-          "available": false,
+          "available": true,
           "price": 449900,
           "compare_at_price": 749900
         }
       },
-      "available": false
+      "available": true
     },
     "15397101273385": {
       "id": "15397101273385",
@@ -385699,12 +385723,12 @@
             "XXS"
           ],
           "sku": "AJULFB-09-DS-XXS",
-          "available": true,
+          "available": false,
           "price": 1529900,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "10055301988649": {
       "id": "10055301988649",
@@ -386404,12 +386428,12 @@
             "Default Title"
           ],
           "sku": "AJULFE-13-UNS",
-          "available": false,
+          "available": true,
           "price": 999900,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "10077637443881": {
       "id": "10077637443881",
