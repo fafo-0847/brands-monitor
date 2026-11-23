@@ -1,29 +1,1392 @@
 {
-  "checked_at": "2026-11-22T22:39:36.262105+00:00",
+  "checked_at": "2026-11-23T11:21:37.869466+00:00",
   "baseline_created": false,
-  "product_count": 292,
-  "change_count": 3,
+  "product_count": 271,
+  "change_count": 135,
   "changes": [
     {
-      "product_id": "10497534624037",
-      "title": "Slim Fit Pique Garment Dye Polo",
-      "url": "https://giordanopk.com/products/slim-fit-pique-garment-dye-polo?variant=52570559512869",
+      "product_id": "10002403983653",
+      "title": "Liquid Touch Polo (Exclusive)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-exclusive",
+      "kind": "Product updated",
+      "detail": "tags: ['clearance', 'polo', 'top'] → ['clearance', 'top']",
+      "field": "tags",
+      "before": [
+        "clearance",
+        "polo",
+        "top"
+      ],
+      "after": [
+        "clearance",
+        "top"
+      ]
+    },
+    {
+      "product_id": "10002476761381",
+      "title": "Urban Explorer Polo",
+      "url": "https://giordanopk.com/products/urban-explorer-polo",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10037572862245",
+      "title": "Waffle Premium Polo (CL)",
+      "url": "https://giordanopk.com/products/waffle-premium-polo-cl-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10183888863525",
+      "title": "3D Lion Polo (CL)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-cl-2",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10183945584933",
+      "title": "Napoleon-Logo Polo",
+      "url": "https://giordanopk.com/products/napoleon-logo-polo-exclusive-collection-cl",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10224460726565",
+      "title": "G All-Over-Print Polo",
+      "url": "https://giordanopk.com/products/g-all-over-print-polo",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10291728974117",
+      "title": "Preppy Contrast Polo (Relaxed Fit)",
+      "url": "https://giordanopk.com/products/preppy-contrast-polo-relaxed-fit",
+      "kind": "New product",
+      "detail": "Price: PKR 6,499.00; available sizes/options: Large / 26 Sign Navy"
+    },
+    {
+      "product_id": "10297139560741",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-cl",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10327310598437",
+      "title": "Excellence Polo",
+      "url": "https://giordanopk.com/products/excellence-polo-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10345611493669",
+      "title": "Liquid Touch Polo (Exclusive Emboss Logo)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-exclusive-emboss-logo?variant=51965486661925",
       "kind": "Sold out",
-      "detail": "Large / 10 Atom"
+      "detail": "73 Pearl Amethyst / XXL"
+    },
+    {
+      "product_id": "10360937087269",
+      "title": "LNY Embroidery Pique Polo",
+      "url": "https://giordanopk.com/products/lny-embroidery-pique-polo",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10406196347173",
+      "title": "Urban-Explorer Polo",
+      "url": "https://giordanopk.com/products/urban-explorer-polo-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "60 Glacier",
+            "27 New Navy"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "60 Glacier",
+            "27 New Navy"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154590501",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / Small title: Small / 27 New Navy → 27 New Navy / Small"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154590501",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / Small options: ['Small', '27 New Navy'] → ['27 New Navy', 'Small']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154688805",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / Small title: Small / 60 Glacier → 60 Glacier / Small"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154688805",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / Small options: ['Small', '60 Glacier'] → ['60 Glacier', 'Small']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154721573",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / Medium title: Medium / 27 New Navy → 27 New Navy / Medium"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154721573",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / Medium options: ['Medium', '27 New Navy'] → ['27 New Navy', 'Medium']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154819877",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / Medium title: Medium / 60 Glacier → 60 Glacier / Medium"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154819877",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / Medium options: ['Medium', '60 Glacier'] → ['60 Glacier', 'Medium']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154852645",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / Large title: Large / 27 New Navy → 27 New Navy / Large"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154852645",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / Large options: ['Large', '27 New Navy'] → ['27 New Navy', 'Large']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154950949",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / Large title: Large / 60 Glacier → 60 Glacier / Large"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154950949",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / Large options: ['Large', '60 Glacier'] → ['60 Glacier', 'Large']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154983717",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / XL title: XL / 27 New Navy → 27 New Navy / XL"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202154983717",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / XL options: ['XL', '27 New Navy'] → ['27 New Navy', 'XL']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202155082021",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / XL title: XL / 60 Glacier → 60 Glacier / XL"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202155082021",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / XL options: ['XL', '60 Glacier'] → ['60 Glacier', 'XL']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202155114789",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / XXL title: XXL / 27 New Navy → 27 New Navy / XXL"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202155114789",
+      "kind": "Size/option updated",
+      "detail": "27 New Navy / XXL options: ['XXL', '27 New Navy'] → ['27 New Navy', 'XXL']"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202155213093",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / XXL title: XXL / 60 Glacier → 60 Glacier / XXL"
+    },
+    {
+      "product_id": "10406197395749",
+      "title": "G-Motion-Cool Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-1?variant=52202155213093",
+      "kind": "Size/option updated",
+      "detail": "60 Glacier / XXL options: ['XXL', '60 Glacier'] → ['60 Glacier', 'XXL']"
+    },
+    {
+      "product_id": "10426762985765",
+      "title": "Liquid Touch Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton-1",
+      "kind": "Product updated",
+      "detail": "tags: ['clearance', 'polo'] → ['clearance']",
+      "field": "tags",
+      "before": [
+        "clearance",
+        "polo"
+      ],
+      "after": [
+        "clearance"
+      ]
+    },
+    {
+      "product_id": "10445186826533",
+      "title": "3D Napoleon-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/3d-napoleon-polo-slim-fit-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "01 Sign White"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "01 Sign White"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807563045",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Small title: Small / 01 Sign White → 01 Sign White / Small"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807563045",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Small options: ['Small', '01 Sign White'] → ['01 Sign White', 'Small']"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807628581",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Medium title: Medium / 01 Sign White → 01 Sign White / Medium"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807628581",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Medium options: ['Medium', '01 Sign White'] → ['01 Sign White', 'Medium']"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807694117",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Large title: Large / 01 Sign White → 01 Sign White / Large"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807694117",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Large options: ['Large', '01 Sign White'] → ['01 Sign White', 'Large']"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807759653",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / XL title: XL / 01 Sign White → 01 Sign White / XL"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807759653",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / XL options: ['XL', '01 Sign White'] → ['01 Sign White', 'XL']"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807825189",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / XXL title: XXL / 01 Sign White → 01 Sign White / XXL"
+    },
+    {
+      "product_id": "10445219463461",
+      "title": "G-Motion Cool-Polo",
+      "url": "https://giordanopk.com/products/g-motion-cool-polo-2?variant=52373807825189",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / XXL options: ['XXL', '01 Sign White'] → ['01 Sign White', 'XXL']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "51 Golden Pear",
+            "01 Sign White"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "51 Golden Pear",
+            "01 Sign White"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550208979237",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / Small title: Small / 51 Golden Pear → 51 Golden Pear / Small"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550208979237",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / Small options: ['Small', '51 Golden Pear'] → ['51 Golden Pear', 'Small']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209208613",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Small title: Small / 01 Sign White → 01 Sign White / Small"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209208613",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Small options: ['Small', '01 Sign White'] → ['01 Sign White', 'Small']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209274149",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / Medium title: Medium / 51 Golden Pear → 51 Golden Pear / Medium"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209274149",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / Medium options: ['Medium', '51 Golden Pear'] → ['51 Golden Pear', 'Medium']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209503525",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Medium title: Medium / 01 Sign White → 01 Sign White / Medium"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209503525",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Medium options: ['Medium', '01 Sign White'] → ['01 Sign White', 'Medium']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209569061",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / Large title: Large / 51 Golden Pear → 51 Golden Pear / Large"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209569061",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / Large options: ['Large', '51 Golden Pear'] → ['51 Golden Pear', 'Large']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209798437",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Large title: Large / 01 Sign White → 01 Sign White / Large"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209798437",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / Large options: ['Large', '01 Sign White'] → ['01 Sign White', 'Large']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209863973",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / XL title: XL / 51 Golden Pear → 51 Golden Pear / XL"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550209863973",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / XL options: ['XL', '51 Golden Pear'] → ['51 Golden Pear', 'XL']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550210093349",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / XL title: XL / 01 Sign White → 01 Sign White / XL"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550210093349",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / XL options: ['XL', '01 Sign White'] → ['01 Sign White', 'XL']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550210158885",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / XXL title: XXL / 51 Golden Pear → 51 Golden Pear / XXL"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550210158885",
+      "kind": "Size/option updated",
+      "detail": "51 Golden Pear / XXL options: ['XXL', '51 Golden Pear'] → ['51 Golden Pear', 'XXL']"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550210388261",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / XXL title: XXL / 01 Sign White → 01 Sign White / XXL"
+    },
+    {
+      "product_id": "10487523934501",
+      "title": "Performance-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-1?variant=52550210388261",
+      "kind": "Size/option updated",
+      "detail": "01 Sign White / XXL options: ['XXL', '01 Sign White'] → ['01 Sign White', 'XXL']"
+    },
+    {
+      "product_id": "10487534321957",
+      "title": "3D-Lion-Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-slim-fit-3",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10487558865189",
+      "title": "Small-Napoleon Polo",
+      "url": "https://giordanopk.com/products/small-napoleon-polo-5",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "79 Atom",
+            "78 Sign Black",
+            "32 Sign White",
+            "17 Emerald Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "32 Sign White",
+            "79 Atom",
+            "78 Sign Black",
+            "17 Emerald Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "75 Brown Olive",
+            "74 White Sand"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "75 Brown Olive",
+            "74 White Sand"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294667557",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / Small title: Small / 75 Brown Olive → 75 Brown Olive / Small"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294667557",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / Small options: ['Small', '75 Brown Olive'] → ['75 Brown Olive', 'Small']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294798629",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / Small title: Small / 74 White Sand → 74 White Sand / Small"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294798629",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / Small options: ['Small', '74 White Sand'] → ['74 White Sand', 'Small']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294831397",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / Medium title: Medium / 75 Brown Olive → 75 Brown Olive / Medium"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294831397",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / Medium options: ['Medium', '75 Brown Olive'] → ['75 Brown Olive', 'Medium']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294962469",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / Medium title: Medium / 74 White Sand → 74 White Sand / Medium"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294962469",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / Medium options: ['Medium', '74 White Sand'] → ['74 White Sand', 'Medium']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294995237",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / Large title: Large / 75 Brown Olive → 75 Brown Olive / Large"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550294995237",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / Large options: ['Large', '75 Brown Olive'] → ['75 Brown Olive', 'Large']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295126309",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / Large title: Large / 74 White Sand → 74 White Sand / Large"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295126309",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / Large options: ['Large', '74 White Sand'] → ['74 White Sand', 'Large']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295159077",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / XL title: XL / 75 Brown Olive → 75 Brown Olive / XL"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295159077",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / XL options: ['XL', '75 Brown Olive'] → ['75 Brown Olive', 'XL']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295290149",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / XL title: XL / 74 White Sand → 74 White Sand / XL"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295290149",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / XL options: ['XL', '74 White Sand'] → ['74 White Sand', 'XL']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295322917",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / XXL title: XXL / 75 Brown Olive → 75 Brown Olive / XXL"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295322917",
+      "kind": "Size/option updated",
+      "detail": "75 Brown Olive / XXL options: ['XXL', '75 Brown Olive'] → ['75 Brown Olive', 'XXL']"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295453989",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / XXL title: XXL / 74 White Sand → 74 White Sand / XXL"
+    },
+    {
+      "product_id": "10487590420773",
+      "title": "Lion Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-2?variant=52550295453989",
+      "kind": "Size/option updated",
+      "detail": "74 White Sand / XXL options: ['XXL', '74 White Sand'] → ['74 White Sand', 'XXL']"
+    },
+    {
+      "product_id": "10513610801445",
+      "title": "World Cup Bold Polo",
+      "url": "https://giordanopk.com/products/world-cup-bold-polo-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10571280908581",
+      "title": "3D-Lion Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-slim-fit-4?variant=52823993516325",
+      "kind": "Back in stock",
+      "detail": "75 Smoke Pine / Medium"
+    },
+    {
+      "product_id": "10571283300645",
+      "title": "Lion-Signature Polo",
+      "url": "https://giordanopk.com/products/lion-signature-polo-3",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "73 Sycamore",
+            "72 Troposphere"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "72 Troposphere",
+            "73 Sycamore"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10571291230501",
+      "title": "Liquid-Touch Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton-2",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "10572438667557",
       "title": "Contrast Stripe Polo",
       "url": "https://giordanopk.com/products/contrast-stripe-polo-1?variant=53795750019365",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "80 White / XL"
+    },
+    {
+      "product_id": "10594754298149",
+      "title": "3D-Lion Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-slim-fit-5",
+      "kind": "Product updated",
+      "detail": "tags: ['clearance', 'polo', 'top'] → ['clearance', 'top']",
+      "field": "tags",
+      "before": [
+        "clearance",
+        "polo",
+        "top"
+      ],
+      "after": [
+        "clearance",
+        "top"
+      ]
+    },
+    {
+      "product_id": "10594756428069",
+      "title": "3D-Lion Polo (Exclusive)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-exclusive-4",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "72 Sign Black",
+            "70 Sign White",
+            "13 Melange Mid Grey",
+            "83 Russet"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "70 Sign White",
+            "72 Sign Black",
+            "13 Melange Mid Grey",
+            "83 Russet"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10594756428069",
+      "title": "3D-Lion Polo (Exclusive)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-exclusive-4?variant=52929639579941",
+      "kind": "Back in stock",
+      "detail": "70 Sign White / Small"
+    },
+    {
+      "product_id": "10594756428069",
+      "title": "3D-Lion Polo (Exclusive)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-exclusive-4?variant=52929640038693",
+      "kind": "Back in stock",
+      "detail": "70 Sign White / Large"
+    },
+    {
+      "product_id": "10594759475493",
+      "title": "3D-Lion Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-slim-fit-6",
+      "kind": "New product",
+      "detail": "Price: PKR 6,499.00; available sizes/options: 20 Dusky Green / Small, 20 Dusky Green / Medium"
+    },
+    {
+      "product_id": "10594761998629",
+      "title": "Small-Napoleon Polo",
+      "url": "https://giordanopk.com/products/small-napoleon-polo-7",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "82 Eclipse",
+            "81 Gray Blue"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "81 Gray Blue",
+            "82 Eclipse"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10594765996325",
+      "title": "Liquid Touch-Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton-4",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "27 New Navy",
+            "1 Sign White",
+            "4 Creamware"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "1 Sign White",
+            "27 New Navy",
+            "4 Creamware"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "10594765996325",
+      "title": "Liquid Touch-Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton-4?variant=52929706131749",
+      "kind": "Price decreased",
+      "detail": "1 Sign White / Small: PKR 11,999.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "10594765996325",
+      "title": "Liquid Touch-Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton-4?variant=52929707114789",
+      "kind": "Price decreased",
+      "detail": "1 Sign White / Large: PKR 11,999.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "10703702622501",
+      "title": "Performance Polo (Slim Fit)",
+      "url": "https://giordanopk.com/products/performance-polo-slim-fit-3?variant=54001594990885",
+      "kind": "Back in stock",
+      "detail": "30 Colony Blue / Large"
+    },
+    {
+      "product_id": "10703737979173",
+      "title": "Performance Polo",
+      "url": "https://giordanopk.com/products/performance-polo-3?variant=54001701716261",
+      "kind": "Sold out",
+      "detail": "45 Capri Blue / Large"
+    },
+    {
+      "product_id": "10703886975269",
+      "title": "3D Lion Polo (Exclusive)",
+      "url": "https://giordanopk.com/products/3d-lion-polo-exclusive-5?variant=54001975820581",
+      "kind": "Back in stock",
+      "detail": "80 Sign White / Small"
     },
     {
       "product_id": "10703892939045",
       "title": "Giordano Signature Polo",
       "url": "https://giordanopk.com/products/giordano-signature-polo-2?variant=54002032148773",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "28 Neptune Blue / Medium"
+    },
+    {
+      "product_id": "10703895265573",
+      "title": "Liquid Touch Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton-5",
+      "kind": "Product updated",
+      "detail": "tags: ['clearance'] → ['polo', 'top']",
+      "field": "tags",
+      "before": [
+        "clearance"
+      ],
+      "after": [
+        "polo",
+        "top"
+      ]
+    },
+    {
+      "product_id": "10703908372773",
+      "title": "Solid Cotton Lycra Polo (Double-Piping)",
+      "url": "https://giordanopk.com/products/solid-cotton-lycra-polo-double-piping-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10703914139941",
+      "title": "Solid Cotton Lycra Polo (Double Piping)",
+      "url": "https://giordanopk.com/products/solid-cotton-lycra-polo-double-piping-2",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "10703916794149",
+      "title": "Exploration-Polo",
+      "url": "https://giordanopk.com/products/exploration-polo-2?variant=54002387222821",
+      "kind": "Back in stock",
+      "detail": "01 Sign White / Medium"
+    },
+    {
+      "product_id": "10733112131877",
+      "title": "Liquid Touch Polo (Exclusive)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-exclusive-1",
+      "kind": "Product updated",
+      "detail": "tags: ['clearance'] → ['polo', 'top']",
+      "field": "tags",
+      "before": [
+        "clearance"
+      ],
+      "after": [
+        "polo",
+        "top"
+      ]
+    },
+    {
+      "product_id": "10733116227877",
+      "title": "Liquid Touch Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton-6?variant=54201015763237",
+      "kind": "Back in stock",
+      "detail": "62 Eclipse / Medium"
+    },
+    {
+      "product_id": "10733116227877",
+      "title": "Liquid Touch Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton-6?variant=54201015796005",
+      "kind": "Back in stock",
+      "detail": "62 Eclipse / Large"
+    },
+    {
+      "product_id": "8418942877989",
+      "title": "AntiMicrobial Small Napoleon Polo (CL)",
+      "url": "https://giordanopk.com/products/antimicrobial-small-napoleon-polo-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9429697855781",
+      "title": "G-Motion Logo Polo",
+      "url": "https://giordanopk.com/products/g-motion-logo-polo",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9662642356517",
+      "title": "Liquid-Touch Polo (Premium Cotton)",
+      "url": "https://giordanopk.com/products/liquid-touch-polo-premium-cotton",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9695051252005",
+      "title": "Solid Crewneck Knitwear Pull Over",
+      "url": "https://giordanopk.com/products/merino-wool-blend-sweater?variant=49956147003685",
+      "kind": "Back in stock",
+      "detail": "Large / 01 Dark Grey"
+    },
+    {
+      "product_id": "9725233266981",
+      "title": "Classics Polo",
+      "url": "https://giordanopk.com/products/classics-polo?variant=50053523865893",
+      "kind": "Sold out",
+      "detail": "Large / 13 Mocha Bisque"
+    },
+    {
+      "product_id": "9725239689509",
+      "title": "Classic Polo",
+      "url": "https://giordanopk.com/products/classic-polo-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9729739587877",
+      "title": "Performance-Polo (CL)",
+      "url": "https://giordanopk.com/products/performance-polo-cl-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50389227602213",
+      "kind": "Price increased",
+      "detail": "Small / 48 Emerald Green: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50389227634981",
+      "kind": "Price increased",
+      "detail": "Medium / 48 Emerald Green: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50389227667749",
+      "kind": "Price increased",
+      "detail": "Large / 48 Emerald Green: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50389227700517",
+      "kind": "Price increased",
+      "detail": "XL / 48 Emerald Green: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50389227733285",
+      "kind": "Price increased",
+      "detail": "XXL / 48 Emerald Green: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50660943102245",
+      "kind": "Price increased",
+      "detail": "Small / 04 Hauted Red: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50660943135013",
+      "kind": "Price increased",
+      "detail": "Medium / 04 Hauted Red: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50660943167781",
+      "kind": "Price increased",
+      "detail": "Large / 04 Hauted Red: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50660943200549",
+      "kind": "Price increased",
+      "detail": "XL / 04 Hauted Red: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9729749025061",
+      "title": "Giordano Signature Polo (CL)",
+      "url": "https://giordanopk.com/products/giordano-signature-polo-cl?variant=50660943233317",
+      "kind": "Price increased",
+      "detail": "XXL / 04 Hauted Red: PKR 5,399.00 → PKR 6,499.00"
+    },
+    {
+      "product_id": "9759165153573",
+      "title": "Solid Cotton Lycra Polo (CL)",
+      "url": "https://giordanopk.com/products/solid-lycra-polo-cl",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9759169937701",
+      "title": "Solid Cotton Lycra Polo (CL)",
+      "url": "https://giordanopk.com/products/solid-lycra-polo-double-piping-cl",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "9794097447205",
+      "title": "Thematic-Polo",
+      "url": "https://giordanopk.com/products/thematic-polo-2",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     }
   ]
 }
