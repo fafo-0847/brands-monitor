@@ -1,29 +1,94 @@
 {
-  "checked_at": "2026-11-22T22:41:58.120803+00:00",
+  "checked_at": "2026-11-23T11:24:27.982907+00:00",
   "baseline_created": false,
   "product_count": 730,
-  "change_count": 3,
+  "change_count": 8,
   "changes": [
     {
-      "product_id": "15191728521469",
-      "title": "Muted 2 piece",
-      "url": "https://wearego.com/products/muted-2-piece-e07274-sb0-rtw?variant=70990227439869",
-      "kind": "Sold out",
-      "detail": "XL"
+      "product_id": "15333908939005",
+      "title": "Ocean 3 piece",
+      "url": "https://wearego.com/products/ocean-3-piece-s00315-cr0-soul?variant=71280525443325",
+      "kind": "Back in stock",
+      "detail": "S"
     },
     {
-      "product_id": "9215730286845",
-      "title": "Jaaliyan 3 piece",
-      "url": "https://wearego.com/products/jaaliyan-3-piece-s00258-yl0-soul?variant=47380553171197",
+      "product_id": "15426030436605",
+      "title": "Solo 3 piece",
+      "url": "https://wearego.com/products/solo-3-piece-u00852-pk0-unstitched?variant=71555688956157",
+      "kind": "Sold out",
+      "detail": "UNSTITCHED"
+    },
+    {
+      "product_id": "15488372015357",
+      "title": "Porcelain 2 piece",
+      "url": "https://wearego.com/products/porcelain-2-piece-e07364-cr0-rtw",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/DSC02575_copy.jpg?v=1794570675",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07364-CR0-2.jpg?v=1794312934",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07364-CR0-3.jpg?v=1794312934",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07364-CR0-5.jpg?v=1794312934",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07364-CR0.jpg?v=1794312934"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07364-CR0-2.jpg?v=1794312934",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07364-CR0-3.jpg?v=1794312934",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07364-CR0-5.jpg?v=1794312934",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07364-CR0.jpg?v=1794312934"
+      ]
+    },
+    {
+      "product_id": "15488372146429",
+      "title": "Glazed 2 piece",
+      "url": "https://wearego.com/products/glazed-2-piece-e07368-mg0-rtw",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/DSC02906.jpg?v=1794570777",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/DSC03025_1.jpg?v=1794570776",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07368-MG0-2.jpg?v=1794312938",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07368-MG0-3.jpg?v=1794312939",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07368-MG0-4.jpg?v=1794312939",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07368-MG0-5.jpg?v=1794312938"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/DSC02906.jpg?v=1794570777",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07368-MG0-2.jpg?v=1794312938",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07368-MG0-3.jpg?v=1794312939",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07368-MG0-4.jpg?v=1794312939",
+        "https://cdn.shopify.com/s/files/1/0568/3308/1529/files/E07368-MG0-5.jpg?v=1794312938"
+      ]
+    },
+    {
+      "product_id": "6693727666361",
+      "title": "Next-2-Skin",
+      "url": "https://wearego.com/products/lk0073-bg0?variant=39941960499385",
+      "kind": "Sold out",
+      "detail": "XS"
+    },
+    {
+      "product_id": "9342926061821",
+      "title": "Scattered 2 piece",
+      "url": "https://wearego.com/products/scattered-2-piece-ks0440-lp0-little-ego?variant=47805846257917",
+      "kind": "Sold out",
+      "detail": "5-6Y"
+    },
+    {
+      "product_id": "9342982848765",
+      "title": "Red Polka 2 piece",
+      "url": "https://wearego.com/products/red-polka-2-piece-e07203-rd0-rtw?variant=47806843191549",
       "kind": "Sold out",
       "detail": "S"
     },
     {
-      "product_id": "9278889263357",
-      "title": "Scallops 2 piece",
-      "url": "https://wearego.com/products/scallops-2-piece-e07188-cg0-rtw?variant=47535815033085",
+      "product_id": "9359524692221",
+      "title": "Blossom 2 piece",
+      "url": "https://wearego.com/products/blossom-2-piece-ks0477-pk1-little-ego?variant=47868867969277",
       "kind": "Sold out",
-      "detail": "S"
+      "detail": "5-6Y"
     }
   ]
 }
