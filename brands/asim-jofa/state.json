@@ -3,7 +3,7 @@
   "source": "https://asimjofa.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T11:21:53.268934+00:00",
+  "checked_at": "2026-11-24T23:34:40.479940+00:00",
   "products": {
     "8092091908393": {
       "id": "8092091908393",
@@ -92511,12 +92511,12 @@
             "Default Title"
           ],
           "sku": "AJFU-09-UNS",
-          "available": true,
+          "available": false,
           "price": 749900,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "15424581140777": {
       "id": "15424581140777",
@@ -131186,12 +131186,12 @@
             "Green"
           ],
           "sku": "AJJEA-127",
-          "available": true,
+          "available": false,
           "price": 108000,
           "compare_at_price": 180000
         }
       },
-      "available": true
+      "available": false
     },
     "9696401293609": {
       "id": "9696401293609",
@@ -278567,7 +278567,7 @@
             "S"
           ],
           "sku": "AJPB-318-S",
-          "available": true,
+          "available": false,
           "price": 649000,
           "compare_at_price": null
         },
@@ -278608,7 +278608,7 @@
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "10081466417449": {
       "id": "10081466417449",
@@ -286101,7 +286101,7 @@
             "L"
           ],
           "sku": "AJPB-94-L",
-          "available": true,
+          "available": false,
           "price": 275000,
           "compare_at_price": null
         },
@@ -286118,7 +286118,7 @@
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "9608697905449": {
       "id": "9608697905449",
@@ -288588,12 +288588,12 @@
             "S"
           ],
           "sku": "AJPB-35-DS-S",
-          "available": true,
+          "available": false,
           "price": 315000,
           "compare_at_price": 525000
         }
       },
-      "available": true
+      "available": false
     },
     "9548849611049": {
       "id": "9548849611049",
@@ -290869,6 +290869,91 @@
       },
       "available": true
     },
+    "15452398911785": {
+      "id": "15452398911785",
+      "title": "AJPBS-03 Embroidered Cambric Stitched 2 Pcs",
+      "handle": "ajpbs-03-embroidered-cambric-stitched-2-pcs",
+      "url": "https://asimjofa.com/products/ajpbs-03-embroidered-cambric-stitched-2-pcs",
+      "vendor": "Embroidered Cambric Drop 2",
+      "type": "Stitched",
+      "description": "<p><span style=\"font-size: 11.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">A vision of understated luxury, this gorgeous teal ensemble features exquisite tonal embroidery that lends the fabric beautiful texture and depth. The delicately scalloped neckline and hemline add an elegant finishing touch, while the sleek trousers complete the look with effortless sophistication.</span></p>",
+      "tags": [
+        "2 Pcs",
+        "Cambric",
+        "DAILY NEW IN",
+        "Embroidered",
+        "New",
+        "Pret",
+        "Shirt",
+        "Stitched",
+        "Trouser",
+        "Women"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9027.jpg?v=1795516658",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9029-2.jpg?v=1795516658",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9029.jpg?v=1795516658"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "67855381791017": {
+          "id": "67855381791017",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "AJPBS-03-S",
+          "available": true,
+          "price": 969000,
+          "compare_at_price": null
+        },
+        "67855381823785": {
+          "id": "67855381823785",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "AJPBS-03-M",
+          "available": true,
+          "price": 969000,
+          "compare_at_price": null
+        },
+        "67855381856553": {
+          "id": "67855381856553",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "AJPBS-03-L",
+          "available": true,
+          "price": 969000,
+          "compare_at_price": null
+        },
+        "67855381889321": {
+          "id": "67855381889321",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "AJPBS-03-XL",
+          "available": true,
+          "price": 969000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "15429562499369": {
       "id": "15429562499369",
       "title": "AJPBS-04 Embroidered Cambric Stitched 2 Pcs",
@@ -290955,6 +291040,348 @@
           "sku": "AJPBS-04-XL",
           "available": true,
           "price": 979000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15429562466601": {
+      "id": "15429562466601",
+      "title": "AJPBS-05 Embroidered Cambric Stitched 2 Pcs",
+      "handle": "ajpbs-05-embroidered-cambric-stitched-2-pcs",
+      "url": "https://asimjofa.com/products/ajpbs-05-embroidered-cambric-stitched-2-pcs",
+      "vendor": "Embroidered Cambric Drop 2",
+      "type": "Stitched",
+      "description": "<p><span style=\"font-size: 11.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Like a blooming garden beneath the midnight sky, this deep navy-blue ensemble is adorned with exquisite floral embroidery brought to life through intricate multihued threadwork. The artful cutwork detailing along the neckline and hemline lends a contemporary edge, while the beautifully tailored shalwar brings a touch of traditional charm. A perfect harmony of timeless elegance and modern allure.</span></p>",
+      "tags": [
+        "2 Pcs",
+        "Cambric",
+        "DAILY NEW IN",
+        "Embroidered",
+        "New",
+        "Pret",
+        "Shirt",
+        "Stitched",
+        "Trouser",
+        "Women"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9035.jpg?v=1795516227",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9038-2.jpg?v=1795516227",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9038.jpg?v=1795516227"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "67747345072425": {
+          "id": "67747345072425",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "AJPBS-05-S",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67747345105193": {
+          "id": "67747345105193",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "AJPBS-05-M",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67747345137961": {
+          "id": "67747345137961",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "AJPBS-05-L",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67747345170729": {
+          "id": "67747345170729",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "AJPBS-05-XL",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15452398944553": {
+      "id": "15452398944553",
+      "title": "AJPBS-06 Embroidered Cambric Stitched 2 Pcs",
+      "handle": "ajpbs-06-embroidered-cambric-stitched-2-pcs",
+      "url": "https://asimjofa.com/products/ajpbs-06-embroidered-cambric-stitched-2-pcs",
+      "vendor": "Embroidered Cambric Drop 2",
+      "type": "Stitched",
+      "description": "<p><span style=\"font-size: 11.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Rich in color and exquisite in detail, this mulberry-hued ensemble is adorned with stunning floral embroidery that graces the shirt's front with captivating artistry. The distinctive neckline, beautifully scalloped hemline and intricate multihued threadwork come together to create a truly striking composition. Paired with contrasting purple trousers, the look embraces a refreshing play of color and contemporary sophistication.</span></p>",
+      "tags": [
+        "2 Pcs",
+        "Cambric",
+        "DAILY NEW IN",
+        "Embroidered",
+        "New",
+        "Pret",
+        "Shirt",
+        "Stitched",
+        "Trouser",
+        "Women"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9040.jpg?v=1795516467",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9041-2.jpg?v=1795516467",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9041.jpg?v=1795516467",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9042.jpg?v=1795516467"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "67855381922089": {
+          "id": "67855381922089",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "AJPBS-06-S",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67855381954857": {
+          "id": "67855381954857",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "AJPBS-06-M",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67855381987625": {
+          "id": "67855381987625",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "AJPBS-06-L",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67855382020393": {
+          "id": "67855382020393",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "AJPBS-06-XL",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15452398846249": {
+      "id": "15452398846249",
+      "title": "AJPBS-07 Embroidered Cambric Stitched 2 Pcs",
+      "handle": "ajpbs-07-embroidered-cambric-stitched-2-pcs",
+      "url": "https://asimjofa.com/products/ajpbs-07-embroidered-cambric-stitched-2-pcs",
+      "vendor": "Embroidered Cambric Drop 2",
+      "type": "Stitched",
+      "description": "<p><span style=\"font-size: 11.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">An expression of refined opulence, this olive-green ensemble features a beautifully embroidered neckline, brought to life through intricate multihued threadwork that complements its rich base. Exquisite cutwork detailing along the borders and hemline adds dimension and contemporary charm, while the embroidered trouser complete this gorgeous look with an added touch of ethnic grandeur.</span></p>",
+      "tags": [
+        "2 Pcs",
+        "Cambric",
+        "DAILY NEW IN",
+        "Embroidered",
+        "New",
+        "Pret",
+        "Shirt",
+        "Stitched",
+        "Trouser",
+        "Women"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9466.JPG_1.jpg?v=1795518851",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9466.jpg?v=1795518851",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9468.jpg?v=1795518851",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9470.jpg?v=1795518851"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "67855381528873": {
+          "id": "67855381528873",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "AJPBS-07-S",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67855381561641": {
+          "id": "67855381561641",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "AJPBS-07-M",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67855381594409": {
+          "id": "67855381594409",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "AJPBS-07-L",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        },
+        "67855381627177": {
+          "id": "67855381627177",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "AJPBS-07-XL",
+          "available": true,
+          "price": 979000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15452398879017": {
+      "id": "15452398879017",
+      "title": "AJPBS-08 Embroidered Cambric Stitched 2 Pcs",
+      "handle": "ajpbs-08-embroidered-cambric-stitched-2-pcs",
+      "url": "https://asimjofa.com/products/ajpbs-08-embroidered-cambric-stitched-2-pcs",
+      "vendor": "Embroidered Cambric Drop 2",
+      "type": "Stitched",
+      "description": "<p><span style=\"font-size: 11.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Divine, feminine and irresistibly captivating, this shocking pink ensemble is an ode to the beauty of colors. Adorned with exquisite floral threadwork in beautifully complementary tones, the shirt is further accentuated with delicate scalloped detailing along the edges, creating a seamless interplay of intricate artistry and elegance. Paired with contrasting peach-hued trousers, this ensemble makes a truly enchanting statement.</span></p>",
+      "tags": [
+        "2 Pcs",
+        "Cambric",
+        "DAILY NEW IN",
+        "Embroidered",
+        "New",
+        "Pret",
+        "Shirt",
+        "Stitched",
+        "Trouser",
+        "Women"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9471_c023d8a3-74ff-4377-acba-5625c723c327.jpg?v=1795523912",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9475-2.jpg?v=1795523912",
+        "https://cdn.shopify.com/s/files/1/0690/7320/7593/files/IMG_9475.jpg?v=1795523912"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "67855381659945": {
+          "id": "67855381659945",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "AJPBS-08-S",
+          "available": true,
+          "price": 969000,
+          "compare_at_price": null
+        },
+        "67855381692713": {
+          "id": "67855381692713",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "AJPBS-08-M",
+          "available": true,
+          "price": 969000,
+          "compare_at_price": null
+        },
+        "67855381725481": {
+          "id": "67855381725481",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "AJPBS-08-L",
+          "available": true,
+          "price": 969000,
+          "compare_at_price": null
+        },
+        "67855381758249": {
+          "id": "67855381758249",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "AJPBS-08-XL",
+          "available": true,
+          "price": 969000,
           "compare_at_price": null
         }
       },
@@ -301348,7 +301775,7 @@
             "M"
           ],
           "sku": "AJPF-21-CB-M",
-          "available": false,
+          "available": true,
           "price": 1299000,
           "compare_at_price": null
         },
@@ -301364,7 +301791,7 @@
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "9741247316265": {
       "id": "9741247316265",
@@ -326950,12 +327377,12 @@
             "Default Title"
           ],
           "sku": "AJSM-46-Unstitched",
-          "available": false,
+          "available": true,
           "price": 484000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "8269756793129": {
       "id": "8269756793129",
@@ -339724,12 +340151,12 @@
             "Default Title"
           ],
           "sku": "AJSO-323-UNS",
-          "available": true,
+          "available": false,
           "price": 374000,
           "compare_at_price": 935000
         }
       },
-      "available": true
+      "available": false
     },
     "9979569176873": {
       "id": "9979569176873",
@@ -353329,12 +353756,12 @@
             "S"
           ],
           "sku": "AJSW-12-DS-S",
-          "available": false,
+          "available": true,
           "price": 1110000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "9971974504745": {
       "id": "9971974504745",
@@ -379562,12 +379989,12 @@
             "Default Title"
           ],
           "sku": "AJUEV-20-UNS",
-          "available": true,
+          "available": false,
           "price": 795000,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "15443928121641": {
       "id": "15443928121641",
@@ -381763,12 +382190,12 @@
             "Default Title"
           ],
           "sku": "AJUFC-19-UNS",
-          "available": true,
+          "available": false,
           "price": 449900,
           "compare_at_price": 749900
         }
       },
-      "available": true
+      "available": false
     },
     "15397366333737": {
       "id": "15397366333737",
@@ -383048,12 +383475,12 @@
             "Default Title"
           ],
           "sku": "AJULC-07-UNS",
-          "available": true,
+          "available": false,
           "price": 689900,
           "compare_at_price": 1149900
         }
       },
-      "available": true
+      "available": false
     },
     "15402313646377": {
       "id": "15402313646377",
@@ -386428,12 +386855,12 @@
             "Default Title"
           ],
           "sku": "AJULFE-13-UNS",
-          "available": true,
+          "available": false,
           "price": 999900,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "10077637443881": {
       "id": "10077637443881",
