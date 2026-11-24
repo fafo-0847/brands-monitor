@@ -1,533 +1,1044 @@
 {
-  "checked_at": "2026-11-23T09:10:12.450079+00:00",
+  "checked_at": "2026-11-24T01:06:43.715979+00:00",
   "baseline_created": false,
-  "product_count": 767,
-  "change_count": 74,
+  "product_count": 811,
+  "change_count": 148,
   "changes": [
     {
-      "product_id": "100926022951829594",
-      "title": "SOZ-E-RAANAI",
-      "url": "https://bareeze.com/soz-e-raanai-1",
-      "kind": "Product updated",
-      "detail": "Images changed (see changes.json for full before/after)",
-      "field": "images",
-      "before": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl2874-green-1100926033402.jpg"
-      ],
-      "after": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl2874-beige-1231126100851.jpg"
-      ]
+      "product_id": "100326153725428611",
+      "title": "KHIYAL E PARDAZ",
+      "url": "https://bareeze.com/khiyal-e-pardaz-1",
+      "kind": "New product",
+      "detail": "Price: PKR 64.40; available sizes/options: Default"
+    },
+    {
+      "product_id": "100726171211754897",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2409?variant=100726171211754897",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 67.98 → PKR 40.20"
+    },
+    {
+      "product_id": "100726171211754897",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2409?variant=100726171211754897",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 97.11 → PKR 57.42"
+    },
+    {
+      "product_id": "100926022951938454",
+      "title": "ELLEGENCE CROSS STITCH 06",
+      "url": "https://bareeze.com/ellegence-cross-stitch-06-2",
+      "kind": "New product",
+      "detail": "Price: PKR 109.76; available sizes/options: Default"
+    },
+    {
+      "product_id": "100926022951960030",
+      "title": "GEOMATRIC PATTERN",
+      "url": "https://bareeze.com/geomatric-pattern?variant=100926022951960030",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 134.76 → PKR 114.57"
+    },
+    {
+      "product_id": "100926022951960030",
+      "title": "GEOMATRIC PATTERN",
+      "url": "https://bareeze.com/geomatric-pattern?variant=100926022951960030",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 134.76"
+    },
+    {
+      "product_id": "100926022952159368",
+      "title": "MODERN CROSS STITCH",
+      "url": "https://bareeze.com/modern-cross-stitch-1?variant=100926022952159368",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 147.26 → PKR 125.20"
+    },
+    {
+      "product_id": "100926022952159368",
+      "title": "MODERN CROSS STITCH",
+      "url": "https://bareeze.com/modern-cross-stitch-1?variant=100926022952159368",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 147.26"
+    },
+    {
+      "product_id": "100926022952302043",
+      "title": "SAMARKAND",
+      "url": "https://bareeze.com/samarkand?variant=100926022952302043",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 140.23 → PKR 119.22"
+    },
+    {
+      "product_id": "100926022952302043",
+      "title": "SAMARKAND",
+      "url": "https://bareeze.com/samarkand?variant=100926022952302043",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 140.23"
+    },
+    {
+      "product_id": "100926022952529393",
+      "title": "GOLD PEONIES",
+      "url": "https://bareeze.com/gold-peonies-3",
+      "kind": "New product",
+      "detail": "Price: PKR 133.98; available sizes/options: Default"
+    },
+    {
+      "product_id": "100926022952646321",
+      "title": "SMOKE BUSH",
+      "url": "https://bareeze.com/smoke-bush?variant=100926022952646321",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 151.36 → PKR 128.67"
+    },
+    {
+      "product_id": "100926022952646321",
+      "title": "SMOKE BUSH",
+      "url": "https://bareeze.com/smoke-bush?variant=100926022952646321",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 151.36"
     },
     {
       "product_id": "100926022952746799",
       "title": "DAY LILLY",
       "url": "https://bareeze.com/day-lilly-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "100926022952782864",
+      "title": "GRACE FUL 01",
+      "url": "https://bareeze.com/grace-ful-01-1?variant=100926022952782864",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 141.99 → PKR 120.70"
+    },
+    {
+      "product_id": "100926022952782864",
+      "title": "GRACE FUL 01",
+      "url": "https://bareeze.com/grace-ful-01-1?variant=100926022952782864",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 141.99"
+    },
+    {
+      "product_id": "100926022952842166",
+      "title": "BAGH E ZARRIN",
+      "url": "https://bareeze.com/bagh-e-zarrin-2?variant=100926022952842166",
+      "kind": "Price increased",
+      "detail": "Default: PKR 370.72 → PKR 387.77"
+    },
+    {
+      "product_id": "110226030342029327",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-61",
       "kind": "New product",
-      "detail": "Price: PKR 119.70; available sizes/options: Default"
+      "detail": "Price: PKR 61.41; available sizes/options: Default"
+    },
+    {
+      "product_id": "110226030342032822",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2306?variant=110226030342032822",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 61.69 → PKR 33.91"
+    },
+    {
+      "product_id": "110226030342032822",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2306?variant=110226030342032822",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 88.12 → PKR 48.44"
+    },
+    {
+      "product_id": "110226030342045170",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2309",
+      "kind": "New product",
+      "detail": "Price: PKR 69.07; available sizes/options: Default"
+    },
+    {
+      "product_id": "11225011107254072",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2265",
+      "kind": "New product",
+      "detail": "Price: PKR 52.17; available sizes/options: Default"
+    },
+    {
+      "product_id": "11225011107264730",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2268",
+      "kind": "New product",
+      "detail": "Price: PKR 52.17; available sizes/options: Default"
+    },
+    {
+      "product_id": "120925153339611027",
+      "title": "ETHNIC STRIKE SHAWL",
+      "url": "https://bareeze.com/ethnic-strike-shawl-2",
+      "kind": "New product",
+      "detail": "Price: PKR 341.80; available sizes/options: Default"
+    },
+    {
+      "product_id": "120925153928314442",
+      "title": "ETHNIC STRIKE SHAWL",
+      "url": "https://bareeze.com/ethnic-strike-shawl-1",
+      "kind": "New product",
+      "detail": "Price: PKR 341.80; available sizes/options: Default"
+    },
+    {
+      "product_id": "121225181559998518",
+      "title": "AKAS-E-GULL SHAWL",
+      "url": "https://bareeze.com/akas-e-gull-shawl",
+      "kind": "New product",
+      "detail": "Price: PKR 371.88; available sizes/options: Default"
+    },
+    {
+      "product_id": "130925033032297223",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2113",
+      "kind": "New product",
+      "detail": "Price: PKR 52.03; available sizes/options: Default"
+    },
+    {
+      "product_id": "130925033032357067",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2120",
+      "kind": "New product",
+      "detail": "Price: PKR 52.03; available sizes/options: Default"
+    },
+    {
+      "product_id": "130925145405060796",
+      "title": "BAZRIQA-01 SHAWL",
+      "url": "https://bareeze.com/bazriqa-01-shawl",
+      "kind": "New product",
+      "detail": "Price: PKR 270.70; available sizes/options: Default"
+    },
+    {
+      "product_id": "130925145405097796",
+      "title": "FLOREN SHAWL",
+      "url": "https://bareeze.com/floren-shawl-1",
+      "kind": "New product",
+      "detail": "Price: PKR 232.42; available sizes/options: Default"
+    },
+    {
+      "product_id": "131126144919098222",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2499?variant=131126144919098222",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 64.63 → PKR 34.75"
+    },
+    {
+      "product_id": "131126144919098222",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2499?variant=131126144919098222",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 86.17 → PKR 46.33"
+    },
+    {
+      "product_id": "140225182528845782",
+      "title": "IKAT GLOW",
+      "url": "https://bareeze.com/ikat-glow",
+      "kind": "New product",
+      "detail": "Price: PKR 118.73; available sizes/options: Default"
+    },
+    {
+      "product_id": "140526155540443565",
+      "title": "WASL-E-BAHAR",
+      "url": "https://bareeze.com/wasl-e-bahar-1",
+      "kind": "New product",
+      "detail": "Price: PKR 53.46; available sizes/options: Default"
+    },
+    {
+      "product_id": "140526155540478788",
+      "title": "DHAKAI JAMDANI",
+      "url": "https://bareeze.com/dhakai-jamdani-5",
+      "kind": "New product",
+      "detail": "Price: PKR 91.05; available sizes/options: Default"
+    },
+    {
+      "product_id": "140526163826167521",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2378?variant=140526163826167521",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 67.98 → PKR 40.20"
+    },
+    {
+      "product_id": "140526163826167521",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2378?variant=140526163826167521",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 97.11 → PKR 57.42"
+    },
+    {
+      "product_id": "140925015846745642",
+      "title": "TRIBLE-02 SHAWL",
+      "url": "https://bareeze.com/trible-02-shawl",
+      "kind": "New product",
+      "detail": "Price: PKR 207.81; available sizes/options: Default"
+    },
+    {
+      "product_id": "171026015645131922",
+      "title": "BLACK STONE",
+      "url": "https://bareeze.com/black-stone",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "180226030809128896",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2312",
+      "kind": "New product",
+      "detail": "Price: PKR 51.84; available sizes/options: Default"
+    },
+    {
+      "product_id": "180226030809158134",
+      "title": "GUL E NAQSH",
+      "url": "https://bareeze.com/gul-e-naqsh-2",
+      "kind": "New product",
+      "detail": "Price: PKR 131.80; available sizes/options: Default"
+    },
+    {
+      "product_id": "180226044801551373",
+      "title": "FLAMINGO SHADOW WORK",
+      "url": "https://bareeze.com/flamingo-shadow-work",
+      "kind": "New product",
+      "detail": "Price: PKR 67.54; available sizes/options: Default"
     },
     {
       "product_id": "180826185116601293",
       "title": "Printed & Embroidered",
-      "url": "https://bareeze.com/printed-embroidered-157",
-      "kind": "New product",
-      "detail": "Price: PKR 46.82; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185116603776",
-      "title": "Printed & Embroidered",
-      "url": "https://bareeze.com/printed-embroidered-158",
-      "kind": "New product",
-      "detail": "Price: PKR 77.93; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-embroidered-157?variant=180826185116601293",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 46.82 → PKR 41.31"
     },
     {
       "product_id": "180826185116605962",
       "title": "Printed & Embroidered",
-      "url": "https://bareeze.com/printed-embroidered-159",
-      "kind": "New product",
-      "detail": "Price: PKR 60.96; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-embroidered-159?variant=180826185116605962",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 60.96 → PKR 53.79"
     },
     {
       "product_id": "180826185116608132",
       "title": "Printed & Embroidered",
-      "url": "https://bareeze.com/printed-embroidered-160",
-      "kind": "New product",
-      "detail": "Price: PKR 91.18; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-embroidered-160?variant=180826185116608132",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 91.18 → PKR 80.45"
     },
     {
       "product_id": "180826185116610209",
       "title": "Printed & Embroidered",
-      "url": "https://bareeze.com/printed-embroidered-161",
-      "kind": "New product",
-      "detail": "Price: PKR 71.05; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-embroidered-161?variant=180826185116610209",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 71.05 → PKR 62.70"
     },
     {
       "product_id": "180826185116612766",
       "title": "Printed & Embroidered",
-      "url": "https://bareeze.com/printed-embroidered-162",
+      "url": "https://bareeze.com/printed-embroidered-162?variant=180826185116612766",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 86.00 → PKR 75.88"
+    },
+    {
+      "product_id": "180826185116614925",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-163",
       "kind": "New product",
-      "detail": "Price: PKR 86.00; available sizes/options: Default"
+      "detail": "Price: PKR 75.88; available sizes/options: Default"
     },
     {
       "product_id": "180826185116617088",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2418",
-      "kind": "New product",
-      "detail": "Price: PKR 76.23; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2418?variant=180826185116617088",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 76.23 → PKR 37.50"
+    },
+    {
+      "product_id": "180826185116617088",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2418?variant=180826185116617088",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 89.69 → PKR 50.00"
     },
     {
       "product_id": "180826185116619866",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2419",
-      "kind": "New product",
-      "detail": "Price: PKR 42.50; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2419?variant=180826185116619866",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 42.50 → PKR 37.50"
     },
     {
       "product_id": "180826185116622526",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2420",
-      "kind": "New product",
-      "detail": "Price: PKR 48.81; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2420?variant=180826185116622526",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 48.81 → PKR 43.07"
     },
     {
       "product_id": "180826185116625193",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2421",
-      "kind": "New product",
-      "detail": "Price: PKR 41.17; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2421?variant=180826185116625193",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 41.17 → PKR 36.33"
     },
     {
       "product_id": "180826185116628632",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2422",
-      "kind": "New product",
-      "detail": "Price: PKR 74.91; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2422?variant=180826185116628632",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 74.91 → PKR 66.09"
     },
     {
       "product_id": "180826185116631286",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2423",
-      "kind": "New product",
-      "detail": "Price: PKR 50.14; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2423?variant=180826185116631286",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 50.14 → PKR 44.24"
     },
     {
       "product_id": "180826185116633985",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2424",
-      "kind": "New product",
-      "detail": "Price: PKR 50.14; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2424?variant=180826185116633985",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 50.14 → PKR 44.24"
     },
     {
       "product_id": "180826185116636706",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2425",
-      "kind": "New product",
-      "detail": "Price: PKR 42.50; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2425?variant=180826185116636706",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 42.50 → PKR 37.50"
     },
     {
       "product_id": "180826185116639357",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2426",
-      "kind": "New product",
-      "detail": "Price: PKR 76.37; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2426?variant=180826185116639357",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 76.37 → PKR 67.38"
     },
     {
       "product_id": "180826185116642013",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2427",
-      "kind": "New product",
-      "detail": "Price: PKR 83.88; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2427?variant=180826185116642013",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 83.88 → PKR 74.01"
     },
     {
       "product_id": "180826185116644672",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2428",
-      "kind": "New product",
-      "detail": "Price: PKR 83.88; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2428?variant=180826185116644672",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 83.88 → PKR 44.24"
     },
     {
-      "product_id": "180826185447649800",
-      "title": "ELLEGANCE FLORAL 02",
-      "url": "https://bareeze.com/ellegance-floral-02-1",
-      "kind": "New product",
-      "detail": "Price: PKR 133.83; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447656987",
-      "title": "GEOMETRIC FUSION 03",
-      "url": "https://bareeze.com/geometric-fusion-03-1",
-      "kind": "New product",
-      "detail": "Price: PKR 113.90; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447664197",
-      "title": "ETHNIC-05",
-      "url": "https://bareeze.com/ethnic-05-1",
-      "kind": "New product",
-      "detail": "Price: PKR 97.97; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447671288",
-      "title": "BAGH-E-BAHAR",
-      "url": "https://bareeze.com/bagh-e-bahar-11",
-      "kind": "New product",
-      "detail": "Price: PKR 115.39; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447678223",
-      "title": "ANDAAZ-E-GUL 01",
-      "url": "https://bareeze.com/andaaz-e-gul-01-1",
-      "kind": "New product",
-      "detail": "Price: PKR 107.93; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447685446",
-      "title": "FLORAL HARMONY 02",
-      "url": "https://bareeze.com/floral-harmony-02-1",
-      "kind": "New product",
-      "detail": "Price: PKR 109.08; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447692709",
-      "title": "FLORANCE 03",
-      "url": "https://bareeze.com/florance-03-1",
-      "kind": "New product",
-      "detail": "Price: PKR 115.39; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447700649",
-      "title": "ETHNIC SPLASH 02",
-      "url": "https://bareeze.com/ethnic-splash-02-1",
-      "kind": "New product",
-      "detail": "Price: PKR 60.94; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447708336",
-      "title": "PANKHURI",
-      "url": "https://bareeze.com/pankhuri-1",
-      "kind": "New product",
-      "detail": "Price: PKR 114.06; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447726087",
-      "title": "SHADOW WORK SUMMER",
-      "url": "https://bareeze.com/shadow-work-summer-2",
-      "kind": "New product",
-      "detail": "Price: PKR 132.98; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447733727",
-      "title": "FOREST FERN",
-      "url": "https://bareeze.com/forest-fern-1",
-      "kind": "New product",
-      "detail": "Price: PKR 115.39; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447741491",
-      "title": "ETHNIC MOTIF-02",
-      "url": "https://bareeze.com/ethnic-motif-02",
-      "kind": "New product",
-      "detail": "Price: PKR 107.59; available sizes/options: Default"
+      "product_id": "180826185116644672",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2428?variant=180826185116644672",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 98.67 → PKR 58.98"
     },
     {
       "product_id": "180826185447749576",
       "title": "PRISMORA",
-      "url": "https://bareeze.com/prismora",
-      "kind": "New product",
-      "detail": "Price: PKR 125.43; available sizes/options: Default"
+      "url": "https://bareeze.com/prismora?variant=180826185447749576",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 125.43 → PKR 122.36"
     },
     {
       "product_id": "180826185447757194",
       "title": "PRISMORA",
-      "url": "https://bareeze.com/prismora-1",
-      "kind": "New product",
-      "detail": "Price: PKR 125.43; available sizes/options: Default"
+      "url": "https://bareeze.com/prismora-1?variant=180826185447757194",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 125.43 → PKR 122.36"
     },
     {
       "product_id": "180826185447765637",
       "title": "DIBAGUL",
-      "url": "https://bareeze.com/dibagul",
-      "kind": "New product",
-      "detail": "Price: PKR 80.28; available sizes/options: Default"
+      "url": "https://bareeze.com/dibagul?variant=180826185447765637",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 80.28 → PKR 77.21"
     },
     {
       "product_id": "180826185447773701",
       "title": "DIBAGUL",
-      "url": "https://bareeze.com/dibagul-1",
-      "kind": "New product",
-      "detail": "Price: PKR 80.28; available sizes/options: Default"
+      "url": "https://bareeze.com/dibagul-1?variant=180826185447773701",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 80.28 → PKR 77.21"
     },
     {
       "product_id": "180826185447781442",
       "title": "SWEET BAY",
-      "url": "https://bareeze.com/sweet-bay",
-      "kind": "New product",
-      "detail": "Price: PKR 105.02; available sizes/options: Default"
-    },
-    {
-      "product_id": "180826185447789088",
-      "title": "SWEET BAY",
-      "url": "https://bareeze.com/sweet-bay-1",
-      "kind": "New product",
-      "detail": "Price: PKR 98.87; available sizes/options: Default"
+      "url": "https://bareeze.com/sweet-bay?variant=180826185447781442",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 105.02 → PKR 101.95"
     },
     {
       "product_id": "180826185447796386",
       "title": "FLAME BOYANT",
-      "url": "https://bareeze.com/flame-boyant",
-      "kind": "New product",
-      "detail": "Price: PKR 126.12; available sizes/options: Default"
+      "url": "https://bareeze.com/flame-boyant?variant=180826185447796386",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 126.12 → PKR 123.05"
     },
     {
       "product_id": "180826185447803832",
       "title": "FLAME BOYANT",
-      "url": "https://bareeze.com/flame-boyant-1",
-      "kind": "New product",
-      "detail": "Price: PKR 126.12; available sizes/options: Default"
+      "url": "https://bareeze.com/flame-boyant-1?variant=180826185447803832",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 126.12 → PKR 123.05"
     },
     {
       "product_id": "180826185447811374",
       "title": "GULIN",
-      "url": "https://bareeze.com/gulin",
-      "kind": "New product",
-      "detail": "Price: PKR 121.11; available sizes/options: Default"
+      "url": "https://bareeze.com/gulin?variant=180826185447811374",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 121.11 → PKR 118.04"
     },
     {
       "product_id": "180826185447818497",
       "title": "GULIN",
-      "url": "https://bareeze.com/gulin-1",
-      "kind": "New product",
-      "detail": "Price: PKR 121.11; available sizes/options: Default"
+      "url": "https://bareeze.com/gulin-1?variant=180826185447818497",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 121.11 → PKR 118.04"
     },
     {
-      "product_id": "180826185447825561",
-      "title": "MOON BOW",
-      "url": "https://bareeze.com/moon-bow",
+      "product_id": "20726181259800833",
+      "title": "BAGH-E-BAHAR",
+      "url": "https://bareeze.com/bagh-e-bahar-10",
       "kind": "New product",
-      "detail": "Price: PKR 105.78; available sizes/options: Default"
+      "detail": "Price: PKR 61.12; available sizes/options: Default"
     },
     {
-      "product_id": "180826185447832716",
-      "title": "AUTUMN LEAVES",
-      "url": "https://bareeze.com/autumn-leaves",
+      "product_id": "210226011527904993",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-81?variant=210226011527904993",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 67.81 → PKR 40.09"
+    },
+    {
+      "product_id": "210226011527904993",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-81?variant=210226011527904993",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 96.88 → PKR 57.27"
+    },
+    {
+      "product_id": "210226012558467923",
+      "title": "DHAKAI JAMDANI",
+      "url": "https://bareeze.com/dhakai-jamdani-2",
       "kind": "New product",
-      "detail": "Price: PKR 112.58; available sizes/options: Default"
+      "detail": "Price: PKR 91.05; available sizes/options: Default"
+    },
+    {
+      "product_id": "210226012558480292",
+      "title": "JAMDANI-03 SHAWL",
+      "url": "https://bareeze.com/jamdani-03-shawl",
+      "kind": "New product",
+      "detail": "Price: PKR 206.44; available sizes/options: Default"
+    },
+    {
+      "product_id": "21025153233560635",
+      "title": "MATYO ART SHAWL",
+      "url": "https://bareeze.com/matyo-art-shawl-1",
+      "kind": "New product",
+      "detail": "Price: PKR 317.19; available sizes/options: Default"
+    },
+    {
+      "product_id": "240626171722835331",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2398",
+      "kind": "New product",
+      "detail": "Price: PKR 61.69; available sizes/options: Default"
+    },
+    {
+      "product_id": "240626171722879306",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2400",
+      "kind": "New product",
+      "detail": "Price: PKR 61.69; available sizes/options: Default"
+    },
+    {
+      "product_id": "240626171722942059",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2403?variant=240626171722942059",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 67.98 → PKR 40.20"
+    },
+    {
+      "product_id": "240626171722942059",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2403?variant=240626171722942059",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 97.11 → PKR 57.42"
+    },
+    {
+      "product_id": "240725123924076464",
+      "title": "SHADOW WORK 1331",
+      "url": "https://bareeze.com/shadow-work-1331-1",
+      "kind": "New product",
+      "detail": "Price: PKR 123.19; available sizes/options: Default"
+    },
+    {
+      "product_id": "240926170749249381",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2472?variant=240926170749249381",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 65.62 → PKR 35.74"
+    },
+    {
+      "product_id": "240926170749249381",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2472?variant=240926170749249381",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 87.50 → PKR 47.66"
+    },
+    {
+      "product_id": "250426014921489301",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2368?variant=250426014921489301",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 67.98 → PKR 40.20"
+    },
+    {
+      "product_id": "250426014921489301",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2368?variant=250426014921489301",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 97.11 → PKR 57.42"
+    },
+    {
+      "product_id": "250426015445203551",
+      "title": "GUL E NOOR 01",
+      "url": "https://bareeze.com/gul-e-noor-01?variant=250426015445203551",
+      "kind": "Price increased",
+      "detail": "Default: PKR 43.61 → PKR 57.97"
+    },
+    {
+      "product_id": "250426015445203551",
+      "title": "GUL E NOOR 01",
+      "url": "https://bareeze.com/gul-e-noor-01?variant=250426015445203551",
+      "kind": "Compare-at price increased",
+      "detail": "Default: PKR 62.30 → PKR 82.81"
+    },
+    {
+      "product_id": "250426015445935343",
+      "title": "CHADDAR 3014",
+      "url": "https://bareeze.com/chaddar-3014-1",
+      "kind": "New product",
+      "detail": "Price: PKR 31.45; available sizes/options: Default"
+    },
+    {
+      "product_id": "260226142214271201",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2326?variant=260226142214271201",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 61.69 → PKR 33.91"
+    },
+    {
+      "product_id": "260226142214271201",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2326?variant=260226142214271201",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 88.12 → PKR 48.44"
+    },
+    {
+      "product_id": "260226142214274650",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2327",
+      "kind": "New product",
+      "detail": "Price: PKR 63.44; available sizes/options: Default"
+    },
+    {
+      "product_id": "270326142511958066",
+      "title": "CHADDAR 3013",
+      "url": "https://bareeze.com/chaddar-3013",
+      "kind": "New product",
+      "detail": "Price: PKR 30.21; available sizes/options: Default"
     },
     {
       "product_id": "270826145329129188",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2429",
-      "kind": "New product",
-      "detail": "Price: PKR 41.17; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2429?variant=270826145329129188",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 41.17 → PKR 36.33"
     },
     {
       "product_id": "270826145329132369",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2430",
-      "kind": "New product",
-      "detail": "Price: PKR 74.91; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2430?variant=270826145329132369",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 74.91 → PKR 66.09"
     },
     {
       "product_id": "270826145329135056",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2431",
-      "kind": "New product",
-      "detail": "Price: PKR 41.17; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2431?variant=270826145329135056",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 41.17 → PKR 36.33"
     },
     {
       "product_id": "270826145329137751",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2432",
-      "kind": "New product",
-      "detail": "Price: PKR 48.81; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2432?variant=270826145329137751",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 48.81 → PKR 43.07"
     },
     {
       "product_id": "270826145329140428",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2433",
-      "kind": "New product",
-      "detail": "Price: PKR 48.81; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2433?variant=270826145329140428",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 48.81 → PKR 43.07"
     },
     {
       "product_id": "270826145329143048",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2434",
-      "kind": "New product",
-      "detail": "Price: PKR 41.17; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2434?variant=270826145329143048",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 41.17 → PKR 36.33"
     },
     {
       "product_id": "270826145329145702",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2435",
-      "kind": "New product",
-      "detail": "Price: PKR 41.17; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2435?variant=270826145329145702",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 41.17 → PKR 36.33"
     },
     {
       "product_id": "270826145329151310",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2437",
-      "kind": "New product",
-      "detail": "Price: PKR 78.36; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2437?variant=270826145329151310",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 78.36 → PKR 69.14"
     },
     {
       "product_id": "270826145329153981",
       "title": "Printed",
-      "url": "https://bareeze.com/printed-2438",
-      "kind": "New product",
-      "detail": "Price: PKR 78.36; available sizes/options: Default"
-    },
-    {
-      "product_id": "270826145420311055",
-      "title": "MAUSAM E GUL",
-      "url": "https://bareeze.com/mausam-e-gul-1",
-      "kind": "New product",
-      "detail": "Price: PKR 132.01; available sizes/options: Default"
-    },
-    {
-      "product_id": "270826145420320016",
-      "title": "FLOWER PECKER",
-      "url": "https://bareeze.com/flower-pecker-1",
-      "kind": "New product",
-      "detail": "Price: PKR 135.82; available sizes/options: Default"
-    },
-    {
-      "product_id": "270826145420330371",
-      "title": "NAQSH 04",
-      "url": "https://bareeze.com/naqsh-04-1",
-      "kind": "New product",
-      "detail": "Price: PKR 124.86; available sizes/options: Default"
-    },
-    {
-      "product_id": "270826145420339658",
-      "title": "ETHNIC CHARM 03 SHISHA WORK",
-      "url": "https://bareeze.com/ethnic-charm-03-shisha-work-1",
-      "kind": "New product",
-      "detail": "Price: PKR 145.11; available sizes/options: Default"
-    },
-    {
-      "product_id": "270826145420347469",
-      "title": "WASL E CHAMAN",
-      "url": "https://bareeze.com/wasl-e-chaman-1",
-      "kind": "New product",
-      "detail": "Price: PKR 112.08; available sizes/options: Default"
+      "url": "https://bareeze.com/printed-2438?variant=270826145329153981",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 78.36 → PKR 69.14"
     },
     {
       "product_id": "270826145420355217",
       "title": "WASL-E-PHOOL",
-      "url": "https://bareeze.com/wasl-e-phool-1",
-      "kind": "New product",
-      "detail": "Price: PKR 137.50; available sizes/options: Default"
+      "url": "https://bareeze.com/wasl-e-phool-1?variant=270826145420355217",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 137.50 → PKR 116.90"
     },
     {
-      "product_id": "270826145420363976",
-      "title": "ISLAMIC PATTERN 02",
-      "url": "https://bareeze.com/islamic-pattern-02",
-      "kind": "New product",
-      "detail": "Price: PKR 108.59; available sizes/options: Default"
+      "product_id": "270826145420355217",
+      "title": "WASL-E-PHOOL",
+      "url": "https://bareeze.com/wasl-e-phool-1?variant=270826145420355217",
+      "kind": "Compare-at price changed",
+      "detail": "Default: — → PKR 137.50"
     },
     {
-      "product_id": "270826145420373263",
-      "title": "ISLAMIC PATTERN 02",
-      "url": "https://bareeze.com/islamic-pattern-02-1",
-      "kind": "New product",
-      "detail": "Price: PKR 108.59; available sizes/options: Default"
+      "product_id": "280525031837846205",
+      "title": "KHAYAL SHADOW WORK",
+      "url": "https://bareeze.com/khayal-shadow-work-1?variant=280525031837846205",
+      "kind": "Price increased",
+      "detail": "Default: PKR 99.67 → PKR 132.76"
     },
     {
-      "product_id": "270826145420381952",
-      "title": "VICTORIAN GARDEN 01",
-      "url": "https://bareeze.com/victorian-garden-01-1",
-      "kind": "New product",
-      "detail": "Price: PKR 108.92; available sizes/options: Default"
+      "product_id": "280525031837846205",
+      "title": "KHAYAL SHADOW WORK",
+      "url": "https://bareeze.com/khayal-shadow-work-1?variant=280525031837846205",
+      "kind": "Compare-at price increased",
+      "detail": "Default: PKR 142.39 → PKR 189.66"
     },
     {
-      "product_id": "270826145420392541",
-      "title": "GLOWING IKAT",
-      "url": "https://bareeze.com/glowing-ikat-1",
-      "kind": "New product",
-      "detail": "Price: PKR 90.17; available sizes/options: Default"
+      "product_id": "280525031838026127",
+      "title": "MUGHAL CHARM 01",
+      "url": "https://bareeze.com/mughal-charm-01?variant=280525031838026127",
+      "kind": "Price increased",
+      "detail": "Default: PKR 55.48 → PKR 89.25"
     },
     {
-      "product_id": "270826145420403392",
-      "title": "ZARMINAY 01",
-      "url": "https://bareeze.com/zarminay-01-1",
-      "kind": "New product",
-      "detail": "Price: PKR 88.67; available sizes/options: Default"
+      "product_id": "280525031838026127",
+      "title": "MUGHAL CHARM 01",
+      "url": "https://bareeze.com/mughal-charm-01?variant=280525031838026127",
+      "kind": "Compare-at price increased",
+      "detail": "Default: PKR 71.48 → PKR 119.72"
     },
     {
-      "product_id": "270826145420413786",
-      "title": "SHADOW WORK",
-      "url": "https://bareeze.com/shadow-work-43",
-      "kind": "New product",
-      "detail": "Price: PKR 90.99; available sizes/options: Default"
+      "product_id": "290526123952699510",
+      "title": "BLACK CLASSIC MHR 59",
+      "url": "https://bareeze.com/black-classic-mhr-59?variant=290526123952699510",
+      "kind": "Price increased",
+      "detail": "Default: PKR 54.56 → PKR 89.29"
     },
     {
-      "product_id": "270826145420424531",
-      "title": "IKAT KARI",
-      "url": "https://bareeze.com/ikat-kari-1",
-      "kind": "New product",
-      "detail": "Price: PKR 110.59; available sizes/options: Default"
+      "product_id": "290526123952699510",
+      "title": "BLACK CLASSIC MHR 59",
+      "url": "https://bareeze.com/black-classic-mhr-59?variant=290526123952699510",
+      "kind": "Compare-at price increased",
+      "detail": "Default: PKR 77.93 → PKR 127.54"
     },
     {
-      "product_id": "270826145420435597",
-      "title": "SHADOW WORK",
-      "url": "https://bareeze.com/shadow-work-44",
+      "product_id": "300426130355300476",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2371",
       "kind": "New product",
-      "detail": "Price: PKR 133.17; available sizes/options: Default"
+      "detail": "Price: PKR 61.69; available sizes/options: Default"
     },
     {
-      "product_id": "270826145420446677",
-      "title": "RANG-E-BAHAR-02",
-      "url": "https://bareeze.com/rang-e-bahar-02",
-      "kind": "New product",
-      "detail": "Price: PKR 139.57; available sizes/options: Default"
+      "product_id": "300726145926163654",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2415?variant=300726145926163654",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 61.69 → PKR 33.91"
     },
     {
-      "product_id": "270826145420457334",
-      "title": "RANG-E-BAHAR-02",
-      "url": "https://bareeze.com/rang-e-bahar-02-1",
-      "kind": "New product",
-      "detail": "Price: PKR 136.33; available sizes/options: Default"
+      "product_id": "300726145926163654",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2415?variant=300726145926163654",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 88.12 → PKR 48.44"
     },
     {
-      "product_id": "270826145420468889",
-      "title": "SHAKAL-E-RAHA",
-      "url": "https://bareeze.com/shakal-e-raha",
+      "product_id": "310326150706638067",
+      "title": "DIGITAL CLASSIC",
+      "url": "https://bareeze.com/digital-classic-6",
       "kind": "New product",
-      "detail": "Price: PKR 124.86; available sizes/options: Default"
+      "detail": "Price: PKR 124.63; available sizes/options: Default"
     },
     {
-      "product_id": "270826145420480427",
-      "title": "SHAKAL-E-RAHA",
-      "url": "https://bareeze.com/shakal-e-raha-1",
-      "kind": "New product",
-      "detail": "Price: PKR 124.86; available sizes/options: Default"
+      "product_id": "310826174911378146",
+      "title": "ABSTRACT FLORAL-01",
+      "url": "https://bareeze.com/abstract-floral-01-3?variant=310826174911378146",
+      "kind": "Price increased",
+      "detail": "Default: PKR 112.85 → PKR 165.41"
     },
     {
-      "product_id": "270826145420491376",
-      "title": "GUL CHEEN",
-      "url": "https://bareeze.com/gul-cheen",
-      "kind": "New product",
-      "detail": "Price: PKR 122.87; available sizes/options: Default"
+      "product_id": "310826174911378146",
+      "title": "ABSTRACT FLORAL-01",
+      "url": "https://bareeze.com/abstract-floral-01-3?variant=310826174911378146",
+      "kind": "Compare-at price increased",
+      "detail": "Default: PKR 125.39 → PKR 183.79"
     },
     {
-      "product_id": "270826180045794547",
-      "title": "ETHNIC PATTERN 03",
-      "url": "https://bareeze.com/ethnic-pattern-03-2",
+      "product_id": "50326134139212759",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2331",
       "kind": "New product",
-      "detail": "Price: PKR 93.83; available sizes/options: Default"
+      "detail": "Price: PKR 63.44; available sizes/options: Default"
     },
     {
-      "product_id": "270826180045801788",
-      "title": "FLORAL CHINTZ",
-      "url": "https://bareeze.com/floral-chintz-1",
+      "product_id": "50326151814658072",
+      "title": "FLORAL REFLECTION",
+      "url": "https://bareeze.com/floral-reflection-1",
       "kind": "New product",
-      "detail": "Price: PKR 117.05; available sizes/options: Default"
+      "detail": "Price: PKR 52.23; available sizes/options: Default"
     },
     {
-      "product_id": "270826180045809016",
-      "title": "GUL E SOUZ",
-      "url": "https://bareeze.com/gul-e-souz-1",
+      "product_id": "50326151815397383",
+      "title": "BLOOMING TRAILS",
+      "url": "https://bareeze.com/blooming-trails",
       "kind": "New product",
-      "detail": "Price: PKR 117.07; available sizes/options: Default"
+      "detail": "Price: PKR 57.15; available sizes/options: Default"
+    },
+    {
+      "product_id": "50526144113194405",
+      "title": "CLASSIC ANDAAZ SHADOW & SHISHA WORK",
+      "url": "https://bareeze.com/classic-andaaz-shadow-shisha-work-1",
+      "kind": "New product",
+      "detail": "Price: PKR 102.27; available sizes/options: Default"
+    },
+    {
+      "product_id": "50526144113429431",
+      "title": "WASL E GULISTAN",
+      "url": "https://bareeze.com/wasl-e-gulistan",
+      "kind": "New product",
+      "detail": "Price: PKR 57.97; available sizes/options: Default"
+    },
+    {
+      "product_id": "61126122916110946",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2491?variant=61126122916110946",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 64.63 → PKR 34.75"
+    },
+    {
+      "product_id": "61126122916110946",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2491?variant=61126122916110946",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 86.17 → PKR 46.33"
+    },
+    {
+      "product_id": "61126153941434436",
+      "title": "VINTAGE SHADE-01 SHISHA WORK",
+      "url": "https://bareeze.com/vintage-shade-01-shisha-work?variant=61126153941434436",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 148.61 → PKR 109.59"
+    },
+    {
+      "product_id": "61126153941434436",
+      "title": "VINTAGE SHADE-01 SHISHA WORK",
+      "url": "https://bareeze.com/vintage-shade-01-shisha-work?variant=61126153941434436",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 174.80 → PKR 128.90"
+    },
+    {
+      "product_id": "61225024911611849",
+      "title": "RAANAI-E-GULZAAR",
+      "url": "https://bareeze.com/raanai-e-gulzaar-1",
+      "kind": "New product",
+      "detail": "Price: PKR 77.39; available sizes/options: Default"
+    },
+    {
+      "product_id": "71026175350470894",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-181?variant=71026175350470894",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 71.90 → PKR 42.02"
+    },
+    {
+      "product_id": "71026175350470894",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-181?variant=71026175350470894",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 95.86 → PKR 56.02"
+    },
+    {
+      "product_id": "71026183315713544",
+      "title": "NAQSH-E-ELHAM SHISHA WORK",
+      "url": "https://bareeze.com/naqsh-e-elham-shisha-work-1",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "80226233250323906",
+      "title": "GEOMETRIC FLORAL 01",
+      "url": "https://bareeze.com/geometric-floral-01",
+      "kind": "New product",
+      "detail": "Price: PKR 58.93; available sizes/options: Default"
+    },
+    {
+      "product_id": "80226233250461015",
+      "title": "VINTAGE FRESCO 01",
+      "url": "https://bareeze.com/vintage-fresco-01-1",
+      "kind": "New product",
+      "detail": "Price: PKR 38.69; available sizes/options: Default"
+    },
+    {
+      "product_id": "81125031214086037",
+      "title": "PINE CONE-02",
+      "url": "https://bareeze.com/pine-cone-02?variant=81125031214086037",
+      "kind": "Price increased",
+      "detail": "Default: PKR 61.12 → PKR 99.26"
+    },
+    {
+      "product_id": "81125031214086037",
+      "title": "PINE CONE-02",
+      "url": "https://bareeze.com/pine-cone-02?variant=81125031214086037",
+      "kind": "Compare-at price increased",
+      "detail": "Default: PKR 87.30 → PKR 141.79"
+    },
+    {
+      "product_id": "90226014618363517",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-51",
+      "kind": "New product",
+      "detail": "Price: PKR 68.52; available sizes/options: Default"
+    },
+    {
+      "product_id": "90226014618453834",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2294",
+      "kind": "New product",
+      "detail": "Price: PKR 67.98; available sizes/options: Default"
+    },
+    {
+      "product_id": "90926175910303755",
+      "title": "FLORAL DELICACY-02",
+      "url": "https://bareeze.com/floral-delicacy-02",
+      "kind": "New product",
+      "detail": "Price: PKR 182.29; available sizes/options: Default"
+    },
+    {
+      "product_id": "90926175910306779",
+      "title": "FLORAL DELICACY-02",
+      "url": "https://bareeze.com/floral-delicacy-02-1",
+      "kind": "New product",
+      "detail": "Price: PKR 182.29; available sizes/options: Default"
+    },
+    {
+      "product_id": "90926175910352300",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-176?variant=90926175910352300",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 72.54 → PKR 42.66"
+    },
+    {
+      "product_id": "90926175910352300",
+      "title": "Printed & Embroidered",
+      "url": "https://bareeze.com/printed-embroidered-176?variant=90926175910352300",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 96.72 → PKR 56.88"
+    },
+    {
+      "product_id": "90926175910394007",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2452?variant=90926175910394007",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 64.63 → PKR 34.75"
+    },
+    {
+      "product_id": "90926175910394007",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2452?variant=90926175910394007",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 86.17 → PKR 46.33"
+    },
+    {
+      "product_id": "90926175910420594",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2460?variant=90926175910420594",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 67.38 → PKR 37.50"
+    },
+    {
+      "product_id": "90926175910420594",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2460?variant=90926175910420594",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 89.84 → PKR 50.00"
+    },
+    {
+      "product_id": "90926175910423923",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2461?variant=90926175910423923",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 67.38 → PKR 37.50"
+    },
+    {
+      "product_id": "90926175910423923",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2461?variant=90926175910423923",
+      "kind": "Compare-at price decreased",
+      "detail": "Default: PKR 89.84 → PKR 50.00"
+    },
+    {
+      "product_id": "90926175910427113",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2462?variant=90926175910427113",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 76.37 → PKR 67.38"
+    },
+    {
+      "product_id": "90926175910430370",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2463?variant=90926175910430370",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 76.37 → PKR 67.38"
+    },
+    {
+      "product_id": "90926175910446678",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2468?variant=90926175910446678",
+      "kind": "Price decreased",
+      "detail": "Default: PKR 78.36 → PKR 69.14"
+    },
+    {
+      "product_id": "90926175910449828",
+      "title": "Printed",
+      "url": "https://bareeze.com/printed-2469",
+      "kind": "New product",
+      "detail": "Price: PKR 75.88; available sizes/options: Default"
     }
   ]
 }
