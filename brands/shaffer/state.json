@@ -3,7 +3,7 @@
   "source": "https://shaffer.store/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T03:15:54.492475+00:00",
+  "checked_at": "2026-11-24T13:37:14.932514+00:00",
   "products": {
     "8686943633728": {
       "id": "8686943633728",
@@ -143,30 +143,34 @@
       },
       "available": true
     },
-    "9924691722560": {
-      "id": "9924691722560",
-      "title": "Alpine - Pure Merino Wool Suiting Fabric",
-      "handle": "alpine-pure-merino-wool-blend-suiting-fabric-1",
-      "url": "https://shaffer.store/products/alpine-pure-merino-wool-blend-suiting-fabric-1",
+    "15542297428288": {
+      "id": "15542297428288",
+      "title": "Alpine - Butter Milk Cream Pure Merino Wool Suiting Fabric",
+      "handle": "alpine-butter-milk-cream-pure-merino-wool-suiting-fabric",
+      "url": "https://shaffer.store/products/alpine-butter-milk-cream-pure-merino-wool-suiting-fabric",
       "vendor": "Shaffer",
       "type": "Wool Fabric",
       "description": "<p>100% Merino wool is a premier choice for year‑round suiting. Thanks to the natural crimp of its fibers, it traps air to provide excellent insulation, while also wicking moisture quickly away from the body. That means you stay warm in cold weather and comfortably cool when it’s hot. The fiber’s inherent elasticity helps it maintain shape over time, resisting sagging or looseness. With its smooth finish and graceful drape, Merino wool adapts seamlessly to a variety of occasions, climates, and styles. In short, it offers luxury, comfort, and versatility all in one.</p>\n<p>The fineness of the worsted wool fiber used in the fabric. The higher the number, such as Super, the finer the wool thread is. The actual number is calculated by the maximum number of hanks of wool that can be spun into one pound of wool.</p>\n<p><strong>Care Instructions:</strong></p>\n<p>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers.</p>",
       "tags": [],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0003_Shaffer_unstiched_editorial_sep_2583167.jpg?v=1758980865",
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0015_Shaffer_unstiched_editorial_sep_2583283.jpg?v=1758980865"
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8580.jpg?v=1795513641",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8583.jpg?v=1795513654",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8586.jpg?v=1795513609",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8590.jpg?v=1795513628"
       ],
       "options": [
         {
           "name": "Color",
           "position": 1,
           "values": [
-            "Smoke Grey",
-            "Atlantic Blue"
+            "Deep Navy",
+            "Off White",
+            "Butter Milk Cream",
+            "Jet Blck"
           ]
         },
         {
-          "name": "Fabric Type ",
+          "name": "Fabric Type",
           "position": 2,
           "values": [
             "Shalwar Suit Fabric"
@@ -182,57 +186,559 @@
         }
       ],
       "variants": {
-        "51093450654016": {
-          "id": "51093450654016",
-          "title": "Smoke Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+        "68395334533440": {
+          "id": "68395334533440",
+          "title": "Deep Navy / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
           "options": [
-            "Smoke Grey",
+            "Deep Navy",
             "Shalwar Suit Fabric",
             "1.25 Meter For Waistcoat"
           ],
-          "sku": "STH-000448",
+          "sku": "STH-000546",
           "available": true,
-          "price": 1175000,
+          "price": 1375000,
           "compare_at_price": 1175000
         },
-        "51093450752320": {
-          "id": "51093450752320",
-          "title": "Smoke Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+        "68395334566208": {
+          "id": "68395334566208",
+          "title": "Deep Navy / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
           "options": [
-            "Smoke Grey",
+            "Deep Navy",
             "Shalwar Suit Fabric",
             "4.25 Meter For Shalwar Suit"
           ],
-          "sku": "STH-000448",
-          "available": false,
-          "price": 4000000,
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
           "compare_at_price": 3995000
         },
-        "51093450260800": {
-          "id": "51093450260800",
-          "title": "Atlantic Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+        "68395334598976": {
+          "id": "68395334598976",
+          "title": "Off White / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
           "options": [
-            "Atlantic Blue",
+            "Off White",
             "Shalwar Suit Fabric",
             "1.25 Meter For Waistcoat"
           ],
-          "sku": "STH-000448",
+          "sku": "STH-000546",
           "available": true,
-          "price": 1175000,
+          "price": 1375000,
           "compare_at_price": 1175000
         },
-        "51093450359104": {
-          "id": "51093450359104",
-          "title": "Atlantic Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+        "68395334631744": {
+          "id": "68395334631744",
+          "title": "Off White / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
           "options": [
-            "Atlantic Blue",
+            "Off White",
             "Shalwar Suit Fabric",
             "4.25 Meter For Shalwar Suit"
           ],
-          "sku": "STH-000448",
+          "sku": "STH-000546",
           "available": true,
-          "price": 4000000,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        },
+        "68395334664512": {
+          "id": "68395334664512",
+          "title": "Butter Milk Cream / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Butter Milk Cream",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395334697280": {
+          "id": "68395334697280",
+          "title": "Butter Milk Cream / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Butter Milk Cream",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        },
+        "68395334730048": {
+          "id": "68395334730048",
+          "title": "Jet Blck / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Blck",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395334762816": {
+          "id": "68395334762816",
+          "title": "Jet Blck / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Blck",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        }
+      },
+      "available": true
+    },
+    "15542304440640": {
+      "id": "15542304440640",
+      "title": "Alpine - Jet Black Pure Merino Wool Suiting Fabric",
+      "handle": "alpine-jet-black-pure-merino-wool-suiting-fabric",
+      "url": "https://shaffer.store/products/alpine-jet-black-pure-merino-wool-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p>100% Merino wool is a premier choice for year‑round suiting. Thanks to the natural crimp of its fibers, it traps air to provide excellent insulation, while also wicking moisture quickly away from the body. That means you stay warm in cold weather and comfortably cool when it’s hot. The fiber’s inherent elasticity helps it maintain shape over time, resisting sagging or looseness. With its smooth finish and graceful drape, Merino wool adapts seamlessly to a variety of occasions, climates, and styles. In short, it offers luxury, comfort, and versatility all in one.</p>\n<p>The fineness of the worsted wool fiber used in the fabric. The higher the number, such as Super, the finer the wool thread is. The actual number is calculated by the maximum number of hanks of wool that can be spun into one pound of wool.</p>\n<p><strong>Care Instructions:</strong></p>\n<p>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8580.jpg?v=1795513641",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8583.jpg?v=1795513654",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8586.jpg?v=1795513609",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8590.jpg?v=1795513628"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Deep Navy",
+            "Off White",
+            "Butter Milk Cream",
+            "Jet Blck"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "68395354718528": {
+          "id": "68395354718528",
+          "title": "Deep Navy / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Deep Navy",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395354751296": {
+          "id": "68395354751296",
+          "title": "Deep Navy / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Deep Navy",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
           "compare_at_price": 3995000
+        },
+        "68395354784064": {
+          "id": "68395354784064",
+          "title": "Off White / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Off White",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395354816832": {
+          "id": "68395354816832",
+          "title": "Off White / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Off White",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        },
+        "68395354849600": {
+          "id": "68395354849600",
+          "title": "Butter Milk Cream / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Butter Milk Cream",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395354882368": {
+          "id": "68395354882368",
+          "title": "Butter Milk Cream / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Butter Milk Cream",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        },
+        "68395354915136": {
+          "id": "68395354915136",
+          "title": "Jet Blck / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Blck",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395354947904": {
+          "id": "68395354947904",
+          "title": "Jet Blck / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Blck",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        }
+      },
+      "available": true
+    },
+    "9924692017472": {
+      "id": "9924692017472",
+      "title": "Alpine -Deep Navy Pure Merino Wool Suiting Fabric",
+      "handle": "alpine-deep-navy-pure-merino-wool-suiting-fabric",
+      "url": "https://shaffer.store/products/alpine-deep-navy-pure-merino-wool-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p>100% Merino wool is a premier choice for year‑round suiting. Thanks to the natural crimp of its fibers, it traps air to provide excellent insulation, while also wicking moisture quickly away from the body. That means you stay warm in cold weather and comfortably cool when it’s hot. The fiber’s inherent elasticity helps it maintain shape over time, resisting sagging or looseness. With its smooth finish and graceful drape, Merino wool adapts seamlessly to a variety of occasions, climates, and styles. In short, it offers luxury, comfort, and versatility all in one.</p>\n<p>The fineness of the worsted wool fiber used in the fabric. The higher the number, such as Super, the finer the wool thread is. The actual number is calculated by the maximum number of hanks of wool that can be spun into one pound of wool.</p>\n<p><strong>Care Instructions:</strong></p>\n<p>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8580.jpg?v=1795513641",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8583.jpg?v=1795513654",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8586.jpg?v=1795513609",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8590.jpg?v=1795513628"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Deep Navy",
+            "Off White",
+            "Butter Milk Cream",
+            "Jet Blck"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "51093451964736": {
+          "id": "51093451964736",
+          "title": "Deep Navy / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Deep Navy",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "51093452063040": {
+          "id": "51093452063040",
+          "title": "Deep Navy / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Deep Navy",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 3995000
+        },
+        "68391129645376": {
+          "id": "68391129645376",
+          "title": "Off White / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Off White",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68391129678144": {
+          "id": "68391129678144",
+          "title": "Off White / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Off White",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        },
+        "68391129710912": {
+          "id": "68391129710912",
+          "title": "Butter Milk Cream / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Butter Milk Cream",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68391129743680": {
+          "id": "68391129743680",
+          "title": "Butter Milk Cream / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Butter Milk Cream",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        },
+        "68391129776448": {
+          "id": "68391129776448",
+          "title": "Jet Blck / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Blck",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68391129809216": {
+          "id": "68391129809216",
+          "title": "Jet Blck / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Blck",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        }
+      },
+      "available": true
+    },
+    "15542285336896": {
+      "id": "15542285336896",
+      "title": "Alpine -Off White  Pure Merino Wool Suiting Fabric",
+      "handle": "alpine-off-white-pure-merino-wool-suiting-fabric",
+      "url": "https://shaffer.store/products/alpine-off-white-pure-merino-wool-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p>100% Merino wool is a premier choice for year‑round suiting. Thanks to the natural crimp of its fibers, it traps air to provide excellent insulation, while also wicking moisture quickly away from the body. That means you stay warm in cold weather and comfortably cool when it’s hot. The fiber’s inherent elasticity helps it maintain shape over time, resisting sagging or looseness. With its smooth finish and graceful drape, Merino wool adapts seamlessly to a variety of occasions, climates, and styles. In short, it offers luxury, comfort, and versatility all in one.</p>\n<p>The fineness of the worsted wool fiber used in the fabric. The higher the number, such as Super, the finer the wool thread is. The actual number is calculated by the maximum number of hanks of wool that can be spun into one pound of wool.</p>\n<p><strong>Care Instructions:</strong></p>\n<p>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8580.jpg?v=1795513641",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8583.jpg?v=1795513654",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8586.jpg?v=1795513609",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8590.jpg?v=1795513628"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Deep Navy",
+            "Off White",
+            "Butter Milk Cream",
+            "Jet Blck"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "68395287052608": {
+          "id": "68395287052608",
+          "title": "Deep Navy / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Deep Navy",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395287085376": {
+          "id": "68395287085376",
+          "title": "Deep Navy / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Deep Navy",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 3995000
+        },
+        "68395287118144": {
+          "id": "68395287118144",
+          "title": "Off White / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Off White",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395287150912": {
+          "id": "68395287150912",
+          "title": "Off White / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Off White",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        },
+        "68395287183680": {
+          "id": "68395287183680",
+          "title": "Butter Milk Cream / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Butter Milk Cream",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395287216448": {
+          "id": "68395287216448",
+          "title": "Butter Milk Cream / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Butter Milk Cream",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
+        },
+        "68395287249216": {
+          "id": "68395287249216",
+          "title": "Jet Blck / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Blck",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 1375000,
+          "compare_at_price": 1175000
+        },
+        "68395287281984": {
+          "id": "68395287281984",
+          "title": "Jet Blck / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Blck",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "STH-000546",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 1175000
         }
       },
       "available": true
@@ -15895,7 +16401,7 @@
             "42"
           ],
           "sku": "CT-000013",
-          "available": true,
+          "available": false,
           "price": 590000,
           "compare_at_price": 590000
         }
@@ -17776,25 +18282,263 @@
       },
       "available": true
     },
-    "9922026963264": {
-      "id": "9922026963264",
-      "title": "Derby - Pure Merino Wool Fabric",
-      "handle": "derby-marino-pure-wool-fabric",
-      "url": "https://shaffer.store/products/derby-marino-pure-wool-fabric",
+    "15542387540288": {
+      "id": "15542387540288",
+      "title": "Derby - Butter Milk Cream Pure Merino Wool Fabric",
+      "handle": "derby-butter-milk-cream-pure-merino-wool-fabric",
+      "url": "https://shaffer.store/products/derby-butter-milk-cream-pure-merino-wool-fabric",
       "vendor": "Shaffer",
       "type": "Wool Fabric",
       "description": "<p>100% Merino wool is a premier choice for year‑round suiting. Thanks to the natural crimp of its fibers, it traps air to provide excellent insulation, while also wicking moisture quickly away from the body. That means you stay warm in cold weather and comfortably cool when it’s hot. The fiber’s inherent elasticity helps it maintain shape over time, resisting sagging or looseness. With its smooth finish and graceful drape, Merino wool adapts seamlessly to a variety of occasions, climates, and styles. In short, it offers luxury, comfort, and versatility all in one.</p>\n<p>The fineness of the worsted wool fiber used in the fabric. The higher the number, such as Super, the finer the wool thread is. The actual number is calculated by the maximum number of hanks of wool that can be spun into one pound of wool.</p>\n<p><strong>Care Instructions:</strong></p>\n<p>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers.</p>",
       "tags": [],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0005_Shaffer_unstiched_editorial_sep_2583613.jpg?v=1758797062"
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8569_f015e26d-667b-4d7c-8e35-ed53d5175675.jpg?v=1795514039",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8572_a9281225-d3a8-4488-a145-46809c4e1336.jpg?v=1795513971",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8574.jpg?v=1795513984",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8578.jpg?v=1795514059"
       ],
       "options": [
         {
           "name": "Color",
           "position": 1,
           "values": [
-            "Butter Milk White",
-            "Sand Dunes"
+            "Navy Blue",
+            "Royal Black",
+            "Butter Milk Cream",
+            "Off White"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1 Meter For Waistcoat",
+            "2 Meter For Blazer",
+            "3.5 Meter For 2 Piece",
+            "4.25 Meter For 3 Piece"
+          ]
+        }
+      ],
+      "variants": {
+        "68395610964288": {
+          "id": "68395610964288",
+          "title": "Navy Blue / 1 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395610997056": {
+          "id": "68395610997056",
+          "title": "Navy Blue / 2 Meter For Blazer",
+          "options": [
+            "Navy Blue",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 1900000
+        },
+        "68395611029824": {
+          "id": "68395611029824",
+          "title": "Navy Blue / 3.5 Meter For 2 Piece",
+          "options": [
+            "Navy Blue",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 3325000
+        },
+        "68395611062592": {
+          "id": "68395611062592",
+          "title": "Navy Blue / 4.25 Meter For 3 Piece",
+          "options": [
+            "Navy Blue",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 4037500
+        },
+        "68395611095360": {
+          "id": "68395611095360",
+          "title": "Royal Black / 1 Meter For Waistcoat",
+          "options": [
+            "Royal Black",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395611128128": {
+          "id": "68395611128128",
+          "title": "Royal Black / 2 Meter For Blazer",
+          "options": [
+            "Royal Black",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395611160896": {
+          "id": "68395611160896",
+          "title": "Royal Black / 3.5 Meter For 2 Piece",
+          "options": [
+            "Royal Black",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395611193664": {
+          "id": "68395611193664",
+          "title": "Royal Black / 4.25 Meter For 3 Piece",
+          "options": [
+            "Royal Black",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        },
+        "68395611226432": {
+          "id": "68395611226432",
+          "title": "Butter Milk Cream / 1 Meter For Waistcoat",
+          "options": [
+            "Butter Milk Cream",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395611259200": {
+          "id": "68395611259200",
+          "title": "Butter Milk Cream / 2 Meter For Blazer",
+          "options": [
+            "Butter Milk Cream",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395611291968": {
+          "id": "68395611291968",
+          "title": "Butter Milk Cream / 3.5 Meter For 2 Piece",
+          "options": [
+            "Butter Milk Cream",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395611324736": {
+          "id": "68395611324736",
+          "title": "Butter Milk Cream / 4.25 Meter For 3 Piece",
+          "options": [
+            "Butter Milk Cream",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        },
+        "68395611357504": {
+          "id": "68395611357504",
+          "title": "Off White / 1 Meter For Waistcoat",
+          "options": [
+            "Off White",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395611390272": {
+          "id": "68395611390272",
+          "title": "Off White / 2 Meter For Blazer",
+          "options": [
+            "Off White",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395611423040": {
+          "id": "68395611423040",
+          "title": "Off White / 3.5 Meter For 2 Piece",
+          "options": [
+            "Off White",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395611455808": {
+          "id": "68395611455808",
+          "title": "Off White / 4.25 Meter For 3 Piece",
+          "options": [
+            "Off White",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        }
+      },
+      "available": true
+    },
+    "9922026963264": {
+      "id": "9922026963264",
+      "title": "Derby - Navy Blue Pure Merino Wool Fabric",
+      "handle": "derby-navy-blue-pure-merino-wool-fabric",
+      "url": "https://shaffer.store/products/derby-navy-blue-pure-merino-wool-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p>100% Merino wool is a premier choice for year‑round suiting. Thanks to the natural crimp of its fibers, it traps air to provide excellent insulation, while also wicking moisture quickly away from the body. That means you stay warm in cold weather and comfortably cool when it’s hot. The fiber’s inherent elasticity helps it maintain shape over time, resisting sagging or looseness. With its smooth finish and graceful drape, Merino wool adapts seamlessly to a variety of occasions, climates, and styles. In short, it offers luxury, comfort, and versatility all in one.</p>\n<p>The fineness of the worsted wool fiber used in the fabric. The higher the number, such as Super, the finer the wool thread is. The actual number is calculated by the maximum number of hanks of wool that can be spun into one pound of wool.</p>\n<p><strong>Care Instructions:</strong></p>\n<p>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8569_f015e26d-667b-4d7c-8e35-ed53d5175675.jpg?v=1795514039",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8572_a9281225-d3a8-4488-a145-46809c4e1336.jpg?v=1795513971",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8574.jpg?v=1795513984",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8578.jpg?v=1795514059"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Royal Black",
+            "Butter Milk Cream",
+            "Off White"
           ]
         },
         {
@@ -17811,99 +18555,661 @@
       "variants": {
         "51084579537216": {
           "id": "51084579537216",
-          "title": "Butter Milk White / 1 Meter For Waistcoat",
+          "title": "Navy Blue / 1 Meter For Waistcoat",
           "options": [
-            "Butter Milk White",
+            "Navy Blue",
             "1 Meter For Waistcoat"
           ],
-          "sku": "STH-000445",
-          "available": false,
-          "price": 950000,
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
           "compare_at_price": 950000
         },
         "51084579569984": {
           "id": "51084579569984",
-          "title": "Butter Milk White / 2 Meter For Blazer",
+          "title": "Navy Blue / 2 Meter For Blazer",
           "options": [
-            "Butter Milk White",
+            "Navy Blue",
             "2 Meter For Blazer"
           ],
-          "sku": "STH-000445",
+          "sku": "STH-000544",
           "available": true,
-          "price": 1900000,
+          "price": 2200000,
           "compare_at_price": 1900000
         },
         "51084579602752": {
           "id": "51084579602752",
-          "title": "Butter Milk White / 3.5 Meter For 2 Piece",
+          "title": "Navy Blue / 3.5 Meter For 2 Piece",
           "options": [
-            "Butter Milk White",
+            "Navy Blue",
             "3.5 Meter For 2 Piece"
           ],
-          "sku": "STH-000445",
+          "sku": "STH-000544",
           "available": true,
-          "price": 3325000,
+          "price": 3850000,
           "compare_at_price": 3325000
         },
         "51084579635520": {
           "id": "51084579635520",
-          "title": "Butter Milk White / 4.25 Meter For 3 Piece",
+          "title": "Navy Blue / 4.25 Meter For 3 Piece",
           "options": [
-            "Butter Milk White",
+            "Navy Blue",
             "4.25 Meter For 3 Piece"
           ],
-          "sku": "STH-000445",
-          "available": false,
-          "price": 4037500,
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
           "compare_at_price": 4037500
         },
-        "51084579668288": {
-          "id": "51084579668288",
-          "title": "Sand Dunes / 1 Meter For Waistcoat",
+        "68391414989120": {
+          "id": "68391414989120",
+          "title": "Royal Black / 1 Meter For Waistcoat",
           "options": [
-            "Sand Dunes",
+            "Royal Black",
             "1 Meter For Waistcoat"
           ],
-          "sku": "STH-000445",
+          "sku": "STH-000544",
           "available": true,
-          "price": 950000,
+          "price": 1100000,
           "compare_at_price": 950000
         },
-        "51084579701056": {
-          "id": "51084579701056",
-          "title": "Sand Dunes / 2 Meter For Blazer",
+        "68391415021888": {
+          "id": "68391415021888",
+          "title": "Royal Black / 2 Meter For Blazer",
           "options": [
-            "Sand Dunes",
+            "Royal Black",
             "2 Meter For Blazer"
           ],
-          "sku": "STH-000445",
+          "sku": "STH-000544",
           "available": true,
-          "price": 1900000,
-          "compare_at_price": 1900000
+          "price": 2200000,
+          "compare_at_price": 950000
         },
-        "51084579733824": {
-          "id": "51084579733824",
-          "title": "Sand Dunes / 3.5 Meter For 2 Piece",
+        "68391415054656": {
+          "id": "68391415054656",
+          "title": "Royal Black / 3.5 Meter For 2 Piece",
           "options": [
-            "Sand Dunes",
+            "Royal Black",
             "3.5 Meter For 2 Piece"
           ],
-          "sku": "STH-000445",
+          "sku": "STH-000544",
           "available": true,
-          "price": 3325000,
-          "compare_at_price": 3325000
+          "price": 3850000,
+          "compare_at_price": 950000
         },
-        "51084579766592": {
-          "id": "51084579766592",
-          "title": "Sand Dunes / 4.25 Meter For 3 Piece",
+        "68391415087424": {
+          "id": "68391415087424",
+          "title": "Royal Black / 4.25 Meter For 3 Piece",
           "options": [
-            "Sand Dunes",
+            "Royal Black",
             "4.25 Meter For 3 Piece"
           ],
-          "sku": "STH-000445",
+          "sku": "STH-000544",
           "available": true,
-          "price": 4037500,
+          "price": 4675000,
+          "compare_at_price": 950000
+        },
+        "68391415120192": {
+          "id": "68391415120192",
+          "title": "Butter Milk Cream / 1 Meter For Waistcoat",
+          "options": [
+            "Butter Milk Cream",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68391415152960": {
+          "id": "68391415152960",
+          "title": "Butter Milk Cream / 2 Meter For Blazer",
+          "options": [
+            "Butter Milk Cream",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68391415185728": {
+          "id": "68391415185728",
+          "title": "Butter Milk Cream / 3.5 Meter For 2 Piece",
+          "options": [
+            "Butter Milk Cream",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68391415218496": {
+          "id": "68391415218496",
+          "title": "Butter Milk Cream / 4.25 Meter For 3 Piece",
+          "options": [
+            "Butter Milk Cream",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        },
+        "68391415251264": {
+          "id": "68391415251264",
+          "title": "Off White / 1 Meter For Waistcoat",
+          "options": [
+            "Off White",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68391415284032": {
+          "id": "68391415284032",
+          "title": "Off White / 2 Meter For Blazer",
+          "options": [
+            "Off White",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68391415316800": {
+          "id": "68391415316800",
+          "title": "Off White / 3.5 Meter For 2 Piece",
+          "options": [
+            "Off White",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68391415349568": {
+          "id": "68391415349568",
+          "title": "Off White / 4.25 Meter For 3 Piece",
+          "options": [
+            "Off White",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        }
+      },
+      "available": true
+    },
+    "15542399729984": {
+      "id": "15542399729984",
+      "title": "Derby - Off White Pure Merino Wool Fabric",
+      "handle": "derby-off-white-pure-merino-wool-fabric",
+      "url": "https://shaffer.store/products/derby-off-white-pure-merino-wool-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p>100% Merino wool is a premier choice for year‑round suiting. Thanks to the natural crimp of its fibers, it traps air to provide excellent insulation, while also wicking moisture quickly away from the body. That means you stay warm in cold weather and comfortably cool when it’s hot. The fiber’s inherent elasticity helps it maintain shape over time, resisting sagging or looseness. With its smooth finish and graceful drape, Merino wool adapts seamlessly to a variety of occasions, climates, and styles. In short, it offers luxury, comfort, and versatility all in one.</p>\n<p>The fineness of the worsted wool fiber used in the fabric. The higher the number, such as Super, the finer the wool thread is. The actual number is calculated by the maximum number of hanks of wool that can be spun into one pound of wool.</p>\n<p><strong>Care Instructions:</strong></p>\n<p>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8569_f015e26d-667b-4d7c-8e35-ed53d5175675.jpg?v=1795514039",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8572_a9281225-d3a8-4488-a145-46809c4e1336.jpg?v=1795513971",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8574.jpg?v=1795513984",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8578.jpg?v=1795514059"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Royal Black",
+            "Butter Milk Cream",
+            "Off White"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1 Meter For Waistcoat",
+            "2 Meter For Blazer",
+            "3.5 Meter For 2 Piece",
+            "4.25 Meter For 3 Piece"
+          ]
+        }
+      ],
+      "variants": {
+        "68395647172928": {
+          "id": "68395647172928",
+          "title": "Navy Blue / 1 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395647205696": {
+          "id": "68395647205696",
+          "title": "Navy Blue / 2 Meter For Blazer",
+          "options": [
+            "Navy Blue",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 1900000
+        },
+        "68395647238464": {
+          "id": "68395647238464",
+          "title": "Navy Blue / 3.5 Meter For 2 Piece",
+          "options": [
+            "Navy Blue",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 3325000
+        },
+        "68395647271232": {
+          "id": "68395647271232",
+          "title": "Navy Blue / 4.25 Meter For 3 Piece",
+          "options": [
+            "Navy Blue",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
           "compare_at_price": 4037500
+        },
+        "68395647304000": {
+          "id": "68395647304000",
+          "title": "Royal Black / 1 Meter For Waistcoat",
+          "options": [
+            "Royal Black",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395647336768": {
+          "id": "68395647336768",
+          "title": "Royal Black / 2 Meter For Blazer",
+          "options": [
+            "Royal Black",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395647369536": {
+          "id": "68395647369536",
+          "title": "Royal Black / 3.5 Meter For 2 Piece",
+          "options": [
+            "Royal Black",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395647402304": {
+          "id": "68395647402304",
+          "title": "Royal Black / 4.25 Meter For 3 Piece",
+          "options": [
+            "Royal Black",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        },
+        "68395647435072": {
+          "id": "68395647435072",
+          "title": "Butter Milk Cream / 1 Meter For Waistcoat",
+          "options": [
+            "Butter Milk Cream",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395647467840": {
+          "id": "68395647467840",
+          "title": "Butter Milk Cream / 2 Meter For Blazer",
+          "options": [
+            "Butter Milk Cream",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395647500608": {
+          "id": "68395647500608",
+          "title": "Butter Milk Cream / 3.5 Meter For 2 Piece",
+          "options": [
+            "Butter Milk Cream",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395647533376": {
+          "id": "68395647533376",
+          "title": "Butter Milk Cream / 4.25 Meter For 3 Piece",
+          "options": [
+            "Butter Milk Cream",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        },
+        "68395647566144": {
+          "id": "68395647566144",
+          "title": "Off White / 1 Meter For Waistcoat",
+          "options": [
+            "Off White",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395647598912": {
+          "id": "68395647598912",
+          "title": "Off White / 2 Meter For Blazer",
+          "options": [
+            "Off White",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395647631680": {
+          "id": "68395647631680",
+          "title": "Off White / 3.5 Meter For 2 Piece",
+          "options": [
+            "Off White",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395647664448": {
+          "id": "68395647664448",
+          "title": "Off White / 4.25 Meter For 3 Piece",
+          "options": [
+            "Off White",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        }
+      },
+      "available": true
+    },
+    "15542380593472": {
+      "id": "15542380593472",
+      "title": "Derby - Royal Black Pure Merino Wool Fabric",
+      "handle": "derby-royal-black-pure-merino-wool-fabric",
+      "url": "https://shaffer.store/products/derby-royal-black-pure-merino-wool-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p>100% Merino wool is a premier choice for year‑round suiting. Thanks to the natural crimp of its fibers, it traps air to provide excellent insulation, while also wicking moisture quickly away from the body. That means you stay warm in cold weather and comfortably cool when it’s hot. The fiber’s inherent elasticity helps it maintain shape over time, resisting sagging or looseness. With its smooth finish and graceful drape, Merino wool adapts seamlessly to a variety of occasions, climates, and styles. In short, it offers luxury, comfort, and versatility all in one.</p>\n<p>The fineness of the worsted wool fiber used in the fabric. The higher the number, such as Super, the finer the wool thread is. The actual number is calculated by the maximum number of hanks of wool that can be spun into one pound of wool.</p>\n<p><strong>Care Instructions:</strong></p>\n<p>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8569_f015e26d-667b-4d7c-8e35-ed53d5175675.jpg?v=1795514039",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8572_a9281225-d3a8-4488-a145-46809c4e1336.jpg?v=1795513971",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8574.jpg?v=1795513984",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8578.jpg?v=1795514059"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Royal Black",
+            "Butter Milk Cream",
+            "Off White"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1 Meter For Waistcoat",
+            "2 Meter For Blazer",
+            "3.5 Meter For 2 Piece",
+            "4.25 Meter For 3 Piece"
+          ]
+        }
+      ],
+      "variants": {
+        "68395580096832": {
+          "id": "68395580096832",
+          "title": "Navy Blue / 1 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395580129600": {
+          "id": "68395580129600",
+          "title": "Navy Blue / 2 Meter For Blazer",
+          "options": [
+            "Navy Blue",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 1900000
+        },
+        "68395580162368": {
+          "id": "68395580162368",
+          "title": "Navy Blue / 3.5 Meter For 2 Piece",
+          "options": [
+            "Navy Blue",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 3325000
+        },
+        "68395580195136": {
+          "id": "68395580195136",
+          "title": "Navy Blue / 4.25 Meter For 3 Piece",
+          "options": [
+            "Navy Blue",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 4037500
+        },
+        "68395580227904": {
+          "id": "68395580227904",
+          "title": "Royal Black / 1 Meter For Waistcoat",
+          "options": [
+            "Royal Black",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395580260672": {
+          "id": "68395580260672",
+          "title": "Royal Black / 2 Meter For Blazer",
+          "options": [
+            "Royal Black",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395580293440": {
+          "id": "68395580293440",
+          "title": "Royal Black / 3.5 Meter For 2 Piece",
+          "options": [
+            "Royal Black",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395580326208": {
+          "id": "68395580326208",
+          "title": "Royal Black / 4.25 Meter For 3 Piece",
+          "options": [
+            "Royal Black",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        },
+        "68395580358976": {
+          "id": "68395580358976",
+          "title": "Butter Milk Cream / 1 Meter For Waistcoat",
+          "options": [
+            "Butter Milk Cream",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395580391744": {
+          "id": "68395580391744",
+          "title": "Butter Milk Cream / 2 Meter For Blazer",
+          "options": [
+            "Butter Milk Cream",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395580424512": {
+          "id": "68395580424512",
+          "title": "Butter Milk Cream / 3.5 Meter For 2 Piece",
+          "options": [
+            "Butter Milk Cream",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395580457280": {
+          "id": "68395580457280",
+          "title": "Butter Milk Cream / 4.25 Meter For 3 Piece",
+          "options": [
+            "Butter Milk Cream",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
+        },
+        "68395580490048": {
+          "id": "68395580490048",
+          "title": "Off White / 1 Meter For Waistcoat",
+          "options": [
+            "Off White",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 1100000,
+          "compare_at_price": 950000
+        },
+        "68395580522816": {
+          "id": "68395580522816",
+          "title": "Off White / 2 Meter For Blazer",
+          "options": [
+            "Off White",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 2200000,
+          "compare_at_price": 950000
+        },
+        "68395580555584": {
+          "id": "68395580555584",
+          "title": "Off White / 3.5 Meter For 2 Piece",
+          "options": [
+            "Off White",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 3850000,
+          "compare_at_price": 950000
+        },
+        "68395580588352": {
+          "id": "68395580588352",
+          "title": "Off White / 4.25 Meter For 3 Piece",
+          "options": [
+            "Off White",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000544",
+          "available": true,
+          "price": 4675000,
+          "compare_at_price": 950000
         }
       },
       "available": true
@@ -23855,34 +25161,972 @@
       },
       "available": true
     },
-    "9927494271296": {
-      "id": "9927494271296",
-      "title": "Hampton - Merino Wool Blend Suiting Fabric",
-      "handle": "hampton-merino-wool-blend-suiting-fabric",
-      "url": "https://shaffer.store/products/hampton-merino-wool-blend-suiting-fabric",
+    "15542228058432": {
+      "id": "15542228058432",
+      "title": "Hampton - Ash Grey Merino Wool Blend Suiting Fabric",
+      "handle": "hampton-ash-grey-merino-wool-blend-suiting-fabric",
+      "url": "https://shaffer.store/products/hampton-ash-grey-merino-wool-blend-suiting-fabric",
       "vendor": "Shaffer",
       "type": "Wool Fabric",
       "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Hampton is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Hampton falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Hampton Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
       "tags": [],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0001_Shaffer_unstiched_editorial_sep_2583534.jpg?v=1759233595",
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0006_Shaffer_unstiched_editorial_sep_2583521.jpg?v=1759233595",
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0010_Shaffer_unstiched_editorial_sep_2583510.jpg?v=1759233595",
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0013_Shaffer_unstiched_editorial_sep_2583501.jpg?v=1759233595",
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0018_Shaffer_unstiched_editorial_sep_2583479.jpg?v=1759233595",
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0023_Shaffer_unstiched_editorial_sep_2583545.jpg?v=1759233595"
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8545.jpg?v=1795514512",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8548.jpg?v=1795514597",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8551_0a7668a8-3ed0-4e61-b525-4612402c7aeb.jpg?v=1795514632",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8556.jpg?v=1795514495",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8560.jpg?v=1795514614",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8563.jpg?v=1795514580",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8565.jpg?v=1795514477"
       ],
       "options": [
         {
           "name": "Color",
           "position": 1,
           "values": [
-            "Thunder Grey",
-            "Pigeon Blue",
+            "Navy Blue",
+            "Teal Blue",
+            "Jet Black",
+            "Heather Grey",
+            "Wheat Brown",
             "Carbon Grey",
-            "Dove Grey",
-            "Coyote Brown",
-            "Charcoal Black"
+            "Ash Grey"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "68395100635456": {
+          "id": "68395100635456",
+          "title": "Navy Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395100668224": {
+          "id": "68395100668224",
+          "title": "Navy Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 2167500
+        },
+        "68395100700992": {
+          "id": "68395100700992",
+          "title": "Teal Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395100733760": {
+          "id": "68395100733760",
+          "title": "Teal Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395100766528": {
+          "id": "68395100766528",
+          "title": "Jet Black / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395100799296": {
+          "id": "68395100799296",
+          "title": "Jet Black / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395100832064": {
+          "id": "68395100832064",
+          "title": "Heather Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395100864832": {
+          "id": "68395100864832",
+          "title": "Heather Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395100897600": {
+          "id": "68395100897600",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395100930368": {
+          "id": "68395100930368",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395100963136": {
+          "id": "68395100963136",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395100995904": {
+          "id": "68395100995904",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395101028672": {
+          "id": "68395101028672",
+          "title": "Ash Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395101061440": {
+          "id": "68395101061440",
+          "title": "Ash Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        }
+      },
+      "available": true
+    },
+    "15542218981696": {
+      "id": "15542218981696",
+      "title": "Hampton - Carbon Grey Merino Wool Blend Suiting Fabric",
+      "handle": "hampton-carbon-grey-merino-wool-blend-suiting-fabric",
+      "url": "https://shaffer.store/products/hampton-carbon-grey-merino-wool-blend-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Hampton is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Hampton falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Hampton Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8545.jpg?v=1795514512",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8548.jpg?v=1795514597",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8551_0a7668a8-3ed0-4e61-b525-4612402c7aeb.jpg?v=1795514632",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8556.jpg?v=1795514495",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8560.jpg?v=1795514614",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8563.jpg?v=1795514580",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8565.jpg?v=1795514477"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Teal Blue",
+            "Jet Black",
+            "Heather Grey",
+            "Wheat Brown",
+            "Carbon Grey",
+            "Ash Grey"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "68395068260672": {
+          "id": "68395068260672",
+          "title": "Navy Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395068293440": {
+          "id": "68395068293440",
+          "title": "Navy Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 2167500
+        },
+        "68395068326208": {
+          "id": "68395068326208",
+          "title": "Teal Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395068358976": {
+          "id": "68395068358976",
+          "title": "Teal Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395068391744": {
+          "id": "68395068391744",
+          "title": "Jet Black / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395068424512": {
+          "id": "68395068424512",
+          "title": "Jet Black / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395068457280": {
+          "id": "68395068457280",
+          "title": "Heather Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395068490048": {
+          "id": "68395068490048",
+          "title": "Heather Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395068522816": {
+          "id": "68395068522816",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395068555584": {
+          "id": "68395068555584",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395068588352": {
+          "id": "68395068588352",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395068621120": {
+          "id": "68395068621120",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68395068653888": {
+          "id": "68395068653888",
+          "title": "Ash Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68395068686656": {
+          "id": "68395068686656",
+          "title": "Ash Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        }
+      },
+      "available": true
+    },
+    "15542182674752": {
+      "id": "15542182674752",
+      "title": "Hampton - Heather Grey Merino Wool Blend Suiting Fabric",
+      "handle": "hampton-heather-grey-merino-wool-blend-suiting-fabric",
+      "url": "https://shaffer.store/products/hampton-heather-grey-merino-wool-blend-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Hampton is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Hampton falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Hampton Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8545.jpg?v=1795514512",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8548.jpg?v=1795514597",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8551_0a7668a8-3ed0-4e61-b525-4612402c7aeb.jpg?v=1795514632",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8556.jpg?v=1795514495",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8560.jpg?v=1795514614",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8563.jpg?v=1795514580",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8565.jpg?v=1795514477"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Teal Blue",
+            "Jet Black",
+            "Heather Grey",
+            "Wheat Brown",
+            "Carbon Grey",
+            "Ash Grey"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "68394954621248": {
+          "id": "68394954621248",
+          "title": "Navy Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394954654016": {
+          "id": "68394954654016",
+          "title": "Navy Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 2167500
+        },
+        "68394954686784": {
+          "id": "68394954686784",
+          "title": "Teal Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394954719552": {
+          "id": "68394954719552",
+          "title": "Teal Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394954752320": {
+          "id": "68394954752320",
+          "title": "Jet Black / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394954785088": {
+          "id": "68394954785088",
+          "title": "Jet Black / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394954817856": {
+          "id": "68394954817856",
+          "title": "Heather Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394954850624": {
+          "id": "68394954850624",
+          "title": "Heather Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394954883392": {
+          "id": "68394954883392",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394954916160": {
+          "id": "68394954916160",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394954948928": {
+          "id": "68394954948928",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394954981696": {
+          "id": "68394954981696",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394955014464": {
+          "id": "68394955014464",
+          "title": "Ash Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394955047232": {
+          "id": "68394955047232",
+          "title": "Ash Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        }
+      },
+      "available": true
+    },
+    "15542175170880": {
+      "id": "15542175170880",
+      "title": "Hampton - Jet Black Merino Wool Blend Suiting Fabric",
+      "handle": "hampton-jet-black-merino-wool-blend-suiting-fabric",
+      "url": "https://shaffer.store/products/hampton-jet-black-merino-wool-blend-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Hampton is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Hampton falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Hampton Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8545.jpg?v=1795514512",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8548.jpg?v=1795514597",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8551_0a7668a8-3ed0-4e61-b525-4612402c7aeb.jpg?v=1795514632",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8556.jpg?v=1795514495",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8560.jpg?v=1795514614",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8563.jpg?v=1795514580",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8565.jpg?v=1795514477"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Teal Blue",
+            "Jet Black",
+            "Heather Grey",
+            "Wheat Brown",
+            "Carbon Grey",
+            "Ash Grey"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "68394929914176": {
+          "id": "68394929914176",
+          "title": "Navy Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394929946944": {
+          "id": "68394929946944",
+          "title": "Navy Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 2167500
+        },
+        "68394929979712": {
+          "id": "68394929979712",
+          "title": "Teal Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394930012480": {
+          "id": "68394930012480",
+          "title": "Teal Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394930045248": {
+          "id": "68394930045248",
+          "title": "Jet Black / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394930078016": {
+          "id": "68394930078016",
+          "title": "Jet Black / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394930110784": {
+          "id": "68394930110784",
+          "title": "Heather Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394930143552": {
+          "id": "68394930143552",
+          "title": "Heather Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394930176320": {
+          "id": "68394930176320",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394930209088": {
+          "id": "68394930209088",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394930241856": {
+          "id": "68394930241856",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394930274624": {
+          "id": "68394930274624",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394930307392": {
+          "id": "68394930307392",
+          "title": "Ash Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394930340160": {
+          "id": "68394930340160",
+          "title": "Ash Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        }
+      },
+      "available": true
+    },
+    "9927494271296": {
+      "id": "9927494271296",
+      "title": "Hampton - Navy Blue Merino Wool Blend Suiting Fabric",
+      "handle": "hampton-navy-blue-merino-wool-blend-suiting-fabric",
+      "url": "https://shaffer.store/products/hampton-navy-blue-merino-wool-blend-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Hampton is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Hampton falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Hampton Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8545.jpg?v=1795514512",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8548.jpg?v=1795514597",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8551_0a7668a8-3ed0-4e61-b525-4612402c7aeb.jpg?v=1795514632",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8556.jpg?v=1795514495",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8560.jpg?v=1795514614",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8563.jpg?v=1795514580",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8565.jpg?v=1795514477"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Teal Blue",
+            "Jet Black",
+            "Heather Grey",
+            "Wheat Brown",
+            "Carbon Grey",
+            "Ash Grey"
           ]
         },
         {
@@ -23904,159 +26148,653 @@
       "variants": {
         "51100514025792": {
           "id": "51100514025792",
-          "title": "Thunder Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "title": "Navy Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
           "options": [
-            "Thunder Grey",
+            "Navy Blue",
             "Shalwar Suit Fabric",
             "1.25 Meter For Waistcoat"
           ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 637500,
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
           "compare_at_price": 637500
         },
         "51100514124096": {
           "id": "51100514124096",
-          "title": "Thunder Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "title": "Navy Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
           "options": [
-            "Thunder Grey",
+            "Navy Blue",
             "Shalwar Suit Fabric",
             "4.25 Meter For Shalwar Suit"
           ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 2167500,
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
           "compare_at_price": 2167500
         },
-        "51100513370432": {
-          "id": "51100513370432",
-          "title": "Pigeon Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+        "68391992295744": {
+          "id": "68391992295744",
+          "title": "Teal Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
           "options": [
-            "Pigeon Blue",
+            "Teal Blue",
             "Shalwar Suit Fabric",
             "1.25 Meter For Waistcoat"
           ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 637500,
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
           "compare_at_price": 637500
         },
-        "51100513468736": {
-          "id": "51100513468736",
-          "title": "Pigeon Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+        "68391992328512": {
+          "id": "68391992328512",
+          "title": "Teal Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
           "options": [
-            "Pigeon Blue",
+            "Teal Blue",
             "Shalwar Suit Fabric",
             "4.25 Meter For Shalwar Suit"
           ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 2167500,
-          "compare_at_price": 2167500
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
         },
-        "51100513501504": {
-          "id": "51100513501504",
+        "68391992361280": {
+          "id": "68391992361280",
+          "title": "Jet Black / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68391992394048": {
+          "id": "68391992394048",
+          "title": "Jet Black / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68391992426816": {
+          "id": "68391992426816",
+          "title": "Heather Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68391992459584": {
+          "id": "68391992459584",
+          "title": "Heather Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68391992492352": {
+          "id": "68391992492352",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68391992525120": {
+          "id": "68391992525120",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68391992557888": {
+          "id": "68391992557888",
           "title": "Carbon Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
           "options": [
             "Carbon Grey",
             "Shalwar Suit Fabric",
             "1.25 Meter For Waistcoat"
           ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 637500,
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
           "compare_at_price": 637500
         },
-        "51100513599808": {
-          "id": "51100513599808",
+        "68391992590656": {
+          "id": "68391992590656",
           "title": "Carbon Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
           "options": [
             "Carbon Grey",
             "Shalwar Suit Fabric",
             "4.25 Meter For Shalwar Suit"
           ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 2167500,
-          "compare_at_price": 2167500
-        },
-        "51100513632576": {
-          "id": "51100513632576",
-          "title": "Dove Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
-          "options": [
-            "Dove Grey",
-            "Shalwar Suit Fabric",
-            "1.25 Meter For Waistcoat"
-          ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 637500,
-          "compare_at_price": 637500
-        },
-        "51100513730880": {
-          "id": "51100513730880",
-          "title": "Dove Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
-          "options": [
-            "Dove Grey",
-            "Shalwar Suit Fabric",
-            "4.25 Meter For Shalwar Suit"
-          ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 2167500,
-          "compare_at_price": 2167500
-        },
-        "51100513763648": {
-          "id": "51100513763648",
-          "title": "Coyote Brown / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
-          "options": [
-            "Coyote Brown",
-            "Shalwar Suit Fabric",
-            "1.25 Meter For Waistcoat"
-          ],
-          "sku": "STH-000450",
+          "sku": "Sth-000547",
           "available": true,
-          "price": 637500,
+          "price": 3612500,
           "compare_at_price": 637500
         },
-        "51100513861952": {
-          "id": "51100513861952",
-          "title": "Coyote Brown / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+        "68391992623424": {
+          "id": "68391992623424",
+          "title": "Ash Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
           "options": [
-            "Coyote Brown",
-            "Shalwar Suit Fabric",
-            "4.25 Meter For Shalwar Suit"
-          ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 2167500,
-          "compare_at_price": 2167500
-        },
-        "51100513894720": {
-          "id": "51100513894720",
-          "title": "Charcoal Black / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
-          "options": [
-            "Charcoal Black",
+            "Ash Grey",
             "Shalwar Suit Fabric",
             "1.25 Meter For Waistcoat"
           ],
-          "sku": "STH-000450",
+          "sku": "Sth-000547",
           "available": true,
-          "price": 637500,
+          "price": 850000,
           "compare_at_price": 637500
         },
-        "51100513993024": {
-          "id": "51100513993024",
-          "title": "Charcoal Black / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+        "68391992656192": {
+          "id": "68391992656192",
+          "title": "Ash Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
           "options": [
-            "Charcoal Black",
+            "Ash Grey",
             "Shalwar Suit Fabric",
             "4.25 Meter For Shalwar Suit"
           ],
-          "sku": "STH-000450",
-          "available": false,
-          "price": 2167500,
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        }
+      },
+      "available": true
+    },
+    "15542170386752": {
+      "id": "15542170386752",
+      "title": "Hampton - Teal Blue Merino Wool Blend Suiting Fabric",
+      "handle": "hampton-teal-blue-merino-wool-blend-suiting-fabric",
+      "url": "https://shaffer.store/products/hampton-teal-blue-merino-wool-blend-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Hampton is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Hampton falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Hampton Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8545.jpg?v=1795514512",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8548.jpg?v=1795514597",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8551_0a7668a8-3ed0-4e61-b525-4612402c7aeb.jpg?v=1795514632",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8556.jpg?v=1795514495",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8560.jpg?v=1795514614",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8563.jpg?v=1795514580",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8565.jpg?v=1795514477"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Teal Blue",
+            "Jet Black",
+            "Heather Grey",
+            "Wheat Brown",
+            "Carbon Grey",
+            "Ash Grey"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "68394917462336": {
+          "id": "68394917462336",
+          "title": "Navy Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394917495104": {
+          "id": "68394917495104",
+          "title": "Navy Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
           "compare_at_price": 2167500
+        },
+        "68394917527872": {
+          "id": "68394917527872",
+          "title": "Teal Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394917560640": {
+          "id": "68394917560640",
+          "title": "Teal Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394917593408": {
+          "id": "68394917593408",
+          "title": "Jet Black / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394917626176": {
+          "id": "68394917626176",
+          "title": "Jet Black / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394917658944": {
+          "id": "68394917658944",
+          "title": "Heather Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394917691712": {
+          "id": "68394917691712",
+          "title": "Heather Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394917724480": {
+          "id": "68394917724480",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394917757248": {
+          "id": "68394917757248",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394917790016": {
+          "id": "68394917790016",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394917822784": {
+          "id": "68394917822784",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394917855552": {
+          "id": "68394917855552",
+          "title": "Ash Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394917888320": {
+          "id": "68394917888320",
+          "title": "Ash Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        }
+      },
+      "available": true
+    },
+    "15542188245312": {
+      "id": "15542188245312",
+      "title": "Hampton - Wheat Brown Merino Wool Blend Suiting Fabric",
+      "handle": "hampton-wheat-brown-merino-wool-blend-suiting-fabric",
+      "url": "https://shaffer.store/products/hampton-wheat-brown-merino-wool-blend-suiting-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Hampton is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Hampton falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Hampton Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8545.jpg?v=1795514512",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8548.jpg?v=1795514597",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8551_0a7668a8-3ed0-4e61-b525-4612402c7aeb.jpg?v=1795514632",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8556.jpg?v=1795514495",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8560.jpg?v=1795514614",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8563.jpg?v=1795514580",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8565.jpg?v=1795514477"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy Blue",
+            "Teal Blue",
+            "Jet Black",
+            "Heather Grey",
+            "Wheat Brown",
+            "Carbon Grey",
+            "Ash Grey"
+          ]
+        },
+        {
+          "name": "Fabric Type",
+          "position": 2,
+          "values": [
+            "Shalwar Suit Fabric"
+          ]
+        },
+        {
+          "name": "size",
+          "position": 3,
+          "values": [
+            "1.25 Meter For Waistcoat",
+            "4.25 Meter For Shalwar Suit"
+          ]
+        }
+      ],
+      "variants": {
+        "68394966319424": {
+          "id": "68394966319424",
+          "title": "Navy Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394966352192": {
+          "id": "68394966352192",
+          "title": "Navy Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Navy Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 2167500
+        },
+        "68394966384960": {
+          "id": "68394966384960",
+          "title": "Teal Blue / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394966417728": {
+          "id": "68394966417728",
+          "title": "Teal Blue / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Teal Blue",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394966450496": {
+          "id": "68394966450496",
+          "title": "Jet Black / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394966483264": {
+          "id": "68394966483264",
+          "title": "Jet Black / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Jet Black",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394966516032": {
+          "id": "68394966516032",
+          "title": "Heather Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394966548800": {
+          "id": "68394966548800",
+          "title": "Heather Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Heather Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394966581568": {
+          "id": "68394966581568",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394966614336": {
+          "id": "68394966614336",
+          "title": "Wheat Brown / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Wheat Brown",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394966647104": {
+          "id": "68394966647104",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394966679872": {
+          "id": "68394966679872",
+          "title": "Carbon Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Carbon Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
+        },
+        "68394966712640": {
+          "id": "68394966712640",
+          "title": "Ash Grey / Shalwar Suit Fabric / 1.25 Meter For Waistcoat",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "1.25 Meter For Waistcoat"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 850000,
+          "compare_at_price": 637500
+        },
+        "68394966745408": {
+          "id": "68394966745408",
+          "title": "Ash Grey / Shalwar Suit Fabric / 4.25 Meter For Shalwar Suit",
+          "options": [
+            "Ash Grey",
+            "Shalwar Suit Fabric",
+            "4.25 Meter For Shalwar Suit"
+          ],
+          "sku": "Sth-000547",
+          "available": true,
+          "price": 3612500,
+          "compare_at_price": 637500
         }
       },
       "available": true
@@ -34305,7 +37043,7 @@
             "Egg White"
           ],
           "sku": "BS-002348",
-          "available": true,
+          "available": false,
           "price": 720000,
           "compare_at_price": 720000
         },
@@ -43771,22 +46509,24 @@
     },
     "9920283443520": {
       "id": "9920283443520",
-      "title": "Ostrich - Merino Wool Blend Fabric",
-      "handle": "ostrich-merino-wool-blend-fabric",
-      "url": "https://shaffer.store/products/ostrich-merino-wool-blend-fabric",
+      "title": "Ostrich - Coal Grey Merino Wool Blend Fabric",
+      "handle": "ostrich-coal-grey-merino-wool-blend-fabric",
+      "url": "https://shaffer.store/products/ostrich-coal-grey-merino-wool-blend-fabric",
       "vendor": "Shaffer",
       "type": "Wool Fabric",
       "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ostrich is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Ostrich falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Ostrich Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><br><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
       "tags": [],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0020_Shaffer_unstiched_editorial_sep_2583305.jpg?v=1758795132"
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8529.jpg?v=1795513142",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8532.jpg?v=1795513157"
       ],
       "options": [
         {
           "name": "Color",
           "position": 1,
           "values": [
-            "Onex Black"
+            "Coal Grey",
+            "Navy Blue"
           ]
         },
         {
@@ -43803,51 +46543,232 @@
       "variants": {
         "51079973208384": {
           "id": "51079973208384",
-          "title": "Onex Black / 1 Meter For Waistcoat",
+          "title": "Coal Grey / 1 Meter For Waistcoat",
           "options": [
-            "Onex Black",
+            "Coal Grey",
             "1 Meter For Waistcoat"
           ],
-          "sku": "STH-000441",
+          "sku": "STH-000545",
           "available": true,
-          "price": 750000,
+          "price": 900000,
           "compare_at_price": 750000
         },
         "51079973241152": {
           "id": "51079973241152",
-          "title": "Onex Black / 2 Meter For Blazer",
+          "title": "Coal Grey / 2 Meter For Blazer",
           "options": [
-            "Onex Black",
+            "Coal Grey",
             "2 Meter For Blazer"
           ],
-          "sku": "STH-000441",
-          "available": false,
-          "price": 1500000,
+          "sku": "STH-000545",
+          "available": true,
+          "price": 1800000,
           "compare_at_price": 1500000
         },
         "51079973273920": {
           "id": "51079973273920",
-          "title": "Onex Black / 3.5 Meter For 2 Piece",
+          "title": "Coal Grey / 3.5 Meter For 2 Piece",
           "options": [
-            "Onex Black",
+            "Coal Grey",
             "3.5 Meter For 2 Piece"
           ],
-          "sku": "STH-000441",
+          "sku": "STH-000545",
           "available": true,
-          "price": 2625000,
+          "price": 3150000,
           "compare_at_price": 2625000
         },
         "51079973306688": {
           "id": "51079973306688",
-          "title": "Onex Black / 4.25 Meter For 3 Piece",
+          "title": "Coal Grey / 4.25 Meter For 3 Piece",
           "options": [
-            "Onex Black",
+            "Coal Grey",
             "4.25 Meter For 3 Piece"
           ],
-          "sku": "STH-000441",
+          "sku": "STH-000545",
           "available": true,
-          "price": 3187500,
+          "price": 3825000,
           "compare_at_price": 3187500
+        },
+        "68390311952704": {
+          "id": "68390311952704",
+          "title": "Navy Blue / 1 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 900000,
+          "compare_at_price": 750000
+        },
+        "68390311985472": {
+          "id": "68390311985472",
+          "title": "Navy Blue / 2 Meter For Blazer",
+          "options": [
+            "Navy Blue",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 1800000,
+          "compare_at_price": 750000
+        },
+        "68390312018240": {
+          "id": "68390312018240",
+          "title": "Navy Blue / 3.5 Meter For 2 Piece",
+          "options": [
+            "Navy Blue",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 3150000,
+          "compare_at_price": 750000
+        },
+        "68390312051008": {
+          "id": "68390312051008",
+          "title": "Navy Blue / 4.25 Meter For 3 Piece",
+          "options": [
+            "Navy Blue",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 3825000,
+          "compare_at_price": 750000
+        }
+      },
+      "available": true
+    },
+    "15542484894016": {
+      "id": "15542484894016",
+      "title": "Ostrich - Navy Blue Merino Wool Blend Fabric",
+      "handle": "ostrich-navy-blue-merino-wool-blend-fabric",
+      "url": "https://shaffer.store/products/ostrich-navy-blue-merino-wool-blend-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ostrich is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Ostrich falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Ostrich Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><br><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8529.jpg?v=1795513142",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8532.jpg?v=1795513157"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Coal Grey",
+            "Navy Blue"
+          ]
+        },
+        {
+          "name": "size",
+          "position": 2,
+          "values": [
+            "1 Meter For Waistcoat",
+            "2 Meter For Blazer",
+            "3.5 Meter For 2 Piece",
+            "4.25 Meter For 3 Piece"
+          ]
+        }
+      ],
+      "variants": {
+        "68395963482432": {
+          "id": "68395963482432",
+          "title": "Coal Grey / 1 Meter For Waistcoat",
+          "options": [
+            "Coal Grey",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 900000,
+          "compare_at_price": 750000
+        },
+        "68395963515200": {
+          "id": "68395963515200",
+          "title": "Coal Grey / 2 Meter For Blazer",
+          "options": [
+            "Coal Grey",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 1800000,
+          "compare_at_price": 1500000
+        },
+        "68395963547968": {
+          "id": "68395963547968",
+          "title": "Coal Grey / 3.5 Meter For 2 Piece",
+          "options": [
+            "Coal Grey",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 3150000,
+          "compare_at_price": 2625000
+        },
+        "68395963580736": {
+          "id": "68395963580736",
+          "title": "Coal Grey / 4.25 Meter For 3 Piece",
+          "options": [
+            "Coal Grey",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 3825000,
+          "compare_at_price": 3187500
+        },
+        "68395963613504": {
+          "id": "68395963613504",
+          "title": "Navy Blue / 1 Meter For Waistcoat",
+          "options": [
+            "Navy Blue",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 900000,
+          "compare_at_price": 750000
+        },
+        "68395963646272": {
+          "id": "68395963646272",
+          "title": "Navy Blue / 2 Meter For Blazer",
+          "options": [
+            "Navy Blue",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 1800000,
+          "compare_at_price": 750000
+        },
+        "68395963679040": {
+          "id": "68395963679040",
+          "title": "Navy Blue / 3.5 Meter For 2 Piece",
+          "options": [
+            "Navy Blue",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 3150000,
+          "compare_at_price": 750000
+        },
+        "68395963711808": {
+          "id": "68395963711808",
+          "title": "Navy Blue / 4.25 Meter For 3 Piece",
+          "options": [
+            "Navy Blue",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000545",
+          "available": true,
+          "price": 3825000,
+          "compare_at_price": 750000
         }
       },
       "available": true
@@ -47032,7 +49953,7 @@
             "Large"
           ],
           "sku": "SWTFS-0001",
-          "available": true,
+          "available": false,
           "price": 382500,
           "compare_at_price": 765000
         },
@@ -47048,7 +49969,7 @@
           "compare_at_price": 765000
         }
       },
-      "available": true
+      "available": false
     },
     "8619132813632": {
       "id": "8619132813632",
@@ -47302,7 +50223,7 @@
           ],
           "sku": "v/c-00229",
           "available": false,
-          "price": 1400000,
+          "price": 1750000,
           "compare_at_price": 1750000
         },
         "51267479208256": {
@@ -47313,7 +50234,7 @@
           ],
           "sku": "v/c-00229",
           "available": true,
-          "price": 1400000,
+          "price": 1750000,
           "compare_at_price": 1750000
         },
         "51267479241024": {
@@ -47324,7 +50245,7 @@
           ],
           "sku": "v/c-00229",
           "available": false,
-          "price": 1400000,
+          "price": 1750000,
           "compare_at_price": 1750000
         },
         "51267479273792": {
@@ -47335,7 +50256,7 @@
           ],
           "sku": "v/c-00229",
           "available": false,
-          "price": 1400000,
+          "price": 1750000,
           "compare_at_price": 1750000
         }
       },
@@ -48391,12 +51312,12 @@
             "Default Title"
           ],
           "sku": "PSQ-000015",
-          "available": true,
+          "available": false,
           "price": 150000,
           "compare_at_price": 150000
         }
       },
-      "available": true
+      "available": false
     },
     "15430493569344": {
       "id": "15430493569344",
@@ -49579,24 +52500,28 @@
     },
     "9920275448128": {
       "id": "9920275448128",
-      "title": "Santro - Merino Wool Blend Fabric",
-      "handle": "santro-merino-wool-blend-fabric",
-      "url": "https://shaffer.store/products/santro-merino-wool-blend-fabric",
+      "title": "Santro - Carbon Black Merino Wool Blend Fabric",
+      "handle": "santro-carbon-black-merino-wool-blend-fabric",
+      "url": "https://shaffer.store/products/santro-carbon-black-merino-wool-blend-fabric",
       "vendor": "Shaffer",
       "type": "Wool Fabric",
       "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Santro is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Santro falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Santro Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><br><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
       "tags": [],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0023_Shaffer_unstiched_editorial_sep_2583421.jpg?v=1759924594",
-        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/3500x5131_size_0031_Shaffer_unstiched_editorial_sep_2583428.jpg?v=1759924594"
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8535.jpg?v=1795512556",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8537.jpg?v=1795512568",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8539.jpg?v=1795512465",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8542.jpg?v=1795512594"
       ],
       "options": [
         {
           "name": "Color",
           "position": 1,
           "values": [
-            "Bisconi Brown",
-            "Onyx Black"
+            "Carbon Black",
+            "Charcoal Grey",
+            "Royal Brown",
+            "Deep Navy"
           ]
         },
         {
@@ -49613,99 +52538,894 @@
       "variants": {
         "51079953187136": {
           "id": "51079953187136",
-          "title": "Bisconi Brown / 1 Meter For Waistcoat",
+          "title": "Carbon Black / 1 Meter For Waistcoat",
           "options": [
-            "Bisconi Brown",
+            "Carbon Black",
             "1 Meter For Waistcoat"
           ],
-          "sku": "STH-000442",
+          "sku": "STH-000542",
           "available": true,
-          "price": 650000,
+          "price": 800000,
           "compare_at_price": 650000
         },
         "51079953219904": {
           "id": "51079953219904",
-          "title": "Bisconi Brown / 2 Meter For Blazer",
+          "title": "Carbon Black / 2 Meter For Blazer",
           "options": [
-            "Bisconi Brown",
+            "Carbon Black",
             "2 Meter For Blazer"
           ],
-          "sku": "STH-000442",
-          "available": false,
-          "price": 1300000,
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
           "compare_at_price": 1300000
         },
         "51079953252672": {
           "id": "51079953252672",
-          "title": "Bisconi Brown / 3.5 Meter For 2 Piece",
+          "title": "Carbon Black / 3.5 Meter For 2 Piece",
           "options": [
-            "Bisconi Brown",
+            "Carbon Black",
             "3.5 Meter For 2 Piece"
           ],
-          "sku": "STH-000442",
-          "available": false,
-          "price": 2275000,
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
           "compare_at_price": 2275000
         },
         "51079953285440": {
           "id": "51079953285440",
-          "title": "Bisconi Brown / 4.25 Meter For 3 Piece",
+          "title": "Carbon Black / 4.25 Meter For 3 Piece",
           "options": [
-            "Bisconi Brown",
+            "Carbon Black",
             "4.25 Meter For 3 Piece"
           ],
-          "sku": "STH-000442",
-          "available": false,
-          "price": 2762500,
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
           "compare_at_price": 2762500
         },
         "51079953318208": {
           "id": "51079953318208",
-          "title": "Onyx Black / 1 Meter For Waistcoat",
+          "title": "Charcoal Grey / 1 Meter For Waistcoat",
           "options": [
-            "Onyx Black",
+            "Charcoal Grey",
             "1 Meter For Waistcoat"
           ],
-          "sku": "STH-000442",
-          "available": false,
-          "price": 650000,
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
           "compare_at_price": 650000
         },
         "51079953350976": {
           "id": "51079953350976",
-          "title": "Onyx Black / 2 Meter For Blazer",
+          "title": "Charcoal Grey / 2 Meter For Blazer",
           "options": [
-            "Onyx Black",
+            "Charcoal Grey",
             "2 Meter For Blazer"
           ],
-          "sku": "STH-000442",
+          "sku": "STH-000542",
           "available": true,
-          "price": 1300000,
+          "price": 1600000,
           "compare_at_price": 1300000
         },
         "51079953383744": {
           "id": "51079953383744",
-          "title": "Onyx Black / 3.5 Meter For 2 Piece",
+          "title": "Charcoal Grey / 3.5 Meter For 2 Piece",
           "options": [
-            "Onyx Black",
+            "Charcoal Grey",
             "3.5 Meter For 2 Piece"
           ],
-          "sku": "STH-000442",
-          "available": false,
-          "price": 2275000,
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
           "compare_at_price": 2275000
         },
         "51079953416512": {
           "id": "51079953416512",
-          "title": "Onyx Black / 4.25 Meter For 3 Piece",
+          "title": "Charcoal Grey / 4.25 Meter For 3 Piece",
           "options": [
-            "Onyx Black",
+            "Charcoal Grey",
             "4.25 Meter For 3 Piece"
           ],
-          "sku": "STH-000442",
-          "available": false,
-          "price": 2762500,
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
           "compare_at_price": 2762500
+        },
+        "68389533450560": {
+          "id": "68389533450560",
+          "title": "Royal Brown / 1 Meter For Waistcoat",
+          "options": [
+            "Royal Brown",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68389533483328": {
+          "id": "68389533483328",
+          "title": "Royal Brown / 2 Meter For Blazer",
+          "options": [
+            "Royal Brown",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 650000
+        },
+        "68389533516096": {
+          "id": "68389533516096",
+          "title": "Royal Brown / 3.5 Meter For 2 Piece",
+          "options": [
+            "Royal Brown",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 650000
+        },
+        "68389533548864": {
+          "id": "68389533548864",
+          "title": "Royal Brown / 4.25 Meter For 3 Piece",
+          "options": [
+            "Royal Brown",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 650000
+        },
+        "68389533581632": {
+          "id": "68389533581632",
+          "title": "Deep Navy / 1 Meter For Waistcoat",
+          "options": [
+            "Deep Navy",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68389533614400": {
+          "id": "68389533614400",
+          "title": "Deep Navy / 2 Meter For Blazer",
+          "options": [
+            "Deep Navy",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 650000
+        },
+        "68389533647168": {
+          "id": "68389533647168",
+          "title": "Deep Navy / 3.5 Meter For 2 Piece",
+          "options": [
+            "Deep Navy",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 650000
+        },
+        "68389533679936": {
+          "id": "68389533679936",
+          "title": "Deep Navy / 4.25 Meter For 3 Piece",
+          "options": [
+            "Deep Navy",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 650000
+        }
+      },
+      "available": true
+    },
+    "15542513926464": {
+      "id": "15542513926464",
+      "title": "Santro - Charcoal Grey Merino Wool Blend Fabric",
+      "handle": "santro-charcoal-grey-merino-wool-blend-fabric",
+      "url": "https://shaffer.store/products/santro-charcoal-grey-merino-wool-blend-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Santro is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Santro falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Santro Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><br><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8535.jpg?v=1795512556",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8537.jpg?v=1795512568",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8539.jpg?v=1795512465",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8542.jpg?v=1795512594"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Carbon Black",
+            "Charcoal Grey",
+            "Royal Brown",
+            "Deep Navy"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1 Meter For Waistcoat",
+            "2 Meter For Blazer",
+            "3.5 Meter For 2 Piece",
+            "4.25 Meter For 3 Piece"
+          ]
+        }
+      ],
+      "variants": {
+        "68396062441792": {
+          "id": "68396062441792",
+          "title": "Carbon Black / 1 Meter For Waistcoat",
+          "options": [
+            "Carbon Black",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396062474560": {
+          "id": "68396062474560",
+          "title": "Carbon Black / 2 Meter For Blazer",
+          "options": [
+            "Carbon Black",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 1300000
+        },
+        "68396062507328": {
+          "id": "68396062507328",
+          "title": "Carbon Black / 3.5 Meter For 2 Piece",
+          "options": [
+            "Carbon Black",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 2275000
+        },
+        "68396062540096": {
+          "id": "68396062540096",
+          "title": "Carbon Black / 4.25 Meter For 3 Piece",
+          "options": [
+            "Carbon Black",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 2762500
+        },
+        "68396062572864": {
+          "id": "68396062572864",
+          "title": "Charcoal Grey / 1 Meter For Waistcoat",
+          "options": [
+            "Charcoal Grey",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396062605632": {
+          "id": "68396062605632",
+          "title": "Charcoal Grey / 2 Meter For Blazer",
+          "options": [
+            "Charcoal Grey",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 1300000
+        },
+        "68396062638400": {
+          "id": "68396062638400",
+          "title": "Charcoal Grey / 3.5 Meter For 2 Piece",
+          "options": [
+            "Charcoal Grey",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 2275000
+        },
+        "68396062671168": {
+          "id": "68396062671168",
+          "title": "Charcoal Grey / 4.25 Meter For 3 Piece",
+          "options": [
+            "Charcoal Grey",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 2762500
+        },
+        "68396062703936": {
+          "id": "68396062703936",
+          "title": "Royal Brown / 1 Meter For Waistcoat",
+          "options": [
+            "Royal Brown",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396062736704": {
+          "id": "68396062736704",
+          "title": "Royal Brown / 2 Meter For Blazer",
+          "options": [
+            "Royal Brown",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 650000
+        },
+        "68396062769472": {
+          "id": "68396062769472",
+          "title": "Royal Brown / 3.5 Meter For 2 Piece",
+          "options": [
+            "Royal Brown",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 650000
+        },
+        "68396062802240": {
+          "id": "68396062802240",
+          "title": "Royal Brown / 4.25 Meter For 3 Piece",
+          "options": [
+            "Royal Brown",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 650000
+        },
+        "68396062835008": {
+          "id": "68396062835008",
+          "title": "Deep Navy / 1 Meter For Waistcoat",
+          "options": [
+            "Deep Navy",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396062867776": {
+          "id": "68396062867776",
+          "title": "Deep Navy / 2 Meter For Blazer",
+          "options": [
+            "Deep Navy",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 650000
+        },
+        "68396062900544": {
+          "id": "68396062900544",
+          "title": "Deep Navy / 3.5 Meter For 2 Piece",
+          "options": [
+            "Deep Navy",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 650000
+        },
+        "68396062933312": {
+          "id": "68396062933312",
+          "title": "Deep Navy / 4.25 Meter For 3 Piece",
+          "options": [
+            "Deep Navy",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 650000
+        }
+      },
+      "available": true
+    },
+    "15542538797376": {
+      "id": "15542538797376",
+      "title": "Santro - Deep Navy Merino Wool Blend Fabric",
+      "handle": "santro-deep-navy-merino-wool-blend-fabric",
+      "url": "https://shaffer.store/products/santro-deep-navy-merino-wool-blend-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Santro is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Santro falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Santro Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><br><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8535.jpg?v=1795512556",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8537.jpg?v=1795512568",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8539.jpg?v=1795512465",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8542.jpg?v=1795512594"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Carbon Black",
+            "Charcoal Grey",
+            "Royal Brown",
+            "Deep Navy"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1 Meter For Waistcoat",
+            "2 Meter For Blazer",
+            "3.5 Meter For 2 Piece",
+            "4.25 Meter For 3 Piece"
+          ]
+        }
+      ],
+      "variants": {
+        "68396173001024": {
+          "id": "68396173001024",
+          "title": "Carbon Black / 1 Meter For Waistcoat",
+          "options": [
+            "Carbon Black",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396173033792": {
+          "id": "68396173033792",
+          "title": "Carbon Black / 2 Meter For Blazer",
+          "options": [
+            "Carbon Black",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 1300000
+        },
+        "68396173066560": {
+          "id": "68396173066560",
+          "title": "Carbon Black / 3.5 Meter For 2 Piece",
+          "options": [
+            "Carbon Black",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 2275000
+        },
+        "68396173099328": {
+          "id": "68396173099328",
+          "title": "Carbon Black / 4.25 Meter For 3 Piece",
+          "options": [
+            "Carbon Black",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 2762500
+        },
+        "68396173132096": {
+          "id": "68396173132096",
+          "title": "Charcoal Grey / 1 Meter For Waistcoat",
+          "options": [
+            "Charcoal Grey",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396173164864": {
+          "id": "68396173164864",
+          "title": "Charcoal Grey / 2 Meter For Blazer",
+          "options": [
+            "Charcoal Grey",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 1300000
+        },
+        "68396173197632": {
+          "id": "68396173197632",
+          "title": "Charcoal Grey / 3.5 Meter For 2 Piece",
+          "options": [
+            "Charcoal Grey",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 2275000
+        },
+        "68396173230400": {
+          "id": "68396173230400",
+          "title": "Charcoal Grey / 4.25 Meter For 3 Piece",
+          "options": [
+            "Charcoal Grey",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 2762500
+        },
+        "68396173263168": {
+          "id": "68396173263168",
+          "title": "Royal Brown / 1 Meter For Waistcoat",
+          "options": [
+            "Royal Brown",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396173295936": {
+          "id": "68396173295936",
+          "title": "Royal Brown / 2 Meter For Blazer",
+          "options": [
+            "Royal Brown",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 650000
+        },
+        "68396173328704": {
+          "id": "68396173328704",
+          "title": "Royal Brown / 3.5 Meter For 2 Piece",
+          "options": [
+            "Royal Brown",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 650000
+        },
+        "68396173361472": {
+          "id": "68396173361472",
+          "title": "Royal Brown / 4.25 Meter For 3 Piece",
+          "options": [
+            "Royal Brown",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 650000
+        },
+        "68396173394240": {
+          "id": "68396173394240",
+          "title": "Deep Navy / 1 Meter For Waistcoat",
+          "options": [
+            "Deep Navy",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396173427008": {
+          "id": "68396173427008",
+          "title": "Deep Navy / 2 Meter For Blazer",
+          "options": [
+            "Deep Navy",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 650000
+        },
+        "68396173459776": {
+          "id": "68396173459776",
+          "title": "Deep Navy / 3.5 Meter For 2 Piece",
+          "options": [
+            "Deep Navy",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 650000
+        },
+        "68396173492544": {
+          "id": "68396173492544",
+          "title": "Deep Navy / 4.25 Meter For 3 Piece",
+          "options": [
+            "Deep Navy",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 650000
+        }
+      },
+      "available": true
+    },
+    "15542530539840": {
+      "id": "15542530539840",
+      "title": "Santro - Royal Brown Merino Wool Blend Fabric",
+      "handle": "santro-royal-brown-merino-wool-blend-fabric",
+      "url": "https://shaffer.store/products/santro-royal-brown-merino-wool-blend-fabric",
+      "vendor": "Shaffer",
+      "type": "Wool Fabric",
+      "description": "<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Santro is a premium suiting fabric crafted from a fine Australian Merino wool blend, known for its softness, breathability, and refined appearance. With a Super 50 quality and a wool blend thickness measured in microns, this fabric offers a balanced combination of comfort and structure.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">Ideal for mild to warm climates, Santro falls under the category of tropical wools, featuring a lightweight construction that enhances airflow and wearability. Wool is often blended with other natural or synthetic fibers to achieve unique textures, finishes, and performance qualities. In this case, the blend can even create a subtle slubby texture, adding character to the fabric.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\">At any time of year, especially during the warmer months, Santro Merino wool composition makes it a versatile and stylish choice for suiting, providing both elegance and functionality.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-bidi; mso-hansi-theme-font: minor-bidi; mso-bidi-theme-font: minor-bidi;\"><br><strong>Care Instruction: </strong><br>Professional dry cleaning is fine, but dry cleaning fluid can be harsh on natural fibers</span></p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8535.jpg?v=1795512556",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8537.jpg?v=1795512568",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8539.jpg?v=1795512465",
+        "https://cdn.shopify.com/s/files/1/0721/7482/9888/files/010A8542.jpg?v=1795512594"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Carbon Black",
+            "Charcoal Grey",
+            "Royal Brown",
+            "Deep Navy"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1 Meter For Waistcoat",
+            "2 Meter For Blazer",
+            "3.5 Meter For 2 Piece",
+            "4.25 Meter For 3 Piece"
+          ]
+        }
+      ],
+      "variants": {
+        "68396132041024": {
+          "id": "68396132041024",
+          "title": "Carbon Black / 1 Meter For Waistcoat",
+          "options": [
+            "Carbon Black",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396132073792": {
+          "id": "68396132073792",
+          "title": "Carbon Black / 2 Meter For Blazer",
+          "options": [
+            "Carbon Black",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 1300000
+        },
+        "68396132106560": {
+          "id": "68396132106560",
+          "title": "Carbon Black / 3.5 Meter For 2 Piece",
+          "options": [
+            "Carbon Black",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 2275000
+        },
+        "68396132139328": {
+          "id": "68396132139328",
+          "title": "Carbon Black / 4.25 Meter For 3 Piece",
+          "options": [
+            "Carbon Black",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 2762500
+        },
+        "68396132172096": {
+          "id": "68396132172096",
+          "title": "Charcoal Grey / 1 Meter For Waistcoat",
+          "options": [
+            "Charcoal Grey",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396132204864": {
+          "id": "68396132204864",
+          "title": "Charcoal Grey / 2 Meter For Blazer",
+          "options": [
+            "Charcoal Grey",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 1300000
+        },
+        "68396132237632": {
+          "id": "68396132237632",
+          "title": "Charcoal Grey / 3.5 Meter For 2 Piece",
+          "options": [
+            "Charcoal Grey",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 2275000
+        },
+        "68396132270400": {
+          "id": "68396132270400",
+          "title": "Charcoal Grey / 4.25 Meter For 3 Piece",
+          "options": [
+            "Charcoal Grey",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 2762500
+        },
+        "68396132303168": {
+          "id": "68396132303168",
+          "title": "Royal Brown / 1 Meter For Waistcoat",
+          "options": [
+            "Royal Brown",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396132335936": {
+          "id": "68396132335936",
+          "title": "Royal Brown / 2 Meter For Blazer",
+          "options": [
+            "Royal Brown",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 650000
+        },
+        "68396132368704": {
+          "id": "68396132368704",
+          "title": "Royal Brown / 3.5 Meter For 2 Piece",
+          "options": [
+            "Royal Brown",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 650000
+        },
+        "68396132401472": {
+          "id": "68396132401472",
+          "title": "Royal Brown / 4.25 Meter For 3 Piece",
+          "options": [
+            "Royal Brown",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 650000
+        },
+        "68396132434240": {
+          "id": "68396132434240",
+          "title": "Deep Navy / 1 Meter For Waistcoat",
+          "options": [
+            "Deep Navy",
+            "1 Meter For Waistcoat"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 800000,
+          "compare_at_price": 650000
+        },
+        "68396132467008": {
+          "id": "68396132467008",
+          "title": "Deep Navy / 2 Meter For Blazer",
+          "options": [
+            "Deep Navy",
+            "2 Meter For Blazer"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 1600000,
+          "compare_at_price": 650000
+        },
+        "68396132499776": {
+          "id": "68396132499776",
+          "title": "Deep Navy / 3.5 Meter For 2 Piece",
+          "options": [
+            "Deep Navy",
+            "3.5 Meter For 2 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 2800000,
+          "compare_at_price": 650000
+        },
+        "68396132532544": {
+          "id": "68396132532544",
+          "title": "Deep Navy / 4.25 Meter For 3 Piece",
+          "options": [
+            "Deep Navy",
+            "4.25 Meter For 3 Piece"
+          ],
+          "sku": "STH-000542",
+          "available": true,
+          "price": 3400000,
+          "compare_at_price": 650000
         }
       },
       "available": true
