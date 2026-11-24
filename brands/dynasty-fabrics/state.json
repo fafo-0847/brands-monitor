@@ -3,7 +3,7 @@
   "source": "https://www.dynastyfabrics.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T03:16:50.347586+00:00",
+  "checked_at": "2026-11-24T13:38:12.055650+00:00",
   "products": {
     "7437620216048": {
       "id": "7437620216048",
@@ -2512,7 +2512,7 @@
             "Dark Grey"
           ],
           "sku": "UST0813-4P2-DGR",
-          "available": false,
+          "available": true,
           "price": 650000,
           "compare_at_price": 650000
         },
@@ -2525,7 +2525,7 @@
             "Navy"
           ],
           "sku": "UST0813-4P2-NVY",
-          "available": false,
+          "available": true,
           "price": 650000,
           "compare_at_price": 650000
         }
@@ -3183,7 +3183,7 @@
             "Wash & Wear"
           ],
           "sku": "UST0459-4P2-SLG",
-          "available": false,
+          "available": true,
           "price": 550000,
           "compare_at_price": 550000
         },
@@ -8072,7 +8072,7 @@
             "Premium Blended"
           ],
           "sku": "SSU1183-SML-NVY",
-          "available": false,
+          "available": true,
           "price": 980000,
           "compare_at_price": 980000
         },
@@ -11142,6 +11142,142 @@
       },
       "available": true
     },
+    "15453914956066": {
+      "id": "15453914956066",
+      "title": "Blended Blazer l Blue",
+      "handle": "blended-blazer-l-black-4",
+      "url": "https://www.dynastyfabrics.com/products/blended-blazer-l-black-4",
+      "vendor": "Dynastyfabrics",
+      "type": "BLAZERS",
+      "description": "<p><strong>Details</strong><span>: <br><br>- Notch Lapel<br>- Two Buttons<br>- Flap Pockets<br>- Full Lining<br>- Round Hem<br><br><strong>Fabric </strong>: Premium Blended</span></p>\n<!---->",
+      "tags": [
+        "19DEC25",
+        "AZDS26",
+        "BAKU26",
+        "BLAZERS",
+        "Blue",
+        "Cream",
+        "EXAZDS26",
+        "FDS25",
+        "SALEEND26",
+        "blazers-sizechart",
+        "coffee"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC05300_Percentage_790dda75-7f31-42b6-8fee-c1e9e78231e5.jpg?v=1795506008",
+        "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC05306_Percentage_b1ec50d3-9e86-407b-bddb-fce6d3575312.jpg?v=1795506008",
+        "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC05313_Percentage.jpg?v=1795506008"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Blue"
+          ]
+        }
+      ],
+      "variants": {
+        "67924531806498": {
+          "id": "67924531806498",
+          "title": "36 / Blue",
+          "options": [
+            "36",
+            "Blue"
+          ],
+          "sku": "B734736-036-BLU",
+          "available": true,
+          "price": 2450000,
+          "compare_at_price": 2450000
+        },
+        "67924531839266": {
+          "id": "67924531839266",
+          "title": "38 / Blue",
+          "options": [
+            "38",
+            "Blue"
+          ],
+          "sku": "B734736-038-BLU",
+          "available": true,
+          "price": 2450000,
+          "compare_at_price": 2450000
+        },
+        "67924691779874": {
+          "id": "67924691779874",
+          "title": "40 / Blue",
+          "options": [
+            "40",
+            "Blue"
+          ],
+          "sku": "B734736-040-BLU",
+          "available": true,
+          "price": 2450000,
+          "compare_at_price": 2450000
+        },
+        "67924531872034": {
+          "id": "67924531872034",
+          "title": "42 / Blue",
+          "options": [
+            "42",
+            "Blue"
+          ],
+          "sku": "B734736-042-BLU",
+          "available": true,
+          "price": 2450000,
+          "compare_at_price": 2450000
+        },
+        "67924531904802": {
+          "id": "67924531904802",
+          "title": "44 / Blue",
+          "options": [
+            "44",
+            "Blue"
+          ],
+          "sku": "B734736-044-BLU",
+          "available": true,
+          "price": 2450000,
+          "compare_at_price": 2450000
+        },
+        "67924531937570": {
+          "id": "67924531937570",
+          "title": "46 / Blue",
+          "options": [
+            "46",
+            "Blue"
+          ],
+          "sku": "B734736-046-BLU",
+          "available": true,
+          "price": 2450000,
+          "compare_at_price": 2450000
+        },
+        "67924531970338": {
+          "id": "67924531970338",
+          "title": "48 / Blue",
+          "options": [
+            "48",
+            "Blue"
+          ],
+          "sku": "B734736-048-BLU",
+          "available": true,
+          "price": 2450000,
+          "compare_at_price": 2450000
+        }
+      },
+      "available": true
+    },
     "9781395357936": {
       "id": "9781395357936",
       "title": "Blended Blazer l Charcoal",
@@ -11539,6 +11675,128 @@
         }
       },
       "available": false
+    },
+    "15453862363426": {
+      "id": "15453862363426",
+      "title": "Blended Blazer l Cream",
+      "handle": "blended-blazer-l-cream-1",
+      "url": "https://www.dynastyfabrics.com/products/blended-blazer-l-cream-1",
+      "vendor": "Dynastyfabrics",
+      "type": "BLAZERS",
+      "description": "<p><strong>Details</strong><span>: <br><br>- Notch Lapel<br>- Two Buttons<br>- Patch Pockets<br>- Full Lining<br>- Round Hem<br><br><strong>Fabric </strong>: Premium Blended</span></p>\n<!---->",
+      "tags": [
+        "19DEC25",
+        "AZDS26",
+        "BAKU26",
+        "BLAZERS",
+        "Cream",
+        "EXAZDS26",
+        "FDS25",
+        "SALEEND26",
+        "blazers-sizechart",
+        "coffee"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC04405_Percentage.jpg?v=1795505466",
+        "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC04412_Percentage.jpg?v=1795505466",
+        "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC04418_Percentage.jpg?v=1795505466"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36",
+            "38",
+            "42",
+            "44",
+            "46",
+            "48"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Cream"
+          ]
+        }
+      ],
+      "variants": {
+        "67923839353122": {
+          "id": "67923839353122",
+          "title": "36 / Cream",
+          "options": [
+            "36",
+            "Cream"
+          ],
+          "sku": "B718120-036-CRM",
+          "available": true,
+          "price": 2350000,
+          "compare_at_price": 2350000
+        },
+        "67923839385890": {
+          "id": "67923839385890",
+          "title": "38 / Cream",
+          "options": [
+            "38",
+            "Cream"
+          ],
+          "sku": "B718120-038-CRM",
+          "available": true,
+          "price": 2350000,
+          "compare_at_price": 2350000
+        },
+        "67923839451426": {
+          "id": "67923839451426",
+          "title": "42 / Cream",
+          "options": [
+            "42",
+            "Cream"
+          ],
+          "sku": "B718120-042-CRM",
+          "available": true,
+          "price": 2350000,
+          "compare_at_price": 2350000
+        },
+        "67923839484194": {
+          "id": "67923839484194",
+          "title": "44 / Cream",
+          "options": [
+            "44",
+            "Cream"
+          ],
+          "sku": "B718120-044-CRM",
+          "available": true,
+          "price": 2350000,
+          "compare_at_price": 2350000
+        },
+        "67923839516962": {
+          "id": "67923839516962",
+          "title": "46 / Cream",
+          "options": [
+            "46",
+            "Cream"
+          ],
+          "sku": "B718120-046-CRM",
+          "available": true,
+          "price": 2350000,
+          "compare_at_price": 2350000
+        },
+        "67923839549730": {
+          "id": "67923839549730",
+          "title": "48 / Cream",
+          "options": [
+            "48",
+            "Cream"
+          ],
+          "sku": "B718120-048-CRM",
+          "available": true,
+          "price": 2350000,
+          "compare_at_price": 2350000
+        }
+      },
+      "available": true
     },
     "15438402289954": {
       "id": "15438402289954",
@@ -28972,7 +29230,7 @@
             "Navy"
           ],
           "sku": "WC00193-SML-NVY",
-          "available": false,
+          "available": true,
           "price": 1450000,
           "compare_at_price": 1450000
         },
@@ -28984,7 +29242,7 @@
             "Navy"
           ],
           "sku": "WC00193-MDM-NVY",
-          "available": false,
+          "available": true,
           "price": 1450000,
           "compare_at_price": 1450000
         },
@@ -28996,7 +29254,7 @@
             "Navy"
           ],
           "sku": "WC00193-LRG-NVY",
-          "available": true,
+          "available": false,
           "price": 1450000,
           "compare_at_price": 1450000
         },
@@ -29485,7 +29743,7 @@
             "Dark Green"
           ],
           "sku": "WC00199-MDM-DKG",
-          "available": true,
+          "available": false,
           "price": 1450000,
           "compare_at_price": 1450000
         },
@@ -29514,7 +29772,7 @@
           "compare_at_price": 1450000
         }
       },
-      "available": true
+      "available": false
     },
     "10081576419568": {
       "id": "10081576419568",
@@ -30527,7 +30785,7 @@
             "Cement"
           ],
           "sku": "UST0750-4P5-CMN",
-          "available": true,
+          "available": false,
           "price": 450000,
           "compare_at_price": 450000
         },
@@ -34151,7 +34409,7 @@
             "Wash & Wear"
           ],
           "sku": "UST0766-4P2-CRM",
-          "available": false,
+          "available": true,
           "price": 800000,
           "compare_at_price": 800000
         },
@@ -34748,7 +35006,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Black</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -34795,12 +35055,12 @@
             "Wool"
           ],
           "sku": "SWL0025-MTR-BLK",
-          "available": false,
+          "available": true,
           "price": 840000,
           "compare_at_price": 840000
         }
       },
-      "available": false
+      "available": true
     },
     "9690719682800": {
       "id": "9690719682800",
@@ -34811,22 +35071,7 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Brown</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
-        "28NOV24",
-        "Hand Made Wool Shawl",
-        "Lux Woolen Shawl",
-        "Lux wool shawl",
-        "SHAWL",
-        "SHAWL25",
-        "Wheat",
-        "acc",
-        "accessories",
-        "lux woolen shawls",
-        "lws",
-        "mix wool shawl",
-        "pkr15000-pkr20000",
-        "shawl 24",
-        "stitched",
-        "winter"
+        "#N/A"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC09669_copy.jpg?v=1792583445",
@@ -34875,7 +35120,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Camel</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -34938,7 +35185,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Dove</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -35002,7 +35251,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Fawn</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -35065,7 +35316,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Golden</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -35127,22 +35380,7 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Grey</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
-        "28NOV24",
-        "Hand Made Wool Shawl",
-        "Lux Woolen Shawl",
-        "Lux wool shawl",
-        "SHAWL",
-        "SHAWL25",
-        "acc",
-        "accessories",
-        "golden",
-        "lux woolen shawls",
-        "lws",
-        "mix wool shawl",
-        "pkr15000-pkr20000",
-        "shawl 24",
-        "stitched",
-        "winter"
+        "#N/A"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC00996_Percentage.jpg?v=1761299225"
@@ -35172,12 +35410,12 @@
             "Wool"
           ],
           "sku": "SWL0025-MTR-GRY",
-          "available": false,
+          "available": true,
           "price": 840000,
           "compare_at_price": 840000
         }
       },
-      "available": false
+      "available": true
     },
     "9690733543664": {
       "id": "9690733543664",
@@ -35189,7 +35427,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Ivory</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -35252,7 +35492,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Light Beige</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -35315,7 +35557,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Light Brown</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -35378,7 +35622,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Off White</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -35441,7 +35687,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Para</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -48222,7 +48470,7 @@
             "Wash & Wear"
           ],
           "sku": "UST0720-4P2-WHT",
-          "available": true,
+          "available": false,
           "price": 515000,
           "compare_at_price": 515000
         },
@@ -48240,7 +48488,7 @@
           "compare_at_price": 515000
         }
       },
-      "available": true
+      "available": false
     },
     "4381974855752": {
       "id": "4381974855752",
@@ -61889,7 +62137,7 @@
             "Cement"
           ],
           "sku": "UST0067-4P2-CMN",
-          "available": false,
+          "available": true,
           "price": 730000,
           "compare_at_price": 730000
         }
@@ -63311,6 +63559,8 @@
       "tags": [
         "Brown",
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63373,6 +63623,8 @@
         "Brown",
         "Camel",
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63434,6 +63686,8 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This black shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Dove</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63496,6 +63750,8 @@
         "Brown",
         "Camel",
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63559,6 +63815,8 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This black shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Grey</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63619,6 +63877,8 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This black shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Ivory</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63679,6 +63939,8 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This black shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Mid Brown</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63740,6 +64002,8 @@
       "tags": [
         "Brown",
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63803,6 +64067,8 @@
         "Brown",
         "Camel",
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63865,6 +64131,8 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This black shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Wheat</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "Charcoal",
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -63924,6 +64192,8 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong data-mce-fragment=\"1\">Description</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">This black </span><span data-mce-fragment=\"1\">shawl is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Details</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Size : </strong>2.75 meters</p>\n<p>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong data-mce-fragment=\"1\">Color</strong><span data-mce-fragment=\"1\">:</span><span data-mce-fragment=\"1\"> Black</span><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></p>\n<p><strong data-mce-fragment=\"1\">Fabric</strong><span data-mce-fragment=\"1\">:  Wool</span></p>\n<p> </p>",
       "tags": [
+        "0",
+        "HMWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR9000-PKR10000",
@@ -63966,8 +64236,8 @@
           ],
           "sku": "SWL0008-MTR-BLK",
           "available": true,
-          "price": 830000,
-          "compare_at_price": 830000
+          "price": 950000,
+          "compare_at_price": 950000
         }
       },
       "available": true
@@ -63981,7 +64251,9 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong data-mce-fragment=\"1\">Description</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">This fawn </span><span data-mce-fragment=\"1\">shawl is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Details</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Size : </strong>2.75 meters</p>\n<p>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong data-mce-fragment=\"1\">Color</strong><span data-mce-fragment=\"1\">:</span><span data-mce-fragment=\"1\"> Fawn</span><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></p>\n<p><strong data-mce-fragment=\"1\">Fabric</strong><span data-mce-fragment=\"1\">:  Wool</span></p>\n<p> </p>",
       "tags": [
+        "0",
         "Dove",
+        "HMWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR9000-PKR10000",
@@ -64023,8 +64295,8 @@
           ],
           "sku": "SWL0008-MTR-FWN",
           "available": true,
-          "price": 830000,
-          "compare_at_price": 830000
+          "price": 950000,
+          "compare_at_price": 950000
         }
       },
       "available": true
@@ -64038,6 +64310,8 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong data-mce-fragment=\"1\">Description</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">This ivory </span><span data-mce-fragment=\"1\">shawl is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Details</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Size : </strong>2.75 meters</p>\n<p>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong data-mce-fragment=\"1\">Color</strong><span data-mce-fragment=\"1\">:</span><span data-mce-fragment=\"1\"> Ivory</span><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></p>\n<p><strong data-mce-fragment=\"1\">Fabric</strong><span data-mce-fragment=\"1\">:  Wool</span></p>\n<p> </p>",
       "tags": [
+        "0",
+        "HMWS",
         "Ivory",
         "Lux Woolen Shawl",
         "Lux wool shawl",
@@ -64080,8 +64354,8 @@
           ],
           "sku": "SWL0008-MTR-IVR",
           "available": true,
-          "price": 830000,
-          "compare_at_price": 830000
+          "price": 950000,
+          "compare_at_price": 950000
         }
       },
       "available": true
@@ -64095,7 +64369,9 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong data-mce-fragment=\"1\">Description</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">This black shawl </span><span data-mce-fragment=\"1\">is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Details</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong data-mce-fragment=\"1\">Color</strong><span data-mce-fragment=\"1\">:</span><span data-mce-fragment=\"1\"> Charcoal</span><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></p>\n<p><strong data-mce-fragment=\"1\">Fabric</strong><span data-mce-fragment=\"1\">: Wool</span></p>",
       "tags": [
+        "0",
         "Charcoal",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -64154,6 +64430,8 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong data-mce-fragment=\"1\">Description</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">This black shawl </span><span data-mce-fragment=\"1\">is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Details</strong><span data-mce-fragment=\"1\">:</span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong data-mce-fragment=\"1\">Color</strong><span data-mce-fragment=\"1\">:</span><span data-mce-fragment=\"1\"> Fawn</span><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></p>\n<p><strong data-mce-fragment=\"1\">Fabric</strong><span data-mce-fragment=\"1\">: Wool</span></p>",
       "tags": [
+        "LEWS",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "PKR8000-PKR9000",
@@ -64199,12 +64477,12 @@
             "Wool"
           ],
           "sku": "SWL0020-MTR-FWN",
-          "available": true,
+          "available": false,
           "price": 930000,
           "compare_at_price": 930000
         }
       },
-      "available": true
+      "available": false
     },
     "15368350597410": {
       "id": "15368350597410",
@@ -64215,19 +64493,7 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong>Description</strong><span>:</span><br><span>This black shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Mid Brown</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
-        "Charcoal",
-        "Lux Woolen Shawl",
-        "Lux wool shawl",
-        "PKR8000-PKR9000",
-        "SHAWL",
-        "acc",
-        "accessories",
-        "lux woolen shawls",
-        "lws",
-        "mix wool shawl",
-        "shawl 24",
-        "stitched",
-        "winter"
+        "#N/A"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC09539copy.jpg?v=1792660173",
@@ -64275,12 +64541,14 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Beige</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
+        "0",
         "28NOV24",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "golden",
@@ -64336,12 +64604,14 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Khaki</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
+        "0",
         "28NOV24",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "golden",
@@ -64397,12 +64667,14 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Wheat</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
+        "0",
         "28NOV24",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "golden",
@@ -64710,7 +64982,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span>  Black</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HMWS",
         "Hand Made Wool Shawl",
+        "LUXEWOOLSHAWL",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -67125,7 +67399,7 @@
             "Premium Blended"
           ],
           "sku": "SSU1295-MDM-OWH",
-          "available": false,
+          "available": true,
           "price": 2950000,
           "compare_at_price": 2950000
         },
@@ -68983,7 +69257,7 @@
             "Wash & Wear"
           ],
           "sku": "UST0407-4P2-NVY",
-          "available": false,
+          "available": true,
           "price": 670000,
           "compare_at_price": 670000
         },
@@ -74190,22 +74464,7 @@
       "type": "Apparel & Accessories",
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span>  Charcoal</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
-        "28NOV24",
-        "Hand Made Wool Shawl",
-        "Lux Woolen Shawl",
-        "Lux wool shawl",
-        "SHAWL",
-        "SHAWL25",
-        "acc",
-        "accessories",
-        "lux woolen shawls",
-        "lws",
-        "mix wool shawl",
-        "off white",
-        "pkr15000-pkr20000",
-        "shawl 24",
-        "stitched",
-        "winter"
+        "#N/A"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0048/7309/3192/files/DSC09630copy_42268d8a-7b2f-41e3-838a-b9b6e06602a3.jpg?v=1792662178",
@@ -74254,7 +74513,9 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span>  Off White</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
+        "LEWS",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
@@ -86247,7 +86508,7 @@
             "Rock"
           ],
           "sku": "UST0674-4P5-RCK",
-          "available": true,
+          "available": false,
           "price": 420000,
           "compare_at_price": 420000
         },
@@ -88140,11 +88401,13 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Beige</span></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "black",
@@ -88205,11 +88468,13 @@
         "28NOV24",
         "Beige",
         "Grey",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "black",
@@ -88270,11 +88535,13 @@
         "28NOV24",
         "Beige",
         "Grey",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "lux woolen shawls",
@@ -88332,11 +88599,13 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Dark Brown</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "black",
@@ -88398,11 +88667,13 @@
         "Beige",
         "Dove",
         "Grey",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "lux woolen shawls",
@@ -88460,11 +88731,13 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Golden</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "black",
@@ -88521,11 +88794,13 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Grey</span><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "black",
@@ -88585,11 +88860,13 @@
       "tags": [
         "28NOV24",
         "Grey",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "black",
@@ -88648,11 +88925,13 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Off White</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "black",
@@ -88712,11 +88991,13 @@
       "description": "<p><strong>Description</strong><span>:</span><br><span>This shawl </span><span>is made in blended wool perfect for colder days. Style this shawl with your outfit to look more trendy and classy.</span><br><br><strong>Details</strong><span>:</span><br><br><strong>Size : </strong>Length = 2 meter , 24 inch |  Width = 53 inch</p>\n<p><strong>Color</strong><span>:</span><span> Skin</span><br><strong></strong></p>\n<p><strong>Fabric</strong><span>: Wool</span></p>",
       "tags": [
         "28NOV24",
+        "HANDMADEWOOLSHAWL",
         "Hand Made Wool Shawl",
         "Lux Woolen Shawl",
         "Lux wool shawl",
         "SHAWL",
         "SHAWL25",
+        "SLWL",
         "acc",
         "accessories",
         "black",
@@ -94635,7 +94916,7 @@
             "Wash & Wear"
           ],
           "sku": "SSU1070-SML-CML",
-          "available": false,
+          "available": true,
           "price": 750000,
           "compare_at_price": 750000
         },
@@ -95317,7 +95598,7 @@
             "Wash & Wear"
           ],
           "sku": "UST0914-4P2-NVY",
-          "available": true,
+          "available": false,
           "price": 830000,
           "compare_at_price": 830000
         },
