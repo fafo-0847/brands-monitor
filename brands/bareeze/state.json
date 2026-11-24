@@ -3,7 +3,7 @@
   "source": "https://bareeze.com/all-products",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T01:06:43.715979+00:00",
+  "checked_at": "2026-11-24T11:13:02.841179+00:00",
   "products": {
     "100926050748135053": {
       "id": "100926050748135053",
@@ -2637,34 +2637,6 @@
       },
       "available": true
     },
-    "210226012558467923": {
-      "id": "210226012558467923",
-      "title": "DHAKAI JAMDANI",
-      "handle": "dhakai-jamdani-2",
-      "url": "https://bareeze.com/dhakai-jamdani-2",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3041-beige180326145539.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "210226012558467923": {
-          "id": "210226012558467923",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 9105,
-          "compare_at_price": 10117
-        }
-      },
-      "available": true
-    },
     "210226012558475275": {
       "id": "210226012558475275",
       "title": "JAMDANI-05",
@@ -2689,6 +2661,34 @@
           "available": true,
           "price": 17385,
           "compare_at_price": 19316
+        }
+      },
+      "available": true
+    },
+    "210226012558467923": {
+      "id": "210226012558467923",
+      "title": "DHAKAI JAMDANI",
+      "handle": "dhakai-jamdani-2",
+      "url": "https://bareeze.com/dhakai-jamdani-2",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3041-beige180326145539.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "210226012558467923": {
+          "id": "210226012558467923",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 9105,
+          "compare_at_price": 10117
         }
       },
       "available": true
@@ -3841,58 +3841,30 @@
       },
       "available": true
     },
-    "171026015645086797": {
-      "id": "171026015645086797",
-      "title": "MUTED CLAY",
-      "handle": "muted-clay",
-      "url": "https://bareeze.com/muted-clay",
+    "171026015645113695": {
+      "id": "171026015645113695",
+      "title": "DAWN",
+      "handle": "dawn",
+      "url": "https://bareeze.com/dawn",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/brps54-d-peach-5171026022257.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/brps-65-dawn-5231026165249.jpg"
       ],
       "options": null,
       "variants": {
-        "171026015645086797": {
-          "id": "171026015645086797",
+        "171026015645113695": {
+          "id": "171026015645113695",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 9357,
-          "compare_at_price": 11008
-        }
-      },
-      "available": true
-    },
-    "171026015645078315": {
-      "id": "171026015645078315",
-      "title": "POPPY",
-      "handle": "poppy",
-      "url": "https://bareeze.com/poppy",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/0l4a1569171026144625.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "171026015645078315": {
-          "id": "171026015645078315",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 10107,
-          "compare_at_price": 11891
+          "price": 8826,
+          "compare_at_price": 10383
         }
       },
       "available": true
@@ -3925,58 +3897,58 @@
       },
       "available": true
     },
-    "171026015645113695": {
-      "id": "171026015645113695",
-      "title": "DAWN",
-      "handle": "dawn",
-      "url": "https://bareeze.com/dawn",
+    "171026015645078315": {
+      "id": "171026015645078315",
+      "title": "POPPY",
+      "handle": "poppy",
+      "url": "https://bareeze.com/poppy",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/brps-65-dawn-5231026165249.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/0l4a1569171026144625.jpg"
       ],
       "options": null,
       "variants": {
-        "171026015645113695": {
-          "id": "171026015645113695",
+        "171026015645078315": {
+          "id": "171026015645078315",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 8826,
-          "compare_at_price": 10383
+          "price": 10107,
+          "compare_at_price": 11891
         }
       },
       "available": true
     },
-    "171026015645058799": {
-      "id": "171026015645058799",
-      "title": "LEMON",
-      "handle": "lemon",
-      "url": "https://bareeze.com/lemon",
+    "171026015645086797": {
+      "id": "171026015645086797",
+      "title": "MUTED CLAY",
+      "handle": "muted-clay",
+      "url": "https://bareeze.com/muted-clay",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/brps-52-lemon-3231026164533.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/brps54-d-peach-5171026022257.jpg"
       ],
       "options": null,
       "variants": {
-        "171026015645058799": {
-          "id": "171026015645058799",
+        "171026015645086797": {
+          "id": "171026015645086797",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 9418,
-          "compare_at_price": 11078
+          "price": 9357,
+          "compare_at_price": 11008
         }
       },
       "available": true
@@ -4005,6 +3977,34 @@
           "available": true,
           "price": 9443,
           "compare_at_price": 11110
+        }
+      },
+      "available": true
+    },
+    "171026015645058799": {
+      "id": "171026015645058799",
+      "title": "LEMON",
+      "handle": "lemon",
+      "url": "https://bareeze.com/lemon",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/brps-52-lemon-3231026164533.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "171026015645058799": {
+          "id": "171026015645058799",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 9418,
+          "compare_at_price": 11078
         }
       },
       "available": true
@@ -4345,34 +4345,6 @@
       },
       "available": true
     },
-    "170626135226224617": {
-      "id": "170626135226224617",
-      "title": "IVORY",
-      "handle": "ivory",
-      "url": "https://bareeze.com/ivory",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/brpsv2-03-1170626135522.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "170626135226224617": {
-          "id": "170626135226224617",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 5518,
-          "compare_at_price": 7883
-        }
-      },
-      "available": true
-    },
     "170626135226230968": {
       "id": "170626135226230968",
       "title": "MONO MUSE",
@@ -4397,6 +4369,34 @@
           "available": true,
           "price": 6068,
           "compare_at_price": 8668
+        }
+      },
+      "available": true
+    },
+    "170626135226224617": {
+      "id": "170626135226224617",
+      "title": "IVORY",
+      "handle": "ivory",
+      "url": "https://bareeze.com/ivory",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/brpsv2-03-1170626135522.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "170626135226224617": {
+          "id": "170626135226224617",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 5518,
+          "compare_at_price": 7883
         }
       },
       "available": true
@@ -4457,34 +4457,6 @@
       },
       "available": true
     },
-    "210526013308576549": {
-      "id": "210526013308576549",
-      "title": "NAQASH OPT 1",
-      "handle": "naqash-opt-1",
-      "url": "https://bareeze.com/naqash-opt-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/brpp-50-naqash-1-printed-beige-cambric-8210526014613.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "210526013308576549": {
-          "id": "210526013308576549",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 7382,
-          "compare_at_price": 10547
-        }
-      },
-      "available": true
-    },
     "210526013308590632": {
       "id": "210526013308590632",
       "title": "AFSANA OPT 1",
@@ -4509,6 +4481,34 @@
           "available": true,
           "price": 6918,
           "compare_at_price": 9883
+        }
+      },
+      "available": true
+    },
+    "210526013308576549": {
+      "id": "210526013308576549",
+      "title": "NAQASH OPT 1",
+      "handle": "naqash-opt-1",
+      "url": "https://bareeze.com/naqash-opt-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/brpp-50-naqash-1-printed-beige-cambric-8210526014613.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "210526013308576549": {
+          "id": "210526013308576549",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 7382,
+          "compare_at_price": 10547
         }
       },
       "available": true
@@ -4569,34 +4569,6 @@
       },
       "available": true
     },
-    "210526013308556225": {
-      "id": "210526013308556225",
-      "title": "MISAAL OPT 1",
-      "handle": "misaal-opt-1",
-      "url": "https://bareeze.com/misaal-opt-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/brpp-47-misaal-2-printed-l-grey-cambric-10210526014051.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "210526013308556225": {
-          "id": "210526013308556225",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 7054,
-          "compare_at_price": 10078
-        }
-      },
-      "available": true
-    },
     "210526013308549714": {
       "id": "210526013308549714",
       "title": "RUYA OPT 2",
@@ -4621,6 +4593,34 @@
           "available": true,
           "price": 7601,
           "compare_at_price": 10859
+        }
+      },
+      "available": true
+    },
+    "210526013308556225": {
+      "id": "210526013308556225",
+      "title": "MISAAL OPT 1",
+      "handle": "misaal-opt-1",
+      "url": "https://bareeze.com/misaal-opt-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/brpp-47-misaal-2-printed-l-grey-cambric-10210526014051.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "210526013308556225": {
+          "id": "210526013308556225",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 7054,
+          "compare_at_price": 10078
         }
       },
       "available": true
@@ -4793,30 +4793,30 @@
       },
       "available": true
     },
-    "160526014637204367": {
-      "id": "160526014637204367",
-      "title": "RANGREZ",
-      "handle": "rangrez",
-      "url": "https://bareeze.com/rangrez",
+    "160526014637197735": {
+      "id": "160526014637197735",
+      "title": "GULBAN",
+      "handle": "gulban-1",
+      "url": "https://bareeze.com/gulban-1",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bprs-30-rangrez-red-lawn-karandi160526021553.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/brps-29-gulbaan-orange-lawn-karandi-1160526021315.jpg"
       ],
       "options": null,
       "variants": {
-        "160526014637204367": {
-          "id": "160526014637204367",
+        "160526014637197735": {
+          "id": "160526014637197735",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 8966,
-          "compare_at_price": 10547
+          "price": 6978,
+          "compare_at_price": 9968
         }
       },
       "available": true
@@ -4849,30 +4849,30 @@
       },
       "available": true
     },
-    "160526014637197735": {
-      "id": "160526014637197735",
-      "title": "GULBAN",
-      "handle": "gulban-1",
-      "url": "https://bareeze.com/gulban-1",
+    "160526014637204367": {
+      "id": "160526014637204367",
+      "title": "RANGREZ",
+      "handle": "rangrez",
+      "url": "https://bareeze.com/rangrez",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/brps-29-gulbaan-orange-lawn-karandi-1160526021315.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bprs-30-rangrez-red-lawn-karandi160526021553.jpg"
       ],
       "options": null,
       "variants": {
-        "160526014637197735": {
-          "id": "160526014637197735",
+        "160526014637204367": {
+          "id": "160526014637204367",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6978,
-          "compare_at_price": 9968
+          "price": 8966,
+          "compare_at_price": 10547
         }
       },
       "available": true
@@ -5269,34 +5269,6 @@
       },
       "available": true
     },
-    "160526011731398903": {
-      "id": "160526011731398903",
-      "title": "BLUSH FLORA OPT 1",
-      "handle": "blush-flora-opt-1",
-      "url": "https://bareeze.com/blush-flora-opt-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/brpp-53-blush-flora-opt-1pink-printed-cambric-6160526024052.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "160526011731398903": {
-          "id": "160526011731398903",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 8105,
-          "compare_at_price": 11578
-        }
-      },
-      "available": true
-    },
     "160526011731408253": {
       "id": "160526011731408253",
       "title": "BLUSH FLORA OPT 2",
@@ -5321,6 +5293,34 @@
           "available": true,
           "price": 8099,
           "compare_at_price": 11571
+        }
+      },
+      "available": true
+    },
+    "160526011731398903": {
+      "id": "160526011731398903",
+      "title": "BLUSH FLORA OPT 1",
+      "handle": "blush-flora-opt-1",
+      "url": "https://bareeze.com/blush-flora-opt-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/brpp-53-blush-flora-opt-1pink-printed-cambric-6160526024052.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "160526011731398903": {
+          "id": "160526011731398903",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 8105,
+          "compare_at_price": 11578
         }
       },
       "available": true
@@ -5353,34 +5353,6 @@
       },
       "available": true
     },
-    "131126152156362594": {
-      "id": "131126152156362594",
-      "title": "BLOSSOM GARDEN 01",
-      "handle": "blossom-garden-01-1",
-      "url": "https://bareeze.com/blossom-garden-01-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5203-black-5131126162004.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "131126152156362594": {
-          "id": "131126152156362594",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12918,
-          "compare_at_price": 15195
-        }
-      },
-      "available": true
-    },
     "131126152156353019": {
       "id": "131126152156353019",
       "title": "BLOSSOM GARDEN 01",
@@ -5409,30 +5381,30 @@
       },
       "available": true
     },
-    "131126152156341722": {
-      "id": "131126152156341722",
-      "title": "PLUM",
-      "handle": "plum",
-      "url": "https://bareeze.com/plum",
+    "131126152156362594": {
+      "id": "131126152156362594",
+      "title": "BLOSSOM GARDEN 01",
+      "handle": "blossom-garden-01-1",
+      "url": "https://bareeze.com/blossom-garden-01-1",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3189-blue-1131126161425.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5203-black-5131126162004.jpg"
       ],
       "options": null,
       "variants": {
-        "131126152156341722": {
-          "id": "131126152156341722",
+        "131126152156362594": {
+          "id": "131126152156362594",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 10461,
-          "compare_at_price": 12305
+          "price": 12918,
+          "compare_at_price": 15195
         }
       },
       "available": true
@@ -5465,30 +5437,30 @@
       },
       "available": true
     },
-    "131126152156313562": {
-      "id": "131126152156313562",
-      "title": "BEADING ART",
-      "handle": "beading-art",
-      "url": "https://bareeze.com/beading-art",
+    "131126152156341722": {
+      "id": "131126152156341722",
+      "title": "PLUM",
+      "handle": "plum",
+      "url": "https://bareeze.com/plum",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1644-yellow-1131126162235.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3189-blue-1131126161425.jpg"
       ],
       "options": null,
       "variants": {
-        "131126152156313562": {
-          "id": "131126152156313562",
+        "131126152156341722": {
+          "id": "131126152156341722",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 11293,
-          "compare_at_price": 13283
+          "price": 10461,
+          "compare_at_price": 12305
         }
       },
       "available": true
@@ -5517,6 +5489,34 @@
           "available": true,
           "price": 13100,
           "compare_at_price": 15410
+        }
+      },
+      "available": true
+    },
+    "131126152156313562": {
+      "id": "131126152156313562",
+      "title": "BEADING ART",
+      "handle": "beading-art",
+      "url": "https://bareeze.com/beading-art",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1644-yellow-1131126162235.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "131126152156313562": {
+          "id": "131126152156313562",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 11293,
+          "compare_at_price": 13283
         }
       },
       "available": true
@@ -5633,34 +5633,6 @@
       },
       "available": true
     },
-    "131126152156259630": {
-      "id": "131126152156259630",
-      "title": "PIXEL PRISM",
-      "handle": "pixel-prism",
-      "url": "https://bareeze.com/pixel-prism",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3185-rust-1131126161358.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "131126152156259630": {
-          "id": "131126152156259630",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 11523,
-          "compare_at_price": 13555
-        }
-      },
-      "available": true
-    },
     "131126152156250644": {
       "id": "131126152156250644",
       "title": "GUL E BAHAR 01",
@@ -5685,6 +5657,34 @@
           "available": true,
           "price": 12936,
           "compare_at_price": 15214
+        }
+      },
+      "available": true
+    },
+    "131126152156259630": {
+      "id": "131126152156259630",
+      "title": "PIXEL PRISM",
+      "handle": "pixel-prism",
+      "url": "https://bareeze.com/pixel-prism",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3185-rust-1131126161358.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "131126152156259630": {
+          "id": "131126152156259630",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 11523,
+          "compare_at_price": 13555
         }
       },
       "available": true
@@ -5769,174 +5769,6 @@
           "available": true,
           "price": 12453,
           "compare_at_price": 14648
-        }
-      },
-      "available": true
-    },
-    "61126153941550078": {
-      "id": "61126153941550078",
-      "title": "KANTHA-02",
-      "handle": "kantha-02-1",
-      "url": "https://bareeze.com/kantha-02-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3187-black-1071126155301.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61126153941550078": {
-          "id": "61126153941550078",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 17015,
-          "compare_at_price": 18906
-        }
-      },
-      "available": true
-    },
-    "61126153941544657": {
-      "id": "61126153941544657",
-      "title": "GOLDEN MUSE TILLA & THREAD",
-      "handle": "golden-muse-tilla-thread-1",
-      "url": "https://bareeze.com/golden-muse-tilla-thread-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5210-mgreen-2071126155701.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61126153941544657": {
-          "id": "61126153941544657",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 18264,
-          "compare_at_price": 20293
-        }
-      },
-      "available": true
-    },
-    "61126153941539106": {
-      "id": "61126153941539106",
-      "title": "GOLDEN MUSE TILLA & THREAD",
-      "handle": "golden-muse-tilla-thread",
-      "url": "https://bareeze.com/golden-muse-tilla-thread",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5210-magenta-1071126155643.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61126153941539106": {
-          "id": "61126153941539106",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 18264,
-          "compare_at_price": 20293
-        }
-      },
-      "available": true
-    },
-    "61126153941528174": {
-      "id": "61126153941528174",
-      "title": "IVORY MIST",
-      "handle": "ivory-mist-1",
-      "url": "https://bareeze.com/ivory-mist-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1633-owhite-1071126155756.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61126153941528174": {
-          "id": "61126153941528174",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 44595,
-          "compare_at_price": 49551
-        }
-      },
-      "available": true
-    },
-    "61126153941521395": {
-      "id": "61126153941521395",
-      "title": "IVORY MIST",
-      "handle": "ivory-mist",
-      "url": "https://bareeze.com/ivory-mist",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1633-lbeige-2071126155815.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61126153941521395": {
-          "id": "61126153941521395",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 44595,
-          "compare_at_price": 49551
-        }
-      },
-      "available": true
-    },
-    "61126153941533645": {
-      "id": "61126153941533645",
-      "title": "PHOOLKARI TILLA & THREAD",
-      "handle": "phoolkari-tilla-thread",
-      "url": "https://bareeze.com/phoolkari-tilla-thread",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3184-black-1071126155218.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61126153941533645": {
-          "id": "61126153941533645",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 16593,
-          "compare_at_price": 18437
         }
       },
       "available": true
@@ -6109,34 +5941,6 @@
       },
       "available": true
     },
-    "61126153941471903": {
-      "id": "61126153941471903",
-      "title": "SEASHORE",
-      "handle": "seashore",
-      "url": "https://bareeze.com/seashore",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1682-blue-1061126175453.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61126153941471903": {
-          "id": "61126153941471903",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 13268,
-          "compare_at_price": 15605
-        }
-      },
-      "available": true
-    },
     "61126153941463499": {
       "id": "61126153941463499",
       "title": "FOLK ART-02",
@@ -6165,30 +5969,30 @@
       },
       "available": true
     },
-    "61126153941434436": {
-      "id": "61126153941434436",
-      "title": "VINTAGE SHADE-01 SHISHA WORK",
-      "handle": "vintage-shade-01-shisha-work",
-      "url": "https://bareeze.com/vintage-shade-01-shisha-work",
+    "61126153941471903": {
+      "id": "61126153941471903",
+      "title": "SEASHORE",
+      "handle": "seashore",
+      "url": "https://bareeze.com/seashore",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5187-green-1061126173548.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1682-blue-1061126175453.jpg"
       ],
       "options": null,
       "variants": {
-        "61126153941434436": {
-          "id": "61126153941434436",
+        "61126153941471903": {
+          "id": "61126153941471903",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 10959,
-          "compare_at_price": 12890
+          "price": 13268,
+          "compare_at_price": 15605
         }
       },
       "available": true
@@ -6245,6 +6049,34 @@
           "available": true,
           "price": 11506,
           "compare_at_price": 13535
+        }
+      },
+      "available": true
+    },
+    "61126153941434436": {
+      "id": "61126153941434436",
+      "title": "VINTAGE SHADE-01 SHISHA WORK",
+      "handle": "vintage-shade-01-shisha-work",
+      "url": "https://bareeze.com/vintage-shade-01-shisha-work",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5187-green-1061126173548.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61126153941434436": {
+          "id": "61126153941434436",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 10959,
+          "compare_at_price": 12890
         }
       },
       "available": true
@@ -6333,30 +6165,30 @@
       },
       "available": true
     },
-    "61126153941406254": {
-      "id": "61126153941406254",
-      "title": "BERRY AND BLOOM",
-      "handle": "berry-and-bloom-1",
-      "url": "https://bareeze.com/berry-and-bloom-1",
+    "61126153941385752": {
+      "id": "61126153941385752",
+      "title": "WASL",
+      "handle": "wasl-1",
+      "url": "https://bareeze.com/wasl-1",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl4022-o-green-1061126173221.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3144-brown071126155044.jpg"
       ],
       "options": null,
       "variants": {
-        "61126153941406254": {
-          "id": "61126153941406254",
+        "61126153941385752": {
+          "id": "61126153941385752",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 12535,
-          "compare_at_price": 14746
+          "price": 12287,
+          "compare_at_price": 14453
         }
       },
       "available": true
@@ -6389,30 +6221,30 @@
       },
       "available": true
     },
-    "61126153941385752": {
-      "id": "61126153941385752",
-      "title": "WASL",
-      "handle": "wasl-1",
-      "url": "https://bareeze.com/wasl-1",
+    "61126153941406254": {
+      "id": "61126153941406254",
+      "title": "BERRY AND BLOOM",
+      "handle": "berry-and-bloom-1",
+      "url": "https://bareeze.com/berry-and-bloom-1",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3144-brown071126155044.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl4022-o-green-1061126173221.jpg"
       ],
       "options": null,
       "variants": {
-        "61126153941385752": {
-          "id": "61126153941385752",
+        "61126153941406254": {
+          "id": "61126153941406254",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 12287,
-          "compare_at_price": 14453
+          "price": 12535,
+          "compare_at_price": 14746
         }
       },
       "available": true
@@ -6529,34 +6361,6 @@
       },
       "available": true
     },
-    "61126153941362469": {
-      "id": "61126153941362469",
-      "title": "TRIBLE 05",
-      "handle": "trible-05",
-      "url": "https://bareeze.com/trible-05",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3128-green-1061126172754.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61126153941362469": {
-          "id": "61126153941362469",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12203,
-          "compare_at_price": 14355
-        }
-      },
-      "available": true
-    },
     "61126153941355203": {
       "id": "61126153941355203",
       "title": "ELLEGENCE CROSS STITCH-10",
@@ -6581,6 +6385,34 @@
           "available": true,
           "price": 14162,
           "compare_at_price": 16660
+        }
+      },
+      "available": true
+    },
+    "61126153941362469": {
+      "id": "61126153941362469",
+      "title": "TRIBLE 05",
+      "handle": "trible-05",
+      "url": "https://bareeze.com/trible-05",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3128-green-1061126172754.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61126153941362469": {
+          "id": "61126153941362469",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12203,
+          "compare_at_price": 14355
         }
       },
       "available": true
@@ -6669,174 +6501,6 @@
       },
       "available": true
     },
-    "301026002056241561": {
-      "id": "301026002056241561",
-      "title": "ROYAL ELEGANCE-02",
-      "handle": "royal-elegance-02",
-      "url": "https://bareeze.com/royal-elegance-02",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5209-blue-1301026173618.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "301026002056241561": {
-          "id": "301026002056241561",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 17016,
-          "compare_at_price": 18906
-        }
-      },
-      "available": true
-    },
-    "301026002056247135": {
-      "id": "301026002056247135",
-      "title": "ROYAL ELEGANCE-02",
-      "handle": "royal-elegance-02-1",
-      "url": "https://bareeze.com/royal-elegance-02-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5209-pink-1301026173705.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "301026002056247135": {
-          "id": "301026002056247135",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 17016,
-          "compare_at_price": 18906
-        }
-      },
-      "available": true
-    },
-    "301026002056225515": {
-      "id": "301026002056225515",
-      "title": "SHIMMER-01",
-      "handle": "shimmer-01",
-      "url": "https://bareeze.com/shimmer-01",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3186-peach-1301026172454.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "301026002056225515": {
-          "id": "301026002056225515",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 14730,
-          "compare_at_price": 16367
-        }
-      },
-      "available": true
-    },
-    "301026002056220154": {
-      "id": "301026002056220154",
-      "title": "ZARMALA",
-      "handle": "zarmala-1",
-      "url": "https://bareeze.com/zarmala-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1640-t-pink-1301026174111.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "301026002056220154": {
-          "id": "301026002056220154",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 35473,
-          "compare_at_price": 39414
-        }
-      },
-      "available": true
-    },
-    "301026002056236146": {
-      "id": "301026002056236146",
-      "title": "KANTHA-02",
-      "handle": "kantha-02",
-      "url": "https://bareeze.com/kantha-02",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3187-peach-1301026172521.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "301026002056236146": {
-          "id": "301026002056236146",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 17015,
-          "compare_at_price": 18906
-        }
-      },
-      "available": true
-    },
-    "301026002056230848": {
-      "id": "301026002056230848",
-      "title": "SHIMMER-01",
-      "handle": "shimmer-01-1",
-      "url": "https://bareeze.com/shimmer-01-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3186-zinc-6301026172448.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "301026002056230848": {
-          "id": "301026002056230848",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 14730,
-          "compare_at_price": 16367
-        }
-      },
-      "available": true
-    },
     "301026002056209385": {
       "id": "301026002056209385",
       "title": "GEOMETRIC BLOSSOM",
@@ -6861,34 +6525,6 @@
           "available": true,
           "price": 11927,
           "compare_at_price": 14031
-        }
-      },
-      "available": true
-    },
-    "301026002056214855": {
-      "id": "301026002056214855",
-      "title": "ZARMALA",
-      "handle": "zarmala",
-      "url": "https://bareeze.com/zarmala",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1640-lgreen-2101126181439.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "301026002056214855": {
-          "id": "301026002056214855",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 35473,
-          "compare_at_price": 39414
         }
       },
       "available": true
@@ -7397,146 +7033,6 @@
       },
       "available": true
     },
-    "231026165032136619": {
-      "id": "231026165032136619",
-      "title": "VELVET ROSE",
-      "handle": "velvet-rose-1",
-      "url": "https://bareeze.com/velvet-rose-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1615-grey-1231026172355.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "231026165032136619": {
-          "id": "231026165032136619",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 33610,
-          "compare_at_price": 37344
-        }
-      },
-      "available": true
-    },
-    "231026165032120188": {
-      "id": "231026165032120188",
-      "title": "ROYAL AMOUR-02",
-      "handle": "royal-amour-02",
-      "url": "https://bareeze.com/royal-amour-02",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5198-green-1231026172237.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "231026165032120188": {
-          "id": "231026165032120188",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 25928,
-          "compare_at_price": 28809
-        }
-      },
-      "available": true
-    },
-    "231026165032114691": {
-      "id": "231026165032114691",
-      "title": "MUGHAL MARIGOLD",
-      "handle": "mughal-marigold-1",
-      "url": "https://bareeze.com/mughal-marigold-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5196-beige-1231026172048.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "231026165032114691": {
-          "id": "231026165032114691",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 28424,
-          "compare_at_price": 31583
-        }
-      },
-      "available": true
-    },
-    "231026165032125649": {
-      "id": "231026165032125649",
-      "title": "ROYAL AMOUR-02",
-      "handle": "royal-amour-02-1",
-      "url": "https://bareeze.com/royal-amour-02-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5198-grey-1231026172155.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "231026165032125649": {
-          "id": "231026165032125649",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 25928,
-          "compare_at_price": 28809
-        }
-      },
-      "available": true
-    },
-    "231026165032131137": {
-      "id": "231026165032131137",
-      "title": "NIGHT QUEEN",
-      "handle": "night-queen-1",
-      "url": "https://bareeze.com/night-queen-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1639-cream-1231026173047.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "231026165032131137": {
-          "id": "231026165032131137",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 33856,
-          "compare_at_price": 37617
-        }
-      },
-      "available": true
-    },
     "231026165032109149": {
       "id": "231026165032109149",
       "title": "GALALAI",
@@ -8041,34 +7537,6 @@
       },
       "available": true
     },
-    "231026165031984075": {
-      "id": "231026165031984075",
-      "title": "GUL E NAQSH 01",
-      "handle": "gul-e-naqsh-01",
-      "url": "https://bareeze.com/gul-e-naqsh-01",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3170-mustard-1231026171417.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "231026165031984075": {
-          "id": "231026165031984075",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12553,
-          "compare_at_price": 14765
-        }
-      },
-      "available": true
-    },
     "231026165031969175": {
       "id": "231026165031969175",
       "title": "ANCHAL",
@@ -8093,6 +7561,34 @@
           "available": true,
           "price": 12818,
           "compare_at_price": 15078
+        }
+      },
+      "available": true
+    },
+    "231026165031984075": {
+      "id": "231026165031984075",
+      "title": "GUL E NAQSH 01",
+      "handle": "gul-e-naqsh-01",
+      "url": "https://bareeze.com/gul-e-naqsh-01",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3170-mustard-1231026171417.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "231026165031984075": {
+          "id": "231026165031984075",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12553,
+          "compare_at_price": 14765
         }
       },
       "available": true
@@ -8233,118 +7729,6 @@
           "available": true,
           "price": 10246,
           "compare_at_price": 12053
-        }
-      },
-      "available": true
-    },
-    "91026145505747534": {
-      "id": "91026145505747534",
-      "title": "MUGHAL MARIGOLD",
-      "handle": "mughal-marigold",
-      "url": "https://bareeze.com/mughal-marigold",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5196-green-1261026095236.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "91026145505747534": {
-          "id": "91026145505747534",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 28424,
-          "compare_at_price": 31583
-        }
-      },
-      "available": true
-    },
-    "91026145505731531": {
-      "id": "91026145505731531",
-      "title": "TRADITIONAL PATTERN",
-      "handle": "traditional-pattern",
-      "url": "https://bareeze.com/traditional-pattern",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3121-pink-1231026170804.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "91026145505731531": {
-          "id": "91026145505731531",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 32977,
-          "compare_at_price": 36640
-        }
-      },
-      "available": true
-    },
-    "91026145505739139": {
-      "id": "91026145505739139",
-      "title": "TRADITIONAL PATTERN",
-      "handle": "traditional-pattern-1",
-      "url": "https://bareeze.com/traditional-pattern-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3121-green-1231026170819.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "91026145505739139": {
-          "id": "91026145505739139",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 32977,
-          "compare_at_price": 36640
-        }
-      },
-      "available": true
-    },
-    "71026183315724514": {
-      "id": "71026183315724514",
-      "title": "VICTORIAN 03",
-      "handle": "victorian-03-1",
-      "url": "https://bareeze.com/victorian-03-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3126-l-sea-green-1261026095209.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "71026183315724514": {
-          "id": "71026183315724514",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 24891,
-          "compare_at_price": 27657
         }
       },
       "available": true
@@ -8601,34 +7985,6 @@
       },
       "available": true
     },
-    "71026183315306298": {
-      "id": "71026183315306298",
-      "title": "GEOMETRIC FUNK 01",
-      "handle": "geometric-funk-01",
-      "url": "https://bareeze.com/geometric-funk-01",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3167-mehndi-1101026101416.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "71026183315306298": {
-          "id": "71026183315306298",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12270,
-          "compare_at_price": 14434
-        }
-      },
-      "available": true
-    },
     "71026183315331368": {
       "id": "71026183315331368",
       "title": "ETHNIC COLORS",
@@ -8653,6 +8009,34 @@
           "available": true,
           "price": 11490,
           "compare_at_price": 13515
+        }
+      },
+      "available": true
+    },
+    "71026183315306298": {
+      "id": "71026183315306298",
+      "title": "GEOMETRIC FUNK 01",
+      "handle": "geometric-funk-01",
+      "url": "https://bareeze.com/geometric-funk-01",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3167-mehndi-1101026101416.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "71026183315306298": {
+          "id": "71026183315306298",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12270,
+          "compare_at_price": 14434
         }
       },
       "available": true
@@ -8737,118 +8121,6 @@
           "available": true,
           "price": 11424,
           "compare_at_price": 13437
-        }
-      },
-      "available": true
-    },
-    "11026170016457181": {
-      "id": "11026170016457181",
-      "title": "VELVET ROSE",
-      "handle": "velvet-rose",
-      "url": "https://bareeze.com/velvet-rose",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1615-aqua-1101026103134.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "11026170016457181": {
-          "id": "11026170016457181",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 33610,
-          "compare_at_price": 37344
-        }
-      },
-      "available": true
-    },
-    "11026170016414491": {
-      "id": "11026170016414491",
-      "title": "VINTAGE GOLD 01",
-      "handle": "vintage-gold-01",
-      "url": "https://bareeze.com/vintage-gold-01",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5195-beige-4021026200225.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "11026170016414491": {
-          "id": "11026170016414491",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 34647,
-          "compare_at_price": 38496
-        }
-      },
-      "available": true
-    },
-    "11026170016385620": {
-      "id": "11026170016385620",
-      "title": "VICTORIAN 03",
-      "handle": "victorian-03",
-      "url": "https://bareeze.com/victorian-03",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3126-beige1021026194821.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "11026170016385620": {
-          "id": "11026170016385620",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 24891,
-          "compare_at_price": 27657
-        }
-      },
-      "available": true
-    },
-    "11026170016429113": {
-      "id": "11026170016429113",
-      "title": "VINTAGE GOLD 01",
-      "handle": "vintage-gold-01-1",
-      "url": "https://bareeze.com/vintage-gold-01-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5195-t-pink-1021026200232.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "11026170016429113": {
-          "id": "11026170016429113",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 34647,
-          "compare_at_price": 38496
         }
       },
       "available": true
@@ -9297,62 +8569,6 @@
           "available": true,
           "price": 5552,
           "compare_at_price": 6531
-        }
-      },
-      "available": true
-    },
-    "240926164804589362": {
-      "id": "240926164804589362",
-      "title": "SHIMMER FLOURE",
-      "handle": "shimmer-floure",
-      "url": "https://bareeze.com/shimmer-floure",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3178-maroon-1021026195416.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "240926164804589362": {
-          "id": "240926164804589362",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 33610,
-          "compare_at_price": 37344
-        }
-      },
-      "available": true
-    },
-    "240926164804601918": {
-      "id": "240926164804601918",
-      "title": "SHIMMER FLOURE",
-      "handle": "shimmer-floure-1",
-      "url": "https://bareeze.com/shimmer-floure-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3178-teal-1021026195430.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "240926164804601918": {
-          "id": "240926164804601918",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 33610,
-          "compare_at_price": 37344
         }
       },
       "available": true
@@ -9889,34 +9105,6 @@
       },
       "available": true
     },
-    "240926164803923487": {
-      "id": "240926164803923487",
-      "title": "TROPICAL 01",
-      "handle": "tropical-01",
-      "url": "https://bareeze.com/tropical-01",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3118-l-green-1300926161952.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "240926164803923487": {
-          "id": "240926164803923487",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12170,
-          "compare_at_price": 14316
-        }
-      },
-      "available": true
-    },
     "240926164803907071": {
       "id": "240926164803907071",
       "title": "ABSTRACT FLORA 02",
@@ -9941,6 +9129,34 @@
           "available": true,
           "price": 12453,
           "compare_at_price": 14648
+        }
+      },
+      "available": true
+    },
+    "240926164803923487": {
+      "id": "240926164803923487",
+      "title": "TROPICAL 01",
+      "handle": "tropical-01",
+      "url": "https://bareeze.com/tropical-01",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3118-l-green-1300926161952.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "240926164803923487": {
+          "id": "240926164803923487",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12170,
+          "compare_at_price": 14316
         }
       },
       "available": true
@@ -10001,258 +9217,6 @@
       },
       "available": true
     },
-    "140926162749616705": {
-      "id": "140926162749616705",
-      "title": "GOLD SHIMMER",
-      "handle": "gold-shimmer-1",
-      "url": "https://bareeze.com/gold-shimmer-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1635-mustard-1210926140259.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749616705": {
-          "id": "140926162749616705",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 26350,
-          "compare_at_price": 29277
-        }
-      },
-      "available": true
-    },
-    "140926162749610509": {
-      "id": "140926162749610509",
-      "title": "GOLD SHIMMER",
-      "handle": "gold-shimmer",
-      "url": "https://bareeze.com/gold-shimmer",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1635-l-green-1210926140309.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749610509": {
-          "id": "140926162749610509",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 26350,
-          "compare_at_price": 29277
-        }
-      },
-      "available": true
-    },
-    "140926162749622092": {
-      "id": "140926162749622092",
-      "title": "NIGHT QUEEN",
-      "handle": "night-queen",
-      "url": "https://bareeze.com/night-queen",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1639-l-purple-1210926140345.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749622092": {
-          "id": "140926162749622092",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 24891,
-          "compare_at_price": 27656
-        }
-      },
-      "available": true
-    },
-    "140926162749605054": {
-      "id": "140926162749605054",
-      "title": "GOLDEN DREAMS 03",
-      "handle": "golden-dreams-03-1",
-      "url": "https://bareeze.com/golden-dreams-03-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5197-magenta-3210926135906.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749605054": {
-          "id": "140926162749605054",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 16488,
-          "compare_at_price": 18320
-        }
-      },
-      "available": true
-    },
-    "140926162749594019": {
-      "id": "140926162749594019",
-      "title": "ABSTRACT SHIMMER",
-      "handle": "abstract-shimmer-1",
-      "url": "https://bareeze.com/abstract-shimmer-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3183-rust-3210926135341.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749594019": {
-          "id": "140926162749594019",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 16699,
-          "compare_at_price": 18555
-        }
-      },
-      "available": true
-    },
-    "140926162749599606": {
-      "id": "140926162749599606",
-      "title": "GOLDEN DREAMS 03",
-      "handle": "golden-dreams-03",
-      "url": "https://bareeze.com/golden-dreams-03",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5197-aqua-1210926135841.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749599606": {
-          "id": "140926162749599606",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 16488,
-          "compare_at_price": 18320
-        }
-      },
-      "available": true
-    },
-    "140926162749588471": {
-      "id": "140926162749588471",
-      "title": "ABSTRACT SHIMMER",
-      "handle": "abstract-shimmer",
-      "url": "https://bareeze.com/abstract-shimmer",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3183-olive-1210926135319.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749588471": {
-          "id": "140926162749588471",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 16699,
-          "compare_at_price": 18555
-        }
-      },
-      "available": true
-    },
-    "140926162749582761": {
-      "id": "140926162749582761",
-      "title": "MUGHAL 06",
-      "handle": "mughal-06-1",
-      "url": "https://bareeze.com/mughal-06-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3125-t-pink-1210926135026.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749582761": {
-          "id": "140926162749582761",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 17121,
-          "compare_at_price": 19023
-        }
-      },
-      "available": true
-    },
-    "140926162749576910": {
-      "id": "140926162749576910",
-      "title": "MUGHAL 06",
-      "handle": "mughal-06",
-      "url": "https://bareeze.com/mughal-06",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3125-t-blue-1210926135003.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "140926162749576910": {
-          "id": "140926162749576910",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 17121,
-          "compare_at_price": 19023
-        }
-      },
-      "available": true
-    },
     "110926184102379916": {
       "id": "110926184102379916",
       "title": "PEARL SHINE 01",
@@ -10281,146 +9245,6 @@
       },
       "available": true
     },
-    "100926022952836411": {
-      "id": "100926022952836411",
-      "title": "GLOWING FLOWER",
-      "handle": "glowing-flower-1",
-      "url": "https://bareeze.com/glowing-flower-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3172-t-blue-1210926135252.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952836411": {
-          "id": "100926022952836411",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 21375,
-          "compare_at_price": 23750
-        }
-      },
-      "available": true
-    },
-    "100926022952842166": {
-      "id": "100926022952842166",
-      "title": "BAGH E ZARRIN",
-      "handle": "bagh-e-zarrin-2",
-      "url": "https://bareeze.com/bagh-e-zarrin-2",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1532-olive-green140926103345.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952842166": {
-          "id": "100926022952842166",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 38777,
-          "compare_at_price": 43086
-        }
-      },
-      "available": true
-    },
-    "100926022952825761": {
-      "id": "100926022952825761",
-      "title": "TILISIM-01",
-      "handle": "tilisim-01-1",
-      "url": "https://bareeze.com/tilisim-01-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3138-red-1100926030020.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952825761": {
-          "id": "100926022952825761",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 30181,
-          "compare_at_price": 33536
-        }
-      },
-      "available": true
-    },
-    "100926022952820454": {
-      "id": "100926022952820454",
-      "title": "TILISIM-01",
-      "handle": "tilisim-01",
-      "url": "https://bareeze.com/tilisim-01",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3138-green-1230926174850.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952820454": {
-          "id": "100926022952820454",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 30181,
-          "compare_at_price": 33536
-        }
-      },
-      "available": true
-    },
-    "100926022952831081": {
-      "id": "100926022952831081",
-      "title": "GLOWING FLOWER",
-      "handle": "glowing-flower",
-      "url": "https://bareeze.com/glowing-flower",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3172-magenta-4210926135234.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952831081": {
-          "id": "100926022952831081",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 21375,
-          "compare_at_price": 23750
-        }
-      },
-      "available": true
-    },
     "100926022952797092": {
       "id": "100926022952797092",
       "title": "RADIANT AURA",
@@ -10445,34 +9269,6 @@
           "available": true,
           "price": 12819,
           "compare_at_price": 15078
-        }
-      },
-      "available": true
-    },
-    "100926022952809813": {
-      "id": "100926022952809813",
-      "title": "CLASSIC PATTERN 02",
-      "handle": "classic-pattern-02",
-      "url": "https://bareeze.com/classic-pattern-02",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3120-grey-3100926025512.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952809813": {
-          "id": "100926022952809813",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 18351,
-          "compare_at_price": 20390
         }
       },
       "available": true
@@ -10841,34 +9637,6 @@
       },
       "available": true
     },
-    "100926022952674625": {
-      "id": "100926022952674625",
-      "title": "RANG-E-SUZAN",
-      "handle": "rang-e-suzan",
-      "url": "https://bareeze.com/rang-e-suzan",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1606-beige140926103444.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952674625": {
-          "id": "100926022952674625",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12254,
-          "compare_at_price": 14414
-        }
-      },
-      "available": true
-    },
     "100926022952667603": {
       "id": "100926022952667603",
       "title": "SHIRIN RANG",
@@ -10893,6 +9661,34 @@
           "available": true,
           "price": 11524,
           "compare_at_price": 13554
+        }
+      },
+      "available": true
+    },
+    "100926022952674625": {
+      "id": "100926022952674625",
+      "title": "RANG-E-SUZAN",
+      "handle": "rang-e-suzan",
+      "url": "https://bareeze.com/rang-e-suzan",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1606-beige140926103444.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952674625": {
+          "id": "100926022952674625",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12254,
+          "compare_at_price": 14414
         }
       },
       "available": true
@@ -11289,34 +10085,6 @@
       },
       "available": true
     },
-    "100926022952529393": {
-      "id": "100926022952529393",
-      "title": "GOLD PEONIES",
-      "handle": "gold-peonies-3",
-      "url": "https://bareeze.com/gold-peonies-3",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1392-grey-1100926035711.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952529393": {
-          "id": "100926022952529393",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 13398,
-          "compare_at_price": 15761
-        }
-      },
-      "available": true
-    },
     "100926022952544826": {
       "id": "100926022952544826",
       "title": "TESSELLATE",
@@ -11341,6 +10109,34 @@
           "available": true,
           "price": 12753,
           "compare_at_price": 15002
+        }
+      },
+      "available": true
+    },
+    "100926022952529393": {
+      "id": "100926022952529393",
+      "title": "GOLD PEONIES",
+      "handle": "gold-peonies-3",
+      "url": "https://bareeze.com/gold-peonies-3",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1392-grey-1100926035711.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952529393": {
+          "id": "100926022952529393",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 13398,
+          "compare_at_price": 15761
         }
       },
       "available": true
@@ -11401,34 +10197,6 @@
       },
       "available": true
     },
-    "100926022952509249": {
-      "id": "100926022952509249",
-      "title": "AAB-E-ZAR",
-      "handle": "aab-e-zar-1",
-      "url": "https://bareeze.com/aab-e-zar-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5221-grey-1170926165238.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952509249": {
-          "id": "100926022952509249",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12469,
-          "compare_at_price": 14668
-        }
-      },
-      "available": true
-    },
     "100926022952516864": {
       "id": "100926022952516864",
       "title": "MEHTAB RANGE",
@@ -11453,6 +10221,34 @@
           "available": true,
           "price": 12270,
           "compare_at_price": 14434
+        }
+      },
+      "available": true
+    },
+    "100926022952509249": {
+      "id": "100926022952509249",
+      "title": "AAB-E-ZAR",
+      "handle": "aab-e-zar-1",
+      "url": "https://bareeze.com/aab-e-zar-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5221-grey-1170926165238.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952509249": {
+          "id": "100926022952509249",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12469,
+          "compare_at_price": 14668
         }
       },
       "available": true
@@ -11709,34 +10505,6 @@
       },
       "available": true
     },
-    "100926022952445223": {
-      "id": "100926022952445223",
-      "title": "FLORAL SPRINKLE 01",
-      "handle": "floral-sprinkle-01",
-      "url": "https://bareeze.com/floral-sprinkle-01",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5180-beige140926103140.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952445223": {
-          "id": "100926022952445223",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12504,
-          "compare_at_price": 14707
-        }
-      },
-      "available": true
-    },
     "100926022952438076": {
       "id": "100926022952438076",
       "title": "ETHNIC ALLURE-01",
@@ -11761,6 +10529,34 @@
           "available": true,
           "price": 12155,
           "compare_at_price": 14297
+        }
+      },
+      "available": true
+    },
+    "100926022952445223": {
+      "id": "100926022952445223",
+      "title": "FLORAL SPRINKLE 01",
+      "handle": "floral-sprinkle-01",
+      "url": "https://bareeze.com/floral-sprinkle-01",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5180-beige140926103140.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952445223": {
+          "id": "100926022952445223",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12504,
+          "compare_at_price": 14707
         }
       },
       "available": true
@@ -12409,34 +11205,6 @@
       },
       "available": true
     },
-    "100926022952209339": {
-      "id": "100926022952209339",
-      "title": "THE KALOSCA BLOOM",
-      "handle": "the-kalosca-bloom-1",
-      "url": "https://bareeze.com/the-kalosca-bloom-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl4021-blue-1170926164316.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952209339": {
-          "id": "100926022952209339",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 11358,
-          "compare_at_price": 13359
-        }
-      },
-      "available": true
-    },
     "100926022952216653": {
       "id": "100926022952216653",
       "title": "RILLI AND RHYTHM",
@@ -12465,6 +11233,34 @@
       },
       "available": true
     },
+    "100926022952209339": {
+      "id": "100926022952209339",
+      "title": "THE KALOSCA BLOOM",
+      "handle": "the-kalosca-bloom-1",
+      "url": "https://bareeze.com/the-kalosca-bloom-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl4021-blue-1170926164316.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952209339": {
+          "id": "100926022952209339",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 11358,
+          "compare_at_price": 13359
+        }
+      },
+      "available": true
+    },
     "100926022952223811": {
       "id": "100926022952223811",
       "title": "RILLI AND RHYTHM",
@@ -12489,34 +11285,6 @@
           "available": true,
           "price": 8801,
           "compare_at_price": 10351
-        }
-      },
-      "available": true
-    },
-    "100926022952202108": {
-      "id": "100926022952202108",
-      "title": "THE KALOSCA BLOOM",
-      "handle": "the-kalosca-bloom",
-      "url": "https://bareeze.com/the-kalosca-bloom",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl4021-beige-1210926135702.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952202108": {
-          "id": "100926022952202108",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12104,
-          "compare_at_price": 14238
         }
       },
       "available": true
@@ -12565,6 +11333,34 @@
       "variants": {
         "100926022952194990": {
           "id": "100926022952194990",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12104,
+          "compare_at_price": 14238
+        }
+      },
+      "available": true
+    },
+    "100926022952202108": {
+      "id": "100926022952202108",
+      "title": "THE KALOSCA BLOOM",
+      "handle": "the-kalosca-bloom",
+      "url": "https://bareeze.com/the-kalosca-bloom",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl4021-beige-1210926135702.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952202108": {
+          "id": "100926022952202108",
           "title": "Default",
           "options": [
             "Default"
@@ -12689,34 +11485,6 @@
       },
       "available": true
     },
-    "100926022952159368": {
-      "id": "100926022952159368",
-      "title": "MODERN CROSS STITCH",
-      "handle": "modern-cross-stitch-1",
-      "url": "https://bareeze.com/modern-cross-stitch-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3160-red-2110926165744.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022952159368": {
-          "id": "100926022952159368",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12520,
-          "compare_at_price": 14726
-        }
-      },
-      "available": true
-    },
     "100926022952144833": {
       "id": "100926022952144833",
       "title": "STITCH RHYTHM",
@@ -12741,6 +11509,34 @@
           "available": true,
           "price": 12603,
           "compare_at_price": 14824
+        }
+      },
+      "available": true
+    },
+    "100926022952159368": {
+      "id": "100926022952159368",
+      "title": "MODERN CROSS STITCH",
+      "handle": "modern-cross-stitch-1",
+      "url": "https://bareeze.com/modern-cross-stitch-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3160-red-2110926165744.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952159368": {
+          "id": "100926022952159368",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12520,
+          "compare_at_price": 14726
         }
       },
       "available": true
@@ -13445,34 +12241,6 @@
       },
       "available": true
     },
-    "100926022951960030": {
-      "id": "100926022951960030",
-      "title": "GEOMATRIC PATTERN",
-      "handle": "geomatric-pattern",
-      "url": "https://bareeze.com/geomatric-pattern",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl310-rust-1170926163300.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "100926022951960030": {
-          "id": "100926022951960030",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 11457,
-          "compare_at_price": 13476
-        }
-      },
-      "available": true
-    },
     "100926022951967379": {
       "id": "100926022951967379",
       "title": "GEOMATRIC PATTERN",
@@ -13497,6 +12265,34 @@
           "available": true,
           "price": 7340,
           "compare_at_price": 8632
+        }
+      },
+      "available": true
+    },
+    "100926022951960030": {
+      "id": "100926022951960030",
+      "title": "GEOMATRIC PATTERN",
+      "handle": "geomatric-pattern",
+      "url": "https://bareeze.com/geomatric-pattern",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl310-rust-1170926163300.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022951960030": {
+          "id": "100926022951960030",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 11457,
+          "compare_at_price": 13476
         }
       },
       "available": true
@@ -14061,6 +12857,1294 @@
       },
       "available": true
     },
+    "61225024911553628": {
+      "id": "61225024911553628",
+      "title": "GULZAAR-02",
+      "handle": "gulzaar-02-2",
+      "url": "https://bareeze.com/gulzaar-02-2",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl2796-ferozi-1061225104657.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61225024911553628": {
+          "id": "61225024911553628",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 7000,
+          "compare_at_price": 10000
+        }
+      },
+      "available": true
+    },
+    "81125031214086037": {
+      "id": "81125031214086037",
+      "title": "PINE CONE-02",
+      "handle": "pine-cone-02",
+      "url": "https://bareeze.com/pine-cone-02",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1455-aqua-2081125032401.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "81125031214086037": {
+          "id": "81125031214086037",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 9926,
+          "compare_at_price": 14179
+        }
+      },
+      "available": true
+    },
+    "61225024911611849": {
+      "id": "61225024911611849",
+      "title": "RAANAI-E-GULZAAR",
+      "handle": "raanai-e-gulzaar-1",
+      "url": "https://bareeze.com/raanai-e-gulzaar-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl2869-ogreen-1061225104536.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61225024911611849": {
+          "id": "61225024911611849",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 7739,
+          "compare_at_price": 11054
+        }
+      },
+      "available": true
+    },
+    "61126153941550078": {
+      "id": "61126153941550078",
+      "title": "KANTHA-02",
+      "handle": "kantha-02-1",
+      "url": "https://bareeze.com/kantha-02-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3187-black-1071126155301.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61126153941550078": {
+          "id": "61126153941550078",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 17015,
+          "compare_at_price": 18906
+        }
+      },
+      "available": true
+    },
+    "61126153941544657": {
+      "id": "61126153941544657",
+      "title": "GOLDEN MUSE TILLA & THREAD",
+      "handle": "golden-muse-tilla-thread-1",
+      "url": "https://bareeze.com/golden-muse-tilla-thread-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5210-mgreen-2071126155701.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61126153941544657": {
+          "id": "61126153941544657",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 18264,
+          "compare_at_price": 20293
+        }
+      },
+      "available": true
+    },
+    "61126153941528174": {
+      "id": "61126153941528174",
+      "title": "IVORY MIST",
+      "handle": "ivory-mist-1",
+      "url": "https://bareeze.com/ivory-mist-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1633-owhite-1071126155756.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61126153941528174": {
+          "id": "61126153941528174",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 44595,
+          "compare_at_price": 49551
+        }
+      },
+      "available": true
+    },
+    "61126153941539106": {
+      "id": "61126153941539106",
+      "title": "GOLDEN MUSE TILLA & THREAD",
+      "handle": "golden-muse-tilla-thread",
+      "url": "https://bareeze.com/golden-muse-tilla-thread",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5210-magenta-1071126155643.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61126153941539106": {
+          "id": "61126153941539106",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 18264,
+          "compare_at_price": 20293
+        }
+      },
+      "available": true
+    },
+    "61126153941521395": {
+      "id": "61126153941521395",
+      "title": "IVORY MIST",
+      "handle": "ivory-mist",
+      "url": "https://bareeze.com/ivory-mist",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1633-lbeige-2071126155815.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61126153941521395": {
+          "id": "61126153941521395",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 44595,
+          "compare_at_price": 49551
+        }
+      },
+      "available": true
+    },
+    "61126153941533645": {
+      "id": "61126153941533645",
+      "title": "PHOOLKARI TILLA & THREAD",
+      "handle": "phoolkari-tilla-thread",
+      "url": "https://bareeze.com/phoolkari-tilla-thread",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3184-black-1071126155218.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "61126153941533645": {
+          "id": "61126153941533645",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 16593,
+          "compare_at_price": 18437
+        }
+      },
+      "available": true
+    },
+    "301026002056241561": {
+      "id": "301026002056241561",
+      "title": "ROYAL ELEGANCE-02",
+      "handle": "royal-elegance-02",
+      "url": "https://bareeze.com/royal-elegance-02",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5209-blue-1301026173618.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "301026002056241561": {
+          "id": "301026002056241561",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 17016,
+          "compare_at_price": 18906
+        }
+      },
+      "available": true
+    },
+    "301026002056247135": {
+      "id": "301026002056247135",
+      "title": "ROYAL ELEGANCE-02",
+      "handle": "royal-elegance-02-1",
+      "url": "https://bareeze.com/royal-elegance-02-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5209-pink-1301026173705.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "301026002056247135": {
+          "id": "301026002056247135",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 17016,
+          "compare_at_price": 18906
+        }
+      },
+      "available": true
+    },
+    "301026002056225515": {
+      "id": "301026002056225515",
+      "title": "SHIMMER-01",
+      "handle": "shimmer-01",
+      "url": "https://bareeze.com/shimmer-01",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3186-peach-1301026172454.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "301026002056225515": {
+          "id": "301026002056225515",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 14730,
+          "compare_at_price": 16367
+        }
+      },
+      "available": true
+    },
+    "301026002056220154": {
+      "id": "301026002056220154",
+      "title": "ZARMALA",
+      "handle": "zarmala-1",
+      "url": "https://bareeze.com/zarmala-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1640-t-pink-1301026174111.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "301026002056220154": {
+          "id": "301026002056220154",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 35473,
+          "compare_at_price": 39414
+        }
+      },
+      "available": true
+    },
+    "301026002056236146": {
+      "id": "301026002056236146",
+      "title": "KANTHA-02",
+      "handle": "kantha-02",
+      "url": "https://bareeze.com/kantha-02",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3187-peach-1301026172521.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "301026002056236146": {
+          "id": "301026002056236146",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 17015,
+          "compare_at_price": 18906
+        }
+      },
+      "available": true
+    },
+    "301026002056230848": {
+      "id": "301026002056230848",
+      "title": "SHIMMER-01",
+      "handle": "shimmer-01-1",
+      "url": "https://bareeze.com/shimmer-01-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3186-zinc-6301026172448.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "301026002056230848": {
+          "id": "301026002056230848",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 14730,
+          "compare_at_price": 16367
+        }
+      },
+      "available": true
+    },
+    "301026002056214855": {
+      "id": "301026002056214855",
+      "title": "ZARMALA",
+      "handle": "zarmala",
+      "url": "https://bareeze.com/zarmala",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1640-lgreen-2101126181439.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "301026002056214855": {
+          "id": "301026002056214855",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 35473,
+          "compare_at_price": 39414
+        }
+      },
+      "available": true
+    },
+    "231026165032136619": {
+      "id": "231026165032136619",
+      "title": "VELVET ROSE",
+      "handle": "velvet-rose-1",
+      "url": "https://bareeze.com/velvet-rose-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1615-grey-1231026172355.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "231026165032136619": {
+          "id": "231026165032136619",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 33610,
+          "compare_at_price": 37344
+        }
+      },
+      "available": true
+    },
+    "231026165032120188": {
+      "id": "231026165032120188",
+      "title": "ROYAL AMOUR-02",
+      "handle": "royal-amour-02",
+      "url": "https://bareeze.com/royal-amour-02",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5198-green-1231026172237.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "231026165032120188": {
+          "id": "231026165032120188",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 25928,
+          "compare_at_price": 28809
+        }
+      },
+      "available": true
+    },
+    "231026165032114691": {
+      "id": "231026165032114691",
+      "title": "MUGHAL MARIGOLD",
+      "handle": "mughal-marigold-1",
+      "url": "https://bareeze.com/mughal-marigold-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5196-beige-1231026172048.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "231026165032114691": {
+          "id": "231026165032114691",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 28424,
+          "compare_at_price": 31583
+        }
+      },
+      "available": true
+    },
+    "231026165032125649": {
+      "id": "231026165032125649",
+      "title": "ROYAL AMOUR-02",
+      "handle": "royal-amour-02-1",
+      "url": "https://bareeze.com/royal-amour-02-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5198-grey-1231026172155.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "231026165032125649": {
+          "id": "231026165032125649",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 25928,
+          "compare_at_price": 28809
+        }
+      },
+      "available": true
+    },
+    "231026165032131137": {
+      "id": "231026165032131137",
+      "title": "NIGHT QUEEN",
+      "handle": "night-queen-1",
+      "url": "https://bareeze.com/night-queen-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1639-cream-1231026173047.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "231026165032131137": {
+          "id": "231026165032131137",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 33856,
+          "compare_at_price": 37617
+        }
+      },
+      "available": true
+    },
+    "91026145505747534": {
+      "id": "91026145505747534",
+      "title": "MUGHAL MARIGOLD",
+      "handle": "mughal-marigold",
+      "url": "https://bareeze.com/mughal-marigold",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5196-green-1261026095236.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "91026145505747534": {
+          "id": "91026145505747534",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 28424,
+          "compare_at_price": 31583
+        }
+      },
+      "available": true
+    },
+    "91026145505731531": {
+      "id": "91026145505731531",
+      "title": "TRADITIONAL PATTERN",
+      "handle": "traditional-pattern",
+      "url": "https://bareeze.com/traditional-pattern",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3121-pink-1231026170804.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "91026145505731531": {
+          "id": "91026145505731531",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 32977,
+          "compare_at_price": 36640
+        }
+      },
+      "available": true
+    },
+    "91026145505739139": {
+      "id": "91026145505739139",
+      "title": "TRADITIONAL PATTERN",
+      "handle": "traditional-pattern-1",
+      "url": "https://bareeze.com/traditional-pattern-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3121-green-1231026170819.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "91026145505739139": {
+          "id": "91026145505739139",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 32977,
+          "compare_at_price": 36640
+        }
+      },
+      "available": true
+    },
+    "71026183315724514": {
+      "id": "71026183315724514",
+      "title": "VICTORIAN 03",
+      "handle": "victorian-03-1",
+      "url": "https://bareeze.com/victorian-03-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3126-l-sea-green-1261026095209.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "71026183315724514": {
+          "id": "71026183315724514",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 24891,
+          "compare_at_price": 27657
+        }
+      },
+      "available": true
+    },
+    "11026170016457181": {
+      "id": "11026170016457181",
+      "title": "VELVET ROSE",
+      "handle": "velvet-rose",
+      "url": "https://bareeze.com/velvet-rose",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1615-aqua-1101026103134.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "11026170016457181": {
+          "id": "11026170016457181",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 33610,
+          "compare_at_price": 37344
+        }
+      },
+      "available": true
+    },
+    "11026170016414491": {
+      "id": "11026170016414491",
+      "title": "VINTAGE GOLD 01",
+      "handle": "vintage-gold-01",
+      "url": "https://bareeze.com/vintage-gold-01",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5195-beige-4021026200225.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "11026170016414491": {
+          "id": "11026170016414491",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 34647,
+          "compare_at_price": 38496
+        }
+      },
+      "available": true
+    },
+    "11026170016385620": {
+      "id": "11026170016385620",
+      "title": "VICTORIAN 03",
+      "handle": "victorian-03",
+      "url": "https://bareeze.com/victorian-03",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3126-beige1021026194821.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "11026170016385620": {
+          "id": "11026170016385620",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 24891,
+          "compare_at_price": 27657
+        }
+      },
+      "available": true
+    },
+    "11026170016429113": {
+      "id": "11026170016429113",
+      "title": "VINTAGE GOLD 01",
+      "handle": "vintage-gold-01-1",
+      "url": "https://bareeze.com/vintage-gold-01-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5195-t-pink-1021026200232.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "11026170016429113": {
+          "id": "11026170016429113",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 34647,
+          "compare_at_price": 38496
+        }
+      },
+      "available": true
+    },
+    "240926164804589362": {
+      "id": "240926164804589362",
+      "title": "SHIMMER FLOURE",
+      "handle": "shimmer-floure",
+      "url": "https://bareeze.com/shimmer-floure",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3178-maroon-1021026195416.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "240926164804589362": {
+          "id": "240926164804589362",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 33610,
+          "compare_at_price": 37344
+        }
+      },
+      "available": true
+    },
+    "240926164804601918": {
+      "id": "240926164804601918",
+      "title": "SHIMMER FLOURE",
+      "handle": "shimmer-floure-1",
+      "url": "https://bareeze.com/shimmer-floure-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3178-teal-1021026195430.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "240926164804601918": {
+          "id": "240926164804601918",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 33610,
+          "compare_at_price": 37344
+        }
+      },
+      "available": true
+    },
+    "140926162749610509": {
+      "id": "140926162749610509",
+      "title": "GOLD SHIMMER",
+      "handle": "gold-shimmer",
+      "url": "https://bareeze.com/gold-shimmer",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1635-l-green-1210926140309.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749610509": {
+          "id": "140926162749610509",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 26350,
+          "compare_at_price": 29277
+        }
+      },
+      "available": true
+    },
+    "140926162749616705": {
+      "id": "140926162749616705",
+      "title": "GOLD SHIMMER",
+      "handle": "gold-shimmer-1",
+      "url": "https://bareeze.com/gold-shimmer-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1635-mustard-1210926140259.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749616705": {
+          "id": "140926162749616705",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 26350,
+          "compare_at_price": 29277
+        }
+      },
+      "available": true
+    },
+    "140926162749622092": {
+      "id": "140926162749622092",
+      "title": "NIGHT QUEEN",
+      "handle": "night-queen",
+      "url": "https://bareeze.com/night-queen",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1639-l-purple-1210926140345.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749622092": {
+          "id": "140926162749622092",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 24891,
+          "compare_at_price": 27656
+        }
+      },
+      "available": true
+    },
+    "140926162749605054": {
+      "id": "140926162749605054",
+      "title": "GOLDEN DREAMS 03",
+      "handle": "golden-dreams-03-1",
+      "url": "https://bareeze.com/golden-dreams-03-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5197-magenta-3210926135906.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749605054": {
+          "id": "140926162749605054",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 16488,
+          "compare_at_price": 18320
+        }
+      },
+      "available": true
+    },
+    "140926162749599606": {
+      "id": "140926162749599606",
+      "title": "GOLDEN DREAMS 03",
+      "handle": "golden-dreams-03",
+      "url": "https://bareeze.com/golden-dreams-03",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5197-aqua-1210926135841.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749599606": {
+          "id": "140926162749599606",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 16488,
+          "compare_at_price": 18320
+        }
+      },
+      "available": true
+    },
+    "140926162749594019": {
+      "id": "140926162749594019",
+      "title": "ABSTRACT SHIMMER",
+      "handle": "abstract-shimmer-1",
+      "url": "https://bareeze.com/abstract-shimmer-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3183-rust-3210926135341.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749594019": {
+          "id": "140926162749594019",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 16699,
+          "compare_at_price": 18555
+        }
+      },
+      "available": true
+    },
+    "140926162749588471": {
+      "id": "140926162749588471",
+      "title": "ABSTRACT SHIMMER",
+      "handle": "abstract-shimmer",
+      "url": "https://bareeze.com/abstract-shimmer",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3183-olive-1210926135319.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749588471": {
+          "id": "140926162749588471",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 16699,
+          "compare_at_price": 18555
+        }
+      },
+      "available": true
+    },
+    "140926162749582761": {
+      "id": "140926162749582761",
+      "title": "MUGHAL 06",
+      "handle": "mughal-06-1",
+      "url": "https://bareeze.com/mughal-06-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3125-t-pink-1210926135026.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749582761": {
+          "id": "140926162749582761",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 17121,
+          "compare_at_price": 19023
+        }
+      },
+      "available": true
+    },
+    "140926162749576910": {
+      "id": "140926162749576910",
+      "title": "MUGHAL 06",
+      "handle": "mughal-06",
+      "url": "https://bareeze.com/mughal-06",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3125-t-blue-1210926135003.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "140926162749576910": {
+          "id": "140926162749576910",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 17121,
+          "compare_at_price": 19023
+        }
+      },
+      "available": true
+    },
+    "100926022952836411": {
+      "id": "100926022952836411",
+      "title": "GLOWING FLOWER",
+      "handle": "glowing-flower-1",
+      "url": "https://bareeze.com/glowing-flower-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3172-t-blue-1210926135252.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952836411": {
+          "id": "100926022952836411",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 21375,
+          "compare_at_price": 23750
+        }
+      },
+      "available": true
+    },
+    "100926022952842166": {
+      "id": "100926022952842166",
+      "title": "BAGH E ZARRIN",
+      "handle": "bagh-e-zarrin-2",
+      "url": "https://bareeze.com/bagh-e-zarrin-2",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1532-olive-green140926103345.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952842166": {
+          "id": "100926022952842166",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 38777,
+          "compare_at_price": 43086
+        }
+      },
+      "available": true
+    },
+    "100926022952825761": {
+      "id": "100926022952825761",
+      "title": "TILISIM-01",
+      "handle": "tilisim-01-1",
+      "url": "https://bareeze.com/tilisim-01-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3138-red-1100926030020.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952825761": {
+          "id": "100926022952825761",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 30181,
+          "compare_at_price": 33536
+        }
+      },
+      "available": true
+    },
+    "100926022952820454": {
+      "id": "100926022952820454",
+      "title": "TILISIM-01",
+      "handle": "tilisim-01",
+      "url": "https://bareeze.com/tilisim-01",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3138-green-1230926174850.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952820454": {
+          "id": "100926022952820454",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 30181,
+          "compare_at_price": 33536
+        }
+      },
+      "available": true
+    },
+    "100926022952831081": {
+      "id": "100926022952831081",
+      "title": "GLOWING FLOWER",
+      "handle": "glowing-flower",
+      "url": "https://bareeze.com/glowing-flower",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3172-magenta-4210926135234.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952831081": {
+          "id": "100926022952831081",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 21375,
+          "compare_at_price": 23750
+        }
+      },
+      "available": true
+    },
+    "100926022952809813": {
+      "id": "100926022952809813",
+      "title": "CLASSIC PATTERN 02",
+      "handle": "classic-pattern-02",
+      "url": "https://bareeze.com/classic-pattern-02",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3120-grey-3100926025512.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "100926022952809813": {
+          "id": "100926022952809813",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 18351,
+          "compare_at_price": 20390
+        }
+      },
+      "available": true
+    },
     "100726171211748183": {
       "id": "100726171211748183",
       "title": "Printed",
@@ -14257,34 +14341,6 @@
       },
       "available": true
     },
-    "240626171722714944": {
-      "id": "240626171722714944",
-      "title": "Printed",
-      "handle": "printed-2395",
-      "url": "https://bareeze.com/printed-2395",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2312-green-5260626104726.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "240626171722714944": {
-          "id": "240626171722714944",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 3391,
-          "compare_at_price": 4844
-        }
-      },
-      "available": true
-    },
     "240626171722835331": {
       "id": "240626171722835331",
       "title": "Printed",
@@ -14341,30 +14397,30 @@
       },
       "available": true
     },
-    "240626171722585344": {
-      "id": "240626171722585344",
+    "240626171722714944": {
+      "id": "240626171722714944",
       "title": "Printed",
-      "handle": "printed-2390",
-      "url": "https://bareeze.com/printed-2390",
+      "handle": "printed-2395",
+      "url": "https://bareeze.com/printed-2395",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2265-brown-1240626182250.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2312-green-5260626104726.jpg"
       ],
       "options": null,
       "variants": {
-        "240626171722585344": {
-          "id": "240626171722585344",
+        "240626171722714944": {
+          "id": "240626171722714944",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6169,
-          "compare_at_price": 8812
+          "price": 3391,
+          "compare_at_price": 4844
         }
       },
       "available": true
@@ -14393,6 +14449,34 @@
           "available": true,
           "price": 5348,
           "compare_at_price": 7641
+        }
+      },
+      "available": true
+    },
+    "240626171722585344": {
+      "id": "240626171722585344",
+      "title": "Printed",
+      "handle": "printed-2390",
+      "url": "https://bareeze.com/printed-2390",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2265-brown-1240626182250.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "240626171722585344": {
+          "id": "240626171722585344",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6169,
+          "compare_at_price": 8812
         }
       },
       "available": true
@@ -14453,30 +14537,30 @@
       },
       "available": true
     },
-    "290526131304191204": {
-      "id": "290526131304191204",
+    "290526131304188175": {
+      "id": "290526131304188175",
       "title": "Printed",
-      "handle": "printed-2388",
-      "url": "https://bareeze.com/printed-2388",
+      "handle": "printed-2387",
+      "url": "https://bareeze.com/printed-2387",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2392-black-4290526172445.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2396-black-1290526163042.jpg"
       ],
       "options": null,
       "variants": {
-        "290526131304191204": {
-          "id": "290526131304191204",
+        "290526131304188175": {
+          "id": "290526131304188175",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6278,
-          "compare_at_price": 8969
+          "price": 6169,
+          "compare_at_price": 8812
         }
       },
       "available": true
@@ -14509,30 +14593,30 @@
       },
       "available": true
     },
-    "290526131304188175": {
-      "id": "290526131304188175",
+    "290526131304191204": {
+      "id": "290526131304191204",
       "title": "Printed",
-      "handle": "printed-2387",
-      "url": "https://bareeze.com/printed-2387",
+      "handle": "printed-2388",
+      "url": "https://bareeze.com/printed-2388",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2396-black-1290526163042.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2392-black-4290526172445.jpg"
       ],
       "options": null,
       "variants": {
-        "290526131304188175": {
-          "id": "290526131304188175",
+        "290526131304191204": {
+          "id": "290526131304191204",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6169,
-          "compare_at_price": 8812
+          "price": 6278,
+          "compare_at_price": 8969
         }
       },
       "available": true
@@ -14845,34 +14929,6 @@
       },
       "available": true
     },
-    "250426014921476343": {
-      "id": "250426014921476343",
-      "title": "Printed",
-      "handle": "printed-2366",
-      "url": "https://bareeze.com/printed-2366",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2339-orange-1250426024236.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "250426014921476343": {
-          "id": "250426014921476343",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6798,
-          "compare_at_price": 9711
-        }
-      },
-      "available": true
-    },
     "250426014921470660": {
       "id": "250426014921470660",
       "title": "Printed",
@@ -14897,6 +14953,34 @@
           "available": true,
           "price": 4020,
           "compare_at_price": 5742
+        }
+      },
+      "available": true
+    },
+    "250426014921476343": {
+      "id": "250426014921476343",
+      "title": "Printed",
+      "handle": "printed-2366",
+      "url": "https://bareeze.com/printed-2366",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2339-orange-1250426024236.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "250426014921476343": {
+          "id": "250426014921476343",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6798,
+          "compare_at_price": 9711
         }
       },
       "available": true
@@ -15013,34 +15097,6 @@
       },
       "available": true
     },
-    "90426122847599676": {
-      "id": "90426122847599676",
-      "title": "Printed",
-      "handle": "printed-2351",
-      "url": "https://bareeze.com/printed-2351",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2296-blue-1090426130155.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90426122847599676": {
-          "id": "90426122847599676",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 3391,
-          "compare_at_price": 4844
-        }
-      },
-      "available": true
-    },
     "90426122847609126": {
       "id": "90426122847609126",
       "title": "Printed",
@@ -15065,6 +15121,34 @@
           "available": true,
           "price": 6344,
           "compare_at_price": 9062
+        }
+      },
+      "available": true
+    },
+    "90426122847599676": {
+      "id": "90426122847599676",
+      "title": "Printed",
+      "handle": "printed-2351",
+      "url": "https://bareeze.com/printed-2351",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2296-blue-1090426130155.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90426122847599676": {
+          "id": "90426122847599676",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 3391,
+          "compare_at_price": 4844
         }
       },
       "available": true
@@ -15293,34 +15377,6 @@
       },
       "available": true
     },
-    "50326134139212759": {
-      "id": "50326134139212759",
-      "title": "Printed",
-      "handle": "printed-2331",
-      "url": "https://bareeze.com/printed-2331",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2284-green-1060326111201.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "50326134139212759": {
-          "id": "50326134139212759",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6344,
-          "compare_at_price": 9062
-        }
-      },
-      "available": true
-    },
     "50326134139224414": {
       "id": "50326134139224414",
       "title": "Printed",
@@ -15345,6 +15401,34 @@
           "available": true,
           "price": 4020,
           "compare_at_price": 5742
+        }
+      },
+      "available": true
+    },
+    "50326134139212759": {
+      "id": "50326134139212759",
+      "title": "Printed",
+      "handle": "printed-2331",
+      "url": "https://bareeze.com/printed-2331",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2284-green-1060326111201.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "50326134139212759": {
+          "id": "50326134139212759",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6344,
+          "compare_at_price": 9062
         }
       },
       "available": true
@@ -15433,34 +15517,6 @@
       },
       "available": true
     },
-    "50326134139215649": {
-      "id": "50326134139215649",
-      "title": "Printed",
-      "handle": "printed-2332",
-      "url": "https://bareeze.com/printed-2332",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2235-yellow-1060326105032.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "50326134139215649": {
-          "id": "50326134139215649",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6169,
-          "compare_at_price": 8812
-        }
-      },
-      "available": true
-    },
     "50326134139207078": {
       "id": "50326134139207078",
       "title": "Printed",
@@ -15477,6 +15533,34 @@
       "variants": {
         "50326134139207078": {
           "id": "50326134139207078",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6169,
+          "compare_at_price": 8812
+        }
+      },
+      "available": true
+    },
+    "50326134139215649": {
+      "id": "50326134139215649",
+      "title": "Printed",
+      "handle": "printed-2332",
+      "url": "https://bareeze.com/printed-2332",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2235-yellow-1060326105032.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "50326134139215649": {
+          "id": "50326134139215649",
           "title": "Default",
           "options": [
             "Default"
@@ -15517,34 +15601,6 @@
       },
       "available": true
     },
-    "50326134139194783": {
-      "id": "50326134139194783",
-      "title": "Printed & Embroidered",
-      "handle": "printed-embroidered-99",
-      "url": "https://bareeze.com/printed-embroidered-99",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2218-red-5060326104310.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "50326134139194783": {
-          "id": "50326134139194783",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6934,
-          "compare_at_price": 9906
-        }
-      },
-      "available": true
-    },
     "50326134139192434": {
       "id": "50326134139192434",
       "title": "Printed & Embroidered",
@@ -15569,6 +15625,34 @@
           "available": true,
           "price": 6945,
           "compare_at_price": 9922
+        }
+      },
+      "available": true
+    },
+    "50326134139194783": {
+      "id": "50326134139194783",
+      "title": "Printed & Embroidered",
+      "handle": "printed-embroidered-99",
+      "url": "https://bareeze.com/printed-embroidered-99",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2218-red-5060326104310.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "50326134139194783": {
+          "id": "50326134139194783",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6934,
+          "compare_at_price": 9906
         }
       },
       "available": true
@@ -16021,30 +16105,30 @@
       },
       "available": true
     },
-    "90226014618453834": {
-      "id": "90226014618453834",
+    "90226014618450560": {
+      "id": "90226014618450560",
       "title": "Printed",
-      "handle": "printed-2294",
-      "url": "https://bareeze.com/printed-2294",
+      "handle": "printed-2293",
+      "url": "https://bareeze.com/printed-2293",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2259-ferozi-1090226105928.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2252-green-1090226110420.jpg"
       ],
       "options": null,
       "variants": {
-        "90226014618453834": {
-          "id": "90226014618453834",
+        "90226014618450560": {
+          "id": "90226014618450560",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6798,
-          "compare_at_price": 9711
+          "price": 6169,
+          "compare_at_price": 8812
         }
       },
       "available": true
@@ -16077,30 +16161,30 @@
       },
       "available": true
     },
-    "90226014618450560": {
-      "id": "90226014618450560",
+    "90226014618453834": {
+      "id": "90226014618453834",
       "title": "Printed",
-      "handle": "printed-2293",
-      "url": "https://bareeze.com/printed-2293",
+      "handle": "printed-2294",
+      "url": "https://bareeze.com/printed-2294",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2252-green-1090226110420.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2259-ferozi-1090226105928.jpg"
       ],
       "options": null,
       "variants": {
-        "90226014618450560": {
-          "id": "90226014618450560",
+        "90226014618453834": {
+          "id": "90226014618453834",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6169,
-          "compare_at_price": 8812
+          "price": 6798,
+          "compare_at_price": 9711
         }
       },
       "available": true
@@ -16189,34 +16273,6 @@
       },
       "available": true
     },
-    "90226014618463752": {
-      "id": "90226014618463752",
-      "title": "Printed",
-      "handle": "printed-2297",
-      "url": "https://bareeze.com/printed-2297",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2266-green-1090226103538.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90226014618463752": {
-          "id": "90226014618463752",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6798,
-          "compare_at_price": 9711
-        }
-      },
-      "available": true
-    },
     "90226014618467089": {
       "id": "90226014618467089",
       "title": "Printed",
@@ -16233,6 +16289,34 @@
       "variants": {
         "90226014618467089": {
           "id": "90226014618467089",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6798,
+          "compare_at_price": 9711
+        }
+      },
+      "available": true
+    },
+    "90226014618463752": {
+      "id": "90226014618463752",
+      "title": "Printed",
+      "handle": "printed-2297",
+      "url": "https://bareeze.com/printed-2297",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2266-green-1090226103538.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90226014618463752": {
+          "id": "90226014618463752",
           "title": "Default",
           "options": [
             "Default"
@@ -16413,34 +16497,6 @@
       },
       "available": true
     },
-    "61225024912066143": {
-      "id": "61225024912066143",
-      "title": "TORANJ E ZAR",
-      "handle": "toranj-e-zar-1",
-      "url": "https://bareeze.com/toranj-e-zar-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1469-blue-1121225163705.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61225024912066143": {
-          "id": "61225024912066143",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 21361,
-          "compare_at_price": 25129
-        }
-      },
-      "available": true
-    },
     "61225024912059250": {
       "id": "61225024912059250",
       "title": "TORANJ E ZAR",
@@ -16469,30 +16525,30 @@
       },
       "available": true
     },
-    "61225024911553628": {
-      "id": "61225024911553628",
-      "title": "GULZAAR-02",
-      "handle": "gulzaar-02-2",
-      "url": "https://bareeze.com/gulzaar-02-2",
+    "61225024912066143": {
+      "id": "61225024912066143",
+      "title": "TORANJ E ZAR",
+      "handle": "toranj-e-zar-1",
+      "url": "https://bareeze.com/toranj-e-zar-1",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl2796-ferozi-1061225104657.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1469-blue-1121225163705.jpg"
       ],
       "options": null,
       "variants": {
-        "61225024911553628": {
-          "id": "61225024911553628",
+        "61225024912066143": {
+          "id": "61225024912066143",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 7000,
-          "compare_at_price": 10000
+          "price": 21361,
+          "compare_at_price": 25129
         }
       },
       "available": true
@@ -16549,62 +16605,6 @@
           "available": true,
           "price": 26879,
           "compare_at_price": 31622
-        }
-      },
-      "available": true
-    },
-    "81125031214086037": {
-      "id": "81125031214086037",
-      "title": "PINE CONE-02",
-      "handle": "pine-cone-02",
-      "url": "https://bareeze.com/pine-cone-02",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1455-aqua-2081125032401.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "81125031214086037": {
-          "id": "81125031214086037",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 9926,
-          "compare_at_price": 14179
-        }
-      },
-      "available": true
-    },
-    "61225024911611849": {
-      "id": "61225024911611849",
-      "title": "RAANAI-E-GULZAAR",
-      "handle": "raanai-e-gulzaar-1",
-      "url": "https://bareeze.com/raanai-e-gulzaar-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl2869-ogreen-1061225104536.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "61225024911611849": {
-          "id": "61225024911611849",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 7739,
-          "compare_at_price": 11054
         }
       },
       "available": true
@@ -16721,34 +16721,6 @@
       },
       "available": true
     },
-    "310826174911398738": {
-      "id": "310826174911398738",
-      "title": "SUNBEAM BLOOM",
-      "handle": "sunbeam-bloom",
-      "url": "https://bareeze.com/sunbeam-bloom",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1568-pink-1300926170127.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "310826174911398738": {
-          "id": "310826174911398738",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 18457,
-          "compare_at_price": 20508
-        }
-      },
-      "available": true
-    },
     "310826174911408791": {
       "id": "310826174911408791",
       "title": "GOLD PEARL",
@@ -16773,6 +16745,34 @@
           "available": true,
           "price": 29250,
           "compare_at_price": 32500
+        }
+      },
+      "available": true
+    },
+    "310826174911398738": {
+      "id": "310826174911398738",
+      "title": "SUNBEAM BLOOM",
+      "handle": "sunbeam-bloom",
+      "url": "https://bareeze.com/sunbeam-bloom",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1568-pink-1300926170127.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "310826174911398738": {
+          "id": "310826174911398738",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 18457,
+          "compare_at_price": 20508
         }
       },
       "available": true
@@ -16945,34 +16945,6 @@
       },
       "available": true
     },
-    "310826174911356433": {
-      "id": "310826174911356433",
-      "title": "SHINY FLOWER",
-      "handle": "shiny-flower-3",
-      "url": "https://bareeze.com/shiny-flower-3",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl1626-green-4300926160225.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "310826174911356433": {
-          "id": "310826174911356433",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 23942,
-          "compare_at_price": 26602
-        }
-      },
-      "available": true
-    },
     "310826174911362216": {
       "id": "310826174911362216",
       "title": "MUMTAZ-02",
@@ -16997,6 +16969,34 @@
           "available": true,
           "price": 17631,
           "compare_at_price": 19590
+        }
+      },
+      "available": true
+    },
+    "310826174911356433": {
+      "id": "310826174911356433",
+      "title": "SHINY FLOWER",
+      "handle": "shiny-flower-3",
+      "url": "https://bareeze.com/shiny-flower-3",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl1626-green-4300926160225.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "310826174911356433": {
+          "id": "310826174911356433",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 23942,
+          "compare_at_price": 26602
         }
       },
       "available": true
@@ -17785,34 +17785,6 @@
       },
       "available": true
     },
-    "71026175350466176": {
-      "id": "71026175350466176",
-      "title": "Printed",
-      "handle": "printed-2481",
-      "url": "https://bareeze.com/printed-2481",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2449-ferozi-1101026105114.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "71026175350466176": {
-          "id": "71026175350466176",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6463,
-          "compare_at_price": 8617
-        }
-      },
-      "available": true
-    },
     "71026175350461842": {
       "id": "71026175350461842",
       "title": "Printed",
@@ -17837,6 +17809,34 @@
           "available": true,
           "price": 3475,
           "compare_at_price": 4633
+        }
+      },
+      "available": true
+    },
+    "71026175350466176": {
+      "id": "71026175350466176",
+      "title": "Printed",
+      "handle": "printed-2481",
+      "url": "https://bareeze.com/printed-2481",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2449-ferozi-1101026105114.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "71026175350466176": {
+          "id": "71026175350466176",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6463,
+          "compare_at_price": 8617
         }
       },
       "available": true
@@ -17897,34 +17897,6 @@
       },
       "available": true
     },
-    "11026165957831261": {
-      "id": "11026165957831261",
-      "title": "Printed",
-      "handle": "printed-2477",
-      "url": "https://bareeze.com/printed-2477",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2436-grey-1021026200656.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "11026165957831261": {
-          "id": "11026165957831261",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6463,
-          "compare_at_price": 8617
-        }
-      },
-      "available": true
-    },
     "11026165957828209": {
       "id": "11026165957828209",
       "title": "Printed & Embroidered",
@@ -17949,6 +17921,34 @@
           "available": true,
           "price": 8309,
           "compare_at_price": 11078
+        }
+      },
+      "available": true
+    },
+    "11026165957831261": {
+      "id": "11026165957831261",
+      "title": "Printed",
+      "handle": "printed-2477",
+      "url": "https://bareeze.com/printed-2477",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2436-grey-1021026200656.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "11026165957831261": {
+          "id": "11026165957831261",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6463,
+          "compare_at_price": 8617
         }
       },
       "available": true
@@ -18345,6 +18345,34 @@
       },
       "available": true
     },
+    "90926175910420594": {
+      "id": "90926175910420594",
+      "title": "Printed",
+      "handle": "printed-2460",
+      "url": "https://bareeze.com/printed-2460",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2447-pueple-2110926180606.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90926175910420594": {
+          "id": "90926175910420594",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 3750,
+          "compare_at_price": 5000
+        }
+      },
+      "available": true
+    },
     "90926175910449828": {
       "id": "90926175910449828",
       "title": "Printed",
@@ -18397,34 +18425,6 @@
           "available": true,
           "price": 6738,
           "compare_at_price": 8984
-        }
-      },
-      "available": true
-    },
-    "90926175910420594": {
-      "id": "90926175910420594",
-      "title": "Printed",
-      "handle": "printed-2460",
-      "url": "https://bareeze.com/printed-2460",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2447-pueple-2110926180606.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90926175910420594": {
-          "id": "90926175910420594",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 3750,
-          "compare_at_price": 5000
         }
       },
       "available": true
@@ -18513,34 +18513,6 @@
       },
       "available": true
     },
-    "90926175910430370": {
-      "id": "90926175910430370",
-      "title": "Printed",
-      "handle": "printed-2463",
-      "url": "https://bareeze.com/printed-2463",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2430-pink-3110926180158.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90926175910430370": {
-          "id": "90926175910430370",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6738,
-          "compare_at_price": 8984
-        }
-      },
-      "available": true
-    },
     "90926175910423923": {
       "id": "90926175910423923",
       "title": "Printed",
@@ -18565,6 +18537,34 @@
           "available": true,
           "price": 3750,
           "compare_at_price": 5000
+        }
+      },
+      "available": true
+    },
+    "90926175910430370": {
+      "id": "90926175910430370",
+      "title": "Printed",
+      "handle": "printed-2463",
+      "url": "https://bareeze.com/printed-2463",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2430-pink-3110926180158.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90926175910430370": {
+          "id": "90926175910430370",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6738,
+          "compare_at_price": 8984
         }
       },
       "available": true
@@ -18653,34 +18653,6 @@
       },
       "available": true
     },
-    "90926175910437375": {
-      "id": "90926175910437375",
-      "title": "Printed",
-      "handle": "printed-2465",
-      "url": "https://bareeze.com/printed-2465",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2428-purple-1230926182715.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90926175910437375": {
-          "id": "90926175910437375",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 7823,
-          "compare_at_price": 10430
-        }
-      },
-      "available": true
-    },
     "90926175910440489": {
       "id": "90926175910440489",
       "title": "Printed",
@@ -18709,30 +18681,30 @@
       },
       "available": true
     },
-    "90926175910376920": {
-      "id": "90926175910376920",
+    "90926175910437375": {
+      "id": "90926175910437375",
       "title": "Printed",
-      "handle": "printed-2447",
-      "url": "https://bareeze.com/printed-2447",
+      "handle": "printed-2465",
+      "url": "https://bareeze.com/printed-2465",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2411-yellow-1230926181405.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2428-purple-1230926182715.jpg"
       ],
       "options": null,
       "variants": {
-        "90926175910376920": {
-          "id": "90926175910376920",
+        "90926175910437375": {
+          "id": "90926175910437375",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6463,
-          "compare_at_price": 8617
+          "price": 7823,
+          "compare_at_price": 10430
         }
       },
       "available": true
@@ -18765,30 +18737,30 @@
       },
       "available": true
     },
-    "90926175910406660": {
-      "id": "90926175910406660",
+    "90926175910376920": {
+      "id": "90926175910376920",
       "title": "Printed",
-      "handle": "printed-2456",
-      "url": "https://bareeze.com/printed-2456",
+      "handle": "printed-2447",
+      "url": "https://bareeze.com/printed-2447",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2434-green-1230926183331.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2411-yellow-1230926181405.jpg"
       ],
       "options": null,
       "variants": {
-        "90926175910406660": {
-          "id": "90926175910406660",
+        "90926175910376920": {
+          "id": "90926175910376920",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6996,
-          "compare_at_price": 9328
+          "price": 6463,
+          "compare_at_price": 8617
         }
       },
       "available": true
@@ -18821,6 +18793,34 @@
       },
       "available": true
     },
+    "90926175910406660": {
+      "id": "90926175910406660",
+      "title": "Printed",
+      "handle": "printed-2456",
+      "url": "https://bareeze.com/printed-2456",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2434-green-1230926183331.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90926175910406660": {
+          "id": "90926175910406660",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6996,
+          "compare_at_price": 9328
+        }
+      },
+      "available": true
+    },
     "90926175910390776": {
       "id": "90926175910390776",
       "title": "Printed",
@@ -18837,62 +18837,6 @@
       "variants": {
         "90926175910390776": {
           "id": "90926175910390776",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6463,
-          "compare_at_price": 8617
-        }
-      },
-      "available": true
-    },
-    "90926175910397143": {
-      "id": "90926175910397143",
-      "title": "Printed",
-      "handle": "printed-2453",
-      "url": "https://bareeze.com/printed-2453",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2427-green-1230926182641.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90926175910397143": {
-          "id": "90926175910397143",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 7284,
-          "compare_at_price": 9711
-        }
-      },
-      "available": true
-    },
-    "90926175910409892": {
-      "id": "90926175910409892",
-      "title": "Printed",
-      "handle": "printed-2457",
-      "url": "https://bareeze.com/printed-2457",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2436-purple-5230926183357.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90926175910409892": {
-          "id": "90926175910409892",
           "title": "Default",
           "options": [
             "Default"
@@ -18933,34 +18877,6 @@
       },
       "available": true
     },
-    "90926175910400423": {
-      "id": "90926175910400423",
-      "title": "Printed",
-      "handle": "printed-2454",
-      "url": "https://bareeze.com/printed-2454",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2427-mustard-1230926182620.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90926175910400423": {
-          "id": "90926175910400423",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 7284,
-          "compare_at_price": 9711
-        }
-      },
-      "available": true
-    },
     "90926175910384048": {
       "id": "90926175910384048",
       "title": "Printed",
@@ -18985,6 +18901,90 @@
           "available": true,
           "price": 6463,
           "compare_at_price": 8617
+        }
+      },
+      "available": true
+    },
+    "90926175910409892": {
+      "id": "90926175910409892",
+      "title": "Printed",
+      "handle": "printed-2457",
+      "url": "https://bareeze.com/printed-2457",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2436-purple-5230926183357.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90926175910409892": {
+          "id": "90926175910409892",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6463,
+          "compare_at_price": 8617
+        }
+      },
+      "available": true
+    },
+    "90926175910397143": {
+      "id": "90926175910397143",
+      "title": "Printed",
+      "handle": "printed-2453",
+      "url": "https://bareeze.com/printed-2453",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2427-green-1230926182641.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90926175910397143": {
+          "id": "90926175910397143",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 7284,
+          "compare_at_price": 9711
+        }
+      },
+      "available": true
+    },
+    "90926175910400423": {
+      "id": "90926175910400423",
+      "title": "Printed",
+      "handle": "printed-2454",
+      "url": "https://bareeze.com/printed-2454",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2427-mustard-1230926182620.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90926175910400423": {
+          "id": "90926175910400423",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 7284,
+          "compare_at_price": 9711
         }
       },
       "available": true
@@ -19045,34 +19045,6 @@
       },
       "available": true
     },
-    "90926175910354722": {
-      "id": "90926175910354722",
-      "title": "Printed & Embroidered",
-      "handle": "printed-embroidered-177",
-      "url": "https://bareeze.com/printed-embroidered-177",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2419-yellow-5230926182020.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90926175910354722": {
-          "id": "90926175910354722",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 7254,
-          "compare_at_price": 9672
-        }
-      },
-      "available": true
-    },
     "90926175910366831": {
       "id": "90926175910366831",
       "title": "Printed",
@@ -19129,30 +19101,30 @@
       },
       "available": true
     },
-    "90926175910349748": {
-      "id": "90926175910349748",
+    "90926175910354722": {
+      "id": "90926175910354722",
       "title": "Printed & Embroidered",
-      "handle": "printed-embroidered-175",
-      "url": "https://bareeze.com/printed-embroidered-175",
+      "handle": "printed-embroidered-177",
+      "url": "https://bareeze.com/printed-embroidered-177",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2410-yellow-1230926181246.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2419-yellow-5230926182020.jpg"
       ],
       "options": null,
       "variants": {
-        "90926175910349748": {
-          "id": "90926175910349748",
+        "90926175910354722": {
+          "id": "90926175910354722",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 6944,
-          "compare_at_price": 9258
+          "price": 7254,
+          "compare_at_price": 9672
         }
       },
       "available": true
@@ -19237,6 +19209,34 @@
           "available": true,
           "price": 4266,
           "compare_at_price": 5688
+        }
+      },
+      "available": true
+    },
+    "90926175910349748": {
+      "id": "90926175910349748",
+      "title": "Printed & Embroidered",
+      "handle": "printed-embroidered-175",
+      "url": "https://bareeze.com/printed-embroidered-175",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2410-yellow-1230926181246.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90926175910349748": {
+          "id": "90926175910349748",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6944,
+          "compare_at_price": 9258
         }
       },
       "available": true
@@ -19465,6 +19465,34 @@
       },
       "available": true
     },
+    "90926175910334328": {
+      "id": "90926175910334328",
+      "title": "Printed & Embroidered",
+      "handle": "printed-embroidered-169",
+      "url": "https://bareeze.com/printed-embroidered-169",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2116-green-1090926183213.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "90926175910334328": {
+          "id": "90926175910334328",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 7354,
+          "compare_at_price": 9805
+        }
+      },
+      "available": true
+    },
     "90926175910325570": {
       "id": "90926175910325570",
       "title": "Printed & Embroidered",
@@ -19517,34 +19545,6 @@
           "available": true,
           "price": 7441,
           "compare_at_price": 9922
-        }
-      },
-      "available": true
-    },
-    "90926175910334328": {
-      "id": "90926175910334328",
-      "title": "Printed & Embroidered",
-      "handle": "printed-embroidered-169",
-      "url": "https://bareeze.com/printed-embroidered-169",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2116-green-1090926183213.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "90926175910334328": {
-          "id": "90926175910334328",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 7354,
-          "compare_at_price": 9805
         }
       },
       "available": true
@@ -19885,34 +19885,6 @@
       },
       "available": true
     },
-    "270826145420381952": {
-      "id": "270826145420381952",
-      "title": "VICTORIAN GARDEN 01",
-      "handle": "victorian-garden-01-1",
-      "url": "https://bareeze.com/victorian-garden-01-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3098-yellow-1270826181750.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "270826145420381952": {
-          "id": "270826145420381952",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 10892,
-          "compare_at_price": 12813
-        }
-      },
-      "available": true
-    },
     "270826145420392541": {
       "id": "270826145420392541",
       "title": "GLOWING IKAT",
@@ -19937,6 +19909,34 @@
           "available": true,
           "price": 9017,
           "compare_at_price": 10606
+        }
+      },
+      "available": true
+    },
+    "270826145420381952": {
+      "id": "270826145420381952",
+      "title": "VICTORIAN GARDEN 01",
+      "handle": "victorian-garden-01-1",
+      "url": "https://bareeze.com/victorian-garden-01-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3098-yellow-1270826181750.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "270826145420381952": {
+          "id": "270826145420381952",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 10892,
+          "compare_at_price": 12813
         }
       },
       "available": true
@@ -20081,34 +20081,6 @@
       },
       "available": true
     },
-    "270826145420330371": {
-      "id": "270826145420330371",
-      "title": "NAQSH 04",
-      "handle": "naqsh-04-1",
-      "url": "https://bareeze.com/naqsh-04-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3067-o-white-1270826181222.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "270826145420330371": {
-          "id": "270826145420330371",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 12486,
-          "compare_at_price": 14688
-        }
-      },
-      "available": true
-    },
     "270826145420320016": {
       "id": "270826145420320016",
       "title": "FLOWER PECKER",
@@ -20133,6 +20105,34 @@
           "available": true,
           "price": 13582,
           "compare_at_price": 15976
+        }
+      },
+      "available": true
+    },
+    "270826145420330371": {
+      "id": "270826145420330371",
+      "title": "NAQSH 04",
+      "handle": "naqsh-04-1",
+      "url": "https://bareeze.com/naqsh-04-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/bnl3067-o-white-1270826181222.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "270826145420330371": {
+          "id": "270826145420330371",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 12486,
+          "compare_at_price": 14688
         }
       },
       "available": true
@@ -20613,34 +20613,6 @@
       },
       "available": true
     },
-    "180826185447781442": {
-      "id": "180826185447781442",
-      "title": "SWEET BAY",
-      "handle": "sweet-bay",
-      "url": "https://bareeze.com/sweet-bay",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1589-lilac-1180826192244.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "180826185447781442": {
-          "id": "180826185447781442",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 10195,
-          "compare_at_price": 11992
-        }
-      },
-      "available": true
-    },
     "180826185447796386": {
       "id": "180826185447796386",
       "title": "FLAME BOYANT",
@@ -20665,6 +20637,34 @@
           "available": true,
           "price": 12305,
           "compare_at_price": 14473
+        }
+      },
+      "available": true
+    },
+    "180826185447781442": {
+      "id": "180826185447781442",
+      "title": "SWEET BAY",
+      "handle": "sweet-bay",
+      "url": "https://bareeze.com/sweet-bay",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/mc1589-lilac-1180826192244.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "180826185447781442": {
+          "id": "180826185447781442",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 10195,
+          "compare_at_price": 11992
         }
       },
       "available": true
@@ -20837,34 +20837,6 @@
       },
       "available": true
     },
-    "180826185447700649": {
-      "id": "180826185447700649",
-      "title": "ETHNIC SPLASH 02",
-      "handle": "ethnic-splash-02-1",
-      "url": "https://bareeze.com/ethnic-splash-02-1",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5087-d-pink-1180826190417.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "180826185447700649": {
-          "id": "180826185447700649",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6094,
-          "compare_at_price": 7168
-        }
-      },
-      "available": true
-    },
     "180826185447708336": {
       "id": "180826185447708336",
       "title": "PANKHURI",
@@ -20889,6 +20861,34 @@
           "available": true,
           "price": 11406,
           "compare_at_price": 13418
+        }
+      },
+      "available": true
+    },
+    "180826185447700649": {
+      "id": "180826185447700649",
+      "title": "ETHNIC SPLASH 02",
+      "handle": "ethnic-splash-02-1",
+      "url": "https://bareeze.com/ethnic-splash-02-1",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/ch5087-d-pink-1180826190417.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "180826185447700649": {
+          "id": "180826185447700649",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6094,
+          "compare_at_price": 7168
         }
       },
       "available": true
@@ -21089,62 +21089,6 @@
       },
       "available": true
     },
-    "180826185116622526": {
-      "id": "180826185116622526",
-      "title": "Printed",
-      "handle": "printed-2420",
-      "url": "https://bareeze.com/printed-2420",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2377-blue-1180826193148.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "180826185116622526": {
-          "id": "180826185116622526",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 4307,
-          "compare_at_price": 5742
-        }
-      },
-      "available": true
-    },
-    "180826185116644672": {
-      "id": "180826185116644672",
-      "title": "Printed",
-      "handle": "printed-2428",
-      "url": "https://bareeze.com/printed-2428",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2414-green-1180826193759.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "180826185116644672": {
-          "id": "180826185116644672",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 4424,
-          "compare_at_price": 5898
-        }
-      },
-      "available": true
-    },
     "180826185116628632": {
       "id": "180826185116628632",
       "title": "Printed",
@@ -21173,6 +21117,34 @@
       },
       "available": true
     },
+    "180826185116622526": {
+      "id": "180826185116622526",
+      "title": "Printed",
+      "handle": "printed-2420",
+      "url": "https://bareeze.com/printed-2420",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2377-blue-1180826193148.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "180826185116622526": {
+          "id": "180826185116622526",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 4307,
+          "compare_at_price": 5742
+        }
+      },
+      "available": true
+    },
     "180826185116633985": {
       "id": "180826185116633985",
       "title": "Printed",
@@ -21189,6 +21161,34 @@
       "variants": {
         "180826185116633985": {
           "id": "180826185116633985",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 4424,
+          "compare_at_price": 5898
+        }
+      },
+      "available": true
+    },
+    "180826185116644672": {
+      "id": "180826185116644672",
+      "title": "Printed",
+      "handle": "printed-2428",
+      "url": "https://bareeze.com/printed-2428",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2414-green-1180826193759.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "180826185116644672": {
+          "id": "180826185116644672",
           "title": "Default",
           "options": [
             "Default"
@@ -21341,34 +21341,6 @@
       },
       "available": true
     },
-    "180826185116605962": {
-      "id": "180826185116605962",
-      "title": "Printed & Embroidered",
-      "handle": "printed-embroidered-159",
-      "url": "https://bareeze.com/printed-embroidered-159",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2380-green-1180826193211.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "180826185116605962": {
-          "id": "180826185116605962",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 5379,
-          "compare_at_price": 7172
-        }
-      },
-      "available": true
-    },
     "180826185116612766": {
       "id": "180826185116612766",
       "title": "Printed & Embroidered",
@@ -21393,6 +21365,34 @@
           "available": true,
           "price": 7588,
           "compare_at_price": 10117
+        }
+      },
+      "available": true
+    },
+    "180826185116605962": {
+      "id": "180826185116605962",
+      "title": "Printed & Embroidered",
+      "handle": "printed-embroidered-159",
+      "url": "https://bareeze.com/printed-embroidered-159",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2380-green-1180826193211.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "180826185116605962": {
+          "id": "180826185116605962",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 5379,
+          "compare_at_price": 7172
         }
       },
       "available": true
@@ -21425,6 +21425,34 @@
       },
       "available": true
     },
+    "180826185116619866": {
+      "id": "180826185116619866",
+      "title": "Printed",
+      "handle": "printed-2419",
+      "url": "https://bareeze.com/printed-2419",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2374-dblue-1180826193007.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "180826185116619866": {
+          "id": "180826185116619866",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 3750,
+          "compare_at_price": 5000
+        }
+      },
+      "available": true
+    },
     "180826185116614925": {
       "id": "180826185116614925",
       "title": "Printed & Embroidered",
@@ -21453,30 +21481,30 @@
       },
       "available": true
     },
-    "180826185116619866": {
-      "id": "180826185116619866",
-      "title": "Printed",
-      "handle": "printed-2419",
-      "url": "https://bareeze.com/printed-2419",
+    "180826185116608132": {
+      "id": "180826185116608132",
+      "title": "Printed & Embroidered",
+      "handle": "printed-embroidered-160",
+      "url": "https://bareeze.com/printed-embroidered-160",
       "vendor": null,
       "type": null,
       "description": null,
       "tags": [],
       "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2374-dblue-1180826193007.jpg"
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2386-black-1180826193237.jpg"
       ],
       "options": null,
       "variants": {
-        "180826185116619866": {
-          "id": "180826185116619866",
+        "180826185116608132": {
+          "id": "180826185116608132",
           "title": "Default",
           "options": [
             "Default"
           ],
           "sku": null,
           "available": true,
-          "price": 3750,
-          "compare_at_price": 5000
+          "price": 8045,
+          "compare_at_price": 10727
         }
       },
       "available": true
@@ -21533,34 +21561,6 @@
           "available": true,
           "price": 6270,
           "compare_at_price": 8359
-        }
-      },
-      "available": true
-    },
-    "180826185116608132": {
-      "id": "180826185116608132",
-      "title": "Printed & Embroidered",
-      "handle": "printed-embroidered-160",
-      "url": "https://bareeze.com/printed-embroidered-160",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2386-black-1180826193237.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "180826185116608132": {
-          "id": "180826185116608132",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 8045,
-          "compare_at_price": 10727
         }
       },
       "available": true
@@ -21761,34 +21761,6 @@
       },
       "available": true
     },
-    "300726145926152702": {
-      "id": "300726145926152702",
-      "title": "Printed",
-      "handle": "printed-2411",
-      "url": "https://bareeze.com/printed-2411",
-      "vendor": null,
-      "type": null,
-      "description": null,
-      "tags": [],
-      "images": [
-        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2213-green310726183815.jpg"
-      ],
-      "options": null,
-      "variants": {
-        "300726145926152702": {
-          "id": "300726145926152702",
-          "title": "Default",
-          "options": [
-            "Default"
-          ],
-          "sku": null,
-          "available": true,
-          "price": 6169,
-          "compare_at_price": 8812
-        }
-      },
-      "available": true
-    },
     "300726145926161059": {
       "id": "300726145926161059",
       "title": "Printed",
@@ -21813,6 +21785,34 @@
           "available": true,
           "price": 4020,
           "compare_at_price": 5742
+        }
+      },
+      "available": true
+    },
+    "300726145926152702": {
+      "id": "300726145926152702",
+      "title": "Printed",
+      "handle": "printed-2411",
+      "url": "https://bareeze.com/printed-2411",
+      "vendor": null,
+      "type": null,
+      "description": null,
+      "tags": [],
+      "images": [
+        "https://cdn-live.bareeze.com/bareeze/products/product_images/pr2213-green310726183815.jpg"
+      ],
+      "options": null,
+      "variants": {
+        "300726145926152702": {
+          "id": "300726145926152702",
+          "title": "Default",
+          "options": [
+            "Default"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 6169,
+          "compare_at_price": 8812
         }
       },
       "available": true
