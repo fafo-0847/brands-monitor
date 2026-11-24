@@ -3,7 +3,7 @@
   "source": "https://diners.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T01:33:13.005848+00:00",
+  "checked_at": "2026-11-24T11:39:32.449144+00:00",
   "products": {
     "8793133187368": {
       "id": "8793133187368",
@@ -48,12 +48,12 @@
             "Default Title"
           ],
           "sku": "wu10594-beige",
-          "available": true,
+          "available": false,
           "price": 84500,
           "compare_at_price": 169000
         }
       },
-      "available": true
+      "available": false
     },
     "8812700270888": {
       "id": "8812700270888",
@@ -1129,7 +1129,7 @@
             "10-11Y"
           ],
           "sku": "KGI-0075-GREEN",
-          "available": false,
+          "available": true,
           "price": 174500,
           "compare_at_price": 349000
         },
@@ -1156,7 +1156,7 @@
           "compare_at_price": 349000
         }
       },
-      "available": false
+      "available": true
     },
     "8793906250024": {
       "id": "8793906250024",
@@ -6373,12 +6373,12 @@
             "3XL"
           ],
           "sku": "FAS017-L-BLUE",
-          "available": true,
+          "available": false,
           "price": 153500,
           "compare_at_price": 307000
         }
       },
-      "available": true
+      "available": false
     },
     "9847505617192": {
       "id": "9847505617192",
@@ -26005,7 +26005,7 @@
             "41"
           ],
           "sku": "SMC-0192-BLACK",
-          "available": true,
+          "available": false,
           "price": 599400,
           "compare_at_price": 999000
         },
@@ -26054,7 +26054,7 @@
           "compare_at_price": 999000
         }
       },
-      "available": true
+      "available": false
     },
     "8986198049064": {
       "id": "8986198049064",
@@ -26118,7 +26118,7 @@
             "41"
           ],
           "sku": "PSLD-0086-BLACK",
-          "available": true,
+          "available": false,
           "price": 199000,
           "compare_at_price": 599000
         },
@@ -26167,7 +26167,7 @@
           "compare_at_price": 599000
         }
       },
-      "available": true
+      "available": false
     },
     "8986198081832": {
       "id": "8986198081832",
@@ -29345,7 +29345,7 @@
             "44"
           ],
           "sku": "SMC-0160-BLACK",
-          "available": true,
+          "available": false,
           "price": 349000,
           "compare_at_price": 699000
         },
@@ -63354,7 +63354,7 @@
             "32"
           ],
           "sku": "BD3128-BLACK",
-          "available": true,
+          "available": false,
           "price": 411750,
           "compare_at_price": 549000
         },
@@ -95977,160 +95977,6 @@
         }
       },
       "available": true
-    },
-    "15486215291176": {
-      "id": "15486215291176",
-      "title": "Blue Self Textured Formal Autograph Shirt",
-      "handle": "ah42109-blue",
-      "url": "https://diners.com.pk/products/ah42109-blue",
-      "vendor": "D Man",
-      "type": "Shirts",
-      "description": "<p>Modern elegance meets timeless style with Diners’ Formal Autograph – Modern Fit. Designed for the gentleman who prefers a sharp and contemporary look. Pair it with formal trousers for office wear, business meetings, or evening gatherings and stay confident all day.</p>\n<ul>\n<li>Shirt Type: Formal Autograph</li>\n<li>Fit: Modern Fit</li>\n<li>Color: Blue</li>\n<li>Sleeves: Long Sleeves With Adjustable Button Round Cuffs</li>\n<li>Collar Type: Classic</li>\n<li>Fabric: Platinum Cotton</li>\n<li>Pattern: Self</li>\n<li>Country Origin: Pakistan</li>\n</ul>",
-      "tags": [
-        "30",
-        "FLAT 30%",
-        "Formal",
-        "Full Sleeve",
-        "autograph",
-        "black & white",
-        "blue",
-        "d-man",
-        "formal-shirts",
-        "men-all",
-        "menwesternall",
-        "new",
-        "shirts",
-        "size-15-5",
-        "size-16",
-        "size-17",
-        "slf shirt",
-        "under-2999"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42109-Blue-01.webp?v=1794987887",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42109-Blue-02.webp?v=1794987887",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42109-Blue-03.webp?v=1794987887",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42109-Blue-04.webp?v=1794987887"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "14.5",
-            "15",
-            "15.5",
-            "16",
-            "16.5",
-            "17",
-            "17.5",
-            "18",
-            "18.5"
-          ]
-        }
-      ],
-      "variants": {
-        "68179898433832": {
-          "id": "68179898433832",
-          "title": "14.5",
-          "options": [
-            "14.5"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898466600": {
-          "id": "68179898466600",
-          "title": "15",
-          "options": [
-            "15"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898499368": {
-          "id": "68179898499368",
-          "title": "15.5",
-          "options": [
-            "15.5"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898532136": {
-          "id": "68179898532136",
-          "title": "16",
-          "options": [
-            "16"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898564904": {
-          "id": "68179898564904",
-          "title": "16.5",
-          "options": [
-            "16.5"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898597672": {
-          "id": "68179898597672",
-          "title": "17",
-          "options": [
-            "17"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898630440": {
-          "id": "68179898630440",
-          "title": "17.5",
-          "options": [
-            "17.5"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898663208": {
-          "id": "68179898663208",
-          "title": "18",
-          "options": [
-            "18"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898695976": {
-          "id": "68179898695976",
-          "title": "18.5",
-          "options": [
-            "18.5"
-          ],
-          "sku": "AH42109-BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        }
-      },
-      "available": false
     },
     "9583981592872": {
       "id": "9583981592872",
@@ -129289,7 +129135,7 @@
             "43"
           ],
           "sku": "SMF-0446-BROWN",
-          "available": true,
+          "available": false,
           "price": 349000,
           "compare_at_price": 949000
         },
@@ -129316,7 +129162,7 @@
           "compare_at_price": 949000
         }
       },
-      "available": true
+      "available": false
     },
     "8986198802728": {
       "id": "8986198802728",
@@ -147503,7 +147349,7 @@
             "S"
           ],
           "sku": "EG3705-BROWN",
-          "available": false,
+          "available": true,
           "price": 561750,
           "compare_at_price": 749000
         },
@@ -147514,7 +147360,7 @@
             "M"
           ],
           "sku": "EG3705-BROWN",
-          "available": false,
+          "available": true,
           "price": 561750,
           "compare_at_price": 749000
         },
@@ -147525,7 +147371,7 @@
             "L"
           ],
           "sku": "EG3705-BROWN",
-          "available": false,
+          "available": true,
           "price": 561750,
           "compare_at_price": 749000
         },
@@ -148724,7 +148570,7 @@
             "M"
           ],
           "sku": "EG3710-BROWN",
-          "available": false,
+          "available": true,
           "price": 509400,
           "compare_at_price": 849000
         },
@@ -148735,7 +148581,7 @@
             "L"
           ],
           "sku": "EG3710-BROWN",
-          "available": false,
+          "available": true,
           "price": 509400,
           "compare_at_price": 849000
         },
@@ -148746,7 +148592,7 @@
             "XL"
           ],
           "sku": "EG3710-BROWN",
-          "available": false,
+          "available": true,
           "price": 509400,
           "compare_at_price": 849000
         }
@@ -157117,12 +156963,12 @@
             "Default Title"
           ],
           "sku": "SL1042-N-BLUE",
-          "available": false,
+          "available": true,
           "price": 349500,
           "compare_at_price": 699000
         }
       },
-      "available": false
+      "available": true
     },
     "8295488651560": {
       "id": "8295488651560",
@@ -164881,7 +164727,7 @@
             "L"
           ],
           "sku": "ETKSW0002-CHARCOAL",
-          "available": false,
+          "available": true,
           "price": 1199250,
           "compare_at_price": 1599000
         },
@@ -164897,7 +164743,7 @@
           "compare_at_price": 1599000
         }
       },
-      "available": false
+      "available": true
     },
     "10430393680168": {
       "id": "10430393680168",
@@ -174569,7 +174415,7 @@
             "XL"
           ],
           "sku": "FASW012-CORAL",
-          "available": true,
+          "available": false,
           "price": 199500,
           "compare_at_price": 399000
         },
@@ -174580,12 +174426,12 @@
             "XXL"
           ],
           "sku": "FASW012-CORAL",
-          "available": true,
+          "available": false,
           "price": 199500,
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "9725893378344": {
       "id": "9725893378344",
@@ -195633,7 +195479,7 @@
             "L"
           ],
           "sku": "GA4077-D-BLUE",
-          "available": true,
+          "available": false,
           "price": 419400,
           "compare_at_price": 699000
         },
@@ -195671,7 +195517,7 @@
           "compare_at_price": 699000
         }
       },
-      "available": true
+      "available": false
     },
     "10323923173672": {
       "id": "10323923173672",
@@ -200367,12 +200213,12 @@
             "40"
           ],
           "sku": "BA3103-D-BROWN",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 429000
         }
       },
-      "available": true
+      "available": false
     },
     "9472790659368": {
       "id": "9472790659368",
@@ -205832,7 +205678,7 @@
             "XL"
           ],
           "sku": "GA-4108-D-FAWN",
-          "available": false,
+          "available": true,
           "price": 799000,
           "compare_at_price": null
         },
@@ -215202,7 +215048,7 @@
             "32"
           ],
           "sku": "BA3439-D-GREY",
-          "available": true,
+          "available": false,
           "price": 449250,
           "compare_at_price": 599000
         },
@@ -224204,7 +224050,7 @@
             "42"
           ],
           "sku": "BD3120-D-KHAKI",
-          "available": false,
+          "available": true,
           "price": 314250,
           "compare_at_price": 419000
         }
@@ -228452,12 +228298,12 @@
             "XXXL"
           ],
           "sku": "GA4038-D-PURPLE",
-          "available": true,
+          "available": false,
           "price": 479400,
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "9655761633576": {
       "id": "9655761633576",
@@ -233804,7 +233650,7 @@
             "M"
           ],
           "sku": "WKL2232-2PC-OLIVE",
-          "available": true,
+          "available": false,
           "price": 411750,
           "compare_at_price": 549000
         },
@@ -239026,7 +238872,7 @@
             "7Y"
           ],
           "sku": "KGKK-1497-2PC-PINK",
-          "available": false,
+          "available": true,
           "price": 215400,
           "compare_at_price": 359000
         },
@@ -243668,7 +243514,7 @@
             "M"
           ],
           "sku": "WK20821-BLUE",
-          "available": false,
+          "available": true,
           "price": 317400,
           "compare_at_price": 529000
         },
@@ -243695,7 +243541,7 @@
           "compare_at_price": 529000
         }
       },
-      "available": false
+      "available": true
     },
     "9543243759912": {
       "id": "9543243759912",
@@ -251242,7 +251088,7 @@
             "M"
           ],
           "sku": "WKL2120-2PC-PINK",
-          "available": true,
+          "available": false,
           "price": 569400,
           "compare_at_price": 949000
         },
@@ -251269,7 +251115,7 @@
           "compare_at_price": 949000
         }
       },
-      "available": true
+      "available": false
     },
     "10323811729704": {
       "id": "10323811729704",
@@ -254427,7 +254273,7 @@
             "L"
           ],
           "sku": "WK30268-PINK",
-          "available": true,
+          "available": false,
           "price": 534500,
           "compare_at_price": 1069000
         },
@@ -254443,7 +254289,7 @@
           "compare_at_price": 1069000
         }
       },
-      "available": true
+      "available": false
     },
     "9653765701928": {
       "id": "9653765701928",
@@ -272509,7 +272355,7 @@
             "XL"
           ],
           "sku": "WKL1911-2PC-BROWN",
-          "available": true,
+          "available": false,
           "price": 516750,
           "compare_at_price": 689000
         }
@@ -275695,12 +275541,12 @@
             "Default Title"
           ],
           "sku": "WSH0148-L-BROWN",
-          "available": true,
+          "available": false,
           "price": 599250,
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "10100090667304": {
       "id": "10100090667304",
@@ -279803,7 +279649,7 @@
             "18Y"
           ],
           "sku": "WTK200-2PC-BLUE",
-          "available": true,
+          "available": false,
           "price": 389400,
           "compare_at_price": 649000
         }
@@ -283204,12 +283050,12 @@
             "Default Title"
           ],
           "sku": "WU32687-MAROON",
-          "available": false,
+          "available": true,
           "price": 1399000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "15507548832040": {
       "id": "15507548832040",
@@ -283253,12 +283099,12 @@
             "Default Title"
           ],
           "sku": "WU32688-Teal Green",
-          "available": false,
+          "available": true,
           "price": 1399000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "10137499894056": {
       "id": "10137499894056",
@@ -286607,7 +286453,7 @@
             "3XL-56"
           ],
           "sku": "DA1310-FAWN",
-          "available": false,
+          "available": true,
           "price": 3499000,
           "compare_at_price": null
         },
@@ -302596,7 +302442,7 @@
             "XL"
           ],
           "sku": "OA1606-OLIVE",
-          "available": true,
+          "available": false,
           "price": 749250,
           "compare_at_price": 999000
         },
@@ -302623,7 +302469,7 @@
           "compare_at_price": 999000
         }
       },
-      "available": true
+      "available": false
     },
     "9490795102504": {
       "id": "9490795102504",
@@ -302700,7 +302546,7 @@
             "4-5Y"
           ],
           "sku": "KGP-0110-MUSTARD",
-          "available": true,
+          "available": false,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -324533,7 +324379,7 @@
             "S"
           ],
           "sku": "EGW0034-GREEN",
-          "available": true,
+          "available": false,
           "price": 1124250,
           "compare_at_price": 1499000
         },
@@ -326823,7 +326669,7 @@
             "M"
           ],
           "sku": "GA4054-GREEN",
-          "available": false,
+          "available": true,
           "price": 395400,
           "compare_at_price": 659000
         },
@@ -326872,7 +326718,7 @@
           "compare_at_price": 659000
         }
       },
-      "available": false
+      "available": true
     },
     "9660614115624": {
       "id": "9660614115624",
@@ -349185,12 +349031,12 @@
             "XXXL"
           ],
           "sku": "FASW043-H-GREY",
-          "available": true,
+          "available": false,
           "price": 199500,
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "10289736614184": {
       "id": "10289736614184",
@@ -354660,7 +354506,7 @@
             "L"
           ],
           "sku": "WKL1297-Cream",
-          "available": true,
+          "available": false,
           "price": 143000,
           "compare_at_price": 286000
         },
@@ -354687,7 +354533,7 @@
           "compare_at_price": 286000
         }
       },
-      "available": true
+      "available": false
     },
     "9458536415528": {
       "id": "9458536415528",
@@ -368856,7 +368702,7 @@
             "39"
           ],
           "sku": "LSL-0009-Silver",
-          "available": true,
+          "available": false,
           "price": 129000,
           "compare_at_price": 358000
         },
@@ -368894,7 +368740,7 @@
           "compare_at_price": 358000
         }
       },
-      "available": true
+      "available": false
     },
     "8295467188520": {
       "id": "8295467188520",
@@ -390669,7 +390515,7 @@
             "12M"
           ],
           "sku": "DIKS-3290-L-GREY",
-          "available": true,
+          "available": false,
           "price": 169000,
           "compare_at_price": 229000
         },
@@ -390685,7 +390531,7 @@
           "compare_at_price": 229000
         }
       },
-      "available": true
+      "available": false
     },
     "9538523595048": {
       "id": "9538523595048",
@@ -395080,7 +394926,7 @@
             "M"
           ],
           "sku": "GA0005-L-GREY",
-          "available": false,
+          "available": true,
           "price": 649000,
           "compare_at_price": null
         },
@@ -402312,7 +402158,7 @@
             "XXL"
           ],
           "sku": "OA1700-BROWN",
-          "available": true,
+          "available": false,
           "price": 999000,
           "compare_at_price": null
         },
@@ -403217,7 +403063,7 @@
             "L"
           ],
           "sku": "FA963-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 199500,
           "compare_at_price": 399000
         },
@@ -403255,7 +403101,7 @@
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "8295593935144": {
       "id": "8295593935144",
@@ -411779,7 +411625,7 @@
             "L"
           ],
           "sku": "EGW0047-MAROON",
-          "available": false,
+          "available": true,
           "price": 1499250,
           "compare_at_price": 1999000
         },
@@ -413911,7 +413757,7 @@
             "M"
           ],
           "sku": "GA3973-MAROON",
-          "available": true,
+          "available": false,
           "price": 279500,
           "compare_at_price": 559000
         },
@@ -413960,7 +413806,7 @@
           "compare_at_price": 559000
         }
       },
-      "available": true
+      "available": false
     },
     "9400016011560": {
       "id": "9400016011560",
@@ -414447,7 +414293,7 @@
             "M"
           ],
           "sku": "GA4056-MAROON",
-          "available": false,
+          "available": true,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -414496,7 +414342,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "10372609245480": {
       "id": "10372609245480",
@@ -414900,12 +414746,12 @@
             "Default Title"
           ],
           "sku": "US0437-MAROON",
-          "available": true,
+          "available": false,
           "price": 499000,
           "compare_at_price": 549000
         }
       },
-      "available": true
+      "available": false
     },
     "10162622005544": {
       "id": "10162622005544",
@@ -438611,7 +438457,7 @@
             "LRG"
           ],
           "sku": "HO1601-FAWN",
-          "available": true,
+          "available": false,
           "price": 974250,
           "compare_at_price": 1299000
         },
@@ -438649,7 +438495,7 @@
           "compare_at_price": 1299000
         }
       },
-      "available": true
+      "available": false
     },
     "10131989758248": {
       "id": "10131989758248",
@@ -443152,7 +442998,7 @@
             "XL"
           ],
           "sku": "OA1605-NAVY",
-          "available": true,
+          "available": false,
           "price": 749250,
           "compare_at_price": 999000
         },
@@ -443179,7 +443025,7 @@
           "compare_at_price": 999000
         }
       },
-      "available": true
+      "available": false
     },
     "10021430919464": {
       "id": "10021430919464",
@@ -445466,7 +445312,7 @@
             "S"
           ],
           "sku": "FAPW024-OLIVE",
-          "available": true,
+          "available": false,
           "price": 449250,
           "compare_at_price": 599000
         },
@@ -449912,7 +449758,7 @@
             "2XL-54"
           ],
           "sku": "CA4079-COFFEE",
-          "available": true,
+          "available": false,
           "price": 2499000,
           "compare_at_price": null
         },
@@ -449934,7 +449780,7 @@
             "4XL-58"
           ],
           "sku": "CA4079-COFFEE",
-          "available": true,
+          "available": false,
           "price": 2499000,
           "compare_at_price": null
         },
@@ -452310,12 +452156,12 @@
             "Default Title"
           ],
           "sku": "US0494-GREEN",
-          "available": true,
+          "available": false,
           "price": 499000,
           "compare_at_price": 599000
         }
       },
-      "available": true
+      "available": false
     },
     "10355432587560": {
       "id": "10355432587560",
@@ -469531,160 +469377,6 @@
       },
       "available": true
     },
-    "15486215094568": {
-      "id": "15486215094568",
-      "title": "Multicolor Tattersall Check Formal Autograph Shirt",
-      "handle": "ah42103-multi",
-      "url": "https://diners.com.pk/products/ah42103-multi",
-      "vendor": "D Man",
-      "type": "Shirts",
-      "description": "<p>Modern elegance meets timeless style with Diners’ Formal Autograph – Modern Fit. Designed for the gentleman who prefers a sharp and contemporary look. Pair it with formal trousers for office wear, business meetings, or evening gatherings and stay confident all day.</p>\n<ul>\n<li>Shirt Type: Formal Autograph</li>\n<li>Fit: Modern Fit</li>\n<li>Color: Multicolor</li>\n<li>Sleeves: Long Sleeves With Adjustable Button Round Cuffs</li>\n<li>Collar Type: Classic</li>\n<li>Fabric: Platinum Cotton</li>\n<li>Pattern: Check</li>\n<li>Country Origin: Pakistan</li>\n</ul>",
-      "tags": [
-        "30",
-        "FLAT 30%",
-        "Formal",
-        "Full Sleeve",
-        "autograph",
-        "black & white",
-        "chk shirt",
-        "d-man",
-        "formal-shirts",
-        "men-all",
-        "menwesternall",
-        "multi",
-        "new",
-        "shirts",
-        "size-15-5",
-        "size-16",
-        "size-17",
-        "under-2999"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42103-Multi-01.webp?v=1794986808",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42103-Multi-02.webp?v=1794986808",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42103-Multi-03.webp?v=1794986808",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42103-Multi-04.webp?v=1794986808"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "14.5",
-            "15",
-            "15.5",
-            "16",
-            "16.5",
-            "17",
-            "17.5",
-            "18",
-            "18.5"
-          ]
-        }
-      ],
-      "variants": {
-        "68179897712936": {
-          "id": "68179897712936",
-          "title": "14.5",
-          "options": [
-            "14.5"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179897745704": {
-          "id": "68179897745704",
-          "title": "15",
-          "options": [
-            "15"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179897778472": {
-          "id": "68179897778472",
-          "title": "15.5",
-          "options": [
-            "15.5"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179897811240": {
-          "id": "68179897811240",
-          "title": "16",
-          "options": [
-            "16"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179897844008": {
-          "id": "68179897844008",
-          "title": "16.5",
-          "options": [
-            "16.5"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179897876776": {
-          "id": "68179897876776",
-          "title": "17",
-          "options": [
-            "17"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179897909544": {
-          "id": "68179897909544",
-          "title": "17.5",
-          "options": [
-            "17.5"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179897942312": {
-          "id": "68179897942312",
-          "title": "18",
-          "options": [
-            "18"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179897975080": {
-          "id": "68179897975080",
-          "title": "18.5",
-          "options": [
-            "18.5"
-          ],
-          "sku": "AH42103-MULTI",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        }
-      },
-      "available": false
-    },
     "10265134465320": {
       "id": "10265134465320",
       "title": "Multicolor Tattersall Check Formal Shirt",
@@ -472523,7 +472215,7 @@
             "12Y"
           ],
           "sku": "WTK2025-MUSTARD",
-          "available": true,
+          "available": false,
           "price": 374500,
           "compare_at_price": 749000
         },
@@ -472561,7 +472253,7 @@
           "compare_at_price": 749000
         }
       },
-      "available": true
+      "available": false
     },
     "10131989561640": {
       "id": "10131989561640",
@@ -474469,7 +474161,7 @@
             "3-4Y"
           ],
           "sku": "KBP-0147-LIME GREEN",
-          "available": true,
+          "available": false,
           "price": 134500,
           "compare_at_price": 269000
         },
@@ -515230,12 +514922,12 @@
             "Default Title"
           ],
           "sku": "US0476-OFFWHITE",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "10157836140840": {
       "id": "10157836140840",
@@ -515613,12 +515305,12 @@
             "Default Title"
           ],
           "sku": "US0530-OFFWHITE",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "10355432784168": {
       "id": "10355432784168",
@@ -532631,7 +532323,7 @@
             "38"
           ],
           "sku": "LSL-0042-PEACH",
-          "available": true,
+          "available": false,
           "price": 137400,
           "compare_at_price": 229000
         },
@@ -532680,7 +532372,7 @@
           "compare_at_price": 229000
         }
       },
-      "available": true
+      "available": false
     },
     "10286467547432": {
       "id": "10286467547432",
@@ -539616,7 +539308,7 @@
             "16"
           ],
           "sku": "AB41401-PINK",
-          "available": true,
+          "available": false,
           "price": 339000,
           "compare_at_price": null
         },
@@ -546755,7 +546447,7 @@
             "M"
           ],
           "sku": "FAS029-BLACK",
-          "available": true,
+          "available": false,
           "price": 189500,
           "compare_at_price": 379000
         },
@@ -546766,7 +546458,7 @@
             "L"
           ],
           "sku": "FAS029-BLACK",
-          "available": true,
+          "available": false,
           "price": 189500,
           "compare_at_price": 379000
         },
@@ -546804,7 +546496,7 @@
           "compare_at_price": 379000
         }
       },
-      "available": true
+      "available": false
     },
     "8295534297384": {
       "id": "8295534297384",
@@ -551507,7 +551199,7 @@
             "6Y"
           ],
           "sku": "KGKK-1122-ORANGE",
-          "available": false,
+          "available": true,
           "price": 227400,
           "compare_at_price": 379000
         },
@@ -583701,12 +583393,12 @@
             "Default Title"
           ],
           "sku": "WU32032-CREAM",
-          "available": true,
+          "available": false,
           "price": 239400,
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "10139221492008": {
       "id": "10139221492008",
@@ -588714,7 +588406,7 @@
             "14Y"
           ],
           "sku": "WTK2067-ORANGE",
-          "available": true,
+          "available": false,
           "price": 257400,
           "compare_at_price": 429000
         },
@@ -597671,12 +597363,12 @@
             "Default Title"
           ],
           "sku": "WU32174-BLACK",
-          "available": false,
+          "available": true,
           "price": 279000,
           "compare_at_price": 349000
         }
       },
-      "available": false
+      "available": true
     },
     "10383382937896": {
       "id": "10383382937896",
@@ -606960,7 +606652,7 @@
             "16.5"
           ],
           "sku": "AH38656-PURPLE",
-          "available": true,
+          "available": false,
           "price": 499000,
           "compare_at_price": 599000
         },
@@ -607304,7 +606996,7 @@
             "L"
           ],
           "sku": "GA3275-PURPLE",
-          "available": true,
+          "available": false,
           "price": 199000,
           "compare_at_price": 457000
         },
@@ -607320,7 +607012,7 @@
           "compare_at_price": 457000
         }
       },
-      "available": true
+      "available": false
     },
     "9323814289704": {
       "id": "9323814289704",
@@ -609671,7 +609363,7 @@
             "16Y"
           ],
           "sku": "WTK2057-RED",
-          "available": true,
+          "available": false,
           "price": 299400,
           "compare_at_price": 499000
         },
@@ -609687,7 +609379,7 @@
           "compare_at_price": 499000
         }
       },
-      "available": true
+      "available": false
     },
     "10158927872296": {
       "id": "10158927872296",
@@ -622663,7 +622355,7 @@
             "L"
           ],
           "sku": "AG40047-RUST",
-          "available": false,
+          "available": true,
           "price": 349000,
           "compare_at_price": 399000
         },
@@ -626359,7 +626051,7 @@
             "S"
           ],
           "sku": "WK30271-S-GREEN",
-          "available": false,
+          "available": true,
           "price": 959400,
           "compare_at_price": 1599000
         },
@@ -626397,7 +626089,7 @@
           "compare_at_price": 1599000
         }
       },
-      "available": false
+      "available": true
     },
     "8749655753000": {
       "id": "8749655753000",
@@ -636360,160 +636052,6 @@
         }
       },
       "available": true
-    },
-    "15486215225640": {
-      "id": "15486215225640",
-      "title": "Sky Blue Self Formal Autograph Shirt",
-      "handle": "ah42107-sky-blue",
-      "url": "https://diners.com.pk/products/ah42107-sky-blue",
-      "vendor": "D Man",
-      "type": "Shirts",
-      "description": "<p>Modern elegance meets timeless style with Diners’ Formal Autograph – Modern Fit. Designed for the gentleman who prefers a sharp and contemporary look. Pair it with formal trousers for office wear, business meetings, or evening gatherings and stay confident all day.</p>\n<ul>\n<li>Shirt Type: Formal Autograph</li>\n<li>Fit: Modern Fit</li>\n<li>Color: Sky Blue</li>\n<li>Sleeves: Long Sleeves With Adjustable Button Round Cuffs</li>\n<li>Collar Type: Classic</li>\n<li>Fabric: Platinum Cotton</li>\n<li>Pattern: Self</li>\n<li>Country Origin: Pakistan</li>\n</ul>",
-      "tags": [
-        "30",
-        "FLAT 30%",
-        "Formal",
-        "Full Sleeve",
-        "autograph",
-        "black & white",
-        "d-man",
-        "formal-shirts",
-        "men-all",
-        "menwesternall",
-        "new",
-        "shirts",
-        "size-15-5",
-        "size-16",
-        "size-17",
-        "sky blue",
-        "slf shirt",
-        "under-2999"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42107-SkyBlue-01.webp?v=1794987216",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42107-SkyBlue-02.webp?v=1794987215",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42107-SkyBlue-03.webp?v=1794987215",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/AH42107-SkyBlue-04.webp?v=1794987216"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "14.5",
-            "15",
-            "15.5",
-            "16",
-            "16.5",
-            "17",
-            "17.5",
-            "18",
-            "18.5"
-          ]
-        }
-      ],
-      "variants": {
-        "68179898106152": {
-          "id": "68179898106152",
-          "title": "14.5",
-          "options": [
-            "14.5"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898138920": {
-          "id": "68179898138920",
-          "title": "15",
-          "options": [
-            "15"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898171688": {
-          "id": "68179898171688",
-          "title": "15.5",
-          "options": [
-            "15.5"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898204456": {
-          "id": "68179898204456",
-          "title": "16",
-          "options": [
-            "16"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898237224": {
-          "id": "68179898237224",
-          "title": "16.5",
-          "options": [
-            "16.5"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898269992": {
-          "id": "68179898269992",
-          "title": "17",
-          "options": [
-            "17"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898302760": {
-          "id": "68179898302760",
-          "title": "17.5",
-          "options": [
-            "17.5"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898335528": {
-          "id": "68179898335528",
-          "title": "18",
-          "options": [
-            "18"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        },
-        "68179898368296": {
-          "id": "68179898368296",
-          "title": "18.5",
-          "options": [
-            "18.5"
-          ],
-          "sku": "AH42107-SKY BLUE",
-          "available": false,
-          "price": 599000,
-          "compare_at_price": null
-        }
-      },
-      "available": false
     },
     "9875222495528": {
       "id": "9875222495528",
@@ -693145,7 +692683,7 @@
             "15.5"
           ],
           "sku": "AH42097-WHITE",
-          "available": false,
+          "available": true,
           "price": 599000,
           "compare_at_price": null
         },
@@ -693216,7 +692754,7 @@
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "15486215029032": {
       "id": "15486215029032",
@@ -693298,7 +692836,7 @@
             "15.5"
           ],
           "sku": "AH42099-WHITE",
-          "available": false,
+          "available": true,
           "price": 599000,
           "compare_at_price": null
         },
@@ -693369,7 +692907,7 @@
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "9870457930024": {
       "id": "9870457930024",
