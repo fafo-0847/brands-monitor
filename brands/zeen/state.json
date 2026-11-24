@@ -3,7 +3,7 @@
   "source": "https://zeenwoman.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T11:08:29.000060+00:00",
+  "checked_at": "2026-11-24T23:20:38.643866+00:00",
   "products": {
     "8213933293708": {
       "id": "8213933293708",
@@ -60300,7 +60300,7 @@
             "XS (8)"
           ],
           "sku": "WWT16124",
-          "available": true,
+          "available": false,
           "price": 499000,
           "compare_at_price": 499000
         },
@@ -60865,7 +60865,7 @@
             "M (12)"
           ],
           "sku": "WFP26-04",
-          "available": true,
+          "available": false,
           "price": 599000,
           "compare_at_price": 599000
         },
@@ -63105,6 +63105,90 @@
           "available": true,
           "price": 1599000,
           "compare_at_price": 1599000
+        }
+      },
+      "available": true
+    },
+    "10768367452300": {
+      "id": "10768367452300",
+      "title": "Mid Length Cardigan",
+      "handle": "mid-length-cardigan-wsw26-16-black",
+      "url": "https://zeenwoman.com/products/mid-length-cardigan-wsw26-16-black",
+      "vendor": "Ready To Wear",
+      "type": "Western 2026",
+      "description": "<style>\n  .product-details {\n    font-family: 'Lato', Arial, sans-serif;\n    font-size: 14px;\n    line-height: 1.35;\n    color: #000000;\n    font-weight: 300;\n  }\n\n  .product-details p {\n    margin: 0 0 15px 0;\n  }\n\n  .product-details .title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 15px;\n  }\n\n  .product-details .section-title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 2px;\n  }\n\n  .product-details strong {\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .product-details .note {\n    margin-top: 5px;\n    margin-bottom: 0;\n  }\n</style>\n<div class=\"product-details\">\n<p class=\"title\"><span style=\"text-decoration: underline;\">PRODUCT DETAILS</span></p>\n<span class=\"section-title\"> Cardigan: </span> Knitted Front Open<br>\n<strong>Fit Type: </strong> Free Size<br>\n<strong>Fabric:</strong> VPN<br>\n<strong>Color:</strong> Black<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<strong>Size &amp; Care Instructions:</strong><br>\n*The model (height 5'5) is wearing a size 10 (S)<br>\nDry Clean Recommended<br>\nIron on Medium<br><br>\n\n<strong>Note:</strong><br>Product color may vary slightly due to photographic lighting sources or phone settings.</div>",
+      "tags": [
+        "2026",
+        "Black",
+        "Cardigan",
+        "New",
+        "Outerwear",
+        "Ready to Wear",
+        "Sweaters & Cardigans",
+        "WSW26-16",
+        "WSW26-16-SimplifiedSizechart",
+        "Western",
+        "Winter",
+        "Zeen West"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WSW26-16_1.jpg?v=1795520948",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WSW26-16_2.jpg?v=1795520948",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WSW26-16_3.jpg?v=1795520948",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WSW26-16_4.jpg?v=1795520948",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WSW26-16_5.jpg?v=1795520948",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WSW26-16_6.jpg?v=1795520948"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "M (12)",
+            "L (14)"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "VPN"
+          ]
+        }
+      ],
+      "variants": {
+        "62976282034316": {
+          "id": "62976282034316",
+          "title": "Black / M (12) / VPN",
+          "options": [
+            "Black",
+            "M (12)",
+            "VPN"
+          ],
+          "sku": "WSW26-16",
+          "available": false,
+          "price": 999000,
+          "compare_at_price": 999000
+        },
+        "62976282067084": {
+          "id": "62976282067084",
+          "title": "Black / L (14) / VPN",
+          "options": [
+            "Black",
+            "L (14)",
+            "VPN"
+          ],
+          "sku": "WSW26-16",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": 999000
         }
       },
       "available": true
@@ -80331,7 +80415,7 @@
             "Lawn"
           ],
           "sku": "WLM14574",
-          "available": true,
+          "available": false,
           "price": 324500,
           "compare_at_price": 649000
         },
@@ -84095,7 +84179,7 @@
             "Lawn"
           ],
           "sku": "WLS15173",
-          "available": true,
+          "available": false,
           "price": 239500,
           "compare_at_price": 479000
         },
@@ -84152,7 +84236,7 @@
           "compare_at_price": 479000
         }
       },
-      "available": true
+      "available": false
     },
     "8272098984076": {
       "id": "8272098984076",
@@ -84361,7 +84445,7 @@
             "Jacquard"
           ],
           "sku": "WAS14674",
-          "available": false,
+          "available": true,
           "price": 289500,
           "compare_at_price": 579000
         },
@@ -84418,7 +84502,7 @@
           "compare_at_price": 579000
         }
       },
-      "available": false
+      "available": true
     },
     "8272120152204": {
       "id": "8272120152204",
@@ -90265,7 +90349,7 @@
             "Jacquard"
           ],
           "sku": "WLM13138-B",
-          "available": false,
+          "available": true,
           "price": 193600,
           "compare_at_price": 569500
         },
@@ -90935,10 +91019,13 @@
         "Winter"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0000_DSC08356edit.jpg?v=1793972411",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0001_DSC08357edit.jpg?v=1793972411",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0045_DSC08339edit.jpg?v=1793972343",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0046_DSC08344edit.jpg?v=1793972343"
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM15722.jpg?v=1795520743",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM15722_1.jpg?v=1795520743",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM15722_2.jpg?v=1795520743",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM15722_3.jpg?v=1795520743",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM15722_4.jpg?v=1795520743",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM15722_5.jpg?v=1795520743",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16875_1.jpg?v=1795520743"
       ],
       "options": [
         {
@@ -91049,11 +91136,11 @@
         "Winter"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0002_DSC08358edit_5872d14c-0d4c-4f73-9b50-75555157ff0b.jpg?v=1793972452",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0003_DSC08366edit_5bd692f7-201c-4359-8630-6ab7397e2e02.jpg?v=1793972452",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0004_DSC08369edit_8a83a9bb-5533-4c59-a93b-2fec89e7bf35.jpg?v=1793972452",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0005_DSC08380edit_38f62dfa-0b9a-4668-a7b1-6f8339093a9b.jpg?v=1793972452",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0006_DSC08381edit_68311620-6f4a-4876-8df9-fca1298f368e.jpg?v=1793972452"
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16875.jpg?v=1795520833",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16875_2.jpg?v=1795520833",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16875_3.jpg?v=1795520832",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16875_4.jpg?v=1795520833",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16875_5.jpg?v=1795520833"
       ],
       "options": [
         {
@@ -92532,7 +92619,7 @@
             "Viscose Jacquard"
           ],
           "sku": "WZS14150",
-          "available": true,
+          "available": false,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -92563,7 +92650,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "11055393865868": {
       "id": "11055393865868",
@@ -92682,7 +92769,7 @@
             "Velvet"
           ],
           "sku": "WZS14408",
-          "available": false,
+          "available": true,
           "price": 499500,
           "compare_at_price": 999000
         },
@@ -92774,7 +92861,7 @@
             "S (10)"
           ],
           "sku": "WZS16233",
-          "available": false,
+          "available": true,
           "price": 559300,
           "compare_at_price": 799000
         },
@@ -92815,7 +92902,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "11113001681036": {
       "id": "11113001681036",
@@ -93025,7 +93112,7 @@
             "L (14)"
           ],
           "sku": "WLS16372",
-          "available": false,
+          "available": true,
           "price": 279300,
           "compare_at_price": 399000
         },
@@ -93042,7 +93129,7 @@
           "compare_at_price": 399000
         }
       },
-      "available": false
+      "available": true
     },
     "11113002074252": {
       "id": "11113002074252",
@@ -93816,7 +93903,7 @@
             "Khaddi Net"
           ],
           "sku": "WZS15201",
-          "available": false,
+          "available": true,
           "price": 474500,
           "compare_at_price": 949000
         },
@@ -93847,7 +93934,7 @@
           "compare_at_price": 949000
         }
       },
-      "available": false
+      "available": true
     },
     "11113002860684": {
       "id": "11113002860684",
@@ -94413,7 +94500,7 @@
             "Chikankari"
           ],
           "sku": "WLS15305",
-          "available": false,
+          "available": true,
           "price": 424500,
           "compare_at_price": 849000
         },
@@ -94457,7 +94544,7 @@
           "compare_at_price": 849000
         }
       },
-      "available": false
+      "available": true
     },
     "11113003319436": {
       "id": "11113003319436",
@@ -94738,7 +94825,7 @@
             "Cotton Net"
           ],
           "sku": "WZS14538",
-          "available": false,
+          "available": true,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -94795,7 +94882,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "11113003843724": {
       "id": "11113003843724",
@@ -95468,7 +95555,7 @@
             "M (12)"
           ],
           "sku": "WZM16420",
-          "available": true,
+          "available": false,
           "price": 1299000,
           "compare_at_price": 1299000
         },
@@ -95480,7 +95567,7 @@
             "L (14)"
           ],
           "sku": "WZM16420",
-          "available": true,
+          "available": false,
           "price": 1299000,
           "compare_at_price": 1299000
         },
@@ -95897,7 +95984,7 @@
             "L (14)"
           ],
           "sku": "WZM16426",
-          "available": true,
+          "available": false,
           "price": 1199000,
           "compare_at_price": 1199000
         },
@@ -95914,7 +96001,7 @@
           "compare_at_price": 1199000
         }
       },
-      "available": true
+      "available": false
     },
     "10918189531276": {
       "id": "10918189531276",
@@ -96104,7 +96191,7 @@
             "S (10)"
           ],
           "sku": "WZM16424",
-          "available": false,
+          "available": true,
           "price": 1299000,
           "compare_at_price": 1299000
         },
@@ -101549,7 +101636,7 @@
             "Cottel"
           ],
           "sku": "WLM23703",
-          "available": true,
+          "available": false,
           "price": 489300,
           "compare_at_price": 699000
         },
@@ -105053,7 +105140,7 @@
             "Yarn Dyed"
           ],
           "sku": "WLM25432",
-          "available": false,
+          "available": true,
           "price": 414500,
           "compare_at_price": 829000
         },
@@ -105577,7 +105664,7 @@
             "Viscose Crepe Lurex"
           ],
           "sku": "WLM24615",
-          "available": false,
+          "available": true,
           "price": 424500,
           "compare_at_price": 849000
         },
@@ -106417,7 +106504,7 @@
             "Cambric"
           ],
           "sku": "WLM25323",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 1199000
         },
@@ -106443,7 +106530,7 @@
             "Cambric"
           ],
           "sku": "WLM25323",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 1199000
         },
@@ -106456,7 +106543,7 @@
             "Cambric"
           ],
           "sku": "WLM25323",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 1199000
         },
@@ -106474,7 +106561,7 @@
           "compare_at_price": 1199000
         }
       },
-      "available": true
+      "available": false
     },
     "8101435834508": {
       "id": "8101435834508",
@@ -106723,7 +106810,7 @@
             "Cotton Viscose Karandi"
           ],
           "sku": "WLM25198",
-          "available": false,
+          "available": true,
           "price": 364500,
           "compare_at_price": 729000
         },
@@ -106754,7 +106841,7 @@
           "compare_at_price": 729000
         }
       },
-      "available": false
+      "available": true
     },
     "8102860882060": {
       "id": "8102860882060",
@@ -107227,7 +107314,7 @@
             "Chikankari"
           ],
           "sku": "WLM25313",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 1199000
         },
@@ -107253,7 +107340,7 @@
             "Chikankari"
           ],
           "sku": "WLM25313",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 1199000
         },
@@ -110941,7 +111028,7 @@
             "Lawn"
           ],
           "sku": "WLM25315",
-          "available": false,
+          "available": true,
           "price": 499500,
           "compare_at_price": 999000
         },
@@ -110967,7 +111054,7 @@
             "Lawn"
           ],
           "sku": "WLM25315",
-          "available": false,
+          "available": true,
           "price": 499500,
           "compare_at_price": 999000
         },
@@ -110980,7 +111067,7 @@
             "Lawn"
           ],
           "sku": "WLM25315",
-          "available": false,
+          "available": true,
           "price": 499500,
           "compare_at_price": 999000
         },
@@ -111207,7 +111294,7 @@
             "Cotton Linen Viscose"
           ],
           "sku": "WLM25289",
-          "available": false,
+          "available": true,
           "price": 449500,
           "compare_at_price": 899000
         },
@@ -111220,7 +111307,7 @@
             "Cotton Linen Viscose"
           ],
           "sku": "WLM25289",
-          "available": false,
+          "available": true,
           "price": 449500,
           "compare_at_price": 899000
         },
@@ -111246,7 +111333,7 @@
             "Cotton Linen Viscose"
           ],
           "sku": "WLM25289",
-          "available": false,
+          "available": true,
           "price": 449500,
           "compare_at_price": 899000
         },
@@ -112333,7 +112420,7 @@
             "Cambric"
           ],
           "sku": "WLM25324",
-          "available": false,
+          "available": true,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -113191,7 +113278,7 @@
             "Cotton Linen Viscose"
           ],
           "sku": "WLM25290",
-          "available": true,
+          "available": false,
           "price": 449500,
           "compare_at_price": 899000
         },
@@ -113209,7 +113296,7 @@
           "compare_at_price": 899000
         }
       },
-      "available": true
+      "available": false
     },
     "8181207761036": {
       "id": "8181207761036",
@@ -114116,7 +114203,7 @@
             "Cotton Linen Viscose"
           ],
           "sku": "WLM25281",
-          "available": true,
+          "available": false,
           "price": 449500,
           "compare_at_price": 899000
         },
@@ -114173,7 +114260,7 @@
           "compare_at_price": 899000
         }
       },
-      "available": true
+      "available": false
     },
     "8188921970828": {
       "id": "8188921970828",
@@ -115069,7 +115156,7 @@
             "Cotton Linen Viscose"
           ],
           "sku": "WLM25285",
-          "available": false,
+          "available": true,
           "price": 434500,
           "compare_at_price": 869000
         },
@@ -116427,7 +116514,7 @@
             "Both Side Slub"
           ],
           "sku": "WAM25183",
-          "available": true,
+          "available": false,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -116497,7 +116584,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "8213252046988": {
       "id": "8213252046988",
@@ -120420,7 +120507,7 @@
             "Tencel"
           ],
           "sku": "WAM25132",
-          "available": true,
+          "available": false,
           "price": 559300,
           "compare_at_price": 799000
         }
@@ -121556,7 +121643,7 @@
             "Khaddar"
           ],
           "sku": "WLM25979",
-          "available": true,
+          "available": false,
           "price": 349500,
           "compare_at_price": 699000
         },
@@ -121569,7 +121656,7 @@
             "Khaddar"
           ],
           "sku": "WLM25979",
-          "available": true,
+          "available": false,
           "price": 349500,
           "compare_at_price": 699000
         },
@@ -121582,7 +121669,7 @@
             "Khaddar"
           ],
           "sku": "WLM25979",
-          "available": true,
+          "available": false,
           "price": 349500,
           "compare_at_price": 699000
         },
@@ -121600,7 +121687,7 @@
           "compare_at_price": 699000
         }
       },
-      "available": true
+      "available": false
     },
     "8245837070476": {
       "id": "8245837070476",
@@ -123284,7 +123371,7 @@
             "Thai Khaddar"
           ],
           "sku": "WAM24617",
-          "available": false,
+          "available": true,
           "price": 669000,
           "compare_at_price": 669000
         },
@@ -126316,7 +126403,7 @@
             "Raw Silk"
           ],
           "sku": "WLM25801",
-          "available": false,
+          "available": true,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -127221,7 +127308,7 @@
             "Khaddar"
           ],
           "sku": "WLM25956",
-          "available": false,
+          "available": true,
           "price": 524300,
           "compare_at_price": 749000
         },
@@ -128953,8 +129040,12 @@
         "Winter"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM25839.webp?v=1792393046",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM25839BACK_c5d6ca9c-588c-481d-bf1a-f0dbfbf783d8.webp?v=1792393046"
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM25839_1_45226fe4-58cf-4e0b-8a9f-e63e439d730b.jpg?v=1795521349",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM25839_2_59d0010f-e1d5-4cd8-a100-5aad20616a3b.jpg?v=1795521349",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM25839_3_4260a733-c4ac-430e-b7dc-4520891757e9.jpg?v=1795521349",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM25839_4_2e02c7f7-79ec-4edd-9dea-c54ee103a89f.jpg?v=1795521349",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM25839_596618e3-00e9-4e3a-9a27-79ac4035f02b.jpg?v=1795521349",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM25839_5_dbf99b6a-6eab-4429-b841-769b0e8f713e.jpg?v=1795521349"
       ],
       "options": [
         {
@@ -130691,7 +130782,7 @@
             "Cambric"
           ],
           "sku": "WLM26302",
-          "available": true,
+          "available": false,
           "price": 384300,
           "compare_at_price": 549000
         },
@@ -130814,7 +130905,7 @@
             "Cambric"
           ],
           "sku": "WLM26303",
-          "available": false,
+          "available": true,
           "price": 384300,
           "compare_at_price": 549000
         },
@@ -133185,7 +133276,7 @@
             "16 (XL)"
           ],
           "sku": "WAM25128",
-          "available": true,
+          "available": false,
           "price": 468300,
           "compare_at_price": 669000
         }
@@ -135116,7 +135207,7 @@
             "12 (M)"
           ],
           "sku": "WAM24670",
-          "available": false,
+          "available": true,
           "price": 559300,
           "compare_at_price": 799000
         },
@@ -138684,7 +138775,7 @@
             "S (10)"
           ],
           "sku": "WLM26306",
-          "available": false,
+          "available": true,
           "price": 384300,
           "compare_at_price": 549000
         },
@@ -143584,7 +143675,7 @@
             "Raw Silk"
           ],
           "sku": "WZB25197",
-          "available": true,
+          "available": false,
           "price": 649500,
           "compare_at_price": 1299000
         },
@@ -143602,7 +143693,7 @@
           "compare_at_price": 1299000
         }
       },
-      "available": true
+      "available": false
     },
     "9146679132300": {
       "id": "9146679132300",
@@ -145165,7 +145256,7 @@
             "Khaddar"
           ],
           "sku": "WLB25861",
-          "available": false,
+          "available": true,
           "price": 664300,
           "compare_at_price": 949000
         },
@@ -145191,7 +145282,7 @@
             "Khaddar"
           ],
           "sku": "WLB25861",
-          "available": false,
+          "available": true,
           "price": 664300,
           "compare_at_price": 949000
         },
@@ -145209,7 +145300,7 @@
           "compare_at_price": 949000
         }
       },
-      "available": false
+      "available": true
     },
     "9223853506700": {
       "id": "9223853506700",
@@ -146672,7 +146763,7 @@
             "XS (8)"
           ],
           "sku": "WLM26453",
-          "available": true,
+          "available": false,
           "price": 699000,
           "compare_at_price": 699000
         },
@@ -147760,7 +147851,7 @@
             "Cambric"
           ],
           "sku": "WZB25223",
-          "available": false,
+          "available": true,
           "price": 804300,
           "compare_at_price": 1149000
         },
@@ -148826,7 +148917,7 @@
             "XL (16)"
           ],
           "sku": "WLM26432",
-          "available": true,
+          "available": false,
           "price": 799000,
           "compare_at_price": 799000
         }
@@ -152344,8 +152435,12 @@
         "Winter"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/10_912063b2-c33f-4399-889e-cdcc896a2765.jpg?v=1790354880",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/14_dd4a16ac-fe7c-40a0-aeb9-cf1925673f12.jpg?v=1790354879"
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26843.webp?v=1795521494",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26843_1.webp?v=1795521495",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26843_2.webp?v=1795521495",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26843_3.webp?v=1795521495",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26843_4.webp?v=1795521494",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26843_5.webp?v=1795521494"
       ],
       "options": [
         {
@@ -152456,9 +152551,12 @@
         "Winter"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844.jpg?v=1790344061",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844_2.jpg?v=1790344061",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844_3.jpg?v=1790344061"
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844.webp?v=1795521617",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844_1.webp?v=1795521617",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844_2.webp?v=1795521617",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844_3.webp?v=1795521617",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844_4.webp?v=1795521617",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26844_5.webp?v=1795521617"
       ],
       "options": [
         {
@@ -152569,9 +152667,11 @@
         "Winter"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26847.jpg?v=1790344175",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26847_2.jpg?v=1790344175",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26847_3.jpg?v=1790344175"
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26847_2_60b53f23-988d-4d4f-ab06-88babea146f9.webp?v=1795521819",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26847_3_6faf145b-a0dc-4685-9fb6-47911efb21ea.webp?v=1795521819",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26847_4_9f0378bc-5308-4020-bbd1-d3fe1632d786.webp?v=1795521819",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26847_5_1901e8a3-598b-4dbe-9304-95a44130f064.webp?v=1795521819",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM26847_eb4e4b84-cb76-4f18-bc7e-d09464e65d99.webp?v=1795521819"
       ],
       "options": [
         {
@@ -153109,7 +153209,7 @@
             "XL (16)"
           ],
           "sku": "WEM2614",
-          "available": true,
+          "available": false,
           "price": 479200,
           "compare_at_price": 599000
         }
@@ -154575,7 +154675,7 @@
             "M (12)"
           ],
           "sku": "WLM26867",
-          "available": false,
+          "available": true,
           "price": 949000,
           "compare_at_price": 949000
         },
@@ -154604,7 +154704,7 @@
           "compare_at_price": 949000
         }
       },
-      "available": false
+      "available": true
     },
     "10664568127628": {
       "id": "10664568127628",
@@ -160492,7 +160592,7 @@
             "Dull Raw Silk"
           ],
           "sku": "WZB25229",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 1199000
         },
@@ -160523,7 +160623,7 @@
           "compare_at_price": 1199000
         }
       },
-      "available": true
+      "available": false
     },
     "11055393603724": {
       "id": "11055393603724",
@@ -160854,7 +160954,7 @@
             "S (10)"
           ],
           "sku": "WLD26172",
-          "available": false,
+          "available": true,
           "price": 440300,
           "compare_at_price": 629000
         },
@@ -160866,7 +160966,7 @@
             "M (12)"
           ],
           "sku": "WLD26172",
-          "available": false,
+          "available": true,
           "price": 440300,
           "compare_at_price": 629000
         },
@@ -160878,7 +160978,7 @@
             "L (14)"
           ],
           "sku": "WLD26172",
-          "available": false,
+          "available": true,
           "price": 440300,
           "compare_at_price": 629000
         },
@@ -160895,7 +160995,7 @@
           "compare_at_price": 629000
         }
       },
-      "available": false
+      "available": true
     },
     "11113002008716": {
       "id": "11113002008716",
@@ -161001,7 +161101,7 @@
             "Lawn"
           ],
           "sku": "WLB25296",
-          "available": false,
+          "available": true,
           "price": 727300,
           "compare_at_price": 1039000
         },
@@ -161032,7 +161132,7 @@
           "compare_at_price": 1039000
         }
       },
-      "available": false
+      "available": true
     },
     "11113002172556": {
       "id": "11113002172556",
@@ -161469,7 +161569,7 @@
             "Organza"
           ],
           "sku": "WID24139",
-          "available": false,
+          "available": true,
           "price": 949500,
           "compare_at_price": 1899000
         },
@@ -161482,12 +161582,12 @@
             "Organza"
           ],
           "sku": "WID24139",
-          "available": false,
+          "available": true,
           "price": 949500,
           "compare_at_price": 1899000
         }
       },
-      "available": false
+      "available": true
     },
     "6613059960972": {
       "id": "6613059960972",
@@ -168044,7 +168144,7 @@
             "Velvet"
           ],
           "sku": "WZM34419",
-          "available": true,
+          "available": false,
           "price": 1049300,
           "compare_at_price": 1499000
         },
@@ -174641,7 +174741,7 @@
             "Raw Silk"
           ],
           "sku": "WLM35259",
-          "available": true,
+          "available": false,
           "price": 724500,
           "compare_at_price": 1449000
         },
@@ -174711,7 +174811,7 @@
           "compare_at_price": 1449000
         }
       },
-      "available": true
+      "available": false
     },
     "8137702703244": {
       "id": "8137702703244",
@@ -178722,7 +178822,7 @@
             "Organza"
           ],
           "sku": "WZM35125",
-          "available": false,
+          "available": true,
           "price": 799500,
           "compare_at_price": 1599000
         },
@@ -179309,7 +179409,7 @@
             "Lawn"
           ],
           "sku": "WLM35411",
-          "available": false,
+          "available": true,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -180107,7 +180207,7 @@
             "Cotton Satin"
           ],
           "sku": "WLM35458",
-          "available": false,
+          "available": true,
           "price": 574500,
           "compare_at_price": 1149000
         },
@@ -182004,7 +182104,7 @@
             "Lawn"
           ],
           "sku": "WLM35214",
-          "available": true,
+          "available": false,
           "price": 499500,
           "compare_at_price": 999000
         },
@@ -182978,7 +183078,7 @@
             "Lawn"
           ],
           "sku": "WLM35212",
-          "available": true,
+          "available": false,
           "price": 524500,
           "compare_at_price": 1049000
         },
@@ -185588,7 +185688,7 @@
             "Lawn"
           ],
           "sku": "WLM35136",
-          "available": false,
+          "available": true,
           "price": 664300,
           "compare_at_price": 949000
         },
@@ -187655,7 +187755,7 @@
             "Khaddar"
           ],
           "sku": "WLM34690",
-          "available": true,
+          "available": false,
           "price": 474500,
           "compare_at_price": 949000
         },
@@ -187725,7 +187825,7 @@
           "compare_at_price": 949000
         }
       },
-      "available": true
+      "available": false
     },
     "8248577785996": {
       "id": "8248577785996",
@@ -187951,7 +188051,7 @@
             "Cottel"
           ],
           "sku": "WLM34628",
-          "available": true,
+          "available": false,
           "price": 499500,
           "compare_at_price": 999000
         },
@@ -194895,7 +194995,7 @@
             "Viscose"
           ],
           "sku": "WLM35842",
-          "available": true,
+          "available": false,
           "price": 574500,
           "compare_at_price": 1149000
         },
@@ -196811,7 +196911,7 @@
             "Khaddi Net"
           ],
           "sku": "WZM35113",
-          "available": false,
+          "available": true,
           "price": 749500,
           "compare_at_price": 1499000
         },
@@ -196842,7 +196942,7 @@
           "compare_at_price": 1499000
         }
       },
-      "available": false
+      "available": true
     },
     "8414827610252": {
       "id": "8414827610252",
@@ -198202,7 +198302,7 @@
             "Lawn"
           ],
           "sku": "WLM35296",
-          "available": false,
+          "available": true,
           "price": 944300,
           "compare_at_price": 1349000
         },
@@ -198502,7 +198602,7 @@
             "Cambric"
           ],
           "sku": "WLM36207",
-          "available": true,
+          "available": false,
           "price": 699300,
           "compare_at_price": 999000
         },
@@ -198520,7 +198620,7 @@
           "compare_at_price": 999000
         }
       },
-      "available": true
+      "available": false
     },
     "8757376483468": {
       "id": "8757376483468",
@@ -205753,7 +205853,7 @@
             "XL (16)"
           ],
           "sku": "WZM36156",
-          "available": false,
+          "available": true,
           "price": 799500,
           "compare_at_price": 1599000
         }
@@ -210444,7 +210544,7 @@
             "XS (8)"
           ],
           "sku": "WZM36132",
-          "available": true,
+          "available": false,
           "price": 1499000,
           "compare_at_price": 1499000
         },
@@ -212252,7 +212352,7 @@
             "Organza"
           ],
           "sku": "WZM36157",
-          "available": false,
+          "available": true,
           "price": 949500,
           "compare_at_price": 1899000
         },
@@ -212265,7 +212365,7 @@
             "Organza"
           ],
           "sku": "WZM36157",
-          "available": false,
+          "available": true,
           "price": 949500,
           "compare_at_price": 1899000
         }
@@ -213045,7 +213145,7 @@
             "M (12)"
           ],
           "sku": "WLM36471",
-          "available": false,
+          "available": true,
           "price": 899000,
           "compare_at_price": 899000
         },
@@ -215265,7 +215365,7 @@
             "M (12)"
           ],
           "sku": "WLM36123",
-          "available": false,
+          "available": true,
           "price": 419300,
           "compare_at_price": 599000
         },
@@ -218308,7 +218408,7 @@
             "S (10)"
           ],
           "sku": "WZM36451",
-          "available": true,
+          "available": false,
           "price": 1999000,
           "compare_at_price": 1999000
         },
@@ -219160,7 +219260,7 @@
             "XL (16)"
           ],
           "sku": "WZM36238",
-          "available": true,
+          "available": false,
           "price": 1599000,
           "compare_at_price": 1599000
         }
@@ -221543,7 +221643,7 @@
             "XS (8)"
           ],
           "sku": "WEM3627",
-          "available": true,
+          "available": false,
           "price": 799000,
           "compare_at_price": 799000
         },
@@ -223247,7 +223347,7 @@
             "S (10)"
           ],
           "sku": "WZM36448",
-          "available": true,
+          "available": false,
           "price": 1899000,
           "compare_at_price": 1899000
         },
@@ -223259,7 +223359,7 @@
             "M (12)"
           ],
           "sku": "WZM36448",
-          "available": false,
+          "available": true,
           "price": 1899000,
           "compare_at_price": 1899000
         },
@@ -223271,7 +223371,7 @@
             "L (14)"
           ],
           "sku": "WZM36448",
-          "available": true,
+          "available": false,
           "price": 1899000,
           "compare_at_price": 1899000
         },
@@ -224472,6 +224572,121 @@
           "available": true,
           "price": 1699000,
           "compare_at_price": 1699000
+        }
+      },
+      "available": true
+    },
+    "11114118217868": {
+      "id": "11114118217868",
+      "title": "Stitched 3-Piece",
+      "handle": "dyed-embroidered-raw-silk-stitched-3-piece-suit-wzm36320-black",
+      "url": "https://zeenwoman.com/products/dyed-embroidered-raw-silk-stitched-3-piece-suit-wzm36320-black",
+      "vendor": "Ready To Wear",
+      "type": "Winter 2026",
+      "description": "<style>\n  .product-details {\n    font-family: 'Lato', Arial, sans-serif;\n    font-size: 14px;\n    line-height: 1.35;\n    color: #000000;\n    font-weight: 300;\n  }\n\n  .product-details p {\n    margin: 0 0 15px 0;\n  }\n\n  .product-details .title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 15px;\n  }\n\n  .product-details .section-title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 2px;\n  }\n\n  .product-details strong {\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .product-details .note {\n    margin-top: 5px;\n    margin-bottom: 0;\n  }\n</style>\n<div class=\"product-details\">\n<p class=\"title\"><span style=\"text-decoration: underline;\">PRODUCT DETAILS</span></p>\n<span class=\"section-title\">Shirt:  </span>Dyed Embroidered <br><strong>Fit Type: </strong>Regular Fit <br><strong>Fabric: </strong>Dull<strong> </strong>Raw Silk <br><strong>Color: </strong>Black <br><strong>Hand Feel: </strong>Soft <br><br><span class=\"section-title\">Dupatta: </span>Dyed <br><strong>Fabric: </strong>Chiffon <br><strong>Color: </strong>Black <br><strong>Hand Feel: </strong>Soft <br><br><span class=\"section-title\">Trousers: </span>Dyed Narrow Shalwar<br><strong>Fit Type: </strong>Regular Fit<br><strong>Fabric: </strong>Dull<strong> </strong>Raw Silk <br><strong>Color: </strong>Black <br><strong>Hand Feel: </strong>Soft <br><br><strong>Size &amp; Care Instructions:</strong> <br>*The model (height 5'5) is wearing a size 10 (S) <br>Dry Clean Recommended <br>Iron on Medium <br><br><strong>Note:</strong><br>Product color may vary slightly due to photographic lighting sources or phone settings.</div>",
+      "tags": [
+        "2026",
+        "3 Piece",
+        "Black",
+        "Embroidered",
+        "Full Suit",
+        "Luxe",
+        "Luxury",
+        "New",
+        "Raw Silk",
+        "Ready To Wear",
+        "WZM36320",
+        "WZM36320-SimplifiedSizechart",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM36320.jpg?v=1795519513",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM36320_1.jpg?v=1795519513",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM36320_2.jpg?v=1795519513",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM36320_3.jpg?v=1795519513",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM36320_4.jpg?v=1795519513",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WZM36320_5.jpg?v=1795519513"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XS (8)",
+            "S (10)",
+            "M (12)",
+            "L (14)",
+            "XL (16)"
+          ]
+        }
+      ],
+      "variants": {
+        "64049211670668": {
+          "id": "64049211670668",
+          "title": "Black / XS (8)",
+          "options": [
+            "Black",
+            "XS (8)"
+          ],
+          "sku": "WZM36320",
+          "available": true,
+          "price": 1499000,
+          "compare_at_price": 1499000
+        },
+        "64049211703436": {
+          "id": "64049211703436",
+          "title": "Black / S (10)",
+          "options": [
+            "Black",
+            "S (10)"
+          ],
+          "sku": "WZM36320",
+          "available": true,
+          "price": 1499000,
+          "compare_at_price": 1499000
+        },
+        "64049211736204": {
+          "id": "64049211736204",
+          "title": "Black / M (12)",
+          "options": [
+            "Black",
+            "M (12)"
+          ],
+          "sku": "WZM36320",
+          "available": true,
+          "price": 1499000,
+          "compare_at_price": 1499000
+        },
+        "64049211768972": {
+          "id": "64049211768972",
+          "title": "Black / L (14)",
+          "options": [
+            "Black",
+            "L (14)"
+          ],
+          "sku": "WZM36320",
+          "available": true,
+          "price": 1499000,
+          "compare_at_price": 1499000
+        },
+        "64049211801740": {
+          "id": "64049211801740",
+          "title": "Black / XL (16)",
+          "options": [
+            "Black",
+            "XL (16)"
+          ],
+          "sku": "WZM36320",
+          "available": true,
+          "price": 1499000,
+          "compare_at_price": 1499000
         }
       },
       "available": true
@@ -226602,11 +226817,12 @@
         "Winter"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0012_DSC08630edit.jpg?v=1793972216",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0013_DSC08638edit.jpg?v=1793972216",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0014_DSC08640edit.jpg?v=1793972215",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0015_DSC08650edit.jpg?v=1793972216",
-        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/Untitled-1_0016_DSC08651edit.jpg?v=1793972216"
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16938.jpg?v=1795521225",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16938_1.jpg?v=1795521224",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16938_2.jpg?v=1795521224",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16938_3.jpg?v=1795521224",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16938_4.jpg?v=1795521224",
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WLM16938_5.jpg?v=1795521224"
       ],
       "options": [
         {
@@ -233342,12 +233558,12 @@
             "Khaddi Net"
           ],
           "sku": "WUB24303",
-          "available": false,
+          "available": true,
           "price": 324500,
           "compare_at_price": 649000
         }
       },
-      "available": false
+      "available": true
     },
     "8249037488268": {
       "id": "8249037488268",
@@ -233461,12 +233677,12 @@
             "Lawn"
           ],
           "sku": "WFD24623",
-          "available": true,
+          "available": false,
           "price": 209500,
           "compare_at_price": 419000
         }
       },
-      "available": true
+      "available": false
     },
     "8249037684876": {
       "id": "8249037684876",
@@ -233702,12 +233918,12 @@
             "Velvet"
           ],
           "sku": "WUB25862",
-          "available": false,
+          "available": true,
           "price": 674500,
           "compare_at_price": 1349000
         }
       },
-      "available": false
+      "available": true
     },
     "9223851507852": {
       "id": "9223851507852",
@@ -233942,12 +234158,12 @@
             "Raw Silk"
           ],
           "sku": "WEM2605",
-          "available": true,
+          "available": false,
           "price": 174500,
           "compare_at_price": 349000
         }
       },
-      "available": true
+      "available": false
     },
     "9505360117900": {
       "id": "9505360117900",
@@ -234118,12 +234334,12 @@
             "Raw Silk"
           ],
           "sku": "WEM2610",
-          "available": false,
+          "available": true,
           "price": 174500,
           "compare_at_price": 349000
         }
       },
-      "available": false
+      "available": true
     },
     "10595277537420": {
       "id": "10595277537420",
@@ -236966,12 +237182,12 @@
             "Organza"
           ],
           "sku": "WUM35240",
-          "available": true,
+          "available": false,
           "price": 474500,
           "compare_at_price": 949000
         }
       },
-      "available": true
+      "available": false
     },
     "8245839757452": {
       "id": "8245839757452",
@@ -239227,12 +239443,12 @@
             "Lawn"
           ],
           "sku": "WFM36123",
-          "available": true,
+          "available": false,
           "price": 199500,
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "9139424362636": {
       "id": "9139424362636",
@@ -240757,12 +240973,12 @@
             "Lawn"
           ],
           "sku": "WFM35428",
-          "available": false,
+          "available": true,
           "price": 324500,
           "compare_at_price": 649000
         }
       },
-      "available": false
+      "available": true
     },
     "8190719131788": {
       "id": "8190719131788",
@@ -241020,12 +241236,12 @@
             "Raw Silk"
           ],
           "sku": "WUM35214",
-          "available": false,
+          "available": true,
           "price": 574500,
           "compare_at_price": 1149000
         }
       },
-      "available": false
+      "available": true
     },
     "8212367802508": {
       "id": "8212367802508",
@@ -241209,12 +241425,12 @@
             "Lawn"
           ],
           "sku": "WFM35529",
-          "available": false,
+          "available": true,
           "price": 274500,
           "compare_at_price": 549000
         }
       },
-      "available": false
+      "available": true
     },
     "8249037717644": {
       "id": "8249037717644",
@@ -241594,12 +241810,12 @@
             "Cambric"
           ],
           "sku": "WFM35522",
-          "available": false,
+          "available": true,
           "price": 274500,
           "compare_at_price": 549000
         }
       },
-      "available": false
+      "available": true
     },
     "8250951860364": {
       "id": "8250951860364",
@@ -241715,12 +241931,12 @@
             "Lawn"
           ],
           "sku": "WFM25164",
-          "available": false,
+          "available": true,
           "price": 389500,
           "compare_at_price": 779000
         }
       },
-      "available": false
+      "available": true
     },
     "8277131165836": {
       "id": "8277131165836",
@@ -245423,6 +245639,291 @@
       },
       "available": true
     },
+    "11029028929676": {
+      "id": "11029028929676",
+      "title": "Unstitched 3-Piece",
+      "handle": "digital-printed-khaddar-unstitched-3-piece-suit-wfm36633-grey",
+      "url": "https://zeenwoman.com/products/digital-printed-khaddar-unstitched-3-piece-suit-wfm36633-grey",
+      "vendor": "Unstitched",
+      "type": "Ethnic 2026",
+      "description": "<style>\n  .product-details {\n    font-family: 'Lato', Arial, sans-serif;\n    font-size: 14px;\n    line-height: 1.35;\n    color: #000000;\n    font-weight: 300;\n  }\n\n  .product-details p {\n    margin: 0 0 15px 0;\n  }\n\n  .product-details .title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 15px;\n  }\n\n  .product-details .section-title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 2px;\n  }\n\n  .product-details strong {\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .product-details .note {\n    margin-top: 5px;\n    margin-bottom: 0;\n  }\n</style>\n<div class=\"product-details\">\n<p class=\"title\"><span style=\"text-decoration: underline;\">PRODUCT DETAILS</span></p>\n<p><span class=\"section-title\">Shirt: </span>Printed Embroidered<br>\n<strong>Meter: </strong> 1.70 Mtrs<br>\n<strong>Fabric: </strong>Khaddar<br>\n<strong>Color: </strong>Grey<br>\n<strong>Hand Feel: </strong>Soft<br><br>\n\n<span class=\"section-title\">Dupatta: </span> Digital Printed<br>\n<strong>Meter:</strong>  2.50 Mtrs<br>\n<strong>Fabric:</strong> Khaddar<br>\n<strong>Color:</strong> Grey<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<span class=\"section-title\">Trousers:</span> Dyed<br>\n<strong>Meter:</strong>  1.60 Mtrs<br>\n<strong>Fabric:</strong> Khaddar<br>\n<strong>Color:</strong> Grey<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<strong>Note:</strong><br>Product color may vary slightly due to photographic lighting sources or phone settings</p>\n</div>",
+      "tags": [
+        "2026",
+        "3 Piece",
+        "Eastern Wear",
+        "Embroidered",
+        "Ethnic",
+        "Full Suit",
+        "Grey",
+        "Khaddar",
+        "New",
+        "Unstitched",
+        "WFM36633",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM36633a.webp?v=1795522157"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Grey"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "Khaddar"
+          ]
+        }
+      ],
+      "variants": {
+        "63918134722700": {
+          "id": "63918134722700",
+          "title": "Grey / Khaddar",
+          "options": [
+            "Grey",
+            "Khaddar"
+          ],
+          "sku": "WFM36633",
+          "available": true,
+          "price": 599000,
+          "compare_at_price": 599000
+        }
+      },
+      "available": true
+    },
+    "11029029027980": {
+      "id": "11029029027980",
+      "title": "Unstitched 3-Piece",
+      "handle": "digital-printed-khaddar-unstitched-3-piece-suit-wfm36634-brick-red",
+      "url": "https://zeenwoman.com/products/digital-printed-khaddar-unstitched-3-piece-suit-wfm36634-brick-red",
+      "vendor": "Unstitched",
+      "type": "Ethnic 2026",
+      "description": "<style>\n  .product-details {\n    font-family: 'Lato', Arial, sans-serif;\n    font-size: 14px;\n    line-height: 1.35;\n    color: #000000;\n    font-weight: 300;\n  }\n\n  .product-details p {\n    margin: 0 0 15px 0;\n  }\n\n  .product-details .title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 15px;\n  }\n\n  .product-details .section-title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 2px;\n  }\n\n  .product-details strong {\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .product-details .note {\n    margin-top: 5px;\n    margin-bottom: 0;\n  }\n</style>\n<div class=\"product-details\">\n<p class=\"title\"><span style=\"text-decoration: underline;\">PRODUCT DETAILS</span></p>\n<p><span class=\"section-title\">Shirt: </span>Printed Embroidered<br>\n<strong>Meter: </strong> 1.70 Mtrs<br>\n<strong>Fabric: </strong>Khaddar<br>\n<strong>Color: </strong> Brick Red<br>\n<strong>Hand Feel: </strong>Soft<br><br>\n\n<span class=\"section-title\">Dupatta: </span> Digital Printed<br>\n<strong>Meter:</strong>  2.50 Mtrs<br>\n<strong>Fabric:</strong> Khaddar<br>\n<strong>Color:</strong> Brick Red<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<span class=\"section-title\">Trousers:</span> Dyed<br>\n<strong>Meter:</strong>  1.60 Mtrs<br>\n<strong>Fabric:</strong> Khaddar<br>\n<strong>Color:</strong> Brick Red<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<strong>Note:</strong><br>Product color may vary slightly due to photographic lighting sources or phone settings</p>\n</div>",
+      "tags": [
+        "2026",
+        "3 Piece",
+        "Eastern Wear",
+        "Embroidered",
+        "Ethnic",
+        "Full Suit",
+        "Khaddar",
+        "New",
+        "Red",
+        "Unstitched",
+        "WFM36634",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM36634a.webp?v=1795522039"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Red"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "Khaddar"
+          ]
+        }
+      ],
+      "variants": {
+        "63918134821004": {
+          "id": "63918134821004",
+          "title": "Red / Khaddar",
+          "options": [
+            "Red",
+            "Khaddar"
+          ],
+          "sku": "WFM36634",
+          "available": true,
+          "price": 599000,
+          "compare_at_price": 599000
+        }
+      },
+      "available": true
+    },
+    "11113856041100": {
+      "id": "11113856041100",
+      "title": "Unstitched 3-Piece",
+      "handle": "digital-printed-khaddar-unstitched-3-piece-suit-wfm36630-brownish-green",
+      "url": "https://zeenwoman.com/products/digital-printed-khaddar-unstitched-3-piece-suit-wfm36630-brownish-green",
+      "vendor": "Unstitched",
+      "type": "Ethnic 2026",
+      "description": "<style>\n  .product-details {\n    font-family: 'Lato', Arial, sans-serif;\n    font-size: 14px;\n    line-height: 1.35;\n    color: #000000;\n    font-weight: 300;\n  }\n\n  .product-details p {\n    margin: 0 0 15px 0;\n  }\n\n  .product-details .title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 15px;\n  }\n\n  .product-details .section-title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 2px;\n  }\n\n  .product-details strong {\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .product-details .note {\n    margin-top: 5px;\n    margin-bottom: 0;\n  }\n</style>\n<div class=\"product-details\">\n<p class=\"title\"><span style=\"text-decoration: underline;\">PRODUCT DETAILS</span></p>\n<p><span class=\"section-title\">Shirt: </span>Printed Embroidered<br>\n<strong>Meter: </strong> 1.70 Mtrs<br>\n<strong>Fabric: </strong>Khaddar<br>\n<strong>Color: </strong>Brown<br>\n<strong>Hand Feel: </strong>Soft<br><br>\n\n<span class=\"section-title\">Dupatta: </span> Digital Printed<br>\n<strong>Meter:</strong>  2.50 Mtrs<br>\n<strong>Fabric:</strong> Khaddar<br>\n<strong>Color:</strong> Black<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<span class=\"section-title\">Trousers:</span> Dyed<br>\n<strong>Meter:</strong>  1.60 Mtrs<br>\n<strong>Fabric:</strong> Khaddar<br>\n<strong>Color:</strong> Brown<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<strong>Note:</strong><br>Product color may vary slightly due to photographic lighting sources or phone settings</p>\n</div>",
+      "tags": [
+        "2026",
+        "3 Piece",
+        "Brown",
+        "Eastern Wear",
+        "Embroidered",
+        "Ethnic",
+        "Full Suit",
+        "Khaddar",
+        "New",
+        "Unstitched",
+        "WFM36630",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM36630a.webp?v=1795523441"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Brown"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "Khaddar"
+          ]
+        }
+      ],
+      "variants": {
+        "64048835788940": {
+          "id": "64048835788940",
+          "title": "Brown / Khaddar",
+          "options": [
+            "Brown",
+            "Khaddar"
+          ],
+          "sku": "WFM36630",
+          "available": true,
+          "price": 599000,
+          "compare_at_price": 599000
+        }
+      },
+      "available": true
+    },
+    "11113856139404": {
+      "id": "11113856139404",
+      "title": "Unstitched 3-Piece",
+      "handle": "digital-printed-khaddar-unstitched-3-piece-suit-wfm36631-mauve",
+      "url": "https://zeenwoman.com/products/digital-printed-khaddar-unstitched-3-piece-suit-wfm36631-mauve",
+      "vendor": "Unstitched",
+      "type": "Ethnic 2026",
+      "description": "<style>\n  .product-details {\n    font-family: 'Lato', Arial, sans-serif;\n    font-size: 14px;\n    line-height: 1.35;\n    color: #000000;\n    font-weight: 300;\n  }\n\n  .product-details p {\n    margin: 0 0 15px 0;\n  }\n\n  .product-details .title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 15px;\n  }\n\n  .product-details .section-title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 2px;\n  }\n\n  .product-details strong {\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .product-details .note {\n    margin-top: 5px;\n    margin-bottom: 0;\n  }\n</style>\n<div class=\"product-details\">\n<p class=\"title\"><span style=\"text-decoration: underline;\">PRODUCT DETAILS</span></p>\n<p><span class=\"section-title\">Shirt: </span>Printed Embroidered<br>\n<strong>Meter: </strong> 1.70 Mtrs<br>\n<strong>Fabric: </strong>Khaddar<br>\n<strong>Color: </strong>Mauve<br>\n<strong>Hand Feel: </strong>Soft<br><br>\n\n<span class=\"section-title\">Dupatta: </span> Digital Printed<br>\n<strong>Meter:</strong>  2.50 Mtrs<br>\n<strong>Fabric:</strong> Khaddar<br>\n<strong>Color:</strong> Mauve<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<span class=\"section-title\">Trousers:</span> Dyed<br>\n<strong>Meter:</strong>  1.60 Mtrs<br>\n<strong>Fabric:</strong> Khaddar<br>\n<strong>Color:</strong> Mauve<br>\n<strong>Hand Feel:</strong> Soft<br><br>\n\n<strong>Note:</strong><br>Product color may vary slightly due to photographic lighting sources or phone settings</p>\n</div>",
+      "tags": [
+        "2026",
+        "3 Piece",
+        "Eastern Wear",
+        "Embroidered",
+        "Ethnic",
+        "Full Suit",
+        "Khaddar",
+        "Mauve",
+        "New",
+        "Unstitched",
+        "WFM36631",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM36631.webp?v=1795523386"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Mauve"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "Khaddar"
+          ]
+        }
+      ],
+      "variants": {
+        "64048835985548": {
+          "id": "64048835985548",
+          "title": "Mauve / Khaddar",
+          "options": [
+            "Mauve",
+            "Khaddar"
+          ],
+          "sku": "WFM36631",
+          "available": true,
+          "price": 599000,
+          "compare_at_price": 599000
+        }
+      },
+      "available": true
+    },
+    "11113856434316": {
+      "id": "11113856434316",
+      "title": "Unstitched 3-Piece",
+      "handle": "digital-printed-khaddar-unstitched-3-piece-suit-wfm36632-purple",
+      "url": "https://zeenwoman.com/products/digital-printed-khaddar-unstitched-3-piece-suit-wfm36632-purple",
+      "vendor": "Unstitched",
+      "type": "Ethnic 2026",
+      "description": "<style>\n  .product-details {\n    font-family: 'Lato', Arial, sans-serif;\n    font-size: 14px;\n    line-height: 1.35;\n    color: #000000;\n    font-weight: 300;\n  }\n\n  .product-details p {\n    margin: 0 0 15px 0;\n  }\n\n  .product-details .title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 15px;\n  }\n\n  .product-details .section-title {\n    font-weight: 600;\n    color: #000000;\n    margin-bottom: 2px;\n  }\n\n  .product-details strong {\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .product-details .note {\n    margin-top: 5px;\n    margin-bottom: 0;\n  }\n</style>\n<div class=\"product-details\">\n<p class=\"title\"><span style=\"text-decoration: underline;\">PRODUCT DETAILS</span></p>\n<p><span class=\"section-title\">Shirt: </span>Digital Printed Embroidered<br><strong>Meter: </strong> 1.70 Mtrs<br><strong>Fabric: </strong>Khaddar<br><strong>Color: </strong>Purple<br><strong>Hand Feel: </strong>Soft<br><br><span class=\"section-title\">Dupatta: </span> Digital Printed<br><strong>Meter:</strong> 2.50 Mtrs<br><strong>Fabric:</strong> Khaddar<br><strong>Color:</strong> Purple<br><strong>Hand Feel:</strong> Soft<br><br><span class=\"section-title\">Trousers:</span> Dyed<br><strong>Meter:</strong> 1.60 Mtrs<br><strong>Fabric:</strong> Khaddar<br><strong>Color:</strong> Purple<br><strong>Hand Feel:</strong> Soft<br><br><strong>Note:</strong><br>Product color may vary slightly due to photographic lighting sources or phone settings</p>\n</div>",
+      "tags": [
+        "2026",
+        "3 Piece",
+        "Aqua Blue",
+        "Eastern Wear",
+        "Embroidered",
+        "Ethnic",
+        "Full Suit",
+        "Khaddar",
+        "New",
+        "Unstitched",
+        "WFM36632",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0320/4405/6716/files/WFM36632a.webp?v=1795522367"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Purple"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 2,
+          "values": [
+            "Khaddar"
+          ]
+        }
+      ],
+      "variants": {
+        "64048836542604": {
+          "id": "64048836542604",
+          "title": "Purple / Khaddar",
+          "options": [
+            "Purple",
+            "Khaddar"
+          ],
+          "sku": "WFM36632",
+          "available": true,
+          "price": 599000,
+          "compare_at_price": 599000
+        }
+      },
+      "available": true
+    },
     "5177571868812": {
       "id": "5177571868812",
       "title": "Unstitched Cambric Bottom - Black",
@@ -246934,12 +247435,12 @@
             "Cotton Net"
           ],
           "sku": "WUM35111",
-          "available": false,
+          "available": true,
           "price": 499500,
           "compare_at_price": 999000
         }
       },
-      "available": false
+      "available": true
     },
     "8147103580300": {
       "id": "8147103580300",
@@ -247117,12 +247618,12 @@
             "Lawn"
           ],
           "sku": "WFM35422",
-          "available": false,
+          "available": true,
           "price": 349500,
           "compare_at_price": 699000
         }
       },
-      "available": false
+      "available": true
     },
     "8157108568204": {
       "id": "8157108568204",
@@ -248775,12 +249276,12 @@
             "Cotton Satin"
           ],
           "sku": "WUB24311",
-          "available": true,
+          "available": false,
           "price": 349500,
           "compare_at_price": 699000
         }
       },
-      "available": true
+      "available": false
     },
     "7518452777100": {
       "id": "7518452777100",
@@ -250174,12 +250675,12 @@
             "Lawn"
           ],
           "sku": "WFD24622",
-          "available": false,
+          "available": true,
           "price": 224500,
           "compare_at_price": 449000
         }
       },
-      "available": false
+      "available": true
     },
     "8201321545868": {
       "id": "8201321545868",
