@@ -3,7 +3,7 @@
   "source": "https://diners.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T11:39:32.449144+00:00",
+  "checked_at": "2026-11-24T23:51:19.587216+00:00",
   "products": {
     "8793133187368": {
       "id": "8793133187368",
@@ -4731,7 +4731,7 @@
             "M"
           ],
           "sku": "NAJ121-BURGUNDY",
-          "available": true,
+          "available": false,
           "price": 197400,
           "compare_at_price": 329000
         },
@@ -4769,7 +4769,7 @@
           "compare_at_price": 329000
         }
       },
-      "available": true
+      "available": false
     },
     "10103923605800": {
       "id": "10103923605800",
@@ -10661,7 +10661,7 @@
             "5Y"
           ],
           "sku": "KBS-0080-BEIGE",
-          "available": false,
+          "available": true,
           "price": 749250,
           "compare_at_price": 999000
         },
@@ -10694,7 +10694,7 @@
             "10Y"
           ],
           "sku": "KBS-0080-BEIGE",
-          "available": false,
+          "available": true,
           "price": 824250,
           "compare_at_price": 1099000
         },
@@ -11647,6 +11647,156 @@
             "46"
           ],
           "sku": "BA3497-BEIGE",
+          "available": false,
+          "price": 499000,
+          "compare_at_price": 599000
+        }
+      },
+      "available": true
+    },
+    "15450630750504": {
+      "id": "15450630750504",
+      "title": "Beige Regular Fit Formal Trouser",
+      "handle": "ba3498-beige",
+      "url": "https://diners.com.pk/products/ba3498-beige",
+      "vendor": "D Man",
+      "type": "Trouser",
+      "description": "<ul>\n<li>Trouser Type: Formal</li>\n<li>Fit: Regular Fit</li>\n<li><span>Color: Beige</span></li>\n<li><span>Fabric: Wash &amp; Wear</span></li>\n</ul>",
+      "tags": [
+        "2999-5999",
+        "BF2019",
+        "FLAT-PRICES",
+        "Formal",
+        "beige",
+        "d-man",
+        "men-all",
+        "men-wedding",
+        "mensalefestive",
+        "menwesternall",
+        "new",
+        "regular-fit",
+        "shirt-t-shirt-trouser-jeans",
+        "trouser",
+        "trouser-jeans-collection"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BA3498-BEIGE-01.webp?v=1793963601",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BA3498-BEIGE-02.webp?v=1793963601",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BA3498-BEIGE-03.webp?v=1793963601"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+          ]
+        }
+      ],
+      "variants": {
+        "68022804906280": {
+          "id": "68022804906280",
+          "title": "30",
+          "options": [
+            "30"
+          ],
+          "sku": "BA3498-BEIGE",
+          "available": false,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022804939048": {
+          "id": "68022804939048",
+          "title": "32",
+          "options": [
+            "32"
+          ],
+          "sku": "BA3498-BEIGE",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022804971816": {
+          "id": "68022804971816",
+          "title": "34",
+          "options": [
+            "34"
+          ],
+          "sku": "BA3498-BEIGE",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805004584": {
+          "id": "68022805004584",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "BA3498-BEIGE",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805037352": {
+          "id": "68022805037352",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "BA3498-BEIGE",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805070120": {
+          "id": "68022805070120",
+          "title": "40",
+          "options": [
+            "40"
+          ],
+          "sku": "BA3498-BEIGE",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805102888": {
+          "id": "68022805102888",
+          "title": "42",
+          "options": [
+            "42"
+          ],
+          "sku": "BA3498-BEIGE",
+          "available": false,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805135656": {
+          "id": "68022805135656",
+          "title": "44",
+          "options": [
+            "44"
+          ],
+          "sku": "BA3498-BEIGE",
+          "available": false,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805168424": {
+          "id": "68022805168424",
+          "title": "46",
+          "options": [
+            "46"
+          ],
+          "sku": "BA3498-BEIGE",
           "available": false,
           "price": 499000,
           "compare_at_price": 599000
@@ -18572,6 +18722,133 @@
       },
       "available": true
     },
+    "15472530325800": {
+      "id": "15472530325800",
+      "title": "Beige Wash & Wear Shalwar Kameez",
+      "handle": "bs-0007-beige",
+      "url": "https://diners.com.pk/products/bs-0007-beige",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<ul>\n<li>\n<strong>Fit Type: </strong>Regular</li>\n<li>\n<strong>Color: </strong>Beige</li>\n<li>\n<strong>Fabric: </strong>Wash &amp; Wear</li>\n<li>\n<strong>Collar Type: </strong>Band Collar</li>\n</ul>\n<ul></ul>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "beige",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "new",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0007-BEIGE-01.webp?v=1795526262",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0007-BEIGE-02.webp?v=1795526262",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0007-BEIGE-03.webp?v=1795526262",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0007-BEIGE-04.webp?v=1795526262"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "68121797001512": {
+          "id": "68121797001512",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "BS-0007-BEIGE",
+          "available": false,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "68121797034280": {
+          "id": "68121797034280",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "BS-0007-BEIGE",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "68121797067048": {
+          "id": "68121797067048",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "BS-0007-BEIGE",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "68121797099816": {
+          "id": "68121797099816",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "BS-0007-BEIGE",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "68121797132584": {
+          "id": "68121797132584",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "BS-0007-BEIGE",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "68121797165352": {
+          "id": "68121797165352",
+          "title": "XXL",
+          "options": [
+            "XXL"
+          ],
+          "sku": "BS-0007-BEIGE",
+          "available": false,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "68121797198120": {
+          "id": "68121797198120",
+          "title": "XXXL",
+          "options": [
+            "XXXL"
+          ],
+          "sku": "BS-0007-BEIGE",
+          "available": false,
+          "price": 999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "8296050589992": {
       "id": "8296050589992",
       "title": "Beige Wash & Wear Smart Fit Trouser",
@@ -21481,7 +21758,7 @@
             "38"
           ],
           "sku": "IE82-BLK-BR",
-          "available": true,
+          "available": false,
           "price": 306750,
           "compare_at_price": 409000
         },
@@ -26457,7 +26734,7 @@
             "41"
           ],
           "sku": "PSLD-0097-BLACK",
-          "available": true,
+          "available": false,
           "price": 524500,
           "compare_at_price": 1049000
         },
@@ -26506,7 +26783,7 @@
           "compare_at_price": 1049000
         }
       },
-      "available": true
+      "available": false
     },
     "9031536607528": {
       "id": "9031536607528",
@@ -28943,7 +29220,7 @@
             "40"
           ],
           "sku": "PSLD-0128-BLACK",
-          "available": false,
+          "available": true,
           "price": 449250,
           "compare_at_price": 599000
         },
@@ -41078,7 +41355,7 @@
             "36"
           ],
           "sku": "LSL-0045-BLACK",
-          "available": true,
+          "available": false,
           "price": 137400,
           "compare_at_price": 229000
         },
@@ -41149,7 +41426,7 @@
           "compare_at_price": 229000
         }
       },
-      "available": true
+      "available": false
     },
     "9588497154344": {
       "id": "9588497154344",
@@ -46537,7 +46814,7 @@
             "40"
           ],
           "sku": "IE100-BLACK",
-          "available": true,
+          "available": false,
           "price": 329000,
           "compare_at_price": null
         },
@@ -58920,6 +59197,91 @@
       },
       "available": true
     },
+    "15427739877672": {
+      "id": "15427739877672",
+      "title": "Black Shalwar Kameez with Waistcoat",
+      "handle": "bsw0002-black",
+      "url": "https://diners.com.pk/products/bsw0002-black",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez Combo",
+      "description": "<ul>\n<li>\n<strong>Fit Type: </strong>Regular</li>\n<li>\n<strong>Color: </strong>Dark Green</li>\n<li>\n<strong>Fabric: </strong>Wash &amp; Wear</li>\n<li>\n<strong>Collar Type: </strong>Shirt Collar</li>\n</ul>\n<ul></ul>",
+      "tags": [
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "black",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "new",
+        "shalwar-kameez"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BSW0002-BLACK-01.webp?v=1793962624",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BSW0002-BLACK-02.webp?v=1793962625",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BSW0002-BLACK-03.webp?v=1793962625",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BSW0002-BLACK-04.webp?v=1793962625"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "67911413137704": {
+          "id": "67911413137704",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "BSW0002-BLACK",
+          "available": true,
+          "price": 1899000,
+          "compare_at_price": null
+        },
+        "67911413170472": {
+          "id": "67911413170472",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "BSW0002-BLACK",
+          "available": true,
+          "price": 1899000,
+          "compare_at_price": null
+        },
+        "67911413203240": {
+          "id": "67911413203240",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "BSW0002-BLACK",
+          "available": true,
+          "price": 1899000,
+          "compare_at_price": null
+        },
+        "67911413236008": {
+          "id": "67911413236008",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "BSW0002-BLACK",
+          "available": true,
+          "price": 1899000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "15431804846376": {
       "id": "15431804846376",
       "title": "Black Shalwar Kameez with Waistcoat",
@@ -60089,7 +60451,7 @@
             "40"
           ],
           "sku": "BJ3371-BLACK",
-          "available": true,
+          "available": false,
           "price": 374250,
           "compare_at_price": 499000
         }
@@ -63343,7 +63705,7 @@
             "30"
           ],
           "sku": "BD3128-BLACK",
-          "available": true,
+          "available": false,
           "price": 411750,
           "compare_at_price": 549000
         },
@@ -63392,7 +63754,7 @@
           "compare_at_price": 549000
         }
       },
-      "available": true
+      "available": false
     },
     "9588496597288": {
       "id": "9588496597288",
@@ -64786,7 +65148,7 @@
             "32"
           ],
           "sku": "BJ3381-BLACK",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -75556,6 +75918,109 @@
       },
       "available": true
     },
+    "15472530129192": {
+      "id": "15472530129192",
+      "title": "Black Wash & Wear Shalwar Kameez",
+      "handle": "bs-0003-black",
+      "url": "https://diners.com.pk/products/bs-0003-black",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<ul>\n<li>\n<strong>Fit Type: </strong>Regular</li>\n<li>\n<strong>Color: </strong>Black</li>\n<li>\n<strong>Fabric: </strong>Wash &amp; Wear</li>\n<li>\n<strong>Collar Type: </strong>Band Collar</li>\n</ul>\n<ul></ul>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "black",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "new",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-BLACK-01.webp?v=1795526221",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-BLACK-02.webp?v=1795526221",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-BLACK-03.webp?v=1795526221",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-BLACK-04.webp?v=1795526221"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68121795985704": {
+          "id": "68121795985704",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "BS-0003-BLACK",
+          "available": false,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796018472": {
+          "id": "68121796018472",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "BS-0003-BLACK",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796051240": {
+          "id": "68121796051240",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "BS-0003-BLACK",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796084008": {
+          "id": "68121796084008",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "BS-0003-BLACK",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796116776": {
+          "id": "68121796116776",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "BS-0003-BLACK",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "8503735091496": {
       "id": "8503735091496",
       "title": "Black Wash & Wear Unstitched Fabric for Men",
@@ -85361,7 +85826,7 @@
             "M"
           ],
           "sku": "FAP005-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 235500,
           "compare_at_price": 471000
         },
@@ -85372,7 +85837,7 @@
             "L"
           ],
           "sku": "FAP005-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 235500,
           "compare_at_price": 471000
         },
@@ -90335,7 +90800,7 @@
             "38"
           ],
           "sku": "BJ3346-BLUE",
-          "available": true,
+          "available": false,
           "price": 411750,
           "compare_at_price": 549000
         },
@@ -109133,7 +109598,7 @@
             "XXL"
           ],
           "sku": "GA4048-BLUE",
-          "available": true,
+          "available": false,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -140531,7 +140996,7 @@
             "42"
           ],
           "sku": "SLD-0051-Brown",
-          "available": true,
+          "available": false,
           "price": 149000,
           "compare_at_price": 461000
         },
@@ -140580,7 +141045,7 @@
           "compare_at_price": 461000
         }
       },
-      "available": true
+      "available": false
     },
     "8295442055464": {
       "id": "8295442055464",
@@ -140869,7 +141334,7 @@
             "18.5"
           ],
           "sku": "AD41946-BROWN",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 449000
         }
@@ -143611,7 +144076,7 @@
             "14Y"
           ],
           "sku": "KBS-0094-BROWN",
-          "available": false,
+          "available": true,
           "price": 1124250,
           "compare_at_price": 1499000
         }
@@ -158084,7 +158549,7 @@
             "XL"
           ],
           "sku": "FAJW025-NAVY",
-          "available": true,
+          "available": false,
           "price": 224500,
           "compare_at_price": 449000
         },
@@ -162101,7 +162566,7 @@
             "42"
           ],
           "sku": "SMC-0101-COFFEE",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": 820000
         },
@@ -173214,7 +173679,7 @@
             "41"
           ],
           "sku": "PSLD-0048-COFFEE",
-          "available": true,
+          "available": false,
           "price": 149000,
           "compare_at_price": 338000
         },
@@ -173263,7 +173728,7 @@
           "compare_at_price": 338000
         }
       },
-      "available": true
+      "available": false
     },
     "8976523493672": {
       "id": "8976523493672",
@@ -182746,6 +183211,212 @@
       },
       "available": true
     },
+    "15472530161960": {
+      "id": "15472530161960",
+      "title": "Cream Wash & Wear Shalwar Kameez",
+      "handle": "bs-0003-cream",
+      "url": "https://diners.com.pk/products/bs-0003-cream",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<ul>\n<li>\n<strong>Fit Type: </strong>Regular</li>\n<li>\n<strong>Color: </strong>Cream</li>\n<li>\n<strong>Fabric: </strong>Wash &amp; Wear</li>\n<li>\n<strong>Collar Type: </strong>Band Collar</li>\n</ul>\n<ul></ul>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "cream",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "new",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-CREAM-01.webp?v=1795526212",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-CREAM-02.webp?v=1795526212",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-CREAM-03.webp?v=1795526212",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-CREAM-04.webp?v=1795526212"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68121796215080": {
+          "id": "68121796215080",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "BS-0003-CREAM",
+          "available": false,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796247848": {
+          "id": "68121796247848",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "BS-0003-CREAM",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796280616": {
+          "id": "68121796280616",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "BS-0003-CREAM",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796313384": {
+          "id": "68121796313384",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "BS-0003-CREAM",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796346152": {
+          "id": "68121796346152",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "BS-0003-CREAM",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15472530260264": {
+      "id": "15472530260264",
+      "title": "Cream Wash & Wear Shalwar Kameez",
+      "handle": "bs-0004-cream",
+      "url": "https://diners.com.pk/products/bs-0004-cream",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<ul>\n<li>\n<strong>Fit Type: </strong>Regular</li>\n<li>\n<strong>Color: </strong>Cream</li>\n<li>\n<strong>Fabric: </strong>Wash &amp; Wear</li>\n<li>\n<strong>Collar Type: </strong>Band Collar</li>\n</ul>\n<ul></ul>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "cream",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "new",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0004-CREAM-01.webp?v=1795526244",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0004-CREAM-02.webp?v=1795526244",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0004-CREAM-03.webp?v=1795526244",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0004-CREAM-04.webp?v=1795526244"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68121796673832": {
+          "id": "68121796673832",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "BS-0004-CREAM",
+          "available": false,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796706600": {
+          "id": "68121796706600",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "BS-0004-CREAM",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796739368": {
+          "id": "68121796739368",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "BS-0004-CREAM",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796772136": {
+          "id": "68121796772136",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "BS-0004-CREAM",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796804904": {
+          "id": "68121796804904",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "BS-0004-CREAM",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "9876963197224": {
       "id": "9876963197224",
       "title": "Cream Wash & Wear Shalwar Kameez (TASSAVUR)",
@@ -182985,7 +183656,7 @@
             "XL"
           ],
           "sku": "FASW039-BARGUNDI",
-          "available": true,
+          "available": false,
           "price": 199500,
           "compare_at_price": 399000
         },
@@ -212767,7 +213438,7 @@
             "L-50"
           ],
           "sku": "CA4054-D-GREY",
-          "available": true,
+          "available": false,
           "price": 2499000,
           "compare_at_price": null
         },
@@ -218400,7 +219071,7 @@
             "30"
           ],
           "sku": "BJ3297-D-GREY",
-          "available": true,
+          "available": false,
           "price": 321750,
           "compare_at_price": 429000
         },
@@ -233378,12 +234049,12 @@
             "XL"
           ],
           "sku": "WK20861-RUST",
-          "available": true,
+          "available": false,
           "price": 299400,
           "compare_at_price": 499000
         }
       },
-      "available": true
+      "available": false
     },
     "10370996732200": {
       "id": "10370996732200",
@@ -234644,7 +235315,7 @@
             "M"
           ],
           "sku": "WKL1914-2PC-MAROON",
-          "available": true,
+          "available": false,
           "price": 524250,
           "compare_at_price": 699000
         },
@@ -238721,7 +239392,7 @@
             "3Y"
           ],
           "sku": "KGKK-1489-2PC-WHITE",
-          "available": true,
+          "available": false,
           "price": 209400,
           "compare_at_price": 349000
         },
@@ -238732,7 +239403,7 @@
             "4Y"
           ],
           "sku": "KGKK-1489-2PC-WHITE",
-          "available": true,
+          "available": false,
           "price": 209400,
           "compare_at_price": 349000
         },
@@ -238759,7 +239430,7 @@
           "compare_at_price": 349000
         }
       },
-      "available": true
+      "available": false
     },
     "10430393909544": {
       "id": "10430393909544",
@@ -239021,7 +239692,7 @@
             "5Y"
           ],
           "sku": "KGKK-1350-2PC-MAROON",
-          "available": true,
+          "available": false,
           "price": 257400,
           "compare_at_price": 429000
         },
@@ -239540,7 +240211,7 @@
             "12-18M"
           ],
           "sku": "KGKK-1492-2PC-L-GREEN",
-          "available": true,
+          "available": false,
           "price": 173400,
           "compare_at_price": 289000
         }
@@ -240120,7 +240791,7 @@
             "18Y"
           ],
           "sku": "WTK161-2PC-ROYAL BLUE",
-          "available": true,
+          "available": false,
           "price": 374250,
           "compare_at_price": 499000
         }
@@ -243514,7 +244185,7 @@
             "M"
           ],
           "sku": "WK20821-BLUE",
-          "available": true,
+          "available": false,
           "price": 317400,
           "compare_at_price": 529000
         },
@@ -243541,7 +244212,7 @@
           "compare_at_price": 529000
         }
       },
-      "available": true
+      "available": false
     },
     "9543243759912": {
       "id": "9543243759912",
@@ -245808,7 +246479,7 @@
             "XS"
           ],
           "sku": "WK20824-MUSTARD",
-          "available": true,
+          "available": false,
           "price": 341400,
           "compare_at_price": 569000
         },
@@ -248236,7 +248907,7 @@
             "M"
           ],
           "sku": "WKL1965-2PC-MAGENTA",
-          "available": true,
+          "available": false,
           "price": 449400,
           "compare_at_price": 749000
         },
@@ -250174,7 +250845,7 @@
             "L"
           ],
           "sku": "WKL2107-2PC-N-BLUE",
-          "available": false,
+          "available": true,
           "price": 389400,
           "compare_at_price": 649000
         },
@@ -255548,7 +256219,7 @@
             "XL"
           ],
           "sku": "WKL2080-3PC-FUSHIA",
-          "available": true,
+          "available": false,
           "price": 719400,
           "compare_at_price": 1199000
         }
@@ -262743,7 +263414,7 @@
             "4Y"
           ],
           "sku": "KGKK-1375-2PC-ROYAL BLUE",
-          "available": true,
+          "available": false,
           "price": 269250,
           "compare_at_price": 359000
         },
@@ -263998,7 +264669,7 @@
             "8Y"
           ],
           "sku": "KGKK-1421-2PC-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 257400,
           "compare_at_price": 429000
         },
@@ -264009,7 +264680,7 @@
             "9Y"
           ],
           "sku": "KGKK-1421-2PC-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 257400,
           "compare_at_price": 429000
         },
@@ -264031,7 +264702,7 @@
             "11Y"
           ],
           "sku": "KGKK-1421-2PC-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 269400,
           "compare_at_price": 449000
         },
@@ -264042,7 +264713,7 @@
             "12Y"
           ],
           "sku": "KGKK-1421-2PC-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 269400,
           "compare_at_price": 449000
         }
@@ -264125,7 +264796,7 @@
             "4Y"
           ],
           "sku": "KGKK-1436-2PC-PEACH",
-          "available": true,
+          "available": false,
           "price": 299400,
           "compare_at_price": 499000
         },
@@ -264136,7 +264807,7 @@
             "5Y"
           ],
           "sku": "KGKK-1436-2PC-PEACH",
-          "available": true,
+          "available": false,
           "price": 299400,
           "compare_at_price": 499000
         },
@@ -264202,7 +264873,7 @@
             "11Y"
           ],
           "sku": "KGKK-1436-2PC-PEACH",
-          "available": true,
+          "available": false,
           "price": 329400,
           "compare_at_price": 549000
         },
@@ -266532,7 +267203,7 @@
             "6Y"
           ],
           "sku": "KGKK-1500-2PC-YELLOW",
-          "available": true,
+          "available": false,
           "price": 215400,
           "compare_at_price": 359000
         },
@@ -266603,7 +267274,7 @@
           "compare_at_price": 369000
         }
       },
-      "available": true
+      "available": false
     },
     "10430393876776": {
       "id": "10430393876776",
@@ -275541,12 +276212,12 @@
             "Default Title"
           ],
           "sku": "WSH0148-L-BROWN",
-          "available": false,
+          "available": true,
           "price": 599250,
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "10100090667304": {
       "id": "10100090667304",
@@ -279466,7 +280137,7 @@
             "16Y"
           ],
           "sku": "WTK197-2PC-OLIVE",
-          "available": true,
+          "available": false,
           "price": 419400,
           "compare_at_price": 699000
         },
@@ -283264,7 +283935,7 @@
             "M"
           ],
           "sku": "WKL1941-2PC-BLACK",
-          "available": true,
+          "available": false,
           "price": 899400,
           "compare_at_price": 1499000
         },
@@ -302317,7 +302988,7 @@
             "L"
           ],
           "sku": "OA1606-BLACK",
-          "available": true,
+          "available": false,
           "price": 749250,
           "compare_at_price": 999000
         },
@@ -302355,7 +303026,7 @@
           "compare_at_price": 999000
         }
       },
-      "available": true
+      "available": false
     },
     "10021430821160": {
       "id": "10021430821160",
@@ -304467,7 +305138,7 @@
             "4-5Y"
           ],
           "sku": "KGI-0072-LAVENDER",
-          "available": false,
+          "available": true,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -304478,7 +305149,7 @@
             "6-7Y"
           ],
           "sku": "KGI-0072-LAVENDER",
-          "available": false,
+          "available": true,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -318583,7 +319254,7 @@
             "42"
           ],
           "sku": "PSLD-0105-GREEN",
-          "available": true,
+          "available": false,
           "price": 689400,
           "compare_at_price": 1149000
         },
@@ -326669,7 +327340,7 @@
             "M"
           ],
           "sku": "GA4054-GREEN",
-          "available": true,
+          "available": false,
           "price": 395400,
           "compare_at_price": 659000
         },
@@ -326718,7 +327389,7 @@
           "compare_at_price": 659000
         }
       },
-      "available": true
+      "available": false
     },
     "9660614115624": {
       "id": "9660614115624",
@@ -341534,6 +342205,132 @@
       },
       "available": true
     },
+    "10372609966376": {
+      "id": "10372609966376",
+      "title": "Grey Smart Fit Jeans",
+      "handle": "ppbj04-grey",
+      "url": "https://diners.com.pk/products/ppbj04-grey",
+      "vendor": "D Man",
+      "type": "JEANS",
+      "description": "<p>Diners Denim is Soft and smooth, this denim has an extra-fine weave and is engineered with added stretch for easy mobility.</p>\n<ul>\n<li>\n<strong>Trouser Type:</strong> Casual</li>\n<li>\n<strong>Color:</strong> Grey</li>\n<li>\n<strong>Fabric:</strong> Comfort Stretch (Denim - 99% Cotton 1% Spandex)</li>\n<li>\n<strong>Fit:</strong> Smart Fit</li>\n<li>Zip fly with button closure. Belt loops</li>\n<li>Five-pocket styling</li>\n<li>Machine Wash Cold</li>\n<li>Warm Iron If Needed</li>\n<li>Do Not Bleach</li>\n<li>Do Not Tumble Dry</li>\n</ul>",
+      "tags": [
+        "2999-5999",
+        "Casual",
+        "Denim",
+        "FLAT-PRICES",
+        "JEANS",
+        "grey",
+        "men-all",
+        "menwesternall",
+        "new",
+        "size-30",
+        "size-32",
+        "size-34",
+        "size-36",
+        "size-40",
+        "size-42",
+        "smart-fit",
+        "trouser-jeans-collection"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/PPBJ04-GREY-01.webp?v=1787570584"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+          ]
+        }
+      ],
+      "variants": {
+        "52190819615016": {
+          "id": "52190819615016",
+          "title": "30",
+          "options": [
+            "30"
+          ],
+          "sku": "PPBJ04-GREY",
+          "available": false,
+          "price": 149000,
+          "compare_at_price": 469000
+        },
+        "52190819647784": {
+          "id": "52190819647784",
+          "title": "32",
+          "options": [
+            "32"
+          ],
+          "sku": "PPBJ04-GREY",
+          "available": false,
+          "price": 149000,
+          "compare_at_price": 469000
+        },
+        "52190819680552": {
+          "id": "52190819680552",
+          "title": "34",
+          "options": [
+            "34"
+          ],
+          "sku": "PPBJ04-GREY",
+          "available": false,
+          "price": 149000,
+          "compare_at_price": 469000
+        },
+        "52190819713320": {
+          "id": "52190819713320",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "PPBJ04-GREY",
+          "available": false,
+          "price": 149000,
+          "compare_at_price": 469000
+        },
+        "52190819746088": {
+          "id": "52190819746088",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "PPBJ04-GREY",
+          "available": false,
+          "price": 149000,
+          "compare_at_price": 469000
+        },
+        "52190819778856": {
+          "id": "52190819778856",
+          "title": "40",
+          "options": [
+            "40"
+          ],
+          "sku": "PPBJ04-GREY",
+          "available": true,
+          "price": 149000,
+          "compare_at_price": 469000
+        },
+        "52190819811624": {
+          "id": "52190819811624",
+          "title": "42",
+          "options": [
+            "42"
+          ],
+          "sku": "PPBJ04-GREY",
+          "available": false,
+          "price": 149000,
+          "compare_at_price": 469000
+        }
+      },
+      "available": true
+    },
     "10312409645352": {
       "id": "10312409645352",
       "title": "Grey Solid Collar Polo",
@@ -344370,6 +345167,113 @@
           "available": true,
           "price": 674250,
           "compare_at_price": 899000
+        }
+      },
+      "available": true
+    },
+    "9653709930792": {
+      "id": "9653709930792",
+      "title": "Grey Wash & Wear Kurta Pajama",
+      "handle": "eg3677-grey",
+      "url": "https://diners.com.pk/products/eg3677-grey",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<ul>\n<li>\n<strong>Fit Type: </strong>Regular</li>\n<li>\n<strong>Color: </strong>Grey</li>\n<li>\n<strong>Fabric: </strong>Wash &amp; Wear</li>\n<li>\n<strong>Collar Type: </strong>Band Collar</li>\n</ul>\n<ul></ul>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "FLAT 40%",
+        "Shalwar Suit",
+        "festive25-ethnic",
+        "formal-s-k",
+        "grey",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "new",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3677-GREY-01.webp?v=1747991768",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3677-GREY-02.webp?v=1747991708",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3677-GREY-03.webp?v=1747991709",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3677-GREY-04.webp?v=1747991708",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3677-GREY-05.webp?v=1747991768"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "50167679025448": {
+          "id": "50167679025448",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EG3677-GREY",
+          "available": false,
+          "price": 419400,
+          "compare_at_price": 699000
+        },
+        "50167679058216": {
+          "id": "50167679058216",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EG3677-GREY",
+          "available": false,
+          "price": 419400,
+          "compare_at_price": 699000
+        },
+        "50167679090984": {
+          "id": "50167679090984",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EG3677-GREY",
+          "available": true,
+          "price": 419400,
+          "compare_at_price": 699000
+        },
+        "50167679123752": {
+          "id": "50167679123752",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EG3677-GREY",
+          "available": true,
+          "price": 419400,
+          "compare_at_price": 699000
+        },
+        "50167679156520": {
+          "id": "50167679156520",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "EG3677-GREY",
+          "available": true,
+          "price": 419400,
+          "compare_at_price": 699000
         }
       },
       "available": true
@@ -348667,7 +349571,7 @@
             "M"
           ],
           "sku": "FAZW026-H-GREY",
-          "available": true,
+          "available": false,
           "price": 224500,
           "compare_at_price": 449000
         },
@@ -348716,7 +349620,7 @@
           "compare_at_price": 449000
         }
       },
-      "available": true
+      "available": false
     },
     "9515449188648": {
       "id": "9515449188648",
@@ -349031,12 +349935,12 @@
             "XXXL"
           ],
           "sku": "FASW043-H-GREY",
-          "available": false,
+          "available": true,
           "price": 199500,
           "compare_at_price": 399000
         }
       },
-      "available": false
+      "available": true
     },
     "10289736614184": {
       "id": "10289736614184",
@@ -349314,7 +350218,7 @@
             "L"
           ],
           "sku": "FAZW005-H-GREY",
-          "available": true,
+          "available": false,
           "price": 334500,
           "compare_at_price": 669000
         },
@@ -353932,7 +354836,7 @@
             "XS"
           ],
           "sku": "WTR0665-BLACK",
-          "available": true,
+          "available": false,
           "price": 79000,
           "compare_at_price": 169000
         },
@@ -353992,7 +354896,7 @@
           "compare_at_price": 169000
         }
       },
-      "available": true
+      "available": false
     },
     "9432371396904": {
       "id": "9432371396904",
@@ -354295,7 +355199,7 @@
             "L"
           ],
           "sku": "WK30197-BLUE",
-          "available": true,
+          "available": false,
           "price": 349500,
           "compare_at_price": 699000
         },
@@ -359222,7 +360126,7 @@
             "34"
           ],
           "sku": "BJ3357-KHAKI",
-          "available": false,
+          "available": true,
           "price": 374250,
           "compare_at_price": 499000
         },
@@ -365691,7 +366595,7 @@
             "L"
           ],
           "sku": "FAJ004-R-BLUE",
-          "available": true,
+          "available": false,
           "price": 205000,
           "compare_at_price": 410000
         },
@@ -365729,7 +366633,7 @@
           "compare_at_price": 410000
         }
       },
-      "available": true
+      "available": false
     },
     "8295568474408": {
       "id": "8295568474408",
@@ -403927,12 +404831,12 @@
             "Default Title"
           ],
           "sku": "KA467-MIXCOLOR",
-          "available": true,
+          "available": false,
           "price": 119500,
           "compare_at_price": 239000
         }
       },
-      "available": true
+      "available": false
     },
     "9335568662824": {
       "id": "9335568662824",
@@ -405568,6 +406472,156 @@
           ],
           "sku": "BA3495-MALAYSIA",
           "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        }
+      },
+      "available": true
+    },
+    "15450630816040": {
+      "id": "15450630816040",
+      "title": "Malaysia Regular Fit Formal Trouser",
+      "handle": "ba3498-malaysia",
+      "url": "https://diners.com.pk/products/ba3498-malaysia",
+      "vendor": "D Man",
+      "type": "Trouser",
+      "description": "<ul>\n<li>Trouser Type: Formal</li>\n<li>Fit: Regular Fit</li>\n<li><span>Color: Malaysia</span></li>\n<li><span>Fabric: Wash &amp; Wear</span></li>\n</ul>",
+      "tags": [
+        "2999-5999",
+        "BF2019",
+        "FLAT-PRICES",
+        "Formal",
+        "Malaysia",
+        "d-man",
+        "men-all",
+        "men-wedding",
+        "mensalefestive",
+        "menwesternall",
+        "new",
+        "regular-fit",
+        "shirt-t-shirt-trouser-jeans",
+        "trouser",
+        "trouser-jeans-collection"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BA3498-MALAYSIA-01.webp?v=1793963592",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BA3498-MALAYSIA-02.webp?v=1793963592",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BA3498-MALAYSIA-03.webp?v=1793963592"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+          ]
+        }
+      ],
+      "variants": {
+        "68022805299496": {
+          "id": "68022805299496",
+          "title": "30",
+          "options": [
+            "30"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": false,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805332264": {
+          "id": "68022805332264",
+          "title": "32",
+          "options": [
+            "32"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805365032": {
+          "id": "68022805365032",
+          "title": "34",
+          "options": [
+            "34"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805397800": {
+          "id": "68022805397800",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805430568": {
+          "id": "68022805430568",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805463336": {
+          "id": "68022805463336",
+          "title": "40",
+          "options": [
+            "40"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805496104": {
+          "id": "68022805496104",
+          "title": "42",
+          "options": [
+            "42"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": false,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805528872": {
+          "id": "68022805528872",
+          "title": "44",
+          "options": [
+            "44"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": false,
+          "price": 499000,
+          "compare_at_price": 599000
+        },
+        "68022805561640": {
+          "id": "68022805561640",
+          "title": "46",
+          "options": [
+            "46"
+          ],
+          "sku": "BA3498-MALAYSIA",
+          "available": false,
           "price": 499000,
           "compare_at_price": 599000
         }
@@ -410354,7 +411408,7 @@
             "4Y"
           ],
           "sku": "KBS-0092-MAROON",
-          "available": false,
+          "available": true,
           "price": 599250,
           "compare_at_price": 799000
         },
@@ -410398,7 +411452,7 @@
             "10Y"
           ],
           "sku": "KBS-0092-MAROON",
-          "available": false,
+          "available": true,
           "price": 636750,
           "compare_at_price": 849000
         },
@@ -411368,7 +412422,7 @@
             "15"
           ],
           "sku": "AD41946-MAROON",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 449000
         },
@@ -417594,7 +418648,7 @@
             "30"
           ],
           "sku": "BJ3320-M-BLUE",
-          "available": true,
+          "available": false,
           "price": 411750,
           "compare_at_price": 549000
         },
@@ -417943,7 +418997,7 @@
             "2Y"
           ],
           "sku": "KBC-0546-M-BLUE",
-          "available": true,
+          "available": false,
           "price": 99000,
           "compare_at_price": 276000
         },
@@ -428133,7 +429187,7 @@
             "M"
           ],
           "sku": "SA919-MAROON",
-          "available": true,
+          "available": false,
           "price": 786750,
           "compare_at_price": 1049000
         },
@@ -428182,7 +429236,7 @@
           "compare_at_price": 1049000
         }
       },
-      "available": true
+      "available": false
     },
     "9478992199976": {
       "id": "9478992199976",
@@ -432800,7 +433854,7 @@
             "S"
           ],
           "sku": "FAJW023-BLACK",
-          "available": true,
+          "available": false,
           "price": 396750,
           "compare_at_price": 529000
         },
@@ -443112,7 +444166,7 @@
             "XL"
           ],
           "sku": "OA1609-NAVY",
-          "available": false,
+          "available": true,
           "price": 786750,
           "compare_at_price": 1049000
         },
@@ -445323,7 +446377,7 @@
             "M"
           ],
           "sku": "FAPW024-OLIVE",
-          "available": true,
+          "available": false,
           "price": 449250,
           "compare_at_price": 599000
         },
@@ -445598,7 +446652,7 @@
             "XXXL"
           ],
           "sku": "FAJW024-OLIVE",
-          "available": true,
+          "available": false,
           "price": 374250,
           "compare_at_price": 499000
         }
@@ -446507,6 +447561,134 @@
         }
       },
       "available": false
+    },
+    "15450631799080": {
+      "id": "15450631799080",
+      "title": "Men's Teal Wash & Wear Shalwar Kameez",
+      "handle": "pqs-0057-teal",
+      "url": "https://diners.com.pk/products/pqs-0057-teal",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIChAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAICRAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Upgrade your everyday and festive eastern wardrobe with this timeless <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Men's Teal Wash &amp; Wear Shalwar Kameez<!--TgQPHd|||[]--></strong>. Tailored from premium, wrinkle-resistant wash-and-wear fabric, this 2-piece stitched suit offers a crisp fall and effortless maintenance, making it ideal for Jumma prayers, office wear, Eid celebrations, and family gatherings across Pakistan.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"><br></div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIChAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAICxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAICxAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Premium Wash &amp; Wear Fabric:<!--TgQPHd|||[]--></strong> Soft, breathable, and crease-resistant material designed for all-season comfort and easy care.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAICxAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Sharp Classic Tailoring:<!--TgQPHd|||[]--></strong> Features a structured shirt collar and a sleek concealed front placket for a clean, modern finish.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAICxAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Comfortable Regular Fit:<!--TgQPHd|||[]--></strong> Cut with a straight hemline and side slits to ensure unrestricted movement throughout the day.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAICxAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Versatile Eastern Styling:<!--TgQPHd|||[]--></strong> Pair it with traditional leather Peshawari chappals, loafers, or layer it with a contrast waistcoat for weddings and semi-formal events.<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDBAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Product Specifications:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAA\" data-processed=\"true\" data-complete=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Package Includes:<!--TgQPHd|||[]--></strong> 1 Stitched Kameez and 1 Matching Shalwar<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fabric:<!--TgQPHd|||[]--></strong> Premium Blended Wash &amp; Wear<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Color:<!--TgQPHd|||[]--></strong> Teal<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Collar Style:<!--TgQPHd|||[]--></strong> Classic Shirt Collar<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAF\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Sleeves:<!--TgQPHd|||[]--></strong> Full Sleeves with Buttoned Cuffs<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAG\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit:<!--TgQPHd|||[]--></strong> Regular Fit<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAH\" data-sae=\"\" data-complete=\"true\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong> Easy machine or hand wash in cold water. Hang to dry and press with a medium-hot iron.</span></li>\n</ul>\n</div>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Shalwar Suit",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "new",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs",
+        "teal"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/PQS0057-TEAL-01.webp?v=1794988600",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/PQS0057-TEAL-02.webp?v=1794988600",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/PQS0057-TEAL-03.webp?v=1794988600",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/PQS0057-TEAL-04.webp?v=1794988600"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "68022810018088": {
+          "id": "68022810018088",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "PQS-0057-TEAL",
+          "available": false,
+          "price": 711750,
+          "compare_at_price": 949000
+        },
+        "68022810050856": {
+          "id": "68022810050856",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "PQS-0057-TEAL",
+          "available": true,
+          "price": 711750,
+          "compare_at_price": 949000
+        },
+        "68022810083624": {
+          "id": "68022810083624",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "PQS-0057-TEAL",
+          "available": true,
+          "price": 711750,
+          "compare_at_price": 949000
+        },
+        "68022810116392": {
+          "id": "68022810116392",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "PQS-0057-TEAL",
+          "available": true,
+          "price": 711750,
+          "compare_at_price": 949000
+        },
+        "68022810149160": {
+          "id": "68022810149160",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "PQS-0057-TEAL",
+          "available": true,
+          "price": 711750,
+          "compare_at_price": 949000
+        },
+        "68022810181928": {
+          "id": "68022810181928",
+          "title": "XXL",
+          "options": [
+            "XXL"
+          ],
+          "sku": "PQS-0057-TEAL",
+          "available": false,
+          "price": 711750,
+          "compare_at_price": 949000
+        },
+        "68022810214696": {
+          "id": "68022810214696",
+          "title": "XXXL",
+          "options": [
+            "XXXL"
+          ],
+          "sku": "PQS-0057-TEAL",
+          "available": false,
+          "price": 711750,
+          "compare_at_price": 949000
+        }
+      },
+      "available": true
     },
     "10115853091112": {
       "id": "10115853091112",
@@ -449643,6 +450825,97 @@
           "available": true,
           "price": 524250,
           "compare_at_price": 699000
+        }
+      },
+      "available": true
+    },
+    "15438977597736": {
+      "id": "15438977597736",
+      "title": "Men’s Classic Off White Wash & Wear Shalwar Kameez",
+      "handle": "eg-3891-offwhite",
+      "url": "https://diners.com.pk/products/eg-3891-offwhite",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<ul>\n<li>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDBAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Keep it sharp and comfortable with this <strong>Men's Off White</strong><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\"> Wash &amp; Wear Shalwar Kameez<!--TgQPHd|||[]--></strong>. Made from soft, wrinkle-resistant fabric, this ready-to-wear suit offers a clean, modern look that is effortless to maintain. Perfect for Eid, Friday prayers, and family events.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"><br></div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Details:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDhAA\" data-processed=\"true\" data-complete=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDhAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fabric:<!--TgQPHd|||[]--></strong> Premium Wash &amp; Wear (easy-care, breathable)<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDhAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Color:<!--TgQPHd|||[]--></strong> Off White<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDhAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Style:<!--TgQPHd|||[]--></strong> Classic band (mandarin) collar with a neat 4-button front placket.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDhAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Design:<!--TgQPHd|||[]--></strong> Subtle chest emblem, button cuffs, and matching relaxed shalwar<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDhAF\" data-complete=\"true\" data-processed=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit:<!--TgQPHd|||[]--></strong> Regular comfort fit.</span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDxAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Care:<!--TgQPHd|||[]--></strong> Machine wash cold, dry in shade, and lightly iron if needed.<span></span><!--TgQPHd|||[]-->\n</div>\n<div class=\"yhAwj\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\" data-sfc-inited=\"2\"><!--TgQPHd|||[]--></div>\n</li>\n</ul>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "new",
+        "off white",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3891-OFFWHITE-01.webp?v=1794985937",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3891-OFFWHITE-02.webp?v=1794985936",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3891-OFFWHITE-03.webp?v=1794985937",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/EG3891-OFFWHITE-04.webp?v=1794985936"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "67956549583144": {
+          "id": "67956549583144",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EG-3891-OFFWHITE",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "67956549615912": {
+          "id": "67956549615912",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EG-3891-OFFWHITE",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "67956549648680": {
+          "id": "67956549648680",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EG-3891-OFFWHITE",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": null
+        },
+        "67956549681448": {
+          "id": "67956549681448",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "EG-3891-OFFWHITE",
+          "available": true,
+          "price": 999000,
+          "compare_at_price": null
         }
       },
       "available": true
@@ -485842,7 +487115,7 @@
             "S"
           ],
           "sku": "FAPW025-NAVY",
-          "available": true,
+          "available": false,
           "price": 224500,
           "compare_at_price": 449000
         },
@@ -485902,7 +487175,7 @@
           "compare_at_price": 449000
         }
       },
-      "available": true
+      "available": false
     },
     "9872558227752": {
       "id": "9872558227752",
@@ -491791,7 +493064,7 @@
             "L"
           ],
           "sku": "HO0021-NAVY",
-          "available": false,
+          "available": true,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -491818,7 +493091,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "9849094897960": {
       "id": "9849094897960",
@@ -494623,6 +495896,161 @@
           ],
           "sku": "BD3138-NAVY",
           "available": true,
+          "price": 499000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15403152245032": {
+      "id": "15403152245032",
+      "title": "Navy Blue Smart Fit Cotton Chino",
+      "handle": "bd3141-navy",
+      "url": "https://diners.com.pk/products/bd3141-navy",
+      "vendor": "D Man",
+      "type": "Trouser",
+      "description": "<ul>\n<li>Trouser Type: Casual</li>\n<li>Fit: Smart Fit</li>\n<li>Fabric: Cotton</li>\n<li><span>Color: Navy Blue</span></li>\n</ul>",
+      "tags": [
+        "2999-5999",
+        "AG+BD",
+        "Cotton",
+        "FLAT 25%",
+        "chinos",
+        "men-all",
+        "men-wedding",
+        "mensalefestive",
+        "menwesternall",
+        "navy blue",
+        "new",
+        "size-30",
+        "size-32",
+        "size-34",
+        "size-36",
+        "size-38",
+        "size-40",
+        "size-42",
+        "smart-fit",
+        "trouser-jeans-collection"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BD3141-Navy-01.webp?v=1792409483",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BD3141-Navy-02.webp?v=1792409483",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BD3141-Navy-03.webp?v=1792409483"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+          ]
+        }
+      ],
+      "variants": {
+        "67670919905576": {
+          "id": "67670919905576",
+          "title": "30",
+          "options": [
+            "30"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": null
+        },
+        "67670919938344": {
+          "id": "67670919938344",
+          "title": "32",
+          "options": [
+            "32"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": null
+        },
+        "67670919971112": {
+          "id": "67670919971112",
+          "title": "34",
+          "options": [
+            "34"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": null
+        },
+        "67670920003880": {
+          "id": "67670920003880",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": null
+        },
+        "67670920036648": {
+          "id": "67670920036648",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": null
+        },
+        "67670920069416": {
+          "id": "67670920069416",
+          "title": "40",
+          "options": [
+            "40"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": null
+        },
+        "67670920102184": {
+          "id": "67670920102184",
+          "title": "42",
+          "options": [
+            "42"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": true,
+          "price": 499000,
+          "compare_at_price": null
+        },
+        "67670920134952": {
+          "id": "67670920134952",
+          "title": "44",
+          "options": [
+            "44"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": false,
+          "price": 499000,
+          "compare_at_price": null
+        },
+        "67670920167720": {
+          "id": "67670920167720",
+          "title": "46",
+          "options": [
+            "46"
+          ],
+          "sku": "BD3141-NAVY",
+          "available": false,
           "price": 499000,
           "compare_at_price": null
         }
@@ -498957,7 +500385,7 @@
             "M"
           ],
           "sku": "GA4070-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 419400,
           "compare_at_price": 699000
         },
@@ -502123,7 +503551,7 @@
             "S"
           ],
           "sku": "EG3827-N-BLUE",
-          "available": false,
+          "available": true,
           "price": 599250,
           "compare_at_price": 799000
         },
@@ -503349,6 +504777,212 @@
           "sku": "PQS-0056-N-BLUE",
           "available": false,
           "price": 999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15472530096424": {
+      "id": "15472530096424",
+      "title": "Navy Blue Wash & Wear Shalwar Kameez",
+      "handle": "bs-0001-n-blue",
+      "url": "https://diners.com.pk/products/bs-0001-n-blue",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<ul>\n<li>\n<strong>Fit Type: </strong>Regular</li>\n<li>\n<strong>Color: </strong>Navy Blue</li>\n<li>\n<strong>Fabric: </strong>Wash &amp; Wear</li>\n<li>\n<strong>Collar Type: </strong>Band Collar</li>\n</ul>\n<ul></ul>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "navy blue",
+        "new",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0001-N-BLUE-01.webp?v=1795526122",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0001-N-BLUE-02.webp?v=1795526122",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0001-N-BLUE-03.webp?v=1795526122",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0001-N-BLUE-04.webp?v=1795526122"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68121795658024": {
+          "id": "68121795658024",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "BS-0001-N-BLUE",
+          "available": false,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121795690792": {
+          "id": "68121795690792",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "BS-0001-N-BLUE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121795723560": {
+          "id": "68121795723560",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "BS-0001-N-BLUE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121795756328": {
+          "id": "68121795756328",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "BS-0001-N-BLUE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121795789096": {
+          "id": "68121795789096",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "BS-0001-N-BLUE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15472530194728": {
+      "id": "15472530194728",
+      "title": "Navy Blue Wash & Wear Shalwar Kameez",
+      "handle": "bs-0003-n-blue",
+      "url": "https://diners.com.pk/products/bs-0003-n-blue",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez",
+      "description": "<ul>\n<li>\n<strong>Fit Type: </strong>Regular</li>\n<li>\n<strong>Color: </strong>Navy Blue</li>\n<li>\n<strong>Fabric: </strong>Wash &amp; Wear</li>\n<li>\n<strong>Collar Type: </strong>Band Collar</li>\n</ul>\n<ul></ul>",
+      "tags": [
+        "5999-9999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "kameez-shalwar",
+        "men-all",
+        "men-wedding",
+        "navy blue",
+        "new",
+        "shalwar-kameez",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-BLUE-01.webp?v=1795526202",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-BLUE-02.webp?v=1795526202",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-BLUE-03.webp?v=1795526202",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BS0003-BLUE-04.webp?v=1795526202"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68121796411688": {
+          "id": "68121796411688",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "BS-0003-N-BLUE",
+          "available": false,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796444456": {
+          "id": "68121796444456",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "BS-0003-N-BLUE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796477224": {
+          "id": "68121796477224",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "BS-0003-N-BLUE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796509992": {
+          "id": "68121796509992",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "BS-0003-N-BLUE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "68121796542760": {
+          "id": "68121796542760",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "BS-0003-N-BLUE",
+          "available": true,
+          "price": 899000,
           "compare_at_price": null
         }
       },
@@ -507874,7 +509508,7 @@
             "L"
           ],
           "sku": "FAJW058-OFFWHITE",
-          "available": true,
+          "available": false,
           "price": 249500,
           "compare_at_price": 499000
         },
@@ -507885,7 +509519,7 @@
             "XL"
           ],
           "sku": "FAJW058-OFFWHITE",
-          "available": true,
+          "available": false,
           "price": 249500,
           "compare_at_price": 499000
         },
@@ -514688,6 +516322,97 @@
           "available": false,
           "price": 64500,
           "compare_at_price": 129000
+        }
+      },
+      "available": true
+    },
+    "15427740533032": {
+      "id": "15427740533032",
+      "title": "Off White Waistcoat",
+      "handle": "ga-4112-offwhite",
+      "url": "https://diners.com.pk/products/ga-4112-offwhite",
+      "vendor": "D Man",
+      "type": "Waist Coat",
+      "description": "<p>Color: Off White</p>",
+      "tags": [
+        "2999-5999",
+        "EG+GA",
+        "ETHNIC WEAR",
+        "men-all",
+        "men-wedding",
+        "new",
+        "off white",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xs",
+        "size-xxl",
+        "size-xxxl",
+        "waist-coat"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/GA4112-Offwhite-01.webp?v=1793962698",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/GA4112-Offwhite-02.webp?v=1793962698",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/GA4112-Offwhite-03.webp?v=1793962698",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/GA4112-Offwhite-04.webp?v=1793962698"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "67911414907176": {
+          "id": "67911414907176",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "GA-4112-OFFWHITE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "67911414939944": {
+          "id": "67911414939944",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "GA-4112-OFFWHITE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "67911414972712": {
+          "id": "67911414972712",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "GA-4112-OFFWHITE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
+        },
+        "67911415005480": {
+          "id": "67911415005480",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "GA-4112-OFFWHITE",
+          "available": true,
+          "price": 899000,
+          "compare_at_price": null
         }
       },
       "available": true
@@ -537135,7 +538860,7 @@
             "4-5Y"
           ],
           "sku": "KGP-0112-PINK",
-          "available": true,
+          "available": false,
           "price": 144500,
           "compare_at_price": 289000
         },
@@ -546829,7 +548554,7 @@
             "XXL"
           ],
           "sku": "FAS028-WHITE",
-          "available": true,
+          "available": false,
           "price": 205000,
           "compare_at_price": 410000
         },
@@ -547053,7 +548778,7 @@
             "XL"
           ],
           "sku": "FAS028-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 205000,
           "compare_at_price": 410000
         },
@@ -547148,7 +548873,7 @@
             "M"
           ],
           "sku": "FAS028-BLACK",
-          "available": true,
+          "available": false,
           "price": 205000,
           "compare_at_price": 410000
         },
@@ -560943,7 +562668,7 @@
             "S"
           ],
           "sku": "WKL2160-2PC-CREAM",
-          "available": true,
+          "available": false,
           "price": 359400,
           "compare_at_price": 599000
         },
@@ -577029,7 +578754,7 @@
             "11Y"
           ],
           "sku": "KGKK-1483-2PC-P-GREEN",
-          "available": true,
+          "available": false,
           "price": 209400,
           "compare_at_price": 349000
         },
@@ -587431,7 +589156,7 @@
             "S"
           ],
           "sku": "WK20502-S-GREEN",
-          "available": true,
+          "available": false,
           "price": 299500,
           "compare_at_price": 599000
         },
@@ -588242,7 +589967,7 @@
             "4Y"
           ],
           "sku": "KGKK-1420-2PC-TEAL",
-          "available": false,
+          "available": true,
           "price": 269400,
           "compare_at_price": 449000
         },
@@ -588264,7 +589989,7 @@
             "6Y"
           ],
           "sku": "KGKK-1420-2PC-TEAL",
-          "available": false,
+          "available": true,
           "price": 281400,
           "compare_at_price": 469000
         },
@@ -588297,7 +590022,7 @@
             "9Y"
           ],
           "sku": "KGKK-1420-2PC-TEAL",
-          "available": false,
+          "available": true,
           "price": 281400,
           "compare_at_price": 469000
         },
@@ -590833,12 +592558,12 @@
             "Default Title"
           ],
           "sku": "WU32333-OLIVE",
-          "available": true,
+          "available": false,
           "price": 329000,
           "compare_at_price": 429000
         }
       },
-      "available": true
+      "available": false
     },
     "10112862781736": {
       "id": "10112862781736",
@@ -591089,12 +592814,12 @@
             "Default Title"
           ],
           "sku": "WU32319-LILAC",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "10139221328168": {
       "id": "10139221328168",
@@ -599607,12 +601332,12 @@
             "Default Title"
           ],
           "sku": "WU32446-GREEN",
-          "available": true,
+          "available": false,
           "price": 369000,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "10418409210152": {
       "id": "10418409210152",
@@ -607590,7 +609315,7 @@
             "XL"
           ],
           "sku": "EG3808-PURPLE",
-          "available": true,
+          "available": false,
           "price": 599250,
           "compare_at_price": 799000
         }
@@ -609154,7 +610879,7 @@
             "L"
           ],
           "sku": "WKL1794-RED",
-          "available": true,
+          "available": false,
           "price": 239400,
           "compare_at_price": 399000
         },
@@ -609165,7 +610890,7 @@
             "XL"
           ],
           "sku": "WKL1794-RED",
-          "available": true,
+          "available": false,
           "price": 239400,
           "compare_at_price": 399000
         }
@@ -611440,12 +613165,12 @@
             "Default Title"
           ],
           "sku": "JAD1386-RED",
-          "available": true,
+          "available": false,
           "price": 40500,
           "compare_at_price": 54000
         }
       },
-      "available": true
+      "available": false
     },
     "9875222167848": {
       "id": "9875222167848",
@@ -614409,6 +616134,96 @@
       },
       "available": true
     },
+    "15507069600040": {
+      "id": "15507069600040",
+      "title": "Relaxed Straight-Fit Drawstring Casual Trousers - Teal",
+      "handle": "sit-0001-teal",
+      "url": "https://diners.com.pk/products/sit-0001-teal",
+      "vendor": "D Man",
+      "type": "CASUAL BOTTOM",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAA\" data-complete=\"true\" data-processed=\"true\">Upgrade your cold-weather wardrobe with the <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Diners Men's Relaxed Straight-Fit Casual Trousers<!--TgQPHd|||[]--></strong>, engineered specifically for mild winter comfort and effortless everyday style. Crafted from a thoughtfully balanced blend of <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">45% Cotton, 52% Polyester, and 3% Lycra<!--TgQPHd|||[]--></strong>, these trousers offer the soft, breathable feel of natural cotton paired with durable warmth and just the right amount of stretch for unrestricted movement.<span></span><!--TgQPHd|||[]-->\n</div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDRAA\" data-complete=\"true\" data-processed=\"true\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDRAA\" data-complete=\"true\" data-processed=\"true\">Designed with a modern straight-leg silhouette, these trousers feature a hybrid waistband complete with belt loops, a sleek double-snap closure, and an adjustable external drawstring for a customized, secure fit. Whether you are dressing down for a weekend coffee run or pairing them with a smart-casual sweater for an evening out, these versatile trousers deliver all-day ease without compromising on a sharp, clean look.<span></span><!--TgQPHd|||[]-->\n</div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\"></strong><br>\n</div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDxAB\" data-complete=\"true\" data-sae=\"\" aria-owns=\"action-menu-parent-container\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Ideal Mild Winter Blend:<!--TgQPHd|||[]--></strong> Made with 45% Cotton, 52% Polyester, and 3% Lycra for breathable warmth, durability, and flexible 4-way comfort.</span></li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDxAB\" data-complete=\"true\" data-sae=\"\" aria-owns=\"action-menu-parent-container\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Modern Relaxed-Straight Fit:<!--TgQPHd|||[]--></strong> Offers a clean, contemporary drape that pairs effortlessly with sneakers, loafers, or casual boots.</span></li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDxAB\" data-complete=\"true\" data-sae=\"\" aria-owns=\"action-menu-parent-container\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Custom Hybrid Waistband:<!--TgQPHd|||[]--></strong> Features an elasticated waist with an adjustable drawstring, belt loops, and a double-button snap closure for versatile styling.</span>\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDxAB\" data-complete=\"true\" data-sae=\"\" aria-owns=\"action-menu-parent-container\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Functional Design:<!--TgQPHd|||[]--></strong> Equipped with deep side slant pockets to keep your daily essentials secure and accessible.</span>\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDxAB\" data-complete=\"true\" data-sae=\"\" aria-owns=\"action-menu-parent-container\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Easy Care &amp; Wrinkle-Resistant:<!--TgQPHd|||[]--></strong> The polyester-cotton blend maintains its shape and smooth finish throughout the day with minimal ironing required.</span>\n</li>\n</ul>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDxAA\" data-complete=\"true\" data-processed=\"true\"></ul>",
+      "tags": [
+        "CasualBottoms22",
+        "FLAT 30%",
+        "formal-trousers-Lounge Wear",
+        "mensalefestive",
+        "new",
+        "size-l",
+        "size-m",
+        "size-s",
+        "size-xl",
+        "size-xxl",
+        "size-xxxl",
+        "street-icon",
+        "teal",
+        "under-2999",
+        "winter2022"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIT0001-TEAL-01.webp?v=1795423701",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIT0001-TEAL-02.webp?v=1795423701",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIT0001-TEAL-03.webp?v=1795423701"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "68269992608040": {
+          "id": "68269992608040",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "SIT-0001-TEAL",
+          "available": true,
+          "price": 799000,
+          "compare_at_price": null
+        },
+        "68269992640808": {
+          "id": "68269992640808",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "SIT-0001-TEAL",
+          "available": true,
+          "price": 799000,
+          "compare_at_price": null
+        },
+        "68269992673576": {
+          "id": "68269992673576",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "SIT-0001-TEAL",
+          "available": true,
+          "price": 799000,
+          "compare_at_price": null
+        },
+        "68269992706344": {
+          "id": "68269992706344",
+          "title": "XXL",
+          "options": [
+            "XXL"
+          ],
+          "sku": "SIT-0001-TEAL",
+          "available": true,
+          "price": 799000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "15506953175336": {
       "id": "15506953175336",
       "title": "Relaxed Straight-Fit Drawstring Casual Trousers - White",
@@ -616793,7 +618608,7 @@
             "15"
           ],
           "sku": "AD34171-R-BLUE",
-          "available": false,
+          "available": true,
           "price": 299000,
           "compare_at_price": 339000
         },
@@ -625055,7 +626870,7 @@
             "L"
           ],
           "sku": "EGW0041-SAND",
-          "available": false,
+          "available": true,
           "price": 1124250,
           "compare_at_price": 1499000
         },
@@ -625839,7 +627654,7 @@
             "L"
           ],
           "sku": "FAJ003-SEA GREEN",
-          "available": true,
+          "available": false,
           "price": 205000,
           "compare_at_price": 410000
         },
@@ -628622,7 +630437,7 @@
             "XL"
           ],
           "sku": "BSW-0004-L-BROWN",
-          "available": false,
+          "available": true,
           "price": 1899000,
           "compare_at_price": null
         },
@@ -628646,6 +630461,91 @@
           "sku": "BSW-0004-L-BROWN",
           "available": false,
           "price": 1899000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15450631373096": {
+      "id": "15450631373096",
+      "title": "Shalwar Kameez with Matching Waistcoat - Maroon",
+      "handle": "bsw-0005-maroon",
+      "url": "https://diners.com.pk/products/bsw-0005-maroon",
+      "vendor": "D Man",
+      "type": "Shalwar Kameez Combo",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Upgrade your formal and festive wardrobe with this timeless <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Men’s 3-Piece Maroon Wash &amp; Wear Shalwar Kameez and Waistcoat Set<!--TgQPHd|||[]--></strong>. Tailored for a crisp, structured silhouette, this monochromatic outfit brings together classic Eastern elegance and everyday practicality. Whether you are dressing up for Eid, a daytime wedding, Friday prayers, or a formal dinner, this set keeps you looking sharp with zero hassle.<!--TgQPHd|||[]-->\n</div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIDRAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIEBAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Specifications:<!--TgQPHd|||[]--></strong><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIERAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIERAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fabric:<!--TgQPHd|||[]--></strong> High-Grade Wash &amp; Wear<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIERAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Color:<!--TgQPHd|||[]--></strong>  Maroon<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIERAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit:<!--TgQPHd|||[]--></strong> Regular Straight Cut<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><br><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIERAF\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Package Includes:<!--TgQPHd|||[]--></strong> 1 Kameez, 1 Shalwar, 1 Waistcoat<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIEhAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIExAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIExAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Machine wash cold on a gentle cycle or hand wash.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAAIExAC\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Hang to dry for minimal ironing; dry clean the waistcoat to maintain its structured shape.</span></li>\n</ul>",
+      "tags": [
+        "EG+GA",
+        "ETHNIC WEAR",
+        "Shalwar Suit",
+        "kameez-shalwar",
+        "maroon",
+        "men-all",
+        "men-wedding",
+        "new",
+        "shalwar-kameez"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BSW0005-MAROON-01.webp?v=1794656333",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BSW0005-MAROON-02.webp?v=1794656334",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BSW0005-MAROON-03.webp?v=1794656333",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/BSW0005-MAROON-04.webp?v=1794656333"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68022807822632": {
+          "id": "68022807822632",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "BSW-0005-MAROON",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68022807855400": {
+          "id": "68022807855400",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "BSW-0005-MAROON",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68022807888168": {
+          "id": "68022807888168",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "BSW-0005-MAROON",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68022807920936": {
+          "id": "68022807920936",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "BSW-0005-MAROON",
+          "available": true,
+          "price": 1999000,
           "compare_at_price": null
         }
       },
@@ -638247,7 +640147,7 @@
             "17.5"
           ],
           "sku": "AD41606-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 449000
         }
@@ -654305,7 +656205,7 @@
             "14.5"
           ],
           "sku": "AH41598-MULTI",
-          "available": true,
+          "available": false,
           "price": 499000,
           "compare_at_price": 599000
         },
@@ -657922,12 +659822,12 @@
             "XL"
           ],
           "sku": "WKL1568-CREAM",
-          "available": false,
+          "available": true,
           "price": 299500,
           "compare_at_price": 599000
         }
       },
-      "available": false
+      "available": true
     },
     "9515450368296": {
       "id": "9515450368296",
@@ -676106,7 +678006,7 @@
             "41"
           ],
           "sku": "LSL-0045-WHITE",
-          "available": true,
+          "available": false,
           "price": 137400,
           "compare_at_price": 229000
         },
@@ -676122,7 +678022,7 @@
           "compare_at_price": 229000
         }
       },
-      "available": true
+      "available": false
     },
     "10136945295656": {
       "id": "10136945295656",
@@ -685955,7 +687855,7 @@
             "15"
           ],
           "sku": "AH41728-WHITE",
-          "available": true,
+          "available": false,
           "price": 499000,
           "compare_at_price": 599000
         },
@@ -691282,7 +693182,7 @@
             "15"
           ],
           "sku": "AD40839-WHITE",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 449000
         },
