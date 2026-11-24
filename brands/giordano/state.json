@@ -3,7 +3,7 @@
   "source": "https://giordanopk.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T03:19:14.512567+00:00",
+  "checked_at": "2026-11-24T13:41:13.160583+00:00",
   "products": {
     "9585262362917": {
       "id": "9585262362917",
@@ -2345,7 +2345,7 @@
             "Small"
           ],
           "sku": "MBP05C-S26B",
-          "available": true,
+          "available": false,
           "price": 1099900,
           "compare_at_price": null
         },
@@ -9024,7 +9024,7 @@
             "02 Black x Green"
           ],
           "sku": "MPO18-F24B",
-          "available": true,
+          "available": false,
           "price": 699900,
           "compare_at_price": 1399900
         },
@@ -31424,7 +31424,7 @@
       "url": "https://giordanopk.com/products/10751230902",
       "vendor": "Giordano Pakistan",
       "type": "",
-      "description": "<p><meta charset=\"utf-8\">Stay warm and stylish with this menâ€™s interlock slim fit full-zip knit jacket. Made from a premium blend of cotton, polyester, and spandex, it offers a soft, flexible feel with excellent durability. The interlock knit construction ensures a smooth finish and superior comfort, while the slim fit design provides a modern, streamlined look. Featuring a full front zipper and long sleeves, this jacket is perfect for layering during cool weather or casual outings.</p>\n<div>\n<ul>\n<li>78% Cotton 15% Polyester 7% Spandex</li>\n<li>Premium Cotton-Polyester-Spandex Blend for comfort and stretch</li>\n<li>Interlock Knit Fabric for a smooth, durable finish</li>\n<li>Slim Fit Design for a sleek, modern silhouette</li>\n<li>Full-Zip Front Closure for easy wear and versatile styling</li>\n<li>Long Sleeves with Ribbed Cuffs for added warmth and comfort</li>\n<li>Slim Fit</li>\n</ul>\n</div>",
+      "description": "<p><meta charset=\"utf-8\">Stay warm and stylish with this men's interlock slim fit full-zip knit jacket. Made from a premium blend of cotton, polyester, and spandex, it offers a soft, flexible feel with excellent durability. The interlock knit construction ensures a smooth finish and superior comfort, while the slim fit design provides a modern, streamlined look. Featuring a full front zipper and long sleeves, this jacket is perfect for layering during cool weather or casual outings.</p>\n<div>\n<ul>\n<li>78% Cotton 15% Polyester 7% Spandex</li>\n<li>Premium Cotton-Polyester-Spandex Blend for comfort and stretch</li>\n<li>Interlock Knit Fabric for a smooth, durable finish</li>\n<li>Slim Fit Design for a sleek, modern silhouette</li>\n<li>Full-Zip Front Closure for easy wear and versatile styling</li>\n<li>Long Sleeves with Ribbed Cuffs for added warmth and comfort</li>\n<li>Slim Fit</li>\n</ul>\n</div>",
       "tags": [
         "top",
         "winter"
@@ -31528,7 +31528,7 @@
       "url": "https://giordanopk.com/products/interlock-slim-fit-full-zip-knit-jacket",
       "vendor": "Giordano Pakistan",
       "type": "",
-      "description": "<p><meta charset=\"utf-8\">Stay warm and stylish with this menâ€™s interlock slim fit full-zip knit jacket. Made from a premium blend of cotton, polyester, and spandex, it offers a soft, flexible feel with excellent durability. The interlock knit construction ensures a smooth finish and superior comfort, while the slim fit design provides a modern, streamlined look. Featuring a full front zipper and long sleeves, this jacket is perfect for layering during cool weather or casual outings.</p>\n<div>\n<ul>\n<li>78% Cotton 15% Polyester 7% Spandex</li>\n<li>Premium Cotton-Polyester-Spandex Blend for comfort and stretch</li>\n<li>Interlock Knit Fabric for a smooth, durable finish</li>\n<li>Slim Fit Design for a sleek, modern silhouette</li>\n<li>Full-Zip Front Closure for easy wear and versatile styling</li>\n<li>Long Sleeves with Ribbed Cuffs for added warmth and comfort</li>\n<li>Slim Fit</li>\n</ul>\n</div>",
+      "description": "<p><meta charset=\"utf-8\">Stay warm and stylish with this men's interlock slim fit full-zip knit jacket. Made from a premium blend of cotton, polyester, and spandex, it offers a soft, flexible feel with excellent durability. The interlock knit construction ensures a smooth finish and superior comfort, while the slim fit design provides a modern, streamlined look. Featuring a full front zipper and long sleeves, this jacket is perfect for layering during cool weather or casual outings.</p>\n<div>\n<ul>\n<li>78% Cotton 15% Polyester 7% Spandex</li>\n<li>Premium Cotton-Polyester-Spandex Blend for comfort and stretch</li>\n<li>Interlock Knit Fabric for a smooth, durable finish</li>\n<li>Slim Fit Design for a sleek, modern silhouette</li>\n<li>Full-Zip Front Closure for easy wear and versatile styling</li>\n<li>Long Sleeves with Ribbed Cuffs for added warmth and comfort</li>\n<li>Slim Fit</li>\n</ul>\n</div>",
       "tags": [
         "clearance",
         "top",
@@ -31549,8 +31549,16 @@
       ],
       "options": [
         {
-          "name": "Size",
+          "name": "Color",
           "position": 1,
+          "values": [
+            "09 Sign Black",
+            "04 Creamware"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
           "values": [
             "Small",
             "Medium",
@@ -31558,35 +31566,15 @@
             "XL",
             "XXL"
           ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "09 Sign Black",
-            "04 Creamware"
-          ]
         }
       ],
       "variants": {
         "51971862036773": {
           "id": "51971862036773",
-          "title": "Small / 09 Sign Black",
+          "title": "09 Sign Black / Small",
           "options": [
-            "Small",
-            "09 Sign Black"
-          ],
-          "sku": "MJF25-F25C",
-          "available": false,
-          "price": 1699900,
-          "compare_at_price": 2499900
-        },
-        "51971862069541": {
-          "id": "51971862069541",
-          "title": "Small / 04 Creamware",
-          "options": [
-            "Small",
-            "04 Creamware"
+            "09 Sign Black",
+            "Small"
           ],
           "sku": "MJF25-F25C",
           "available": false,
@@ -31595,22 +31583,10 @@
         },
         "51971862135077": {
           "id": "51971862135077",
-          "title": "Medium / 09 Sign Black",
+          "title": "09 Sign Black / Medium",
           "options": [
-            "Medium",
-            "09 Sign Black"
-          ],
-          "sku": "MJF25-F25C",
-          "available": false,
-          "price": 1699900,
-          "compare_at_price": 2499900
-        },
-        "51971862167845": {
-          "id": "51971862167845",
-          "title": "Medium / 04 Creamware",
-          "options": [
-            "Medium",
-            "04 Creamware"
+            "09 Sign Black",
+            "Medium"
           ],
           "sku": "MJF25-F25C",
           "available": false,
@@ -31619,22 +31595,10 @@
         },
         "51971862233381": {
           "id": "51971862233381",
-          "title": "Large / 09 Sign Black",
+          "title": "09 Sign Black / Large",
           "options": [
-            "Large",
-            "09 Sign Black"
-          ],
-          "sku": "MJF25-F25C",
-          "available": false,
-          "price": 1699900,
-          "compare_at_price": 2499900
-        },
-        "51971862266149": {
-          "id": "51971862266149",
-          "title": "Large / 04 Creamware",
-          "options": [
-            "Large",
-            "04 Creamware"
+            "09 Sign Black",
+            "Large"
           ],
           "sku": "MJF25-F25C",
           "available": false,
@@ -31643,22 +31607,10 @@
         },
         "51971862331685": {
           "id": "51971862331685",
-          "title": "XL / 09 Sign Black",
+          "title": "09 Sign Black / XL",
           "options": [
-            "XL",
-            "09 Sign Black"
-          ],
-          "sku": "MJF25-F25C",
-          "available": false,
-          "price": 1699900,
-          "compare_at_price": 2499900
-        },
-        "51971862364453": {
-          "id": "51971862364453",
-          "title": "XL / 04 Creamware",
-          "options": [
-            "XL",
-            "04 Creamware"
+            "09 Sign Black",
+            "XL"
           ],
           "sku": "MJF25-F25C",
           "available": false,
@@ -31667,10 +31619,58 @@
         },
         "51971862429989": {
           "id": "51971862429989",
-          "title": "XXL / 09 Sign Black",
+          "title": "09 Sign Black / XXL",
           "options": [
-            "XXL",
-            "09 Sign Black"
+            "09 Sign Black",
+            "XXL"
+          ],
+          "sku": "MJF25-F25C",
+          "available": false,
+          "price": 1699900,
+          "compare_at_price": 2499900
+        },
+        "51971862069541": {
+          "id": "51971862069541",
+          "title": "04 Creamware / Small",
+          "options": [
+            "04 Creamware",
+            "Small"
+          ],
+          "sku": "MJF25-F25C",
+          "available": false,
+          "price": 1699900,
+          "compare_at_price": 2499900
+        },
+        "51971862167845": {
+          "id": "51971862167845",
+          "title": "04 Creamware / Medium",
+          "options": [
+            "04 Creamware",
+            "Medium"
+          ],
+          "sku": "MJF25-F25C",
+          "available": false,
+          "price": 1699900,
+          "compare_at_price": 2499900
+        },
+        "51971862266149": {
+          "id": "51971862266149",
+          "title": "04 Creamware / Large",
+          "options": [
+            "04 Creamware",
+            "Large"
+          ],
+          "sku": "MJF25-F25C",
+          "available": false,
+          "price": 1699900,
+          "compare_at_price": 2499900
+        },
+        "51971862364453": {
+          "id": "51971862364453",
+          "title": "04 Creamware / XL",
+          "options": [
+            "04 Creamware",
+            "XL"
           ],
           "sku": "MJF25-F25C",
           "available": false,
@@ -31679,10 +31679,10 @@
         },
         "51971862462757": {
           "id": "51971862462757",
-          "title": "XXL / 04 Creamware",
+          "title": "04 Creamware / XXL",
           "options": [
-            "XXL",
-            "04 Creamware"
+            "04 Creamware",
+            "XXL"
           ],
           "sku": "MJF25-F25C",
           "available": false,
@@ -44142,7 +44142,7 @@
           "sku": "MJF09-F24C",
           "available": false,
           "price": 1999900,
-          "compare_at_price": 1999900
+          "compare_at_price": null
         },
         "49956143268133": {
           "id": "49956143268133",
@@ -44503,7 +44503,7 @@
             "XL"
           ],
           "sku": "MSW33-F26A",
-          "available": true,
+          "available": false,
           "price": 1799900,
           "compare_at_price": null
         },
@@ -68055,7 +68055,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988981866789": {
           "id": "53988981866789",
@@ -68067,7 +68067,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988981899557": {
           "id": "53988981899557",
@@ -68079,7 +68079,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988981932325": {
           "id": "53988981932325",
@@ -68091,7 +68091,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988981965093": {
           "id": "53988981965093",
@@ -68103,7 +68103,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988981997861": {
           "id": "53988981997861",
@@ -68115,7 +68115,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982030629": {
           "id": "53988982030629",
@@ -68127,7 +68127,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982063397": {
           "id": "53988982063397",
@@ -68139,7 +68139,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982096165": {
           "id": "53988982096165",
@@ -68151,7 +68151,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982128933": {
           "id": "53988982128933",
@@ -68163,7 +68163,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982161701": {
           "id": "53988982161701",
@@ -68175,7 +68175,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982194469": {
           "id": "53988982194469",
@@ -68187,7 +68187,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982227237": {
           "id": "53988982227237",
@@ -68199,7 +68199,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982260005": {
           "id": "53988982260005",
@@ -68211,7 +68211,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         },
         "53988982292773": {
           "id": "53988982292773",
@@ -68223,7 +68223,7 @@
           "sku": "MSW29-F26A",
           "available": true,
           "price": 1499900,
-          "compare_at_price": 1399900
+          "compare_at_price": null
         }
       },
       "available": true
@@ -71978,7 +71978,7 @@
             "07 Hauted Red"
           ],
           "sku": "MFP40-S24A",
-          "available": true,
+          "available": false,
           "price": 649900,
           "compare_at_price": 1199900
         },
