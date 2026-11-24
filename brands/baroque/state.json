@@ -3,7 +3,7 @@
   "source": "https://baroque.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T11:24:09.822312+00:00",
+  "checked_at": "2026-11-24T23:36:56.157551+00:00",
   "products": {
     "6541553238083": {
       "id": "6541553238083",
@@ -9791,12 +9791,12 @@
             "DEFAULT"
           ],
           "sku": "CHV12D08",
-          "available": true,
+          "available": false,
           "price": 2495000,
           "compare_at_price": 2495000
         }
       },
-      "available": true
+      "available": false
     },
     "7332356227139": {
       "id": "7332356227139",
@@ -16651,7 +16651,7 @@
             "S"
           ],
           "sku": "EFPR1371-SML",
-          "available": true,
+          "available": false,
           "price": 1695000,
           "compare_at_price": 1695000
         },
@@ -23241,12 +23241,12 @@
             "DEFAULT"
           ],
           "sku": "EFUF4158",
-          "available": true,
+          "available": false,
           "price": 1495000,
           "compare_at_price": 1495000
         }
       },
-      "available": true
+      "available": false
     },
     "7410196709443": {
       "id": "7410196709443",
@@ -28074,7 +28074,7 @@
             "S"
           ],
           "sku": "EWPR1423-SML",
-          "available": true,
+          "available": false,
           "price": 1495000,
           "compare_at_price": 1495000
         },
@@ -28096,7 +28096,7 @@
             "L"
           ],
           "sku": "EWPR1423-LRG",
-          "available": false,
+          "available": true,
           "price": 1495000,
           "compare_at_price": 1495000
         }
@@ -28416,6 +28416,84 @@
       },
       "available": true
     },
+    "15527742439491": {
+      "id": "15527742439491",
+      "title": "EMBROIDERED KHADDAR PR-1447",
+      "handle": "embroidered-khaddar-pr-1447",
+      "url": "https://baroque.pk/products/embroidered-khaddar-pr-1447",
+      "vendor": "PRET",
+      "type": "WINTER",
+      "description": "<p>A beautifully coordinated three-piece ensemble featuring a printed khaddar shirt detailed with embroidered sleeve patches and hemline. The look is paired with a digital printed twill shawl dupatta and a digital printed khaddar trouser.<br><br></p>",
+      "tags": [
+        "BQU-PRET",
+        "PRET 26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/67_c50b12d0-2c86-4e80-8628-fe0103f16098.jpg?v=1795522723",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/68_0412de48-d704-424d-b666-d9a7e5accc14.jpg?v=1795522723",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/69_384e8f11-4207-48ad-83b1-2f109968a195.jpg?v=1795522723",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/70_28d48033-d72e-4e5b-9945-6847d4949cd2.jpg?v=1795522723"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "68090046808131": {
+          "id": "68090046808131",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EWPR1447-XSM",
+          "available": true,
+          "price": 1195000,
+          "compare_at_price": 1195000
+        },
+        "68090046840899": {
+          "id": "68090046840899",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EWPR1447-SML",
+          "available": true,
+          "price": 1195000,
+          "compare_at_price": 1195000
+        },
+        "68090046873667": {
+          "id": "68090046873667",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EWPR1447-MDM",
+          "available": true,
+          "price": 1195000,
+          "compare_at_price": 1195000
+        },
+        "68090046906435": {
+          "id": "68090046906435",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EWPR1447-LRG",
+          "available": true,
+          "price": 1195000,
+          "compare_at_price": 1195000
+        }
+      },
+      "available": true
+    },
     "15510720643139": {
       "id": "15510720643139",
       "title": "EMBROIDERED KHADDAR PR-1448",
@@ -28490,6 +28568,166 @@
           "available": true,
           "price": 1195000,
           "compare_at_price": 1195000
+        }
+      },
+      "available": true
+    },
+    "15527741980739": {
+      "id": "15527741980739",
+      "title": "EMBROIDERED KHADDAR PR-1456",
+      "handle": "embroidered-khaddar-pr-1456",
+      "url": "https://baroque.pk/products/embroidered-khaddar-pr-1456",
+      "vendor": "PRET",
+      "type": "WINTER",
+      "description": "<p>Crafted from embroidered Khaddar, this ensemble brings refined texture to a coordinated look.</p>\n<p><strong>Fabric:</strong> Embroidered Khaddar shirt and embroidered Khaddar trouser</p>",
+      "tags": [
+        "BQU-PRET",
+        "PRET 26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/114_5467566e-953a-41af-9c52-45ba3a2564b0.jpg?v=1795522567",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/115_dab0d79b-f850-433f-81ee-a4c428d0917e.jpg?v=1795522567",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/116_4cfaf417-c62c-43c2-9d05-f766b06206cd.jpg?v=1795522567",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/117_b2927f61-ee25-4f31-b6b5-d768066cf1c7.jpg?v=1795522567",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/118_2fd63ebf-60eb-4dd9-88d3-2563bb609cdd.jpg?v=1795522567",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/119_475ff257-8462-467a-99fd-2d166fad3e08.jpg?v=1795522567"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "68090045268035": {
+          "id": "68090045268035",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EWPR1456-XSM",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68090045300803": {
+          "id": "68090045300803",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EWPR1456-SML",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68090045333571": {
+          "id": "68090045333571",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EWPR1456-MDM",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68090045366339": {
+          "id": "68090045366339",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EWPR1456-LRG",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        }
+      },
+      "available": true
+    },
+    "15527733428291": {
+      "id": "15527733428291",
+      "title": "EMBROIDERED KHADDAR PR-1458",
+      "handle": "embroidered-khaddar-pr-1458",
+      "url": "https://baroque.pk/products/embroidered-khaddar-pr-1458",
+      "vendor": "PRET",
+      "type": "WINTER",
+      "description": "<p>Crafted from embroidered Khaddar, this ensemble brings refined texture to a coordinated look.</p>\n<p><strong>Fabric:</strong> Embroidered Khaddar shirt and embroidered Khaddar trouser</p>",
+      "tags": [
+        "BQU-PRET",
+        "PRET 26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/125_ebb62d61-9aed-4e89-b7fd-0ced7e5fcbc6.jpg?v=1795522099",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/126_d09f86d6-a3b1-4e7c-a7c8-e33ab9907a7f.jpg?v=1795522099",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/127_b120587d-a35b-4e4b-bd59-dc972888a60b.jpg?v=1795522099",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/128_db4ceef2-d71e-4acf-a355-1dfec1df6a15.jpg?v=1795522099",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/129_a2cd942b-db4b-4d6e-87da-d1c38df4a22b.jpg?v=1795522099",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/130_0912e82e-fe41-4ace-8f42-4612ed828d71.jpg?v=1795522099"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "68090030293059": {
+          "id": "68090030293059",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EWPR1458-XSM",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68090030325827": {
+          "id": "68090030325827",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EWPR1458-SML",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68090030358595": {
+          "id": "68090030358595",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EWPR1458-MDM",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68090030391363": {
+          "id": "68090030391363",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EWPR1458-LRG",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
         }
       },
       "available": true
@@ -31503,12 +31741,12 @@
             "DEFAULT"
           ],
           "sku": "EWUF4594",
-          "available": true,
+          "available": false,
           "price": 1195000,
           "compare_at_price": 1195000
         }
       },
-      "available": true
+      "available": false
     },
     "7841702510659": {
       "id": "7841702510659",
@@ -45826,12 +46064,12 @@
             "DEFAULT"
           ],
           "sku": "EFUF4378",
-          "available": false,
+          "available": true,
           "price": 1695000,
           "compare_at_price": 1695000
         }
       },
-      "available": false
+      "available": true
     },
     "7546084065347": {
       "id": "7546084065347",
@@ -45977,12 +46215,12 @@
             "DEFAULT"
           ],
           "sku": "EFUF4448",
-          "available": true,
+          "available": false,
           "price": 1995000,
           "compare_at_price": 1995000
         }
       },
-      "available": true
+      "available": false
     },
     "7673502236739": {
       "id": "7673502236739",
@@ -47599,12 +47837,12 @@
             "DEFAULT"
           ],
           "sku": "ESUF4090",
-          "available": true,
+          "available": false,
           "price": 556500,
           "compare_at_price": 795000
         }
       },
-      "available": true
+      "available": false
     },
     "7368778874947": {
       "id": "7368778874947",
@@ -48120,12 +48358,12 @@
             "DEFAULT"
           ],
           "sku": "EPUF0550",
-          "available": true,
+          "available": false,
           "price": 556000,
           "compare_at_price": 695000
         }
       },
-      "available": true
+      "available": false
     },
     "7012328144963": {
       "id": "7012328144963",
@@ -49019,7 +49257,7 @@
             "L"
           ],
           "sku": "EFPR1357-LRG",
-          "available": true,
+          "available": false,
           "price": 2295000,
           "compare_at_price": 2295000
         }
@@ -50579,7 +50817,7 @@
             "S"
           ],
           "sku": "EFPR1290-SML-333",
-          "available": true,
+          "available": false,
           "price": 2995000,
           "compare_at_price": 2995000
         },
@@ -50606,7 +50844,7 @@
           "compare_at_price": 2995000
         }
       },
-      "available": true
+      "available": false
     },
     "7780930977859": {
       "id": "7780930977859",
@@ -52435,7 +52673,7 @@
             "S"
           ],
           "sku": "EVPR1381-SML",
-          "available": true,
+          "available": false,
           "price": 2495000,
           "compare_at_price": 2495000
         },
@@ -52462,7 +52700,7 @@
           "compare_at_price": 2495000
         }
       },
-      "available": true
+      "available": false
     },
     "7848003895363": {
       "id": "7848003895363",
@@ -52599,7 +52837,7 @@
             "M"
           ],
           "sku": "EVPR1383-MDM",
-          "available": false,
+          "available": true,
           "price": 2495000,
           "compare_at_price": 2495000
         },
@@ -59383,7 +59621,10 @@
         "https://cdn.shopify.com/s/files/1/2277/5269/files/1_758c114d-71f7-4232-b8a5-209d215652de.jpg?v=1795002153",
         "https://cdn.shopify.com/s/files/1/2277/5269/files/2_252d6ddd-02c5-45c1-aa9a-5ae9ddc1f840.jpg?v=1795002153",
         "https://cdn.shopify.com/s/files/1/2277/5269/files/3_36ffed71-a71b-4fe8-b3a4-cce9118e54a3.jpg?v=1795002153",
-        "https://cdn.shopify.com/s/files/1/2277/5269/files/4_083c9235-efe0-47ea-9ade-b9c98026bb33.jpg?v=1795002153"
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/4_083c9235-efe0-47ea-9ade-b9c98026bb33.jpg?v=1795002153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/86_377bd93d-914e-4336-a083-c8d433273cfb.jpg?v=1795523087",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/87_4b76ca00-5255-4470-ba31-f6f5ab6c273d.jpg?v=1795523087",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/89_4bd2f666-a767-4493-be14-d3b918ca05b1.jpg?v=1795523086"
       ],
       "options": [
         {
@@ -59438,6 +59679,89 @@
             "L"
           ],
           "sku": "EWPR1451-LRG",
+          "available": true,
+          "price": 1495000,
+          "compare_at_price": 1495000
+        }
+      },
+      "available": true
+    },
+    "15527744667715": {
+      "id": "15527744667715",
+      "title": "EMBROIDERED VISCOSE PR-1452",
+      "handle": "embroidered-viscose-pr-1452",
+      "url": "https://baroque.pk/products/embroidered-viscose-pr-1452",
+      "vendor": "PRET",
+      "type": "WINTER",
+      "description": "<p>An elegant embroidered ensemble featuring a jacquard viscose shirt with embroidered neckline, sleeve borders and hemline. The digital-printed silk dupatta is finished with an embroidered border, while the cotton trouser completes the look.<br></p>",
+      "tags": [
+        "BQU-PRET",
+        "PRET 26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/86_377bd93d-914e-4336-a083-c8d433273cfb.jpg?v=1795523087",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/87_4b76ca00-5255-4470-ba31-f6f5ab6c273d.jpg?v=1795523087",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/89_4bd2f666-a767-4493-be14-d3b918ca05b1.jpg?v=1795523086",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/90_8f904fbc-aa8b-42b4-bd98-d7801162c9fa.jpg?v=1795523153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/91_8a1588fa-a351-4b9a-8164-130c2c3aed89.jpg?v=1795523153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/92_1c6257c7-42e6-4a90-b53c-bb654a207aa3.jpg?v=1795523153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/93_29c5a982-621b-4235-988a-899cf7ef0477.jpg?v=1795523153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/94_a3006f70-9406-4b32-8341-c72cdef0502f.jpg?v=1795523153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/95_154ed12f-6f81-4084-a2f2-9593f7b90caf.jpg?v=1795523153"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "68090080133187": {
+          "id": "68090080133187",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EWPR1452-XSM",
+          "available": true,
+          "price": 1495000,
+          "compare_at_price": 1495000
+        },
+        "68090080165955": {
+          "id": "68090080165955",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EWPR1452-SML",
+          "available": true,
+          "price": 1495000,
+          "compare_at_price": 1495000
+        },
+        "68090080198723": {
+          "id": "68090080198723",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EWPR1452-MDM",
+          "available": true,
+          "price": 1495000,
+          "compare_at_price": 1495000
+        },
+        "68090080231491": {
+          "id": "68090080231491",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EWPR1452-LRG",
           "available": true,
           "price": 1495000,
           "compare_at_price": 1495000
