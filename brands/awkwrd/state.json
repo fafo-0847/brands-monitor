@@ -3,7 +3,7 @@
   "source": "https://www.awkwardxstore.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T02:36:32.377454+00:00",
+  "checked_at": "2026-11-24T12:51:29.365225+00:00",
   "products": {
     "7965883072706": {
       "id": "7965883072706",
@@ -11984,12 +11984,12 @@
             "XL"
           ],
           "sku": null,
-          "available": true,
+          "available": false,
           "price": 185000,
           "compare_at_price": 280000
         }
       },
-      "available": true
+      "available": false
     },
     "8335650160834": {
       "id": "8335650160834",
@@ -19212,12 +19212,12 @@
             "XL"
           ],
           "sku": "Piping Hoodie-Fleece-XL-Mocha Brown",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 400000
         }
       },
-      "available": false
+      "available": true
     },
     "8251274428610": {
       "id": "8251274428610",
@@ -26023,7 +26023,7 @@
             "M"
           ],
           "sku": null,
-          "available": true,
+          "available": false,
           "price": 280000,
           "compare_at_price": 400000
         },
