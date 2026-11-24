@@ -3,7 +3,7 @@
   "source": "https://royaltag.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-23T11:15:04.652025+00:00",
+  "checked_at": "2026-11-24T03:12:19.836114+00:00",
   "products": {
     "8875920720046": {
       "id": "8875920720046",
@@ -92,7 +92,7 @@
             "Slim Fit"
           ],
           "sku": "161269",
-          "available": true,
+          "available": false,
           "price": 2415000,
           "compare_at_price": 3450000
         },
@@ -571,7 +571,7 @@
             "CH.Grey"
           ],
           "sku": "172232",
-          "available": true,
+          "available": false,
           "price": 3450000,
           "compare_at_price": 3450000
         },
@@ -1589,7 +1589,7 @@
             "BEIGE"
           ],
           "sku": "166473",
-          "available": true,
+          "available": false,
           "price": 262500,
           "compare_at_price": 525000
         },
@@ -2980,7 +2980,7 @@
             "BEIGE"
           ],
           "sku": "170589",
-          "available": false,
+          "available": true,
           "price": 2760000,
           "compare_at_price": 3450000
         },
@@ -3019,6 +3019,52 @@
           "available": true,
           "price": 2760000,
           "compare_at_price": 3450000
+        }
+      },
+      "available": true
+    },
+    "15493601657006": {
+      "id": "15493601657006",
+      "title": "BEIGE SCARF",
+      "handle": "scf-2612",
+      "url": "https://royaltag.com.pk/products/scf-2612",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2612</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2612_2.jpg?v=1795415668"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BEIGE"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464412846": {
+          "id": "68176464412846",
+          "title": "- / BEIGE",
+          "options": [
+            "-",
+            "BEIGE"
+          ],
+          "sku": "173436",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -3365,7 +3411,7 @@
             "Beige"
           ],
           "sku": "164432",
-          "available": true,
+          "available": false,
           "price": 575000,
           "compare_at_price": 1150000
         },
@@ -3380,6 +3426,52 @@
           "available": true,
           "price": 575000,
           "compare_at_price": 1150000
+        }
+      },
+      "available": true
+    },
+    "15493602082990": {
+      "id": "15493602082990",
+      "title": "Beige/Grey SCARF",
+      "handle": "scf-2619",
+      "url": "https://royaltag.com.pk/products/scf-2619",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2619</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2619_2.jpg?v=1795415584"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BG/GR"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464838830": {
+          "id": "68176464838830",
+          "title": "- / BG/GR",
+          "options": [
+            "-",
+            "BG/GR"
+          ],
+          "sku": "173443",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -5079,7 +5171,7 @@
             "BLACK"
           ],
           "sku": "168676",
-          "available": true,
+          "available": false,
           "price": 495000,
           "compare_at_price": 495000
         },
@@ -6822,7 +6914,7 @@
             "BLACK"
           ],
           "sku": "171027",
-          "available": true,
+          "available": false,
           "price": 3850000,
           "compare_at_price": 3850000
         },
@@ -6858,7 +6950,7 @@
             "BLACK"
           ],
           "sku": "171030",
-          "available": true,
+          "available": false,
           "price": 3850000,
           "compare_at_price": 3850000
         },
@@ -6986,6 +7078,236 @@
           "sku": "160053",
           "available": false,
           "price": 142500,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
+    "15493600936110": {
+      "id": "15493600936110",
+      "title": "BLACK SCARF",
+      "handle": "scf-2601",
+      "url": "https://royaltag.com.pk/products/scf-2601",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2601</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2601_2.jpg?v=1795415893"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BLACK"
+          ]
+        }
+      ],
+      "variants": {
+        "68176463659182": {
+          "id": "68176463659182",
+          "title": "- / BLACK",
+          "options": [
+            "-",
+            "BLACK"
+          ],
+          "sku": "173425",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
+    "15493601525934": {
+      "id": "15493601525934",
+      "title": "BLACK SCARF",
+      "handle": "scf-2610",
+      "url": "https://royaltag.com.pk/products/scf-2610",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2610</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2610_2.jpg?v=1795415794"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BLACK"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464249006": {
+          "id": "68176464249006",
+          "title": "- / BLACK",
+          "options": [
+            "-",
+            "BLACK"
+          ],
+          "sku": "173434",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
+    "15493601886382": {
+      "id": "15493601886382",
+      "title": "BLACK SCARF",
+      "handle": "scf-2616",
+      "url": "https://royaltag.com.pk/products/scf-2616",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2616</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2616_2.jpg?v=1795415631"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BLACK"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464642222": {
+          "id": "68176464642222",
+          "title": "- / BLACK",
+          "options": [
+            "-",
+            "BLACK"
+          ],
+          "sku": "173440",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
+    "15493602017454": {
+      "id": "15493602017454",
+      "title": "BLACK SCARF",
+      "handle": "scf-2618",
+      "url": "https://royaltag.com.pk/products/scf-2618",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2618</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2618_2.jpg?v=1795415608"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BLACK"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464773294": {
+          "id": "68176464773294",
+          "title": "- / BLACK",
+          "options": [
+            "-",
+            "BLACK"
+          ],
+          "sku": "173442",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
+    "15493602148526": {
+      "id": "15493602148526",
+      "title": "BLACK SCARF",
+      "handle": "scf-2620",
+      "url": "https://royaltag.com.pk/products/scf-2620",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2620</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2620_2.jpg?v=1795415563"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BLACK"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464871598": {
+          "id": "68176464871598",
+          "title": "- / BLACK",
+          "options": [
+            "-",
+            "BLACK"
+          ],
+          "sku": "173444",
+          "available": true,
+          "price": 285000,
           "compare_at_price": 285000
         }
       },
@@ -8013,6 +8335,144 @@
           "available": false,
           "price": 2975000,
           "compare_at_price": 4250000
+        }
+      },
+      "available": true
+    },
+    "15493601591470": {
+      "id": "15493601591470",
+      "title": "Black/Grey SCARF",
+      "handle": "scf-2611",
+      "url": "https://royaltag.com.pk/products/scf-2611",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2611</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2611_2.jpg?v=1795415677"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BK/GR"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464347310": {
+          "id": "68176464347310",
+          "title": "- / BK/GR",
+          "options": [
+            "-",
+            "BK/GR"
+          ],
+          "sku": "173435",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
+    "15493601099950": {
+      "id": "15493601099950",
+      "title": "Black/Olive SCARF",
+      "handle": "scf-2604",
+      "url": "https://royaltag.com.pk/products/scf-2604",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2604</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2604_2.jpg?v=1795415866"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BK-OL"
+          ]
+        }
+      ],
+      "variants": {
+        "68176463823022": {
+          "id": "68176463823022",
+          "title": "- / BK-OL",
+          "options": [
+            "-",
+            "BK-OL"
+          ],
+          "sku": "173428",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
+    "15493601165486": {
+      "id": "15493601165486",
+      "title": "Black/Olive SCARF",
+      "handle": "scf-2605",
+      "url": "https://royaltag.com.pk/products/scf-2605",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2605</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2605_2.jpg?v=1795415851"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BK/OL"
+          ]
+        }
+      ],
+      "variants": {
+        "68176463888558": {
+          "id": "68176463888558",
+          "title": "- / BK/OL",
+          "options": [
+            "-",
+            "BK/OL"
+          ],
+          "sku": "173429",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -11737,6 +12197,52 @@
       },
       "available": true
     },
+    "15493600968878": {
+      "id": "15493600968878",
+      "title": "BROWN SCARF",
+      "handle": "scf-2602",
+      "url": "https://royaltag.com.pk/products/scf-2602",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2602</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2602_2.jpg?v=1795415882"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BROWN"
+          ]
+        }
+      ],
+      "variants": {
+        "68176463691950": {
+          "id": "68176463691950",
+          "title": "- / BROWN",
+          "options": [
+            "-",
+            "BROWN"
+          ],
+          "sku": "173426",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
     "9001970860206": {
       "id": "9001970860206",
       "title": "Brown Signature Belt",
@@ -12642,6 +13148,52 @@
       },
       "available": true
     },
+    "15493601231022": {
+      "id": "15493601231022",
+      "title": "Brown/Grey SCARF",
+      "handle": "scf-2606",
+      "url": "https://royaltag.com.pk/products/scf-2606",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2606</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2606_2.jpg?v=1795415824"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BR/GR"
+          ]
+        }
+      ],
+      "variants": {
+        "68176463954094": {
+          "id": "68176463954094",
+          "title": "- / BR/GR",
+          "options": [
+            "-",
+            "BR/GR"
+          ],
+          "sku": "173430",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
     "15421257384110": {
       "id": "15421257384110",
       "title": "Button-Front Jacket",
@@ -13334,7 +13886,7 @@
             "BROWN"
           ],
           "sku": "172166",
-          "available": true,
+          "available": false,
           "price": 2550000,
           "compare_at_price": 2550000
         },
@@ -13658,7 +14210,7 @@
             "CAMEL"
           ],
           "sku": "166749",
-          "available": true,
+          "available": false,
           "price": 1960000,
           "compare_at_price": 2450000
         },
@@ -14561,7 +15113,7 @@
             "CH.COAL"
           ],
           "sku": "163482",
-          "available": true,
+          "available": false,
           "price": 3400000,
           "compare_at_price": 4250000
         },
@@ -16287,7 +16839,7 @@
             "CH.Grey"
           ],
           "sku": "169905",
-          "available": false,
+          "available": true,
           "price": 626500,
           "compare_at_price": 895000
         }
@@ -16343,7 +16895,7 @@
             "CH.Grey"
           ],
           "sku": "171291",
-          "available": true,
+          "available": false,
           "price": 895000,
           "compare_at_price": 0
         },
@@ -16394,6 +16946,52 @@
           "available": false,
           "price": 895000,
           "compare_at_price": 0
+        }
+      },
+      "available": true
+    },
+    "15493601427630": {
+      "id": "15493601427630",
+      "title": "Charcoal Grey SCARF",
+      "handle": "scf-2609",
+      "url": "https://royaltag.com.pk/products/scf-2609",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2609</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2609_2.jpg?v=1795415800"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "CH.Grey"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464150702": {
+          "id": "68176464150702",
+          "title": "- / CH.Grey",
+          "options": [
+            "-",
+            "CH.Grey"
+          ],
+          "sku": "173433",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -16662,7 +17260,7 @@
             "Charcoal Grey"
           ],
           "sku": "164435",
-          "available": true,
+          "available": false,
           "price": 575000,
           "compare_at_price": 1150000
         },
@@ -22018,6 +22616,52 @@
           "available": true,
           "price": 477500,
           "compare_at_price": 955000
+        }
+      },
+      "available": true
+    },
+    "15493601951918": {
+      "id": "15493601951918",
+      "title": "Coffee/Black SCARF",
+      "handle": "scf-2617",
+      "url": "https://royaltag.com.pk/products/scf-2617",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2617</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2617_2.jpg?v=1795415611"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "COF/BK"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464707758": {
+          "id": "68176464707758",
+          "title": "- / COF/BK",
+          "options": [
+            "-",
+            "COF/BK"
+          ],
+          "sku": "173441",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -27804,7 +28448,7 @@
             "BEIGE"
           ],
           "sku": "172266",
-          "available": true,
+          "available": false,
           "price": 4950000,
           "compare_at_price": 4950000
         },
@@ -28440,7 +29084,7 @@
             "GREY"
           ],
           "sku": "166507",
-          "available": true,
+          "available": false,
           "price": 472500,
           "compare_at_price": 945000
         },
@@ -28559,7 +29203,7 @@
             "Grey"
           ],
           "sku": "163515",
-          "available": true,
+          "available": false,
           "price": 1325000,
           "compare_at_price": 2650000
         },
@@ -29515,7 +30159,7 @@
             "GREY"
           ],
           "sku": "163896",
-          "available": true,
+          "available": false,
           "price": 1275000,
           "compare_at_price": 2550000
         },
@@ -29527,7 +30171,7 @@
             "GREY"
           ],
           "sku": "163897",
-          "available": true,
+          "available": false,
           "price": 1275000,
           "compare_at_price": 2550000
         }
@@ -31104,6 +31748,98 @@
           "available": true,
           "price": 2280000,
           "compare_at_price": 2850000
+        }
+      },
+      "available": true
+    },
+    "15493601034414": {
+      "id": "15493601034414",
+      "title": "GREY SCARF",
+      "handle": "scf-2603",
+      "url": "https://royaltag.com.pk/products/scf-2603",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2603</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2603_2.jpg?v=1795415875"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "GREY"
+          ]
+        }
+      ],
+      "variants": {
+        "68176463757486": {
+          "id": "68176463757486",
+          "title": "- / GREY",
+          "options": [
+            "-",
+            "GREY"
+          ],
+          "sku": "173427",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
+    "15493601296558": {
+      "id": "15493601296558",
+      "title": "GREY SCARF",
+      "handle": "scf-2607",
+      "url": "https://royaltag.com.pk/products/scf-2607",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2607</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2607_2.jpg?v=1795415815"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "GREY"
+          ]
+        }
+      ],
+      "variants": {
+        "68176463986862": {
+          "id": "68176463986862",
+          "title": "- / GREY",
+          "options": [
+            "-",
+            "GREY"
+          ],
+          "sku": "173431",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -34891,7 +35627,7 @@
             "Khaki"
           ],
           "sku": "160103",
-          "available": true,
+          "available": false,
           "price": 1225000,
           "compare_at_price": 2450000
         },
@@ -45508,7 +46244,7 @@
             "NAVY"
           ],
           "sku": "166492",
-          "available": true,
+          "available": false,
           "price": 472500,
           "compare_at_price": 945000
         }
@@ -45894,6 +46630,52 @@
           "available": true,
           "price": 147500,
           "compare_at_price": 295000
+        }
+      },
+      "available": true
+    },
+    "15493601853614": {
+      "id": "15493601853614",
+      "title": "NAVY SCARF",
+      "handle": "scf-2615",
+      "url": "https://royaltag.com.pk/products/scf-2615",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2615</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2615_2.jpg?v=1795415642"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "NAVY"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464609454": {
+          "id": "68176464609454",
+          "title": "- / NAVY",
+          "options": [
+            "-",
+            "NAVY"
+          ],
+          "sku": "173439",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -46968,7 +47750,7 @@
             "BLACK"
           ],
           "sku": "172273",
-          "available": true,
+          "available": false,
           "price": 4950000,
           "compare_at_price": 4950000
         },
@@ -48300,7 +49082,7 @@
             "OFF WHITE"
           ],
           "sku": "164831",
-          "available": true,
+          "available": false,
           "price": 1145000,
           "compare_at_price": 1145000
         },
@@ -49518,7 +50300,7 @@
             "OLIVE"
           ],
           "sku": "166486",
-          "available": true,
+          "available": false,
           "price": 472500,
           "compare_at_price": 945000
         }
@@ -50260,6 +51042,52 @@
           "available": false,
           "price": 262500,
           "compare_at_price": 525000
+        }
+      },
+      "available": true
+    },
+    "15493601788078": {
+      "id": "15493601788078",
+      "title": "OLIVE SCARF",
+      "handle": "scf-2614",
+      "url": "https://royaltag.com.pk/products/scf-2614",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2614</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2614_2.jpg?v=1795415651"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "OLIVE"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464543918": {
+          "id": "68176464543918",
+          "title": "- / OLIVE",
+          "options": [
+            "-",
+            "OLIVE"
+          ],
+          "sku": "173438",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -51130,7 +51958,7 @@
             "Classic Fit"
           ],
           "sku": "162384",
-          "available": false,
+          "available": true,
           "price": 322500,
           "compare_at_price": 645000
         },
@@ -51169,7 +51997,7 @@
             "Classic Fit"
           ],
           "sku": "162387",
-          "available": false,
+          "available": true,
           "price": 322500,
           "compare_at_price": 645000
         }
@@ -53945,6 +54773,53 @@
       },
       "available": true
     },
+    "15493600870574": {
+      "id": "15493600870574",
+      "title": "Pocket Square",
+      "handle": "ps-381",
+      "url": "https://royaltag.com.pk/products/ps-381",
+      "vendor": "Royal Tag",
+      "type": "W26 Pocket Square",
+      "description": "<p>Elegant pocket squares crafted to enhance formal attire with a touch of personality and sophistication.<br><br><strong>STYLE: PS-381</strong></p>",
+      "tags": [
+        "W26 Pocket Square"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/PS-381_2.jpg?v=1795415903",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/PS-381_3.jpg?v=1795415902"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "-"
+          ]
+        }
+      ],
+      "variants": {
+        "68176463593646": {
+          "id": "68176463593646",
+          "title": "- / -",
+          "options": [
+            "-",
+            "-"
+          ],
+          "sku": "170248",
+          "available": true,
+          "price": 165000,
+          "compare_at_price": 165000
+        }
+      },
+      "available": true
+    },
     "8919985488046": {
       "id": "8919985488046",
       "title": "Pocket Square  PS-336",
@@ -56483,6 +57358,52 @@
       },
       "available": true
     },
+    "15493601722542": {
+      "id": "15493601722542",
+      "title": "RED SCARF",
+      "handle": "scf-2613",
+      "url": "https://royaltag.com.pk/products/scf-2613",
+      "vendor": "Royal Tag",
+      "type": "W26 SCARF",
+      "description": "<p>Lightweight and stylish scarves crafted for year-round layering and a refined finishing touch.<br><br><strong>STYLE: SCF-2613</strong></p>",
+      "tags": [
+        "W26 Scarf"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/SCF-2613_2.jpg?v=1795415661"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "-"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "RED"
+          ]
+        }
+      ],
+      "variants": {
+        "68176464478382": {
+          "id": "68176464478382",
+          "title": "- / RED",
+          "options": [
+            "-",
+            "RED"
+          ],
+          "sku": "173437",
+          "available": true,
+          "price": 285000,
+          "compare_at_price": 285000
+        }
+      },
+      "available": true
+    },
     "15444201406638": {
       "id": "15444201406638",
       "title": "Royal",
@@ -56793,7 +57714,7 @@
             "Royal Blue"
           ],
           "sku": "144061",
-          "available": true,
+          "available": false,
           "price": 1975000,
           "compare_at_price": 3950000
         },
@@ -56873,7 +57794,7 @@
             "NAVY"
           ],
           "sku": "167010",
-          "available": true,
+          "available": false,
           "price": 495000,
           "compare_at_price": 495000
         },
@@ -60429,7 +61350,7 @@
             "SKY"
           ],
           "sku": "169744",
-          "available": true,
+          "available": false,
           "price": 525000,
           "compare_at_price": 525000
         }
@@ -61816,7 +62737,7 @@
             "BLACK"
           ],
           "sku": "172401",
-          "available": true,
+          "available": false,
           "price": 565000,
           "compare_at_price": 565000
         },
@@ -62170,7 +63091,7 @@
             "NAVY"
           ],
           "sku": "172605",
-          "available": false,
+          "available": true,
           "price": 945000,
           "compare_at_price": 945000
         },
@@ -62526,7 +63447,7 @@
             "BLACK"
           ],
           "sku": "172283",
-          "available": true,
+          "available": false,
           "price": 3450000,
           "compare_at_price": 3450000
         },
@@ -62716,7 +63637,7 @@
             "NAVY"
           ],
           "sku": "172243",
-          "available": true,
+          "available": false,
           "price": 4950000,
           "compare_at_price": 4950000
         },
@@ -70391,53 +71312,6 @@
       },
       "available": true
     },
-    "9207310155950": {
-      "id": "9207310155950",
-      "title": "TIES",
-      "handle": "tx-266",
-      "url": "https://royaltag.com.pk/products/tx-266",
-      "vendor": "Royal Tag",
-      "type": "SM326 TIES",
-      "description": "<p>Classic ties designed to complement formal looks with timeless style and sophistication.<br><br><strong>STYLE: TX-266</strong></p>",
-      "tags": [
-        "Full Price Ties"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/TX-266_2.jpg?v=1786101754",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/TX-266_3.jpg?v=1786101754"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "-"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "-"
-          ]
-        }
-      ],
-      "variants": {
-        "48891284422830": {
-          "id": "48891284422830",
-          "title": "- / -",
-          "options": [
-            "-",
-            "-"
-          ],
-          "sku": "170340",
-          "available": true,
-          "price": 265000,
-          "compare_at_price": 265000
-        }
-      },
-      "available": true
-    },
     "9207310188718": {
       "id": "9207310188718",
       "title": "TIES",
@@ -71716,53 +72590,6 @@
             "-"
           ],
           "sku": "170377",
-          "available": true,
-          "price": 265000,
-          "compare_at_price": 265000
-        }
-      },
-      "available": true
-    },
-    "9207311270062": {
-      "id": "9207311270062",
-      "title": "TIES",
-      "handle": "ft-231",
-      "url": "https://royaltag.com.pk/products/ft-231",
-      "vendor": "Royal Tag",
-      "type": "SM326 TIES",
-      "description": "<p>Classic ties designed to complement formal looks with timeless style and sophistication.<br><br><strong>STYLE: FT-231</strong></p>",
-      "tags": [
-        "Full Price Ties"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/FT-231_1.jpg?v=1786101235",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/FT-231_3.jpg?v=1786101235"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "-"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "-"
-          ]
-        }
-      ],
-      "variants": {
-        "48891285536942": {
-          "id": "48891285536942",
-          "title": "- / -",
-          "options": [
-            "-",
-            "-"
-          ],
-          "sku": "170378",
           "available": true,
           "price": 265000,
           "compare_at_price": 265000
@@ -76201,7 +77028,7 @@
             "WHITE"
           ],
           "sku": "161196",
-          "available": true,
+          "available": false,
           "price": 342500,
           "compare_at_price": 685000
         }
@@ -77387,7 +78214,7 @@
             "WHITE"
           ],
           "sku": "170186",
-          "available": false,
+          "available": true,
           "price": 495000,
           "compare_at_price": 495000
         },
@@ -78192,7 +79019,7 @@
             "WHITE"
           ],
           "sku": "165945",
-          "available": true,
+          "available": false,
           "price": 262500,
           "compare_at_price": 525000
         },
@@ -78434,7 +79261,7 @@
             "GREY"
           ],
           "sku": "174145",
-          "available": true,
+          "available": false,
           "price": 4650000,
           "compare_at_price": 4650000
         },
