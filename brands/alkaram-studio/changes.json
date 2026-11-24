@@ -1,391 +1,357 @@
 {
-  "checked_at": "2026-11-23T08:54:32.134389+00:00",
+  "checked_at": "2026-11-24T00:48:19.629621+00:00",
   "baseline_created": false,
-  "product_count": 1917,
-  "change_count": 97,
+  "product_count": 1929,
+  "change_count": 56,
   "changes": [
     {
-      "product_id": "10297906495668",
-      "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec562-3p26a-green",
+      "product_id": "10297908166836",
+      "title": "RTS | SHIRT & TROUSER",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-ec511-2p26-red",
       "kind": "New product",
-      "detail": "Price: PKR 5,590.00; available sizes/options: Green / KHADDAR"
+      "detail": "Price: PKR 4,490.00; available sizes/options: Red / KHADDAR"
     },
     {
-      "product_id": "7891207061684",
-      "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/3-piece-embroidered-dyed-velvet-shirt-with-embroidered-mesuri-silk-dupatta-vc-06b-24-green",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "product_id": "15399482032308",
+      "title": "RTS | COTTON",
+      "url": "https://www.alkaramstudio.com/products/rts-cotton-akmus-s26-430-maritime-blue",
+      "kind": "New product",
+      "detail": "Price: PKR 5,790.00; available sizes/options: 4.5 METERS / Maritime Blue / COTTON"
     },
     {
-      "product_id": "7912738455732",
+      "product_id": "15404316557492",
+      "title": "RTW | SHIRT & TROUSER",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-bp1455-10-2p26-brown",
+      "kind": "Product updated",
+      "detail": "tags: ['BASICS', 'BP1455-10-2P26-Brown-Simplifiedsizechart', 'New In', 'New-30', 'Ready to Wear', 'Shirt & Trouser', 'Shop by Product', 'WOMEN-RTW-BASICS', 'Woman', 'Women', 'Women RTW', 'hide-fabric', 'uploade-24-Oct-26', 'winter-26'] → ['BASICS', 'BP1455-10-2P26-Brown-Simplifiedsizechart', 'New In', 'Ready to Wear', 'Shirt & Trouser', 'Shop by Product', 'WOMEN-RTW-BASICS', 'Woman', 'Women', 'Women RTW', 'hide-fabric', 'uploade-24-Oct-26', 'winter-26']",
+      "field": "tags",
+      "before": [
+        "BASICS",
+        "BP1455-10-2P26-Brown-Simplifiedsizechart",
+        "New In",
+        "New-30",
+        "Ready to Wear",
+        "Shirt & Trouser",
+        "Shop by Product",
+        "WOMEN-RTW-BASICS",
+        "Woman",
+        "Women",
+        "Women RTW",
+        "hide-fabric",
+        "uploade-24-Oct-26",
+        "winter-26"
+      ],
+      "after": [
+        "BASICS",
+        "BP1455-10-2P26-Brown-Simplifiedsizechart",
+        "New In",
+        "Ready to Wear",
+        "Shirt & Trouser",
+        "Shop by Product",
+        "WOMEN-RTW-BASICS",
+        "Woman",
+        "Women",
+        "Women RTW",
+        "hide-fabric",
+        "uploade-24-Oct-26",
+        "winter-26"
+      ]
+    },
+    {
+      "product_id": "15404316590260",
+      "title": "RTW | SHIRT & TROUSER",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-bp1452-10-2p26-blue",
+      "kind": "Product updated",
+      "detail": "tags: ['BASICS', 'BP1452-10-2P26-Blue-Simplifiedsizechart', 'New In', 'New-30', 'Ready to Wear', 'Shirt & Trouser', 'Shop by Product', 'WOMEN-RTW-BASICS', 'Woman', 'Women', 'Women RTW', 'hide-fabric', 'uploade-24-Oct-26', 'winter-26'] → ['BASICS', 'BP1452-10-2P26-Blue-Simplifiedsizechart', 'New In', 'Ready to Wear', 'Shirt & Trouser', 'Shop by Product', 'WOMEN-RTW-BASICS', 'Woman', 'Women', 'Women RTW', 'hide-fabric', 'uploade-24-Oct-26', 'winter-26']",
+      "field": "tags",
+      "before": [
+        "BASICS",
+        "BP1452-10-2P26-Blue-Simplifiedsizechart",
+        "New In",
+        "New-30",
+        "Ready to Wear",
+        "Shirt & Trouser",
+        "Shop by Product",
+        "WOMEN-RTW-BASICS",
+        "Woman",
+        "Women",
+        "Women RTW",
+        "hide-fabric",
+        "uploade-24-Oct-26",
+        "winter-26"
+      ],
+      "after": [
+        "BASICS",
+        "BP1452-10-2P26-Blue-Simplifiedsizechart",
+        "New In",
+        "Ready to Wear",
+        "Shirt & Trouser",
+        "Shop by Product",
+        "WOMEN-RTW-BASICS",
+        "Woman",
+        "Women",
+        "Women RTW",
+        "hide-fabric",
+        "uploade-24-Oct-26",
+        "winter-26"
+      ]
+    },
+    {
+      "product_id": "7915462394036",
+      "title": "RTW | CULOTTES",
+      "url": "https://www.alkaramstudio.com/products/stitched-cambric-culotte-gftr973-yellow?variant=44380619440308",
+      "kind": "Sold out",
+      "detail": "14 / YELLOW / CAMBRIC"
+    },
+    {
+      "product_id": "7920634069172",
       "title": "RTW | KURTI",
-      "url": "https://www.alkaramstudio.com/products/stitched-printed-cambric-kurta-gfku7183-multi?variant=44050046255284",
-      "kind": "Back in stock",
-      "detail": "6 / MULTI / CAMBRIC"
+      "url": "https://www.alkaramstudio.com/products/stitched-printed-cambric-kurti-gfku7198-yellow?variant=44050022269108",
+      "kind": "Sold out",
+      "detail": "L / YELLOW / CAMBRIC"
     },
     {
-      "product_id": "7916819775668",
+      "product_id": "7923869155508",
       "title": "RTW | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/stitched-3-pc-printed-cotton-silk-outfit-gfsu5834-purple",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "url": "https://www.alkaramstudio.com/products/stitched-3-pc-printed-irish-outfit-gfsu5863-orange?variant=44050015977652",
+      "kind": "Back in stock",
+      "detail": "8 / ORANGE / IRISH"
     },
     {
       "product_id": "7930567983284",
       "title": "RTW | TROUSER",
       "url": "https://www.alkaramstudio.com/products/stitched-cambric-trouser-gftr970-beige?variant=44049993138356",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "8 / BEIGE / CAMBRIC"
+    },
+    {
+      "product_id": "7934058135732",
+      "title": "RTS | SHIRT, TROUSER & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/3-pc-printed-lawn-suit-with-printed-lawn-dupatta-ss-55-25-2-sea-green",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "7934647632052",
+      "title": "RTW | KURTA",
+      "url": "https://www.alkaramstudio.com/products/slim-fit-blended-kurta-gmku1099-green?variant=44049969971380",
+      "kind": "Sold out",
+      "detail": "SLIM FIT / XXL / BLENDED"
+    },
+    {
+      "product_id": "7934647632052",
+      "title": "RTW | KURTA",
+      "url": "https://www.alkaramstudio.com/products/slim-fit-blended-kurta-gmku1099-green?variant=44049970167988",
+      "kind": "Sold out",
+      "detail": "REGULAR FIT / XXL / BLENDED"
     },
     {
       "product_id": "7934788567220",
       "title": "RTW | TROUSER",
       "url": "https://www.alkaramstudio.com/products/stitched-cambric-trouser-gftr988-white",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7944755773620",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/stitched-cambric-trouser-gftr994-beige",
       "kind": "New product",
-      "detail": "Price: PKR 1,254.00; available sizes/options: 6 / BEIGE / CAMBRIC"
-    },
-    {
-      "product_id": "7944999764148",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/stitched-lycra-trouser-gftr1004-white",
-      "kind": "New product",
-      "detail": "Price: PKR 1,194.00; available sizes/options: 6 / WHITE / LYCRA"
-    },
-    {
-      "product_id": "7945699360948",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/stitched-cambric-trouser-gftr1003-cream",
-      "kind": "New product",
-      "detail": "Price: PKR 1,134.00; available sizes/options: 8 / CREAM / CAMBRIC"
-    },
-    {
-      "product_id": "7945857106100",
-      "title": "RTW | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/stitched-3-pc-printed-irish-outfit-gfsu6005-beige?variant=44049918787764",
-      "kind": "Back in stock",
-      "detail": "8 / BEIGE / IRISH"
-    },
-    {
-      "product_id": "7945857106100",
-      "title": "RTW | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/stitched-3-pc-printed-irish-outfit-gfsu6005-beige?variant=44049918820532",
-      "kind": "Back in stock",
-      "detail": "10 / BEIGE / IRISH"
+      "detail": "Price: PKR 1,134.00; available sizes/options: 8 / WHITE / CAMBRIC"
     },
     {
       "product_id": "7953716215988",
       "title": "RTW | SHIRT, CULOTTE & DUPATTA",
       "url": "https://www.alkaramstudio.com/products/stitched-3-pc-printed-irish-outfit-gfsu6150-purple-white",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "kind": "New product",
+      "detail": "Price: PKR 4,854.00; available sizes/options: 8 / PURPLE/WHITE / IRISH"
     },
     {
       "product_id": "7960542970036",
       "title": "RTW | SHIRT & CULOTTE",
       "url": "https://www.alkaramstudio.com/products/stitched-2-pc-embroidered-outfit-gfsu5994-white",
-      "kind": "New product",
-      "detail": "Price: PKR 3,174.00; available sizes/options: S / WHITE / LINEN"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7960543264948",
-      "title": "RTW | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/stitched-printed-cambric-kurta-gfku7382-black",
-      "kind": "New product",
-      "detail": "Price: PKR 2,994.00; available sizes/options: 6 / BLACK / CAMBRIC, 8 / BLACK / CAMBRIC, 10 / BLACK / CAMBRIC"
+      "product_id": "7961039143092",
+      "title": "RTW | KURTA",
+      "url": "https://www.alkaramstudio.com/products/regular-fit-slub-lawn-kurta-sl-sp-01-b-maroon",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7960544051380",
-      "title": "RTW | SHIRT, CULOTTE & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/stitched-3-pc-cambric-outfit-gfsu6149-rust-cream",
-      "kind": "New product",
-      "detail": "Price: PKR 4,614.00; available sizes/options: 6 / RUST/CREAM / CAMBRIC"
-    },
-    {
-      "product_id": "7972790010036",
-      "title": "RTW | KAMEEZ & SHALWAR",
-      "url": "https://www.alkaramstudio.com/products/slim-fit-kameez-shalwar-gmsu1244-cobalt-blue?variant=44049864032436",
+      "product_id": "7982254227636",
+      "title": "RTW | SHALWAR",
+      "url": "https://www.alkaramstudio.com/products/rtw-shalwar-gmss147-white?variant=44049821728948",
       "kind": "Sold out",
-      "detail": "REGULAR FIT / M / COTTON"
+      "detail": "L / WHITE / COTTON"
     },
     {
-      "product_id": "7973368529076",
-      "title": "Stitched - Embroidered Yarn Dyed Kurta",
-      "url": "https://www.alkaramstudio.com/products/stitched-embroidered-yarn-dyed-outfit-gfku7335-off-white",
+      "product_id": "7986555027636",
+      "title": "RTW | KURTA & TROUSER",
+      "url": "https://www.alkaramstudio.com/products/rtw-kurta-trouser-r-tp-746-l-blue?variant=44049801052340",
+      "kind": "Sold out",
+      "detail": "REGULAR FIT / L / BLENDED"
+    },
+    {
+      "product_id": "7994233815220",
+      "title": "RTS | SHIRT, TROUSER & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-m-29-25-3-pale-blue",
       "kind": "New product",
-      "detail": "Price: PKR 3,174.00; available sizes/options: 6 / OFF WHITE / YARN DYED"
+      "detail": "Price: PKR 6,594.00; available sizes/options: Pale Blue / KHADDAR"
     },
     {
-      "product_id": "7976206958772",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-gftr996-white",
+      "product_id": "7994294665396",
+      "title": "RTS | SHIRT & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-fw-116-1-25-1-off-white",
       "kind": "New product",
-      "detail": "Price: PKR 1,134.00; available sizes/options: 6 / WHITE / LYCRA"
+      "detail": "Price: PKR 1,974.00; available sizes/options: Off White / KHADDAR"
     },
     {
-      "product_id": "7978287988916",
-      "title": "RTW  | SHIRT & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-dupatta-gfsu5940-pink",
+      "product_id": "7994294796468",
+      "title": "RTS | SHIRT & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-fw-119-1-25-1-purple",
       "kind": "New product",
-      "detail": "Price: PKR 3,594.00; available sizes/options: 6 / PINK / COTTON SILK"
+      "detail": "Price: PKR 1,794.00; available sizes/options: Purple / KHADDAR"
     },
     {
-      "product_id": "7981558726836",
-      "title": "RTW  | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-cape25-6-368-a-grey-pink",
+      "product_id": "7997415915700",
+      "title": "RTS | SHIRT, TROUSER, DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-v-4-25-black",
       "kind": "New product",
-      "detail": "Price: PKR 2,814.00; available sizes/options: 8 / GREY/PINK / CAMBRIC"
-    },
-    {
-      "product_id": "7981559054516",
-      "title": "RTW  | SHIRT & CULOTTE",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-cap2p25-6-355-black-white",
-      "kind": "New product",
-      "detail": "Price: PKR 3,294.00; available sizes/options: 10 / BLACK/WHITE / CAMBRIC"
-    },
-    {
-      "product_id": "7983347761332",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-gftr983-black",
-      "kind": "New product",
-      "detail": "Price: PKR 1,374.00; available sizes/options: 8 / BLACK / COTTON SILK, 10 / BLACK / COTTON SILK"
-    },
-    {
-      "product_id": "7991710810292",
-      "title": "RTW | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-cape25-5-295-a-beige",
-      "kind": "New product",
-      "detail": "Price: PKR 2,694.00; available sizes/options: 6 / Beige / RAW SILK"
-    },
-    {
-      "product_id": "7994039042228",
-      "title": "RTW | SHIRT & CULOTTE",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-cullote-sg74-8-2p25-black",
-      "kind": "New product",
-      "detail": "Price: PKR 4,974.00; available sizes/options: 10 / Black / DOBBY"
-    },
-    {
-      "product_id": "7994294862004",
-      "title": "RTS | SHIRT & TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-fw-121-1-25-1-purple",
-      "kind": "New product",
-      "detail": "Price: PKR 1,974.00; available sizes/options: Purple / KHADDAR"
-    },
-    {
-      "product_id": "7995143192756",
-      "title": "RTW | BOOTCUT PANTS",
-      "url": "https://www.alkaramstudio.com/products/rtw-bootcut-pants-rb25-7-023-a-black-white",
-      "kind": "New product",
-      "detail": "Price: PKR 1,254.00; available sizes/options: 8 / Black/White / CAMBRIC"
-    },
-    {
-      "product_id": "7996569190580",
-      "title": "RTW | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-cape25-7-472-a-green?variant=44062575526068",
-      "kind": "Back in stock",
-      "detail": "6 / Green / CAMBRIC"
+      "detail": "Price: PKR 8,394.00; available sizes/options: Black / VELVET"
     },
     {
       "product_id": "7999556124852",
       "title": "RTW | TROUSER",
       "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd25-8-038-black?variant=44071130529972",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "8 / Black / CAMBRIC"
     },
     {
-      "product_id": "8000870711476",
-      "title": "HOME | BEDSHEET",
-      "url": "https://www.alkaramstudio.com/products/home-bedsheet-hew25bs001-white",
+      "product_id": "8003095167156",
+      "title": "RTW | KURTA",
+      "url": "https://www.alkaramstudio.com/products/rtw-kurta-r-sp-723-mustard?variant=44081451663540",
+      "kind": "Sold out",
+      "detail": "SLIM FIT / XXL / YARN DYED"
+    },
+    {
+      "product_id": "8007944601780",
+      "title": "RTS | SHIRT & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-slr-164-25-7-green",
+      "kind": "New product",
+      "detail": "Price: PKR 1,434.00; available sizes/options: Green / CAMBRIC"
+    },
+    {
+      "product_id": "8010486087860",
+      "title": "RTW | SHIRT",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-sg71-8-2p25-white?variant=44097074561204",
+      "kind": "Back in stock",
+      "detail": "14 / White / COTTON SATIN"
+    },
+    {
+      "product_id": "8015126888628",
+      "title": "RTW | ABAYA & STOLE",
+      "url": "https://www.alkaramstudio.com/products/rtw-abaya-stole-mde381-11-2p25-green",
+      "kind": "New product",
+      "detail": "Price: PKR 4,194.00; available sizes/options: M / Green / NADA FABRIC"
+    },
+    {
+      "product_id": "8015127183540",
+      "title": "RTW | SHIRT, CULOTTE & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-dupatta-epe252-10-3p25-black",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8001621131444",
-      "title": "RTW | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-wsd25-7-484-c-orange?variant=44078249246900",
-      "kind": "Back in stock",
-      "detail": "10 / Orange / COTTON SILK"
-    },
-    {
-      "product_id": "8005789679796",
-      "title": "RTW | SHIRT & CULOTTE",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-cap2p25-7-454-orange",
-      "kind": "New product",
-      "detail": "Price: PKR 3,354.00; available sizes/options: S / Orange / IRISH"
-    },
-    {
-      "product_id": "8009702146228",
-      "title": "RTW | SHALWAR",
-      "url": "https://www.alkaramstudio.com/products/rtw-shalwar-shd25-6-028-beige?variant=44095062212788",
-      "kind": "Back in stock",
-      "detail": "8 / Beige / CAMBRIC"
-    },
-    {
-      "product_id": "8009702146228",
-      "title": "RTW | SHALWAR",
-      "url": "https://www.alkaramstudio.com/products/rtw-shalwar-shd25-6-028-beige?variant=44095062245556",
-      "kind": "Back in stock",
-      "detail": "10 / Beige / CAMBRIC"
-    },
-    {
-      "product_id": "8010484089012",
-      "title": "RTW | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-wspe25-5-297-b-green",
-      "kind": "New product",
-      "detail": "Price: PKR 2,394.00; available sizes/options: 8 / Green / CAMBRIC"
-    },
-    {
-      "product_id": "8011971362996",
-      "title": "RTW | SHIRT, CULOTTE & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-dupatta-cape3p25-6-376-red",
-      "kind": "New product",
-      "detail": "Price: PKR 4,734.00; available sizes/options: 8 / Red / IRISH LAWN"
-    },
-    {
-      "product_id": "8014208467124",
-      "title": "RTW | SHIRT & CULOTTE",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-bp83-9-2p25-light-blue",
-      "kind": "New product",
-      "detail": "Price: PKR 2,994.00; available sizes/options: 8 / Light Blue / POLY LAWN"
-    },
-    {
-      "product_id": "8016348807348",
-      "title": "RTW | SHIRT, CULOTTE & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-dupatta-epe132-9-3p25-beige",
-      "kind": "New product",
-      "detail": "Price: PKR 5,394.00; available sizes/options: 10 / Beige / SWISS COTTON"
     },
     {
       "product_id": "8016348840116",
       "title": "RTW | SHIRT, CULOTTE & DUPATTA",
       "url": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-dupatta-lpe282-10-3p25-pink?variant=44108792135860",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "10 / Pink / VELVET"
     },
     {
-      "product_id": "8019298713780",
-      "title": "RTW | SHIRT & CULOTTE",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-culotte-capde2p25-5-308-yellow",
-      "kind": "New product",
-      "detail": "Price: PKR 3,294.00; available sizes/options: 8 / Yellow / COTTON SILK"
-    },
-    {
-      "product_id": "8020333527220",
+      "product_id": "8020333691060",
       "title": "RTS | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-br01-26-olive-green",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-br06-26-beige",
       "kind": "New product",
-      "detail": "Price: PKR 833.00; available sizes/options: Olive Green / LAWN"
+      "detail": "Price: PKR 833.00; available sizes/options: Beige / LAWN"
     },
     {
-      "product_id": "8020334018740",
-      "title": "RTS | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-br15-26-grey",
+      "product_id": "8020566638772",
+      "title": "RTS  | SHIRT, TROUSER & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-efl-20-3p25-rust",
       "kind": "New product",
-      "detail": "Price: PKR 833.00; available sizes/options: Grey / LAWN"
+      "detail": "Price: PKR 2,990.00; available sizes/options: Rust / LAWN"
     },
     {
-      "product_id": "8020334706868",
-      "title": "RTS | SHIRT & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-dupatta-bd40-2p26-beige",
-      "kind": "New product",
-      "detail": "Price: PKR 1,953.00; available sizes/options: Beige / LAWN"
+      "product_id": "8021019328692",
+      "title": "RTW | DRESS SHIRT",
+      "url": "https://www.alkaramstudio.com/products/rtw-dress-shirt-rb25-02-008-c-blue",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "8021175861428",
+      "product_id": "8021587034292",
       "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef75-3p26-purple",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms149-3p26-a-pink",
       "kind": "New product",
-      "detail": "Price: PKR 2,793.00; available sizes/options: Purple / LAWN"
-    },
-    {
-      "product_id": "8021177368756",
-      "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef66-26-teal",
-      "kind": "New product",
-      "detail": "Price: PKR 4,193.00; available sizes/options: Teal / LAWN"
-    },
-    {
-      "product_id": "8021587067060",
-      "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms149-3p26-b-blue",
-      "kind": "New product",
-      "detail": "Price: PKR 2,793.00; available sizes/options: Blue / LAWN"
+      "detail": "Price: PKR 2,793.00; available sizes/options: Pink / LAWN"
     },
     {
       "product_id": "8021587165364",
       "title": "RTS | SHIRT, TROUSER & DUPATTA",
       "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ms152-3p26-red",
-      "kind": "New product",
-      "detail": "Price: PKR 2,793.00; available sizes/options: Red / LAWN"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "8021587591348",
+      "product_id": "8021587722420",
       "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-sss60-3p26-red",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ss-59-1-25-3-green",
       "kind": "New product",
-      "detail": "Price: PKR 2,793.00; available sizes/options: Red / LAWN"
-    },
-    {
-      "product_id": "8023985619124",
-      "title": "RTW | KURTA",
-      "url": "https://www.alkaramstudio.com/products/rtw-kurta-r-sp-743-ice-blue",
-      "kind": "New product",
-      "detail": "Price: PKR 2,154.00; available sizes/options: BASIC FIT / L / CAMBRIC"
+      "detail": "Price: PKR 3,003.00; available sizes/options: Green / LAWN"
     },
     {
       "product_id": "8024557289652",
       "title": "RTW | SHIRT",
       "url": "https://www.alkaramstudio.com/products/rtw-shirt-bp05-1-26-peach?variant=44128689488052",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "14 / Peach / POLY LAWN"
     },
     {
-      "product_id": "8024557748404",
-      "title": "RTW | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-bj224-10-25-a-beige",
+      "product_id": "8026632519860",
+      "title": "HOME | FITTED SHEET",
+      "url": "https://www.alkaramstudio.com/products/home-fitted-sheet-hew25fs004-olive-green?variant=44137216114868",
+      "kind": "Sold out",
+      "detail": "SINGLE / Olive Green / POLY COTTON"
+    },
+    {
+      "product_id": "8026632552628",
+      "title": "HOME | FITTED SHEET",
+      "url": "https://www.alkaramstudio.com/products/home-fitted-sheet-hew25fs007-mustard",
       "kind": "New product",
-      "detail": "Price: PKR 2,574.00; available sizes/options: M / Beige / JACQUARD"
+      "detail": "Price: PKR 1,393.00 – PKR 2,303.00; available sizes/options: SINGLE / Mustard / POLY COTTON"
     },
     {
-      "product_id": "8027164999860",
-      "title": "RTW | SHIRT & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-dupatta-fde2p25-03-191-purple",
+      "product_id": "8026632585396",
+      "title": "HOME | FITTED SHEET",
+      "url": "https://www.alkaramstudio.com/products/home-fitted-sheet-hew25fs005-dark-beige",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8026632749236",
+      "title": "HOME | BEDSHEET SET",
+      "url": "https://www.alkaramstudio.com/products/home-bedsheet-set-hew25bs006-white",
       "kind": "New product",
-      "detail": "Price: PKR 4,914.00; available sizes/options: 8 / Purple / ORGANZA"
+      "detail": "Price: PKR 1,533.00 – PKR 2,513.00; available sizes/options: DOUBLE / White / POLY COTTON"
     },
     {
-      "product_id": "8029165191348",
-      "title": "RTW | SHIRT & TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-bj18-1-2p26-beige?variant=44144154280116",
-      "kind": "Back in stock",
-      "detail": "6 / Beige / JACQUARD"
+      "product_id": "8029164929204",
+      "title": "RTW | SHIRT, TROUSER & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-capde3p25-7-497-brown",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "8029165224116",
-      "title": "RTW | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-bp123-2-26-white",
-      "kind": "New product",
-      "detail": "Price: PKR 2,034.00; available sizes/options: 8 / White / CAMBRIC, 6 / White / CAMBRIC, 10 / White / CAMBRIC"
-    },
-    {
-      "product_id": "8031578489012",
+      "product_id": "8031578456244",
       "title": "RTS | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-br63-26-2-red",
-      "kind": "New product",
-      "detail": "Price: PKR 833.00; available sizes/options: Red / LAWN"
-    },
-    {
-      "product_id": "8031578587316",
-      "title": "RTS | SHIRT",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-br66-26-2-grey",
+      "url": "https://www.alkaramstudio.com/products/rts-shirt-br62-26-2-grey",
       "kind": "New product",
       "detail": "Price: PKR 833.00; available sizes/options: Grey / LAWN"
     },
@@ -393,295 +359,106 @@
       "product_id": "8031578652852",
       "title": "RTS | SHIRT",
       "url": "https://www.alkaramstudio.com/products/rts-shirt-br67-26-2-grayish-olive",
-      "kind": "New product",
-      "detail": "Price: PKR 833.00; available sizes/options: Grayish Olive / LAWN"
-    },
-    {
-      "product_id": "8033196966068",
-      "title": "RTW | SHIRT & TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-epe127-9-2p25-pink",
-      "kind": "New product",
-      "detail": "Price: PKR 4,194.00; available sizes/options: 8 / Pink / DOBBY, 10 / Pink / DOBBY"
-    },
-    {
-      "product_id": "8033197326516",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd08-1-26-beige",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "8036120985780",
-      "title": "RTW | SHIRT & TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-ede408-12-2p25-purple?variant=44158573707444",
-      "kind": "Back in stock",
-      "detail": "8 / Purple / COTTON SLUB"
-    },
-    {
-      "product_id": "8037501730996",
-      "title": "RTW | KURTA",
-      "url": "https://www.alkaramstudio.com/products/rtw-kurta-r-sp-721-teal-green?variant=44162618785972",
-      "kind": "Back in stock",
-      "detail": "BASIC FIT / XXL / SWISS VOIL"
-    },
-    {
-      "product_id": "8040122515636",
-      "title": "RTW | SHIRT, SHALWAR & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/dobby-embroidered-capde3p25-7-508-beige?variant=44169209446580",
-      "kind": "Back in stock",
-      "detail": "12 / Beige / DOBBY"
-    },
-    {
-      "product_id": "8040122613940",
-      "title": "RTW | SHIRT & TROUSER",
-      "url": "https://www.alkaramstudio.com/products/viscose-slub-embroidered-lde201-2-2p26-black",
+      "product_id": "8036277452980",
+      "title": "Scarlet Fizz",
+      "url": "https://www.alkaramstudio.com/products/scarlet-fizz",
       "kind": "New product",
-      "detail": "Price: PKR 5,394.00; available sizes/options: 6 / Black / VISCOSE SLUB"
+      "detail": "Price: PKR 1,190.00; available sizes/options: 150ML"
+    },
+    {
+      "product_id": "8036831330484",
+      "title": "RTW | SHIRT, TROUSER & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-lpe78-1-3p26-pink",
+      "kind": "New product",
+      "detail": "Price: PKR 6,354.00; available sizes/options: 14 / Pink / COTTON SILK"
+    },
+    {
+      "product_id": "8041940844724",
+      "title": "RTW | KAMEEZ & SHALWAR",
+      "url": "https://www.alkaramstudio.com/products/rtw-kameez-shalwar-mks-sig26-012-ultimate-grey",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "8043105616052",
       "title": "RTW | SHIRT, TROUSER & DUPATTA",
       "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-lpe74-1-3p26-orange",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8043106042036",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd30-3-26-beige?variant=44175814688948",
-      "kind": "Sold out",
-      "detail": "8 / Beige / CAMBRIC"
-    },
-    {
-      "product_id": "8043106042036",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd30-3-26-beige?variant=44175814754484",
-      "kind": "Back in stock",
-      "detail": "10 / Beige / CAMBRIC"
-    },
-    {
-      "product_id": "8043699798196",
-      "title": "RTS | SHIRT, TROUSER & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ec173-26-2-blue",
       "kind": "New product",
-      "detail": "Price: PKR 3,213.00; available sizes/options: Blue / LAWN"
+      "detail": "Price: PKR 7,794.00; available sizes/options: 10 / Orange / POLY ZARI NET"
     },
     {
       "product_id": "8043701174452",
       "title": "RTS | SHIRT, TROUSER & DUPATTA",
       "url": "https://www.alkaramstudio.com/products/rts-shirt-trouser-dupatta-ef131-3p26-maroon",
-      "kind": "New product",
-      "detail": "Price: PKR 2,793.00; available sizes/options: Maroon / LAWN"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8044581093556",
+      "title": "RTW | SHALWAR",
+      "url": "https://www.alkaramstudio.com/products/rtw-shalwar-shd25-11-053-cream?variant=44179967541428",
+      "kind": "Sold out",
+      "detail": "6 / Cream / CAMBRIC"
     },
     {
       "product_id": "8044581290164",
       "title": "RTW | SHALWAR",
       "url": "https://www.alkaramstudio.com/products/rtw-shalwar-shd02-1-26-black",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8050141790388",
-      "title": "Chain Strap Shoulder Bag – Beige",
-      "url": "https://www.alkaramstudio.com/products/chain-strap-shoulder-bag-beige",
       "kind": "New product",
-      "detail": "Price: PKR 8,290.00; available sizes/options: Beige"
-    },
-    {
-      "product_id": "8050144739508",
-      "title": "Tote Bag – Red",
-      "url": "https://www.alkaramstudio.com/products/tote-bag-red",
-      "kind": "New product",
-      "detail": "Price: PKR 7,890.00; available sizes/options: Red"
-    },
-    {
-      "product_id": "8050144870580",
-      "title": "Tote Bag – Black",
-      "url": "https://www.alkaramstudio.com/products/tote-bag-black",
-      "kind": "New product",
-      "detail": "Price: PKR 7,590.00; available sizes/options: Black"
-    },
-    {
-      "product_id": "8050145853620",
-      "title": "Tote Bag – Coffee",
-      "url": "https://www.alkaramstudio.com/products/tote-bag-coffee",
-      "kind": "New product",
-      "detail": "Price: PKR 7,390.00; available sizes/options: Coffee"
+      "detail": "Price: PKR 1,494.00; available sizes/options: 8 / Black / CAMBRIC"
     },
     {
       "product_id": "8053902835892",
       "title": "RTW | SHIRT & TROUSER",
       "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-ede104-9-2p25-grey?variant=44219743436980",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "6 / Grey / VISCOSE SLUB"
-    },
-    {
-      "product_id": "8053902966964",
-      "title": "RTW | ABAYA & STOLE",
-      "url": "https://www.alkaramstudio.com/products/rtw-abaya-stole-md106-1-2p26-navy?variant=44219744157876",
-      "kind": "Back in stock",
-      "detail": "M / Navy / NADA FABRIC"
-    },
-    {
-      "product_id": "8053903163572",
-      "title": "RTW | ABAYA & STOLE",
-      "url": "https://www.alkaramstudio.com/products/rtw-abaya-stole-mde154-2-2p26-pink?variant=44219744682164",
-      "kind": "Back in stock",
-      "detail": "M / Pink / NADA FABRIC"
-    },
-    {
-      "product_id": "8053903163572",
-      "title": "RTW | ABAYA & STOLE",
-      "url": "https://www.alkaramstudio.com/products/rtw-abaya-stole-mde154-2-2p26-pink?variant=44219744747700",
-      "kind": "Sold out",
-      "detail": "S / Pink / NADA FABRIC"
     },
     {
       "product_id": "8053903261876",
       "title": "RTW | SHIRT, TROUSER & DUPATTA",
       "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-lde223-2-3p26-navy-blue",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8062181048500",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd29-3-26-black?variant=44231132807348",
-      "kind": "Back in stock",
-      "detail": "8 / Black / CAMBRIC"
-    },
-    {
-      "product_id": "8062181048500",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd29-3-26-black?variant=44231132840116",
-      "kind": "Back in stock",
-      "detail": "6 / Black / CAMBRIC"
-    },
-    {
-      "product_id": "8062181048500",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd29-3-26-black?variant=44231132872884",
-      "kind": "Back in stock",
-      "detail": "10 / Black / CAMBRIC"
-    },
-    {
-      "product_id": "8062181048500",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd29-3-26-black?variant=44231132905652",
-      "kind": "Back in stock",
-      "detail": "12 / Black / CAMBRIC"
+      "kind": "New product",
+      "detail": "Price: PKR 5,994.00; available sizes/options: 10 / Navy Blue / COTTON SILK"
     },
     {
       "product_id": "8069160272052",
       "title": "RTW | SHIRT, TROUSER & DUPATTA",
       "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-lde232-2-3p26-rust",
+      "kind": "New product",
+      "detail": "Price: PKR 7,903.00; available sizes/options: 8 / Rust / YARN DYED, 10 / Rust / YARN DYED"
+    },
+    {
+      "product_id": "8079550939316",
+      "title": "RTW | SHIRT, TROUSER & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-epe61-1-3p26-grey",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8069160370356",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trd17-2-26-beige",
-      "kind": "New product",
-      "detail": "Price: PKR 1,014.00; available sizes/options: 8 / Beige / CAMBRIC"
-    },
-    {
-      "product_id": "8071339212980",
-      "title": "RTW | KURTA & SHALWAR",
-      "url": "https://www.alkaramstudio.com/products/rtw-kurta-shalwar-mks-bas26-042-fawn",
-      "kind": "New product",
-      "detail": "Price: PKR 3,894.00; available sizes/options: BASIC FIT / L / BLENDED"
-    },
-    {
-      "product_id": "8074022781108",
-      "title": "RTW | KAMEEZ & SHALWAR",
-      "url": "https://www.alkaramstudio.com/products/rtw-kameez-shalwar-mks-bas26-007-putty",
-      "kind": "New product",
-      "detail": "Price: PKR 3,594.00; available sizes/options: BASIC FIT / M / BLENDED"
-    },
-    {
-      "product_id": "8075843567796",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-trde25-11-052-black?variant=44256354173108",
-      "kind": "Back in stock",
-      "detail": "10 / Black / COTTON SILK"
-    },
-    {
-      "product_id": "8075843928244",
-      "title": "RTW | CULOTTE",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-cld131-5-26-black?variant=44256356139188",
-      "kind": "Back in stock",
-      "detail": "8 / Black / CAMBRIC"
-    },
-    {
-      "product_id": "8075844518068",
-      "title": "RTW | TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-trouser-shd25-12-058-beige",
-      "kind": "New product",
-      "detail": "Price: PKR 1,673.00; available sizes/options: 8 / Beige / CAMBRIC, 10 / Beige / CAMBRIC"
-    },
-    {
-      "product_id": "8079550972084",
-      "title": "RTW | SHIRT & TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-lde191-2-2p26-orange",
-      "kind": "New product",
-      "detail": "Price: PKR 5,803.00; available sizes/options: 10 / Orange / DOBBY"
     },
     {
       "product_id": "8079551070388",
       "title": "RTW | SHIRT, TROUSER & DUPATTA",
       "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-lde79-1-3p26-grey",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "kind": "New product",
+      "detail": "Price: PKR 8,113.00; available sizes/options: 10 / Grey / LUREX JACQUARD"
     },
     {
-      "product_id": "8079551135924",
-      "title": "RTW | SHIRT, SHALWAR & DUPATTA",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-shalwar-dupatta-epe196-9-3p25-green",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8092174319796",
-      "title": "RTW | KAMEEZ & SHALWAR",
-      "url": "https://www.alkaramstudio.com/products/rtw-kameez-shalwar-mks-bas26-008-black?variant=67583091507380",
-      "kind": "Back in stock",
-      "detail": "BASIC FIT / S / BLENDED"
-    },
-    {
-      "product_id": "8097846984884",
+      "product_id": "8097846952116",
       "title": "RTW | SHALWAR",
-      "url": "https://www.alkaramstudio.com/products/rtw-shalwar-shd05-1-26-beige",
-      "kind": "New product",
-      "detail": "Price: PKR 1,603.00; available sizes/options: 10 / Beige / CAMBRIC"
-    },
-    {
-      "product_id": "8103949795508",
-      "title": "RTS | COTTON",
-      "url": "https://www.alkaramstudio.com/products/rts-cotton-akmus-ascs26-003-fawn",
-      "kind": "New product",
-      "detail": "Price: PKR 2,995.00; available sizes/options: 4.5 METERS / Fawn / COTTON"
-    },
-    {
-      "product_id": "8103949861044",
-      "title": "RTS | COTTON",
-      "url": "https://www.alkaramstudio.com/products/rts-cotton-akmus-ascs26-005-powder-green",
-      "kind": "New product",
-      "detail": "Price: PKR 2,995.00; available sizes/options: 4.5 METERS / POWDER GREEN / COTTON"
-    },
-    {
-      "product_id": "8103949893812",
-      "title": "RTS | COTTON",
-      "url": "https://www.alkaramstudio.com/products/rts-cotton-akmus-ascs26-006-off-white",
-      "kind": "New product",
-      "detail": "Price: PKR 2,995.00; available sizes/options: 4.5 METERS / Off White / COTTON"
-    },
-    {
-      "product_id": "8106143383732",
-      "title": "RTW | SHIRT & TROUSER",
-      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-ede143-2-2p26-red?variant=44342736945332",
+      "url": "https://www.alkaramstudio.com/products/rtw-shalwar-shd10-1-26-cream?variant=44328229863604",
       "kind": "Sold out",
-      "detail": "12 / Red / IRISH"
+      "detail": "16 / Cream / CAMBRIC"
+    },
+    {
+      "product_id": "8106143318196",
+      "title": "RTW | SHIRT, TROUSER & DUPATTA",
+      "url": "https://www.alkaramstudio.com/products/rtw-shirt-trouser-dupatta-lpe99-1-3p26-black?variant=44342736552116",
+      "kind": "Sold out",
+      "detail": "12 / Black / YARN DYED"
     }
   ]
 }
