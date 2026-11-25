@@ -3,7 +3,7 @@
   "source": "https://www.bata.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-24T12:53:25.804058+00:00",
+  "checked_at": "2026-11-25T01:13:23.569199+00:00",
   "products": {
     "10446142275699": {
       "id": "10446142275699",
@@ -20355,6 +20355,61 @@
       },
       "available": true
     },
+    "8349527900275": {
+      "id": "8349527900275",
+      "title": "Bata - Bags",
+      "handle": "946-0013",
+      "url": "https://www.bata.com.pk/products/946-0013",
+      "vendor": "Bags",
+      "type": "Bata",
+      "description": "<p>946-0013</p>",
+      "tags": [
+        "15%Tax",
+        "Accessories",
+        "Bags",
+        "Bata",
+        "Color_Beige",
+        "Flashsale",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "school bags"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/946-0013_1_1.webp?v=1785760015",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/946-0013_1_2.webp?v=1785760015",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/946-0013_1_3.webp?v=1785760015"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "10"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Beige"
+          ]
+        }
+      ],
+      "variants": {
+        "45301068071027": {
+          "id": "45301068071027",
+          "title": "10 / Beige",
+          "options": [
+            "10",
+            "Beige"
+          ],
+          "sku": "9460013-10",
+          "available": true,
+          "price": 314900,
+          "compare_at_price": 449900
+        }
+      },
+      "available": true
+    },
     "8406500507763": {
       "id": "8406500507763",
       "title": "Bata - Bags",
@@ -21010,6 +21065,127 @@
             "Black"
           ],
           "sku": "9020561-44",
+          "available": true,
+          "price": 244900,
+          "compare_at_price": 349900
+        }
+      },
+      "available": true
+    },
+    "7973555994739": {
+      "id": "7973555994739",
+      "title": "Bata - Belt",
+      "handle": "902-0562",
+      "url": "https://www.bata.com.pk/products/902-0562",
+      "vendor": "Belt",
+      "type": "Bata",
+      "description": "<p>902-0562</p>\n<p><span>Elevate your style with the Bata Belt. Made with premium leather, this belt boasts a unique double-sided design with two striking colors. Enhance your wardrobe with this versatile and stylish accessory.</span></p>",
+      "tags": [
+        "15%Tax",
+        "Accessories",
+        "Bata",
+        "Bata - Belt",
+        "Belt",
+        "Color_Black",
+        "Flashsale",
+        "Label | ONLINE EXCLUSIVE DISCOUNT"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/902-0562-_1_89e09b78-4146-43e8-b2fb-e8a9ac8ade8c.webp?v=1774870344",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/902-0562-_2_143c203c-d0e3-4845-a72c-a6a078c32b7b.webp?v=1774870344",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/902-0562-_3.webp?v=1774870344",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/902-0562-_4.webp?v=1774870344"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "variants": {
+        "44799905464435": {
+          "id": "44799905464435",
+          "title": "34 / Black",
+          "options": [
+            "34",
+            "Black"
+          ],
+          "sku": "9020562-34",
+          "available": true,
+          "price": 244900,
+          "compare_at_price": 349900
+        },
+        "44799905497203": {
+          "id": "44799905497203",
+          "title": "36 / Black",
+          "options": [
+            "36",
+            "Black"
+          ],
+          "sku": "9020562-36",
+          "available": true,
+          "price": 244900,
+          "compare_at_price": 349900
+        },
+        "44799905529971": {
+          "id": "44799905529971",
+          "title": "38 / Black",
+          "options": [
+            "38",
+            "Black"
+          ],
+          "sku": "9020562-38",
+          "available": true,
+          "price": 244900,
+          "compare_at_price": 349900
+        },
+        "44799905562739": {
+          "id": "44799905562739",
+          "title": "40 / Black",
+          "options": [
+            "40",
+            "Black"
+          ],
+          "sku": "9020562-40",
+          "available": true,
+          "price": 244900,
+          "compare_at_price": 349900
+        },
+        "44799905595507": {
+          "id": "44799905595507",
+          "title": "42 / Black",
+          "options": [
+            "42",
+            "Black"
+          ],
+          "sku": "9020562-42",
+          "available": true,
+          "price": 244900,
+          "compare_at_price": 349900
+        },
+        "44799905628275": {
+          "id": "44799905628275",
+          "title": "44 / Black",
+          "options": [
+            "44",
+            "Black"
+          ],
+          "sku": "9020562-44",
           "available": true,
           "price": 244900,
           "compare_at_price": 349900
@@ -29710,131 +29886,6 @@
       },
       "available": false
     },
-    "6812756213875": {
-      "id": "6812756213875",
-      "title": "Bata - Men",
-      "handle": "877-1055",
-      "url": "https://www.bata.com.pk/products/877-1055",
-      "vendor": "Men",
-      "type": "Bata",
-      "description": "<p>877-1055</p>",
-      "tags": [
-        "18%Tax",
-        "Bata",
-        "Bata - Men",
-        "Color_White",
-        "Flip Flops",
-        "Flip FlopsMen",
-        "Label | ONLINE EXCLUSIVE DISCOUNT",
-        "Loungewear & Slipper Men",
-        "Men",
-        "Summer-collection",
-        "Supersale",
-        "SupersaleMen"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/products/877-1055-a.jpg?v=1757100664",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/products/877-1055-b.jpg?v=1757100664",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/products/877-1055-c.jpg?v=1757100664",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/products/877-1055-d.jpg?v=1757100664"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "40/6",
-            "41/7",
-            "42/8",
-            "43/9",
-            "44/10",
-            "45/11"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "White"
-          ]
-        }
-      ],
-      "variants": {
-        "39976315486323": {
-          "id": "39976315486323",
-          "title": "40/6 / White",
-          "options": [
-            "40/6",
-            "White"
-          ],
-          "sku": "8771055-40",
-          "available": false,
-          "price": 26900,
-          "compare_at_price": 89900
-        },
-        "39976315519091": {
-          "id": "39976315519091",
-          "title": "41/7 / White",
-          "options": [
-            "41/7",
-            "White"
-          ],
-          "sku": "8771055-41",
-          "available": true,
-          "price": 26900,
-          "compare_at_price": 89900
-        },
-        "39976315551859": {
-          "id": "39976315551859",
-          "title": "42/8 / White",
-          "options": [
-            "42/8",
-            "White"
-          ],
-          "sku": "8771055-42",
-          "available": true,
-          "price": 26900,
-          "compare_at_price": 89900
-        },
-        "39976315584627": {
-          "id": "39976315584627",
-          "title": "43/9 / White",
-          "options": [
-            "43/9",
-            "White"
-          ],
-          "sku": "8771055-43",
-          "available": false,
-          "price": 26900,
-          "compare_at_price": 89900
-        },
-        "39976315617395": {
-          "id": "39976315617395",
-          "title": "44/10 / White",
-          "options": [
-            "44/10",
-            "White"
-          ],
-          "sku": "8771055-44",
-          "available": false,
-          "price": 26900,
-          "compare_at_price": 89900
-        },
-        "39976315650163": {
-          "id": "39976315650163",
-          "title": "45/11 / White",
-          "options": [
-            "45/11",
-            "White"
-          ],
-          "sku": "8771055-45",
-          "available": false,
-          "price": 26900,
-          "compare_at_price": 89900
-        }
-      },
-      "available": true
-    },
     "7114007183475": {
       "id": "7114007183475",
       "title": "Bata - Men",
@@ -38196,7 +38247,7 @@
             "Black"
           ],
           "sku": "8676081-45",
-          "available": false,
+          "available": true,
           "price": 160900,
           "compare_at_price": 229900
         }
@@ -41358,7 +41409,7 @@
             "Blue"
           ],
           "sku": "8729178-44",
-          "available": true,
+          "available": false,
           "price": 90900,
           "compare_at_price": 129900
         },
@@ -42593,7 +42644,7 @@
             "Brown"
           ],
           "sku": "8894060-42",
-          "available": true,
+          "available": false,
           "price": 174900,
           "compare_at_price": 249900
         },
@@ -44350,7 +44401,7 @@
             "Blue"
           ],
           "sku": "8779016-41",
-          "available": true,
+          "available": false,
           "price": 195900,
           "compare_at_price": 279900
         },
@@ -52725,7 +52776,7 @@
             "Grey"
           ],
           "sku": "8892004-45",
-          "available": false,
+          "available": true,
           "price": 230900,
           "compare_at_price": 329900
         }
@@ -53287,7 +53338,7 @@
             "Black"
           ],
           "sku": "8216565-40",
-          "available": false,
+          "available": true,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -67704,7 +67755,7 @@
             "Black"
           ],
           "sku": "5516318-38",
-          "available": false,
+          "available": true,
           "price": 265900,
           "compare_at_price": 379900
         },
@@ -71019,131 +71070,6 @@
       },
       "available": true
     },
-    "7892850704499": {
-      "id": "7892850704499",
-      "title": "Bata - Women",
-      "handle": "571-6236",
-      "url": "https://www.bata.com.pk/products/571-6236",
-      "vendor": "Women",
-      "type": "Bata",
-      "description": "<p>571-6236</p>",
-      "tags": [
-        "15%Tax",
-        "Bata",
-        "Bata - Women",
-        "Color_White",
-        "FullPrice",
-        "Label | ONLINE EXCLUSIVE DISCOUNT",
-        "Ladies Casual",
-        "New Arrivals",
-        "Supersale",
-        "SupersaleWomen",
-        "Women",
-        "Women new"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/571-6236-1_1.webp?v=1757099615",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/571-6236-1_2.webp?v=1757099615",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/571-6236-1_3.webp?v=1757099615",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/571-6236-1_4.webp?v=1757099615"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "36/3",
-            "37/4",
-            "38/5",
-            "39/6",
-            "40/7",
-            "41/8"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Black"
-          ]
-        }
-      ],
-      "variants": {
-        "42822865518707": {
-          "id": "42822865518707",
-          "title": "36/3 / Black",
-          "options": [
-            "36/3",
-            "Black"
-          ],
-          "sku": "5716236-36",
-          "available": false,
-          "price": 139900,
-          "compare_at_price": 279900
-        },
-        "42822865551475": {
-          "id": "42822865551475",
-          "title": "37/4 / Black",
-          "options": [
-            "37/4",
-            "Black"
-          ],
-          "sku": "5716236-37",
-          "available": false,
-          "price": 139900,
-          "compare_at_price": 279900
-        },
-        "42822865584243": {
-          "id": "42822865584243",
-          "title": "38/5 / Black",
-          "options": [
-            "38/5",
-            "Black"
-          ],
-          "sku": "5716236-38",
-          "available": true,
-          "price": 139900,
-          "compare_at_price": 279900
-        },
-        "42822865617011": {
-          "id": "42822865617011",
-          "title": "39/6 / Black",
-          "options": [
-            "39/6",
-            "Black"
-          ],
-          "sku": "5716236-39",
-          "available": false,
-          "price": 139900,
-          "compare_at_price": 279900
-        },
-        "42822865649779": {
-          "id": "42822865649779",
-          "title": "40/7 / Black",
-          "options": [
-            "40/7",
-            "Black"
-          ],
-          "sku": "5716236-40",
-          "available": false,
-          "price": 139900,
-          "compare_at_price": 279900
-        },
-        "42822865682547": {
-          "id": "42822865682547",
-          "title": "41/8 / Black",
-          "options": [
-            "41/8",
-            "Black"
-          ],
-          "sku": "5716236-41",
-          "available": false,
-          "price": 139900,
-          "compare_at_price": 279900
-        }
-      },
-      "available": true
-    },
     "7892851163251": {
       "id": "7892851163251",
       "title": "Bata - Women",
@@ -73402,129 +73328,6 @@
       },
       "available": false
     },
-    "7916489736307": {
-      "id": "7916489736307",
-      "title": "Bata - Women",
-      "handle": "561-4222",
-      "url": "https://www.bata.com.pk/products/561-4222",
-      "vendor": "Women",
-      "type": "Bata",
-      "description": "<p>561-4222</p>",
-      "tags": [
-        "Bata",
-        "Bata - Women",
-        "Color_White",
-        "FullPrice",
-        "Label | ONLINE EXCLUSIVE DISCOUNT",
-        "Ladies Casual",
-        "Supersale",
-        "SupersaleMen",
-        "Women",
-        "Women new"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/561-4222_1.webp?v=1757099237",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/561-4222_2.webp?v=1757099237",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/561-4222_3.webp?v=1757099237",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/561-4222_4.webp?v=1757099237"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "36/3",
-            "37/4",
-            "38/5",
-            "39/6",
-            "40/7",
-            "41/8"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Maroon"
-          ]
-        }
-      ],
-      "variants": {
-        "42884414668915": {
-          "id": "42884414668915",
-          "title": "36/3 / Maroon",
-          "options": [
-            "36/3",
-            "Maroon"
-          ],
-          "sku": "5614222-36",
-          "available": false,
-          "price": 94900,
-          "compare_at_price": 189900
-        },
-        "42884414701683": {
-          "id": "42884414701683",
-          "title": "37/4 / Maroon",
-          "options": [
-            "37/4",
-            "Maroon"
-          ],
-          "sku": "5614222-37",
-          "available": false,
-          "price": 94900,
-          "compare_at_price": 189900
-        },
-        "42884414734451": {
-          "id": "42884414734451",
-          "title": "38/5 / Maroon",
-          "options": [
-            "38/5",
-            "Maroon"
-          ],
-          "sku": "5614222-38",
-          "available": true,
-          "price": 94900,
-          "compare_at_price": 189900
-        },
-        "42884414767219": {
-          "id": "42884414767219",
-          "title": "39/6 / Maroon",
-          "options": [
-            "39/6",
-            "Maroon"
-          ],
-          "sku": "5614222-39",
-          "available": false,
-          "price": 94900,
-          "compare_at_price": 189900
-        },
-        "42884414799987": {
-          "id": "42884414799987",
-          "title": "40/7 / Maroon",
-          "options": [
-            "40/7",
-            "Maroon"
-          ],
-          "sku": "5614222-40",
-          "available": false,
-          "price": 94900,
-          "compare_at_price": 189900
-        },
-        "42884414832755": {
-          "id": "42884414832755",
-          "title": "41/8 / Maroon",
-          "options": [
-            "41/8",
-            "Maroon"
-          ],
-          "sku": "5614222-41",
-          "available": false,
-          "price": 94900,
-          "compare_at_price": 189900
-        }
-      },
-      "available": true
-    },
     "7918654390387": {
       "id": "7918654390387",
       "title": "Bata - Women",
@@ -74735,7 +74538,7 @@
             "Red"
           ],
           "sku": "6725502-37",
-          "available": false,
+          "available": true,
           "price": 90900,
           "compare_at_price": 129900
         },
@@ -81313,7 +81116,7 @@
             "Pink"
           ],
           "sku": "5895019-37",
-          "available": false,
+          "available": true,
           "price": 114900,
           "compare_at_price": 229900
         },
@@ -81325,7 +81128,7 @@
             "Pink"
           ],
           "sku": "5895019-38",
-          "available": false,
+          "available": true,
           "price": 114900,
           "compare_at_price": 229900
         },
@@ -81337,7 +81140,7 @@
             "Pink"
           ],
           "sku": "5895019-39",
-          "available": false,
+          "available": true,
           "price": 114900,
           "compare_at_price": 229900
         },
@@ -81349,7 +81152,7 @@
             "Pink"
           ],
           "sku": "5895019-40",
-          "available": false,
+          "available": true,
           "price": 114900,
           "compare_at_price": 229900
         },
@@ -84496,7 +84299,7 @@
             "Pink"
           ],
           "sku": "6615456-40",
-          "available": true,
+          "available": false,
           "price": 189900,
           "compare_at_price": 379900
         },
@@ -86014,7 +85817,7 @@
             "Maroon"
           ],
           "sku": "5710415-41",
-          "available": false,
+          "available": true,
           "price": 160900,
           "compare_at_price": 229900
         }
@@ -91626,7 +91429,7 @@
             "Black"
           ],
           "sku": "5616403-39",
-          "available": true,
+          "available": false,
           "price": 89900,
           "compare_at_price": 179900
         },
@@ -92467,7 +92270,7 @@
             "Black"
           ],
           "sku": "6716443-36",
-          "available": true,
+          "available": false,
           "price": 314900,
           "compare_at_price": 449900
         },
@@ -100368,7 +100171,7 @@
             "Blue"
           ],
           "sku": "5519321-36",
-          "available": false,
+          "available": true,
           "price": 265900,
           "compare_at_price": 379900
         },
@@ -100493,7 +100296,7 @@
             "Black"
           ],
           "sku": "6316300-36",
-          "available": false,
+          "available": true,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -102138,7 +101941,7 @@
             "Beige"
           ],
           "sku": "5511938-37",
-          "available": false,
+          "available": true,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -103005,7 +102808,7 @@
             "Golden"
           ],
           "sku": "5518901-36",
-          "available": false,
+          "available": true,
           "price": 160900,
           "compare_at_price": 229900
         },
@@ -103899,7 +103702,7 @@
             "Beige"
           ],
           "sku": "5511941-37",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -104279,7 +104082,7 @@
             "Black"
           ],
           "sku": "6516953-37",
-          "available": false,
+          "available": true,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -104394,7 +104197,7 @@
             "Golden"
           ],
           "sku": "6518945-36",
-          "available": false,
+          "available": true,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -104796,7 +104599,7 @@
             "Grey"
           ],
           "sku": "5512940-38",
-          "available": false,
+          "available": true,
           "price": 160900,
           "compare_at_price": 229900
         },
@@ -104820,7 +104623,7 @@
             "Grey"
           ],
           "sku": "5512940-40",
-          "available": false,
+          "available": true,
           "price": 160900,
           "compare_at_price": 229900
         },
@@ -105198,7 +105001,7 @@
             "Maroon"
           ],
           "sku": "5515941-40",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -105286,7 +105089,6 @@
         "Accessories",
         "Bata Care - Full insole",
         "Label | ONLINE EXCLUSIVE DISCOUNT",
-        "Out of stock",
         "Supersale"
       ],
       "images": [
@@ -105319,12 +105121,12 @@
             "Neutral"
           ],
           "sku": "9900076-10",
-          "available": false,
+          "available": true,
           "price": 14900,
           "compare_at_price": 49900
         }
       },
-      "available": false
+      "available": true
     },
     "7157540847731": {
       "id": "7157540847731",
@@ -105380,6 +105182,58 @@
       },
       "available": true
     },
+    "7157540913267": {
+      "id": "7157540913267",
+      "title": "Bata Care - Gel Heel \nCushions",
+      "handle": "990-0068",
+      "url": "https://www.bata.com.pk/products/990-0068",
+      "vendor": "Care",
+      "type": "Bata",
+      "description": "<p>990-0068</p>",
+      "tags": [
+        "12%Tax",
+        "Accessories",
+        "Bata Care - Gel Heel \nCushions",
+        "Color_NeutralMen",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Supersale"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/990-0068-_2.jpg?v=1757100510",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/990-0068.jpg?v=1757100510"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "10"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Neutral"
+          ]
+        }
+      ],
+      "variants": {
+        "40848411197555": {
+          "id": "40848411197555",
+          "title": "10 / Neutral",
+          "options": [
+            "10",
+            "Neutral"
+          ],
+          "sku": "9900068-10",
+          "available": true,
+          "price": 8900,
+          "compare_at_price": 29900
+        }
+      },
+      "available": true
+    },
     "7157540880499": {
       "id": "7157540880499",
       "title": "Bata Care - Gel Sandal \nCushions",
@@ -105428,6 +105282,58 @@
           "available": true,
           "price": 8900,
           "compare_at_price": 29900
+        }
+      },
+      "available": true
+    },
+    "7157540946035": {
+      "id": "7157540946035",
+      "title": "Bata Care - Half insole Foam",
+      "handle": "990-0075",
+      "url": "https://www.bata.com.pk/products/990-0075",
+      "vendor": "Care",
+      "type": "Bata",
+      "description": "<p>990-0075</p>",
+      "tags": [
+        "12%Tax",
+        "Accessories",
+        "Bata Care - Half insole Foam",
+        "Color_NeutralMen",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Supersale"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/990-0075-_1.jpg?v=1756981397",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/990-0075-_2.jpg?v=1756981397"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "10"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Neutral"
+          ]
+        }
+      ],
+      "variants": {
+        "40848411230323": {
+          "id": "40848411230323",
+          "title": "10 / Neutral",
+          "options": [
+            "10",
+            "Neutral"
+          ],
+          "sku": "9900075-10",
+          "available": true,
+          "price": 14900,
+          "compare_at_price": 49900
         }
       },
       "available": true
@@ -106813,7 +106719,7 @@
             "Black"
           ],
           "sku": "8836114-40",
-          "available": false,
+          "available": true,
           "price": 594900,
           "compare_at_price": 849900
         },
@@ -107880,7 +107786,7 @@
             "Grey"
           ],
           "sku": "8822224-43",
-          "available": false,
+          "available": true,
           "price": 734900,
           "compare_at_price": 1049900
         },
@@ -107892,7 +107798,7 @@
             "Grey"
           ],
           "sku": "8822224-44",
-          "available": false,
+          "available": true,
           "price": 734900,
           "compare_at_price": 1049900
         },
@@ -113170,7 +113076,7 @@
             "Black"
           ],
           "sku": "8836539-40",
-          "available": false,
+          "available": true,
           "price": 874900,
           "compare_at_price": 1249900
         },
@@ -116832,7 +116738,7 @@
             "Sky-Blue"
           ],
           "sku": "5159814-36",
-          "available": false,
+          "available": true,
           "price": 300900,
           "compare_at_price": 429900
         },
@@ -117153,132 +117059,6 @@
         }
       },
       "available": false
-    },
-    "7099990147187": {
-      "id": "7099990147187",
-      "title": "Bata Comfit - Women",
-      "handle": "671-8424",
-      "url": "https://www.bata.com.pk/products/671-8424",
-      "vendor": "Women",
-      "type": "Bata Comfit",
-      "description": "<p>671-8424</p>",
-      "tags": [
-        "15%Tax",
-        "Bata Comfit",
-        "Bata Comfit - Women",
-        "Color_Golden",
-        "FullPrice",
-        "Label | ONLINE EXCLUSIVE DISCOUNT",
-        "Ladies Casual",
-        "New Arrivals",
-        "Summer-collection",
-        "Supersale",
-        "SupersaleWomen",
-        "Women",
-        "Women New"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/products/515-8424-_1.jpg?v=1757100587",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/products/515-8424-_2.jpg?v=1757100587",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/products/515-8424-_3.jpg?v=1757100587",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/products/515-8424-_4.jpg?v=1757100587"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "36/3",
-            "37/4",
-            "38/5",
-            "39/6",
-            "40/7",
-            "41/8"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Golden"
-          ]
-        }
-      ],
-      "variants": {
-        "40720164257907": {
-          "id": "40720164257907",
-          "title": "36/3 / Golden",
-          "options": [
-            "36/3",
-            "Golden"
-          ],
-          "sku": "6718424-36",
-          "available": false,
-          "price": 224900,
-          "compare_at_price": 449900
-        },
-        "40720164290675": {
-          "id": "40720164290675",
-          "title": "37/4 / Golden",
-          "options": [
-            "37/4",
-            "Golden"
-          ],
-          "sku": "6718424-37",
-          "available": false,
-          "price": 224900,
-          "compare_at_price": 449900
-        },
-        "40720164323443": {
-          "id": "40720164323443",
-          "title": "38/5 / Golden",
-          "options": [
-            "38/5",
-            "Golden"
-          ],
-          "sku": "6718424-38",
-          "available": false,
-          "price": 224900,
-          "compare_at_price": 449900
-        },
-        "40720164356211": {
-          "id": "40720164356211",
-          "title": "39/6 / Golden",
-          "options": [
-            "39/6",
-            "Golden"
-          ],
-          "sku": "6718424-39",
-          "available": true,
-          "price": 224900,
-          "compare_at_price": 449900
-        },
-        "40720164388979": {
-          "id": "40720164388979",
-          "title": "40/7 / Golden",
-          "options": [
-            "40/7",
-            "Golden"
-          ],
-          "sku": "6718424-40",
-          "available": false,
-          "price": 224900,
-          "compare_at_price": 449900
-        },
-        "40720164421747": {
-          "id": "40720164421747",
-          "title": "41/8 / Golden",
-          "options": [
-            "41/8",
-            "Golden"
-          ],
-          "sku": "6718424-41",
-          "available": false,
-          "price": 224900,
-          "compare_at_price": 449900
-        }
-      },
-      "available": true
     },
     "7099990376563": {
       "id": "7099990376563",
@@ -118159,7 +117939,7 @@
             "Beige"
           ],
           "sku": "6618608-41",
-          "available": false,
+          "available": true,
           "price": 300900,
           "compare_at_price": 429900
         }
@@ -119672,7 +119452,7 @@
             "Beige"
           ],
           "sku": "5018096-40",
-          "available": false,
+          "available": true,
           "price": 374900,
           "compare_at_price": 749900
         },
@@ -119752,7 +119532,7 @@
             "Sky-Blue"
           ],
           "sku": "5019096-36",
-          "available": false,
+          "available": true,
           "price": 374900,
           "compare_at_price": 749900
         },
@@ -119764,7 +119544,7 @@
             "Sky-Blue"
           ],
           "sku": "5019096-37",
-          "available": false,
+          "available": true,
           "price": 374900,
           "compare_at_price": 749900
         },
@@ -121840,6 +121620,131 @@
         }
       },
       "available": false
+    },
+    "7903085265011": {
+      "id": "7903085265011",
+      "title": "Bata Comfit - Women",
+      "handle": "601-9186",
+      "url": "https://www.bata.com.pk/products/601-9186",
+      "vendor": "Women",
+      "type": "Bata Comfit",
+      "description": "<p>601-9186</p>",
+      "tags": [
+        "15%Tax",
+        "Bata Comfit",
+        "Bata Comfit - Women",
+        "Color_Blue",
+        "Flashsale",
+        "FlashsaleWomen",
+        "FullPrice",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Ladies Casual",
+        "New Arrivals",
+        "Women",
+        "Women new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/601-9186-_1.webp?v=1757099492",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/601-9186-_2.webp?v=1757099492",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/601-9186-_3.webp?v=1757099492",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/601-9186-_4.webp?v=1757099492"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36/3",
+            "37/4",
+            "38/5",
+            "39/6",
+            "40/7",
+            "41/8"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Blue"
+          ]
+        }
+      ],
+      "variants": {
+        "42852274831475": {
+          "id": "42852274831475",
+          "title": "36/3 / Blue",
+          "options": [
+            "36/3",
+            "Blue"
+          ],
+          "sku": "6019186-36",
+          "available": false,
+          "price": 664900,
+          "compare_at_price": 949900
+        },
+        "42852274864243": {
+          "id": "42852274864243",
+          "title": "37/4 / Blue",
+          "options": [
+            "37/4",
+            "Blue"
+          ],
+          "sku": "6019186-37",
+          "available": false,
+          "price": 664900,
+          "compare_at_price": 949900
+        },
+        "42852274897011": {
+          "id": "42852274897011",
+          "title": "38/5 / Blue",
+          "options": [
+            "38/5",
+            "Blue"
+          ],
+          "sku": "6019186-38",
+          "available": true,
+          "price": 664900,
+          "compare_at_price": 949900
+        },
+        "42852274929779": {
+          "id": "42852274929779",
+          "title": "39/6 / Blue",
+          "options": [
+            "39/6",
+            "Blue"
+          ],
+          "sku": "6019186-39",
+          "available": true,
+          "price": 664900,
+          "compare_at_price": 949900
+        },
+        "42852274962547": {
+          "id": "42852274962547",
+          "title": "40/7 / Blue",
+          "options": [
+            "40/7",
+            "Blue"
+          ],
+          "sku": "6019186-40",
+          "available": true,
+          "price": 664900,
+          "compare_at_price": 949900
+        },
+        "42852274995315": {
+          "id": "42852274995315",
+          "title": "41/8 / Blue",
+          "options": [
+            "41/8",
+            "Blue"
+          ],
+          "sku": "6019186-41",
+          "available": false,
+          "price": 664900,
+          "compare_at_price": 949900
+        }
+      },
+      "available": true
     },
     "7903085396083": {
       "id": "7903085396083",
@@ -125574,7 +125479,7 @@
             "Black"
           ],
           "sku": "7716722-39",
-          "available": false,
+          "available": true,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -127934,7 +127839,7 @@
             "Sea-Green"
           ],
           "sku": "6017222-37",
-          "available": false,
+          "available": true,
           "price": 424900,
           "compare_at_price": 849900
         },
@@ -128859,7 +128764,7 @@
             "Beige"
           ],
           "sku": "7711463-41",
-          "available": false,
+          "available": true,
           "price": 224900,
           "compare_at_price": 449900
         }
@@ -138115,6 +138020,61 @@
       },
       "available": true
     },
+    "6535238975603": {
+      "id": "6535238975603",
+      "title": "Bata Sneaker Shampoo",
+      "handle": "990-0008",
+      "url": "https://www.bata.com.pk/products/990-0008",
+      "vendor": "Shoe Care",
+      "type": "Bata",
+      "description": "<p>990-0008</p>\n<ul>\n<li>Eco-friendly cleaner with durable bristle brushes.</li>\n<li>Suitable for most types of sneakers &amp; casual shoes.</li>\n<li>Great for cleaning outsoles; easy, all-in-one application</li>\n</ul>\n<p> </p>\n<p><span style=\"text-decoration: underline;\"><strong>DIRECTIONS:</strong></span> Apply evenly and scrub entire surface gently. Test on a small area first.</p>",
+      "tags": [
+        "18%Tax",
+        "Accessories",
+        "Bata",
+        "Bata Sneaker Shampoo",
+        "Bata Sneaker Shampoo - All colorspro",
+        "Flashsale",
+        "FullPrice",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "OUT OF STOCK ITEMS",
+        "Shoe Care"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/990-0008.jpg?v=1761242045"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "10"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "All-colors"
+          ]
+        }
+      ],
+      "variants": {
+        "42848532594803": {
+          "id": "42848532594803",
+          "title": "10 / All-colors",
+          "options": [
+            "10",
+            "All-colors"
+          ],
+          "sku": "9900008-10",
+          "available": true,
+          "price": 55900,
+          "compare_at_price": 79900
+        }
+      },
+      "available": true
+    },
     "8358663389299": {
       "id": "8358663389299",
       "title": "Bubble Gummers - Bag",
@@ -139630,7 +139590,7 @@
             "Black"
           ],
           "sku": "3516567-31",
-          "available": false,
+          "available": true,
           "price": 274900,
           "compare_at_price": 549900
         },
@@ -140700,7 +140660,7 @@
             "Blue"
           ],
           "sku": "3519026-33",
-          "available": true,
+          "available": false,
           "price": 274900,
           "compare_at_price": 549900
         },
@@ -146320,7 +146280,7 @@
             "Pink"
           ],
           "sku": "3515089-35",
-          "available": true,
+          "available": false,
           "price": 129900,
           "compare_at_price": 259900
         },
@@ -148002,6 +147962,157 @@
       },
       "available": true
     },
+    "8075572084851": {
+      "id": "8075572084851",
+      "title": "Bubble Gummers - Girls (5 Years - 10 Years)",
+      "handle": "351-5548",
+      "url": "https://www.bata.com.pk/products/351-5548",
+      "vendor": "Girls",
+      "type": "Bubble Gummers",
+      "description": "<p>351-5548</p>",
+      "tags": [
+        "(5 Years - 10 Years)",
+        "15%Tax",
+        "Bubble Gummers",
+        "Bubble Gummers - Girls (5 Years - 10 Years)",
+        "Color_Pink",
+        "Girls",
+        "Kids",
+        "Kids Sneaker",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Supersale",
+        "SupersaleKids",
+        "kids New"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/351-5548_1_1.webp?v=1757098710",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/351-5548_1_2.webp?v=1757098710",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/351-5548_1_3.webp?v=1757098710",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/351-5548_1_4.webp?v=1757098710"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "27/9",
+            "28/10",
+            "30/11",
+            "31/12",
+            "33/13",
+            "34/1",
+            "35/2",
+            "36/3"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Pink"
+          ]
+        }
+      ],
+      "variants": {
+        "43750488440947": {
+          "id": "43750488440947",
+          "title": "27/9 / Pink",
+          "options": [
+            "27/9",
+            "Pink"
+          ],
+          "sku": "3515548-27",
+          "available": false,
+          "price": 224900,
+          "compare_at_price": 449900
+        },
+        "43750488473715": {
+          "id": "43750488473715",
+          "title": "28/10 / Pink",
+          "options": [
+            "28/10",
+            "Pink"
+          ],
+          "sku": "3515548-28",
+          "available": false,
+          "price": 224900,
+          "compare_at_price": 449900
+        },
+        "43750488506483": {
+          "id": "43750488506483",
+          "title": "30/11 / Pink",
+          "options": [
+            "30/11",
+            "Pink"
+          ],
+          "sku": "3515548-30",
+          "available": false,
+          "price": 224900,
+          "compare_at_price": 449900
+        },
+        "43750488539251": {
+          "id": "43750488539251",
+          "title": "31/12 / Pink",
+          "options": [
+            "31/12",
+            "Pink"
+          ],
+          "sku": "3515548-31",
+          "available": false,
+          "price": 224900,
+          "compare_at_price": 449900
+        },
+        "43750488572019": {
+          "id": "43750488572019",
+          "title": "33/13 / Pink",
+          "options": [
+            "33/13",
+            "Pink"
+          ],
+          "sku": "3515548-33",
+          "available": false,
+          "price": 224900,
+          "compare_at_price": 449900
+        },
+        "43750488604787": {
+          "id": "43750488604787",
+          "title": "34/1 / Pink",
+          "options": [
+            "34/1",
+            "Pink"
+          ],
+          "sku": "3515548-34",
+          "available": true,
+          "price": 224900,
+          "compare_at_price": 449900
+        },
+        "43750488637555": {
+          "id": "43750488637555",
+          "title": "35/2 / Pink",
+          "options": [
+            "35/2",
+            "Pink"
+          ],
+          "sku": "3515548-35",
+          "available": false,
+          "price": 224900,
+          "compare_at_price": 449900
+        },
+        "43750488670323": {
+          "id": "43750488670323",
+          "title": "36/3 / Pink",
+          "options": [
+            "36/3",
+            "Pink"
+          ],
+          "sku": "3515548-36",
+          "available": false,
+          "price": 224900,
+          "compare_at_price": 449900
+        }
+      },
+      "available": true
+    },
     "8075572412531": {
       "id": "8075572412531",
       "title": "Bubble Gummers - Girls (5 Years - 10 Years)",
@@ -148688,7 +148799,7 @@
             "Black"
           ],
           "sku": "3516513-30",
-          "available": true,
+          "available": false,
           "price": 114900,
           "compare_at_price": 229900
         },
@@ -174600,7 +174711,7 @@
             "Black"
           ],
           "sku": "3516618-34",
-          "available": false,
+          "available": true,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -186746,6 +186857,156 @@
       },
       "available": true
     },
+    "7278311538803": {
+      "id": "7278311538803",
+      "title": "Floatz - Kids (5 Years - 10 Years)",
+      "handle": "367-2207",
+      "url": "https://www.bata.com.pk/products/367-2207",
+      "vendor": "Kids",
+      "type": "Floatz",
+      "description": "<p>367-2207</p>",
+      "tags": [
+        "(5 Years - 10 Years)",
+        "15%Tax",
+        "Color_Brown",
+        "Flip Flops",
+        "Floatz",
+        "Floatz - Kids",
+        "Kids",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Supersale",
+        "SupersaleKids",
+        "kids New"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/361-2207-_1.jpg?v=1750744866",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/361-2207-_2.jpg?v=1750744866",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/361-2207-_3.jpg?v=1750744866",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/361-2207-_4.jpg?v=1750744866"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "27/9",
+            "28/10",
+            "30/11",
+            "31/12",
+            "33/13",
+            "34/1",
+            "35/2",
+            "36/3"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Sky-Blue"
+          ]
+        }
+      ],
+      "variants": {
+        "42848499236979": {
+          "id": "42848499236979",
+          "title": "27/9 / Sky-Blue",
+          "options": [
+            "27/9",
+            "Sky-Blue"
+          ],
+          "sku": "3672207-27",
+          "available": false,
+          "price": 56900,
+          "compare_at_price": 189900
+        },
+        "42848499269747": {
+          "id": "42848499269747",
+          "title": "28/10 / Sky-Blue",
+          "options": [
+            "28/10",
+            "Sky-Blue"
+          ],
+          "sku": "3672207-28",
+          "available": false,
+          "price": 56900,
+          "compare_at_price": 189900
+        },
+        "42848499302515": {
+          "id": "42848499302515",
+          "title": "30/11 / Sky-Blue",
+          "options": [
+            "30/11",
+            "Sky-Blue"
+          ],
+          "sku": "3672207-30",
+          "available": false,
+          "price": 56900,
+          "compare_at_price": 189900
+        },
+        "42848499335283": {
+          "id": "42848499335283",
+          "title": "31/12 / Sky-Blue",
+          "options": [
+            "31/12",
+            "Sky-Blue"
+          ],
+          "sku": "3672207-31",
+          "available": false,
+          "price": 56900,
+          "compare_at_price": 189900
+        },
+        "42848499368051": {
+          "id": "42848499368051",
+          "title": "33/13 / Sky-Blue",
+          "options": [
+            "33/13",
+            "Sky-Blue"
+          ],
+          "sku": "3672207-33",
+          "available": true,
+          "price": 56900,
+          "compare_at_price": 189900
+        },
+        "42848499400819": {
+          "id": "42848499400819",
+          "title": "34/1 / Sky-Blue",
+          "options": [
+            "34/1",
+            "Sky-Blue"
+          ],
+          "sku": "3672207-34",
+          "available": false,
+          "price": 56900,
+          "compare_at_price": 189900
+        },
+        "42848499433587": {
+          "id": "42848499433587",
+          "title": "35/2 / Sky-Blue",
+          "options": [
+            "35/2",
+            "Sky-Blue"
+          ],
+          "sku": "3672207-35",
+          "available": false,
+          "price": 56900,
+          "compare_at_price": 189900
+        },
+        "42848499466355": {
+          "id": "42848499466355",
+          "title": "36/3 / Sky-Blue",
+          "options": [
+            "36/3",
+            "Sky-Blue"
+          ],
+          "sku": "3672207-36",
+          "available": false,
+          "price": 56900,
+          "compare_at_price": 189900
+        }
+      },
+      "available": true
+    },
     "7205933744243": {
       "id": "7205933744243",
       "title": "Floatz - Men",
@@ -186967,7 +187228,7 @@
             "Black"
           ],
           "sku": "8776072-43",
-          "available": true,
+          "available": false,
           "price": 230900,
           "compare_at_price": 329900
         },
@@ -188611,7 +188872,7 @@
             "Black"
           ],
           "sku": "6776065-39",
-          "available": false,
+          "available": true,
           "price": 160900,
           "compare_at_price": 229900
         },
@@ -189979,7 +190240,7 @@
             "Grey"
           ],
           "sku": "8482623-42",
-          "available": false,
+          "available": true,
           "price": 2519900,
           "compare_at_price": 3599900
         },
@@ -190003,7 +190264,7 @@
             "Grey"
           ],
           "sku": "8482623-44",
-          "available": false,
+          "available": true,
           "price": 2519900,
           "compare_at_price": 3599900
         },
@@ -191003,7 +191264,7 @@
             "Grey"
           ],
           "sku": "8772511-44",
-          "available": false,
+          "available": true,
           "price": 132900,
           "compare_at_price": 189900
         },
@@ -191397,6 +191658,133 @@
           "sku": "8416412-45",
           "available": true,
           "price": 174900,
+          "compare_at_price": 249900
+        }
+      },
+      "available": true
+    },
+    "7518288085107": {
+      "id": "7518288085107",
+      "title": "Island - Men",
+      "handle": "841-6413",
+      "url": "https://www.bata.com.pk/products/841-6413",
+      "vendor": "Men",
+      "type": "Island",
+      "description": "<p>841-6413</p>",
+      "tags": [
+        "15%Tax",
+        "Color_Black",
+        "Flip Flops",
+        "Flip FlopsMen",
+        "FullPrice",
+        "Island",
+        "Island - Men",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Men",
+        "Men new",
+        "New Arrivals",
+        "Summer-collection",
+        "Supersale",
+        "SupersaleMen"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/841-6413_1.webp?v=1770891039",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/841-6413_2.webp?v=1770891038",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/841-6413_3.webp?v=1770891039",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/841-6413_4.webp?v=1770891039"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "40/6",
+            "41/7",
+            "42/8",
+            "43/9",
+            "44/10",
+            "45/11"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "variants": {
+        "41661875650675": {
+          "id": "41661875650675",
+          "title": "40/6 / Black",
+          "options": [
+            "40/6",
+            "Black"
+          ],
+          "sku": "8416413-40",
+          "available": false,
+          "price": 74900,
+          "compare_at_price": 249900
+        },
+        "41661875716211": {
+          "id": "41661875716211",
+          "title": "41/7 / Black",
+          "options": [
+            "41/7",
+            "Black"
+          ],
+          "sku": "8416413-41",
+          "available": false,
+          "price": 74900,
+          "compare_at_price": 249900
+        },
+        "41661875748979": {
+          "id": "41661875748979",
+          "title": "42/8 / Black",
+          "options": [
+            "42/8",
+            "Black"
+          ],
+          "sku": "8416413-42",
+          "available": true,
+          "price": 74900,
+          "compare_at_price": 249900
+        },
+        "41661875781747": {
+          "id": "41661875781747",
+          "title": "43/9 / Black",
+          "options": [
+            "43/9",
+            "Black"
+          ],
+          "sku": "8416413-43",
+          "available": false,
+          "price": 74900,
+          "compare_at_price": 249900
+        },
+        "41661875814515": {
+          "id": "41661875814515",
+          "title": "44/10 / Black",
+          "options": [
+            "44/10",
+            "Black"
+          ],
+          "sku": "8416413-44",
+          "available": false,
+          "price": 74900,
+          "compare_at_price": 249900
+        },
+        "41661875847283": {
+          "id": "41661875847283",
+          "title": "45/11 / Black",
+          "options": [
+            "45/11",
+            "Black"
+          ],
+          "sku": "8416413-45",
+          "available": false,
+          "price": 74900,
           "compare_at_price": 249900
         }
       },
@@ -192916,7 +193304,7 @@
             "Dark-Blue"
           ],
           "sku": "6779261-40",
-          "available": false,
+          "available": true,
           "price": 125900,
           "compare_at_price": 179900
         },
@@ -193444,134 +193832,6 @@
         }
       },
       "available": false
-    },
-    "7527239778419": {
-      "id": "7527239778419",
-      "title": "Island - Women",
-      "handle": "541-7416",
-      "url": "https://www.bata.com.pk/products/541-7416",
-      "vendor": "Women",
-      "type": "Island",
-      "description": "<p>541-7416</p>",
-      "tags": [
-        "15%Tax",
-        "Color_Grey",
-        "Flashsale",
-        "FlashsaleWomen",
-        "Flip Flops",
-        "Flip FlopsWomen",
-        "FullPrice",
-        "Island",
-        "Island - Women",
-        "Label | ONLINE EXCLUSIVE DISCOUNT",
-        "Ladies Casual",
-        "New Arrivals",
-        "Summer-collection",
-        "Women",
-        "Women new"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/541-7416-_1.jpg?v=1757100222",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/541-7416-_2.jpg?v=1757100222",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/541-7416-_3.jpg?v=1757100222",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/541-7416-_4.jpg?v=1757100222"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "36/3",
-            "37/4",
-            "38/5",
-            "39/6",
-            "40/7",
-            "41/8"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Grey"
-          ]
-        }
-      ],
-      "variants": {
-        "41675319279731": {
-          "id": "41675319279731",
-          "title": "36/3 / Grey",
-          "options": [
-            "36/3",
-            "Grey"
-          ],
-          "sku": "5417416-36",
-          "available": false,
-          "price": 160900,
-          "compare_at_price": 229900
-        },
-        "41675319312499": {
-          "id": "41675319312499",
-          "title": "37/4 / Grey",
-          "options": [
-            "37/4",
-            "Grey"
-          ],
-          "sku": "5417416-37",
-          "available": false,
-          "price": 160900,
-          "compare_at_price": 229900
-        },
-        "41675319345267": {
-          "id": "41675319345267",
-          "title": "38/5 / Grey",
-          "options": [
-            "38/5",
-            "Grey"
-          ],
-          "sku": "5417416-38",
-          "available": false,
-          "price": 160900,
-          "compare_at_price": 229900
-        },
-        "41675319378035": {
-          "id": "41675319378035",
-          "title": "39/6 / Grey",
-          "options": [
-            "39/6",
-            "Grey"
-          ],
-          "sku": "5417416-39",
-          "available": false,
-          "price": 160900,
-          "compare_at_price": 229900
-        },
-        "41675319410803": {
-          "id": "41675319410803",
-          "title": "40/7 / Grey",
-          "options": [
-            "40/7",
-            "Grey"
-          ],
-          "sku": "5417416-40",
-          "available": true,
-          "price": 160900,
-          "compare_at_price": 229900
-        },
-        "41675319443571": {
-          "id": "41675319443571",
-          "title": "41/8 / Grey",
-          "options": [
-            "41/8",
-            "Grey"
-          ],
-          "sku": "5417416-41",
-          "available": false,
-          "price": 160900,
-          "compare_at_price": 229900
-        }
-      },
-      "available": true
     },
     "7984994254963": {
       "id": "7984994254963",
@@ -198574,7 +198834,7 @@
             "Blue"
           ],
           "sku": "5719036-40",
-          "available": false,
+          "available": true,
           "price": 111900,
           "compare_at_price": 159900
         },
@@ -198805,6 +199065,60 @@
           "available": true,
           "price": 69900,
           "compare_at_price": 99900
+        }
+      },
+      "available": true
+    },
+    "8402602590323": {
+      "id": "8402602590323",
+      "title": "Lunch - Box",
+      "handle": "989-0010",
+      "url": "https://www.bata.com.pk/products/989-0010",
+      "vendor": "Box",
+      "type": "Lunch",
+      "description": "<p>989-0010</p>",
+      "tags": [
+        "Accessories",
+        "Box",
+        "Flashsale",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Lunch",
+        "Lunch - Box",
+        "Pink"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/989-0010_1.jpg?v=1789453683",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/989-0010_2.jpg?v=1789453683",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/989-0010_3.jpg?v=1789453683"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "10"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Pink"
+          ]
+        }
+      ],
+      "variants": {
+        "45499151024243": {
+          "id": "45499151024243",
+          "title": "10 / Pink",
+          "options": [
+            "10",
+            "Pink"
+          ],
+          "sku": "9890010-10",
+          "available": true,
+          "price": 174900,
+          "compare_at_price": 249900
         }
       },
       "available": true
@@ -209317,6 +209631,132 @@
       },
       "available": false
     },
+    "7836508356723": {
+      "id": "7836508356723",
+      "title": "Northstar - Men",
+      "handle": "851-2138",
+      "url": "https://www.bata.com.pk/products/851-2138",
+      "vendor": "Men",
+      "type": "Northstar",
+      "description": "<p>851-2138</p>",
+      "tags": [
+        "15%Tax",
+        "Color_Grey",
+        "Flashsale",
+        "FlashsaleMen",
+        "FullPrice",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Men",
+        "Men Sneakers",
+        "Men new",
+        "New Arrivals",
+        "Northstar",
+        "Northstar - Men",
+        "Sneakers"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/851-2138_1.jpg?v=1764045239",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/851-2138_2-n.jpg?v=1757099911",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/851-2138_2.jpg?v=1764045254",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/851-2138_3.jpg?v=1757099911"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "40/6",
+            "41/7",
+            "42/8",
+            "43/9",
+            "44/10",
+            "45/11"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Grey"
+          ]
+        }
+      ],
+      "variants": {
+        "42566259638387": {
+          "id": "42566259638387",
+          "title": "40/6 / Grey",
+          "options": [
+            "40/6",
+            "Grey"
+          ],
+          "sku": "8512138-40",
+          "available": false,
+          "price": 384900,
+          "compare_at_price": 549900
+        },
+        "42566259671155": {
+          "id": "42566259671155",
+          "title": "41/7 / Grey",
+          "options": [
+            "41/7",
+            "Grey"
+          ],
+          "sku": "8512138-41",
+          "available": false,
+          "price": 384900,
+          "compare_at_price": 549900
+        },
+        "42566259703923": {
+          "id": "42566259703923",
+          "title": "42/8 / Grey",
+          "options": [
+            "42/8",
+            "Grey"
+          ],
+          "sku": "8512138-42",
+          "available": false,
+          "price": 384900,
+          "compare_at_price": 549900
+        },
+        "42566259736691": {
+          "id": "42566259736691",
+          "title": "43/9 / Grey",
+          "options": [
+            "43/9",
+            "Grey"
+          ],
+          "sku": "8512138-43",
+          "available": true,
+          "price": 384900,
+          "compare_at_price": 549900
+        },
+        "42566259769459": {
+          "id": "42566259769459",
+          "title": "44/10 / Grey",
+          "options": [
+            "44/10",
+            "Grey"
+          ],
+          "sku": "8512138-44",
+          "available": false,
+          "price": 384900,
+          "compare_at_price": 549900
+        },
+        "42566259802227": {
+          "id": "42566259802227",
+          "title": "45/11 / Grey",
+          "options": [
+            "45/11",
+            "Grey"
+          ],
+          "sku": "8512138-45",
+          "available": false,
+          "price": 384900,
+          "compare_at_price": 549900
+        }
+      },
+      "available": true
+    },
     "7915114692723": {
       "id": "7915114692723",
       "title": "Northstar - Men",
@@ -215466,6 +215906,132 @@
       },
       "available": true
     },
+    "8072653635699": {
+      "id": "8072653635699",
+      "title": "Northstar - Women",
+      "handle": "551-5090",
+      "url": "https://www.bata.com.pk/products/551-5090",
+      "vendor": "Women",
+      "type": "Northstar",
+      "description": "<p>551-5090</p>",
+      "tags": [
+        "15%Tax",
+        "Color_White",
+        "FullPrice",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Ladies Sports",
+        "New Arrivals",
+        "Northstar",
+        "Northstar - Women",
+        "Sneakers",
+        "Supersale",
+        "SupersaleWomen",
+        "Women",
+        "Women new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/551-5090-_1.webp?v=1763532467",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/551-5090-_2.webp?v=1763532467",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/551-5090-_3.webp?v=1763532467",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/551-5090-_4.webp?v=1763532467"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36/3",
+            "37/4",
+            "38/5",
+            "39/6",
+            "40/7",
+            "41/8"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "White"
+          ]
+        }
+      ],
+      "variants": {
+        "45212871655539": {
+          "id": "45212871655539",
+          "title": "36/3 / White",
+          "options": [
+            "36/3",
+            "White"
+          ],
+          "sku": "5515090-36",
+          "available": false,
+          "price": 249900,
+          "compare_at_price": 499900
+        },
+        "43652379705459": {
+          "id": "43652379705459",
+          "title": "37/4 / White",
+          "options": [
+            "37/4",
+            "White"
+          ],
+          "sku": "5515090-37",
+          "available": true,
+          "price": 249900,
+          "compare_at_price": 499900
+        },
+        "43652379738227": {
+          "id": "43652379738227",
+          "title": "38/5 / White",
+          "options": [
+            "38/5",
+            "White"
+          ],
+          "sku": "5515090-38",
+          "available": false,
+          "price": 249900,
+          "compare_at_price": 499900
+        },
+        "43652379770995": {
+          "id": "43652379770995",
+          "title": "39/6 / White",
+          "options": [
+            "39/6",
+            "White"
+          ],
+          "sku": "5515090-39",
+          "available": false,
+          "price": 249900,
+          "compare_at_price": 499900
+        },
+        "43652379803763": {
+          "id": "43652379803763",
+          "title": "40/7 / White",
+          "options": [
+            "40/7",
+            "White"
+          ],
+          "sku": "5515090-40",
+          "available": false,
+          "price": 249900,
+          "compare_at_price": 499900
+        },
+        "43652379836531": {
+          "id": "43652379836531",
+          "title": "41/8 / White",
+          "options": [
+            "41/8",
+            "White"
+          ],
+          "sku": "5515090-41",
+          "available": false,
+          "price": 249900,
+          "compare_at_price": 499900
+        }
+      },
+      "available": true
+    },
     "8072653701235": {
       "id": "8072653701235",
       "title": "Northstar - Women",
@@ -215963,6 +216529,132 @@
             "White"
           ],
           "sku": "5201183-41",
+          "available": false,
+          "price": 549900,
+          "compare_at_price": 1099900
+        }
+      },
+      "available": true
+    },
+    "8175461269619": {
+      "id": "8175461269619",
+      "title": "Northstar - Women",
+      "handle": "520-8183",
+      "url": "https://www.bata.com.pk/products/520-8183",
+      "vendor": "Women",
+      "type": "Northstar",
+      "description": "<p>520-8183</p>",
+      "tags": [
+        "15%Tax",
+        "Color_Beige",
+        "FullPrice",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Ladies Sports",
+        "New Arrivals",
+        "Northstar",
+        "Northstar - Women",
+        "Sneakers",
+        "Supersale",
+        "SupersaleWomen",
+        "Women",
+        "Women new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/520-8183-_1.webp?v=1768997461",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/520-8183-_2.webp?v=1768997461",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/520-8183-_3.webp?v=1768997461",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/520-8183-_4.webp?v=1768997461"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36/3",
+            "37/4",
+            "38/5",
+            "39/6",
+            "40/7",
+            "41/8"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Beige"
+          ]
+        }
+      ],
+      "variants": {
+        "44241327980659": {
+          "id": "44241327980659",
+          "title": "36/3 / Beige",
+          "options": [
+            "36/3",
+            "Beige"
+          ],
+          "sku": "5208183-36",
+          "available": false,
+          "price": 549900,
+          "compare_at_price": 1099900
+        },
+        "44241328013427": {
+          "id": "44241328013427",
+          "title": "37/4 / Beige",
+          "options": [
+            "37/4",
+            "Beige"
+          ],
+          "sku": "5208183-37",
+          "available": false,
+          "price": 549900,
+          "compare_at_price": 1099900
+        },
+        "44241328046195": {
+          "id": "44241328046195",
+          "title": "38/5 / Beige",
+          "options": [
+            "38/5",
+            "Beige"
+          ],
+          "sku": "5208183-38",
+          "available": false,
+          "price": 549900,
+          "compare_at_price": 1099900
+        },
+        "44241328078963": {
+          "id": "44241328078963",
+          "title": "39/6 / Beige",
+          "options": [
+            "39/6",
+            "Beige"
+          ],
+          "sku": "5208183-39",
+          "available": false,
+          "price": 549900,
+          "compare_at_price": 1099900
+        },
+        "44241328111731": {
+          "id": "44241328111731",
+          "title": "40/7 / Beige",
+          "options": [
+            "40/7",
+            "Beige"
+          ],
+          "sku": "5208183-40",
+          "available": true,
+          "price": 549900,
+          "compare_at_price": 1099900
+        },
+        "44241328144499": {
+          "id": "44241328144499",
+          "title": "41/8 / Beige",
+          "options": [
+            "41/8",
+            "Beige"
+          ],
+          "sku": "5208183-41",
           "available": false,
           "price": 549900,
           "compare_at_price": 1099900
@@ -226771,7 +227463,7 @@
             "Grey"
           ],
           "sku": "8512267-41",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -229442,7 +230134,7 @@
             "Black"
           ],
           "sku": "8286159-43",
-          "available": true,
+          "available": false,
           "price": 979900,
           "compare_at_price": 1399900
         },
@@ -231199,7 +231891,7 @@
             "Black"
           ],
           "sku": "8516193-44",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -231597,6 +232289,132 @@
       },
       "available": false
     },
+    "8132963532915": {
+      "id": "8132963532915",
+      "title": "Power - Men",
+      "handle": "828-2181",
+      "url": "https://www.bata.com.pk/products/828-2181",
+      "vendor": "Men",
+      "type": "Power",
+      "description": "<p>828-2181</p>",
+      "tags": [
+        "15%Tax",
+        "Color_Multi",
+        "FullPrice",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Men",
+        "Men Sneakers",
+        "Men new",
+        "New Arrivals",
+        "Power",
+        "Power - Men",
+        "Sneakers",
+        "Supersale",
+        "SupersaleMen"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/828-2181-_1.webp?v=1763535012",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/828-2181-_2.webp?v=1763535012",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/828-2181-_3.webp?v=1763535012",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/828-2181-_4.webp?v=1763535012"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "40/6",
+            "41/7",
+            "42/8",
+            "43/9",
+            "44/10",
+            "45/11"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Multi"
+          ]
+        }
+      ],
+      "variants": {
+        "44095317934195": {
+          "id": "44095317934195",
+          "title": "40/6 / Multi",
+          "options": [
+            "40/6",
+            "Multi"
+          ],
+          "sku": "8282181-40",
+          "available": false,
+          "price": 699900,
+          "compare_at_price": 1399900
+        },
+        "44095317966963": {
+          "id": "44095317966963",
+          "title": "41/7 / Multi",
+          "options": [
+            "41/7",
+            "Multi"
+          ],
+          "sku": "8282181-41",
+          "available": true,
+          "price": 699900,
+          "compare_at_price": 1399900
+        },
+        "44095317999731": {
+          "id": "44095317999731",
+          "title": "42/8 / Multi",
+          "options": [
+            "42/8",
+            "Multi"
+          ],
+          "sku": "8282181-42",
+          "available": true,
+          "price": 699900,
+          "compare_at_price": 1399900
+        },
+        "44095318032499": {
+          "id": "44095318032499",
+          "title": "43/9 / Multi",
+          "options": [
+            "43/9",
+            "Multi"
+          ],
+          "sku": "8282181-43",
+          "available": true,
+          "price": 699900,
+          "compare_at_price": 1399900
+        },
+        "44095318065267": {
+          "id": "44095318065267",
+          "title": "44/10 / Multi",
+          "options": [
+            "44/10",
+            "Multi"
+          ],
+          "sku": "8282181-44",
+          "available": false,
+          "price": 699900,
+          "compare_at_price": 1399900
+        },
+        "44095318098035": {
+          "id": "44095318098035",
+          "title": "45/11 / Multi",
+          "options": [
+            "45/11",
+            "Multi"
+          ],
+          "sku": "8282181-45",
+          "available": false,
+          "price": 699900,
+          "compare_at_price": 1399900
+        }
+      },
+      "available": true
+    },
     "8132963663987": {
       "id": "8132963663987",
       "title": "Power - Men",
@@ -231719,132 +232537,6 @@
           "available": false,
           "price": 699900,
           "compare_at_price": 1399900
-        }
-      },
-      "available": true
-    },
-    "8132963729523": {
-      "id": "8132963729523",
-      "title": "Power - Men",
-      "handle": "828-9187",
-      "url": "https://www.bata.com.pk/products/828-9187",
-      "vendor": "Men",
-      "type": "Power",
-      "description": "<p>828-2176</p>\n<p><strong>Description</strong></p>\n<p><!--StartFragment --></p>\n<p class=\"pf0\"><span class=\"cf0\">Made with a breathable textile upper and durable lightweight phylon sole, they provide comfort and support with every step. The modern and functional design ensures style and practicality, ideal for those seeking quality and performance in every workout.</span></p>\n<div style=\"text-align: left;\">\n<p><span class=\"cf0\"><b>Comfort Technologies</b></span></p>\n<div style=\"text-align: left;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/0143/1552/0054/files/Easy_Slide_Social_1080x1350_cca4f520-786c-46f0-a834-db8b79879f28_160x160.png?v=1763550987\"></div>\n<div style=\"text-align: left;\">\n<span class=\"cf0\"><strong><span style=\"font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;\"><!--StartFragment --></span></strong></span>\n<p><strong><span class=\"cf0\">Power Easy Slide</span></strong></p>\n<p><span class=\"cf0\">No laces to tie, slip them on in one easy move, fits effortlessly.</span></p>\n</div>\n</div>",
-      "tags": [
-        "15%Tax",
-        "Color_Blue",
-        "FullPrice",
-        "Label | ONLINE EXCLUSIVE DISCOUNT",
-        "Men",
-        "Men Sneakers",
-        "Men new",
-        "New Arrivals",
-        "Power",
-        "Power - Men",
-        "Sneakers",
-        "Supersale",
-        "SupersaleMen"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/828-9187-_1.webp?v=1763535335",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/828-9187-_2.webp?v=1763535335",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/828-9187-_3.webp?v=1763535335",
-        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/828-9187-_4.webp?v=1763535335"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "40/6",
-            "41/7",
-            "42/8",
-            "43/9",
-            "44/10",
-            "45/11"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Blue"
-          ]
-        }
-      ],
-      "variants": {
-        "44095319113843": {
-          "id": "44095319113843",
-          "title": "40/6 / Blue",
-          "options": [
-            "40/6",
-            "Blue"
-          ],
-          "sku": "8289187-40",
-          "available": false,
-          "price": 649900,
-          "compare_at_price": 1299900
-        },
-        "44095319146611": {
-          "id": "44095319146611",
-          "title": "41/7 / Blue",
-          "options": [
-            "41/7",
-            "Blue"
-          ],
-          "sku": "8289187-41",
-          "available": false,
-          "price": 649900,
-          "compare_at_price": 1299900
-        },
-        "44095319179379": {
-          "id": "44095319179379",
-          "title": "42/8 / Blue",
-          "options": [
-            "42/8",
-            "Blue"
-          ],
-          "sku": "8289187-42",
-          "available": true,
-          "price": 649900,
-          "compare_at_price": 1299900
-        },
-        "44095319212147": {
-          "id": "44095319212147",
-          "title": "43/9 / Blue",
-          "options": [
-            "43/9",
-            "Blue"
-          ],
-          "sku": "8289187-43",
-          "available": false,
-          "price": 649900,
-          "compare_at_price": 1299900
-        },
-        "44095319244915": {
-          "id": "44095319244915",
-          "title": "44/10 / Blue",
-          "options": [
-            "44/10",
-            "Blue"
-          ],
-          "sku": "8289187-44",
-          "available": false,
-          "price": 649900,
-          "compare_at_price": 1299900
-        },
-        "44095319277683": {
-          "id": "44095319277683",
-          "title": "45/11 / Blue",
-          "options": [
-            "45/11",
-            "Blue"
-          ],
-          "sku": "8289187-45",
-          "available": false,
-          "price": 649900,
-          "compare_at_price": 1299900
         }
       },
       "available": true
@@ -233603,7 +234295,7 @@
             "Olive"
           ],
           "sku": "8287189-44",
-          "available": false,
+          "available": true,
           "price": 769900,
           "compare_at_price": 1099900
         },
@@ -235072,7 +235764,7 @@
             "Black"
           ],
           "sku": "8676502-41",
-          "available": true,
+          "available": false,
           "price": 104900,
           "compare_at_price": 149900
         },
@@ -235323,7 +236015,7 @@
             "Grey"
           ],
           "sku": "8282194-41",
-          "available": false,
+          "available": true,
           "price": 909900,
           "compare_at_price": 1299900
         },
@@ -238397,7 +239089,7 @@
             "Blue"
           ],
           "sku": "8519503-45",
-          "available": false,
+          "available": true,
           "price": 489900,
           "compare_at_price": 699900
         }
@@ -239900,7 +240592,7 @@
             "Black"
           ],
           "sku": "5512678-41",
-          "available": true,
+          "available": false,
           "price": 244900,
           "compare_at_price": 349900
         }
@@ -240302,7 +240994,6 @@
         "Label | ONLINE EXCLUSIVE DISCOUNT",
         "Ladies Sports",
         "New Arrivals",
-        "Out of stock",
         "Power",
         "Power - Women",
         "Sneakers",
@@ -240369,7 +241060,7 @@
             "Light-purple"
           ],
           "sku": "5289159-38",
-          "available": false,
+          "available": true,
           "price": 909900,
           "compare_at_price": 1299900
         },
@@ -240410,7 +241101,7 @@
           "compare_at_price": 1299900
         }
       },
-      "available": false
+      "available": true
     },
     "7958868623475": {
       "id": "7958868623475",
@@ -241882,7 +242573,7 @@
             "Sea-Green"
           ],
           "sku": "5517096-38",
-          "available": true,
+          "available": false,
           "price": 274900,
           "compare_at_price": 549900
         },
@@ -241918,7 +242609,7 @@
             "Sea-Green"
           ],
           "sku": "5517096-41",
-          "available": false,
+          "available": true,
           "price": 274900,
           "compare_at_price": 549900
         }
@@ -250381,7 +251072,7 @@
             "Blue"
           ],
           "sku": "6729142-37",
-          "available": false,
+          "available": true,
           "price": 90900,
           "compare_at_price": 129900
         },
@@ -257552,7 +258243,7 @@
             "Blue"
           ],
           "sku": "8489660-45",
-          "available": false,
+          "available": true,
           "price": 2729900,
           "compare_at_price": 3899900
         }
@@ -259406,7 +260097,7 @@
             "Black"
           ],
           "sku": "8486670-41",
-          "available": false,
+          "available": true,
           "price": 2729900,
           "compare_at_price": 3899900
         },
@@ -259430,7 +260121,7 @@
             "Black"
           ],
           "sku": "8486670-43",
-          "available": false,
+          "available": true,
           "price": 2729900,
           "compare_at_price": 3899900
         },
@@ -260563,7 +261254,7 @@
             "Black"
           ],
           "sku": "5489630-40",
-          "available": true,
+          "available": false,
           "price": 2799900,
           "compare_at_price": 3999900
         },
@@ -263163,7 +263854,7 @@
             "Black"
           ],
           "sku": "8776033-44",
-          "available": true,
+          "available": false,
           "price": 111900,
           "compare_at_price": 159900
         },
@@ -264430,6 +265121,132 @@
             "Pink"
           ],
           "sku": "5515228-41",
+          "available": false,
+          "price": 174900,
+          "compare_at_price": 349900
+        }
+      },
+      "available": true
+    },
+    "8107463245939": {
+      "id": "8107463245939",
+      "title": "Sparx - Women",
+      "handle": "551-5095",
+      "url": "https://www.bata.com.pk/products/551-5095",
+      "vendor": "Women",
+      "type": "Sparx",
+      "description": "<p>551-5095</p>",
+      "tags": [
+        "15%Tax",
+        "Color_Pink",
+        "FullPrice",
+        "Label | ONLINE EXCLUSIVE DISCOUNT",
+        "Ladies Sports",
+        "New Arrivals",
+        "Sneakers",
+        "Sparx",
+        "Sparx - Women",
+        "Supersale",
+        "SupersaleWomen",
+        "Women",
+        "Women new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/551-5095_1_5.webp?v=1760441918",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/551-5095_1_6.webp?v=1760441899",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/551-5095_1_7.webp?v=1760441899",
+        "https://cdn.shopify.com/s/files/1/0143/1552/0054/files/551-5095_1_8.webp?v=1760441899"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36/3",
+            "37/4",
+            "38/5",
+            "39/6",
+            "40/7",
+            "41/8"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Pink"
+          ]
+        }
+      ],
+      "variants": {
+        "43975897841779": {
+          "id": "43975897841779",
+          "title": "36/3 / Pink",
+          "options": [
+            "36/3",
+            "Pink"
+          ],
+          "sku": "5515095-36",
+          "available": true,
+          "price": 174900,
+          "compare_at_price": 349900
+        },
+        "43975897874547": {
+          "id": "43975897874547",
+          "title": "37/4 / Pink",
+          "options": [
+            "37/4",
+            "Pink"
+          ],
+          "sku": "5515095-37",
+          "available": false,
+          "price": 174900,
+          "compare_at_price": 349900
+        },
+        "43975897907315": {
+          "id": "43975897907315",
+          "title": "38/5 / Pink",
+          "options": [
+            "38/5",
+            "Pink"
+          ],
+          "sku": "5515095-38",
+          "available": false,
+          "price": 174900,
+          "compare_at_price": 349900
+        },
+        "43975897940083": {
+          "id": "43975897940083",
+          "title": "39/6 / Pink",
+          "options": [
+            "39/6",
+            "Pink"
+          ],
+          "sku": "5515095-39",
+          "available": false,
+          "price": 174900,
+          "compare_at_price": 349900
+        },
+        "43975897972851": {
+          "id": "43975897972851",
+          "title": "40/7 / Pink",
+          "options": [
+            "40/7",
+            "Pink"
+          ],
+          "sku": "5515095-40",
+          "available": false,
+          "price": 174900,
+          "compare_at_price": 349900
+        },
+        "43975898005619": {
+          "id": "43975898005619",
+          "title": "41/8 / Pink",
+          "options": [
+            "41/8",
+            "Pink"
+          ],
+          "sku": "5515095-41",
           "available": false,
           "price": 174900,
           "compare_at_price": 349900
@@ -272058,7 +272875,7 @@
             "Black"
           ],
           "sku": "8616713-45",
-          "available": false,
+          "available": true,
           "price": 384900,
           "compare_at_price": 549900
         }
@@ -274315,7 +275132,7 @@
             "Black"
           ],
           "sku": "8646716-44",
-          "available": false,
+          "available": true,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -275717,7 +276534,7 @@
             "Brown"
           ],
           "sku": "8544532-44",
-          "available": true,
+          "available": false,
           "price": 559900,
           "compare_at_price": 799900
         },
