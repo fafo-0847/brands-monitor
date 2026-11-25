@@ -1,576 +1,3577 @@
 {
-  "checked_at": "2026-11-24T12:00:36.909428+00:00",
+  "checked_at": "2026-11-25T00:12:10.750092+00:00",
   "baseline_created": false,
-  "product_count": 1266,
-  "change_count": 71,
+  "product_count": 1639,
+  "change_count": 499,
   "changes": [
     {
-      "product_id": "DF2621-w30-BRN",
-      "title": "Relaxed Five-Pocket Jeans",
-      "url": "https://cougar.com.pk/products/relaxed-five-pocket-jeans-df2621",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "Design Details: Solid five-pocket pants with straight leg, belt loops, zip fly and button closureStyle: Five-Pocket PantsFit: Relaxed FitFabric: Denim",
-      "after": "Design Details: Solid five-pocket pants with straight leg, belt loops, zip fly and button closureStyle: Five-Pocket PantsFit: Relaxed FitFabric: DenimComposition: 100% Cotton"
-    },
-    {
-      "product_id": "DF2625-w30-SBU",
-      "title": "Skinny Fit Jeans",
-      "url": "https://cougar.com.pk/products/skinny-fit-jeans-df2625",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "Skinny Fit Jeans",
-      "after": "Composition: 98% Cotton, 02% Elastane"
-    },
-    {
-      "product_id": "GCT602-2Y3-BEI",
-      "title": "Snowdrop Fur Trim Coat",
-      "url": "https://cougar.com.pk/products/snowdrop-fur-trim-coat-gct602?variant=GCT602-2Y3-BEI",
-      "kind": "Sold out",
-      "detail": "GCT602-2Y3-BEI"
-    },
-    {
-      "product_id": "GCT602-2Y3-COF",
-      "title": "Snowdrop Fur Trim Coat",
-      "url": "https://cougar.com.pk/products/gct602-cof?variant=GCT602-2Y3-COF",
-      "kind": "Sold out",
-      "detail": "GCT602-2Y3-COF"
-    },
-    {
-      "product_id": "GFT634-5Y6-PRP",
-      "title": "Raglan Top With Ruffle Details",
-      "url": "https://cougar.com.pk/products/raglan-top-with-ruffle-details-gft634",
-      "kind": "Product updated",
-      "detail": "handle: gft634-prp → raglan-top-with-ruffle-details-gft634",
-      "field": "handle",
-      "before": "gft634-prp",
-      "after": "raglan-top-with-ruffle-details-gft634"
-    },
-    {
-      "product_id": "GJK614-7Y8-BRN",
-      "title": "Little Explorer Bomber Jacket",
-      "url": "https://cougar.com.pk/products/little-explorer-bomber-jacket-gjk614?variant=GJK614-7Y8-BRN",
-      "kind": "Sold out",
-      "detail": "GJK614-7Y8-BRN"
-    },
-    {
-      "product_id": "GJK614-7Y8-GRY",
-      "title": "Little Explorer Bomber Jacket",
-      "url": "https://cougar.com.pk/products/gjk614-gry?variant=GJK614-7Y8-GRY",
-      "kind": "Sold out",
-      "detail": "GJK614-7Y8-GRY"
-    },
-    {
-      "product_id": "GJK615-2Y3-BEI",
-      "title": "Character Patch Teddy Bomber",
-      "url": "https://cougar.com.pk/products/character-patch-teddy-bomber-gjk615?variant=GJK615-2Y3-BEI",
-      "kind": "Sold out",
-      "detail": "GJK615-2Y3-BEI"
-    },
-    {
-      "product_id": "GSK703-2Y3-BRN",
-      "title": "Corduroy Pleated Skirt",
-      "url": "https://cougar.com.pk/products/corduroy-pleated-skirt-gsk703",
+      "product_id": "BLZ602-0XS-SGR",
+      "title": "Kimono Coat",
+      "url": "https://cougar.com.pk/products/blz602-sgr",
       "kind": "New product",
-      "detail": "Price: PKR 2,099.00; available sizes/options: None"
+      "detail": "Price: PKR 7,699.00; available sizes/options: BLZ602-0XS-SGR"
     },
     {
-      "product_id": "GSK703-5Y6-BRN",
-      "title": "Corduroy Pleated Skirt",
-      "url": "https://cougar.com.pk/products/corduroy-pleated-skirt-gsk703",
+      "product_id": "BLZ604-0XS-GRY",
+      "title": "Double Breasted Blazer",
+      "url": "https://cougar.com.pk/products/blz604-gry",
+      "kind": "Product updated",
+      "detail": "title: Pinstripe Blazer → Double Breasted Blazer",
+      "field": "title",
+      "before": "Pinstripe Blazer",
+      "after": "Double Breasted Blazer"
+    },
+    {
+      "product_id": "BLZ604-0XS-GRY",
+      "title": "Double Breasted Blazer",
+      "url": "https://cougar.com.pk/products/blz604-gry",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "Design Details: Double-breasted pinstripe blazer with notch lapel collar and wide turn-up cuffsStyle: Blazer",
+      "after": "Design Details: Double-breasted pinstripe blazer with notch lapel collar and wide turn-up cuffsStyle: BlazerFabric: Yarn Dyed Pin Striped Blended Cotton"
+    },
+    {
+      "product_id": "BSCK01-030-WHT",
+      "title": "Pack of 3 Striped Ankle Socks",
+      "url": "https://cougar.com.pk/products/bsck01-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 449.00; available sizes/options: BSCK01-030-WHT"
+    },
+    {
+      "product_id": "BSCK02-030-FOY",
+      "title": "Pack of 3 Graphic Knit Ankle Socks",
+      "url": "https://cougar.com.pk/products/bsck02-foy",
+      "kind": "New product",
+      "detail": "Price: PKR 449.00; available sizes/options: BSCK02-030-FOY"
+    },
+    {
+      "product_id": "BSCK03-030-BRY",
+      "title": "Pack of 3 Graphic Ankle Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-graphic-ankle-socks-bsck03",
+      "kind": "New product",
+      "detail": "Price: PKR 449.00; available sizes/options: BSCK03-030-BRY"
+    },
+    {
+      "product_id": "BSCK05-030-GWB",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-bsck05",
+      "kind": "New product",
+      "detail": "Price: PKR 499.00; available sizes/options: BSCK05-030-GWB"
+    },
+    {
+      "product_id": "BSE618-7Y8-SKN",
+      "title": "Basic Regular Shirt",
+      "url": "https://cougar.com.pk/products/basic-regular-shirt-bse618",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: BSE618-7Y8-SKN"
+    },
+    {
+      "product_id": "BSE619-7Y8-LBU",
+      "title": "Checkered Shirt",
+      "url": "https://cougar.com.pk/products/checkered-shirt-bse619",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE619-7Y8-LBU"
+    },
+    {
+      "product_id": "BSE620-7Y8-KHK",
+      "title": "Cotton Shirt",
+      "url": "https://cougar.com.pk/products/cotton-shirt-bse620",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE620-7Y8-KHK"
+    },
+    {
+      "product_id": "BSE620-910-LKH",
+      "title": "Cotton Shirt",
+      "url": "https://cougar.com.pk/products/cotton-shirt-bse620-lkh",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE620-910-LKH"
+    },
+    {
+      "product_id": "BSE621-7Y8-GRY",
+      "title": "Embroidered Shirt",
+      "url": "https://cougar.com.pk/products/embroidered-shirt-bse621",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE621-7Y8-GRY"
+    },
+    {
+      "product_id": "BSE624-7Y8-WHT",
+      "title": "Embroidered Shirt",
+      "url": "https://cougar.com.pk/products/embroidered-shirt-bse624",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE624-7Y8-WHT"
+    },
+    {
+      "product_id": "BSE625-7Y8-LTG",
+      "title": "Basic Short-Sleeve Shirt",
+      "url": "https://cougar.com.pk/products/cotton-shirt-bse625",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE625-7Y8-LTG"
+    },
+    {
+      "product_id": "BSE626-2Y3-BRN",
+      "title": "Jacquard Shirt",
+      "url": "https://cougar.com.pk/products/jacquard-shirt-bse626",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE626-2Y3-BRN"
+    },
+    {
+      "product_id": "BSE627-7Y8-NVY",
+      "title": "Striped Shirt",
+      "url": "https://cougar.com.pk/products/striped-shirt-bse627",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE627-7Y8-NVY"
+    },
+    {
+      "product_id": "BSE628-2Y3-SKN",
+      "title": "Embroidered Linen Shirt",
+      "url": "https://cougar.com.pk/products/embroidered-linen-shirt-bse628",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: BSE628-2Y3-SKN"
+    },
+    {
+      "product_id": "BSE629-7Y8-BRN",
+      "title": "Embroidered Resort  Shirt",
+      "url": "https://cougar.com.pk/products/embroidered-resort-shirt-bse629",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE629-7Y8-BRN"
+    },
+    {
+      "product_id": "BSE630-7Y8-LHG",
+      "title": "Embroidered Shirt",
+      "url": "https://cougar.com.pk/products/embroidered-shirt-bse630",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE630-7Y8-LHG"
+    },
+    {
+      "product_id": "BSE631-12Y-WHT",
+      "title": "Striped Shirt",
+      "url": "https://cougar.com.pk/products/striped-shirt-bse631",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: BSE631-12Y-WHT"
+    },
+    {
+      "product_id": "BSE632-910-NVY",
+      "title": "Embroidered Resort  Shirt",
+      "url": "https://cougar.com.pk/products/embroidered-resort-shirt-bse632",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSE632-910-NVY"
+    },
+    {
+      "product_id": "BSF501-7Y8-LTG",
+      "title": "Pin Striped Shirt",
+      "url": "https://cougar.com.pk/products/pin-striped-shirt-bsf501",
+      "kind": "New product",
+      "detail": "Price: PKR 1,549.00; available sizes/options: BSF501-7Y8-LTG"
+    },
+    {
+      "product_id": "BSF502-7Y8-GRN",
+      "title": "Check Pattern Shirt",
+      "url": "https://cougar.com.pk/products/check-pattern-shirt-bsf502",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: BSF502-7Y8-GRN"
+    },
+    {
+      "product_id": "BSF503-7Y8-BUE",
+      "title": "Chambery Shirt",
+      "url": "https://cougar.com.pk/products/chambery-shirt-bsf503",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: BSF503-7Y8-BUE"
+    },
+    {
+      "product_id": "BSF504-7Y8-GRN",
+      "title": "Check Pattern Shirt",
+      "url": "https://cougar.com.pk/products/check-pattern-shirt-bsf504",
+      "kind": "New product",
+      "detail": "Price: PKR 1,549.00; available sizes/options: BSF504-7Y8-GRN"
+    },
+    {
+      "product_id": "BSF507-7Y8-BLK",
+      "title": "Flap Pockets Shirt",
+      "url": "https://cougar.com.pk/products/flap-pockets-shirt-bsf507",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSF507-7Y8-BLK"
+    },
+    {
+      "product_id": "BSF508-910-BUE",
+      "title": "Denim Shirt",
+      "url": "https://cougar.com.pk/products/denim-shirt-bsf508",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSF508-910-BUE"
+    },
+    {
+      "product_id": "BSF509-7Y8-BRN",
+      "title": "Basic Shirt With Chest Pockets",
+      "url": "https://cougar.com.pk/products/basic-shirt-with-chest-pockets-bsf509",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSF509-7Y8-BRN"
+    },
+    {
+      "product_id": "BSF511-2Y3-GRY",
+      "title": "Cotton Check Shirt",
+      "url": "https://cougar.com.pk/products/cotton-check-shirt-bsf511",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: BSF511-2Y3-GRY"
+    },
+    {
+      "product_id": "BSF512-2Y3-BUE",
+      "title": "Plaid Shirt",
+      "url": "https://cougar.com.pk/products/plaid-shirt-bsf512",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: BSF512-2Y3-BUE"
+    },
+    {
+      "product_id": "BSF513-7Y8-BEI",
+      "title": "Band Collar Shirt",
+      "url": "https://cougar.com.pk/products/band-collar-shirt-bsf513",
+      "kind": "New product",
+      "detail": "Price: PKR 1,549.00; available sizes/options: BSF513-7Y8-BEI"
+    },
+    {
+      "product_id": "BSF514-2Y3-CHO",
+      "title": "Light Weight Twill Shirt",
+      "url": "https://cougar.com.pk/products/light-weight-twill-shirt-bsf514",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: BSF514-2Y3-CHO"
+    },
+    {
+      "product_id": "BSF515-7Y8-TEA",
+      "title": "Linen Blend Shirt",
+      "url": "https://cougar.com.pk/products/linen-blend-shirt-bsf515",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: BSF515-7Y8-TEA"
+    },
+    {
+      "product_id": "BSF516-7Y8-SKN",
+      "title": "Basic Cotton Shirt",
+      "url": "https://cougar.com.pk/products/basic-cotton-shirt-bsf516",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: BSF516-7Y8-SKN"
+    },
+    {
+      "product_id": "BSF519-7Y8-BLK",
+      "title": "Sherpa Collar Flannel Shacket",
+      "url": "https://cougar.com.pk/products/sherpa-collar-flannel-shacket-bsf519",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSF519-7Y8-BLK"
+    },
+    {
+      "product_id": "BSH612-w26-kha",
+      "title": "Velcro Sandals",
+      "url": "https://cougar.com.pk/products/velcro-sandals-bsh612-kha",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: BSH612-w26-kha"
+    },
+    {
+      "product_id": "BSH613-w26-Wht",
+      "title": "Roman Sandals",
+      "url": "https://cougar.com.pk/products/roman-sandals-bsh613-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: BSH613-w26-Wht"
+    },
+    {
+      "product_id": "BSH615-w32-Wht",
+      "title": "Cut-Out Sneakers",
+      "url": "https://cougar.com.pk/products/cut-out-sneakers-bsh615-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 4,249.00; available sizes/options: BSH615-w32-Wht"
+    },
+    {
+      "product_id": "BSH616-w26-Wht",
+      "title": "Retro Stripe Sneakers",
+      "url": "https://cougar.com.pk/products/retro-stripe-sneakers-bsh616-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 4,249.00; available sizes/options: BSH616-w26-Wht"
+    },
+    {
+      "product_id": "BSH617-w26-nvy",
+      "title": "Sporty Sandals",
+      "url": "https://cougar.com.pk/products/sporty-sandals-bsh617-nvy",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: BSH617-w26-nvy"
+    },
+    {
+      "product_id": "BSH618-w26-Grn",
+      "title": "Velcro Fishermen Sandals",
+      "url": "https://cougar.com.pk/products/velcro-fishermen-sandals-bsh618-grn",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: BSH618-w26-Grn"
+    },
+    {
+      "product_id": "BSH619-w32-kha",
+      "title": "Velcro Fishermen Sandals",
+      "url": "https://cougar.com.pk/products/velcro-fishermen-sandals-bsh619-kha",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: BSH619-w32-kha"
+    },
+    {
+      "product_id": "BSW522-12Y-BEI",
+      "title": "Contrast Raglan Sweatshirt",
+      "url": "https://cougar.com.pk/products/contrast-raglan-sweatshirt-bsw522",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSW522-12Y-BEI"
+    },
+    {
+      "product_id": "BSW538-7Y8-RED",
+      "title": "Garment Dyed Sweatshirt",
+      "url": "https://cougar.com.pk/products/garment-dyed-sweatshirt-bsw538",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: BSW538-7Y8-RED"
+    },
+    {
+      "product_id": "BSW539-7Y8-SKY",
+      "title": "Character Printed Fleece Sweatshirt",
+      "url": "https://cougar.com.pk/products/character-printed-fleece-sweatshirt-bsw539",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BSW539-7Y8-SKY"
+    },
+    {
+      "product_id": "BSW540-7Y8-SND",
+      "title": "Terry Striped Sweatshirt",
+      "url": "https://cougar.com.pk/products/terry-striped-sweatshirt-bsw540",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: BSW540-7Y8-SND"
+    },
+    {
+      "product_id": "BSW627-2Y3-BLK",
+      "title": "Graphic Fleece Sweatshirt",
+      "url": "https://cougar.com.pk/products/bsw627-blk",
+      "kind": "New product",
+      "detail": "Price: PKR 2,449.00; available sizes/options: BSW627-2Y3-BLK"
+    },
+    {
+      "product_id": "BTE623-2Y3-BLK",
+      "title": "Embroidered Jogger Trousers",
+      "url": "https://cougar.com.pk/products/embroidered-jogger-trousers-bte623",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: BTE623-2Y3-BLK"
+    },
+    {
+      "product_id": "BTE626-7Y8-GRN",
+      "title": "Graphic Printed Trousers",
+      "url": "https://cougar.com.pk/products/graphic-printed-trousers-bte626",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: BTE626-7Y8-GRN"
+    },
+    {
+      "product_id": "BTE627-7Y8-NVY",
+      "title": "Jogger Trousers",
+      "url": "https://cougar.com.pk/products/jogger-trousers-bte627",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: BTE627-7Y8-NVY"
+    },
+    {
+      "product_id": "BTE628-7Y8-GRN",
+      "title": "Jogger Fit Trousers",
+      "url": "https://cougar.com.pk/products/jogger-fit-trousers-bte628",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: BTE628-7Y8-GRN"
+    },
+    {
+      "product_id": "BTE629-7Y8-KHA",
+      "title": "Jogger Fit Trousers",
+      "url": "https://cougar.com.pk/products/jogger-fit-trousers-bte629",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: BTE629-7Y8-KHA"
+    },
+    {
+      "product_id": "BTE630-2Y3-GRY",
+      "title": "Cargo Joggers",
+      "url": "https://cougar.com.pk/products/cargo-joggers-bte630",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: BTE630-2Y3-GRY"
+    },
+    {
+      "product_id": "BTE631-2Y3-OLV",
+      "title": "Cargo Joggers",
+      "url": "https://cougar.com.pk/products/cargo-joggers-bte631",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: BTE631-2Y3-OLV"
+    },
+    {
+      "product_id": "BTF501-7Y8-TEA",
+      "title": "Pleated Trousers",
+      "url": "https://cougar.com.pk/products/pleated-trousers-btf501",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: BTF501-7Y8-TEA"
+    },
+    {
+      "product_id": "BTF506-2Y3-OLV",
+      "title": "Straight Fit Trousers",
+      "url": "https://cougar.com.pk/products/straight-fit-trousers-btf506",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BTF506-2Y3-OLV"
+    },
+    {
+      "product_id": "BTF512-7Y8-NVY",
+      "title": "Drawstring Trousers",
+      "url": "https://cougar.com.pk/products/drawstring-trousers-btf512-nvy",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: BTF512-7Y8-NVY"
+    },
+    {
+      "product_id": "BTF610-7Y8-BRN",
+      "title": "Cargo Straight Trousers",
+      "url": "https://cougar.com.pk/products/btf609-ofw",
+      "kind": "New product",
+      "detail": "Price: PKR 4,199.00; available sizes/options: None"
+    },
+    {
+      "product_id": "BTW501-7Y8-TEA",
+      "title": "Waffle Knit Trousers",
+      "url": "https://cougar.com.pk/products/waffle-knit-trousers-btw501",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: BTW501-7Y8-TEA"
+    },
+    {
+      "product_id": "BTW504-2Y3-GRN",
+      "title": "Cozy Knit Jogger Pants",
+      "url": "https://cougar.com.pk/products/cozy-knit-jogger-pants-btw504",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: BTW504-2Y3-GRN"
+    },
+    {
+      "product_id": "BTW513-7Y8-GRN",
+      "title": "Printed Brushed-Inside Trousers",
+      "url": "https://cougar.com.pk/products/printed-brushed-inside-trousers-btw513",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: BTW513-7Y8-GRN"
+    },
+    {
+      "product_id": "BTW517-2Y3-WIN",
+      "title": "Fleece Pleated Trousers",
+      "url": "https://cougar.com.pk/products/fleece-pleated-trousers-btw517",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: BTW517-2Y3-WIN"
+    },
+    {
+      "product_id": "BTW518-7Y8-RED",
+      "title": "Terry Trousers",
+      "url": "https://cougar.com.pk/products/terry-trousers-btw518",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: BTW518-7Y8-RED"
+    },
+    {
+      "product_id": "CJE603-7Y8-NVY",
+      "title": "Regular Chino Pants",
+      "url": "https://cougar.com.pk/products/regular-chino-pants-cje603",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: CJE603-7Y8-NVY"
+    },
+    {
+      "product_id": "CJE604-2Y3-OFW",
+      "title": "Drawstring Pants",
+      "url": "https://cougar.com.pk/products/drawstring-pants-cje604",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: CJE604-2Y3-OFW"
+    },
+    {
+      "product_id": "CJF504-2Y3-GRY",
+      "title": "Slim Chino Pants",
+      "url": "https://cougar.com.pk/products/slim-chino-pants-cjf504",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: CJF504-2Y3-GRY"
+    },
+    {
+      "product_id": "DJE606-7Y8-GRY",
+      "title": "Slim Fit Jeans",
+      "url": "https://cougar.com.pk/products/slim-fit-jeans-dje606",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: DJE606-7Y8-GRY"
+    },
+    {
+      "product_id": "DJE607-2Y3-BLK",
+      "title": "Balloon Jeans",
+      "url": "https://cougar.com.pk/products/balloon-jeans-dje607",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: DJE607-2Y3-BLK"
+    },
+    {
+      "product_id": "DJE608-7Y8-BLU",
+      "title": "Straight Jeans",
+      "url": "https://cougar.com.pk/products/straight-jeans-dje608",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: DJE608-7Y8-BLU"
+    },
+    {
+      "product_id": "DJF502-7Y8-NVY",
+      "title": "Balloon Fit Jeans",
+      "url": "https://cougar.com.pk/products/balloon-fit-jeans-djf502",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: DJF502-7Y8-NVY"
+    },
+    {
+      "product_id": "DJF504-7Y8-DGY",
+      "title": "Straight Fit Jeans",
+      "url": "https://cougar.com.pk/products/straight-fit-jeans-djf504-dgy",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: DJF504-7Y8-DGY"
+    },
+    {
+      "product_id": "DJF505-7Y8-GRY",
+      "title": "Relaxed Baggy Jeans",
+      "url": "https://cougar.com.pk/products/relaxed-jeans-djf505-gry",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: DJF505-7Y8-GRY"
+    },
+    {
+      "product_id": "DJF508-2Y3-BLU",
+      "title": "Slim Fit Jeans",
+      "url": "https://cougar.com.pk/products/slim-fit-jeans-djf508-blu",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: DJF508-2Y3-BLU"
+    },
+    {
+      "product_id": "DJF510-7Y8-BLK",
+      "title": "Drawstring Jeans",
+      "url": "https://cougar.com.pk/products/drawstring-jeans-djf510",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: DJF510-7Y8-BLK"
+    },
+    {
+      "product_id": "DJF601-2Y3-BLU",
+      "title": "Straight Fit Jeans",
+      "url": "https://cougar.com.pk/products/djf601-blu",
+      "kind": "New product",
+      "detail": "Price: PKR 2,799.00; available sizes/options: DJF601-2Y3-BLU"
+    },
+    {
+      "product_id": "DJF610-7Y8-BLK",
+      "title": "Straight Fit Jeans",
+      "url": "https://cougar.com.pk/products/djf610-blk",
+      "kind": "New product",
+      "detail": "Price: PKR 3,149.00; available sizes/options: DJF610-7Y8-BLK"
+    },
+    {
+      "product_id": "DJF611-7Y8-BLU",
+      "title": "Straight Fit Jeans",
+      "url": "https://cougar.com.pk/products/djf611-blu",
+      "kind": "New product",
+      "detail": "Price: PKR 3,149.00; available sizes/options: None"
+    },
+    {
+      "product_id": "FJF503-2Y3-BRN",
+      "title": "Basic 5-Pocket Pants",
+      "url": "https://cougar.com.pk/products/basic-5-pocket-pants-fjf503",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: FJF503-2Y3-BRN"
+    },
+    {
+      "product_id": "GCT501-2Y3-BRN",
+      "title": "Textured Coat",
+      "url": "https://cougar.com.pk/products/textured-coat-gct501",
+      "kind": "New product",
+      "detail": "Price: PKR 4,499.00; available sizes/options: GCT501-2Y3-BRN"
+    },
+    {
+      "product_id": "GCT502-7Y8-BLK",
+      "title": "Textured Coat",
+      "url": "https://cougar.com.pk/products/textured-coat-gct502",
+      "kind": "New product",
+      "detail": "Price: PKR 4,999.00; available sizes/options: GCT502-7Y8-BLK"
+    },
+    {
+      "product_id": "GCT503-5Y6-BUE",
+      "title": "Double-Breasted Coat",
+      "url": "https://cougar.com.pk/products/pea-coat-gct503",
+      "kind": "New product",
+      "detail": "Price: PKR 5,999.00; available sizes/options: GCT503-5Y6-BUE"
+    },
+    {
+      "product_id": "GDE616-2Y3-LBU",
+      "title": "Cargo Jeans",
+      "url": "https://cougar.com.pk/products/cargo-jeans-gde616",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GDE616-2Y3-LBU"
+    },
+    {
+      "product_id": "GDE617-2Y3-LBU",
+      "title": "Cargo Jeans",
+      "url": "https://cougar.com.pk/products/cargo-jeans-gde617",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GDE617-2Y3-LBU"
+    },
+    {
+      "product_id": "GDE618-4Y5-LBU",
+      "title": "Wide Leg Embroidered Jeans",
+      "url": "https://cougar.com.pk/products/wide-leg-embroidered-jeans-gde618",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GDE618-4Y5-LBU"
+    },
+    {
+      "product_id": "GDE619-3Y4-LBU",
+      "title": "Cargo Jeans",
+      "url": "https://cougar.com.pk/products/cargo-jeans-gde619",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GDE619-3Y4-LBU"
+    },
+    {
+      "product_id": "GDE621-3Y4-wht",
+      "title": "Marine Fit Jeans",
+      "url": "https://cougar.com.pk/products/marine-fit-jeans-gde621",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GDE621-3Y4-wht"
+    },
+    {
+      "product_id": "GDF502-5Y6-BLU",
+      "title": "Straight Fit Ripped Graphic Jeans",
+      "url": "https://cougar.com.pk/products/straight-fit-ripped-graphic-jeans-gdf502",
+      "kind": "New product",
+      "detail": "Price: PKR 2,999.00; available sizes/options: GDF502-5Y6-BLU"
+    },
+    {
+      "product_id": "GDF503-5Y6-BLU",
+      "title": "Marine Straight Jeans",
+      "url": "https://cougar.com.pk/products/gdf503-blu",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: GDF503-5Y6-BLU"
+    },
+    {
+      "product_id": "GDF506-7Y8-LBU",
+      "title": "Straight Fit Cargo Jeans",
+      "url": "https://cougar.com.pk/products/straight-fit-cargo-jeans-gdf506",
+      "kind": "New product",
+      "detail": "Price: PKR 2,999.00; available sizes/options: GDF506-7Y8-LBU"
+    },
+    {
+      "product_id": "GDF507-7Y8-wht",
+      "title": "Bootcut Fit Jeans",
+      "url": "https://cougar.com.pk/products/bootcut-fit-jeans-gdf507",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GDF507-7Y8-wht"
+    },
+    {
+      "product_id": "GDF508-2Y3-BLU",
+      "title": "Cargo Jeans",
+      "url": "https://cougar.com.pk/products/cargo-jeans-gdf508",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GDF508-2Y3-BLU"
+    },
+    {
+      "product_id": "GDF510-2Y3-BLK",
+      "title": "Baggy Fit Jeans",
+      "url": "https://cougar.com.pk/products/baggy-fit-jeans-gdf510",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GDF510-2Y3-BLK"
+    },
+    {
+      "product_id": "GDF511-02Y-OLV",
+      "title": "Cargo Jeans",
+      "url": "https://cougar.com.pk/products/cargo-jeans-gdf511",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GDF511-02Y-OLV"
+    },
+    {
+      "product_id": "GDF513-03Y-BRN",
+      "title": "Loose Fit Jeans",
+      "url": "https://cougar.com.pk/products/loose-fit-jeans-gdf513",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GDF513-03Y-BRN"
+    },
+    {
+      "product_id": "GDF607-7Y8-wht",
+      "title": "Embroidered Jeans",
+      "url": "https://cougar.com.pk/products/gdf607-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 3,149.00; available sizes/options: GDF607-7Y8-wht"
+    },
+    {
+      "product_id": "GET001-5Y6-GRN",
+      "title": "Printed Pleated Top",
+      "url": "https://cougar.com.pk/products/printed-pleated-top-get001",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GET001-5Y6-GRN"
+    },
+    {
+      "product_id": "GET002-2Y3-OFW",
+      "title": "Smoked Embroidered Top",
+      "url": "https://cougar.com.pk/products/smoked-embroidered-top-get002",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GET002-2Y3-OFW"
+    },
+    {
+      "product_id": "GET006-5Y6-PNK",
+      "title": "Printed Peplum Top",
+      "url": "https://cougar.com.pk/products/printed-peplum-top-get006",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET006-5Y6-PNK"
+    },
+    {
+      "product_id": "GET009-5Y6-BUE",
+      "title": "Denim Dress",
+      "url": "https://cougar.com.pk/products/denim-dress-get009",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GET009-5Y6-BUE"
+    },
+    {
+      "product_id": "GET010-5Y6-PNK",
+      "title": "Striped Dress With Puff Sleeves",
+      "url": "https://cougar.com.pk/products/striped-dress-with-puff-sleeves-get010",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GET010-5Y6-PNK"
+    },
+    {
+      "product_id": "GET011-5Y6-GRN",
+      "title": "Striped Dress With Puff Sleeves",
+      "url": "https://cougar.com.pk/products/striped-dress-with-puff-sleeves-get011",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GET011-5Y6-GRN"
+    },
+    {
+      "product_id": "GET012-5Y6-BLK",
+      "title": "Oversized Shirt",
+      "url": "https://cougar.com.pk/products/oversized-shirt-get012",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GET012-5Y6-BLK"
+    },
+    {
+      "product_id": "GET013-4Y5-WHT",
+      "title": "Floral Printed Shirt",
+      "url": "https://cougar.com.pk/products/floral-printed-shirt-get013",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GET013-4Y5-WHT"
+    },
+    {
+      "product_id": "GET657-2Y3-PCH",
+      "title": "Party Wear Dress",
+      "url": "https://cougar.com.pk/products/party-wear-dress-get657",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GET657-2Y3-PCH"
+    },
+    {
+      "product_id": "GET658-910-BEI",
+      "title": "Top With Waistband",
+      "url": "https://cougar.com.pk/products/sleeveless-top-get658",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GET658-910-BEI"
+    },
+    {
+      "product_id": "GET659-7Y8-GRY",
+      "title": "Top With Waistband",
+      "url": "https://cougar.com.pk/products/sleeveless-top-get659",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GET659-7Y8-GRY"
+    },
+    {
+      "product_id": "GET660-3Y4-OFW",
+      "title": "Smocked Dress With Bows",
+      "url": "https://cougar.com.pk/products/smocked-dress-with-bows-get660",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GET660-3Y4-OFW"
+    },
+    {
+      "product_id": "GET661-3Y4-BUE",
+      "title": "Printed Peplum Top",
+      "url": "https://cougar.com.pk/products/printed-peplum-top-get661",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GET661-3Y4-BUE"
+    },
+    {
+      "product_id": "GET663-4Y5-GRN",
+      "title": "Printed Peplum Top",
+      "url": "https://cougar.com.pk/products/printed-peplum-top-get663",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GET663-4Y5-GRN"
+    },
+    {
+      "product_id": "GET664-2Y3-WHT",
+      "title": "Sleeveless Smocked Dress",
+      "url": "https://cougar.com.pk/products/sleeveless-smocked-dress-get664",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GET664-2Y3-WHT"
+    },
+    {
+      "product_id": "GET668-2Y3-MLT",
+      "title": "Printed Top With Ruffle Sleeves",
+      "url": "https://cougar.com.pk/products/printed-top-get668",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GET668-2Y3-MLT"
+    },
+    {
+      "product_id": "GET669-7Y8-MLT",
+      "title": "Printed Jumpsuit",
+      "url": "https://cougar.com.pk/products/printed-jumpsuit-get669",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GET669-7Y8-MLT"
+    },
+    {
+      "product_id": "GET670-5Y6-LTP",
+      "title": "Striped Top With Bow Details",
+      "url": "https://cougar.com.pk/products/striped-top-with-bow-details-get670",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GET670-5Y6-LTP"
+    },
+    {
+      "product_id": "GET671-5Y6-PNK",
+      "title": "Striped Top With Bow Details",
+      "url": "https://cougar.com.pk/products/striped-top-with-bow-details-get671",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GET671-5Y6-PNK"
+    },
+    {
+      "product_id": "GET672-2Y3-PNK",
+      "title": "Cotton Puff Printed Dress",
+      "url": "https://cougar.com.pk/products/cotton-puff-printed-dress-get672",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET672-2Y3-PNK"
+    },
+    {
+      "product_id": "GET673-2Y3-YLW",
+      "title": "Butter Yellow Embroidered Dress",
+      "url": "https://cougar.com.pk/products/butter-yellow-embroidered-dress-get673",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GET673-2Y3-YLW"
+    },
+    {
+      "product_id": "GET674-2Y3-BUE",
+      "title": "Printed Halter Dress",
+      "url": "https://cougar.com.pk/products/printed-halter-dress-get674",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GET674-2Y3-BUE"
+    },
+    {
+      "product_id": "GET675-7Y8-OFW",
+      "title": "Asymmetrical Smocked Dress",
+      "url": "https://cougar.com.pk/products/asymmetrical-smocked-dress-get675",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GET675-7Y8-OFW"
+    },
+    {
+      "product_id": "GET677-4Y5-PNK",
+      "title": "Jumpsuit With Cap Collar",
+      "url": "https://cougar.com.pk/products/jumpsuit-with-cap-collar-get677",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GET677-4Y5-PNK"
+    },
+    {
+      "product_id": "GET678-3Y4-LPR",
+      "title": "Chiffon Jacquard Peplum Top",
+      "url": "https://cougar.com.pk/products/chiffon-jacquard-peplum-top-get678",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET678-3Y4-LPR"
+    },
+    {
+      "product_id": "GET679-5Y6-YLW",
+      "title": "Textured Shirt",
+      "url": "https://cougar.com.pk/products/textured-shirt-get679",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GET679-5Y6-YLW"
+    },
+    {
+      "product_id": "GET680-5Y6-PCH",
+      "title": "Printed Ruffle Top",
+      "url": "https://cougar.com.pk/products/printed-ruffle-top-get680",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET680-5Y6-PCH"
+    },
+    {
+      "product_id": "GET681-2Y3-MLT",
+      "title": "Printed Top With Ruffle Sleeves",
+      "url": "https://cougar.com.pk/products/printed-top-with-ruffle-sleeves-get681",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GET681-2Y3-MLT"
+    },
+    {
+      "product_id": "GET682-2Y3-GRN",
+      "title": "Tie & Dye Dress",
+      "url": "https://cougar.com.pk/products/tie-dye-dress-get682",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GET682-2Y3-GRN"
+    },
+    {
+      "product_id": "GET683-3Y4-CWT",
+      "title": "Printed Jumpsuit",
+      "url": "https://cougar.com.pk/products/printed-jumpsuit-get683",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GET683-3Y4-CWT"
+    },
+    {
+      "product_id": "GET684-7Y8-PRP",
+      "title": "Front Tie Top With Crochet Pocket",
+      "url": "https://cougar.com.pk/products/front-tie-top-with-crochet-pocket-get684",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET684-7Y8-PRP"
+    },
+    {
+      "product_id": "GET686-2Y3-OFW",
+      "title": "Ruffle Top With Lace",
+      "url": "https://cougar.com.pk/products/ruffle-top-with-lace-get686",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GET686-2Y3-OFW"
+    },
+    {
+      "product_id": "GET687-2Y3-CWT",
+      "title": "Ruffled Peplum Top",
+      "url": "https://cougar.com.pk/products/ruffled-peplum-top-get687",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GET687-2Y3-CWT"
+    },
+    {
+      "product_id": "GET690-2Y3-WHT",
+      "title": "Embroidered Top With Lace Trim",
+      "url": "https://cougar.com.pk/products/embroidered-top-with-lace-trim-get690",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET690-2Y3-WHT"
+    },
+    {
+      "product_id": "GET691-5Y6-PNK",
+      "title": "Printed Front Tie Dress",
+      "url": "https://cougar.com.pk/products/printed-front-tie-dress-get691",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GET691-5Y6-PNK"
+    },
+    {
+      "product_id": "GET692-2Y3-WHT",
+      "title": "Printed Top With Lace Trim",
+      "url": "https://cougar.com.pk/products/printed-top-with-lace-trim-get692",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET692-2Y3-WHT"
+    },
+    {
+      "product_id": "GET693-2Y3-CWT",
+      "title": "Embroidered Layered Jumpsuit",
+      "url": "https://cougar.com.pk/products/embroidered-layered-jumpsuit-get693",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: GET693-2Y3-CWT"
+    },
+    {
+      "product_id": "GET695-7Y8-PNK",
+      "title": "Embroidered Front Tie Top",
+      "url": "https://cougar.com.pk/products/embroidered-front-tie-top-get695",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET695-7Y8-PNK"
+    },
+    {
+      "product_id": "GET696-5Y6-YLW",
+      "title": "Front Tie Top With Crochet Pocket",
+      "url": "https://cougar.com.pk/products/front-tie-top-with-crochet-pocket-get696",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET696-5Y6-YLW"
+    },
+    {
+      "product_id": "GET697-3Y4-WHT",
+      "title": "Embroidered Dress",
+      "url": "https://cougar.com.pk/products/embroidered-dress-get697",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GET697-3Y4-WHT"
+    },
+    {
+      "product_id": "GET698-5Y6-SKN",
+      "title": "Resort Embroidered Shirt",
+      "url": "https://cougar.com.pk/products/resort-embroidered-shirt-get698",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GET698-5Y6-SKN"
+    },
+    {
+      "product_id": "GET699-5Y6-BLK",
+      "title": "Printed Top With Tie Straps",
+      "url": "https://cougar.com.pk/products/printed-top-with-tie-straps-get699",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GET699-5Y6-BLK"
+    },
+    {
+      "product_id": "GET700-2Y3-PCH",
+      "title": "Ruffle Collar Top",
+      "url": "https://cougar.com.pk/products/ruffle-collar-top-get700",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GET700-2Y3-PCH"
+    },
+    {
+      "product_id": "GFE608-2Y3-WHT",
+      "title": "Graphic Knit Tank Top",
+      "url": "https://cougar.com.pk/products/graphic-knit-top-gfe608",
+      "kind": "New product",
+      "detail": "Price: PKR 849.00; available sizes/options: GFE608-2Y3-WHT"
+    },
+    {
+      "product_id": "GFT406-5Y6-BLK",
+      "title": "Top With Flounce Sleeves",
+      "url": "https://cougar.com.pk/products/top-with-flounce-sleeves-gft406",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GFT406-5Y6-BLK"
+    },
+    {
+      "product_id": "GFT423-5Y6-GRN",
+      "title": "Crush Cotton Top",
+      "url": "https://cougar.com.pk/products/crush-cotton-dress-gft423",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GFT423-5Y6-GRN"
+    },
+    {
+      "product_id": "GFT501-02Y-BRN",
+      "title": "Cheetah Print Peplum",
+      "url": "https://cougar.com.pk/products/cheetah-print-peplum-gft501",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GFT501-02Y-BRN"
+    },
+    {
+      "product_id": "GFT502-5Y6-BUE",
+      "title": "Striped Top",
+      "url": "https://cougar.com.pk/products/striped-dress-gft502",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GFT502-5Y6-BUE"
+    },
+    {
+      "product_id": "GFT503-5Y6-BLK",
+      "title": "Textured Raglan Top",
+      "url": "https://cougar.com.pk/products/textured-raglan-top-gft503",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GFT503-5Y6-BLK"
+    },
+    {
+      "product_id": "GFT505-7Y8-SBU",
+      "title": "Cotton Satin Top",
+      "url": "https://cougar.com.pk/products/cotton-satin-top-gft505",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GFT505-7Y8-SBU"
+    },
+    {
+      "product_id": "GFT506-5Y6-WHT",
+      "title": "Bow Detailed Striped Top",
+      "url": "https://cougar.com.pk/products/bow-detailed-striped-top-gft506",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: GFT506-5Y6-WHT"
+    },
+    {
+      "product_id": "GFT507-02Y-GRN",
+      "title": "Button-Front Frilled Top",
+      "url": "https://cougar.com.pk/products/button-front-frilled-dress-gft507",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GFT507-02Y-GRN"
+    },
+    {
+      "product_id": "GFT510-02Y-WHT",
+      "title": "Floral Print Top",
+      "url": "https://cougar.com.pk/products/floral-print-dress-gft510",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GFT510-02Y-WHT"
+    },
+    {
+      "product_id": "GFT513-5Y6-BLK",
+      "title": "Puff Sleeves Velvet Jumpsuit",
+      "url": "https://cougar.com.pk/products/puff-sleeves-velvet-jumpsuit-gft513",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GFT513-5Y6-BLK"
+    },
+    {
+      "product_id": "GFT515-03Y-OFW",
+      "title": "Embroidered Top",
+      "url": "https://cougar.com.pk/products/embroidered-dress-gft515",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: GFT515-03Y-OFW"
+    },
+    {
+      "product_id": "GFT520-7Y8-KHK",
+      "title": "Double Muslin Frilled Blouse",
+      "url": "https://cougar.com.pk/products/double-muslin-frilled-blouse-gft520",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GFT520-7Y8-KHK"
+    },
+    {
+      "product_id": "GFT523-5Y6-GRY",
+      "title": "Cross Hatch Top",
+      "url": "https://cougar.com.pk/products/cross-hatch-cotton-dress-gft523",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GFT523-5Y6-GRY"
+    },
+    {
+      "product_id": "GFT525-2Y3-GRN",
+      "title": "Floral Print Top",
+      "url": "https://cougar.com.pk/products/floral-print-top-gft525",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GFT525-2Y3-GRN"
+    },
+    {
+      "product_id": "GFT528-02Y-PNK",
+      "title": "Yarn Dyed Poly Cotton Jacquard Top",
+      "url": "https://cougar.com.pk/products/yarn-dyed-poly-cotton-jacquard-gft528",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GFT528-02Y-PNK"
+    },
+    {
+      "product_id": "GFT530-2Y3-BLK",
+      "title": "Checkered Polywoolen Shirt",
+      "url": "https://cougar.com.pk/products/checkered-polywoolen-shirt-gft530",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GFT530-2Y3-BLK"
+    },
+    {
+      "product_id": "GFT533-5Y6-LPR",
+      "title": "Shamoz Silk Button-Down",
+      "url": "https://cougar.com.pk/products/shamoz-silk-button-down-gft533",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GFT533-5Y6-LPR"
+    },
+    {
+      "product_id": "GFT538-7Y8-BRN",
+      "title": "Textured Jumpsuit",
+      "url": "https://cougar.com.pk/products/textured-jumpsuit-gft538",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: GFT538-7Y8-BRN"
+    },
+    {
+      "product_id": "GFT544-2Y3-SKN",
+      "title": "Button Top With Balloon Sleeves",
+      "url": "https://cougar.com.pk/products/button-top-with-balloon-sleeves-gft544",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: GFT544-2Y3-SKN"
+    },
+    {
+      "product_id": "GFT546-7Y8-WHT",
+      "title": "Corduroy Jumpsuit",
+      "url": "https://cougar.com.pk/products/corduroy-jumpsuit-gft546",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: GFT546-7Y8-WHT"
+    },
+    {
+      "product_id": "GFT548-2Y3-BUE",
+      "title": "Belted Denim Dress",
+      "url": "https://cougar.com.pk/products/belted-denim-dress-gft548",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GFT548-2Y3-BUE"
+    },
+    {
+      "product_id": "GFT614-2Y3-GRY",
+      "title": "Embroidered Top",
+      "url": "https://cougar.com.pk/products/embroidered-top-gft614",
+      "kind": "New product",
+      "detail": "Price: PKR 2,449.00; available sizes/options: GFT614-2Y3-GRY"
+    },
+    {
+      "product_id": "GFT614-3Y4-GRY",
+      "title": "Embroidered Top",
+      "url": "https://cougar.com.pk/products/embroidered-top-gft614",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "GSW602-2Y3-PNK",
-      "title": "Flowers Pop Sweater",
-      "url": "https://cougar.com.pk/products/gsw602-pnk",
+      "product_id": "GHD501-5Y6-LTG",
+      "title": "Champs Elysees Pullover Hoodie",
+      "url": "https://cougar.com.pk/products/champs-elysees-hoodie-ghd501",
       "kind": "New product",
-      "detail": "Price: PKR 3,499.00; available sizes/options: GSW602-2Y3-PNK"
+      "detail": "Price: PKR 1,749.00; available sizes/options: GHD501-5Y6-LTG"
     },
     {
-      "product_id": "GSW603-7Y8-SBU",
-      "title": "Flowers Pop Sweater",
-      "url": "https://cougar.com.pk/products/gsw603-sbu",
+      "product_id": "GHD504-7Y8-BEI",
+      "title": "Boba Graphic Hoodie",
+      "url": "https://cougar.com.pk/products/boba-graphic-hoodie-ghd504",
       "kind": "New product",
-      "detail": "Price: PKR 3,849.00; available sizes/options: GSW603-7Y8-SBU"
+      "detail": "Price: PKR 1,649.00; available sizes/options: GHD504-7Y8-BEI"
     },
     {
-      "product_id": "GSW604-7Y8-LTP",
-      "title": "Pearly Sweater",
-      "url": "https://cougar.com.pk/products/gsw604-ltp",
+      "product_id": "GHD505-7Y8-PNK",
+      "title": "Rhinestone Star Hoodie",
+      "url": "https://cougar.com.pk/products/rhinestone-star-hoodie-ghd505",
       "kind": "New product",
-      "detail": "Price: PKR 4,199.00; available sizes/options: GSW604-7Y8-LTP"
+      "detail": "Price: PKR 1,749.00; available sizes/options: GHD505-7Y8-PNK"
     },
     {
-      "product_id": "GSW608-7Y8-GRY",
-      "title": "Notch Collar Cardigan",
-      "url": "https://cougar.com.pk/products/gsw608-gry",
+      "product_id": "GHD507-7Y8-GRN",
+      "title": "Text Print Terry Hoodie",
+      "url": "https://cougar.com.pk/products/text-print-terry-hoodie-ghd507",
       "kind": "New product",
-      "detail": "Price: PKR 4,199.00; available sizes/options: GSW608-7Y8-GRY"
+      "detail": "Price: PKR 1,849.00; available sizes/options: GHD507-7Y8-GRN"
     },
     {
-      "product_id": "GSW608-910-GRY",
-      "title": "Notch Collar Cardigan",
-      "url": "https://cougar.com.pk/products/gsw608-gry",
+      "product_id": "GHD513-2Y3-DSA",
+      "title": "Rainbow Fleece Zip-Up Hoodie",
+      "url": "https://cougar.com.pk/products/rainbow-fleece-zip-up-hoodie-ghd513",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GHD513-2Y3-DSA"
+    },
+    {
+      "product_id": "GHD517-7Y8-DCH",
+      "title": "Back Printed Pullover",
+      "url": "https://cougar.com.pk/products/back-printed-pullover-ghd517",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GHD517-7Y8-DCH"
+    },
+    {
+      "product_id": "GJK501-5Y6-LBU",
+      "title": "Heart Printed Denim Jacket",
+      "url": "https://cougar.com.pk/products/heart-printed-denim-jacket-gjk501",
+      "kind": "New product",
+      "detail": "Price: PKR 3,499.00; available sizes/options: GJK501-5Y6-LBU"
+    },
+    {
+      "product_id": "GJK504-2Y3-PRP",
+      "title": "Plush Sleeveless Jacket",
+      "url": "https://cougar.com.pk/products/plush-jacket-gjk504",
+      "kind": "New product",
+      "detail": "Price: PKR 2,449.00; available sizes/options: GJK504-2Y3-PRP"
+    },
+    {
+      "product_id": "GJK506-2Y3-PNK",
+      "title": "Textured Twill Flap Jacket",
+      "url": "https://cougar.com.pk/products/textured-twill-flap-jacket-gjk506",
+      "kind": "New product",
+      "detail": "Price: PKR 4,499.00; available sizes/options: GJK506-2Y3-PNK"
+    },
+    {
+      "product_id": "GJK510-7Y8-BRN",
+      "title": "Flap Pocket Tweed Jacket",
+      "url": "https://cougar.com.pk/products/wool-mix-jacket-gjk510",
+      "kind": "New product",
+      "detail": "Price: PKR 5,499.00; available sizes/options: GJK510-7Y8-BRN"
+    },
+    {
+      "product_id": "GJK511-5Y6-PNK",
+      "title": "Fluffy Vest",
+      "url": "https://cougar.com.pk/products/fluffy-vest-gjk511-pnk",
+      "kind": "New product",
+      "detail": "Price: PKR 2,999.00; available sizes/options: GJK511-5Y6-PNK"
+    },
+    {
+      "product_id": "GJK512-5Y6-FAW",
+      "title": "Zipper Jacket",
+      "url": "https://cougar.com.pk/products/zipper-jacket-gjk512",
+      "kind": "New product",
+      "detail": "Price: PKR 4,499.00; available sizes/options: GJK512-5Y6-FAW"
+    },
+    {
+      "product_id": "GJK516-3Y4-SKN",
+      "title": "Super-Soft Faux Fur Jacket",
+      "url": "https://cougar.com.pk/products/super-soft-faux-fur-jacket-gjk516",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: GJK516-3Y4-SKN"
+    },
+    {
+      "product_id": "GJK517-2Y3-BLK",
+      "title": "Flap Pocket Tweed Jacket",
+      "url": "https://cougar.com.pk/products/flap-pocket-tweed-jacket-gjk517",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: GJK517-2Y3-BLK"
+    },
+    {
+      "product_id": "GJK518-2Y3-PNK",
+      "title": "Cordoury Jacket",
+      "url": "https://cougar.com.pk/products/cordoury-jacket-gjk518",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: GJK518-2Y3-PNK"
+    },
+    {
+      "product_id": "GJK519-7Y8-NVY",
+      "title": "Denim Jacket",
+      "url": "https://cougar.com.pk/products/denim-jacket-gjk519",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GJK519-7Y8-NVY"
+    },
+    {
+      "product_id": "GJK520-5Y6-BEI",
+      "title": "Plush Vest",
+      "url": "https://cougar.com.pk/products/plush-vest-gjk520",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: GJK520-5Y6-BEI"
+    },
+    {
+      "product_id": "GJK523-02Y-WHT",
+      "title": "Zippered Corduroy Jacket",
+      "url": "https://cougar.com.pk/products/zippered-corduroy-jacket-gjk523",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: GJK523-02Y-WHT"
+    },
+    {
+      "product_id": "GJK525-5Y6-BEI",
+      "title": "Teddy Jacket",
+      "url": "https://cougar.com.pk/products/teddy-jacket-gjk525",
+      "kind": "New product",
+      "detail": "Price: PKR 5,999.00; available sizes/options: GJK525-5Y6-BEI"
+    },
+    {
+      "product_id": "GJK526-5Y6-CWT",
+      "title": "Mock Neck Quilted  PU Jacket",
+      "url": "https://cougar.com.pk/products/mock-neck-quilted-pu-jacket-gjk526",
+      "kind": "New product",
+      "detail": "Price: PKR 5,999.00; available sizes/options: GJK526-5Y6-CWT"
+    },
+    {
+      "product_id": "GJK609-2Y3-GRY",
+      "title": "Storybook Raglan Coat",
+      "url": "https://cougar.com.pk/products/gjk609-gry",
+      "kind": "New product",
+      "detail": "Price: PKR 8,399.00; available sizes/options: GJK609-2Y3-GRY"
+    },
+    {
+      "product_id": "GJK609-2Y3-PNK",
+      "title": "Storybook Raglan Coat",
+      "url": "https://cougar.com.pk/products/gjk609-pnk",
+      "kind": "New product",
+      "detail": "Price: PKR 8,399.00; available sizes/options: GJK609-2Y3-PNK"
+    },
+    {
+      "product_id": "GJK610-2Y3-BLK",
+      "title": "Starlet Plush Jacket",
+      "url": "https://cougar.com.pk/products/gjk610-blk",
+      "kind": "New product",
+      "detail": "Price: PKR 7,699.00; available sizes/options: GJK610-2Y3-BLK"
+    },
+    {
+      "product_id": "GJK610-2Y3-BRN",
+      "title": "Starlet Plush Jacket",
+      "url": "https://cougar.com.pk/products/gjk610-brn",
+      "kind": "New product",
+      "detail": "Price: PKR 7,699.00; available sizes/options: GJK610-2Y3-BRN"
+    },
+    {
+      "product_id": "GJK611-7Y8-LTP",
+      "title": "Zip Trucker Jacket",
+      "url": "https://cougar.com.pk/products/gjk611-ltp",
+      "kind": "New product",
+      "detail": "Price: PKR 9,099.00; available sizes/options: GJK611-7Y8-LTP"
+    },
+    {
+      "product_id": "GJK612-7Y8-BLK",
+      "title": "Hooded Parachute Puffer",
+      "url": "https://cougar.com.pk/products/gjk612-blk",
+      "kind": "New product",
+      "detail": "Price: PKR 9,099.00; available sizes/options: GJK612-7Y8-BLK"
+    },
+    {
+      "product_id": "GJT532-5Y6-MEH",
+      "title": "Yarn Dyed Linen Trousers",
+      "url": "https://cougar.com.pk/products/yarn-dyed-linen-trousers-gjt532",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT532-5Y6-MEH"
+    },
+    {
+      "product_id": "GJT571-5Y6-MNT",
+      "title": "Basic Jogger Pants",
+      "url": "https://cougar.com.pk/products/basic-jogger-pants-gjt571",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GJT571-5Y6-MNT"
+    },
+    {
+      "product_id": "GJT574-10Y-wht",
+      "title": "Hello Kitty Trousers",
+      "url": "https://cougar.com.pk/products/hello-kitty-trousers-gjt574",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: GJT574-10Y-wht"
+    },
+    {
+      "product_id": "GJT575-7Y8-LGN",
+      "title": "Pleated Jogger Pants",
+      "url": "https://cougar.com.pk/products/pleated-jogger-pants-gjt575",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT575-7Y8-LGN"
+    },
+    {
+      "product_id": "GJT577-5Y6-BLK",
+      "title": "Wide Leg Trousers",
+      "url": "https://cougar.com.pk/products/wide-leg-trousers-gjt577",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GJT577-5Y6-BLK"
+    },
+    {
+      "product_id": "GJT578-5Y6-OFW",
+      "title": "Side Striped Fleece Trousers",
+      "url": "https://cougar.com.pk/products/side-striped-fleece-trousers-gjt578",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GJT578-5Y6-OFW"
+    },
+    {
+      "product_id": "GJT579-7Y8-SKY",
+      "title": "Basic Jogger Pants",
+      "url": "https://cougar.com.pk/products/basic-jogger-pants-gjt579",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GJT579-7Y8-SKY"
+    },
+    {
+      "product_id": "GJT583-10Y-PNK",
+      "title": "Fleece Trousers",
+      "url": "https://cougar.com.pk/products/fleece-trousers-gjt583",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: GJT583-10Y-PNK"
+    },
+    {
+      "product_id": "GJT585-7Y8-SBU",
+      "title": "Cotton Satin Trousers",
+      "url": "https://cougar.com.pk/products/cotton-satin-trousers-gjt585",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT585-7Y8-SBU"
+    },
+    {
+      "product_id": "GJT590-2Y3-wht",
+      "title": "Terry Jogger Pants",
+      "url": "https://cougar.com.pk/products/terry-jogger-pants-gjt590",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT590-2Y3-wht"
+    },
+    {
+      "product_id": "GJT591-2Y3-BLU",
+      "title": "Knitted Jogger Pants",
+      "url": "https://cougar.com.pk/products/knitted-jogger-pants-gjt591",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GJT591-2Y3-BLU"
+    },
+    {
+      "product_id": "GJT593-2Y3-PNK",
+      "title": "French Terry Trousers",
+      "url": "https://cougar.com.pk/products/french-terry-trousers-gjt593",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT593-2Y3-PNK"
+    },
+    {
+      "product_id": "GJT594-2Y3-GRN",
+      "title": "Double Muslin Trousers",
+      "url": "https://cougar.com.pk/products/double-muslin-trousers-gjt594",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GJT594-2Y3-GRN"
+    },
+    {
+      "product_id": "GJT596-7Y8-BRN",
+      "title": "Textured Check Trousers",
+      "url": "https://cougar.com.pk/products/textured-check-trousers-gjt596",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GJT596-7Y8-BRN"
+    },
+    {
+      "product_id": "GJT597-2Y3-PNK",
+      "title": "Cargo Knitted Terry Trousers",
+      "url": "https://cougar.com.pk/products/cargo-knitted-terry-trousers-gjt597",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT597-2Y3-PNK"
+    },
+    {
+      "product_id": "GJT642-2Y3-MLT",
+      "title": "Printed Trousers",
+      "url": "https://cougar.com.pk/products/printed-trousers-gjt642",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT642-2Y3-MLT"
+    },
+    {
+      "product_id": "GJT654-2Y3-BLU",
+      "title": "Printed Balloon Pants",
+      "url": "https://cougar.com.pk/products/printed-balloon-pants-gjt654",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT654-2Y3-BLU"
+    },
+    {
+      "product_id": "GJT656-4Y5-GRN",
+      "title": "Printed Balloon Pants",
+      "url": "https://cougar.com.pk/products/printed-balloon-pants-gjt656",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT656-4Y5-GRN"
+    },
+    {
+      "product_id": "GJT657-7Y8-OFW",
+      "title": "Embroidered Trousers",
+      "url": "https://cougar.com.pk/products/embroidered-trousers-gjt657",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GJT657-7Y8-OFW"
+    },
+    {
+      "product_id": "GJT659-2Y3-OFW",
+      "title": "Embroidered Ruffle Trousers",
+      "url": "https://cougar.com.pk/products/embroidered-ruffle-trousers-gjt659",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GJT659-2Y3-OFW"
+    },
+    {
+      "product_id": "GJT660-2Y3-PRP",
+      "title": "Embellished Trousers",
+      "url": "https://cougar.com.pk/products/embellished-trousers-gjt660",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GJT660-2Y3-PRP"
+    },
+    {
+      "product_id": "GJT662-10Y-SKN",
+      "title": "Cargo Pants",
+      "url": "https://cougar.com.pk/products/cargo-pants-gjt662",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GJT662-10Y-SKN"
+    },
+    {
+      "product_id": "GJT663-5Y6-SBU",
+      "title": "Jersey Trousers",
+      "url": "https://cougar.com.pk/products/jersey-trousers-gjt663",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT663-5Y6-SBU"
+    },
+    {
+      "product_id": "GJT666-10Y-YLW",
+      "title": "Jersey Trousers",
+      "url": "https://cougar.com.pk/products/jersey-trousers-gjt666",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT666-10Y-YLW"
+    },
+    {
+      "product_id": "GJT667-5Y6-OFW",
+      "title": "Popcorn Knit Trousers",
+      "url": "https://cougar.com.pk/products/popcorn-knit-trousers-gjt667",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GJT667-5Y6-OFW"
+    },
+    {
+      "product_id": "GJT668-5Y6-BEI",
+      "title": "Wide Leg Trousers",
+      "url": "https://cougar.com.pk/products/wide-leg-trousers-gjt668",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: GJT668-5Y6-BEI"
+    },
+    {
+      "product_id": "GJT670-2Y3-LPR",
+      "title": "Paneled Trousers",
+      "url": "https://cougar.com.pk/products/paneled-trousers-gjt670",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GJT670-2Y3-LPR"
+    },
+    {
+      "product_id": "GJT671-5Y6-PCH",
+      "title": "Embroidered Balloon Pants",
+      "url": "https://cougar.com.pk/products/embroidered-balloon-pants-gjt671",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GJT671-5Y6-PCH"
+    },
+    {
+      "product_id": "GJT672-12Y-BEI",
+      "title": "Embroidered Pants",
+      "url": "https://cougar.com.pk/products/embroidered-pants-gjt672",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GJT672-12Y-BEI"
+    },
+    {
+      "product_id": "GSCK11-030-BWY",
+      "title": "Pack of 3 Ankle Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-ankle-socks-gsck11-bwy",
+      "kind": "New product",
+      "detail": "Price: PKR 399.00; available sizes/options: GSCK11-030-BWY"
+    },
+    {
+      "product_id": "GSCK12-030-RWB",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-gsck12-rwb",
+      "kind": "New product",
+      "detail": "Price: PKR 399.00; available sizes/options: GSCK12-030-RWB"
+    },
+    {
+      "product_id": "GSCK13-030-BWB",
+      "title": "Pack of 3 Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-crew-socks-gsck13-bwb",
+      "kind": "New product",
+      "detail": "Price: PKR 399.00; available sizes/options: GSCK13-030-BWB"
+    },
+    {
+      "product_id": "GSCK14-030-PBK",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-gsck14-pbk",
+      "kind": "New product",
+      "detail": "Price: PKR 399.00; available sizes/options: GSCK14-030-PBK"
+    },
+    {
+      "product_id": "GSCK15-030-CWK",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-gsck15-cwk",
+      "kind": "New product",
+      "detail": "Price: PKR 399.00; available sizes/options: GSCK15-030-CWK"
+    },
+    {
+      "product_id": "GSCK16-030-PBC",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-gsck16-pbc",
+      "kind": "New product",
+      "detail": "Price: PKR 399.00; available sizes/options: GSCK16-030-PBC"
+    },
+    {
+      "product_id": "GSCK17-030-BGO",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-gsck18",
+      "kind": "New product",
+      "detail": "Price: PKR 399.00; available sizes/options: GSCK17-030-BGO"
+    },
+    {
+      "product_id": "GSCK18-030-YBG",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-gsck18-ybg",
+      "kind": "New product",
+      "detail": "Price: PKR 349.00; available sizes/options: GSCK18-030-YBG"
+    },
+    {
+      "product_id": "GSCK19-038-BGB",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-gsck19-bgb",
+      "kind": "New product",
+      "detail": "Price: PKR 349.00; available sizes/options: GSCK19-038-BGB"
+    },
+    {
+      "product_id": "GSCK20-030-RWP",
+      "title": "Pack of 3 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-short-crew-socks-gsck20-rwp",
+      "kind": "New product",
+      "detail": "Price: PKR 349.00; available sizes/options: GSCK20-030-RWP"
+    },
+    {
+      "product_id": "GSCK21-030-BWP",
+      "title": "Pack of 3 Butterfly Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-3-butterfly-short-crew-socks-gsck21-bwp",
+      "kind": "New product",
+      "detail": "Price: PKR 349.00; available sizes/options: GSCK21-030-BWP"
+    },
+    {
+      "product_id": "GSCK22-030-PKM",
+      "title": "Pack of 2 Short Crew Socks",
+      "url": "https://cougar.com.pk/products/pack-of-2-short-crew-socks-gsck22-pkm",
+      "kind": "New product",
+      "detail": "Price: PKR 299.00; available sizes/options: GSCK22-030-PKM"
+    },
+    {
+      "product_id": "GSG503-FSZ-BEI",
+      "title": "Round Sunglasses",
+      "url": "https://cougar.com.pk/products/round-sunglasses-gsg503",
+      "kind": "New product",
+      "detail": "Price: PKR 749.00; available sizes/options: GSG503-FSZ-BEI"
+    },
+    {
+      "product_id": "GSH612-w32-Pnk",
+      "title": "Rosette Pearl Ballet Flats",
+      "url": "https://cougar.com.pk/products/rosette-pearl-ballet-flats-gsh612-pnk",
+      "kind": "New product",
+      "detail": "Price: PKR 3,499.00; available sizes/options: GSH612-w32-Pnk"
+    },
+    {
+      "product_id": "GSH613-w32-Wht",
+      "title": "Blossom Embellished Ballet Flats",
+      "url": "https://cougar.com.pk/products/blossom-embellished-ballet-flats-gsh613-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 3,499.00; available sizes/options: GSH613-w32-Wht"
+    },
+    {
+      "product_id": "GSH614-w32-Wht",
+      "title": "Dual Buckle Ballet Flats",
+      "url": "https://cougar.com.pk/products/dual-buckle-ballet-flats-gsh614-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: GSH614-w32-Wht"
+    },
+    {
+      "product_id": "GSH615-w27-Wht",
+      "title": "Glitter Bloom Sneakers",
+      "url": "https://cougar.com.pk/products/glitter-bloom-sneakers-gsh615-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: GSH615-w27-Wht"
+    },
+    {
+      "product_id": "GSH616-w32-Blk",
+      "title": "Multi-Strap Sandals",
+      "url": "https://cougar.com.pk/products/multi-strap-sandals-gsh616-blk",
+      "kind": "New product",
+      "detail": "Price: PKR 3,249.00; available sizes/options: GSH616-w32-Blk"
+    },
+    {
+      "product_id": "GSH617-w32-Wht",
+      "title": "Ditsy Footbed Sandals",
+      "url": "https://cougar.com.pk/products/ditsy-footbed-sandals-gsh617-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 3,249.00; available sizes/options: GSH617-w32-Wht"
+    },
+    {
+      "product_id": "GSH618-w32-Wht",
+      "title": "Starfish Strappy Sandals",
+      "url": "https://cougar.com.pk/products/starfish-strappy-sandals-gsh618-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 3,249.00; available sizes/options: GSH618-w32-Wht"
+    },
+    {
+      "product_id": "GSH619-w32-Wht",
+      "title": "Woven Cross-Strap Sandals",
+      "url": "https://cougar.com.pk/products/woven-cross-strap-sandals-gsh619-wht",
+      "kind": "New product",
+      "detail": "Price: PKR 3,249.00; available sizes/options: GSH619-w32-Wht"
+    },
+    {
+      "product_id": "GSH620-w32-Sil",
+      "title": "Metallic Ballet Flats",
+      "url": "https://cougar.com.pk/products/metallic-ballet-flats-gsh620-sil",
+      "kind": "New product",
+      "detail": "Price: PKR 3,499.00; available sizes/options: GSH620-w32-Sil"
+    },
+    {
+      "product_id": "GSK607-5Y6-GRN",
+      "title": "Layered Skirt",
+      "url": "https://cougar.com.pk/products/layered-skirt-gsk607",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GSK607-5Y6-GRN"
+    },
+    {
+      "product_id": "GSK608-2Y3-OFW",
+      "title": "Lace Trimmed Skirt",
+      "url": "https://cougar.com.pk/products/lace-trimmed-skirt-gsk608",
+      "kind": "New product",
+      "detail": "Price: PKR 999.00; available sizes/options: GSK608-2Y3-OFW"
+    },
+    {
+      "product_id": "GSK613-2Y3-BLU",
+      "title": "Embroidered Skirt",
+      "url": "https://cougar.com.pk/products/embroidered-skirt-gsk613",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: GSK613-2Y3-BLU"
+    },
+    {
+      "product_id": "GST501-5Y6-WHT",
+      "title": "Floral Print Linen Top",
+      "url": "https://cougar.com.pk/products/floral-print-linen-dress-gst501",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: GST501-5Y6-WHT"
+    },
+    {
+      "product_id": "GST504-5Y6-BUE",
+      "title": "Flap Pocket Chambray Jumpsuit",
+      "url": "https://cougar.com.pk/products/flap-pocket-chambray-jumpsuit-gst504",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: GST504-5Y6-BUE"
+    },
+    {
+      "product_id": "GST509-5Y6-MEH",
+      "title": "Yarn Dyed Linen Top",
+      "url": "https://cougar.com.pk/products/yarn-dyed-linen-dress-gst509",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: GST509-5Y6-MEH"
+    },
+    {
+      "product_id": "GSW504-7Y8-CLO",
+      "title": "Crew Neck Textured Sweater",
+      "url": "https://cougar.com.pk/products/crew-neck-textured-sweater-gsw504",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GSW504-7Y8-CLO"
+    },
+    {
+      "product_id": "GSW505-7Y8-GRY",
+      "title": "Jacquard Sweater",
+      "url": "https://cougar.com.pk/products/jacquard-sweater-gsw505",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: GSW505-7Y8-GRY"
+    },
+    {
+      "product_id": "GSW507-5Y6-BUE",
+      "title": "Contrast Trimmed Cardigan",
+      "url": "https://cougar.com.pk/products/contrast-trimmed-cardigan-gsw507",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GSW507-5Y6-BUE"
+    },
+    {
+      "product_id": "GSW508-5Y6-CLO",
+      "title": "V-Neck Cardigan",
+      "url": "https://cougar.com.pk/products/v-neck-cardigan-gsw508",
+      "kind": "New product",
+      "detail": "Price: PKR 2,449.00; available sizes/options: GSW508-5Y6-CLO"
+    },
+    {
+      "product_id": "GSW509-5Y6-OLV",
+      "title": "Contrast Trimmed Cardigan",
+      "url": "https://cougar.com.pk/products/contrast-trimmed-cardigan-gsw509",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GSW509-5Y6-OLV"
+    },
+    {
+      "product_id": "GSW512-7Y8-PNK",
+      "title": "Roll Neck Purl Knit Sweater",
+      "url": "https://cougar.com.pk/products/roll-neck-purl-knit-sweater-gsw512",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GSW512-7Y8-PNK"
+    },
+    {
+      "product_id": "GSW513-7Y8-LBU",
+      "title": "Roll Neck Purl Knit Sweater",
+      "url": "https://cougar.com.pk/products/roll-neck-purl-knit-sweater-gsw513",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: GSW513-7Y8-LBU"
+    },
+    {
+      "product_id": "GSW515-2Y3-MST",
+      "title": "Textured Crew Neck Sweater",
+      "url": "https://cougar.com.pk/products/textured-crew-neck-sweater-gsw515",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GSW515-2Y3-MST"
+    },
+    {
+      "product_id": "GSW517-910-BRN",
+      "title": "Short Sleeved Cardigan",
+      "url": "https://cougar.com.pk/products/short-sleeved-cardigan-gsw517",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GSW517-910-BRN"
+    },
+    {
+      "product_id": "GSW520-02Y-SBU",
+      "title": "Open Knit Cardigan",
+      "url": "https://cougar.com.pk/products/open-knit-cardigan-gsw520",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: GSW520-02Y-SBU"
+    },
+    {
+      "product_id": "GSW521-7Y8-BRN",
+      "title": "Cable Knit Sweater Vest",
+      "url": "https://cougar.com.pk/products/cable-knit-sweater-vest-gsw521",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GSW521-7Y8-BRN"
+    },
+    {
+      "product_id": "GSW522-7Y8-BUE",
+      "title": "Cable Knit Sweater Vest",
+      "url": "https://cougar.com.pk/products/cable-knit-sweater-vest-gsw522",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GSW522-7Y8-BUE"
+    },
+    {
+      "product_id": "GSW523-02Y-TPK",
+      "title": "Crochet Knit Cardigan",
+      "url": "https://cougar.com.pk/products/crochet-knit-cardigan-gsw523",
+      "kind": "New product",
+      "detail": "Price: PKR 2,349.00; available sizes/options: GSW523-02Y-TPK"
+    },
+    {
+      "product_id": "GSW524-02Y-PNK",
+      "title": "Diamond Knit Pattern Sweater",
+      "url": "https://cougar.com.pk/products/diamond-knit-pattern-sweater-gsw524",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: GSW524-02Y-PNK"
+    },
+    {
+      "product_id": "GSW525-02Y-WHT",
+      "title": "Cherry Pattern Cardigan",
+      "url": "https://cougar.com.pk/products/cherry-pattern-cardigan-gsw525",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: GSW525-02Y-WHT"
+    },
+    {
+      "product_id": "GSW526-02Y-YLW",
+      "title": "Textured Button-Down",
+      "url": "https://cougar.com.pk/products/textured-button-down-gsw526",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: GSW526-02Y-YLW"
+    },
+    {
+      "product_id": "GSW527-02Y-FRZ",
+      "title": "Argyle Pattern Knit Cardigan",
+      "url": "https://cougar.com.pk/products/argyle-pattern-knit-cardigan-gsw527",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: GSW527-02Y-FRZ"
+    },
+    {
+      "product_id": "GSW529-02Y-PCH",
+      "title": "Cable Knit Cardigan",
+      "url": "https://cougar.com.pk/products/cable-knit-cardigan-gsw529",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: GSW529-02Y-PCH"
+    },
+    {
+      "product_id": "GSW530-7Y8-CGN",
+      "title": "Crew Neck Sweater",
+      "url": "https://cougar.com.pk/products/crew-neck-sweater-gsw530",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GSW530-7Y8-CGN"
+    },
+    {
+      "product_id": "GSW531-910-MST",
+      "title": "Cable Knit Raglan Cardigan",
+      "url": "https://cougar.com.pk/products/cable-knit-raglan-cardigan-gsw531",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GSW531-910-MST"
+    },
+    {
+      "product_id": "GSW532-910-CML",
+      "title": "Crew Neck Sweater",
+      "url": "https://cougar.com.pk/products/crew-neck-sweater-gsw532",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GSW532-910-CML"
+    },
+    {
+      "product_id": "GSW534-7Y8-PRP",
+      "title": "Frilled Cardigan",
+      "url": "https://cougar.com.pk/products/frilled-cardigan-gsw534",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: GSW534-7Y8-PRP"
+    },
+    {
+      "product_id": "GSW536-7Y8-PRP",
+      "title": "Short Sleeved Cardigan",
+      "url": "https://cougar.com.pk/products/short-sleeved-cardigan-gsw536",
+      "kind": "New product",
+      "detail": "Price: PKR 2,149.00; available sizes/options: GSW536-7Y8-PRP"
+    },
+    {
+      "product_id": "GSW545-2Y3-BUE",
+      "title": "Button-Up Cardigan",
+      "url": "https://cougar.com.pk/products/button-up-cardigan-gsw545",
+      "kind": "New product",
+      "detail": "Price: PKR 2,349.00; available sizes/options: GSW545-2Y3-BUE"
+    },
+    {
+      "product_id": "GSW546-2Y3-GRN",
+      "title": "Ribbed Knit Collared Cardigan",
+      "url": "https://cougar.com.pk/products/ribbed-knit-collared-cardigan-gsw546",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: GSW546-2Y3-GRN"
+    },
+    {
+      "product_id": "GTE654-5Y6-LTP",
+      "title": "Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/graphic-t-shirt-gte654",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GTE654-5Y6-LTP"
+    },
+    {
+      "product_id": "GTE655-2Y3-WHT",
+      "title": "Best Vibes Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/best-vibes-graphic-t-shirt-gte655",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: GTE655-2Y3-WHT"
+    },
+    {
+      "product_id": "GTE656-5Y6-YLW",
+      "title": "Tonal Embroidered T-Shirt",
+      "url": "https://cougar.com.pk/products/tonal-embroidered-t-shirt-gte656",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: GTE656-5Y6-YLW"
+    },
+    {
+      "product_id": "GTE657-5Y6-WHT",
+      "title": "Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/graphic-t-shirt-gte657",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GTE657-5Y6-WHT"
+    },
+    {
+      "product_id": "GTE658-5Y6-PRP",
+      "title": "Text Print T-Shirt",
+      "url": "https://cougar.com.pk/products/text-print-t-shirt-gte658",
+      "kind": "New product",
+      "detail": "Price: PKR 849.00; available sizes/options: GTE658-5Y6-PRP"
+    },
+    {
+      "product_id": "GTE660-7Y8-LBU",
+      "title": "Tonal Embroidered T-Shirt",
+      "url": "https://cougar.com.pk/products/tonal-embroidered-t-shirt-gte660",
+      "kind": "New product",
+      "detail": "Price: PKR 849.00; available sizes/options: GTE660-7Y8-LBU"
+    },
+    {
+      "product_id": "GTE661-2Y3-GRY",
+      "title": "Garment-Dyed T-Shirt",
+      "url": "https://cougar.com.pk/products/garment-dyed-t-shirt-gte661",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GTE661-2Y3-GRY"
+    },
+    {
+      "product_id": "GTE662-7Y8-BEI",
+      "title": "Clementines Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/clementines-graphic-t-shirt-gte662",
+      "kind": "New product",
+      "detail": "Price: PKR 1,049.00; available sizes/options: GTE662-7Y8-BEI"
+    },
+    {
+      "product_id": "GTE663-2Y3-PNK",
+      "title": "Graphic Printed T-Shirt",
+      "url": "https://cougar.com.pk/products/graphic-printed-t-shirt-gte663",
+      "kind": "New product",
+      "detail": "Price: PKR 1,049.00; available sizes/options: GTE663-2Y3-PNK"
+    },
+    {
+      "product_id": "GTE664-2Y3-WHT",
+      "title": "Jersey T-Shirt With Strawberry Patch",
+      "url": "https://cougar.com.pk/products/jersey-t-shirt-with-strawberry-patch-gte664",
+      "kind": "New product",
+      "detail": "Price: PKR 849.00; available sizes/options: GTE664-2Y3-WHT"
+    },
+    {
+      "product_id": "GTE665-5Y6-OFW",
+      "title": "Character Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/character-graphic-t-shirt-gte665",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GTE665-5Y6-OFW"
+    },
+    {
+      "product_id": "GTE666-3Y4-WHT",
+      "title": "Character Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/character-graphic-t-shirt-gte666",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: GTE666-3Y4-WHT"
+    },
+    {
+      "product_id": "GTE667-12Y-MAV",
+      "title": "Oversized Bow-Detailed T-Shirt",
+      "url": "https://cougar.com.pk/products/oversized-bow-detailed-t-shirt-gte667",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: GTE667-12Y-MAV"
+    },
+    {
+      "product_id": "GTE669-3Y4-WHT",
+      "title": "Fruit Team Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/fruit-team-graphic-t-shirt-gte669",
+      "kind": "New product",
+      "detail": "Price: PKR 849.00; available sizes/options: GTE669-3Y4-WHT"
+    },
+    {
+      "product_id": "GTE670-5Y6-YLW",
+      "title": "Character Print T-Shirt",
+      "url": "https://cougar.com.pk/products/character-print-t-shirt-gte670",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GTE670-5Y6-YLW"
+    },
+    {
+      "product_id": "GTE672-2Y3-PNK",
+      "title": "Capyfun Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/capyfun-graphic-t-shirt-gte672",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GTE672-2Y3-PNK"
+    },
+    {
+      "product_id": "GTE674-2Y3-PRP",
+      "title": "Jersey T-Shirt With Strawberry Patch",
+      "url": "https://cougar.com.pk/products/jersey-t-shirt-with-strawberry-patch-gte674",
+      "kind": "New product",
+      "detail": "Price: PKR 849.00; available sizes/options: GTE674-2Y3-PRP"
+    },
+    {
+      "product_id": "GTE675-2Y3-WHT",
+      "title": "Hello Kitty Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/hello-kitty-graphic-t-shirt-gte675",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: GTE675-2Y3-WHT"
+    },
+    {
+      "product_id": "GTF501-2Y3-CGN",
+      "title": "Pleated Trousers",
+      "url": "https://cougar.com.pk/products/pleated-trousers-gtf501",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GTF501-2Y3-CGN"
+    },
+    {
+      "product_id": "GTF502-2Y3-SKY",
+      "title": "Pleated Trousers",
+      "url": "https://cougar.com.pk/products/pleated-trousers-gtf502",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: GTF502-2Y3-SKY"
+    },
+    {
+      "product_id": "GTF504-7Y8-CWH",
+      "title": "Drawstring Knit Trousers",
+      "url": "https://cougar.com.pk/products/drawstring-knit-trousers-gtf504-cwh",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GTF504-7Y8-CWH"
+    },
+    {
+      "product_id": "GTF505-7Y8-OFW",
+      "title": "Blended Interlock Trousers",
+      "url": "https://cougar.com.pk/products/blended-interlock-trousers-gtf505",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GTF505-7Y8-OFW"
+    },
+    {
+      "product_id": "GTF507-2Y3-PNK",
+      "title": "Terry Trousers",
+      "url": "https://cougar.com.pk/products/terry-trousers-gtf507",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: GTF507-2Y3-PNK"
+    },
+    {
+      "product_id": "GTF510-7Y8-wht",
+      "title": "Blended Interlock Trousers",
+      "url": "https://cougar.com.pk/products/blended-interlock-trousers-gtf510",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GTF510-7Y8-wht"
+    },
+    {
+      "product_id": "GTF511-2Y3-CLY",
+      "title": "Fleece Trousers",
+      "url": "https://cougar.com.pk/products/fleece-trousers-gtf511",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: GTF511-2Y3-CLY"
+    },
+    {
+      "product_id": "GTF512-7Y8-MST",
+      "title": "Blended Interlock Trousers",
+      "url": "https://cougar.com.pk/products/blended-interlock-trousers-gtf512",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: GTF512-7Y8-MST"
+    },
+    {
+      "product_id": "GTF601-2Y3-GRY",
+      "title": "Embroidered Trousers",
+      "url": "https://cougar.com.pk/products/gtf601-gry",
+      "kind": "New product",
+      "detail": "Price: PKR 2,449.00; available sizes/options: GTF601-2Y3-GRY"
+    },
+    {
+      "product_id": "GTF601-3Y4-GRY",
+      "title": "Embroidered Trousers",
+      "url": "https://cougar.com.pk/products/gtf601-gry",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "GSW609-7Y8-BUE",
-      "title": "Chunky Daisy Sweater",
-      "url": "https://cougar.com.pk/products/chunky-daisy-sweater-gsw609",
+      "product_id": "HDJ502-7Y8-SBU",
+      "title": "Fleece  Graphic Hoodie",
+      "url": "https://cougar.com.pk/products/fleece-graphic-hoodie-hdj502",
       "kind": "New product",
-      "detail": "Price: PKR 4,199.00; available sizes/options: GSW609-7Y8-BUE"
+      "detail": "Price: PKR 2,249.00; available sizes/options: HDJ502-7Y8-SBU"
     },
     {
-      "product_id": "GSW611-7Y8-BEI",
-      "title": "Little Lady Cable Cardigan",
-      "url": "https://cougar.com.pk/products/little-lady-cable-cardigan-gsw611",
+      "product_id": "HDJ507-7Y8-NVY",
+      "title": "Jumbo Pique Hoodie",
+      "url": "https://cougar.com.pk/products/jumbo-pique-sweatshirt-hdj507",
       "kind": "New product",
-      "detail": "Price: PKR 4,199.00; available sizes/options: GSW611-7Y8-BEI"
+      "detail": "Price: PKR 2,249.00; available sizes/options: HDJ507-7Y8-NVY"
     },
     {
-      "product_id": "HD2632-00S-GRY",
-      "title": "Polar Fleece Zip Hoodie",
-      "url": "https://cougar.com.pk/products/polar-fleece-zip-hoodie-hd2632",
+      "product_id": "HDJ515-2Y3-BLK",
+      "title": "Everyday Basic Hoodie",
+      "url": "https://cougar.com.pk/products/everyday-basic-hoodie-hdj515",
       "kind": "New product",
-      "detail": "Price: PKR 6,649.00; available sizes/options: HD2632-00S-GRY"
+      "detail": "Price: PKR 1,749.00; available sizes/options: HDJ515-2Y3-BLK"
     },
     {
-      "product_id": "JF2613-w26-BLU",
-      "title": "Flared Jeans",
-      "url": "https://cougar.com.pk/products/flared-jeans-jf2613",
-      "kind": "Product updated",
-      "detail": "handle: jf2613-blu → flared-jeans-jf2613",
-      "field": "handle",
-      "before": "jf2613-blu",
-      "after": "flared-jeans-jf2613"
+      "product_id": "HDJ619-7Y8-TEA",
+      "title": "Active Edition Panel Hoodie",
+      "url": "https://cougar.com.pk/products/hdj619-tea",
+      "kind": "New product",
+      "detail": "Price: PKR 3,499.00; available sizes/options: HDJ619-7Y8-TEA"
     },
     {
-      "product_id": "JKJ610-2Y3-BLK",
-      "title": "Cosy Trim Hooded Jacket",
-      "url": "https://cougar.com.pk/products/cosy-trim-hooded-jacket-jkj610?variant=JKJ610-2Y3-BLK",
-      "kind": "Sold out",
-      "detail": "JKJ610-2Y3-BLK"
+      "product_id": "HDJ621-2Y3-LSA",
+      "title": "Skate Bloom Hoodie",
+      "url": "https://cougar.com.pk/products/hdj621-lsa",
+      "kind": "New product",
+      "detail": "Price: PKR 2,799.00; available sizes/options: HDJ621-2Y3-LSA"
     },
     {
-      "product_id": "JKJ610-2Y3-BRN",
-      "title": "Cosy Trim Hooded Jacket",
-      "url": "https://cougar.com.pk/products/jkj610-brn?variant=JKJ610-2Y3-BRN",
-      "kind": "Sold out",
-      "detail": "JKJ610-2Y3-BRN"
+      "product_id": "JKJ525-7Y8-GRY",
+      "title": "Hooded Quilted Jacket",
+      "url": "https://cougar.com.pk/products/hooded-quilted-jacket-jkj525",
+      "kind": "New product",
+      "detail": "Price: PKR 3,999.00; available sizes/options: JKJ525-7Y8-GRY"
+    },
+    {
+      "product_id": "JKJ532-7Y8-GRN",
+      "title": "Bomber Gilet Jacket",
+      "url": "https://cougar.com.pk/products/bomber-gilet-jacket-jkj532",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: JKJ532-7Y8-GRN"
+    },
+    {
+      "product_id": "JKJ534-7Y8-NVY",
+      "title": "Mock Neck Gilet",
+      "url": "https://cougar.com.pk/products/mock-neck-gilet-jkj534",
+      "kind": "New product",
+      "detail": "Price: PKR 2,499.00; available sizes/options: JKJ534-7Y8-NVY"
+    },
+    {
+      "product_id": "JKJ541-7Y8-BLK",
+      "title": "Faux Suede Jacket",
+      "url": "https://cougar.com.pk/products/faux-suede-jacket-jkj541",
+      "kind": "New product",
+      "detail": "Price: PKR 4,499.00; available sizes/options: JKJ541-7Y8-BLK"
+    },
+    {
+      "product_id": "JKJ546-7Y8-BRN",
+      "title": "Raglan Fleece Jacket",
+      "url": "https://cougar.com.pk/products/mock-neck-raglan-jacket-jkj546",
+      "kind": "New product",
+      "detail": "Price: PKR 2,249.00; available sizes/options: JKJ546-7Y8-BRN"
+    },
+    {
+      "product_id": "JKJ608-2Y3-BUE",
+      "title": "Hooded Denim Jacket",
+      "url": "https://cougar.com.pk/products/jkj608-bue",
+      "kind": "New product",
+      "detail": "Price: PKR 3,499.00; available sizes/options: JKJ608-2Y3-BUE"
     },
     {
       "product_id": "JM2603-00M-NVY",
       "title": "Totally Good Track Jacket",
       "url": "https://cougar.com.pk/products/totally-good-track-jacket-jm2603",
-      "kind": "New product",
-      "detail": "Price: PKR 5,599.00; available sizes/options: JM2603-00M-NVY"
-    },
-    {
-      "product_id": "JM2603-00S-NVY",
-      "title": "Totally Good Track Jacket",
-      "url": "https://cougar.com.pk/products/jm2603-nvy",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "JM2609-00S-BRN",
-      "title": "Flap Pocket Jacket",
-      "url": "https://cougar.com.pk/products/flap-pocket-jacket-jm2609",
-      "kind": "Product updated",
-      "detail": "handle: jm2609-brn → flap-pocket-jacket-jm2609",
-      "field": "handle",
-      "before": "jm2609-brn",
-      "after": "flap-pocket-jacket-jm2609"
+      "product_id": "JM2603-00S-NVY",
+      "title": "Totally Good Track Jacket",
+      "url": "https://cougar.com.pk/products/totally-good-track-jacket-jm2603",
+      "kind": "New product",
+      "detail": "Price: PKR 5,599.00; available sizes/options: JM2603-00S-NVY"
     },
     {
-      "product_id": "JM2616-00S-BLU",
-      "title": "Mock Neck Denim Jacket",
-      "url": "https://cougar.com.pk/products/mock-neck-denim-jacket-jm2616",
-      "kind": "Product updated",
-      "detail": "handle: jm2616-blu → mock-neck-denim-jacket-jm2616",
-      "field": "handle",
-      "before": "jm2616-blu",
-      "after": "mock-neck-denim-jacket-jm2616"
+      "product_id": "JM2645-00L-BLK",
+      "title": "Suede Zipper Jacket",
+      "url": "https://cougar.com.pk/products/suede-zipper-jacket-jm2645",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "JM2616-00S-BLU",
-      "title": "Mock Neck Denim Jacket",
-      "url": "https://cougar.com.pk/products/mock-neck-denim-jacket-jm2616?variant=JM2616-00S-BLU",
-      "kind": "Sold out",
-      "detail": "JM2616-00S-BLU"
+      "product_id": "JM2645-00M-BLK",
+      "title": "Suede Zipper Jacket",
+      "url": "https://cougar.com.pk/products/suede-zipper-jacket-jm2645",
+      "kind": "New product",
+      "detail": "Price: PKR 13,299.00; available sizes/options: JM2645-00M-BLK"
     },
     {
-      "product_id": "JM2664-00M-Cof",
-      "title": "Cotton Jacket",
-      "url": "https://cougar.com.pk/products/cotton-jacket-jm2664",
-      "kind": "Product updated",
-      "detail": "handle: jm2664-cof → cotton-jacket-jm2664",
-      "field": "handle",
-      "before": "jm2664-cof",
-      "after": "cotton-jacket-jm2664"
+      "product_id": "JM2655-0XL-DGR",
+      "title": "Double Sided Jacket",
+      "url": "https://cougar.com.pk/products/jm2655-dgr",
+      "kind": "New product",
+      "detail": "Price: PKR 11,899.00; available sizes/options: JM2655-0XL-DGR"
+    },
+    {
+      "product_id": "JM2662-00M-BLK",
+      "title": "League Hooded Varsity Jacket",
+      "url": "https://cougar.com.pk/products/league-hooded-varsity-jacket-jm2662",
+      "kind": "New product",
+      "detail": "Price: PKR 12,599.00; available sizes/options: JM2662-00M-BLK"
+    },
+    {
+      "product_id": "LC2606-00S-BRN",
+      "title": "Lapel Collar Cropped Coat",
+      "url": "https://cougar.com.pk/products/lc2606-brn",
+      "kind": "New product",
+      "detail": "Price: PKR 10,499.00; available sizes/options: LC2606-00S-BRN"
     },
     {
       "product_id": "LJ2615-0XS-BEI",
       "title": "Oversized Shacket",
       "url": "https://cougar.com.pk/products/lj2615-bei?variant=LJ2615-0XS-BEI",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "LJ2615-0XS-BEI"
     },
     {
-      "product_id": "LJ2616-00S-BLU",
-      "title": "Denim Jacket",
-      "url": "https://cougar.com.pk/products/denim-jacket-lj2616",
-      "kind": "New product",
-      "detail": "Price: PKR 6,999.00; available sizes/options: LJ2616-00S-BLU"
+      "product_id": "LTR612-0XS-MST",
+      "title": "Patch Pocket Flared Pants",
+      "url": "https://cougar.com.pk/products/ltr612-mst",
+      "kind": "Product updated",
+      "detail": "title: Barrel Trousers → Patch Pocket Flared Pants",
+      "field": "title",
+      "before": "Barrel Trousers",
+      "after": "Patch Pocket Flared Pants"
     },
     {
-      "product_id": "LJ2616-0XS-BLU",
-      "title": "Denim Jacket",
-      "url": "https://cougar.com.pk/products/lj2616-blu",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "product_id": "LTR615-0XS-BRN",
+      "title": "Patch Pocket Flared Pants",
+      "url": "https://cougar.com.pk/products/ltr615-brn",
+      "kind": "Product updated",
+      "detail": "title: Pants With Side Pleats → Patch Pocket Flared Pants",
+      "field": "title",
+      "before": "Pants With Side Pleats",
+      "after": "Patch Pocket Flared Pants"
+    },
+    {
+      "product_id": "LTR615-0XS-BRN",
+      "title": "Patch Pocket Flared Pants",
+      "url": "https://cougar.com.pk/products/ltr615-brn",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "Design Details: Double belt loops, front pleats, zip fly, side pockets, button-tab hems with side slits, wide legStyle: PantsFit: RelaxedFabric: Woven, PC Twill",
+      "after": "Design Details: Double belt loops, front pleats, zip fly, side pockets, button-tab hems with side slits, wide legStyle: PantsFit: RelaxedFabric: Irish Cotton"
+    },
+    {
+      "product_id": "LTR637-0XS-TAU",
+      "title": "Pleated Wide Leg Pants",
+      "url": "https://cougar.com.pk/products/ltr637-tau",
+      "kind": "Product updated",
+      "detail": "title: Pleated Pants → Pleated Wide Leg Pants",
+      "field": "title",
+      "before": "Pleated Pants",
+      "after": "Pleated Wide Leg Pants"
+    },
+    {
+      "product_id": "LTR637-0XS-TAU",
+      "title": "Pleated Wide Leg Pants",
+      "url": "https://cougar.com.pk/products/ltr637-tau",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "Design Details: Double front pleats with side pockets and a wide straight legStyle: TrouserFabric: Woven",
+      "after": "Design Details: Double front pleats with side pockets and a wide straight legStyle: TrouserFabric: Cross Hatch Textured Poly Cotton"
     },
     {
       "product_id": "LTR643-0XS-GEY",
-      "title": "Wide Leg Pants",
-      "url": "https://cougar.com.pk/products/wide-leg-pants-ltr643?variant=LTR643-0XS-GEY",
-      "kind": "Sold out",
-      "detail": "LTR643-0XS-GEY"
+      "title": "Striped Wide Leg Pants",
+      "url": "https://cougar.com.pk/products/wide-leg-pants-ltr643",
+      "kind": "Product updated",
+      "detail": "title: Wide Leg Pants → Striped Wide Leg Pants",
+      "field": "title",
+      "before": "Wide Leg Pants",
+      "after": "Striped Wide Leg Pants"
+    },
+    {
+      "product_id": "LTR643-0XS-GEY",
+      "title": "Striped Wide Leg Pants",
+      "url": "https://cougar.com.pk/products/wide-leg-pants-ltr643",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "Wide Leg Pants",
+      "after": "Design Details: Flat waistband, white pinstripe throughout, full-length wide legFit: Wide legFabric: Yarn Dyed Pin Striped Blended Cotton"
     },
     {
       "product_id": "LTR644-0XS-SND",
       "title": "Wide Leg Pants",
-      "url": "https://cougar.com.pk/products/wide-leg-pants-ltr644?variant=LTR644-0XS-SND",
-      "kind": "Sold out",
-      "detail": "LTR644-0XS-SND"
-    },
-    {
-      "product_id": "LTW653-0XS-BRN",
-      "title": "Front Seam Rib Trousers",
-      "url": "https://cougar.com.pk/products/front-seam-rib-trousers-ltw653",
-      "kind": "Product updated",
-      "detail": "handle: ltw653-brn → front-seam-rib-trousers-ltw653",
-      "field": "handle",
-      "before": "ltw653-brn",
-      "after": "front-seam-rib-trousers-ltw653"
-    },
-    {
-      "product_id": "LTW661-0XS-PRP",
-      "title": "Drop Needle Interlock Trousers",
-      "url": "https://cougar.com.pk/products/knitted-wide-trousers-ltw661",
-      "kind": "Product updated",
-      "detail": "title: Knitted Wide Trousers → Drop Needle Interlock Trousers",
-      "field": "title",
-      "before": "Knitted Wide Trousers",
-      "after": "Drop Needle Interlock Trousers"
-    },
-    {
-      "product_id": "LTW661-0XS-PRP",
-      "title": "Drop Needle Interlock Trousers",
-      "url": "https://cougar.com.pk/products/knitted-wide-trousers-ltw661",
+      "url": "https://cougar.com.pk/products/wide-leg-pants-ltr644",
       "kind": "Product updated",
       "detail": "Description changed (see changes.json for full before/after)",
       "field": "description",
-      "before": "Knitted Wide Trousers",
-      "after": "Fabric: Drop Needle Interlock"
+      "before": "Wide Leg Pants",
+      "after": "Fabric: Subtle Checkered Pattern Textured Linen"
     },
     {
-      "product_id": "M2PC03-00M-WHT",
-      "title": "Essential Co-ord Set",
-      "url": "https://cougar.com.pk/products/m2pc03-wht",
-      "kind": "Product updated",
-      "detail": "title: Essential Co-Ord Set → Essential Co-ord Set",
-      "field": "title",
-      "before": "Essential Co-Ord Set",
-      "after": "Essential Co-ord Set"
+      "product_id": "MF2602-FSZ-999",
+      "title": "OUD ECLIPSE",
+      "url": "https://cougar.com.pk/products/oud-eclipse-mf2602-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "MF2603-FSZ-999",
+      "title": "12AM",
+      "url": "https://cougar.com.pk/products/12am-mf2603-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "MF2604-FSZ-999",
+      "title": "VOID",
+      "url": "https://cougar.com.pk/products/void-mf2604-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "MF2605-FSZ-999",
+      "title": "ZEPHYR",
+      "url": "https://cougar.com.pk/products/zephyr-mf2605-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "MFG601-00S-WHT",
       "title": "Buttonless Polo Sweater",
       "url": "https://cougar.com.pk/products/mfg601-wht?variant=MFG601-00S-WHT",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "MFG601-00S-WHT"
     },
     {
-      "product_id": "MSF617-w40-BEI",
-      "title": "Suede Lace-Up Loafers",
-      "url": "https://cougar.com.pk/products/msf617-bei",
+      "product_id": "MFG608-00S-BEI",
+      "title": "Cable Knit Sweater",
+      "url": "https://cougar.com.pk/products/mfg608-bei",
+      "kind": "New product",
+      "detail": "Price: PKR 5,249.00; available sizes/options: MFG608-00S-BEI"
+    },
+    {
+      "product_id": "MSH601-w40-BLU",
+      "title": "Suede Loafers",
+      "url": "https://cougar.com.pk/products/suede-loafers-msh601-blu",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "MSF617-w40-LBG",
-      "title": "Suede Lace-Up Loafers",
-      "url": "https://cougar.com.pk/products/suede-lace-up-loafers-msf617",
-      "kind": "Product updated",
-      "detail": "handle: msf617-lbg → suede-lace-up-loafers-msf617",
-      "field": "handle",
-      "before": "msf617-lbg",
-      "after": "suede-lace-up-loafers-msf617"
+      "product_id": "MSH605-w40-BLU",
+      "title": "Low-Top Suede Sneakers",
+      "url": "https://cougar.com.pk/products/msh605-blu",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "MSF617-w41-BEI",
-      "title": "Suede Lace-Up Loafers",
-      "url": "https://cougar.com.pk/products/suede-lace-up-loafers-msf617-bei",
-      "kind": "New product",
-      "detail": "Price: PKR 9,099.00; available sizes/options: MSF617-w41-BEI"
+      "product_id": "MSH607-w40-BLK",
+      "title": "Sneakers",
+      "url": "https://cougar.com.pk/products/sneakers-msh607-blk",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "MSF619-w40-Cof",
-      "title": "Summit Moc Toe Boots",
-      "url": "https://cougar.com.pk/products/summit-moc-toe-boot-msf619?variant=MSF619-w40-Cof",
-      "kind": "Sold out",
-      "detail": "MSF619-w40-Cof"
+      "product_id": "MSH612-w40-BLK",
+      "title": "Slip-On Sneakers",
+      "url": "https://cougar.com.pk/products/slip-on-sneakers-msh612-blk",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "MSF620-w40-BRN",
-      "title": "Heritage Chelsea Boots",
-      "url": "https://cougar.com.pk/products/heritage-chelsea-boots-msf620?variant=MSF620-w40-BRN",
-      "kind": "Sold out",
-      "detail": "MSF620-w40-BRN"
+      "product_id": "MSH613-w40-Cof",
+      "title": "Suede Mesh Trainers",
+      "url": "https://cougar.com.pk/products/suede-mesh-trainers-msh613-cof",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "MSF621-w40-Cof",
-      "title": "Chukka Boots",
-      "url": "https://cougar.com.pk/products/chukka-boots-msf621?variant=MSF621-w40-Cof",
-      "kind": "Sold out",
-      "detail": "MSF621-w40-Cof"
+      "product_id": "MSH614-w40-WHT",
+      "title": "Chunky Color Block Trainers",
+      "url": "https://cougar.com.pk/products/chunky-color-block-trainers-msh614-wht",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "MSH617-w40-BEI",
+      "title": "Mesh Lace-Up Trainers",
+      "url": "https://cougar.com.pk/products/mesh-lace-up-trainers-msh617-bei",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "MSW620-00M-LTS",
       "title": "Movement Half Zip Sweatshirt",
       "url": "https://cougar.com.pk/products/movement-half-zip-sweatshirt-msw620",
-      "kind": "New product",
-      "detail": "Price: PKR 4,899.00; available sizes/options: MSW620-00M-LTS"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "MSW620-00S-LTS",
       "title": "Movement Half Zip Sweatshirt",
       "url": "https://cougar.com.pk/products/movement-half-zip-sweatshirt-msw620",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "MTF616-00M-BEI",
-      "title": "Downtime Trousers",
-      "url": "https://cougar.com.pk/products/downtime-trousers-mtf616",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "MTF616-00S-BEI",
-      "title": "Downtime Trousers",
-      "url": "https://cougar.com.pk/products/downtime-trousers-mtf616",
       "kind": "New product",
-      "detail": "Price: PKR 4,199.00; available sizes/options: None"
+      "detail": "Price: PKR 4,899.00; available sizes/options: MSW620-00S-LTS"
     },
     {
-      "product_id": "MTF617-00S-WHT",
-      "title": "Downtime Trousers",
-      "url": "https://cougar.com.pk/products/downtime-trousers-mtf617?variant=MTF617-00S-WHT",
-      "kind": "Sold out",
-      "detail": "MTF617-00S-WHT"
-    },
-    {
-      "product_id": "MTF618-00M-BLK",
-      "title": "Downtime Trousers",
-      "url": "https://cougar.com.pk/products/downtime-trousers-mtf618",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "MTF618-00S-BLK",
-      "title": "Downtime Trousers",
-      "url": "https://cougar.com.pk/products/downtime-trousers-mtf618",
-      "kind": "New product",
-      "detail": "Price: PKR 4,199.00; available sizes/options: None"
-    },
-    {
-      "product_id": "SFG631-FSZ-MEH",
-      "title": "Ribbed Turtleneck Sweater",
-      "url": "https://cougar.com.pk/products/ribbed-turtleneck-sweater-sfg631",
+      "product_id": "MSW632-00S-DNY",
+      "title": "Kangaroo Pocket Polo",
+      "url": "https://cougar.com.pk/products/field-polo-neck-sweatshirt-msw632",
       "kind": "Product updated",
-      "detail": "handle: sfg631-meh → ribbed-turtleneck-sweater-sfg631",
-      "field": "handle",
-      "before": "sfg631-meh",
-      "after": "ribbed-turtleneck-sweater-sfg631"
+      "detail": "title: Field Polo Neck Sweatshirt → Kangaroo Pocket Polo",
+      "field": "title",
+      "before": "Field Polo Neck Sweatshirt",
+      "after": "Kangaroo Pocket Polo"
     },
     {
-      "product_id": "SFG677-FSZ-BLK",
-      "title": "Fur Cuff Lapel Cardigan",
-      "url": "https://cougar.com.pk/products/fur-cuff-lapel-cardigan-sfg677",
+      "product_id": "MSW632-00S-DNY",
+      "title": "Kangaroo Pocket Polo",
+      "url": "https://cougar.com.pk/products/field-polo-neck-sweatshirt-msw632",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "Design Details: Knitted collar, two-button placket, kangaroo pocket with rivet detailing, drop shoulders, and ribbed cuffs and hemStyle: Polo SweatshirtFit: RelaxedFabric: Terry",
+      "after": "Design Details: Knitted collar, two-button placket, kangaroo pocket with rivet detailing, drop shoulders, and ribbed cuffs and hemStyle: PoloFit: RelaxedFabric: Terry"
+    },
+    {
+      "product_id": "NJE611-10Y-BLK",
+      "title": "Interlock Shorts",
+      "url": "https://cougar.com.pk/products/interlock-shorts-nje611",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: NJE611-10Y-BLK"
+    },
+    {
+      "product_id": "NJE612-7Y8-GRY",
+      "title": "Textured Shorts",
+      "url": "https://cougar.com.pk/products/textured-shorts-nje612",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: NJE612-7Y8-GRY"
+    },
+    {
+      "product_id": "NJE613-2Y3-BEI",
+      "title": "Knitted Shorts",
+      "url": "https://cougar.com.pk/products/knitted-shorts-nje613",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE613-2Y3-BEI"
+    },
+    {
+      "product_id": "NJE614-7Y8-LGN",
+      "title": "Cotton Shorts",
+      "url": "https://cougar.com.pk/products/cotton-shorts-nje614",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: NJE614-7Y8-LGN"
+    },
+    {
+      "product_id": "NJE615-7Y8-LTP",
+      "title": "Pique Knit Shorts",
+      "url": "https://cougar.com.pk/products/pique-knit-polo-nje615",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE615-7Y8-LTP"
+    },
+    {
+      "product_id": "NJE618-7Y8-SBU",
+      "title": "Basic Knitted Shorts",
+      "url": "https://cougar.com.pk/products/basic-knitted-shorts-nje618",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: NJE618-7Y8-SBU"
+    },
+    {
+      "product_id": "NJE619-7Y8-YLW",
+      "title": "Basic Shorts",
+      "url": "https://cougar.com.pk/products/basic-shorts-nje619",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: NJE619-7Y8-YLW"
+    },
+    {
+      "product_id": "NJE636-2Y3-BLK",
+      "title": "Shorts With Contrast Top Stitches",
+      "url": "https://cougar.com.pk/products/shorts-with-contrast-top-stitches-nje636",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE636-2Y3-BLK"
+    },
+    {
+      "product_id": "NJE637-2Y3-wht",
+      "title": "Interlock Shorts",
+      "url": "https://cougar.com.pk/products/interlock-shorts-nje637",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE637-2Y3-wht"
+    },
+    {
+      "product_id": "NJE638-7Y8-BLU",
+      "title": "Denim Shorts",
+      "url": "https://cougar.com.pk/products/denim-shorts-nje638",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: NJE638-7Y8-BLU"
+    },
+    {
+      "product_id": "NJE639-7Y8-KHA",
+      "title": "Cotton Shorts",
+      "url": "https://cougar.com.pk/products/cotton-shorts-nje639",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: NJE639-7Y8-KHA"
+    },
+    {
+      "product_id": "NJE640-2Y3-PNK",
+      "title": "Pique Shorts",
+      "url": "https://cougar.com.pk/products/pique-shorts-nje640",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE640-2Y3-PNK"
+    },
+    {
+      "product_id": "NJE641-7Y8-NVY",
+      "title": "Striped Shorts",
+      "url": "https://cougar.com.pk/products/striped-shorts-nje641",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: NJE641-7Y8-NVY"
+    },
+    {
+      "product_id": "NJE642-7Y8-CWH",
+      "title": "Striped Shorts",
+      "url": "https://cougar.com.pk/products/striped-shorts-nje642",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: NJE642-7Y8-CWH"
+    },
+    {
+      "product_id": "NJE643-7Y8-CWH",
+      "title": "Striped Shorts",
+      "url": "https://cougar.com.pk/products/striped-shorts-nje643",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: NJE643-7Y8-CWH"
+    },
+    {
+      "product_id": "NJE644-7Y8-STG",
+      "title": "Graphic Shorts",
+      "url": "https://cougar.com.pk/products/graphic-shorts-nje644",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: NJE644-7Y8-STG"
+    },
+    {
+      "product_id": "NJE645-2Y3-RED",
+      "title": "Contrast Trim Shorts",
+      "url": "https://cougar.com.pk/products/contrast-trim-shorts-nje645",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE645-2Y3-RED"
+    },
+    {
+      "product_id": "NJE646-7Y8-CWH",
+      "title": "Striped Shorts",
+      "url": "https://cougar.com.pk/products/striped-shorts-nje646",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: NJE646-7Y8-CWH"
+    },
+    {
+      "product_id": "NJE647-2Y3-BRN",
+      "title": "Contrast-Stitch Shorts",
+      "url": "https://cougar.com.pk/products/contrast-stitch-shorts-nje647",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE647-2Y3-BRN"
+    },
+    {
+      "product_id": "NJE648-2Y3-GRN",
+      "title": "Trimmed Shorts",
+      "url": "https://cougar.com.pk/products/trimmed-shorts-nje648",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE648-2Y3-GRN"
+    },
+    {
+      "product_id": "NJE649-2Y3-RED",
+      "title": "Knitted Shorts",
+      "url": "https://cougar.com.pk/products/knitted-shorts-nje649",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: NJE649-2Y3-RED"
+    },
+    {
+      "product_id": "NJE651-2Y3-wht",
+      "title": "Denim Shorts",
+      "url": "https://cougar.com.pk/products/denim-shorts-nje651",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: NJE651-2Y3-wht"
+    },
+    {
+      "product_id": "NJE652-7Y8-SKN",
+      "title": "Textured Shorts",
+      "url": "https://cougar.com.pk/products/textured-shorts-nje652",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: NJE652-7Y8-SKN"
+    },
+    {
+      "product_id": "NJE655-7Y8-LTO",
+      "title": "Denim Shorts",
+      "url": "https://cougar.com.pk/products/denim-shorts-nje655",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: NJE655-7Y8-LTO"
+    },
+    {
+      "product_id": "NJG631-3Y4-wht",
+      "title": "Frilled Shorts",
+      "url": "https://cougar.com.pk/products/frilled-shorts-njg631",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: NJG631-3Y4-wht"
+    },
+    {
+      "product_id": "NJG632-2Y3-CWH",
+      "title": "Printed Ruffled Shorts",
+      "url": "https://cougar.com.pk/products/printed-ruffled-shorts-njg632",
+      "kind": "New product",
+      "detail": "Price: PKR 1,049.00; available sizes/options: NJG632-2Y3-CWH"
+    },
+    {
+      "product_id": "NJG633-7Y8-BLU",
+      "title": "Embroidered Denim Shorts",
+      "url": "https://cougar.com.pk/products/embroidered-denim-shorts-njg633",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: NJG633-7Y8-BLU"
+    },
+    {
+      "product_id": "NJG634-2Y3-PCH",
+      "title": "Printed Ruffled Shorts",
+      "url": "https://cougar.com.pk/products/printed-ruffled-shorts-njg634",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: NJG634-2Y3-PCH"
+    },
+    {
+      "product_id": "NJG635-2Y3-LTP",
+      "title": "Frilled Shorts",
+      "url": "https://cougar.com.pk/products/frilled-shorts-njg635",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: NJG635-2Y3-LTP"
+    },
+    {
+      "product_id": "NJG636-2Y3-PNK",
+      "title": "Skirt With Shorts",
+      "url": "https://cougar.com.pk/products/printed-shorts-njg636",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: NJG636-2Y3-PNK"
+    },
+    {
+      "product_id": "NJG637-7Y8-BLU",
+      "title": "Embroidered Denim Shorts",
+      "url": "https://cougar.com.pk/products/embroidered-denim-shorts-njg637",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: NJG637-7Y8-BLU"
+    },
+    {
+      "product_id": "NJG638-3Y4-wht",
+      "title": "Floral Printed Shorts",
+      "url": "https://cougar.com.pk/products/floral-printed-shorts-njg638",
+      "kind": "New product",
+      "detail": "Price: PKR 1,049.00; available sizes/options: NJG638-3Y4-wht"
+    },
+    {
+      "product_id": "PF2602-00S-OTM",
+      "title": "Kangaroo Pocket Polo",
+      "url": "https://cougar.com.pk/products/terry-knit-polo-pf2602",
+      "kind": "Product updated",
+      "detail": "title: Terry Knit Polo → Kangaroo Pocket Polo",
+      "field": "title",
+      "before": "Terry Knit Polo",
+      "after": "Kangaroo Pocket Polo"
+    },
+    {
+      "product_id": "PJE612-7Y8-SBU",
+      "title": "Johnny Collar Pique Polo",
+      "url": "https://cougar.com.pk/products/open-collar-polo-pje612",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: PJE612-7Y8-SBU"
+    },
+    {
+      "product_id": "PJE613-12Y-BLK",
+      "title": "Quarter Zip Paneled Polo",
+      "url": "https://cougar.com.pk/products/quarter-zip-paneled-polo-pje613",
+      "kind": "New product",
+      "detail": "Price: PKR 1,549.00; available sizes/options: PJE613-12Y-BLK"
+    },
+    {
+      "product_id": "PJE615-7Y8-CRA",
+      "title": "Pique Knit Polo",
+      "url": "https://cougar.com.pk/products/pique-knit-polo-pje615",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: PJE615-7Y8-CRA"
+    },
+    {
+      "product_id": "PJE616-7Y8-MGN",
+      "title": "Cotton Polo",
+      "url": "https://cougar.com.pk/products/cotton-polo-pje616",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: PJE616-7Y8-MGN"
+    },
+    {
+      "product_id": "PJE617-2Y3-MGN",
+      "title": "Basic Pique Polo",
+      "url": "https://cougar.com.pk/products/basic-pique-polo-pje617",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: PJE617-2Y3-MGN"
+    },
+    {
+      "product_id": "PJE618-7Y8-LTG",
+      "title": "Popcorn Knit Polo",
+      "url": "https://cougar.com.pk/products/popcorn-knit-polo-pje618",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: PJE618-7Y8-LTG"
+    },
+    {
+      "product_id": "PJE619-7Y8-LGY",
+      "title": "Paneled Jersey Polo",
+      "url": "https://cougar.com.pk/products/paneled-jersey-polo-pje619",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: PJE619-7Y8-LGY"
+    },
+    {
+      "product_id": "PJE620-7Y8-LGY",
+      "title": "Popcorn Knit Polo",
+      "url": "https://cougar.com.pk/products/popcorn-knit-polo-pje620",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: PJE620-7Y8-LGY"
+    },
+    {
+      "product_id": "PJE621-910-PNK",
+      "title": "Johnny Collar Pique Polo",
+      "url": "https://cougar.com.pk/products/textured-johnny-collar-polo-pje621",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: PJE621-910-PNK"
+    },
+    {
+      "product_id": "PJE624-7Y8-LBU",
+      "title": "Pique Polo",
+      "url": "https://cougar.com.pk/products/pique-polo-pje624",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: PJE624-7Y8-LBU"
+    },
+    {
+      "product_id": "PJE625-2Y3-LBU",
+      "title": "Pique Polo",
+      "url": "https://cougar.com.pk/products/pique-polo-pje625",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: PJE625-2Y3-LBU"
+    },
+    {
+      "product_id": "PJE626-2Y3-BEI",
+      "title": "Open Collar Pique Polo",
+      "url": "https://cougar.com.pk/products/open-collar-pique-polo-pje626",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: PJE626-2Y3-BEI"
+    },
+    {
+      "product_id": "PJE627-2Y3-YLW",
+      "title": "Quarter Zip Popcorn Polo",
+      "url": "https://cougar.com.pk/products/quarter-zip-popcorn-polo-pje627",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: PJE627-2Y3-YLW"
+    },
+    {
+      "product_id": "PJE628-910-YLW",
+      "title": "Quarter Zip Popcorn Polo",
+      "url": "https://cougar.com.pk/products/quarter-zip-popcorn-polo-pje628",
+      "kind": "New product",
+      "detail": "Price: PKR 1,549.00; available sizes/options: PJE628-910-YLW"
+    },
+    {
+      "product_id": "PJE630-2Y3-PNK",
+      "title": "Johnny Collar Cotton Polo",
+      "url": "https://cougar.com.pk/products/johnny-collar-cotton-polo-pje630",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: PJE630-2Y3-PNK"
+    },
+    {
+      "product_id": "PJE631-7Y8-LTS",
+      "title": "Pique Polo",
+      "url": "https://cougar.com.pk/products/pique-polo-pje631",
+      "kind": "New product",
+      "detail": "Price: PKR 1,349.00; available sizes/options: PJE631-7Y8-LTS"
+    },
+    {
+      "product_id": "PJE635-7Y8-BLK",
+      "title": "Quarter Zip Textured Polo",
+      "url": "https://cougar.com.pk/products/quarter-zip-textured-polo-pje635",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: PJE635-7Y8-BLK"
+    },
+    {
+      "product_id": "PJF501-7Y8-MOC",
+      "title": "Waffle Knit Polo",
+      "url": "https://cougar.com.pk/products/waffle-knit-polo-pjf501",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: PJF501-7Y8-MOC"
+    },
+    {
+      "product_id": "PJF602-2Y3-BLK",
+      "title": "Embroidered Polo",
+      "url": "https://cougar.com.pk/products/pjf602-blk",
+      "kind": "New product",
+      "detail": "Price: PKR 2,589.00; available sizes/options: PJF602-2Y3-BLK"
+    },
+    {
+      "product_id": "PJF603-2Y3-OFW",
+      "title": "Embroidered Polo",
+      "url": "https://cougar.com.pk/products/pjf603-ofw",
+      "kind": "New product",
+      "detail": "Price: PKR 2,589.00; available sizes/options: PJF603-2Y3-OFW"
+    },
+    {
+      "product_id": "SFG624-FSZ-OLV",
+      "title": "Lettuce Edge Sweater",
+      "url": "https://cougar.com.pk/products/sfg624-olv",
+      "kind": "New product",
+      "detail": "Price: PKR 5,249.00; available sizes/options: SFG624-FSZ-OLV"
+    },
+    {
+      "product_id": "SWG501-5Y6-MNT",
+      "title": "Graphic Sweatshirt",
+      "url": "https://cougar.com.pk/products/graphic-sweatshirt-swg501",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: SWG501-5Y6-MNT"
+    },
+    {
+      "product_id": "SWG502-5Y6-LBG",
+      "title": "Endless Potential Sweatshirt",
+      "url": "https://cougar.com.pk/products/endless-potential-sweatshirt-swg502",
+      "kind": "New product",
+      "detail": "Price: PKR 1,399.00; available sizes/options: SWG502-5Y6-LBG"
+    },
+    {
+      "product_id": "SWG503-7Y8-CLY",
+      "title": "Everything Possible Sweatshirt",
+      "url": "https://cougar.com.pk/products/everything-possible-sweatshirt-swg503",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: SWG503-7Y8-CLY"
+    },
+    {
+      "product_id": "SWG504-7Y8-WHT",
+      "title": "Embroidered Sweatshirt",
+      "url": "https://cougar.com.pk/products/embroidered-sweatshirt-swg504",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: SWG504-7Y8-WHT"
+    },
+    {
+      "product_id": "SWG505-7Y8-LTP",
+      "title": "Perfect Hug Sweatshirt",
+      "url": "https://cougar.com.pk/products/perfect-hug-sweatshirt-swg505",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: SWG505-7Y8-LTP"
+    },
+    {
+      "product_id": "SWG506-7Y8-BLK",
+      "title": "Bow Detailed Sweatshirt",
+      "url": "https://cougar.com.pk/products/bow-detailed-sweatshirt-swg506",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: SWG506-7Y8-BLK"
+    },
+    {
+      "product_id": "SWG507-7Y8-SKY",
+      "title": "Puff Print Sweatshirt",
+      "url": "https://cougar.com.pk/products/puff-print-sweatshirt-swg507",
+      "kind": "New product",
+      "detail": "Price: PKR 1,749.00; available sizes/options: SWG507-7Y8-SKY"
+    },
+    {
+      "product_id": "SWG508-7Y8-LSA",
+      "title": "Daybreak Daisy Sweatshirt",
+      "url": "https://cougar.com.pk/products/daybreak-daisy-sweatshirt-swg508",
+      "kind": "New product",
+      "detail": "Price: PKR 1,499.00; available sizes/options: SWG508-7Y8-LSA"
+    },
+    {
+      "product_id": "SWG510-7Y8-PNK",
+      "title": "Dino Adventure Sweatshirt",
+      "url": "https://cougar.com.pk/products/dino-adventure-sweatshirt-swg510",
+      "kind": "New product",
+      "detail": "Price: PKR 1,649.00; available sizes/options: SWG510-7Y8-PNK"
+    },
+    {
+      "product_id": "SWG512-2Y3-PNK",
+      "title": "Oversized Terry Sweatshirt",
+      "url": "https://cougar.com.pk/products/oversized-terry-sweatshirt-swg512",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: SWG512-2Y3-PNK"
+    },
+    {
+      "product_id": "SWG514-2Y3-LPR",
+      "title": "Raglan Sweatshirt",
+      "url": "https://cougar.com.pk/products/raglan-sweatshirt-swg514",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: SWG514-2Y3-LPR"
+    },
+    {
+      "product_id": "SWG518-2Y3-BRN",
+      "title": "Terry Embroidered Sweatshirt",
+      "url": "https://cougar.com.pk/products/terry-embroidered-sweatshirt-swg518",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: SWG518-2Y3-BRN"
+    },
+    {
+      "product_id": "SWG521-7Y8-BLK",
+      "title": "Character Print Sweatshirt",
+      "url": "https://cougar.com.pk/products/character-print-sweatshirt-swg521",
+      "kind": "New product",
+      "detail": "Price: PKR 1,849.00; available sizes/options: SWG521-7Y8-BLK"
+    },
+    {
+      "product_id": "SWJ503-7Y8-RBU",
+      "title": "Quarter Zip Sweater",
+      "url": "https://cougar.com.pk/products/quarter-zip-sweater-swj503",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: SWJ503-7Y8-RBU"
+    },
+    {
+      "product_id": "SWJ504-7Y8-CLO",
+      "title": "Button-Front Cardigan",
+      "url": "https://cougar.com.pk/products/button-front-cardigan-swj504",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: SWJ504-7Y8-CLO"
+    },
+    {
+      "product_id": "SWJ509-7Y8-BUE",
+      "title": "Quarter Zip Sweater",
+      "url": "https://cougar.com.pk/products/quarter-zip-sweater-swj509",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: SWJ509-7Y8-BUE"
+    },
+    {
+      "product_id": "SWJ517-14Y-BUE",
+      "title": "Turtleneck Sweater",
+      "url": "https://cougar.com.pk/products/turtleneck-sweater-swj517",
+      "kind": "New product",
+      "detail": "Price: PKR 2,749.00; available sizes/options: SWJ517-14Y-BUE"
+    },
+    {
+      "product_id": "SWJ519-910-SBU",
+      "title": "Basic Sweater",
+      "url": "https://cougar.com.pk/products/basic-sweater-swj519-sbu",
+      "kind": "New product",
+      "detail": "Price: PKR 1,999.00; available sizes/options: SWJ519-910-SBU"
+    },
+    {
+      "product_id": "SWJ629-7Y8-LTB",
+      "title": "Feather Soft Polo Sweater",
+      "url": "https://cougar.com.pk/products/classic-collar-sweater-swj629",
+      "kind": "Product updated",
+      "detail": "title: Classic Collar Sweater → Feather Soft Polo Sweater",
+      "field": "title",
+      "before": "Classic Collar Sweater",
+      "after": "Feather Soft Polo Sweater"
+    },
+    {
+      "product_id": "SWJ629-7Y8-LTB",
+      "title": "Feather Soft Polo Sweater",
+      "url": "https://cougar.com.pk/products/classic-collar-sweater-swj629",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "BOY SWEATER JUNIOR, SWEATER POLO",
+      "after": "Design Details: Knit collar, two-button placket, brushed fuzzy texture, ribbed cuffs and hemStyle: Long sleeve polo sweaterFit: Regular"
+    },
+    {
+      "product_id": "SWJ630-02Y-LTB",
+      "title": "Sweater Polo",
+      "url": "https://cougar.com.pk/products/swj630-ltb",
+      "kind": "New product",
+      "detail": "Price: PKR 3,849.00; available sizes/options: SWJ630-02Y-LTB"
+    },
+    {
+      "product_id": "TE2627-00S-CWT",
+      "title": "Boxy Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/boxy-graphic-t-shirt",
+      "kind": "Product updated",
+      "detail": "handle: boxy-graphic-t-shirt-te2627 → boxy-graphic-t-shirt",
+      "field": "handle",
+      "before": "boxy-graphic-t-shirt-te2627",
+      "after": "boxy-graphic-t-shirt"
+    },
+    {
+      "product_id": "TE2627-00S-CWT",
+      "title": "Boxy Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/boxy-graphic-t-shirt",
       "kind": "Product updated",
       "detail": "Images changed (see changes.json for full before/after)",
       "field": "images",
       "before": [
-        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_bb33b031-b884-490c-926a-b892d8aaad08.webp?v=1795085259"
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/2N0A4252copy.webp?v=1784121029"
       ],
       "after": [
-        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/1_fd99a344-4d1c-4c1e-b188-05f34683b6de.webp?v=1795425990"
+        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/44_13cafe14-5ba4-4eb1-800f-27bf5cf255b8.webp?v=1783331625"
       ]
     },
     {
-      "product_id": "SWG601-7Y8-OFW",
-      "title": "Butterfly Sweatshirt",
-      "url": "https://cougar.com.pk/products/butterfly-sweatshirt-swg601",
-      "kind": "New product",
-      "detail": "Price: PKR 2,799.00; available sizes/options: SWG601-7Y8-OFW"
+      "product_id": "TE2636-00S-NVY",
+      "title": "Modal T-Shirt",
+      "url": "https://cougar.com.pk/products/modal-t-shirt-te2636",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "SWG602-2Y3-LTP",
-      "title": "All-Over Printed Sweatshirt",
-      "url": "https://cougar.com.pk/products/swg602-ltp",
-      "kind": "New product",
-      "detail": "Price: PKR 2,449.00; available sizes/options: SWG602-2Y3-LTP"
+      "product_id": "TE2662-00S-OFW",
+      "title": "Basic Boxy T-Shirt",
+      "url": "https://cougar.com.pk/products/basic-boxy-t-shirt-te2662",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "SWG603-7Y8-BLK",
-      "title": "Wrap Front Sequin Sweatshirt",
-      "url": "https://cougar.com.pk/products/swg603-blk",
-      "kind": "New product",
-      "detail": "Price: PKR 3,009.00; available sizes/options: SWG603-7Y8-BLK"
+      "product_id": "TE2682-00S-NVY",
+      "title": "Ottoman Knit T-Shirt",
+      "url": "https://cougar.com.pk/products/ottoman-knit-t-shirt-te2682",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "SWG605-2Y3-YLW",
-      "title": "Character Print Sweatshirt",
-      "url": "https://cougar.com.pk/products/swg605-ylw",
-      "kind": "New product",
-      "detail": "Price: PKR 2,099.00; available sizes/options: SWG605-2Y3-YLW"
+      "product_id": "TE2685-00S-BLK",
+      "title": "Flap Pocket T-Shirt",
+      "url": "https://cougar.com.pk/products/flap-pocket-t-shirt-te2685",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "SWG606-2Y3-SBU",
-      "title": "Graphic Sweatshirt",
-      "url": "https://cougar.com.pk/products/graphic-sweatshirt-swg606",
-      "kind": "New product",
-      "detail": "Price: PKR 2,099.00; available sizes/options: SWG606-2Y3-SBU"
+      "product_id": "TE2693-00S-WHT",
+      "title": "Wave Runner T-Shirt",
+      "url": "https://cougar.com.pk/products/wave-runner-t-shirt-te2693",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "SWG608-7Y8-LTP",
-      "title": "Lucky Six Sweatshirt",
-      "url": "https://cougar.com.pk/products/swg608-ltp",
+      "product_id": "TJE603-7Y8-WHT",
+      "title": "City Seeker T-Shirt",
+      "url": "https://cougar.com.pk/products/city-seeker-t-shirt-tje603",
       "kind": "New product",
-      "detail": "Price: PKR 2,799.00; available sizes/options: SWG608-7Y8-LTP"
+      "detail": "Price: PKR 949.00; available sizes/options: TJE603-7Y8-WHT"
     },
     {
-      "product_id": "SWG609-2Y3-PNK",
-      "title": "Capyfun Graphic Sweatshirt",
-      "url": "https://cougar.com.pk/products/swg609-pnk",
+      "product_id": "TJE605-7Y8-WHT",
+      "title": "Text Print T-Shirt",
+      "url": "https://cougar.com.pk/products/text-print-t-shirt-tje605",
       "kind": "New product",
-      "detail": "Price: PKR 2,449.00; available sizes/options: SWG609-2Y3-PNK"
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE605-7Y8-WHT"
     },
     {
-      "product_id": "TF2610-00S-SGY",
-      "title": "Oversized Tee",
-      "url": "https://cougar.com.pk/products/oversized-tee-tf2610",
+      "product_id": "TJE606-7Y8-BLK",
+      "title": "Text Print T-Shirt",
+      "url": "https://cougar.com.pk/products/text-print-t-shirt-tje606",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE606-7Y8-BLK"
+    },
+    {
+      "product_id": "TJE607-7Y8-RED",
+      "title": "Text Print T-Shirt",
+      "url": "https://cougar.com.pk/products/text-print-t-shirt-tje607",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE607-7Y8-RED"
+    },
+    {
+      "product_id": "TJE608-2Y3-YLW",
+      "title": "Character Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/character-graphic-t-shirt-tje608",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE608-2Y3-YLW"
+    },
+    {
+      "product_id": "TJE609-7Y8-GRN",
+      "title": "NY97 T-Shirt",
+      "url": "https://cougar.com.pk/products/ny97-t-shirt-tje609",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE609-7Y8-GRN"
+    },
+    {
+      "product_id": "TJE611-7Y8-LYW",
+      "title": "Wave Spot T-Shirt",
+      "url": "https://cougar.com.pk/products/wave-spot-t-shirt-tje611",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE611-7Y8-LYW"
+    },
+    {
+      "product_id": "TJE612-2Y3-CWT",
+      "title": "Brawl Stars Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/brawl-stars-graphic-t-shirt-tje612",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE612-2Y3-CWT"
+    },
+    {
+      "product_id": "TJE613-7Y8-BLK",
+      "title": "All-Over Printed T-Shirt",
+      "url": "https://cougar.com.pk/products/all-over-printed-t-shirt-tje613",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE613-7Y8-BLK"
+    },
+    {
+      "product_id": "TJE614-7Y8-BLK",
+      "title": "Spare Time Graphic Tee",
+      "url": "https://cougar.com.pk/products/spare-time-graphic-tee-tje614",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE614-7Y8-BLK"
+    },
+    {
+      "product_id": "TJE616-2Y3-BLK",
+      "title": "T-Shirt With Contrast Top Stitches",
+      "url": "https://cougar.com.pk/products/t-shirt-with-contrast-top-stitches-tje616",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE616-2Y3-BLK"
+    },
+    {
+      "product_id": "TJE617-7Y8-SGY",
+      "title": "Road Thrills Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/tje617-sgy",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE617-7Y8-SGY"
+    },
+    {
+      "product_id": "TJE618-7Y8-CWT",
+      "title": "Striped T-Shirt",
+      "url": "https://cougar.com.pk/products/striped-t-shirt-tje618",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE618-7Y8-CWT"
+    },
+    {
+      "product_id": "TJE619-7Y8-CWT",
+      "title": "Striped T-Shirt",
+      "url": "https://cougar.com.pk/products/striped-t-shirt-tje619",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE619-7Y8-CWT"
+    },
+    {
+      "product_id": "TJE620-7Y8-CWT",
+      "title": "Striped T-Shirt",
+      "url": "https://cougar.com.pk/products/striped-t-shirt-tje620",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE620-7Y8-CWT"
+    },
+    {
+      "product_id": "TJE621-2Y3-RED",
+      "title": "Contrast Trimmed T-Shirt",
+      "url": "https://cougar.com.pk/products/contrast-trimmed-t-shirt-tje621",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE621-2Y3-RED"
+    },
+    {
+      "product_id": "TJE622-7Y8-LSA",
+      "title": "All Over Printed T-Shirt",
+      "url": "https://cougar.com.pk/products/all-over-printed-t-shirt-tje622",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE622-7Y8-LSA"
+    },
+    {
+      "product_id": "TJE623-7Y8-SKY",
+      "title": "Embroidered T-Shirt",
+      "url": "https://cougar.com.pk/products/embroidered-t-shirt-tje623",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE623-7Y8-SKY"
+    },
+    {
+      "product_id": "TJE625-2Y3-GRN",
+      "title": "Trimmed Embroidered T-Shirt",
+      "url": "https://cougar.com.pk/products/trimmed-embroidered-t-shirt-tje625",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE625-2Y3-GRN"
+    },
+    {
+      "product_id": "TJE626-2Y3-CWT",
+      "title": "Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/graphic-t-shirt-tje626",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE626-2Y3-CWT"
+    },
+    {
+      "product_id": "TJE627-7Y8-CWT",
+      "title": "Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/graphic-t-shirt-tje627",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE627-7Y8-CWT"
+    },
+    {
+      "product_id": "TJE628-2Y3-SKY",
+      "title": "Monster Trucks Graphic Tee",
+      "url": "https://cougar.com.pk/products/monster-trucks-graphic-tee-tje628",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE628-2Y3-SKY"
+    },
+    {
+      "product_id": "TJE630-2Y3-WHT",
+      "title": "Striped Tank Top",
+      "url": "https://cougar.com.pk/products/striped-tank-top-tje630",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE630-2Y3-WHT"
+    },
+    {
+      "product_id": "TJE632-7Y8-CWT",
+      "title": "Character Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/character-graphic-t-shirt-tje632",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE632-7Y8-CWT"
+    },
+    {
+      "product_id": "TJE633-2Y3-GRN",
+      "title": "Graphic Interlock T-Shirt",
+      "url": "https://cougar.com.pk/products/graphic-interlock-t-shirt-tje633",
+      "kind": "New product",
+      "detail": "Price: PKR 949.00; available sizes/options: TJE633-2Y3-GRN"
+    },
+    {
+      "product_id": "TJE634-7Y8-MST",
+      "title": "Text Print Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/text-print-graphic-t-shirt-tje634",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE634-7Y8-MST"
+    },
+    {
+      "product_id": "TJE635-2Y3-SND",
+      "title": "Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/graphic-t-shirt-tje635",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJE635-2Y3-SND"
+    },
+    {
+      "product_id": "TJF503-7Y8-NVY",
+      "title": "Turtleneck T-Shirt",
+      "url": "https://cougar.com.pk/products/turtleneck-t-shirt-tjf503",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJF503-7Y8-NVY"
+    },
+    {
+      "product_id": "TJF504-7Y8-BLK",
+      "title": "Contrast Sleeved T-Shirt",
+      "url": "https://cougar.com.pk/products/contrast-sleeved-t-shirt-tjf504",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: TJF504-7Y8-BLK"
+    },
+    {
+      "product_id": "TJF506-7Y8-MNT",
+      "title": "Interlock Graphic T-Shirt",
+      "url": "https://cougar.com.pk/products/interlock-graphic-t-shirt-tjf506",
+      "kind": "New product",
+      "detail": "Price: PKR 1,249.00; available sizes/options: TJF506-7Y8-MNT"
+    },
+    {
+      "product_id": "TJF507-7Y8-SND",
+      "title": "Slogan Print T-Shirt",
+      "url": "https://cougar.com.pk/products/slogan-print-t-shirt-tjf507",
+      "kind": "New product",
+      "detail": "Price: PKR 1,449.00; available sizes/options: TJF507-7Y8-SND"
+    },
+    {
+      "product_id": "TJF510-2Y3-OFW",
+      "title": "High Neck T-Shirt",
+      "url": "https://cougar.com.pk/products/high-neck-t-shirt-tjf510",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJF510-2Y3-OFW"
+    },
+    {
+      "product_id": "TJF511-2Y3-LBU",
+      "title": "Character Graphic Print T-Shirt",
+      "url": "https://cougar.com.pk/products/character-graphic-print-t-shirt-tjf511",
+      "kind": "New product",
+      "detail": "Price: PKR 1,149.00; available sizes/options: TJF511-2Y3-LBU"
+    },
+    {
+      "product_id": "TLF629-0XS-LBR",
+      "title": "Wide Leg Trousers",
+      "url": "https://cougar.com.pk/products/drawstring-waist-shirt-tlf629",
       "kind": "Product updated",
-      "detail": "handle: tf2610-sgy → oversized-tee-tf2610",
-      "field": "handle",
-      "before": "tf2610-sgy",
-      "after": "oversized-tee-tf2610"
+      "detail": "title: Drawstring Waist Shirt → Wide Leg Trousers",
+      "field": "title",
+      "before": "Drawstring Waist Shirt",
+      "after": "Wide Leg Trousers"
+    },
+    {
+      "product_id": "TLF643-0XS-LBU",
+      "title": "Peter Pan Collar Shirt",
+      "url": "https://cougar.com.pk/products/statement-collar-shirt-tlf643",
+      "kind": "Product updated",
+      "detail": "title: Statement Collar Shirt → Peter Pan Collar Shirt",
+      "field": "title",
+      "before": "Statement Collar Shirt",
+      "after": "Peter Pan Collar Shirt"
     },
     {
       "product_id": "TLF647-00S-CRM",
       "title": "Cropped Shirt",
       "url": "https://cougar.com.pk/products/cropped-shirt-tlf647",
-      "kind": "New product",
-      "detail": "Price: PKR 4,549.00; available sizes/options: TLF647-00S-CRM"
-    },
-    {
-      "product_id": "TLF647-0XS-CRM",
-      "title": "Cropped Shirt",
-      "url": "https://cougar.com.pk/products/cropped-shirt-tlf647",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "TW2627-00S-BEI",
-      "title": "Textured Rib Cargo Joggers",
-      "url": "https://cougar.com.pk/products/textured-rib-cargo-joggers-tw2627",
+      "product_id": "TLF647-0XS-CRM",
+      "title": "Cropped Shacket With Pockets",
+      "url": "https://cougar.com.pk/products/cropped-shirt-tlf647",
+      "kind": "New product",
+      "detail": "Price: PKR 4,549.00; available sizes/options: TLF647-0XS-CRM"
+    },
+    {
+      "product_id": "TLF648-0XS-BLK",
+      "title": "Cropped Shacket With Pockets",
+      "url": "https://cougar.com.pk/products/tlf648-blk",
+      "kind": "New product",
+      "detail": "Price: PKR 4,549.00; available sizes/options: TLF648-0XS-BLK"
+    },
+    {
+      "product_id": "TLF649-0XS-WHT",
+      "title": "Cropped Shirt With Shoulder Tabs",
+      "url": "https://cougar.com.pk/products/pleated-waist-shirt-tlf649",
+      "kind": "Product updated",
+      "detail": "title: Pleated Waist Shirt → Cropped Shirt With Shoulder Tabs",
+      "field": "title",
+      "before": "Pleated Waist Shirt",
+      "after": "Cropped Shirt With Shoulder Tabs"
+    },
+    {
+      "product_id": "TLF649-0XS-WHT",
+      "title": "Cropped Shirt With Shoulder Tabs",
+      "url": "https://cougar.com.pk/products/pleated-waist-shirt-tlf649",
       "kind": "Product updated",
       "detail": "Description changed (see changes.json for full before/after)",
       "field": "description",
-      "before": "Design Details: Solid ribbed trousers with elasticated drawstring waist, side pockets, flap cargo pockets and straight legStyle: Cargo TrousersFit: Relaxed Fit",
-      "after": "Design Details: Solid ribbed trousers with elasticated drawstring waist, side pockets, flap cargo pockets and straight legStyle: Cargo TrousersFit: Relaxed FitFabric: Polar Fleece"
+      "before": "Design Details: Shirt collar, tortoiseshell-effect buttons, shoulder epaulettes, pleated waistband, long sleeves with cuffs, crinkle textureStyle: Cropped shirtFit: Relaxed with a fitted waistband",
+      "after": "Design Details: Shirt collar, tortoiseshell-effect buttons, shoulder epaulettes, pleated waistband, long sleeves with cuffs, crinkle textureStyle: Cropped shirtFit: Relaxed with a fitted waistbandFabric: Subtle Blended Cotton"
     },
     {
-      "product_id": "TW2631-00S-SND",
-      "title": "Fleece Wide Leg Trouser",
-      "url": "https://cougar.com.pk/products/fleece-wide-leg-trouser-tw2631",
+      "product_id": "TLF650-0XS-BEI",
+      "title": "Velvet Hoodie",
+      "url": "https://cougar.com.pk/products/tlf650-bei",
+      "kind": "New product",
+      "detail": "Price: PKR 3,849.00; available sizes/options: TLF650-0XS-BEI"
+    },
+    {
+      "product_id": "TLF652-0XS-GRY",
+      "title": "Tailored V Neck Waistcoat",
+      "url": "https://cougar.com.pk/products/v-neck-waistcoat-tlf652",
       "kind": "Product updated",
-      "detail": "Images changed (see changes.json for full before/after)",
-      "field": "images",
-      "before": [
-        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/kids_0000_IMG_6941--0_9.webp?v=1795417389"
-      ],
-      "after": [
-        "https://cdn.shopify.com/s/files/1/0268/9715/4090/files/IMG_2600copy_d79e1e2b-091a-4601-a88b-fe64b020af6c.webp?v=1795503043"
-      ]
+      "detail": "title: V-Neck Waistcoat → Tailored V Neck Waistcoat",
+      "field": "title",
+      "before": "V-Neck Waistcoat",
+      "after": "Tailored V Neck Waistcoat"
+    },
+    {
+      "product_id": "TLF653-0XS-BEI",
+      "title": "High Neck Cinched Waist Vest",
+      "url": "https://cougar.com.pk/products/voyager-utility-top-tlf653",
+      "kind": "Product updated",
+      "detail": "title: Voyager Utility Top → High Neck Cinched Waist Vest",
+      "field": "title",
+      "before": "Voyager Utility Top",
+      "after": "High Neck Cinched Waist Vest"
+    },
+    {
+      "product_id": "TLF653-0XS-BEI",
+      "title": "High Neck Cinched Waist Vest",
+      "url": "https://cougar.com.pk/products/voyager-utility-top-tlf653",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "Design Details: Stand collar with snap closure, concealed front placket, four flap pockets, elasticated waist, cap shouldersStyle: Sleeveless",
+      "after": "Design Details: Stand collar with snap closure, concealed front placket, four flap pockets, elasticated waist, cap shouldersStyle: Sleeveless Fabric: PC Twill"
+    },
+    {
+      "product_id": "TS2647-00S-WHT",
+      "title": "Heavy Jersey T-Shirt",
+      "url": "https://cougar.com.pk/products/heavy-jersey-t-shirt-ts2647",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "TS2649-00S-NVY",
+      "title": "Interlock T-Shirt",
+      "url": "https://cougar.com.pk/products/interlock-t-shirt-ts2649",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "TS2661-00S-BLK",
+      "title": "Mini-Ottoman T-Shirt",
+      "url": "https://cougar.com.pk/products/mini-ottoman-t-shirt-ts2661",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "TS2692-00S-WHT",
+      "title": "Back Printed Relaxed T-Shirt",
+      "url": "https://cougar.com.pk/products/back-printed-relaxed-t-shirt-ts2692",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "TW2624-00S-SND",
+      "title": "Relaxed Fleece Trousers",
+      "url": "https://cougar.com.pk/products/relaxed-fleece-trousers-tw2624",
+      "kind": "New product",
+      "detail": "Price: PKR 5,949.00; available sizes/options: TW2624-00S-SND"
+    },
+    {
+      "product_id": "WF2601-FSZ-999",
+      "title": "AMBER OUD",
+      "url": "https://cougar.com.pk/products/amber-oud-wf2601-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WF2602-FSZ-999",
+      "title": "Roselle",
+      "url": "https://cougar.com.pk/products/roselle-wf2602-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WF2603-FSZ-999",
+      "title": "Tangerine Whisper",
+      "url": "https://cougar.com.pk/products/tangerine-whisper-wf2603-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WF2604-FSZ-999",
+      "title": "Mystique",
+      "url": "https://cougar.com.pk/products/mystique-wf2604-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WF2605-FSZ-999",
+      "title": "Lilia",
+      "url": "https://cougar.com.pk/products/lilia-wf2605-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WF2606-FSZ-999",
+      "title": "Mystery Box- 3 in 1",
+      "url": "https://cougar.com.pk/products/mystery-box-3-in-1-wf2606-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WF2607-FSZ-999",
+      "title": "Mystery Box- 3 in 1",
+      "url": "https://cougar.com.pk/products/mystery-box-3-in-1-wf2607-999",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WS2624-00S-BRN",
+      "title": "Cropped Zipper Jacket",
+      "url": "https://cougar.com.pk/products/cropped-zipper-jacket-ws2624",
+      "kind": "New product",
+      "detail": "Price: PKR 5,599.00; available sizes/options: WS2624-00S-BRN"
     },
     {
       "product_id": "WS2624-XSS-BRN",
       "title": "Cropped Zipper Jacket",
-      "url": "https://cougar.com.pk/products/cropped-zipper-jacket-ws2624?variant=WS2624-XSS-BRN",
-      "kind": "Sold out",
-      "detail": "WS2624-XSS-BRN"
-    },
-    {
-      "product_id": "WSS616-0XS-MOS",
-      "title": "Asymmetric Off-Shoulder Sweatshirt",
-      "url": "https://cougar.com.pk/products/wss616-mos",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "Asymmetric Off-Shoulder Sweatshirt",
-      "after": "Design Details: Asymmetric neckline that sits off one shoulder, seamed waist panel, long sleevesStyle: Asymmetric neck topFabric: Chenille Crochet"
-    },
-    {
-      "product_id": "WSS617-0XS-DNY",
-      "title": "Balloon Sleeve Rib Sweatshirt",
-      "url": "https://cougar.com.pk/products/balloon-sleeve-rib-sweatshirt-wss617",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "Design Details: Crew neck top in a ribbed texture with raglan balloon sleeves, deep banded cuffs, side pleat detail and banded hemStyle: Raglan SweatshirtFit: Relaxed FitKnit: Rib Knit",
-      "after": "Design Details: Crew neck top in a ribbed texture with raglan balloon sleeves, deep banded cuffs, side pleat detail and banded hemStyle: Raglan SweatshirtFit: Relaxed FitKnit: Lycra Rib 2x1"
-    },
-    {
-      "product_id": "WSS618-00S-GRY",
-      "title": "Pleated Sleeve Sweatshirt",
-      "url": "https://cougar.com.pk/products/pleated-sleeve-sweatshirt-wss618",
-      "kind": "New product",
-      "detail": "Price: PKR 5,599.00; available sizes/options: WSS618-00S-GRY"
-    },
-    {
-      "product_id": "WSS618-0XS-GRY",
-      "title": "Pleated Sleeve Sweatshirt",
-      "url": "https://cougar.com.pk/products/pleated-sleeve-sweatshirt-wss618",
+      "url": "https://cougar.com.pk/products/cropped-zipper-jacket-ws2624",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "WSS620-0XS-DBN",
-      "title": "Textured Crew Sweatshirt",
-      "url": "https://cougar.com.pk/products/textured-crew-sweatshirt-wss620",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "Textured Crew Sweatshirt",
-      "after": "Design Details: Crew neck, drop shoulders, pleated sleeves gathered into deep cuffs, banded hem, marl finishStyle: Crew neck sweatshirtFabric: Lycra Rib 2x1"
+      "product_id": "WSH601-w37-BLK",
+      "title": "Toe-Ring Sandals",
+      "url": "https://cougar.com.pk/products/toe-ring-sandals-wsh601-blk",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "WSS621-0XS-BLK",
-      "title": "Quarter Zip Sweatshirt",
-      "url": "https://cougar.com.pk/products/quarter-zip-sweatshirt-wss621",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "Quarter Zip Sweatshirt",
-      "after": "Design Details: Flat collar, metal half-zip, drop shoulders, ribbed cuffs and hemStyle: Half-zip polo sweatshirtFabric: Chenille Crochet"
+      "product_id": "WSH602-w37-WHT",
+      "title": "Cross Strap Flat Sandals",
+      "url": "https://cougar.com.pk/products/cross-strap-flat-sandals-wsh602-wht",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH603-w37-BGE",
+      "title": "Square-Toe Sandals",
+      "url": "https://cougar.com.pk/products/square-toe-sandals-wsh603-bge",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH604-w37-WHT",
+      "title": "Mesh Mules",
+      "url": "https://cougar.com.pk/products/mesh-mules-wsh604-wht",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH605-w37-BEI",
+      "title": "Espadrille Slides",
+      "url": "https://cougar.com.pk/products/espadrille-slides-wsh605-bei",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH606-w37-OFW",
+      "title": "Crochet Slides",
+      "url": "https://cougar.com.pk/products/crochet-slides-wsh606-ofw",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH608-w37-PNK",
+      "title": "Double Strap Slides",
+      "url": "https://cougar.com.pk/products/double-strap-slides-wsh608-pnk",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH609-w37-BRN",
+      "title": "Buckle Slides",
+      "url": "https://cougar.com.pk/products/buckle-slides-wsh609-brn",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH611-w38-BEI",
+      "title": "Toe Ring Slides",
+      "url": "https://cougar.com.pk/products/toe-ring-slides-wsh611",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH615-w37-CML",
+      "title": "Flat Thong Sandals",
+      "url": "https://cougar.com.pk/products/wsh615-cml",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH615-w37-WHT",
+      "title": "Flat Thong Sandals",
+      "url": "https://cougar.com.pk/products/wsh615-wht",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH617-w37-Gld",
+      "title": "Studded Toe-Post Sandals",
+      "url": "https://cougar.com.pk/products/studded-strappy-sandals-wsh617-gld",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH619-w37-BLU",
+      "title": "Woven Wedge Sandals",
+      "url": "https://cougar.com.pk/products/woven-wedge-sandals-wsh619-blu",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH620-w38-BEI",
+      "title": "Embroidered  Slingback Sandals",
+      "url": "https://cougar.com.pk/products/embroidered-slingback-sandals-wsh620-bei",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH624-w37-YLW",
+      "title": "Butter Yellow Floral Slides",
+      "url": "https://cougar.com.pk/products/butter-yellow-floral-slides-wsh624-ylw",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WSH625-w37-WHT",
+      "title": "Cross Strap Comfort Slides",
+      "url": "https://cougar.com.pk/products/wsh625-wht",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "WWS607-0XS-GRY",
+      "title": "Textured Waistcoat",
+      "url": "https://cougar.com.pk/products/wws607-gry",
+      "kind": "New product",
+      "detail": "Price: PKR 3,849.00; available sizes/options: WWS607-0XS-GRY"
     }
   ]
 }
