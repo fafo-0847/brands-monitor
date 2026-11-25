@@ -3,7 +3,7 @@
   "source": "https://amiradnan.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-25T00:33:21.460962+00:00",
+  "checked_at": "2026-11-25T11:24:01.356580+00:00",
   "products": {
     "6627540172864": {
       "id": "6627540172864",
@@ -2647,7 +2647,7 @@
             "Black"
           ],
           "sku": "FG-0003560-Tap Shoe",
-          "available": true,
+          "available": false,
           "price": 585000,
           "compare_at_price": 1950000
         },
@@ -4751,7 +4751,7 @@
             "Navy"
           ],
           "sku": "FG-0003663-Outerspace",
-          "available": true,
+          "available": false,
           "price": 705000,
           "compare_at_price": 2350000
         },
@@ -4775,7 +4775,7 @@
             "Navy"
           ],
           "sku": "FG-0003663-Outerspace",
-          "available": true,
+          "available": false,
           "price": 705000,
           "compare_at_price": 2350000
         },
@@ -19889,6 +19889,88 @@
           "sku": "FG-0003156-Canteen",
           "available": false,
           "price": 900000,
+          "compare_at_price": 1800000
+        }
+      },
+      "available": true
+    },
+    "7080350908480": {
+      "id": "7080350908480",
+      "title": "PV Cloud Dancer Slim Fit Plain Kameez Shalwar",
+      "handle": "classic-poly-viscose-cloud-dancer-slim-fit-suit-1",
+      "url": "https://amiradnan.com/products/classic-poly-viscose-cloud-dancer-slim-fit-suit-1",
+      "vendor": "Amir Adnan",
+      "type": "",
+      "description": "<p>This Cloud Dancer Kameez Shalwar is made from a premium poly viscose blend that is crease-resistant, easy to iron, comfortable, and versatile for everyday and occasion wear. Featuring a classic Band Collar, Normal Placket, and plain design, this men’s Kameez Shalwar is tailored in a Slim Fit for a refined and contemporary look. The set includes a matching Cloud Dancer Shalwar in the same poly viscose fabric, making it an elegant choice for evening wear, gatherings, and special occasions.</p>",
+      "tags": [
+        "Kameez Shalwar",
+        "Kurta Shalwar",
+        "Shalwar Kameez",
+        "shop",
+        "slim-size"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/ClassicPolyViscoseCloudDancerSlimFitSuitWHITEKAMEEZSHALWAR_1.jpg?v=1738411612",
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/ClassicPolyViscoseCloudDancerSlimFitSuitWHITEKAMEEZSHALWAR_2.jpg?v=1738411612",
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/ClassicPolyViscoseCloudDancerSlimFitSuitWHITEKAMEEZSHALWAR_3.jpg?v=1738411587",
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/ClassicPolyViscoseCloudDancerSlimFitSuitWHITEKAMEEZSHALWAR_4.jpg?v=1738411587",
+        "https://cdn.shopify.com/s/files/1/0552/1339/1936/files/ClassicPolyViscoseCloudDancerSlimFitSuitWHITEKAMEEZSHALWAR_5.jpg?v=1738411587"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "40501661990976": {
+          "id": "40501661990976",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "FG-0003113-Cloud Dancer",
+          "available": false,
+          "price": 540000,
+          "compare_at_price": 1800000
+        },
+        "40501662023744": {
+          "id": "40501662023744",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "FG-0003113-Cloud Dancer",
+          "available": true,
+          "price": 540000,
+          "compare_at_price": 1800000
+        },
+        "40501662056512": {
+          "id": "40501662056512",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "FG-0003113-Cloud Dancer",
+          "available": false,
+          "price": 540000,
+          "compare_at_price": 1800000
+        },
+        "40501662089280": {
+          "id": "40501662089280",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "FG-0003113-Cloud Dancer",
+          "available": true,
+          "price": 540000,
           "compare_at_price": 1800000
         }
       },
