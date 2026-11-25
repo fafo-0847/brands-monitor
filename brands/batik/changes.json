@@ -1,57 +1,1966 @@
 {
-  "checked_at": "2026-11-25T02:16:32.820425+00:00",
+  "checked_at": "2026-11-25T13:10:37.484773+00:00",
   "baseline_created": false,
   "product_count": 874,
-  "change_count": 7,
+  "change_count": 141,
   "changes": [
+    {
+      "product_id": "7112254947374",
+      "title": "Nexus Brown | Co-ord Set",
+      "url": "https://batik.com.pk/products/nexus-brown-co-ord-set?variant=41180637954094",
+      "kind": "Sold out",
+      "detail": "XS / Brown / Corduroy"
+    },
+    {
+      "product_id": "7154471764014",
+      "title": "Cyan 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/cyan-3pc-embroidered-lawn-dress?variant=41323075698734",
+      "kind": "Back in stock",
+      "detail": "M / Space Blue / Pima Lawn"
+    },
+    {
+      "product_id": "7158250930222",
+      "title": "Amiraa 3Pc - Embroidered Luxe Pret",
+      "url": "https://batik.com.pk/products/amiraa-3pc-embroidered-luxe-pret?variant=41346042363950",
+      "kind": "Back in stock",
+      "detail": "S / Dusty Mint / Pima Lawn"
+    },
+    {
+      "product_id": "7209213624366",
+      "title": "Chaotic Garet 3Pc - Chiffon Wedding Frock",
+      "url": "https://batik.com.pk/products/chaotic-garet-3pc-chiffon-wedding-frocks?variant=41597206986798",
+      "kind": "Back in stock",
+      "detail": "M / Maroon / Raw Silk & Crinkle"
+    },
+    {
+      "product_id": "7225748324398",
+      "title": "Green Spruce 3Pc - Embroidered Khaddar Dress",
+      "url": "https://batik.com.pk/products/green-spruce-3pc-embroidered-khaddar-dress?variant=41667770155054",
+      "kind": "Back in stock",
+      "detail": "XS / Frosty Spruce / Khaddar"
+    },
+    {
+      "product_id": "7490232123438",
+      "title": "Marilyn 3Pc - Embroidered Festive Pret",
+      "url": "https://batik.com.pk/products/marilyn-3pc-embroidered-karandi-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786642990.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786675758.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786708526.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786741294.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786774062_da124a6c-550c-4875-b157-5fa298e393d2.jpg?v=1795407389",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786806830.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786839598.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786872366.jpg?v=1795093877"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786642990.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786675758.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786708526.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786741294.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786774062_8ea14531-ca30-45da-936d-241d018ff035.jpg?v=1795590406",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786806830.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786839598.jpg?v=1795093877",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25108786872366.jpg?v=1795093877"
+      ]
+    },
+    {
+      "product_id": "7498649567278",
+      "title": "Mooti 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/mooti-3pc-festive-luxe-pret-1?variant=41997232603182",
+      "kind": "Sold out",
+      "detail": "M / Ivory / Chiffon"
+    },
+    {
+      "product_id": "7519468290094",
+      "title": "Iridule 3Pc - Festive Embroidered Lawn",
+      "url": "https://batik.com.pk/products/iridule-3pc-festive-embroidered-lawn?variant=42083594567726",
+      "kind": "Back in stock",
+      "detail": "M / Pearly Blue / Pima Lawn"
+    },
+    {
+      "product_id": "7521183629358",
+      "title": "Cyra 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/cyra-3pc-festive-luxe-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941721646.jpg?v=1795093116",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941754414.jpg?v=1795093130",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941787182_7f4930aa-ba98-47e0-844b-58c184702e99.jpg?v=1795407209",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941819950.jpg?v=1795093130",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941852718.jpg?v=1795093115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941885486.jpg?v=1795093116",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941918254.jpg?v=1795093116",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941951022.jpg?v=1795093116",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941983790.jpg?v=1795093130"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941721646.jpg?v=1795093116",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941754414.jpg?v=1795093130",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941787182_9b8c21ef-5144-42a3-bd19-c0e62bb544a4.jpg?v=1795590406",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941819950.jpg?v=1795093130",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941852718.jpg?v=1795093115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941885486.jpg?v=1795093116",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941918254.jpg?v=1795093116",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941951022.jpg?v=1795093116",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25228941983790.jpg?v=1795093130"
+      ]
+    },
+    {
+      "product_id": "7522756558894",
+      "title": "Pearl 3Pc - Festive Embroidered Lawn",
+      "url": "https://batik.com.pk/products/pearl-3pc-festive-embroidered-lawn",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227662382.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227695150.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227727918.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227760686.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227793454.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227826222_8189eee3-fe59-4dbc-8475-b008ce736843.jpg?v=1795407209",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227858990.jpg?v=1795093083",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227891758.jpg?v=1795093083",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227924526.jpg?v=1795093083",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227957294.jpg?v=1795093064"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227662382.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227695150.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227727918.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227760686.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227793454.jpg?v=1795093064",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227826222_c58afd55-be9d-4ee3-82df-bf42fa706473.jpg?v=1795590267",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227858990.jpg?v=1795093083",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227891758.jpg?v=1795093083",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227924526.jpg?v=1795093083",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25239227957294.jpg?v=1795093064"
+      ]
+    },
+    {
+      "product_id": "7522756558894",
+      "title": "Pearl 3Pc - Festive Embroidered Lawn",
+      "url": "https://batik.com.pk/products/pearl-3pc-festive-embroidered-lawn?variant=42099788447790",
+      "kind": "Back in stock",
+      "detail": "M / Off White / Pima Lawn"
+    },
+    {
+      "product_id": "7524528291886",
+      "title": "Limylime 3Pc - Festive Eid Pret",
+      "url": "https://batik.com.pk/products/limylime-3pc-festive-eid-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721072686.jpg?v=1795093031",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721105454.jpg?v=1795093031",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721138222.jpg?v=1795093031",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721170990.jpg?v=1795093031",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721203758_b78d639e-a12c-4086-b326-51b76d57e53e.jpg?v=1795407209",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721236526.jpg?v=1795093051",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721269294.jpg?v=1795093051",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721302062.jpg?v=1795093051",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721334830.jpg?v=1795093031"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721072686.jpg?v=1795093031",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721105454.jpg?v=1795093031",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721138222.jpg?v=1795093031",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721170990.jpg?v=1795093031",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721203758_b3a95574-5955-4f22-b628-b87380117729.jpg?v=1795590267",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721236526.jpg?v=1795093051",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721269294.jpg?v=1795093051",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721302062.jpg?v=1795093051",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243721334830.jpg?v=1795093031"
+      ]
+    },
+    {
+      "product_id": "7524539858990",
+      "title": "Elaya 3Pc - Festive Eid Pret",
+      "url": "https://batik.com.pk/products/elaya-3pc-festive-eid-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680604206.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680636974.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680669742.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680702510.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680735278.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680768046_7a60ac2b-bc93-4bed-8cde-92a632aeea9a.jpg?v=1795407209",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680800814.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680833582.jpg?v=1795093015",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680866350.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680899118.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680931886.jpg?v=1795092994"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680604206.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680636974.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680669742.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680702510.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680735278.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680768046_6f22638f-d406-47fb-b73d-df68137432ed.jpg?v=1795590267",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680800814.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680833582.jpg?v=1795093015",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680866350.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680899118.jpg?v=1795092994",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25243680931886.jpg?v=1795092994"
+      ]
+    },
+    {
+      "product_id": "7530426892334",
+      "title": "Mirha 3Pc - Festive Embroidered Lawn",
+      "url": "https://batik.com.pk/products/mirha-3pc-festive-embroidered-lawn",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039283246.jpg?v=1795092865",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039316014.jpg?v=1795092888",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039348782.jpg?v=1795092888",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039381550.jpg?v=1795092888",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039414318_d5297bdf-a9f3-4b9c-a2b8-ecd8682a80a6.jpg?v=1795407209",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039447086.jpg?v=1795092865",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039479854.jpg?v=1795092888"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039283246.jpg?v=1795092865",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039316014.jpg?v=1795092888",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039348782.jpg?v=1795092888",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039381550.jpg?v=1795092888",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039414318_707da75a-7059-4898-a239-6aad99e61d18.jpg?v=1795590267",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039447086.jpg?v=1795092865",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039479854.jpg?v=1795092888"
+      ]
+    },
+    {
+      "product_id": "7530435117102",
+      "title": "Aelin 3Pc - Festive Embroidered Lawn",
+      "url": "https://batik.com.pk/products/aelin-3pc-festive-embroidered-lawn",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039840302.jpg?v=1795093081",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039873070.jpg?v=1795092864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039905838.jpg?v=1795092865",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039938606.jpg?v=1795092864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039971374_2a2186a1-d078-49a4-b46d-157d43363c0d.jpg?v=1795407209",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263040004142.jpg?v=1795092865",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263040036910.jpg?v=1795093057",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263040069678.jpg?v=1795093057"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039840302.jpg?v=1795093081",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039873070.jpg?v=1795092864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039905838.jpg?v=1795092865",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039938606.jpg?v=1795092864",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263039971374_1545d93f-56c0-44d5-b194-783fe9fea1f0.jpg?v=1795590267",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263040004142.jpg?v=1795092865",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263040036910.jpg?v=1795093057",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25263040069678.jpg?v=1795093057"
+      ]
+    },
+    {
+      "product_id": "7531141234734",
+      "title": "Lime Darla 3Pc - Festive Embroidered Lawn",
+      "url": "https://batik.com.pk/products/lime-darla-3pc-festive-embroidered-lawn?variant=42136391647278",
+      "kind": "Back in stock",
+      "detail": "L / Lemon Yellow / Pima Lawn"
+    },
+    {
+      "product_id": "7549689724974",
+      "title": "Yellow Minsa 3pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/yellow-minsa-3pc-printed-lawn-dress?variant=42219201003566",
+      "kind": "Back in stock",
+      "detail": "S / Yellow / Lawn"
+    },
+    {
+      "product_id": "7549689823278",
+      "title": "Yellow Tofu 3Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/yellow-tofu-3pc-printed-lawn-dress",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312846382_bbb57f1c-fdca-4efa-a17a-f855a228c3b0.jpg?v=1795407209",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312879150.jpg?v=1795092533",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312911918.jpg?v=1795092508",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312944686.jpg?v=1795092533",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312977454.jpg?v=1795092533",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313010222.jpg?v=1795092508",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313042990.jpg?v=1795092508",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313075758.jpg?v=1795092508",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313108526.jpg?v=1795092533",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313141294.jpg?v=1795092533"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312846382_d43be768-e466-4198-b9c7-0fb7e63fe347.jpg?v=1795590267",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312879150.jpg?v=1795092533",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312911918.jpg?v=1795092508",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312944686.jpg?v=1795092533",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340312977454.jpg?v=1795092533",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313010222.jpg?v=1795092508",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313042990.jpg?v=1795092508",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313075758.jpg?v=1795092508",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313108526.jpg?v=1795092533",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25340313141294.jpg?v=1795092533"
+      ]
+    },
+    {
+      "product_id": "7549689888814",
+      "title": "Margot 3Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/margot-3pc-printed-lawn-dress?variant=42219202445358",
+      "kind": "Back in stock",
+      "detail": "XL / Green / Lawn"
+    },
+    {
+      "product_id": "7553436221486",
+      "title": "Gul e Rana 3Pc - Embroidered Festive Pret",
+      "url": "https://batik.com.pk/products/gul-e-rana-2pc-embroidered-festive-pret?variant=42237448552494",
+      "kind": "Back in stock",
+      "detail": "XL / Lilac / Paper Silk"
+    },
+    {
+      "product_id": "7557162074158",
+      "title": "Reef 3Pc -  Festive Luxury Formal",
+      "url": "https://batik.com.pk/products/reef-3pc-festive-luxury-formal?variant=42254406352942",
+      "kind": "Back in stock",
+      "detail": "M / Black / Crinkle"
+    },
+    {
+      "product_id": "7566072774702",
+      "title": "Navi 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/navi-2pc-printed-lawn-dress?variant=42302982848558",
+      "kind": "Back in stock",
+      "detail": "L / Multi Color / Lawn"
+    },
+    {
+      "product_id": "7576596447278",
+      "title": "Selea 3Pc - Festive Eid Pret",
+      "url": "https://batik.com.pk/products/selea-3pc-festive-eid-pret?variant=42332261777454",
+      "kind": "Back in stock",
+      "detail": "M / Lime Green / Pima Lawn"
+    },
+    {
+      "product_id": "7576605753390",
+      "title": "SunStone 3Pc - Festive Eid Pret",
+      "url": "https://batik.com.pk/products/sunstone-3pc-festive-eid-pret?variant=42332281143342",
+      "kind": "Back in stock",
+      "detail": "L / Candy Pink / Pima Lawn"
+    },
+    {
+      "product_id": "7576811110446",
+      "title": "Purple Forest 3Pc - Festive Eid Pret",
+      "url": "https://batik.com.pk/products/purple-forest-3pc-festive-eid-pret?variant=42333202022446",
+      "kind": "Back in stock",
+      "detail": "XL / Forest Biome / Pima Lawn"
+    },
+    {
+      "product_id": "7578372669486",
+      "title": "Coraline 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/coraline-3pc-embroidered-lawn-dress?variant=42338022195246",
+      "kind": "Back in stock",
+      "detail": "S / Cafe Crème / Pima Lawn"
+    },
+    {
+      "product_id": "7578373586990",
+      "title": "Nazni 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/nazni-2pc-embroidered-lawn-dress?variant=42338027044910",
+      "kind": "Back in stock",
+      "detail": "XL / Moss / Pima Lawn"
+    },
+    {
+      "product_id": "7580563275822",
+      "title": "Yalina 3Pc - Festive Eid Pret",
+      "url": "https://batik.com.pk/products/yalina-3pc-festive-eid-pret?variant=42346921525294",
+      "kind": "Back in stock",
+      "detail": "L / Ruby / Giza"
+    },
+    {
+      "product_id": "7594293887022",
+      "title": "Feeha 3Pc - Luxury Embroidered Lawn",
+      "url": "https://batik.com.pk/products/feeha-3pc-luxury-embroidered-lawn?variant=42401276035118",
+      "kind": "Back in stock",
+      "detail": "M / Magenta / Pima Lawn"
+    },
+    {
+      "product_id": "7596562448430",
+      "title": "Maroon Mist 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/maroon-mist-3pc-embroidered-lawn-dress?variant=42414782742574",
+      "kind": "Back in stock",
+      "detail": "L / Old Mauve / Pima Lawn"
+    },
+    {
+      "product_id": "7596579913774",
+      "title": "Limera 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/limera-2pc-embroidered-lawn-dress?variant=42414914142254",
+      "kind": "Back in stock",
+      "detail": "S / Apple Green / Pima Lawn"
+    },
+    {
+      "product_id": "7601123459118",
+      "title": "Preppy 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/preppy-2pc-printed-lawn-dress?variant=42441369616430",
+      "kind": "Back in stock",
+      "detail": "M / Black / Lawn"
+    },
+    {
+      "product_id": "7602728468526",
+      "title": "Custard 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/custard-3pc-embroidered-lawn-dress?variant=42447711698990",
+      "kind": "Back in stock",
+      "detail": "L / Butter / Pima Lawn"
+    },
+    {
+      "product_id": "7602746228782",
+      "title": "Candy Moon 2Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/candy-moon-2pc-embroidered-lawn-dress?variant=42447769763886",
+      "kind": "Back in stock",
+      "detail": "L / Candy Pink / Pima Lawn"
+    },
+    {
+      "product_id": "7604913504302",
+      "title": "CloudPie 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/cloudpie-3pc-embroidered-lawn-dress?variant=42459806859310",
+      "kind": "Back in stock",
+      "detail": "S / Sky blue / Pima Lawn"
+    },
+    {
+      "product_id": "7604914225198",
+      "title": "Enha 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/enha-3pc-embroidered-lawn-dress?variant=42459809316910",
+      "kind": "Back in stock",
+      "detail": "L / Beige / Pima Lawn"
+    },
+    {
+      "product_id": "7604914552878",
+      "title": "Lime Pop 3Pc - Embroidered Lawn Dress",
+      "url": "https://batik.com.pk/products/lime-pop-3pc-embroidered-lawn-dress?variant=42459809742894",
+      "kind": "Back in stock",
+      "detail": "S / Lime Green / Pima Lawn"
+    },
+    {
+      "product_id": "7607580196910",
+      "title": "Helia 2Pc - Printed Lawn Dress",
+      "url": "https://batik.com.pk/products/helia-2pc-printed-lawn-dress?variant=42470598606894",
+      "kind": "Back in stock",
+      "detail": "L / Sea Green / Lawn"
+    },
+    {
+      "product_id": "7611637694510",
+      "title": "Ira 3Pc - Luxury Embroidered Lawn",
+      "url": "https://batik.com.pk/products/ira-3pc-luxury-embroidered-lawn?variant=42488296439854",
+      "kind": "Sold out",
+      "detail": "M / Lilac / Lawn"
+    },
+    {
+      "product_id": "7611645689902",
+      "title": "Yara 3Pc - Luxury Embroidered Lawn",
+      "url": "https://batik.com.pk/products/yara-3pc-luxury-embroidered-lawn?variant=42488305221678",
+      "kind": "Back in stock",
+      "detail": "M / Sky Blue / Lawn"
+    },
+    {
+      "product_id": "7623782432814",
+      "title": "Raks 3Pc - Luxury Embroidered Lawn",
+      "url": "https://batik.com.pk/products/raks-3pc-festive-embroidered-lawn?variant=42525502439470",
+      "kind": "Back in stock",
+      "detail": "M / Beet Red / Pima Lawn"
+    },
+    {
+      "product_id": "7623782432814",
+      "title": "Raks 3Pc - Luxury Embroidered Lawn",
+      "url": "https://batik.com.pk/products/raks-3pc-festive-embroidered-lawn?variant=42525502472238",
+      "kind": "Back in stock",
+      "detail": "L / Beet Red / Pima Lawn"
+    },
+    {
+      "product_id": "7623782563886",
+      "title": "Surkh Saaya 3Pc - Luxury Embroidered Lawn",
+      "url": "https://batik.com.pk/products/surkh-saaya-3pc-festive-embroidered-lawn?variant=42525502832686",
+      "kind": "Back in stock",
+      "detail": "S / Jet Black / Pima Lawn"
+    },
+    {
+      "product_id": "7652292624430",
+      "title": "Blue Sabiha 3Pc - Embroidered Cambric Pret",
+      "url": "https://batik.com.pk/products/blue-sabiha-3pc-embroidered-cambric-pret?variant=42668131483694",
+      "kind": "Back in stock",
+      "detail": "S / Blueberry Blue / Cambric"
+    },
+    {
+      "product_id": "7652293607470",
+      "title": "Solene Red 3Pc - Embroidered Cambric Pret",
+      "url": "https://batik.com.pk/products/solene-red-3pc-embroidered-cambric-pret?variant=42668135317550",
+      "kind": "Back in stock",
+      "detail": "S / Burgundy / Cambric"
+    },
+    {
+      "product_id": "7652295409710",
+      "title": "Blossom Love 3Pc - Embroidered Cambric Pret",
+      "url": "https://batik.com.pk/products/blossom-love-3pc-embroidered-cambric-pret?variant=42668148752430",
+      "kind": "Back in stock",
+      "detail": "L / Taffy Pink / Cambric"
+    },
+    {
+      "product_id": "7652296065070",
+      "title": "Magenta Elaya 3Pc - Embroidered Cambric Pret",
+      "url": "https://batik.com.pk/products/magenta-elaya-3pc-embroidered-cambric-pret?variant=42668152815662",
+      "kind": "Back in stock",
+      "detail": "M / Magenta / Cambric"
+    },
+    {
+      "product_id": "7656637726766",
+      "title": "Black Black 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/black-black-3pc-festive-luxe-pret?variant=42701853786158",
+      "kind": "Sold out",
+      "detail": "S / Black / Organza"
+    },
+    {
+      "product_id": "7659065802798",
+      "title": "Mauritius 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/mauritius-3pc-festive-luxe-pret?variant=42719678136366",
+      "kind": "Back in stock",
+      "detail": "M / Sky Blue / Paper Silk"
+    },
+    {
+      "product_id": "7659067572270",
+      "title": "Adrina 3Pc - Festive Luxe Pret",
+      "url": "https://batik.com.pk/products/adrina-3pc-festive-luxe-pret?variant=42719679053870",
+      "kind": "Back in stock",
+      "detail": "M / Black / Paper Silk"
+    },
+    {
+      "product_id": "7660385108014",
+      "title": "Green Mina 3Pc - Embroidered Cambric Pret",
+      "url": "https://batik.com.pk/products/green-mina-3pc-embroidered-cambric-pret?variant=42730158587950",
+      "kind": "Back in stock",
+      "detail": "M / Perzik Green / Cambric"
+    },
+    {
+      "product_id": "7660385108014",
+      "title": "Green Mina 3Pc - Embroidered Cambric Pret",
+      "url": "https://batik.com.pk/products/green-mina-3pc-embroidered-cambric-pret?variant=42730158620718",
+      "kind": "Back in stock",
+      "detail": "L / Perzik Green / Cambric"
+    },
+    {
+      "product_id": "7663605383214",
+      "title": "Sugar Plum 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/sugar-plum-3pc-embroidered-khaddar-pret?variant=42743243964462",
+      "kind": "Sold out",
+      "detail": "M / Ivory / Khaddar"
+    },
     {
       "product_id": "7663606235182",
       "title": "Ruby Araasta 3Pc - Embroidered Khaddar Pret",
       "url": "https://batik.com.pk/products/ruby-araasta-3pc-embroidered-khaddar-pret?variant=42743245111342",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "S / Beet Root / Khaddar"
+    },
+    {
+      "product_id": "7666600771630",
+      "title": "Green Willow 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/green-willow-3pc-embroidered-karandi-pret?variant=42758411747374",
+      "kind": "Back in stock",
+      "detail": "XS / Green Moss / Karandi"
+    },
+    {
+      "product_id": "7666601623598",
+      "title": "Calliope 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/calliope-3pc-embroidered-karandi-pret?variant=42758413385774",
+      "kind": "Back in stock",
+      "detail": "S / Tea Pink / Karandi"
+    },
+    {
+      "product_id": "7666610143278",
+      "title": "Avni 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/avni-3pc-embroidered-karandi-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615520302.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615553070.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615585838.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615618606.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615651374.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615684142.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615716910.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615749678.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615782446_a3edaf94-43b6-4967-9b1b-c0fa1fd49404.jpg?v=1795492883",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615815214.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615847982.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615880750.jpg?v=1795088097"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615520302.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615553070.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615585838.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615618606.jpg?v=1795088097",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615651374.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615684142.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615716910.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615749678.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615782446_fd95e603-f357-441a-8e94-bd410de3e816.jpg?v=1795589780",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615815214.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615847982.jpg?v=1795088098",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/25828615880750.jpg?v=1795088097"
+      ]
+    },
+    {
+      "product_id": "7666612305966",
+      "title": "Pam 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/pam-3pc-embroidered-karandi-pret?variant=42758446612526",
+      "kind": "Sold out",
+      "detail": "XL / Dark Teal / Karandi"
+    },
+    {
+      "product_id": "7668825620526",
+      "title": "Scotland 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/scotland-3pc-embroidered-karandi-pret?variant=42772355743790",
+      "kind": "Back in stock",
+      "detail": "XS / Old Mauve / Karandi"
+    },
+    {
+      "product_id": "7668825620526",
+      "title": "Scotland 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/scotland-3pc-embroidered-karandi-pret?variant=42772355776558",
+      "kind": "Back in stock",
+      "detail": "S / Old Mauve / Karandi"
+    },
+    {
+      "product_id": "7668835024942",
+      "title": "Marwa 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/marwa-3pc-embroidered-karandi-pret?variant=42772435042350",
+      "kind": "Back in stock",
+      "detail": "M / Green Moss / Karandi"
     },
     {
       "product_id": "7668853506094",
       "title": "Zamaraa 3Pc - Embroidered Karandi Pret",
       "url": "https://batik.com.pk/products/zamaraa-3pc-embroidered-karandi-pret?variant=42772617199662",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "XL / Ivory / Karandi"
     },
     {
-      "product_id": "7668862550062",
-      "title": "Maahe 3Pc - Embroidered Karandi Pret",
-      "url": "https://batik.com.pk/products/maahe-3pc-embroidered-karandi-pret?variant=42772687716398",
+      "product_id": "7668855242798",
+      "title": "Zaar 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/zaar-3pc-embroidered-karandi-pret?variant=42772624375854",
       "kind": "Sold out",
-      "detail": "M / Midnight Blue / Karandi"
+      "detail": "S / Mustard / Karandi"
     },
     {
-      "product_id": "7684180705326",
-      "title": "Black Zofia 3Pc - Festive Luxe Pret",
-      "url": "https://batik.com.pk/products/black-zofia-3pc-festive-luxe-pret?variant=42887759003694",
+      "product_id": "7668855242798",
+      "title": "Zaar 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/zaar-3pc-embroidered-karandi-pret?variant=42772624408622",
+      "kind": "Back in stock",
+      "detail": "M / Mustard / Karandi"
+    },
+    {
+      "product_id": "7668858159150",
+      "title": "Yashfa 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/yashfa-3pc-embroidered-karandi-pret?variant=42772641185838",
+      "kind": "Back in stock",
+      "detail": "S / Tea Pink / Karandi"
+    },
+    {
+      "product_id": "7668858159150",
+      "title": "Yashfa 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/yashfa-3pc-embroidered-karandi-pret?variant=42772641218606",
+      "kind": "Back in stock",
+      "detail": "M / Tea Pink / Karandi"
+    },
+    {
+      "product_id": "7668859797550",
+      "title": "Sage Riha 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/riha-3pc-embroidered-karandi-pret?variant=42772649803822",
+      "kind": "Back in stock",
+      "detail": "L / Sage Green / Karandi"
+    },
+    {
+      "product_id": "7668861403182",
+      "title": "Soraya 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/soraya-3pc-embroidered-karandi-pret?variant=42772671496238",
       "kind": "Sold out",
-      "detail": "M / Black / Georgette"
+      "detail": "XL / Cream White / Karandi"
+    },
+    {
+      "product_id": "7672315936814",
+      "title": "Dove Glove 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/dove-glove-3pc-embroidered-khaddar-pret?variant=42796565921838",
+      "kind": "Back in stock",
+      "detail": "XL / Fox Glove / Khaddar"
+    },
+    {
+      "product_id": "7672316362798",
+      "title": "Phoebe 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/phoebe-3pc-embroidered-khaddar-pret?variant=42796570345518",
+      "kind": "Back in stock",
+      "detail": "L / Sky Blue / Khaddar"
+    },
+    {
+      "product_id": "7672316493870",
+      "title": "Blue Mantis 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/blue-mantis-3pc-embroidered-khaddar-pret?variant=42796577325102",
+      "kind": "Back in stock",
+      "detail": "S / Blue Opal / Khaddar"
+    },
+    {
+      "product_id": "7672317181998",
+      "title": "Niva 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/niva-3pc-embroidered-khaddar-pret?variant=42796581126190",
+      "kind": "Back in stock",
+      "detail": "S / Pickled Beet / Khaddar"
+    },
+    {
+      "product_id": "7672317607982",
+      "title": "Jim 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/jim-3pc-embroidered-khaddar-pret?variant=42796585844782",
+      "kind": "Back in stock",
+      "detail": "L / Magenta Purple / Khaddar"
+    },
+    {
+      "product_id": "7672317640750",
+      "title": "Leilani 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/leilani-3pc-embroidered-khaddar-pret?variant=42796585943086",
+      "kind": "Back in stock",
+      "detail": "S / Picante / Khaddar"
+    },
+    {
+      "product_id": "7672421908526",
+      "title": "Red Manzar 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/red-manzar-3pc-embroidered-khaddar-pret?variant=42797200605230",
+      "kind": "Back in stock",
+      "detail": "S / Red / Khaddar"
+    },
+    {
+      "product_id": "7680590905390",
+      "title": "OatMilk 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/oatmilk-3pc-embroidered-khaddar-pret?variant=42865371611182",
+      "kind": "Back in stock",
+      "detail": "S / Birch / Khaddar"
+    },
+    {
+      "product_id": "7680613384238",
+      "title": "Black Nirvana 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/black-nirvana-3pc-embroidered-khaddar-pret?variant=42865778622510",
+      "kind": "Sold out",
+      "detail": "XS / Black / Khaddar"
+    },
+    {
+      "product_id": "7680613449774",
+      "title": "Red Alanna 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/red-alanna-3pc-embroidered-khaddar-pret?variant=42865778851886",
+      "kind": "Back in stock",
+      "detail": "S / Pink Flora / Khaddar"
+    },
+    {
+      "product_id": "7680613449774",
+      "title": "Red Alanna 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/red-alanna-3pc-embroidered-khaddar-pret?variant=42865778917422",
+      "kind": "Back in stock",
+      "detail": "L / Pink Flora / Khaddar"
+    },
+    {
+      "product_id": "7680613515310",
+      "title": "Peru Pine 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/peru-pine-3pc-embroidered-khaddar-pret?variant=42865779015726",
+      "kind": "Back in stock",
+      "detail": "XS / Raspberry Pink / Khaddar"
+    },
+    {
+      "product_id": "7680613613614",
+      "title": "Kashmala 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/kashmala-3pc-embroidered-khaddar-pret?variant=42865779376174",
+      "kind": "Back in stock",
+      "detail": "XS / Black / Khaddar"
+    },
+    {
+      "product_id": "7680613613614",
+      "title": "Kashmala 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/kashmala-3pc-embroidered-khaddar-pret?variant=42865779408942",
+      "kind": "Back in stock",
+      "detail": "S / Black / Khaddar"
+    },
+    {
+      "product_id": "7680613613614",
+      "title": "Kashmala 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/kashmala-3pc-embroidered-khaddar-pret?variant=42865779441710",
+      "kind": "Back in stock",
+      "detail": "M / Black / Khaddar"
+    },
+    {
+      "product_id": "7680613842990",
+      "title": "Dean 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/dean-3pc-embroidered-khaddar-pret?variant=42865780654126",
+      "kind": "Back in stock",
+      "detail": "L / Poseidon / Khaddar"
+    },
+    {
+      "product_id": "7680613875758",
+      "title": "Mosselle 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/mosselle-3pc-embroidered-khaddar-pret?variant=42865781014574",
+      "kind": "Sold out",
+      "detail": "L / Moss / Khaddar"
+    },
+    {
+      "product_id": "7680613875758",
+      "title": "Mosselle 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/mosselle-3pc-embroidered-khaddar-pret?variant=42865781047342",
+      "kind": "Back in stock",
+      "detail": "XL / Moss / Khaddar"
+    },
+    {
+      "product_id": "7685856788526",
+      "title": "Diago 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/diago-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikfestive2026', 'batikstudio', 'diagovideo', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikfestive2026', 'batikstudio', 'diagovideo', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikfestive2026",
+        "batikstudio",
+        "diagovideo",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikfestive2026",
+        "batikstudio",
+        "diagovideo",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685856788526",
+      "title": "Diago 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/diago-3pc-velvet-formal-dress?variant=42898085576750",
+      "kind": "Back in stock",
+      "detail": "S / Green / Velvet"
+    },
+    {
+      "product_id": "7685856788526",
+      "title": "Diago 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/diago-3pc-velvet-formal-dress?variant=42898085609518",
+      "kind": "Back in stock",
+      "detail": "M / Green / Velvet"
+    },
+    {
+      "product_id": "7685856788526",
+      "title": "Diago 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/diago-3pc-velvet-formal-dress?variant=42898085642286",
+      "kind": "Back in stock",
+      "detail": "L / Green / Velvet"
+    },
+    {
+      "product_id": "7685856854062",
+      "title": "Roma 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/roma-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'Red', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'newin', 'romavideo', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'Red', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'newin', 'romavideo', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "Red",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "newin",
+        "romavideo",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "Red",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "newin",
+        "romavideo",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685857673262",
+      "title": "Fushia 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/fushia-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikfestive2026', 'batikstudio', 'fushiavideo', 'newin', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikfestive2026', 'batikstudio', 'fushiavideo', 'newin', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikfestive2026",
+        "batikstudio",
+        "fushiavideo",
+        "newin",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikfestive2026",
+        "batikstudio",
+        "fushiavideo",
+        "newin",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685857673262",
+      "title": "Fushia 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/fushia-3pc-velvet-formal-dress?variant=42898110349358",
+      "kind": "Back in stock",
+      "detail": "M / Fuchia pink / Velvet"
+    },
+    {
+      "product_id": "7685860524078",
+      "title": "Selinah Rose 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/selinah-rose-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikfestive2026', 'batikstudio', 'newin', 'selinahrosevideo', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikfestive2026', 'batikstudio', 'newin', 'selinahrosevideo', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikfestive2026",
+        "batikstudio",
+        "newin",
+        "selinahrosevideo",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikfestive2026",
+        "batikstudio",
+        "newin",
+        "selinahrosevideo",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685860524078",
+      "title": "Selinah Rose 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/selinah-rose-3pc-velvet-formal-dress?variant=42898217861166",
+      "kind": "Back in stock",
+      "detail": "S / Teal blue / Velvet"
+    },
+    {
+      "product_id": "7685860524078",
+      "title": "Selinah Rose 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/selinah-rose-3pc-velvet-formal-dress?variant=42898217893934",
+      "kind": "Back in stock",
+      "detail": "M / Teal blue / Velvet"
+    },
+    {
+      "product_id": "7685860524078",
+      "title": "Selinah Rose 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/selinah-rose-3pc-velvet-formal-dress?variant=42898217926702",
+      "kind": "Back in stock",
+      "detail": "L / Teal blue / Velvet"
+    },
+    {
+      "product_id": "7685861507118",
+      "title": "Aveline 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/aveline-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'avelinevideo', 'batikfestive2026', 'batikstudio', 'newin', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'avelinevideo', 'batikfestive2026', 'batikstudio', 'newin', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "avelinevideo",
+        "batikfestive2026",
+        "batikstudio",
+        "newin",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "avelinevideo",
+        "batikfestive2026",
+        "batikstudio",
+        "newin",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685861605422",
+      "title": "Avoria 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/avoria-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Blue', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'avoriavideo', 'batikstudio', 'luxuryfestivepret', 'newin', 'zargulvelvet'] → ['3pc', 'Blue', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'avoriavideo', 'batikstudio', 'luxuryfestivepret', 'newin', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Blue",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "avoriavideo",
+        "batikstudio",
+        "luxuryfestivepret",
+        "newin",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Blue",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "avoriavideo",
+        "batikstudio",
+        "luxuryfestivepret",
+        "newin",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685863800878",
+      "title": "Feroza Noor 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/feroza-noor-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Cyan', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikstudio', 'ferozanoorvideo', 'luxuryfestivepret', 'zargulvelvet'] → ['3pc', 'Cyan', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikstudio', 'ferozanoorvideo', 'luxuryfestivepret', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Cyan",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "ferozanoorvideo",
+        "luxuryfestivepret",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Cyan",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "ferozanoorvideo",
+        "luxuryfestivepret",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685863800878",
+      "title": "Feroza Noor 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/feroza-noor-3pc-velvet-formal-dress?variant=42898231722030",
+      "kind": "Back in stock",
+      "detail": "S / Cyan / Velvet"
+    },
+    {
+      "product_id": "7685864685614",
+      "title": "Saliha 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/saliha-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'Mehndi green', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'newin', 'salihavideo', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'Mehndi green', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'newin', 'salihavideo', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "Mehndi green",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "newin",
+        "salihavideo",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "Mehndi green",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "newin",
+        "salihavideo",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685867012142",
+      "title": "Nilufer 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/nilufer-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Burgundy', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'nilufervideo', 'zargulvelvet'] → ['3pc', 'Burgundy', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'nilufervideo', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Burgundy",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "nilufervideo",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Burgundy",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "nilufervideo",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685867012142",
+      "title": "Nilufer 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/nilufer-3pc-velvet-formal-dress?variant=42898245484590",
+      "kind": "Back in stock",
+      "detail": "S / Burgundy / Velvet"
+    },
+    {
+      "product_id": "7685867012142",
+      "title": "Nilufer 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/nilufer-3pc-velvet-formal-dress?variant=42898245550126",
+      "kind": "Back in stock",
+      "detail": "L / Burgundy / Velvet"
+    },
+    {
+      "product_id": "7685867241518",
+      "title": "Maeve Flora 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/maeve-flora-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'maevefloravideo', 'newin', 'old mauve', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'maevefloravideo', 'newin', 'old mauve', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "maevefloravideo",
+        "newin",
+        "old mauve",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "maevefloravideo",
+        "newin",
+        "old mauve",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685867241518",
+      "title": "Maeve Flora 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/maeve-flora-3pc-velvet-formal-dress?variant=42898246041646",
+      "kind": "Back in stock",
+      "detail": "M / Old Mauve / Velvet"
+    },
+    {
+      "product_id": "7685867241518",
+      "title": "Maeve Flora 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/maeve-flora-3pc-velvet-formal-dress?variant=42898246074414",
+      "kind": "Back in stock",
+      "detail": "L / Old Mauve / Velvet"
     },
     {
       "product_id": "7685869502510",
       "title": "Nargis 3Pc - Velvet Formal Dress",
-      "url": "https://batik.com.pk/products/nargis-3pc-velvet-formal-dress?variant=42898265702446",
-      "kind": "Sold out",
-      "detail": "S / Purple / Velvet"
+      "url": "https://batik.com.pk/products/nargis-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'Purple', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'nargisvideo', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'Purple', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'nargisvideo', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "Purple",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "nargisvideo",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "Purple",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "nargisvideo",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
     },
     {
-      "product_id": "7688664449070",
-      "title": "Pine Willow 3Pc - Embroidered Khaddar Pret",
-      "url": "https://batik.com.pk/products/pine-willow-3pc-embroidered-khaddar-pret?variant=42916812587054",
+      "product_id": "7685870878766",
+      "title": "Maroon Eris 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/maroon-eris-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'Maroon', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'maroonerisvideo', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'Maroon', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'maroonerisvideo', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "Maroon",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "maroonerisvideo",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "Maroon",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "maroonerisvideo",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685871140910",
+      "title": "Vareen 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/vareen-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Black', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'newin', 'vareenvideo', 'zargulvelvet'] → ['3pc', 'Black', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'batikstudio', 'luxuryfestivepret', 'newin', 'vareenvideo', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Black",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "newin",
+        "vareenvideo",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Black",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "batikstudio",
+        "luxuryfestivepret",
+        "newin",
+        "vareenvideo",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7685871140910",
+      "title": "Vareen 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/vareen-3pc-velvet-formal-dress?variant=42898277826606",
+      "kind": "Back in stock",
+      "detail": "S / Black / Velvet"
+    },
+    {
+      "product_id": "7685871140910",
+      "title": "Vareen 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/vareen-3pc-velvet-formal-dress?variant=42898277859374",
+      "kind": "Back in stock",
+      "detail": "M / Black / Velvet"
+    },
+    {
+      "product_id": "7685871140910",
+      "title": "Vareen 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/vareen-3pc-velvet-formal-dress?variant=42898277892142",
+      "kind": "Back in stock",
+      "detail": "L / Black / Velvet"
+    },
+    {
+      "product_id": "7685929304110",
+      "title": "Ayal 3Pc - Velvet Formal Dress",
+      "url": "https://batik.com.pk/products/ayal-3pc-velvet-formal-dress",
+      "kind": "Product updated",
+      "detail": "tags: ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'XL', 'XS', 'ayalvideo', 'batikstudio', 'deep maroon', 'luxuryfestivepret', 'newin', 'pret', 'zargulvelvet'] → ['3pc', 'Desire', 'Desire Formal', 'EXPLORE TOP PICKS', 'L', 'M', 'S', 'Velvet', 'XL', 'XS', 'ayalvideo', 'batikstudio', 'deep maroon', 'luxuryfestivepret', 'newin', 'pret', 'zargulvelvet', 'zargulvelvet1']",
+      "field": "tags",
+      "before": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "XL",
+        "XS",
+        "ayalvideo",
+        "batikstudio",
+        "deep maroon",
+        "luxuryfestivepret",
+        "newin",
+        "pret",
+        "zargulvelvet"
+      ],
+      "after": [
+        "3pc",
+        "Desire",
+        "Desire Formal",
+        "EXPLORE TOP PICKS",
+        "L",
+        "M",
+        "S",
+        "Velvet",
+        "XL",
+        "XS",
+        "ayalvideo",
+        "batikstudio",
+        "deep maroon",
+        "luxuryfestivepret",
+        "newin",
+        "pret",
+        "zargulvelvet",
+        "zargulvelvet1"
+      ]
+    },
+    {
+      "product_id": "7688661303342",
+      "title": "Black Charlotte 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/black-charlotte-3pc-embroidered-karandi-pret?variant=42916766613550",
+      "kind": "Back in stock",
+      "detail": "M / Black / Karandi"
+    },
+    {
+      "product_id": "7688663269422",
+      "title": "Kasuri 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/kasuri-3pc-embroidered-khaddar-pret?variant=42916805378094",
+      "kind": "Back in stock",
+      "detail": "XS / Fir Green / Khaddar"
+    },
+    {
+      "product_id": "7688663269422",
+      "title": "Kasuri 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/kasuri-3pc-embroidered-khaddar-pret?variant=42916805410862",
+      "kind": "Back in stock",
+      "detail": "S / Fir Green / Khaddar"
+    },
+    {
+      "product_id": "7688663269422",
+      "title": "Kasuri 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/kasuri-3pc-embroidered-khaddar-pret?variant=42916805443630",
+      "kind": "Back in stock",
+      "detail": "M / Fir Green / Khaddar"
+    },
+    {
+      "product_id": "7688663269422",
+      "title": "Kasuri 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/kasuri-3pc-embroidered-khaddar-pret?variant=42916805476398",
+      "kind": "Back in stock",
+      "detail": "L / Fir Green / Khaddar"
+    },
+    {
+      "product_id": "7688664514606",
+      "title": "Maroon Sozni 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/maroon-sozni-3pc-embroidered-khaddar-pret?variant=42916812783662",
+      "kind": "Back in stock",
+      "detail": "XS / Maroon / Khaddar"
+    },
+    {
+      "product_id": "7688664514606",
+      "title": "Maroon Sozni 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/maroon-sozni-3pc-embroidered-khaddar-pret?variant=42916812816430",
+      "kind": "Back in stock",
+      "detail": "S / Maroon / Khaddar"
+    },
+    {
+      "product_id": "7688664514606",
+      "title": "Maroon Sozni 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/maroon-sozni-3pc-embroidered-khaddar-pret?variant=42916812849198",
+      "kind": "Back in stock",
+      "detail": "M / Maroon / Khaddar"
+    },
+    {
+      "product_id": "7688664514606",
+      "title": "Maroon Sozni 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/maroon-sozni-3pc-embroidered-khaddar-pret?variant=42916812881966",
+      "kind": "Back in stock",
+      "detail": "L / Maroon / Khaddar"
+    },
+    {
+      "product_id": "7688664842286",
+      "title": "Grimoire 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/grimoire-3pc-embroidered-khaddar-pret?variant=42916815175726",
+      "kind": "Back in stock",
+      "detail": "M / Blue Jay / Khaddar"
+    },
+    {
+      "product_id": "7688664842286",
+      "title": "Grimoire 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/grimoire-3pc-embroidered-khaddar-pret?variant=42916815241262",
       "kind": "Sold out",
-      "detail": "L / Pine Grove / Khaddar"
+      "detail": "XL / Blue Jay / Khaddar"
     },
     {
       "product_id": "7691028824110",
       "title": "Elaf 3Pc - Velvet Formal Dress",
-      "url": "https://batik.com.pk/products/elaf-3pc-velvet-formal-dress?variant=42927649194030",
-      "kind": "Sold out",
-      "detail": "L / Red / Velvet"
+      "url": "https://batik.com.pk/products/elaf-3pc-velvet-formal-dress?variant=42927649161262",
+      "kind": "Back in stock",
+      "detail": "M / Red / Velvet"
+    },
+    {
+      "product_id": "7696378331182",
+      "title": "Maraith 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/maraith-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_3f8bec65-4f7c-40e2-83be-dfebe7931e5e.jpg?v=1795501876",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_90f780d5-cd1a-49f7-9163-49bf91c84f35.jpg?v=1795501876",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_dd92844f-d6a0-4acd-86e7-951519e64aeb.jpg?v=1795501876",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_37ac83ec-9214-4612-86c6-039f498ef9e6.jpg?v=1795501876",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_ae23a369-6c82-4b24-87f1-3e167e8d72fc.jpg?v=1795501876",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_e2c4023f-be72-44c4-bc32-3d34ae724dd3.jpg?v=1795501876",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_681fc1dc-d781-4e88-9daf-f6e7c44c6d09.jpg?v=1795501876",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_631cf0a5-ce08-43cd-a77f-92d3a688a55f.jpg?v=1795501876"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014570905646.jpg?v=1795579233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014570938414.jpg?v=1795579233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014570971182.jpg?v=1795579233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014571003950.jpg?v=1795579233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014571036718.jpg?v=1795579233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014571069486.jpg?v=1795579233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014571102254.jpg?v=1795579233",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014571135022.jpg?v=1795579222"
+      ]
+    },
+    {
+      "product_id": "7696384655406",
+      "title": "Samantha 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/samantha-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_05448be2-fa0e-4cf8-b3d6-0082246b66de.jpg?v=1795502225",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_a59ae6ba-65d5-45aa-9f0d-d87976a47193.jpg?v=1795502225",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_13f5394e-0818-4df9-9653-446cf2a9d580.jpg?v=1795502225",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_0a63c27b-ce0a-4530-9acc-fcef8a60f192.jpg?v=1795502225",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_4d7073bd-aa51-45be-9272-4eb6e4e12a6f.jpg?v=1795502225",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_a2c41ff5-0e47-4728-89aa-76c36f6c83e8.jpg?v=1795502225",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_444d01b0-0f29-4d4d-83a6-dca2b28e0711.jpg?v=1795502225",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_8f9ffaf2-d51c-4d67-b97f-909286bfcab9.jpg?v=1795502225"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014608621614.jpg?v=1795579221",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014608654382.jpg?v=1795579222",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014608687150.jpg?v=1795579222",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014608719918.jpg?v=1795579222",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014608752686.jpg?v=1795579222",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014608785454.jpg?v=1795579222",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014608818222.jpg?v=1795579222",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014608850990.jpg?v=1795579222"
+      ]
+    },
+    {
+      "product_id": "7696391602222",
+      "title": "Khirad 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/khirad-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_74fd8c46-11b7-4ec4-b86b-872b673f39e0.jpg?v=1795502322",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_6928d603-8589-4f7f-bfca-ba7b76b4ee79.jpg?v=1795502322",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_478dd578-5712-498a-b432-70f5fa7b8d10.jpg?v=1795502322",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_6be84396-61af-4f45-a8af-ee66d1875bbd.jpg?v=1795502322",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_d8e6936d-5384-4fed-bc3f-a01ff1344de3.jpg?v=1795502322",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_c1e5a45f-f5dd-4b28-ac89-a82869ed8215.jpg?v=1795502322",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_2c081907-58b6-4978-bd03-8c3c9db87a6d.jpg?v=1795502322",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_4ce571d0-8261-41a6-bb59-a1a46e915100.jpg?v=1795502322"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014621630510.jpg?v=1795579221",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014621663278.jpg?v=1795579221",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014621696046.jpg?v=1795579221",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014621728814.jpg?v=1795579221",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014621761582.jpg?v=1795579221",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014621794350.jpg?v=1795579221",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014621827118.jpg?v=1795579204",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014621859886.jpg?v=1795579204"
+      ]
+    },
+    {
+      "product_id": "7696405200942",
+      "title": "Maraal 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/maraal-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_024894ea-364b-411e-b0dd-20392d91cf03.jpg?v=1795502836",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_be6de748-82d7-4972-b3af-a3c08f68939b.jpg?v=1795502836",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_74be4dd2-6d45-4aef-a8f3-39ff741f11c2.jpg?v=1795502836",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_ae96892c-6e68-4d23-aa3c-67a29396261c.jpg?v=1795502836",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_468b8fa0-e032-4764-9d4d-df215a9ea4d2.jpg?v=1795502836",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_31e7d9a4-c85a-4ff6-b900-b17941d44875.jpg?v=1795502836",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_93bc2021-05c3-4dbc-bc8a-f6f2891f2e90.jpg?v=1795502836",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_43a3c3c4-e691-42d4-b567-cb6f76f780c0.jpg?v=1795502836"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014666489902.jpg?v=1795579204",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014666522670.jpg?v=1795579203",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014666555438.jpg?v=1795579204",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014666588206.jpg?v=1795579204",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014666620974.jpg?v=1795579203",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014666653742.jpg?v=1795579203",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014666686510.jpg?v=1795579204",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014666719278.jpg?v=1795579203"
+      ]
+    },
+    {
+      "product_id": "7696409165870",
+      "title": "Hanul 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/hanul-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_996b5b51-b073-4b94-b398-3250d59c4049.jpg?v=1795502914",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_a7422536-debf-4da5-b880-5eccddd62e44.jpg?v=1795502914",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_67fc256b-a62b-45e4-b925-0ce755494ede.jpg?v=1795502914",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_5450ea98-73ed-4d5c-a1fd-9c31e34ba0e7.jpg?v=1795502913",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_547762bc-d8f3-480f-b5fd-6ebc689131bd.jpg?v=1795502914",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_a3be199d-5829-4683-a519-90ba5d8815c4.jpg?v=1795502914",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_1f204327-2f29-459b-bf7c-ca9537135cc8.jpg?v=1795502914",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_9b078a6e-0f10-4228-b07a-647b7d4c1107.jpg?v=1795502914"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014676484142.jpg?v=1795579203",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014676516910.jpg?v=1795579203",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014676549678.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014676582446.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014676615214.jpg?v=1795579203",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014676647982.jpg?v=1795579203",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014676680750.jpg?v=1795579203",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014676713518.jpg?v=1795579185"
+      ]
+    },
+    {
+      "product_id": "7696416276526",
+      "title": "Rossa 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/rossa-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_ffaf0ece-d315-4745-8903-0814c3aa01e3.jpg?v=1795503228",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_b582a884-5c35-4405-a91f-3ff0c7738e82.jpg?v=1795503228",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_fffa2477-c219-483f-a629-e840c8fb80a8.jpg?v=1795503228",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_63442dce-1289-4c43-b52a-1bf7f6c7ba9a.jpg?v=1795503228",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_b4515963-8497-4d69-a7aa-1579fb813101.jpg?v=1795503228",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_844aa7f5-ee6c-4f32-ab7e-b7cb23ed690e.jpg?v=1795503228",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_3226c53b-dd83-4d65-b817-b551828bc605.jpg?v=1795503228",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_84e2b06a-9f55-4e1f-b624-59f64a24e48a.jpg?v=1795503228"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014723440686.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014723473454.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014723506222.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014723538990.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014723571758.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014723604526.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014723637294.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014723670062.jpg?v=1795579185"
+      ]
+    },
+    {
+      "product_id": "7696420569134",
+      "title": "Lustre 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/lustre-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_d8f59500-655a-422d-9a27-890e06a3b15d.jpg?v=1795503319",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_3d59a504-d242-4671-b04f-a11f4700627b.jpg?v=1795503318",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_556783f0-abd6-4189-8e68-7967cddc8584.jpg?v=1795503319",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_41c54599-ee3b-459f-8f40-b2b034d63520.jpg?v=1795503318",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_15d915ba-9e3c-438c-a800-0a6ef6ca7da5.jpg?v=1795503318",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_56cc7065-4a10-46d3-a7ee-894d13360c4d.jpg?v=1795503319",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_f548f888-bba4-4240-b1b7-bf4f8ca37961.jpg?v=1795503319",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_543052ac-7a97-417f-9652-fbdc243226b2.jpg?v=1795503319"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014735335470.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014735368238.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014735401006.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014735433774.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014735466542.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014735499310.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014735532078.jpg?v=1795579185",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014735564846.jpg?v=1795579185"
+      ]
+    },
+    {
+      "product_id": "7696432070702",
+      "title": "Mysha 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/mysha-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_23c07dd6-30b6-4941-82a1-55bf183730f9.jpg?v=1795503750",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_e7d7b23b-c38b-4dc0-a394-45f5b65e15ed.jpg?v=1795503751",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_e641ff0e-2270-4398-83f2-3ae39927d75e.jpg?v=1795503751",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_4ea785d4-5588-4726-b85d-311131a61176.jpg?v=1795503751",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_d2ae2fa3-9382-488e-9d26-5eebae03a1f2.jpg?v=1795503750",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_4bb43607-3936-4aff-a918-be52bbe15ad4.jpg?v=1795503751",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_1c9129f5-b075-4523-aff7-22e783c08faf.jpg?v=1795503751",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_6444ffa3-c287-4767-98e2-8eb353f1bde9.jpg?v=1795503750"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014808637486.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014808670254.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014808703022.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014808735790.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014808768558.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014808801326.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014808834094.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014808866862.jpg?v=1795579169"
+      ]
+    },
+    {
+      "product_id": "7696433053742",
+      "title": "Cosmic Bloom 3Pc - Embroidered Karandi Pret",
+      "url": "https://batik.com.pk/products/cosmic-bloom-3pc-embroidered-karandi-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_f7c8e8d9-565f-455f-9ec2-2a7bbae10333.jpg?v=1795503826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_ef955dbe-7ecf-4695-9552-7fa9909766e4.jpg?v=1795503826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_2e06887e-17a4-44b1-af74-3187e08f94c7.jpg?v=1795503828",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_288c1e70-f887-4842-8852-482e5f991616.jpg?v=1795503826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_351e3b1d-2513-4cea-afdb-88674bb6308f.jpg?v=1795503826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_74bad704-2e8a-4c5d-a3da-74abdcf91f0f.jpg?v=1795503826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_2cdcd847-a248-4b2c-aefe-ce6081e12b7c.jpg?v=1795503826",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_28961d8b-b254-432f-8066-4f691405d69a.jpg?v=1795503826"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014826856494.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014826889262.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014826922030.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014826954798.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014826987566.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014827020334.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014827053102.jpg?v=1795579169",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014827085870.jpg?v=1795579169"
+      ]
+    },
+    {
+      "product_id": "7696445210670",
+      "title": "Samaira 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/samaira-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_e0a6803f-e50e-42b0-aed1-fe067d8fe7c8.jpg?v=1795504040",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_01feaa2f-99b6-4005-8472-e62c0af81275.jpg?v=1795504041",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_edfd3ec0-9e43-4715-98f4-35e97d46ca3b.jpg?v=1795504040",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_90c14f10-84ea-402d-b906-4bdea59d46ea.jpg?v=1795504041",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_96f33656-677e-4445-8cdf-92e3b552c7bc.jpg?v=1795504040",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_e85764c3-9428-43f2-92ee-e614ad4cb3b9.jpg?v=1795504041",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_57c1bc25-5461-4be8-9144-8a1e837031d2.jpg?v=1795504040",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_14b56723-32e1-4362-8d68-b4b8bc9563eb.jpg?v=1795504040"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014860771374.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014860804142.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014860836910.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014860869678.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014860902446.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014860935214.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014860967982.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014861000750.jpg?v=1795579152"
+      ]
+    },
+    {
+      "product_id": "7696446914606",
+      "title": "Scott 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/scott-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_afd51225-70cc-4242-be23-847004c9820d.jpg?v=1795504336",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_d43691a5-8efd-40e1-b7e4-b1abacdbab1b.jpg?v=1795504336",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_b253ee6e-6b91-4763-93c0-ca301a06f538.jpg?v=1795504336",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_f0eb93ab-174a-4b8c-b22f-66aa6dc01ffd.jpg?v=1795504336",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_c48103a3-f324-4fe6-a285-fbc6ecea24a4.jpg?v=1795504336",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_b9794c13-7b3a-4992-b5be-542a3f5f549b.jpg?v=1795504336",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_eecdaf57-8789-438a-98be-af19e1eeeb6c.jpg?v=1795504336",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_7f290567-27b4-4a03-a08d-141c1e8371be.jpg?v=1795504335"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014865719342.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014865752110.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014865784878.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014865817646.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014865850414.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014865883182.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014865915950.jpg?v=1795579152",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014865948718.jpg?v=1795579134"
+      ]
+    },
+    {
+      "product_id": "7696447143982",
+      "title": "Shahnoor 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/shahnoor-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_883251b3-6a51-485d-8c7f-e4e40ce90fd4.jpg?v=1795504575",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_db943c37-b67d-420c-946e-c56d32aee93b.jpg?v=1795504575",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_7ffd0a72-73d8-4470-bbfa-466ca2656658.jpg?v=1795504575",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_e0523d06-cd3d-424c-b2f4-13e039e81354.jpg?v=1795504575",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_108b2df4-4166-433c-9476-2d1a313f5bc3.jpg?v=1795504575",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_f3b2440d-0bb2-473c-80b8-92a480ab5c6e.jpg?v=1795504575",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_07ae027f-bcb4-4808-b916-926fbf8145f7.jpg?v=1795504575",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_af291acd-920c-4468-83e2-9180089382de.jpg?v=1795504575"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014869782574.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014869815342.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014869848110.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014869880878.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014869913646.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014869946414.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014869979182.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014870011950.jpg?v=1795579134"
+      ]
+    },
+    {
+      "product_id": "7696448716846",
+      "title": "Aaryz 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/aaryz-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_7a68910f-b4d5-48a2-af82-019446e32cc0.jpg?v=1795504714",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_b9537a02-2199-4b79-96f3-664ccddbdeea.jpg?v=1795504714",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_408b41ed-1fc2-4fc7-9a99-18f88ea18bde.jpg?v=1795504714",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_8ab563f3-2e56-45ca-ab93-6e78d8a4293c.jpg?v=1795504714",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_233eafaa-d0e2-4410-a5a8-edf313cf7dd4.jpg?v=1795504714",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_08f64167-466d-4de3-864f-7e4d3f1d2fd0.jpg?v=1795504714",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_3f383930-b58f-4311-93f4-670ec5a9ac8c.jpg?v=1795504714",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_addf5a9f-7d5b-47cf-86fb-00cb289a5f42.jpg?v=1795504714"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014888329262.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014888362030.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014888394798.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014888427566.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014888460334.jpg?v=1795579134",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014888493102.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014888525870.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014888558638.jpg?v=1795579115"
+      ]
+    },
+    {
+      "product_id": "7696454484014",
+      "title": "Rang e Maah 3Pc - Embroidered Khaddar Pret",
+      "url": "https://batik.com.pk/products/rang-e-maah-3pc-embroidered-khaddar-pret",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/1_e004b519-b2e9-45b3-850d-5695bac6c1da.jpg?v=1795504887",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/2_9142a6a5-923c-4328-b5aa-c08e0ccc4253.jpg?v=1795504887",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/3_1928079d-3e34-4fa3-9c4d-7d0e9ceb8515.jpg?v=1795504887",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/4_ecd5d018-2276-42f3-8c2a-73bc5590e016.jpg?v=1795504887",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/5_2800a7fa-519f-428f-b663-e7e50ccbd5ae.jpg?v=1795504887",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/6_355884e8-841c-4fa4-a97d-a3b7ccf9679a.jpg?v=1795504887",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/7_7f189554-d6f9-44f1-a383-00f0fb48d4c5.jpg?v=1795504887",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/8_348362ee-4655-40b2-982e-584812459b91.jpg?v=1795504887"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014906679342.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014906712110.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014906744878.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014906777646.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014906810414.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014906843182.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014906875950.jpg?v=1795579115",
+        "https://cdn.shopify.com/s/files/1/0047/7967/1598/files/26014906908718.jpg?v=1795579115"
+      ]
     }
   ]
 }
