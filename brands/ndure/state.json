@@ -3,7 +3,7 @@
   "source": "https://www.ndure.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-25T01:23:25.447513+00:00",
+  "checked_at": "2026-11-25T12:17:11.103688+00:00",
   "products": {
     "8997266686120": {
       "id": "8997266686120",
@@ -12649,7 +12649,7 @@
             "CBT/BLU"
           ],
           "sku": "B-SN-KNO-0003:CBT/BLU:36",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -25969,7 +25969,7 @@
             "BLACK"
           ],
           "sku": "B-SN-ARS-0005:BLACK:34",
-          "available": false,
+          "available": true,
           "price": 209900,
           "compare_at_price": 299900
         },
@@ -31552,7 +31552,7 @@
             "BROWN"
           ],
           "sku": "B-SN-CLD-0001:BROWN:31",
-          "available": false,
+          "available": true,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -75945,14 +75945,17 @@
       "type": "Mens Footwear",
       "description": "<p>Recharge every step with lightweight comfort and support for all-day energy.</p><ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\"> <li style=\"margin-bottom: 12px;\">This pair is crafted from high-quality synthetic leather, ensuring durability.</li> <li style=\"margin-bottom: 12px;\">These slides feature a round toe shape and a Boost midsole for enhanced comfort and grip.</li> <li style=\"margin-bottom: 12px;\">The EVA outsole offers comfort, durability, and keeps the shoe lightweight.</li>\n</ul>",
       "tags": [
+        "030",
         "1BS",
         "1Everyday",
         "1Revised",
         "1SPC",
+        "1Sale",
         "1Summer25",
         "1allopen",
         "1men",
         "ALL SHOES",
+        "FLAT30",
         "M&W",
         "Men",
         "Ndure",
@@ -76023,7 +76026,7 @@
             "BLACK"
           ],
           "sku": "M-PL-OAS-0003:BLACK:42",
-          "available": false,
+          "available": true,
           "price": 174900,
           "compare_at_price": 249900
         },
@@ -76064,7 +76067,7 @@
           "compare_at_price": 249900
         }
       },
-      "available": false
+      "available": true
     },
     "8789971828904": {
       "id": "8789971828904",
@@ -89019,7 +89022,7 @@
             "TAN"
           ],
           "sku": "M-BF-WEL-0008:TAN:42",
-          "available": true,
+          "available": false,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -108639,7 +108642,7 @@
             "BROWN"
           ],
           "sku": "M-BF-MNT-0008:BROWN:45",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         }
@@ -110733,7 +110736,7 @@
             "BLACK"
           ],
           "sku": "M-LF-RCP-0011:BLACK:43",
-          "available": true,
+          "available": false,
           "price": 300900,
           "compare_at_price": 429900
         },
@@ -119715,7 +119718,7 @@
             "BLACK"
           ],
           "sku": "M-BF-PAB-0006:BLACK:45",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         }
@@ -123852,7 +123855,7 @@
             "D.BROWN"
           ],
           "sku": "M-PE-KAP-0002:D.BROWN:45",
-          "available": true,
+          "available": false,
           "price": 188900,
           "compare_at_price": 269900
         }
@@ -137670,7 +137673,7 @@
             "WHITE"
           ],
           "sku": "M-SC-URB-0014:WHITE:40",
-          "available": false,
+          "available": true,
           "price": 314900,
           "compare_at_price": 449900
         },
@@ -138400,7 +138403,7 @@
             "BLACK"
           ],
           "sku": "M-PR-KAY-0006:BLACK:43",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -141489,7 +141492,7 @@
             "WHT/TAN"
           ],
           "sku": "M-SN-MTN-0003:WHT/TAN:44",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         }
@@ -153767,7 +153770,7 @@
             "GREY"
           ],
           "sku": "M-PR-MIS-0006:GREY:42",
-          "available": true,
+          "available": false,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -162710,7 +162713,7 @@
             "BLACK"
           ],
           "sku": "M-PR-ORI-0002:BLACK:42",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -162722,7 +162725,7 @@
             "BLACK"
           ],
           "sku": "M-PR-ORI-0002:BLACK:43",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -162746,7 +162749,7 @@
             "BLACK"
           ],
           "sku": "M-PR-ORI-0002:BLACK:45",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         }
@@ -185556,7 +185559,7 @@
             "BLK/BLU"
           ],
           "sku": "M-PR-LOK-0014:BLK/BLU:42",
-          "available": false,
+          "available": true,
           "price": 328900,
           "compare_at_price": 469900
         },
@@ -197898,6 +197901,133 @@
       },
       "available": true
     },
+    "15503917645992": {
+      "id": "15503917645992",
+      "title": "Vega Easy Fit Sneakers",
+      "handle": "vega-easy-fit-sneakers-m-pr-veg-0003-grey",
+      "url": "https://www.ndure.com/products/vega-easy-fit-sneakers-m-pr-veg-0003-grey",
+      "vendor": "Ndure",
+      "type": "Mens Footwear",
+      "description": "<p>Vega Easy Fit Sneakers featuring a breathable engineered knit upper and a streamlined slip-on design. The easy-fit construction makes them convenient to wear, while the sporty silhouette and distinctive sole detailing make them a great choice for active days and everyday wear.</p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Engineered Knit</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Thermoplastic Rubber</li>\n<li style=\"margin-bottom: 12px;\">Fashion Silhouette: Slip-On Sneakers</li>\n</ul>",
+      "tags": [
+        "030",
+        "1Sale",
+        "1men",
+        "ALL SHOES",
+        "AW26",
+        "AW26 all",
+        "FLAT30",
+        "M&W",
+        "M&WSNEAK",
+        "Men",
+        "Mens Footwear",
+        "color:BLACK:vega-easy-fit-sneakers-m-pr-veg-0003-black",
+        "nsneakers"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/M-PR-VEG-0003-GREY_1.jpg?v=1795600477",
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/M-PR-VEG-0003-GREY_2.jpg?v=1795600477",
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/M-PR-VEG-0003-GREY_3.jpg?v=1795600477",
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/M-PR-VEG-0003-GREY_4.jpg?v=1795600477",
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/M-PR-VEG-0003-GREY_5.jpg?v=1795600477"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "40/6",
+            "41/7",
+            "42/8",
+            "43/9",
+            "44/10",
+            "45/11"
+          ]
+        },
+        {
+          "name": "color",
+          "position": 2,
+          "values": [
+            "GREY"
+          ]
+        }
+      ],
+      "variants": {
+        "67857052369064": {
+          "id": "67857052369064",
+          "title": "40/6 / GREY",
+          "options": [
+            "40/6",
+            "GREY"
+          ],
+          "sku": "M-PR-VEG-0003:GREY:40",
+          "available": false,
+          "price": 699900,
+          "compare_at_price": 999900
+        },
+        "67857052401832": {
+          "id": "67857052401832",
+          "title": "41/7 / GREY",
+          "options": [
+            "41/7",
+            "GREY"
+          ],
+          "sku": "M-PR-VEG-0003:GREY:41",
+          "available": true,
+          "price": 699900,
+          "compare_at_price": 999900
+        },
+        "67857052434600": {
+          "id": "67857052434600",
+          "title": "42/8 / GREY",
+          "options": [
+            "42/8",
+            "GREY"
+          ],
+          "sku": "M-PR-VEG-0003:GREY:42",
+          "available": true,
+          "price": 699900,
+          "compare_at_price": 999900
+        },
+        "67857052467368": {
+          "id": "67857052467368",
+          "title": "43/9 / GREY",
+          "options": [
+            "43/9",
+            "GREY"
+          ],
+          "sku": "M-PR-VEG-0003:GREY:43",
+          "available": true,
+          "price": 699900,
+          "compare_at_price": 999900
+        },
+        "67857052500136": {
+          "id": "67857052500136",
+          "title": "44/10 / GREY",
+          "options": [
+            "44/10",
+            "GREY"
+          ],
+          "sku": "M-PR-VEG-0003:GREY:44",
+          "available": true,
+          "price": 699900,
+          "compare_at_price": 999900
+        },
+        "67857052532904": {
+          "id": "67857052532904",
+          "title": "45/11 / GREY",
+          "options": [
+            "45/11",
+            "GREY"
+          ],
+          "sku": "M-PR-VEG-0003:GREY:45",
+          "available": true,
+          "price": 699900,
+          "compare_at_price": 999900
+        }
+      },
+      "available": true
+    },
     "15503966830760": {
       "id": "15503966830760",
       "title": "Vega Easy Fit Sneakers",
@@ -201408,6 +201538,133 @@
           "available": false,
           "price": 139900,
           "compare_at_price": 199900
+        }
+      },
+      "available": true
+    },
+    "15425434288296": {
+      "id": "15425434288296",
+      "title": "Women's Bow Detail Slingback Flats",
+      "handle": "womens-bow-detail-slingback-flats-w-bl-lyx-0010-beige",
+      "url": "https://www.ndure.com/products/womens-bow-detail-slingback-flats-w-bl-lyx-0010-beige",
+      "vendor": "Ndure",
+      "type": "Womens Footwear",
+      "description": "<p>Women's Bow Detail Slingback Flats featuring a pointed toe, a statement bow accent, and a slim slingback strap. The feminine silhouette pairs effortlessly with both everyday outfits and occasion wear.</p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Fashion Silhouette: Slingback Flats</li>\n</ul>",
+      "tags": [
+        "030",
+        "1Sale",
+        "1women",
+        "ALL SHOES",
+        "AW26",
+        "AW26 all",
+        "Chappals / Flats",
+        "FLAT30",
+        "M&W",
+        "S&S",
+        "Women",
+        "Womens Footwear",
+        "color:ESPRESSO:Womens-Bow-Detail-Slingback-Flats-W-BL-LYX-0010-ESPRESSO"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/W-BL-LYX-0010-BEIGE_1.jpg?v=1795517906",
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/W-BL-LYX-0010-BEIGE_2.jpg?v=1795517906",
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/W-BL-LYX-0010-BEIGE_3.jpg?v=1795517906",
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/W-BL-LYX-0010-BEIGE_4.jpg?v=1795517905",
+        "https://cdn.shopify.com/s/files/1/0371/5416/0772/files/W-BL-LYX-0010-BEIGE_5.jpg?v=1795517906"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36/4",
+            "37/5",
+            "38/6",
+            "39/7",
+            "40/8",
+            "41/9"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BEIGE"
+          ]
+        }
+      ],
+      "variants": {
+        "67663379005608": {
+          "id": "67663379005608",
+          "title": "36/4 / BEIGE",
+          "options": [
+            "36/4",
+            "BEIGE"
+          ],
+          "sku": "W-BL-LYX-0010:BEIGE:36",
+          "available": true,
+          "price": 314900,
+          "compare_at_price": 449900
+        },
+        "67663379038376": {
+          "id": "67663379038376",
+          "title": "37/5 / BEIGE",
+          "options": [
+            "37/5",
+            "BEIGE"
+          ],
+          "sku": "W-BL-LYX-0010:BEIGE:37",
+          "available": true,
+          "price": 314900,
+          "compare_at_price": 449900
+        },
+        "67663379071144": {
+          "id": "67663379071144",
+          "title": "38/6 / BEIGE",
+          "options": [
+            "38/6",
+            "BEIGE"
+          ],
+          "sku": "W-BL-LYX-0010:BEIGE:38",
+          "available": true,
+          "price": 314900,
+          "compare_at_price": 449900
+        },
+        "67663379103912": {
+          "id": "67663379103912",
+          "title": "39/7 / BEIGE",
+          "options": [
+            "39/7",
+            "BEIGE"
+          ],
+          "sku": "W-BL-LYX-0010:BEIGE:39",
+          "available": true,
+          "price": 314900,
+          "compare_at_price": 449900
+        },
+        "67663379136680": {
+          "id": "67663379136680",
+          "title": "40/8 / BEIGE",
+          "options": [
+            "40/8",
+            "BEIGE"
+          ],
+          "sku": "W-BL-LYX-0010:BEIGE:40",
+          "available": true,
+          "price": 314900,
+          "compare_at_price": 449900
+        },
+        "67663379169448": {
+          "id": "67663379169448",
+          "title": "41/9 / BEIGE",
+          "options": [
+            "41/9",
+            "BEIGE"
+          ],
+          "sku": "W-BL-LYX-0010:BEIGE:41",
+          "available": true,
+          "price": 314900,
+          "compare_at_price": 449900
         }
       },
       "available": true
@@ -261870,7 +262127,7 @@
             "CRANBERRY"
           ],
           "sku": "W-PL-OAS-0004:CRANBERRY:40",
-          "available": true,
+          "available": false,
           "price": 153900,
           "compare_at_price": 219900
         },
@@ -276605,7 +276862,7 @@
             "BLACK"
           ],
           "sku": "W-WG-MAN-0007:BLACK:41",
-          "available": false,
+          "available": true,
           "price": 300900,
           "compare_at_price": 429900
         }
@@ -288569,7 +288826,7 @@
             "BEIGE"
           ],
           "sku": "W-BL-AMB-0018:BEIGE:40",
-          "available": false,
+          "available": true,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -305824,7 +306081,7 @@
             "RED"
           ],
           "sku": "W-SN-MDN-0002:RED:38",
-          "available": false,
+          "available": true,
           "price": 279900,
           "compare_at_price": 399900
         },
