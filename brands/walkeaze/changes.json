@@ -1,22 +1,29 @@
 {
-  "checked_at": "2026-11-25T01:28:57.353941+00:00",
+  "checked_at": "2026-11-25T12:21:49.237370+00:00",
   "baseline_created": false,
   "product_count": 249,
-  "change_count": 9,
+  "change_count": 252,
   "changes": [
     {
-      "product_id": "15443793936632",
-      "title": "Imported Casual Flip-Flop - 98578S",
-      "url": "https://walkeaze.com/products/women-casual-flip-flop-98578s?variant=67790023917816",
-      "kind": "Sold out",
-      "detail": "Black / 38"
+      "product_id": "15505262641400",
+      "title": "Imported Casual Softy - 98590S",
+      "url": "https://walkeaze.com/products/98590s-softy?variant=68085537865976",
+      "kind": "Back in stock",
+      "detail": "Nude / 41"
     },
     {
-      "product_id": "15505262805240",
-      "title": "Imported Casual Softy - 98597S",
-      "url": "https://walkeaze.com/products/98597s-softy",
+      "product_id": "15505262772472",
+      "title": "Imported Casual Softy - 98596S",
+      "url": "https://walkeaze.com/products/98596s-softy?variant=68085540192504",
+      "kind": "Back in stock",
+      "detail": "Camel / 41"
+    },
+    {
+      "product_id": "15525283201272",
+      "title": "Imported Formal Slingback - 98600S",
+      "url": "https://walkeaze.com/products/98600s-court-shoes",
       "kind": "Product updated",
-      "detail": "tags: ['20per', '36', '37', '38', '39', '40', '41', 'Black', 'Black and White', 'Camel', 'FOOTWEAR', 'FR', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['20per', '36', '37', '38', '39', '41', 'Black', 'Black and White', 'Camel', 'FOOTWEAR', 'FR', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "detail": "tags: ['20per', '36', '37', '38', '39', 'FOOTWEAR', 'FR', 'Festive', 'Golden', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Silver', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'party-wear'] → ['20per', '36', '37', '38', '39', '40', 'FOOTWEAR', 'FR', 'Festive', 'Golden', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Silver', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'party-wear']",
       "field": "tags",
       "before": [
         "20per",
@@ -24,13 +31,255 @@
         "37",
         "38",
         "39",
-        "40",
-        "41",
-        "Black",
-        "Black and White",
-        "Camel",
         "FOOTWEAR",
         "FR",
+        "Festive",
+        "Golden",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Silver",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "party-wear"
+      ],
+      "after": [
+        "20per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Golden",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Silver",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "15525283201272",
+      "title": "Imported Formal Slingback - 98600S",
+      "url": "https://walkeaze.com/products/98600s-court-shoes?variant=68198350881016",
+      "kind": "Back in stock",
+      "detail": "Silver / 40"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '38', '39', '40', '41', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Life Style Images', 'Lowest', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Special offer', 'WALKEAZE', 'Wedding Edit', 'Wedge'] → ['38', '39', '40', '41', '50per', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Life Style Images', 'Lowest', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Special offer', 'WALKEAZE', 'Wedding Edit', 'Wedge']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "38",
+        "39",
+        "40",
+        "41",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Life Style Images",
+        "Lowest",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Special offer",
+        "WALKEAZE",
+        "Wedding Edit",
+        "Wedge"
+      ],
+      "after": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "50per",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Life Style Images",
+        "Lowest",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Special offer",
+        "WALKEAZE",
+        "Wedding Edit",
+        "Wedge"
+      ]
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409324280",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409357048",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409389816",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409422584",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409455352",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409488120",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409520888",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409553656",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409586424",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409619192",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409651960",
+      "kind": "Price decreased",
+      "detail": "Black / 41: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9227476140280",
+      "title": "Imported Formal Wedge - 98447S",
+      "url": "https://walkeaze.com/products/98447s-wedge?variant=47231409684728",
+      "kind": "Price decreased",
+      "detail": "Beige / 41: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9247697404152",
+      "title": "GIrls Casual Softy - 000014kS",
+      "url": "https://walkeaze.com/products/000014ks-softys",
+      "kind": "Product updated",
+      "detail": "tags: ['50per', 'Best Seller', 'Black and White', 'FR', 'Girls', 'Girls Softy', 'Life Style Images', 'Signature Edit', 'Special offer', 'Summer Solace', 'WALKEAZE', 'Wedding Edit', 'party-wear'] → ['32', '50per', 'Best Seller', 'Black', 'Black and White', 'FR', 'Girls', 'Girls Softy', 'Life Style Images', 'Signature Edit', 'Special offer', 'Summer Solace', 'WALKEAZE', 'Wedding Edit', 'party-wear']",
+      "field": "tags",
+      "before": [
+        "50per",
+        "Best Seller",
+        "Black and White",
+        "FR",
+        "Girls",
+        "Girls Softy",
+        "Life Style Images",
+        "Signature Edit",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "Wedding Edit",
+        "party-wear"
+      ],
+      "after": [
+        "32",
+        "50per",
+        "Best Seller",
+        "Black",
+        "Black and White",
+        "FR",
+        "Girls",
+        "Girls Softy",
+        "Life Style Images",
+        "Signature Edit",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "Wedding Edit",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "9247697404152",
+      "title": "GIrls Casual Softy - 000014kS",
+      "url": "https://walkeaze.com/products/000014ks-softys?variant=47027118833912",
+      "kind": "Back in stock",
+      "detail": "Black / 32"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '40', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Gray', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['40', '50per', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Gray', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "40",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Gray",
         "Life Style Images",
         "Miss Signature",
         "Mother day",
@@ -42,17 +291,13 @@
         "WALKEAZE"
       ],
       "after": [
-        "20per",
-        "36",
-        "37",
-        "38",
-        "39",
-        "41",
+        "40",
+        "50per",
         "Black",
         "Black and White",
-        "Camel",
         "FOOTWEAR",
         "FR",
+        "Gray",
         "Life Style Images",
         "Miss Signature",
         "Mother day",
@@ -65,24 +310,1426 @@
       ]
     },
     {
-      "product_id": "15505262805240",
-      "title": "Imported Casual Softy - 98597S",
-      "url": "https://walkeaze.com/products/98597s-softy?variant=68085540487416",
-      "kind": "Sold out",
-      "detail": "Black / 40"
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258624248",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258657016",
+      "kind": "Price decreased",
+      "detail": "Gray / 36: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258689784",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258722552",
+      "kind": "Price decreased",
+      "detail": "Gray / 37: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258755320",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258788088",
+      "kind": "Price decreased",
+      "detail": "Gray / 38: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258820856",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258853624",
+      "kind": "Price decreased",
+      "detail": "Gray / 39: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258886392",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258919160",
+      "kind": "Price decreased",
+      "detail": "Gray / 40: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258951928",
+      "kind": "Price decreased",
+      "detail": "Black / 41: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437681912",
+      "title": "Imported Casual Softy - 98436S",
+      "url": "https://walkeaze.com/products/98436s-softy?variant=47231258984696",
+      "kind": "Price decreased",
+      "detail": "Gray / 41: PKR 7,050.00 → PKR 4,700.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '39', '40', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Life Style Images', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['39', '40', '50per', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Life Style Images', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "39",
+        "40",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Life Style Images",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ],
+      "after": [
+        "39",
+        "40",
+        "50per",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Life Style Images",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ]
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250006264",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250039032",
+      "kind": "Price decreased",
+      "detail": "Fawn / 36: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250071800",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250104568",
+      "kind": "Price decreased",
+      "detail": "Fawn / 37: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250137336",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250170104",
+      "kind": "Price decreased",
+      "detail": "Fawn / 38: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250202872",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250235640",
+      "kind": "Price decreased",
+      "detail": "Fawn / 39: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250268408",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250301176",
+      "kind": "Price decreased",
+      "detail": "Fawn / 40: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250333944",
+      "kind": "Price decreased",
+      "detail": "Black / 41: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261437845752",
+      "title": "Imported Casual Softy - 98440S",
+      "url": "https://walkeaze.com/products/98440s-softy?variant=47231250366712",
+      "kind": "Price decreased",
+      "detail": "Fawn / 41: PKR 7,538.00 → PKR 5,025.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '39', '40', '41', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Fawn', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['39', '40', '41', '50per', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Fawn', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "39",
+        "40",
+        "41",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Fawn",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ],
+      "after": [
+        "39",
+        "40",
+        "41",
+        "50per",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Fawn",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ]
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229198584",
+      "kind": "Price decreased",
+      "detail": "Fawn / 36: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229231352",
+      "kind": "Price decreased",
+      "detail": "Fawn / 37: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229264120",
+      "kind": "Price decreased",
+      "detail": "Fawn / 38: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229296888",
+      "kind": "Price decreased",
+      "detail": "Fawn / 39: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229329656",
+      "kind": "Price decreased",
+      "detail": "Fawn / 40: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229362424",
+      "kind": "Price decreased",
+      "detail": "Fawn / 41: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229395192",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229427960",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229460728",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229493496",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229526264",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9261438271736",
+      "title": "Imported Casual Softy - 98456S",
+      "url": "https://walkeaze.com/products/98456s-softy?variant=47231229559032",
+      "kind": "Price decreased",
+      "detail": "Black / 41: PKR 6,938.00 → PKR 4,625.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'BRIDAL', 'BRIDALS', 'Beige', 'Black', 'Black and White', 'Court-Shoes', 'FOOTWEAR', 'FR', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Signature Edit', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear'] → ['36', '37', '38', '39', '40', '50per', 'BRIDAL', 'BRIDALS', 'Beige', 'Black', 'Black and White', 'Court-Shoes', 'FOOTWEAR', 'FR', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Signature Edit', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "BRIDAL",
+        "BRIDALS",
+        "Beige",
+        "Black",
+        "Black and White",
+        "Court-Shoes",
+        "FOOTWEAR",
+        "FR",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Signature Edit",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ],
+      "after": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "50per",
+        "BRIDAL",
+        "BRIDALS",
+        "Beige",
+        "Black",
+        "Black and White",
+        "Court-Shoes",
+        "FOOTWEAR",
+        "FR",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Signature Edit",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405233912",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405266680",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405299448",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405332216",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405364984",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405397752",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405430520",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405463288",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405496056",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405528824",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405561592",
+      "kind": "Price decreased",
+      "detail": "Maroon / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405594360",
+      "kind": "Price decreased",
+      "detail": "Maroon / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405627128",
+      "kind": "Price decreased",
+      "detail": "Maroon / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405659896",
+      "kind": "Price decreased",
+      "detail": "Maroon / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520792312",
+      "title": "Imported Formal Court-Shoes - 98458S",
+      "url": "https://walkeaze.com/products/98458s-court-shoes?variant=47312405692664",
+      "kind": "Price decreased",
+      "detail": "Maroon / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Speacial offer', 'WALKEAZE', 'Wedding Edit', 'bridal-wear'] → ['36', '37', '38', '39', '40', '50per', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Speacial offer', 'WALKEAZE', 'Wedding Edit', 'bridal-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Speacial offer",
+        "WALKEAZE",
+        "Wedding Edit",
+        "bridal-wear"
+      ],
+      "after": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "50per",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Speacial offer",
+        "WALKEAZE",
+        "Wedding Edit",
+        "bridal-wear"
+      ]
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406249720",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406282488",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406315256",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406348024",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406380792",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406413560",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406446328",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406479096",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406511864",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520890616",
+      "title": "Imported Formal Heel - 98460S",
+      "url": "https://walkeaze.com/products/98460s-heel?variant=47312406544632",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 9,413.00 → PKR 6,275.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Speacial offer', 'WALKEAZE', 'Wedding Edit', 'bridal-wear'] → ['36', '37', '38', '39', '40', '50per', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Speacial offer', 'WALKEAZE', 'Wedding Edit', 'bridal-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Speacial offer",
+        "WALKEAZE",
+        "Wedding Edit",
+        "bridal-wear"
+      ],
+      "after": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "50per",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Speacial offer",
+        "WALKEAZE",
+        "Wedding Edit",
+        "bridal-wear"
+      ]
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406577400",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406610168",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406642936",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406675704",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406708472",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406741240",
+      "kind": "Price decreased",
+      "detail": "Maroon / 36: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406774008",
+      "kind": "Price decreased",
+      "detail": "Maroon / 37: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406806776",
+      "kind": "Price decreased",
+      "detail": "Maroon / 38: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406839544",
+      "kind": "Price decreased",
+      "detail": "Maroon / 39: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520923384",
+      "title": "Imported Formal Heel - 98461S",
+      "url": "https://walkeaze.com/products/98461s-heel?variant=47312406872312",
+      "kind": "Price decreased",
+      "detail": "Maroon / 40: PKR 8,738.00 → PKR 5,825.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Speacial offer', 'WALKEAZE', 'Wedding Edit'] → ['36', '37', '38', '39', '40', '50per', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Speacial offer', 'WALKEAZE', 'Wedding Edit']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Speacial offer",
+        "WALKEAZE",
+        "Wedding Edit"
+      ],
+      "after": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "50per",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Speacial offer",
+        "WALKEAZE",
+        "Wedding Edit"
+      ]
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312406905080",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312406970616",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312407036152",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312407101688",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312407167224",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312407232760",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312407265528",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312407298296",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312407331064",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276520956152",
+      "title": "Imported Formal Heel - 98462S",
+      "url": "https://walkeaze.com/products/98462s-heel?variant=47312407363832",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'BRIDAL', 'BRIDALS', 'Beige', 'Black', 'Black and White', 'Court-Shoes', 'FOOTWEAR', 'FR', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Signature Edit', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear'] → ['36', '37', '38', '39', '40', '50per', 'BRIDAL', 'BRIDALS', 'Beige', 'Black', 'Black and White', 'Court-Shoes', 'FOOTWEAR', 'FR', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Signature Edit', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "BRIDAL",
+        "BRIDALS",
+        "Beige",
+        "Black",
+        "Black and White",
+        "Court-Shoes",
+        "FOOTWEAR",
+        "FR",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Signature Edit",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ],
+      "after": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "50per",
+        "BRIDAL",
+        "BRIDALS",
+        "Beige",
+        "Black",
+        "Black and White",
+        "Court-Shoes",
+        "FOOTWEAR",
+        "FR",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Signature Edit",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407560440",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407593208",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407625976",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407658744",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407691512",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407724280",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407757048",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407789816",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407822584",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407855352",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407888120",
+      "kind": "Price decreased",
+      "detail": "Maroon / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407920888",
+      "kind": "Price decreased",
+      "detail": "Maroon / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407953656",
+      "kind": "Price decreased",
+      "detail": "Maroon / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312407986424",
+      "kind": "Price decreased",
+      "detail": "Maroon / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521021688",
+      "title": "Imported Formal Court-Shoes - 98464S",
+      "url": "https://walkeaze.com/products/98464s-court-shoes?variant=47312408019192",
+      "kind": "Price decreased",
+      "detail": "Maroon / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'BRIDAL', 'BRIDALS', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear'] → ['36', '37', '38', '39', '40', '50per', 'BRIDAL', 'BRIDALS', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "BRIDAL",
+        "BRIDALS",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ],
+      "after": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "50per",
+        "BRIDAL",
+        "BRIDALS",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408051960",
+      "kind": "Price decreased",
+      "detail": "Maroon / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408084728",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408117496",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408150264",
+      "kind": "Price decreased",
+      "detail": "Maroon / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408183032",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408215800",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408248568",
+      "kind": "Price decreased",
+      "detail": "Maroon / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408281336",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408314104",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408346872",
+      "kind": "Price decreased",
+      "detail": "Maroon / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408379640",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408412408",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408445176",
+      "kind": "Price decreased",
+      "detail": "Maroon / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408477944",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521054456",
+      "title": "Imported Formal Slingback - 98465S",
+      "url": "https://walkeaze.com/products/98465s-court-shoes?variant=47312408510712",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'BRIDAL', 'BRIDALS', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear'] → ['36', '37', '38', '39', '40', '50per', 'BRIDAL', 'BRIDALS', 'Beige', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Maroon', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "BRIDAL",
+        "BRIDALS",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ],
+      "after": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "50per",
+        "BRIDAL",
+        "BRIDALS",
+        "Beige",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Maroon",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408543480",
+      "kind": "Price decreased",
+      "detail": "Maroon / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408576248",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408609016",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408641784",
+      "kind": "Price decreased",
+      "detail": "Maroon / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408674552",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408707320",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408740088",
+      "kind": "Price decreased",
+      "detail": "Maroon / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408772856",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408805624",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408838392",
+      "kind": "Price decreased",
+      "detail": "Maroon / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408871160",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408903928",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408936696",
+      "kind": "Price decreased",
+      "detail": "Maroon / 40: PKR 9,675.00 → PKR 6,450.00"
     },
     {
       "product_id": "9276521087224",
       "title": "Imported Formal Slingback - 98466S",
       "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312408969464",
-      "kind": "Sold out",
-      "detail": "Beige / 40"
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 9,675.00 → PKR 6,450.00"
+    },
+    {
+      "product_id": "9276521087224",
+      "title": "Imported Formal Slingback - 98466S",
+      "url": "https://walkeaze.com/products/98466s-court-shoes?variant=47312409002232",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 9,675.00 → PKR 6,450.00"
     },
     {
       "product_id": "9409541964024",
       "title": "Imported Casual Flip-Flop - 98467S",
       "url": "https://walkeaze.com/products/women-casual-flip-flop-98467s?variant=47997616292088",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "Gray / 38"
     },
     {
@@ -90,7 +1737,7 @@
       "title": "Imported Formal Sneakers - 98523S",
       "url": "https://walkeaze.com/products/98523s-sneakers",
       "kind": "Product updated",
-      "detail": "tags: ['25per', '36', '37', '38', '40', 'FOOTWEAR', 'FR', 'Hot Seller', 'Pink', 'Purple', 'Sneakers', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['25per', '36', '37', '38', '40', 'FOOTWEAR', 'FR', 'Hot Seller', 'Pink', 'Sneakers', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "detail": "tags: ['25per', '36', '37', '38', '40', 'FOOTWEAR', 'FR', 'Hot Seller', 'Pink', 'Sneakers', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['25per', '36', '37', '38', '39', '40', 'FOOTWEAR', 'FR', 'Hot Seller', 'Pink', 'Sneakers', 'Special offer', 'Summer Solace', 'WALKEAZE']",
       "field": "tags",
       "before": [
         "25per",
@@ -102,7 +1749,6 @@
         "FR",
         "Hot Seller",
         "Pink",
-        "Purple",
         "Sneakers",
         "Special offer",
         "Summer Solace",
@@ -113,6 +1759,7 @@
         "36",
         "37",
         "38",
+        "39",
         "40",
         "FOOTWEAR",
         "FR",
@@ -127,32 +1774,355 @@
     {
       "product_id": "9410174714104",
       "title": "Imported Formal Sneakers - 98523S",
-      "url": "https://walkeaze.com/products/98523s-sneakers?variant=47998553587960",
-      "kind": "Sold out",
-      "detail": "Purple / 38"
+      "url": "https://walkeaze.com/products/98523s-sneakers?variant=47998553686264",
+      "kind": "Back in stock",
+      "detail": "Pink / 39"
     },
     {
-      "product_id": "9421039337720",
-      "title": "Imported Casual Flip-Flop - 98513S",
-      "url": "https://walkeaze.com/products/women-casual-flip-flop-98513s",
+      "product_id": "9410174877944",
+      "title": "Imported Formal Sneakers - 98530S",
+      "url": "https://walkeaze.com/products/98530s-sneakers",
       "kind": "Product updated",
-      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'Best Seller', 'Black', 'Black and White', 'FIT FLOP', 'FOOTWEAR', 'FR', 'Flip Flop', 'Gray', 'Life Style Images', 'Lowest', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signtaure flats', 'Special offer', 'WALKEAZE', 'Wedding Edit'] → ['25per', '36', '37', '39', '40', 'Best Seller', 'Black', 'Black and White', 'FIT FLOP', 'FOOTWEAR', 'FR', 'Flip Flop', 'Gray', 'Life Style Images', 'Lowest', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signtaure flats', 'Special offer', 'WALKEAZE', 'Wedding Edit']",
+      "detail": "tags: ['25per', '36', '37', '38', '40', '41', 'FOOTWEAR', 'FR', 'Gray', 'Hot Seller', 'Navy Blue', 'Sneakers', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['25per', '36', '37', '38', '39', '40', '41', 'FOOTWEAR', 'FR', 'Gray', 'Hot Seller', 'Navy Blue', 'Sneakers', 'Special offer', 'Summer Solace', 'WALKEAZE']",
       "field": "tags",
       "before": [
         "25per",
         "36",
         "37",
         "38",
+        "40",
+        "41",
+        "FOOTWEAR",
+        "FR",
+        "Gray",
+        "Hot Seller",
+        "Navy Blue",
+        "Sneakers",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ],
+      "after": [
+        "25per",
+        "36",
+        "37",
+        "38",
         "39",
         "40",
+        "41",
+        "FOOTWEAR",
+        "FR",
+        "Gray",
+        "Hot Seller",
+        "Navy Blue",
+        "Sneakers",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ]
+    },
+    {
+      "product_id": "9410174877944",
+      "title": "Imported Formal Sneakers - 98530S",
+      "url": "https://walkeaze.com/products/98530s-sneakers?variant=47998555619576",
+      "kind": "Back in stock",
+      "detail": "Gray / 39"
+    },
+    {
+      "product_id": "9410174877944",
+      "title": "Imported Formal Sneakers - 98530S",
+      "url": "https://walkeaze.com/products/98530s-sneakers?variant=47998555685112",
+      "kind": "Back in stock",
+      "detail": "Gray / 40"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '40', 'Beige', 'FOOTWEAR', 'FR', 'Hot Seller', 'Life Style Images', 'Miss Signature', 'Monsoon Muse', 'Mother day', 'Mustard', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['40', '50per', 'Beige', 'FOOTWEAR', 'FR', 'Hot Seller', 'Life Style Images', 'Miss Signature', 'Monsoon Muse', 'Mother day', 'Mustard', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "40",
+        "Beige",
+        "FOOTWEAR",
+        "FR",
+        "Hot Seller",
+        "Life Style Images",
+        "Miss Signature",
+        "Monsoon Muse",
+        "Mother day",
+        "Mustard",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ],
+      "after": [
+        "40",
+        "50per",
+        "Beige",
+        "FOOTWEAR",
+        "FR",
+        "Hot Seller",
+        "Life Style Images",
+        "Miss Signature",
+        "Monsoon Muse",
+        "Mother day",
+        "Mustard",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ]
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732603128",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732635896",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732668664",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732701432",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732734200",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732766968",
+      "kind": "Price decreased",
+      "detail": "Beige / 41: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732799736",
+      "kind": "Price decreased",
+      "detail": "Mustard / 36: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732832504",
+      "kind": "Price decreased",
+      "detail": "Mustard / 37: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732865272",
+      "kind": "Price decreased",
+      "detail": "Mustard / 38: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732898040",
+      "kind": "Price decreased",
+      "detail": "Mustard / 39: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732930808",
+      "kind": "Price decreased",
+      "detail": "Mustard / 40: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9411682763000",
+      "title": "Imported Casual Softy - 98535S",
+      "url": "https://walkeaze.com/products/98535s-softy?variant=48003732963576",
+      "kind": "Price decreased",
+      "detail": "Mustard / 41: PKR 6,525.00 → PKR 4,350.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '37', '39', '40', '41', 'Beige', 'FOOTWEAR', 'FR', 'Festive', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'White', 'party-wear'] → ['37', '39', '40', '41', '50per', 'Beige', 'FOOTWEAR', 'FR', 'Festive', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'White', 'party-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "37",
+        "39",
+        "40",
+        "41",
+        "Beige",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "White",
+        "party-wear"
+      ],
+      "after": [
+        "37",
+        "39",
+        "40",
+        "41",
+        "50per",
+        "Beige",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "White",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920074488",
+      "kind": "Price decreased",
+      "detail": "White / 36: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920107256",
+      "kind": "Price decreased",
+      "detail": "White / 37: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920140024",
+      "kind": "Price decreased",
+      "detail": "White / 38: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920172792",
+      "kind": "Price decreased",
+      "detail": "White / 39: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920205560",
+      "kind": "Price decreased",
+      "detail": "White / 40: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920238328",
+      "kind": "Price decreased",
+      "detail": "White / 41: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920271096",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920303864",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920336632",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920369400",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920402168",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9419019976952",
+      "title": "Imported Formal Slingback - 98510S",
+      "url": "https://walkeaze.com/products/98510s-court-shoes?variant=48020920434936",
+      "kind": "Price decreased",
+      "detail": "Beige / 41: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '37', '38', 'Best Seller', 'Coffee', 'FIT FLOP', 'FOOTWEAR', 'FR', 'Flip Flop', 'Golden', 'Life Style Images', 'Lowest', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signtaure flats', 'Special offer', 'WALKEAZE', 'Wedding Edit'] → ['37', '38', '50per', 'Best Seller', 'Coffee', 'FIT FLOP', 'FOOTWEAR', 'FR', 'Flip Flop', 'Golden', 'Life Style Images', 'Lowest', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signtaure flats', 'Special offer', 'WALKEAZE', 'Wedding Edit']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "37",
+        "38",
         "Best Seller",
-        "Black",
-        "Black and White",
+        "Coffee",
         "FIT FLOP",
         "FOOTWEAR",
         "FR",
         "Flip Flop",
-        "Gray",
+        "Golden",
         "Life Style Images",
         "Lowest",
         "Miss Signature",
@@ -164,19 +2134,16 @@
         "Wedding Edit"
       ],
       "after": [
-        "25per",
-        "36",
         "37",
-        "39",
-        "40",
+        "38",
+        "50per",
         "Best Seller",
-        "Black",
-        "Black and White",
+        "Coffee",
         "FIT FLOP",
         "FOOTWEAR",
         "FR",
         "Flip Flop",
-        "Gray",
+        "Golden",
         "Life Style Images",
         "Lowest",
         "Miss Signature",
@@ -189,11 +2156,675 @@
       ]
     },
     {
-      "product_id": "9421039337720",
-      "title": "Imported Casual Flip-Flop - 98513S",
-      "url": "https://walkeaze.com/products/women-casual-flip-flop-98513s?variant=48028973990136",
-      "kind": "Sold out",
-      "detail": "Gray / 38"
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974317816",
+      "kind": "Price decreased",
+      "detail": "Golden / 36: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974350584",
+      "kind": "Price decreased",
+      "detail": "Golden / 37: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974383352",
+      "kind": "Price decreased",
+      "detail": "Golden / 38: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974416120",
+      "kind": "Price decreased",
+      "detail": "Golden / 39: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974448888",
+      "kind": "Price decreased",
+      "detail": "Golden / 40: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974481656",
+      "kind": "Price decreased",
+      "detail": "Golden / 41: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974514424",
+      "kind": "Price decreased",
+      "detail": "Coffee / 36: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974547192",
+      "kind": "Price decreased",
+      "detail": "Coffee / 37: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974579960",
+      "kind": "Price decreased",
+      "detail": "Coffee / 38: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974612728",
+      "kind": "Price decreased",
+      "detail": "Coffee / 39: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974645496",
+      "kind": "Price decreased",
+      "detail": "Coffee / 40: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9421039370488",
+      "title": "Imported Casual Flip-Flop - 98514S",
+      "url": "https://walkeaze.com/products/women-casual-flip-flop-98514s?variant=48028974678264",
+      "kind": "Price decreased",
+      "detail": "Coffee / 41: PKR 6,375.00 → PKR 4,250.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '40', 'BRIDAL', 'BRIDALS', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear'] → ['40', '50per', 'BRIDAL', 'BRIDALS', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Festive', 'Festive Heels', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Slingback', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'bridal-wear', 'party-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "40",
+        "BRIDAL",
+        "BRIDALS",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ],
+      "after": [
+        "40",
+        "50per",
+        "BRIDAL",
+        "BRIDALS",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "Festive Heels",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Slingback",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "bridal-wear",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822670072",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822702840",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822735608",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822768376",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822801144",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822833912",
+      "kind": "Price decreased",
+      "detail": "Black / 41: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822866680",
+      "kind": "Price decreased",
+      "detail": "Maroon / 36: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822899448",
+      "kind": "Price decreased",
+      "detail": "Maroon / 37: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822932216",
+      "kind": "Price decreased",
+      "detail": "Maroon / 38: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822964984",
+      "kind": "Price decreased",
+      "detail": "Maroon / 39: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251822997752",
+      "kind": "Price decreased",
+      "detail": "Maroon / 40: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9479523107064",
+      "title": "Imported Formal Slingback - 98558S",
+      "url": "https://walkeaze.com/products/98558s-court-shoes?variant=48251823030520",
+      "kind": "Price decreased",
+      "detail": "Maroon / 41: PKR 8,138.00 → PKR 5,425.00"
+    },
+    {
+      "product_id": "9575520534776",
+      "title": "Imported Formal Court-Shoes - 98497S",
+      "url": "https://walkeaze.com/products/98497s-court-shoes",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '36', '37', '38', '39', '40', 'BRIDAL', 'BRIDALS', 'Court-Shoes', 'FOOTWEAR', 'FR', 'Festive', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Silver', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'party-wear'] → ['36', '37', '38', '39', '40', '50per', 'BRIDAL', 'BRIDALS', 'Court-Shoes', 'FOOTWEAR', 'FR', 'Festive', 'HEELS', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Silver', 'Special offer', 'Summer Solace', 'WALKEAZE', 'WINTER&COLLECTION', 'Wedding Edit', 'party-wear']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "BRIDAL",
+        "BRIDALS",
+        "Court-Shoes",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Silver",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "party-wear"
+      ],
+      "after": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "50per",
+        "BRIDAL",
+        "BRIDALS",
+        "Court-Shoes",
+        "FOOTWEAR",
+        "FR",
+        "Festive",
+        "HEELS",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Silver",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE",
+        "WINTER&COLLECTION",
+        "Wedding Edit",
+        "party-wear"
+      ]
+    },
+    {
+      "product_id": "9575520534776",
+      "title": "Imported Formal Court-Shoes - 98497S",
+      "url": "https://walkeaze.com/products/98497s-court-shoes?variant=48473035538680",
+      "kind": "Price decreased",
+      "detail": "Silver / 36: PKR 8,550.00 → PKR 5,700.00"
+    },
+    {
+      "product_id": "9575520534776",
+      "title": "Imported Formal Court-Shoes - 98497S",
+      "url": "https://walkeaze.com/products/98497s-court-shoes?variant=48473035604216",
+      "kind": "Price decreased",
+      "detail": "Silver / 37: PKR 8,550.00 → PKR 5,700.00"
+    },
+    {
+      "product_id": "9575520534776",
+      "title": "Imported Formal Court-Shoes - 98497S",
+      "url": "https://walkeaze.com/products/98497s-court-shoes?variant=48473035669752",
+      "kind": "Price decreased",
+      "detail": "Silver / 38: PKR 8,550.00 → PKR 5,700.00"
+    },
+    {
+      "product_id": "9575520534776",
+      "title": "Imported Formal Court-Shoes - 98497S",
+      "url": "https://walkeaze.com/products/98497s-court-shoes?variant=48473035735288",
+      "kind": "Price decreased",
+      "detail": "Silver / 39: PKR 8,550.00 → PKR 5,700.00"
+    },
+    {
+      "product_id": "9575520534776",
+      "title": "Imported Formal Court-Shoes - 98497S",
+      "url": "https://walkeaze.com/products/98497s-court-shoes?variant=48473035800824",
+      "kind": "Price decreased",
+      "detail": "Silver / 40: PKR 8,550.00 → PKR 5,700.00"
+    },
+    {
+      "product_id": "9881468109048",
+      "title": "Imported Casual Softy - 98544S",
+      "url": "https://walkeaze.com/products/98544s-softy",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', 'Black and White', 'FOOTWEAR', 'FR', 'Hot Seller', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['50per', 'Black and White', 'FOOTWEAR', 'FR', 'Hot Seller', 'Life Style Images', 'Miss Signature', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Hot Seller",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ],
+      "after": [
+        "50per",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Hot Seller",
+        "Life Style Images",
+        "Miss Signature",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ]
+    },
+    {
+      "product_id": "9881468109048",
+      "title": "Imported Casual Softy - 98544S",
+      "url": "https://walkeaze.com/products/98544s-softy?variant=48899114467576",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9881468109048",
+      "title": "Imported Casual Softy - 98544S",
+      "url": "https://walkeaze.com/products/98544s-softy?variant=48899114500344",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9881468109048",
+      "title": "Imported Casual Softy - 98544S",
+      "url": "https://walkeaze.com/products/98544s-softy?variant=48899114533112",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9881468109048",
+      "title": "Imported Casual Softy - 98544S",
+      "url": "https://walkeaze.com/products/98544s-softy?variant=48899114565880",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9881468109048",
+      "title": "Imported Casual Softy - 98544S",
+      "url": "https://walkeaze.com/products/98544s-softy?variant=48899114598648",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9881468109048",
+      "title": "Imported Casual Softy - 98544S",
+      "url": "https://walkeaze.com/products/98544s-softy?variant=48899114631416",
+      "kind": "Price decreased",
+      "detail": "Black / 41: PKR 7,463.00 → PKR 4,975.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '40', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Hot Seller', 'Life Style Images', 'Miss Signature', 'Monsoon Muse', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['40', '50per', 'Black', 'Black and White', 'FOOTWEAR', 'FR', 'Hot Seller', 'Life Style Images', 'Miss Signature', 'Monsoon Muse', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "40",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Hot Seller",
+        "Life Style Images",
+        "Miss Signature",
+        "Monsoon Muse",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ],
+      "after": [
+        "40",
+        "50per",
+        "Black",
+        "Black and White",
+        "FOOTWEAR",
+        "FR",
+        "Hot Seller",
+        "Life Style Images",
+        "Miss Signature",
+        "Monsoon Muse",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ]
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114664184",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114696952",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114729720",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114762488",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114795256",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114828024",
+      "kind": "Price decreased",
+      "detail": "Beige / 41: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114860792",
+      "kind": "Price decreased",
+      "detail": "Black / 36: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114893560",
+      "kind": "Price decreased",
+      "detail": "Black / 37: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114926328",
+      "kind": "Price decreased",
+      "detail": "Black / 38: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114959096",
+      "kind": "Price decreased",
+      "detail": "Black / 39: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899114991864",
+      "kind": "Price decreased",
+      "detail": "Black / 40: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468141816",
+      "title": "Imported Casual Softy - 98545S",
+      "url": "https://walkeaze.com/products/98545s-softy?variant=48899115024632",
+      "kind": "Price decreased",
+      "detail": "Black / 41: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy",
+      "kind": "Product updated",
+      "detail": "tags: ['25per', '38', '39', '40', '41', 'Beige', 'Cream', 'FOOTWEAR', 'FR', 'Hot Seller', 'Life Style Images', 'Miss Signature', 'Monsoon Muse', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE'] → ['38', '39', '40', '41', '50per', 'Beige', 'Cream', 'FOOTWEAR', 'FR', 'Hot Seller', 'Life Style Images', 'Miss Signature', 'Monsoon Muse', 'Mother day', 'Pre Ramadan', 'Signature Edit', 'Softies', 'Special offer', 'Summer Solace', 'WALKEAZE']",
+      "field": "tags",
+      "before": [
+        "25per",
+        "38",
+        "39",
+        "40",
+        "41",
+        "Beige",
+        "Cream",
+        "FOOTWEAR",
+        "FR",
+        "Hot Seller",
+        "Life Style Images",
+        "Miss Signature",
+        "Monsoon Muse",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ],
+      "after": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "50per",
+        "Beige",
+        "Cream",
+        "FOOTWEAR",
+        "FR",
+        "Hot Seller",
+        "Life Style Images",
+        "Miss Signature",
+        "Monsoon Muse",
+        "Mother day",
+        "Pre Ramadan",
+        "Signature Edit",
+        "Softies",
+        "Special offer",
+        "Summer Solace",
+        "WALKEAZE"
+      ]
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115057400",
+      "kind": "Price decreased",
+      "detail": "Beige / 36: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115090168",
+      "kind": "Price decreased",
+      "detail": "Beige / 37: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115122936",
+      "kind": "Price decreased",
+      "detail": "Beige / 38: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115155704",
+      "kind": "Price decreased",
+      "detail": "Beige / 39: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115188472",
+      "kind": "Price decreased",
+      "detail": "Beige / 40: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115221240",
+      "kind": "Price decreased",
+      "detail": "Beige / 41: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115254008",
+      "kind": "Price decreased",
+      "detail": "Cream / 36: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115286776",
+      "kind": "Price decreased",
+      "detail": "Cream / 37: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115319544",
+      "kind": "Price decreased",
+      "detail": "Cream / 38: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115352312",
+      "kind": "Price decreased",
+      "detail": "Cream / 39: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115385080",
+      "kind": "Price decreased",
+      "detail": "Cream / 40: PKR 7,238.00 → PKR 4,825.00"
+    },
+    {
+      "product_id": "9881468174584",
+      "title": "Imported Casual Softy - 98546S",
+      "url": "https://walkeaze.com/products/98546s-softy?variant=48899115417848",
+      "kind": "Price decreased",
+      "detail": "Cream / 41: PKR 7,238.00 → PKR 4,825.00"
     }
   ]
 }
