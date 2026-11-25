@@ -3,7 +3,7 @@
   "source": "https://www.threadsandmotifs.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-25T02:05:22.815559+00:00",
+  "checked_at": "2026-11-25T12:53:10.378049+00:00",
   "products": {
     "7330695577635": {
       "id": "7330695577635",
@@ -529,6 +529,42 @@
           "sku": "12392-L",
           "available": true,
           "price": 2995000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "7336496431139": {
+      "id": "7336496431139",
+      "title": "Afnan",
+      "handle": "afnan",
+      "url": "https://www.threadsandmotifs.com/products/afnan",
+      "vendor": "Threads & Motifs",
+      "type": "",
+      "description": "<p>Design No 12222 Red Veil </p>\n<p>110 inches veil for PKR 49,000/-<br><br>Total 49,000/-</p>",
+      "tags": [
+        "over-20000"
+      ],
+      "images": [],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "44263397720099": {
+          "id": "44263397720099",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "AniqA Order",
+          "available": true,
+          "price": 4900000,
           "compare_at_price": null
         }
       },
@@ -25032,7 +25068,6 @@
         "pret",
         "size-large",
         "size-medium",
-        "size-small",
         "velvet"
       ],
       "images": [
@@ -25068,7 +25103,7 @@
             "Small"
           ],
           "sku": "12028-S",
-          "available": true,
+          "available": false,
           "price": 2350000,
           "compare_at_price": null
         },
@@ -72476,6 +72511,42 @@
           "sku": "12374-C-EX",
           "available": true,
           "price": 6325000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "7336681046051": {
+      "id": "7336681046051",
+      "title": "Zunaira",
+      "handle": "zunaira",
+      "url": "https://www.threadsandmotifs.com/products/zunaira",
+      "vendor": "Threads & Motifs",
+      "type": "",
+      "description": "<p>Jamawar Trouser fabric 2.5 yard PKR 3625/-<br><br>Viscose trouser fabric 2.5 yard PKR 1875/-<br><br>Total PKR 5500/-</p>",
+      "tags": [
+        "5000-10000"
+      ],
+      "images": [],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "44263661830179": {
+          "id": "44263661830179",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "Mehak--Order",
+          "available": true,
+          "price": 550000,
           "compare_at_price": null
         }
       },
