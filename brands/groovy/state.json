@@ -3,7 +3,7 @@
   "source": "https://groovypakistan.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-25T01:12:25.214903+00:00",
+  "checked_at": "2026-11-25T12:02:08.694130+00:00",
   "products": {
     "8989896114412": {
       "id": "8989896114412",
@@ -937,7 +937,7 @@
             "M"
           ],
           "sku": "GP009-M",
-          "available": false,
+          "available": true,
           "price": 244300,
           "compare_at_price": 349000
         },
@@ -3303,7 +3303,7 @@
             "ACID WASHED"
           ],
           "sku": "GH061-L",
-          "available": true,
+          "available": false,
           "price": 380000,
           "compare_at_price": null
         },
@@ -8830,7 +8830,7 @@
             "M"
           ],
           "sku": "GH052-M",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": null
         },
@@ -14418,7 +14418,7 @@
             "L"
           ],
           "sku": "GC016-L",
-          "available": false,
+          "available": true,
           "price": 429000,
           "compare_at_price": null
         },
@@ -14678,7 +14678,7 @@
             "Dusty Olive"
           ],
           "sku": "GH062-M",
-          "available": true,
+          "available": false,
           "price": 380000,
           "compare_at_price": null
         },
@@ -14690,7 +14690,7 @@
             "Dusty Olive"
           ],
           "sku": "GH062-L",
-          "available": true,
+          "available": false,
           "price": 380000,
           "compare_at_price": null
         },
@@ -14702,12 +14702,12 @@
             "Dusty Olive"
           ],
           "sku": "GH062-XL",
-          "available": true,
+          "available": false,
           "price": 380000,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "8757223162092": {
       "id": "8757223162092",
@@ -16760,7 +16760,7 @@
             "Chalk"
           ],
           "sku": "GST026-M",
-          "available": false,
+          "available": true,
           "price": 260000,
           "compare_at_price": null
         },
@@ -17131,7 +17131,7 @@
             "M"
           ],
           "sku": "GST012-M",
-          "available": false,
+          "available": true,
           "price": 360000,
           "compare_at_price": null
         },
@@ -17867,7 +17867,7 @@
             "L"
           ],
           "sku": "GHZ011-L",
-          "available": true,
+          "available": false,
           "price": 320000,
           "compare_at_price": null
         },
@@ -17883,7 +17883,7 @@
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "8995617243372": {
       "id": "8995617243372",
@@ -22175,7 +22175,7 @@
             "L"
           ],
           "sku": "GST065-L",
-          "available": false,
+          "available": true,
           "price": 320000,
           "compare_at_price": 320000
         },
@@ -22525,7 +22525,7 @@
             "M"
           ],
           "sku": "GST068-M",
-          "available": true,
+          "available": false,
           "price": 272000,
           "compare_at_price": 320000
         },
@@ -22657,7 +22657,7 @@
             "L"
           ],
           "sku": "GST070-L",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -31481,7 +31481,7 @@
             "M"
           ],
           "sku": "GST013-M",
-          "available": false,
+          "available": true,
           "price": 252000,
           "compare_at_price": 360000
         },
@@ -31493,7 +31493,7 @@
             "L"
           ],
           "sku": "GST013-L",
-          "available": false,
+          "available": true,
           "price": 252000,
           "compare_at_price": 360000
         },
@@ -31505,7 +31505,7 @@
             "XL"
           ],
           "sku": "GST013-XL",
-          "available": true,
+          "available": false,
           "price": 252000,
           "compare_at_price": 360000
         }
@@ -34106,7 +34106,7 @@
             "S"
           ],
           "sku": "GHZ022-S",
-          "available": true,
+          "available": false,
           "price": 329900,
           "compare_at_price": null
         },
@@ -34117,7 +34117,7 @@
             "M"
           ],
           "sku": "GHZ022-M",
-          "available": true,
+          "available": false,
           "price": 329900,
           "compare_at_price": null
         },
@@ -34139,7 +34139,7 @@
             "XL"
           ],
           "sku": "GHZ022-XL",
-          "available": false,
+          "available": true,
           "price": 329900,
           "compare_at_price": null
         }
@@ -35888,7 +35888,7 @@
             "S"
           ],
           "sku": "GST076-S",
-          "available": false,
+          "available": true,
           "price": 360000,
           "compare_at_price": null
         },
@@ -36020,7 +36020,7 @@
             "S"
           ],
           "sku": "GB029-S",
-          "available": true,
+          "available": false,
           "price": 189000,
           "compare_at_price": null
         },
@@ -38476,7 +38476,7 @@
             "S"
           ],
           "sku": "GST085-S",
-          "available": false,
+          "available": true,
           "price": 360000,
           "compare_at_price": null
         },
@@ -38488,7 +38488,7 @@
             "M"
           ],
           "sku": "GST085-M",
-          "available": false,
+          "available": true,
           "price": 360000,
           "compare_at_price": null
         },
