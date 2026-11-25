@@ -3,7 +3,7 @@
   "source": "https://mtjonline.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-25T11:22:14.489950+00:00",
+  "checked_at": "2026-11-25T23:40:54.281325+00:00",
   "products": {
     "15414245654702": {
       "id": "15414245654702",
@@ -6780,7 +6780,7 @@
             "KHADDAR"
           ],
           "sku": "WSDTW-PR-6044/S",
-          "available": true,
+          "available": false,
           "price": 455200,
           "compare_at_price": 569000
         },
@@ -20262,7 +20262,7 @@
             "Baby Blue"
           ],
           "sku": "FB-00571 MKS-9659-S-24",
-          "available": true,
+          "available": false,
           "price": 449500,
           "compare_at_price": 899000
         },
@@ -20291,7 +20291,7 @@
           "compare_at_price": 899000
         }
       },
-      "available": true
+      "available": false
     },
     "8676434378926": {
       "id": "8676434378926",
@@ -23351,7 +23351,7 @@
             "BLENDED"
           ],
           "sku": "FB-00677 MKS-8835-S-26",
-          "available": true,
+          "available": false,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -23395,7 +23395,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "8965601689774": {
       "id": "8965601689774",
@@ -69834,7 +69834,7 @@
             "BLENDED"
           ],
           "sku": "FB-00686 MKS-8865-W-25",
-          "available": true,
+          "available": false,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -103631,7 +103631,7 @@
             "Cambric"
           ],
           "sku": "WSTS-ED2-5068/S",
-          "available": true,
+          "available": false,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -109078,7 +109078,7 @@
             "Cambric"
           ],
           "sku": "WSDTS-ED-5075/S",
-          "available": true,
+          "available": false,
           "price": 699500,
           "compare_at_price": 1399000
         }
@@ -109423,7 +109423,7 @@
             "Cambric"
           ],
           "sku": "WSDTS-ED-5061/S",
-          "available": true,
+          "available": false,
           "price": 674500,
           "compare_at_price": 1349000
         },
@@ -109480,7 +109480,7 @@
           "compare_at_price": 1349000
         }
       },
-      "available": true
+      "available": false
     },
     "9047534141614": {
       "id": "9047534141614",
@@ -129123,12 +129123,12 @@
             "Lawn"
           ],
           "sku": "WSDTS-ED-5351",
-          "available": true,
+          "available": false,
           "price": 359400,
           "compare_at_price": 599000
         }
       },
-      "available": true
+      "available": false
     },
     "8965613027502": {
       "id": "8965613027502",
@@ -168249,6 +168249,121 @@
           "available": false,
           "price": 249500,
           "compare_at_price": 499000
+        }
+      },
+      "available": true
+    },
+    "15494411255982": {
+      "id": "15494411255982",
+      "title": "FOREST-PINE BLENDED KAMEEZ SHALWAR",
+      "handle": "forest-pine-blended-kameez-shalwar",
+      "url": "https://mtjonline.com/products/forest-pine-blended-kameez-shalwar",
+      "vendor": "MTJ",
+      "type": "WINTER 2026 MEN KAMEEZ SHALWAR",
+      "description": "<div class=\"description-and-detail\">\n<div class=\"tab-content detail-tabs-content\" id=\"nav-tabContent\">\n<div class=\"tab-pane fade detail-content-pane active show\" id=\"nav-details\" role=\"tabpanel\">\n<div class=\"value content\">Plain Front, Plain Back, Full Sleeves, Shirt Neckline<br><strong>Colour: </strong>Forest-Pine<br><strong>Fabric: </strong>Blended<br>\n</div>\n</div>\n</div>\n</div>\n<div class=\"mt-0 mb-0 mx-0 text-left\">Note: Actual product color may vary slightly from the image.</div>",
+      "tags": [
+        "MENS KAMEEZ SHALWAR",
+        "NEW IN",
+        "WINTER 2026 MEN KAMEEZ SHALWAR"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Kurta_sleeve_cuff_macro_photograph_83563cbb_2K.jpg?v=1795612389",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_modeling_grey_kurta_shalwar_b24df60f_2K.jpg?v=1795612390",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_grey_kurta_c85c022d_2K.jpg?v=1795612389",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Model_wearing_grey_kurta_shalwar_acb7a4b2_2K.jpg?v=1795612389"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Forest-Pine"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "BLENDED"
+          ]
+        }
+      ],
+      "variants": {
+        "68179734036654": {
+          "id": "68179734036654",
+          "title": "XS / Forest-Pine / BLENDED",
+          "options": [
+            "XS",
+            "Forest-Pine",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7213-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": null
+        },
+        "68179734069422": {
+          "id": "68179734069422",
+          "title": "S / Forest-Pine / BLENDED",
+          "options": [
+            "S",
+            "Forest-Pine",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7213-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179734102190": {
+          "id": "68179734102190",
+          "title": "M / Forest-Pine / BLENDED",
+          "options": [
+            "M",
+            "Forest-Pine",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7213-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179734134958": {
+          "id": "68179734134958",
+          "title": "L / Forest-Pine / BLENDED",
+          "options": [
+            "L",
+            "Forest-Pine",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7213-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179734167726": {
+          "id": "68179734167726",
+          "title": "XL / Forest-Pine / BLENDED",
+          "options": [
+            "XL",
+            "Forest-Pine",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7213-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
         }
       },
       "available": true
@@ -292917,7 +293032,7 @@
           ],
           "sku": "MUSKY AMBER-ATR",
           "available": true,
-          "price": 288000,
+          "price": 230400,
           "compare_at_price": 288000
         }
       },
@@ -297289,7 +297404,7 @@
             "BLENDED"
           ],
           "sku": "FB-00648 MCAP-140/6-S-26",
-          "available": true,
+          "available": false,
           "price": 139300,
           "compare_at_price": 199000
         },
@@ -301869,7 +301984,7 @@
             "BLENDED"
           ],
           "sku": "FB-00679 MKS-7113-S-26",
-          "available": true,
+          "available": false,
           "price": 469000,
           "compare_at_price": 469000
         },
@@ -305478,7 +305593,7 @@
             "Navy"
           ],
           "sku": "FB-00611 MKP-8583-S-25",
-          "available": true,
+          "available": false,
           "price": 449400,
           "compare_at_price": 749000
         }
@@ -319890,7 +320005,7 @@
             "BLENDED"
           ],
           "sku": "FB-00723 MKS-8934-S-26",
-          "available": true,
+          "available": false,
           "price": 489300,
           "compare_at_price": 699000
         },
@@ -327037,7 +327152,7 @@
             "BLENDED"
           ],
           "sku": "FB-00633 MKS-9802-S-26",
-          "available": true,
+          "available": false,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -327068,7 +327183,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "15412287045806": {
       "id": "15412287045806",
@@ -346229,7 +346344,7 @@
             "Cambric"
           ],
           "sku": "WSTS-PR-5045/S",
-          "available": true,
+          "available": false,
           "price": 341400,
           "compare_at_price": 569000
         },
@@ -348978,7 +349093,7 @@
             "Cambric"
           ],
           "sku": "WSTS-PR-5288/S",
-          "available": true,
+          "available": false,
           "price": 349000,
           "compare_at_price": 349000
         },
@@ -354702,12 +354817,12 @@
             "Viscose"
           ],
           "sku": "WSDTW-PR-4173",
-          "available": true,
+          "available": false,
           "price": 250000,
           "compare_at_price": 299000
         }
       },
-      "available": true
+      "available": false
     },
     "8908006752430": {
       "id": "8908006752430",
@@ -367184,12 +367299,12 @@
             "Off White"
           ],
           "sku": "WSDTS-PR-3954",
-          "available": true,
+          "available": false,
           "price": 280000,
           "compare_at_price": 419000
         }
       },
-      "available": true
+      "available": false
     },
     "8779026792622": {
       "id": "8779026792622",
@@ -376099,12 +376214,12 @@
             "Lawn"
           ],
           "sku": "WSDTS-PR-5375",
-          "available": true,
+          "available": false,
           "price": 279300,
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "9030767116462": {
       "id": "9030767116462",
@@ -385655,7 +385770,7 @@
             "Beige"
           ],
           "sku": "WSTS-PR-3925/S",
-          "available": true,
+          "available": false,
           "price": 324500,
           "compare_at_price": 649000
         },
@@ -415549,6 +415664,122 @@
       },
       "available": false
     },
+    "15494398214318": {
+      "id": "15494398214318",
+      "title": "SILVER-WOOL BLENDED KAMEEZ SHALWAR",
+      "handle": "silver-wool-blended-kameez-shalwar",
+      "url": "https://mtjonline.com/products/silver-wool-blended-kameez-shalwar",
+      "vendor": "MTJ",
+      "type": "WINTER 2026 MEN KAMEEZ SHALWAR",
+      "description": "<div class=\"description-and-detail\">\n<div class=\"tab-content detail-tabs-content\" id=\"nav-tabContent\">\n<div class=\"tab-pane fade detail-content-pane active show\" id=\"nav-details\" role=\"tabpanel\">\n<div class=\"value content\">Plain Front, Plain Back, Full Sleeves, Band Neckline<br><strong>Colour: </strong>Silver-Wool<br><strong>Fabric: </strong>Blended<br>\n</div>\n</div>\n</div>\n</div>\n<div class=\"mt-0 mb-0 mx-0 text-left\">Note: Actual product color may vary slightly from the image.</div>",
+      "tags": [
+        "MENS KAMEEZ SHALWAR",
+        "NEW IN",
+        "WINTER 2026 MEN KAMEEZ SHALWAR"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_grey_kurta_512bddc6_2K.jpg?v=1795612379",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_grey_kurta_shalwar_d7e5d60a_2K.jpg?v=1795612379",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_grey_sherwani_4963ff2c_2K.jpg?v=1795612379",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Model_wearing_grey_kurta_shalwar_c2631cef_2K.jpg?v=1795612379",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Model_wearing_grey_kurta_sleeve_abb9f521_2K.jpg?v=1795612379"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Silver-Wool"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "BLENDED"
+          ]
+        }
+      ],
+      "variants": {
+        "68179680526510": {
+          "id": "68179680526510",
+          "title": "XS / Silver-Wool / BLENDED",
+          "options": [
+            "XS",
+            "Silver-Wool",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-4343-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179680559278": {
+          "id": "68179680559278",
+          "title": "S / Silver-Wool / BLENDED",
+          "options": [
+            "S",
+            "Silver-Wool",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-4343-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179680592046": {
+          "id": "68179680592046",
+          "title": "M / Silver-Wool / BLENDED",
+          "options": [
+            "M",
+            "Silver-Wool",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-4343-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179680624814": {
+          "id": "68179680624814",
+          "title": "L / Silver-Wool / BLENDED",
+          "options": [
+            "L",
+            "Silver-Wool",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-4343-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179680657582": {
+          "id": "68179680657582",
+          "title": "XL / Silver-Wool / BLENDED",
+          "options": [
+            "XL",
+            "Silver-Wool",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-4343-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        }
+      },
+      "available": true
+    },
     "8674273886382": {
       "id": "8674273886382",
       "title": "SKY BLUE 100% COTTON KAMEEZ SHALWAR",
@@ -417707,6 +417938,122 @@
         }
       },
       "available": false
+    },
+    "15494422921390": {
+      "id": "15494422921390",
+      "title": "SOFT-OCEAN BLENDED KAMEEZ SHALWAR",
+      "handle": "soft-ocean-blended-kameez-shalwar",
+      "url": "https://mtjonline.com/products/soft-ocean-blended-kameez-shalwar",
+      "vendor": "MTJ",
+      "type": "WINTER 2026 MEN KAMEEZ SHALWAR",
+      "description": "<div class=\"description-and-detail\">\n<div class=\"tab-content detail-tabs-content\" id=\"nav-tabContent\">\n<div class=\"tab-pane fade detail-content-pane active show\" id=\"nav-details\" role=\"tabpanel\">\n<div class=\"value content\">Plain Front, Plain Back, Full Sleeves, Shirt Neckline<br><strong>Colour: </strong>Soft-Ocean<br><strong>Fabric: </strong>Blended<br>\n</div>\n</div>\n</div>\n</div>\n<div class=\"mt-0 mb-0 mx-0 text-left\">Note: Actual product color may vary slightly from the image.</div>",
+      "tags": [
+        "MENS KAMEEZ SHALWAR",
+        "NEW IN",
+        "WINTER 2026 MEN KAMEEZ SHALWAR"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Male_model_wearing_kurta_shalwar_fdef7ce4_2K.jpg?v=1795612403",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_grey_kurta_d96575ba_2K.jpg?v=1795612403",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_grey_kurta_ee1c3d9b_2K.jpg?v=1795612403",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_grey_kurta_shalwar_cb1ceea8_2K.jpg?v=1795612403",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Model_wearing_grey_kurta_cuff_9ff874fe_2K_1.jpg?v=1795612403"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Soft-Ocean"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "BLENDED"
+          ]
+        }
+      ],
+      "variants": {
+        "68179750158510": {
+          "id": "68179750158510",
+          "title": "XS / Soft-Ocean / BLENDED",
+          "options": [
+            "XS",
+            "Soft-Ocean",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7214-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179750191278": {
+          "id": "68179750191278",
+          "title": "S / Soft-Ocean / BLENDED",
+          "options": [
+            "S",
+            "Soft-Ocean",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7214-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179750224046": {
+          "id": "68179750224046",
+          "title": "M / Soft-Ocean / BLENDED",
+          "options": [
+            "M",
+            "Soft-Ocean",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7214-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179750256814": {
+          "id": "68179750256814",
+          "title": "L / Soft-Ocean / BLENDED",
+          "options": [
+            "L",
+            "Soft-Ocean",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7214-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179750289582": {
+          "id": "68179750289582",
+          "title": "XL / Soft-Ocean / BLENDED",
+          "options": [
+            "XL",
+            "Soft-Ocean",
+            "BLENDED"
+          ],
+          "sku": "FB-00805 MKS-7214-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        }
+      },
+      "available": true
     },
     "8271849783470": {
       "id": "8271849783470",
@@ -425472,7 +425819,7 @@
             "BLENDED"
           ],
           "sku": "FB-00760 MUS-207/1-S-26",
-          "available": true,
+          "available": false,
           "price": 349000,
           "compare_at_price": 349000
         },
@@ -475069,7 +475416,7 @@
             "BLENDED"
           ],
           "sku": "FB-00650 MKS-9988-S-26",
-          "available": true,
+          "available": false,
           "price": 419400,
           "compare_at_price": 699000
         },
@@ -475126,7 +475473,7 @@
           "compare_at_price": 699000
         }
       },
-      "available": true
+      "available": false
     },
     "9123938697390": {
       "id": "9123938697390",
@@ -475672,7 +476019,7 @@
             "Cotton"
           ],
           "sku": "FB-00732 MK-9976-S-26",
-          "available": true,
+          "available": false,
           "price": 249500,
           "compare_at_price": 499000
         },
@@ -485180,12 +485527,12 @@
             "Default Title"
           ],
           "sku": "The Gold Collection Travel Kit",
-          "available": true,
+          "available": false,
           "price": 228000,
           "compare_at_price": 228000
         }
       },
-      "available": true
+      "available": false
     },
     "8273810751662": {
       "id": "8273810751662",
@@ -490067,7 +490414,7 @@
             "BLENDED"
           ],
           "sku": "FB-00690 MUS-173/1-W-25",
-          "available": true,
+          "available": false,
           "price": 349300,
           "compare_at_price": 499000
         },
