@@ -3,7 +3,7 @@
   "source": "https://monark.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-26T00:56:53.425804+00:00",
+  "checked_at": "2026-11-26T12:15:38.913947+00:00",
   "products": {
     "7048870625409": {
       "id": "7048870625409",
@@ -271,7 +271,7 @@
             "L"
           ],
           "sku": "MNK25-04GR-size-L",
-          "available": true,
+          "available": false,
           "price": 375000,
           "compare_at_price": 750000
         },
@@ -287,7 +287,7 @@
           "compare_at_price": 750000
         }
       },
-      "available": true
+      "available": false
     },
     "6794905157761": {
       "id": "6794905157761",
@@ -484,7 +484,7 @@
             "M"
           ],
           "sku": "5708-BLU-size-M",
-          "available": false,
+          "available": true,
           "price": 115500,
           "compare_at_price": 165000
         },
@@ -566,7 +566,7 @@
             "M"
           ],
           "sku": "5708-BLK-size-M",
-          "available": false,
+          "available": true,
           "price": 115500,
           "compare_at_price": 165000
         },
@@ -577,7 +577,7 @@
             "L"
           ],
           "sku": "5708-BLK-size-L",
-          "available": false,
+          "available": true,
           "price": 115500,
           "compare_at_price": 165000
         },
@@ -648,7 +648,7 @@
             "M"
           ],
           "sku": "5708-GRY-size-M",
-          "available": false,
+          "available": true,
           "price": 115500,
           "compare_at_price": 165000
         },
@@ -670,7 +670,7 @@
             "XL"
           ],
           "sku": "5708-GRY-size-XL",
-          "available": false,
+          "available": true,
           "price": 115500,
           "compare_at_price": 165000
         }
@@ -729,7 +729,7 @@
             "M"
           ],
           "sku": "5708-NY-size-M",
-          "available": false,
+          "available": true,
           "price": 115500,
           "compare_at_price": 165000
         },
@@ -751,7 +751,7 @@
             "XL"
           ],
           "sku": "5708-NY-size-XL",
-          "available": false,
+          "available": true,
           "price": 115500,
           "compare_at_price": 165000
         }
@@ -1396,7 +1396,7 @@
             "L"
           ],
           "sku": "MOK25-08BR-size-L",
-          "available": false,
+          "available": true,
           "price": 725000,
           "compare_at_price": 1450000
         },
@@ -4932,7 +4932,7 @@
             "38"
           ],
           "sku": "MS2425-08-size-38",
-          "available": true,
+          "available": false,
           "price": 1425000,
           "compare_at_price": 2850000
         },
@@ -10830,7 +10830,7 @@
           "options": [
             "S"
           ],
-          "sku": "RTCW26-44-size-S",
+          "sku": "rtcw26-44-size-S",
           "available": true,
           "price": 409500,
           "compare_at_price": 585000
@@ -10841,7 +10841,7 @@
           "options": [
             "M"
           ],
-          "sku": "RTCW26-44-size-M",
+          "sku": "rtcw26-44-size-M",
           "available": true,
           "price": 409500,
           "compare_at_price": 585000
@@ -10852,7 +10852,7 @@
           "options": [
             "L"
           ],
-          "sku": "RTCW26-44-size-L",
+          "sku": "rtcw26-44-size-L",
           "available": true,
           "price": 409500,
           "compare_at_price": 585000
@@ -10863,7 +10863,7 @@
           "options": [
             "XL"
           ],
-          "sku": "RTCW26-44-size-XL",
+          "sku": "rtcw26-44-size-XL",
           "available": true,
           "price": 409500,
           "compare_at_price": 585000
@@ -11239,6 +11239,96 @@
       },
       "available": true
     },
+    "7103737954433": {
+      "id": "7103737954433",
+      "title": "BLACK COTTON ANKLE SOCKS",
+      "handle": "gol26-004bk",
+      "url": "https://monark.com.pk/products/gol26-004bk",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Minimal and versatile, the Black Cotton Ankle Socks offer a comfortable fit and streamlined style for everyday footwear</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/16_60774fa0-7d02-49a7-9fb3-97eecadea3dd.jpg?v=1795680372"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421872769": {
+          "id": "41094421872769",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-004BK",
+          "available": true,
+          "price": 45500,
+          "compare_at_price": 65000
+        }
+      },
+      "available": true
+    },
+    "7103737987201": {
+      "id": "7103737987201",
+      "title": "BLACK COTTON ANKLE SOCKS",
+      "handle": "gol26-001bk",
+      "url": "https://monark.com.pk/products/gol26-001bk",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Designed for effortless everyday wear, the Black Cotton Ankle Socks combine comfort, flexibility, and a clean, minimal look</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/15_52fd737e-0cdb-4215-820d-3e5736e99499.jpg?v=1795680448"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421905537": {
+          "id": "41094421905537",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-001BK",
+          "available": true,
+          "price": 45500,
+          "compare_at_price": 65000
+        }
+      },
+      "available": true
+    },
     "7083303338113": {
       "id": "7083303338113",
       "title": "BLACK COTTON SOCKS",
@@ -11279,6 +11369,141 @@
             "Default Title"
           ],
           "sku": "SMB25-18",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
+        }
+      },
+      "available": true
+    },
+    "7103737725057": {
+      "id": "7103737725057",
+      "title": "BLACK COTTON SOCKS",
+      "handle": "gol26-005bk",
+      "url": "https://monark.com.pk/products/gol26-005bk",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Classic and versatile, the Black Cotton Socks offer a comfortable fit and an understated design suited for everyday wear</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/5_6ce503ec-ae4c-4f70-9eda-48b14b216a2b.jpg?v=1795679397"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421643393": {
+          "id": "41094421643393",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-005BK",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
+        }
+      },
+      "available": true
+    },
+    "7103737790593": {
+      "id": "7103737790593",
+      "title": "BLACK COTTON SOCKS",
+      "handle": "gol26-003bk",
+      "url": "https://monark.com.pk/products/gol26-003bk",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Made for everyday comfort, the Black Cotton Socks combine a classic design with a soft feel and versatile styling</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/8_58e8d18a-8d41-4d51-8102-e39aebdd8574.jpg?v=1795679560"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421708929": {
+          "id": "41094421708929",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-003BK",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
+        }
+      },
+      "available": true
+    },
+    "7103737823361": {
+      "id": "7103737823361",
+      "title": "BLACK COTTON SOCKS",
+      "handle": "gol26-006bk",
+      "url": "https://monark.com.pk/products/gol26-006bk",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>An everyday essential, the Black Cotton Socks offer a comfortable feel and timeless style for casual and daily wear</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/5_e5441433-d6ae-4510-8634-b7050ce962c9.jpg?v=1795679701"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421741697": {
+          "id": "41094421741697",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-006BK",
           "available": true,
           "price": 52500,
           "compare_at_price": 75000
@@ -14315,7 +14540,7 @@
             "15"
           ],
           "sku": "RT8612-10-size-15",
-          "available": true,
+          "available": false,
           "price": 479500,
           "compare_at_price": 685000
         },
@@ -18645,6 +18870,88 @@
       },
       "available": true
     },
+    "7103879872641": {
+      "id": "7103879872641",
+      "title": "Black Panelled Sweatshirt",
+      "handle": "rtcw26-16-a",
+      "url": "https://monark.com.pk/products/rtcw26-16-a",
+      "vendor": "Monark",
+      "type": "SweatShirt",
+      "description": "<p>Modern and structured, the Black Panelled Sweatshirt brings visual depth to a classic casual essential through its distinctive panelled construction.<br>\nKey Features:?Contemporary panelled design?Premium soft fabric?Comfortable fit?Versatile black colour?Ideal for modern casual outfits</p>",
+      "tags": [
+        "Facebook Shop",
+        "New Arrivals",
+        "Size-Sweat-25",
+        "Sweatshirt",
+        "Sweatshirts",
+        "W26",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_074042_3ced793b-884f-4ad6-b9dc-27fb881e5711.jpg?v=1795688342",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_074440_00ed74ab-595f-4d80-96a4-c7713e493bf4.jpg?v=1795688342",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_074456_2e3b893c-7887-42db-bc3a-bbaa62951aee.jpg?v=1795688342"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094620512385": {
+          "id": "41094620512385",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "RTCW26-16-A-size-S",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620545153": {
+          "id": "41094620545153",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "RTCW26-16-A-size-M",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620577921": {
+          "id": "41094620577921",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "RTCW26-16-A-size-L",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620610689": {
+          "id": "41094620610689",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "RTCW26-16-A-size-XL",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        }
+      },
+      "available": true
+    },
     "7012896112769": {
       "id": "7012896112769",
       "title": "Black pattern Ankle Socks",
@@ -19168,7 +19475,7 @@
             "S"
           ],
           "sku": "9952-bk-size-S",
-          "available": false,
+          "available": true,
           "price": 222500,
           "compare_at_price": 445000
         },
@@ -21420,7 +21727,7 @@
             "34"
           ],
           "sku": "WC26-01-SIZE-34",
-          "available": true,
+          "available": false,
           "price": 193500,
           "compare_at_price": 645000
         },
@@ -22781,6 +23088,91 @@
           "available": true,
           "price": 192500,
           "compare_at_price": 385000
+        }
+      },
+      "available": true
+    },
+    "7103880396929": {
+      "id": "7103880396929",
+      "title": "Black Regular Fit T-shirt",
+      "handle": "rtcw26-58",
+      "url": "https://monark.com.pk/products/rtcw26-58",
+      "vendor": "Monark",
+      "type": "T-Shirt",
+      "description": "<p>Clean and timeless, the Black Regular Fit T-shirt delivers understated style with a versatile dark shade and an easy-wearing silhouette.<br>\nKey Features:?Classic crew neckline?Premium soft fabric?Comfortable regular fit?Classic black colour?Ideal for everyday casual styling</p>",
+      "tags": [
+        "Casuals",
+        "Elevated Comfort Experience",
+        "Facebook Shop",
+        "New Arrivals",
+        "Polo & T-Shirtss",
+        "S1 2026",
+        "Shirts",
+        "Size-Polo 2026",
+        "Summer Sale",
+        "T-Shirt",
+        "T-Shirts"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_081900_040d5c59-f828-4ed4-bf5d-a6e0179cc146.jpg?v=1795688763",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_082010_1dcf6da7-bfaa-46aa-8f31-23b0e9aec370.jpg?v=1795688763"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094621626497": {
+          "id": "41094621626497",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "RTCW26-58-size-S",
+          "available": true,
+          "price": 142500,
+          "compare_at_price": 285000
+        },
+        "41094621659265": {
+          "id": "41094621659265",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "RTCW26-58-size-M",
+          "available": true,
+          "price": 142500,
+          "compare_at_price": 285000
+        },
+        "41094621692033": {
+          "id": "41094621692033",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "RTCW26-58-size-L",
+          "available": true,
+          "price": 142500,
+          "compare_at_price": 285000
+        },
+        "41094621724801": {
+          "id": "41094621724801",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "RTCW26-58-size-XL",
+          "available": true,
+          "price": 142500,
+          "compare_at_price": 285000
         }
       },
       "available": true
@@ -27036,7 +27428,7 @@
             "M"
           ],
           "sku": "TC26-13-size-M",
-          "available": false,
+          "available": true,
           "price": 242500,
           "compare_at_price": 485000
         },
@@ -28067,7 +28459,7 @@
             "15.5"
           ],
           "sku": "RT1207-10-SIZE-15.5",
-          "available": false,
+          "available": true,
           "price": 479500,
           "compare_at_price": 685000
         },
@@ -28105,7 +28497,7 @@
           "compare_at_price": 685000
         }
       },
-      "available": false
+      "available": true
     },
     "7075009101953": {
       "id": "7075009101953",
@@ -29282,7 +29674,7 @@
             "36"
           ],
           "sku": "MS2526-28-size-36",
-          "available": false,
+          "available": true,
           "price": 2065000,
           "compare_at_price": 2950000
         },
@@ -29315,7 +29707,7 @@
             "42"
           ],
           "sku": "MS2526-28-size-42",
-          "available": false,
+          "available": true,
           "price": 2065000,
           "compare_at_price": 2950000
         }
@@ -31173,7 +31565,7 @@
             "S"
           ],
           "sku": "RSW2517-size-S",
-          "available": false,
+          "available": true,
           "price": 472500,
           "compare_at_price": 945000
         },
@@ -31211,7 +31603,7 @@
           "compare_at_price": 945000
         }
       },
-      "available": false
+      "available": true
     },
     "6960890544257": {
       "id": "6960890544257",
@@ -33006,7 +33398,7 @@
             "32"
           ],
           "sku": "COM26-ANK003-size-32",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -33017,7 +33409,7 @@
             "34"
           ],
           "sku": "COM26-ANK003-size-34",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -33904,7 +34296,7 @@
             "16"
           ],
           "sku": "RCM2659-SIZE-16",
-          "available": false,
+          "available": true,
           "price": 409500,
           "compare_at_price": 585000
         },
@@ -34617,6 +35009,51 @@
           "available": true,
           "price": 269500,
           "compare_at_price": 385000
+        }
+      },
+      "available": true
+    },
+    "7103738052737": {
+      "id": "7103738052737",
+      "title": "BLUE COTTON SOCKS",
+      "handle": "gol26-005bl",
+      "url": "https://monark.com.pk/products/gol26-005bl",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Adding a subtle touch of colour, the Blue Cotton Socks offer everyday comfort with a classic design made for versatile styling</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/5_6a56ae9f-1b7c-46ec-b5c2-ae709b4769ca.jpg?v=1795680810"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421971073": {
+          "id": "41094421971073",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-005BL",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
         }
       },
       "available": true
@@ -36354,6 +36791,51 @@
       },
       "available": true
     },
+    "7103737856129": {
+      "id": "7103737856129",
+      "title": "BLUE LINING SOCKS",
+      "handle": "gol26-002bl",
+      "url": "https://monark.com.pk/products/gol26-002bl",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Featuring a subtle lining detail, the Blue Lining Socks add a refined touch of colour to a comfortable everyday essential</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/14_39b53c29-c1ad-4a98-8024-a92e2beaac0d.jpg?v=1795680235"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421774465": {
+          "id": "41094421774465",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-002BL",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
+        }
+      },
+      "available": true
+    },
     "7078658801793": {
       "id": "7078658801793",
       "title": "BLUE LONG SLEEVE TEXTURED T-SHIRT",
@@ -37581,7 +38063,7 @@
             "34"
           ],
           "sku": "25WSA12-SIZE-34",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -37592,7 +38074,7 @@
             "36"
           ],
           "sku": "25WSA12-SIZE-36",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -37603,12 +38085,12 @@
             "38"
           ],
           "sku": "25WSA12-SIZE-38",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         }
       },
-      "available": true
+      "available": false
     },
     "6924427722881": {
       "id": "6924427722881",
@@ -37950,7 +38432,7 @@
           "options": [
             "30"
           ],
-          "sku": "JWD-014-size-30",
+          "sku": "jwd-014-size-30",
           "available": true,
           "price": 451500,
           "compare_at_price": 645000
@@ -37961,7 +38443,7 @@
           "options": [
             "32"
           ],
-          "sku": "JWD-014-size-32",
+          "sku": "jwd-014-size-32",
           "available": true,
           "price": 451500,
           "compare_at_price": 645000
@@ -37972,7 +38454,7 @@
           "options": [
             "34"
           ],
-          "sku": "JWD-014-size-34",
+          "sku": "jwd-014-size-34",
           "available": true,
           "price": 451500,
           "compare_at_price": 645000
@@ -37983,7 +38465,7 @@
           "options": [
             "36"
           ],
-          "sku": "JWD-014-size-36",
+          "sku": "jwd-014-size-36",
           "available": true,
           "price": 451500,
           "compare_at_price": 645000
@@ -37994,7 +38476,7 @@
           "options": [
             "38"
           ],
-          "sku": "JWD-014-size-38",
+          "sku": "jwd-014-size-38",
           "available": true,
           "price": 451500,
           "compare_at_price": 645000
@@ -40839,12 +41321,12 @@
             "XL"
           ],
           "sku": "RSW2502-size-XL",
-          "available": false,
+          "available": true,
           "price": 292500,
           "compare_at_price": 585000
         }
       },
-      "available": false
+      "available": true
     },
     "6941331423361": {
       "id": "6941331423361",
@@ -43245,6 +43727,88 @@
       },
       "available": true
     },
+    "7103879938177": {
+      "id": "7103879938177",
+      "title": "Brown Contrast Raglan Sleeves Sweatshirt",
+      "handle": "rtcw26-13",
+      "url": "https://monark.com.pk/products/rtcw26-13",
+      "vendor": "Monark",
+      "type": "SweatShirt",
+      "description": "<p>Distinctive in its detailing, the Brown Contrast Raglan Sleeves Sweatshirt combines a warm earthy base with contrasting sleeves for a sporty, contemporary look.<br>\nKey Features:?Contrast raglan sleeve design?Premium soft fabric?Comfortable fit?Rich brown colour combination?Ideal for relaxed casual wear</p>",
+      "tags": [
+        "Facebook Shop",
+        "New Arrivals",
+        "Size-Sweat-25",
+        "Sweatshirt",
+        "Sweatshirts",
+        "W26",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261124_124355_14c39f52-70ab-4a08-be89-89d3eab73ad0.jpg?v=1795688384",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261124_124520_e1fed9e2-4156-4be6-8fb1-56bccea2a6c6.jpg?v=1795688384",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261124_124825_5634aecd-cf0a-4e34-8784-1d9d75760a13.jpg?v=1795688384"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094620676225": {
+          "id": "41094620676225",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "RTCW26-13-size-S",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620708993": {
+          "id": "41094620708993",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "RTCW26-13-size-M",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620741761": {
+          "id": "41094620741761",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "RTCW26-13-size-L",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620774529": {
+          "id": "41094620774529",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "RTCW26-13-size-XL",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        }
+      },
+      "available": true
+    },
     "7073514553473": {
       "id": "7073514553473",
       "title": "Brown Corduroy Shirt",
@@ -43502,6 +44066,51 @@
           "available": true,
           "price": 875000,
           "compare_at_price": 1250000
+        }
+      },
+      "available": true
+    },
+    "7103737659521": {
+      "id": "7103737659521",
+      "title": "BROWN COTTON SOCKS",
+      "handle": "gol26-005br",
+      "url": "https://monark.com.pk/products/gol26-005br",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Soft and versatile, the Brown Cotton Socks bring everyday comfort and a timeless look to your daily wardrobe</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/3_4725283e-790c-4d37-b434-964c901afd45.jpg?v=1795680691"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421577857": {
+          "id": "41094421577857",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-005BR",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
         }
       },
       "available": true
@@ -45674,7 +46283,7 @@
             "L"
           ],
           "sku": "2614-br-size-L",
-          "available": true,
+          "available": false,
           "price": 322500,
           "compare_at_price": 645000
         },
@@ -46841,8 +47450,8 @@
           ],
           "sku": "Xg19652-br-size-S",
           "available": true,
-          "price": 888090,
-          "compare_at_price": 1268700
+          "price": 1011500,
+          "compare_at_price": 1445000
         },
         "41081840992385": {
           "id": "41081840992385",
@@ -46852,8 +47461,8 @@
           ],
           "sku": "Xg19652-br-size-M",
           "available": true,
-          "price": 888090,
-          "compare_at_price": 1268700
+          "price": 1011500,
+          "compare_at_price": 1445000
         },
         "41081841025153": {
           "id": "41081841025153",
@@ -46863,8 +47472,8 @@
           ],
           "sku": "Xg19652-br-size-L",
           "available": true,
-          "price": 888090,
-          "compare_at_price": 1268700
+          "price": 1011500,
+          "compare_at_price": 1445000
         },
         "41081841057921": {
           "id": "41081841057921",
@@ -46874,8 +47483,8 @@
           ],
           "sku": "Xg19652-br-size-XL",
           "available": true,
-          "price": 888090,
-          "compare_at_price": 1268700
+          "price": 1011500,
+          "compare_at_price": 1445000
         }
       },
       "available": true
@@ -50964,7 +51573,7 @@
             "36"
           ],
           "sku": "25WSA14-size-36",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -50980,7 +51589,7 @@
           "compare_at_price": 585000
         }
       },
-      "available": true
+      "available": false
     },
     "6964413268097": {
       "id": "6964413268097",
@@ -51186,7 +51795,7 @@
             "XL"
           ],
           "sku": "RTCW26-37-size-XL",
-          "available": false,
+          "available": true,
           "price": 409500,
           "compare_at_price": 585000
         }
@@ -51740,7 +52349,7 @@
             "40"
           ],
           "sku": "T379-03-size-40",
-          "available": true,
+          "available": false,
           "price": 1225000,
           "compare_at_price": 2450000
         },
@@ -52714,6 +53323,94 @@
       },
       "available": true
     },
+    "7103880233089": {
+      "id": "7103880233089",
+      "title": "Charcoal Brown Textured Coat",
+      "handle": "718036-9",
+      "url": "https://monark.com.pk/products/718036-9",
+      "vendor": "Monark",
+      "type": "Blazers",
+      "description": "<p>Rich in character, the Charcoal Brown Textured Coat blends a deep earthy tone with a distinctive textured finish for understated sophistication.<br>\nKey Features:?Classic coat design?Premium textured fabric?Structured silhouette?Charcoal brown shade?Ideal for refined seasonal styling</p>",
+      "tags": [
+        "Blazers",
+        "Brown",
+        "Casuals",
+        "Coat-2025",
+        "Coats",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "W26",
+        "Winter",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/FH1A0612.jpg?v=1795688576",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/FH1A0615.jpg?v=1795688576",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/FH1A0619.jpg?v=1795688576",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_092821_749893c7-0d7a-4eff-a67c-df592adf23f4.jpg?v=1795688576",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_102130_4fec17f6-3336-4060-84de-bde4b52b6a22.jpg?v=1795688576"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36",
+            "38",
+            "40",
+            "42"
+          ]
+        }
+      ],
+      "variants": {
+        "41094621266049": {
+          "id": "41094621266049",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "718036-9-size-36",
+          "available": false,
+          "price": 1715000,
+          "compare_at_price": 2450000
+        },
+        "41094621298817": {
+          "id": "41094621298817",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "718036-9-size-38",
+          "available": true,
+          "price": 1715000,
+          "compare_at_price": 2450000
+        },
+        "41094621331585": {
+          "id": "41094621331585",
+          "title": "40",
+          "options": [
+            "40"
+          ],
+          "sku": "718036-9-size-40",
+          "available": true,
+          "price": 1715000,
+          "compare_at_price": 2450000
+        },
+        "41094621364353": {
+          "id": "41094621364353",
+          "title": "42",
+          "options": [
+            "42"
+          ],
+          "sku": "718036-9-size-42",
+          "available": true,
+          "price": 1715000,
+          "compare_at_price": 2450000
+        }
+      },
+      "available": true
+    },
     "7051331174529": {
       "id": "7051331174529",
       "title": "CHARCOAL Checkered Formal Shirt",
@@ -53678,6 +54375,91 @@
           "available": false,
           "price": 242500,
           "compare_at_price": 485000
+        }
+      },
+      "available": true
+    },
+    "7103879544961": {
+      "id": "7103879544961",
+      "title": "Charcoal Grey Textured Utility Jacket",
+      "handle": "rtcw26-45",
+      "url": "https://monark.com.pk/products/rtcw26-45",
+      "vendor": "Monark Clothing",
+      "type": "Jackets",
+      "description": "<p>A contemporary take on functional outerwear, the Charcoal Grey Textured Utility Jacket pairs a practical design with a muted tone and distinctive texture.<br>\nKey Features:?Utility-inspired design?Premium textured fabric?Functional pocket detailing?Charcoal grey shade?Ideal for versatile casual layering</p>",
+      "tags": [
+        "Bold Seasonal Layer",
+        "Facebook",
+        "Jacket-2025",
+        "Jackets",
+        "New Arrivals",
+        "New Arrrivals",
+        "Size-Jacket-25",
+        "W26",
+        "Winter",
+        "new arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261124_122223_088d185b-7422-41a4-beec-9619af2efe63.jpg?v=1795688179",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261124_122554_f8c6acc2-fa47-4cda-873e-e36c79d4ca77.jpg?v=1795688179",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261124_122709_c540c9ce-c0b9-41a3-8b31-e89550b161c9.jpg?v=1795688179"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094619431041": {
+          "id": "41094619431041",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "RTCW26-45-size-S",
+          "available": true,
+          "price": 875000,
+          "compare_at_price": 1250000
+        },
+        "41094619463809": {
+          "id": "41094619463809",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "RTCW26-45-size-M",
+          "available": true,
+          "price": 875000,
+          "compare_at_price": 1250000
+        },
+        "41094619496577": {
+          "id": "41094619496577",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "RTCW26-45-size-L",
+          "available": true,
+          "price": 875000,
+          "compare_at_price": 1250000
+        },
+        "41094619529345": {
+          "id": "41094619529345",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "RTCW26-45-size-XL",
+          "available": true,
+          "price": 875000,
+          "compare_at_price": 1250000
         }
       },
       "available": true
@@ -55508,6 +56290,88 @@
       },
       "available": true
     },
+    "7103879807105": {
+      "id": "7103879807105",
+      "title": "Chocolate Brown Embroidered Sweatshirt",
+      "handle": "rtcw26-61",
+      "url": "https://monark.com.pk/products/rtcw26-61",
+      "vendor": "Monark",
+      "type": "SweatShirt",
+      "description": "<p>Warm and distinctive, the Chocolate Brown Embroidered Sweatshirt combines a rich earthy shade with refined embroidery for a polished casual look.<br>\nKey Features:?Classic sweatshirt design?Premium soft fabric?Detailed embroidery?Rich chocolate brown shade?Ideal for effortless casual styling</p>",
+      "tags": [
+        "Facebook Shop",
+        "New Arrivals",
+        "Size-Sweat-25",
+        "Sweatshirt",
+        "Sweatshirts",
+        "W26",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_072516_227a8a31-e6d2-4d2d-8ebf-cd638081a5d6.jpg?v=1795688299",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_072549_3704a097-fbc5-4288-98be-0cb4a58b259e.jpg?v=1795688299",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_072907_cd5224c5-2e29-417c-9ee6-fe20b310eb5e.jpg?v=1795688299"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094620348545": {
+          "id": "41094620348545",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "RTCW26-61-size-S",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620381313": {
+          "id": "41094620381313",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "RTCW26-61-size-M",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620414081": {
+          "id": "41094620414081",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "RTCW26-61-size-L",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094620446849": {
+          "id": "41094620446849",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "RTCW26-61-size-XL",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        }
+      },
+      "available": true
+    },
     "6939829469313": {
       "id": "6939829469313",
       "title": "Chocolate Brown Johnny Collar Sweater",
@@ -56785,7 +57649,7 @@
             "16.5"
           ],
           "sku": "RCM2629-size-16.5",
-          "available": false,
+          "available": true,
           "price": 342500,
           "compare_at_price": 685000
         },
@@ -57900,6 +58764,107 @@
           "available": true,
           "price": 479500,
           "compare_at_price": 685000
+        }
+      },
+      "available": true
+    },
+    "7103880593537": {
+      "id": "7103880593537",
+      "title": "Dark Blue Straight Fit Jeans",
+      "handle": "jwd-020",
+      "url": "https://monark.com.pk/products/jwd-020",
+      "vendor": "Monark",
+      "type": "Jeans",
+      "description": "<p>Modern and versatile, the Dark Blue Blue Straight Fit Jeans offer a streamlined silhouette with a classic denim finish for a sharp, effortless look.<br>\nKey Features:?Classic five-pocket design?Premium denim fabric?Straight fit?Versatile blue wash?Ideal for casual and smart-casual styling</p>",
+      "tags": [
+        "2026",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38",
+        "Casuals",
+        "Facebook Shop",
+        "Jeans",
+        "Jeans/Chinos",
+        "New Arrivals",
+        "New In",
+        "Size-Jean Stright 2026",
+        "W26",
+        "new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261126_075253_99d315d4-6a91-4f9e-8841-67c56fc22d8e.jpg?v=1795688879",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261126_075342_159f7b85-90ac-4cd9-84dd-5ac4edb9acc6.jpg?v=1795688879"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        }
+      ],
+      "variants": {
+        "41094622085249": {
+          "id": "41094622085249",
+          "title": "30",
+          "options": [
+            "30"
+          ],
+          "sku": "JWD-020-size-30",
+          "available": true,
+          "price": 451500,
+          "compare_at_price": 645000
+        },
+        "41094622118017": {
+          "id": "41094622118017",
+          "title": "32",
+          "options": [
+            "32"
+          ],
+          "sku": "JWD-020-size-32",
+          "available": true,
+          "price": 451500,
+          "compare_at_price": 645000
+        },
+        "41094622150785": {
+          "id": "41094622150785",
+          "title": "34",
+          "options": [
+            "34"
+          ],
+          "sku": "JWD-020-size-34",
+          "available": true,
+          "price": 451500,
+          "compare_at_price": 645000
+        },
+        "41094622183553": {
+          "id": "41094622183553",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "JWD-020-size-36",
+          "available": true,
+          "price": 451500,
+          "compare_at_price": 645000
+        },
+        "41094622216321": {
+          "id": "41094622216321",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "JWD-020-size-38",
+          "available": true,
+          "price": 451500,
+          "compare_at_price": 645000
         }
       },
       "available": true
@@ -63149,12 +64114,12 @@
             "Default Title"
           ],
           "sku": "GLMNK25-03A",
-          "available": false,
+          "available": true,
           "price": 525000,
           "compare_at_price": 750000
         }
       },
-      "available": false
+      "available": true
     },
     "6931885326465": {
       "id": "6931885326465",
@@ -66912,7 +67877,7 @@
             "M"
           ],
           "sku": "MNK116-size-M",
-          "available": true,
+          "available": false,
           "price": 142500,
           "compare_at_price": 285000
         },
@@ -67192,6 +68157,96 @@
           "available": true,
           "price": 455000,
           "compare_at_price": 650000
+        }
+      },
+      "available": true
+    },
+    "7103737757825": {
+      "id": "7103737757825",
+      "title": "GREY COTTON ANKLE SOCKS",
+      "handle": "gol26-001gr",
+      "url": "https://monark.com.pk/products/gol26-001gr",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Designed for everyday movement, the Grey Cotton Ankle Socks offer a comfortable fit with a minimal, easy-to-style look</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/6_80580b94-e28f-403f-8019-16dbea59a9f9.jpg?v=1795679460"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421676161": {
+          "id": "41094421676161",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-001GR",
+          "available": true,
+          "price": 45500,
+          "compare_at_price": 65000
+        }
+      },
+      "available": true
+    },
+    "7103737888897": {
+      "id": "7103737888897",
+      "title": "GREY COTTON SOCKS",
+      "handle": "gol26-006gr",
+      "url": "https://monark.com.pk/products/gol26-006gr",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>The Grey Cotton Socks combine everyday comfort with a versatile design, making them an easy essential for daily dressing</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/7_6edd2513-c207-443c-a173-82183ede1c36.jpg?v=1795680277"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421807233": {
+          "id": "41094421807233",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-006GR",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
         }
       },
       "available": true
@@ -69294,7 +70349,7 @@
             "15"
           ],
           "sku": "MAD25-38-size-15",
-          "available": true,
+          "available": false,
           "price": 272500,
           "compare_at_price": 545000
         },
@@ -70151,6 +71206,91 @@
       },
       "available": true
     },
+    "7103880331393": {
+      "id": "7103880331393",
+      "title": "Grey Regular Fit T-shirt",
+      "handle": "rtcw26-54",
+      "url": "https://monark.com.pk/products/rtcw26-54",
+      "vendor": "Monark",
+      "type": "T-Shirt",
+      "description": "<p>A refined casual essential, the Grey Regular Fit T-shirt pairs a versatile neutral shade with a clean silhouette for effortless everyday styling.<br>\nKey Features:?Classic crew neckline?Premium soft fabric?Comfortable regular fit?Versatile grey shade?Ideal for casual layering and standalone wear</p>",
+      "tags": [
+        "Casuals",
+        "Elevated Comfort Experience",
+        "Facebook Shop",
+        "New Arrivals",
+        "Polo & T-Shirtss",
+        "S1 2026",
+        "Shirts",
+        "Size-Polo 2026",
+        "Summer Sale",
+        "T-Shirt",
+        "T-Shirts"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_091103_52a9c7c9-f4b0-4158-afd7-6368ac18a0f6.jpg?v=1795688715",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_091140_14d32c5d-e28d-4dab-977b-3dfbe58b463e.jpg?v=1795688715"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094621462657": {
+          "id": "41094621462657",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "RTCW26-54-size-S",
+          "available": true,
+          "price": 192500,
+          "compare_at_price": 385000
+        },
+        "41094621495425": {
+          "id": "41094621495425",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "RTCW26-54-size-M",
+          "available": true,
+          "price": 192500,
+          "compare_at_price": 385000
+        },
+        "41094621528193": {
+          "id": "41094621528193",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "RTCW26-54-size-L",
+          "available": true,
+          "price": 192500,
+          "compare_at_price": 385000
+        },
+        "41094621560961": {
+          "id": "41094621560961",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "RTCW26-54-size-XL",
+          "available": true,
+          "price": 192500,
+          "compare_at_price": 385000
+        }
+      },
+      "available": true
+    },
     "7073266696321": {
       "id": "7073266696321",
       "title": "GREY SHERPA BUTTON-UP JACKET",
@@ -70976,6 +72116,94 @@
       },
       "available": true
     },
+    "7103880134785": {
+      "id": "7103880134785",
+      "title": "Grey Textured Double Breasted Coat",
+      "handle": "co1-04-gr",
+      "url": "https://monark.com.pk/products/co1-04-gr",
+      "vendor": "Monark",
+      "type": "Blazers",
+      "description": "<p>Sharp and sophisticated, the Grey Textured Double Breasted Coat combines a distinguished double-breasted front with a refined surface texture for a polished outerwear statement.<br>\nKey Features:?Classic double-breasted design?Premium textured fabric?Structured silhouette?Versatile grey shade?Ideal for formal and elevated winter styling</p>",
+      "tags": [
+        "Blazers",
+        "Brown",
+        "Casuals",
+        "Coat-2025",
+        "Coats",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "W26",
+        "Winter",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/000105540_36e64677-0358-4fb5-a831-9b6de0618028.jpg?v=1795688527",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/000105546.jpg?v=1795688527",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/000105548.jpg?v=1795688527",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/000105557.jpg?v=1795688527",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/FY4A9513_i.jpg?v=1795688529"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36",
+            "38",
+            "40",
+            "42"
+          ]
+        }
+      ],
+      "variants": {
+        "41094621069441": {
+          "id": "41094621069441",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "CO1-04-GR-size-36",
+          "available": true,
+          "price": 1575000,
+          "compare_at_price": 2250000
+        },
+        "41094621102209": {
+          "id": "41094621102209",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "CO1-04-GR-size-38",
+          "available": true,
+          "price": 1575000,
+          "compare_at_price": 2250000
+        },
+        "41094621134977": {
+          "id": "41094621134977",
+          "title": "40",
+          "options": [
+            "40"
+          ],
+          "sku": "CO1-04-GR-size-40",
+          "available": true,
+          "price": 1575000,
+          "compare_at_price": 2250000
+        },
+        "41094621167745": {
+          "id": "41094621167745",
+          "title": "42",
+          "options": [
+            "42"
+          ],
+          "sku": "CO1-04-GR-size-42",
+          "available": true,
+          "price": 1575000,
+          "compare_at_price": 2250000
+        }
+      },
+      "available": true
+    },
     "6960868327553": {
       "id": "6960868327553",
       "title": "Grey Textured Formal Coat",
@@ -71339,6 +72567,133 @@
             "17"
           ],
           "sku": "8625-17-SIZE-17",
+          "available": true,
+          "price": 479500,
+          "compare_at_price": 685000
+        }
+      },
+      "available": true
+    },
+    "7103737626753": {
+      "id": "7103737626753",
+      "title": "GREY TEXTURED SOCKS",
+      "handle": "gol26-003gr",
+      "url": "https://monark.com.pk/products/gol26-003gr",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Featuring a textured finish, the Grey Textured Socks offer a comfortable feel and understated style for everyday essentials</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/2_511004aa-13f8-44d9-b7c7-3e49f033d6b2.jpg?v=1795679197"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421545089": {
+          "id": "41094421545089",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-003GR",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
+        }
+      },
+      "available": true
+    },
+    "7103888982145": {
+      "id": "7103888982145",
+      "title": "GREY TEXTURED SWEATSHIRT",
+      "handle": "yx-88169-gr",
+      "url": "https://monark.com.pk/products/yx-88169-gr",
+      "vendor": "Monark",
+      "type": "SweatShirt",
+      "description": "<p>Crafted from a breathable, mid-weight fabric blend, it offers a soft interior feel for all-day comfort while holding a clean, structured silhouette on the outside. Finished with classic ribbed cuffs, collar, and hem, it’s effortless to wear on its own with denim or layered under a jacket.<br>\nKey Features:<br>\nTactile Finish: Subtle all-over textured weave for an elevated, modern look.<br>\nAll-Day Comfort: Soft, breathable fabric that feels great against the skin.<br>\nTailored Fit: Relaxed through the body with a neat, structured drape.</p>",
+      "tags": [
+        "Facebook Shop",
+        "New Arrivals",
+        "Size-Sweat-25",
+        "Sweatshirt",
+        "Sweatshirts",
+        "W26",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/M743.jpg?v=1795692276",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/M756.jpg?v=1795692276",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/M767.jpg?v=1795692276"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094635389057": {
+          "id": "41094635389057",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "YX-88169-GR-SIZE-S",
+          "available": true,
+          "price": 479500,
+          "compare_at_price": 685000
+        },
+        "41094635421825": {
+          "id": "41094635421825",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "YX-88169-GR-SIZE-M",
+          "available": true,
+          "price": 479500,
+          "compare_at_price": 685000
+        },
+        "41094635454593": {
+          "id": "41094635454593",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "YX-88169-GR-SIZE-L",
+          "available": false,
+          "price": 479500,
+          "compare_at_price": 685000
+        },
+        "41094635487361": {
+          "id": "41094635487361",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "YX-88169-GR-SIZE-XL",
           "available": true,
           "price": 479500,
           "compare_at_price": 685000
@@ -72708,12 +74063,12 @@
             "Default Title"
           ],
           "sku": "GLMNK25-06",
-          "available": false,
+          "available": true,
           "price": 525000,
           "compare_at_price": 750000
         }
       },
-      "available": false
+      "available": true
     },
     "6931884671105": {
       "id": "6931884671105",
@@ -73124,7 +74479,7 @@
             "34"
           ],
           "sku": "25WSA11-SIZE-34",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -73135,7 +74490,7 @@
             "36"
           ],
           "sku": "25WSA11-SIZE-36",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -77272,7 +78627,7 @@
             "40"
           ],
           "sku": "CO4-27-BG-size-40",
-          "available": false,
+          "available": true,
           "price": 1575000,
           "compare_at_price": 2250000
         },
@@ -78920,7 +80275,7 @@
             "L"
           ],
           "sku": "RT2629-SIZE-L",
-          "available": false,
+          "available": true,
           "price": 242500,
           "compare_at_price": 485000
         },
@@ -79113,6 +80468,51 @@
         }
       },
       "available": false
+    },
+    "7103737593985": {
+      "id": "7103737593985",
+      "title": "MAROON LINING SOCKS",
+      "handle": "gol26-002mr",
+      "url": "https://monark.com.pk/products/gol26-002mr",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Designed for everyday comfort, the Maroon Lining Socks feature a subtle lining detail and a comfortable fit for effortless daily wear</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/1_cb8c6434-f91a-4042-8ea1-12bb32c96806.jpg?v=1795679067"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421512321": {
+          "id": "41094421512321",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-002MR",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
+        }
+      },
+      "available": true
     },
     "6917910888577": {
       "id": "6917910888577",
@@ -82195,7 +83595,7 @@
             "XL"
           ],
           "sku": "5566-GR-size-XL",
-          "available": false,
+          "available": true,
           "price": 115500,
           "compare_at_price": 165000
         }
@@ -82862,7 +84262,7 @@
             "36"
           ],
           "sku": "MNK25-SA09-size-36",
-          "available": true,
+          "available": false,
           "price": 322500,
           "compare_at_price": 645000
         },
@@ -83014,7 +84414,7 @@
             "S"
           ],
           "sku": "MOK25-03-size-S",
-          "available": false,
+          "available": true,
           "price": 625000,
           "compare_at_price": 1250000
         },
@@ -83063,7 +84463,7 @@
           "compare_at_price": 1250000
         }
       },
-      "available": false
+      "available": true
     },
     "6939823767681": {
       "id": "6939823767681",
@@ -83417,7 +84817,7 @@
             "L"
           ],
           "sku": "RT2608-SIZE-L",
-          "available": true,
+          "available": false,
           "price": 242500,
           "compare_at_price": 485000
         },
@@ -83984,7 +85384,7 @@
             "38"
           ],
           "sku": "T25-04-size-38",
-          "available": false,
+          "available": true,
           "price": 342500,
           "compare_at_price": 685000
         }
@@ -87171,12 +88571,12 @@
             "38"
           ],
           "sku": "WC25-46-size-38",
-          "available": true,
+          "available": false,
           "price": 322500,
           "compare_at_price": 645000
         }
       },
-      "available": true
+      "available": false
     },
     "6964413169793": {
       "id": "6964413169793",
@@ -88229,6 +89629,88 @@
       },
       "available": true
     },
+    "7103879741569": {
+      "id": "7103879741569",
+      "title": "Navy Embroidered Sweatshirt",
+      "handle": "rtcw26-48",
+      "url": "https://monark.com.pk/products/rtcw26-48",
+      "vendor": "Monark",
+      "type": "SweatShirt",
+      "description": "<p>Timeless with a refined detail, the Navy Embroidered Sweatshirt pairs a deep navy base with subtle embroidery for a distinctive casual finish.<br>\nKey Features:?Classic sweatshirt design?Premium soft fabric?Distinctive embroidery detail?Rich navy shade?Ideal for elevated casual wear</p>",
+      "tags": [
+        "Facebook Shop",
+        "New Arrivals",
+        "Size-Sweat-25",
+        "Sweatshirt",
+        "Sweatshirts",
+        "W26",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_073400_aa52add0-00e3-48a8-8ad6-9010f2a495d1.jpg?v=1795688261",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_073619_3ecbf4d6-a277-413a-8da1-ca36d48e8ce3.jpg?v=1795688261",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_073754_ce9e9552-eae1-4b18-9ff0-01af65af891a.jpg?v=1795688261"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094619824257": {
+          "id": "41094619824257",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "RTCW26-48-size-S",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094619857025": {
+          "id": "41094619857025",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "RTCW26-48-size-M",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094619889793": {
+          "id": "41094619889793",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "RTCW26-48-size-L",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094619922561": {
+          "id": "41094619922561",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "RTCW26-48-size-XL",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        }
+      },
+      "available": true
+    },
     "6933901246593": {
       "id": "6933901246593",
       "title": "NAVY FORMAL SHIRT",
@@ -88550,7 +90032,7 @@
             "2XL"
           ],
           "sku": "7002-BL-SIZE-2XL",
-          "available": false,
+          "available": true,
           "price": 311500,
           "compare_at_price": 445000
         }
@@ -88978,7 +90460,7 @@
           "options": [
             "S"
           ],
-          "sku": "RT2640-SIZE-S",
+          "sku": "rt2640-size-S",
           "available": false,
           "price": 192500,
           "compare_at_price": 385000
@@ -88989,7 +90471,7 @@
           "options": [
             "M"
           ],
-          "sku": "RT2640-SIZE-M",
+          "sku": "rt2640-size-M",
           "available": true,
           "price": 192500,
           "compare_at_price": 385000
@@ -89000,7 +90482,7 @@
           "options": [
             "L"
           ],
-          "sku": "RT2640-SIZE-L",
+          "sku": "rt2640-size-L",
           "available": false,
           "price": 192500,
           "compare_at_price": 385000
@@ -89011,7 +90493,7 @@
           "options": [
             "XL"
           ],
-          "sku": "RT2640-SIZE-XL",
+          "sku": "rt2640-size-XL",
           "available": true,
           "price": 192500,
           "compare_at_price": 385000
@@ -89199,7 +90681,7 @@
             "32"
           ],
           "sku": "MRK08-BL-size-32",
-          "available": true,
+          "available": false,
           "price": 342500,
           "compare_at_price": 685000
         },
@@ -90103,6 +91585,88 @@
           "available": true,
           "price": 242500,
           "compare_at_price": 485000
+        }
+      },
+      "available": true
+    },
+    "7102858854529": {
+      "id": "7102858854529",
+      "title": "Off White Coat",
+      "handle": "722799-2wt",
+      "url": "https://monark.com.pk/products/722799-2wt",
+      "vendor": "Monark",
+      "type": "Blazers",
+      "description": "<p>Understated and sophisticated, the Off White Coat brings a fresh neutral tone to classic outerwear with a clean, refined silhouette.<br>\nKey Features:?Classic coat design?Premium fabric?Structured silhouette?Versatile off-white shade?Ideal for formal and smart-casual styling</p>",
+      "tags": [
+        "Blazers",
+        "Brown",
+        "Casuals",
+        "Coat-2025",
+        "Coats",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "W26",
+        "Winter",
+        "badge_new"
+      ],
+      "images": [],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36",
+            "38",
+            "40",
+            "42"
+          ]
+        }
+      ],
+      "variants": {
+        "41087571787905": {
+          "id": "41087571787905",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "722799-2WT-size-36",
+          "available": true,
+          "price": 1715000,
+          "compare_at_price": 2450000
+        },
+        "41087571820673": {
+          "id": "41087571820673",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "722799-2WT-size-38",
+          "available": true,
+          "price": 1715000,
+          "compare_at_price": 2450000
+        },
+        "41087571853441": {
+          "id": "41087571853441",
+          "title": "40",
+          "options": [
+            "40"
+          ],
+          "sku": "722799-2WT-size-40",
+          "available": true,
+          "price": 1715000,
+          "compare_at_price": 2450000
+        },
+        "41087571886209": {
+          "id": "41087571886209",
+          "title": "42",
+          "options": [
+            "42"
+          ],
+          "sku": "722799-2WT-size-42",
+          "available": true,
+          "price": 1715000,
+          "compare_at_price": 2450000
         }
       },
       "available": true
@@ -92384,7 +93948,7 @@
           "options": [
             "30"
           ],
-          "sku": "HRM26-TRJ-010-size-30",
+          "sku": "hrm26-trj-010-size-30",
           "available": true,
           "price": 479500,
           "compare_at_price": 685000
@@ -92395,7 +93959,7 @@
           "options": [
             "32"
           ],
-          "sku": "HRM26-TRJ-010-size-32",
+          "sku": "hrm26-trj-010-size-32",
           "available": true,
           "price": 479500,
           "compare_at_price": 685000
@@ -92406,7 +93970,7 @@
           "options": [
             "34"
           ],
-          "sku": "HRM26-TRJ-010-size-34",
+          "sku": "hrm26-trj-010-size-34",
           "available": true,
           "price": 479500,
           "compare_at_price": 685000
@@ -92417,7 +93981,7 @@
           "options": [
             "36"
           ],
-          "sku": "HRM26-TRJ-010-size-36",
+          "sku": "hrm26-trj-010-size-36",
           "available": true,
           "price": 479500,
           "compare_at_price": 685000
@@ -92428,7 +93992,7 @@
           "options": [
             "38"
           ],
-          "sku": "HRM26-TRJ-010-size-38",
+          "sku": "hrm26-trj-010-size-38",
           "available": true,
           "price": 479500,
           "compare_at_price": 685000
@@ -94183,6 +95747,95 @@
           "available": true,
           "price": 1011500,
           "compare_at_price": 1445000
+        }
+      },
+      "available": true
+    },
+    "7103880069249": {
+      "id": "7103880069249",
+      "title": "Olive Brown Textured Coat",
+      "handle": "727661-11br",
+      "url": "https://monark.com.pk/products/727661-11br",
+      "vendor": "Monark",
+      "type": "Blazers",
+      "description": "<p>Distinctive and understated, the Olive Brown Textured Coat brings together earthy colour and rich texture for a refined seasonal look.<br>\nKey Features:?Classic coat design?Premium textured fabric?Structured silhouette?Unique olive brown shade?Ideal for smart-casual and formal styling</p>",
+      "tags": [
+        "Blazers",
+        "Brown",
+        "Casuals",
+        "Coat-2025",
+        "Coats",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "W26",
+        "Winter",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/FH1A0646.jpg?v=1795688473",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/FH1A0654.jpg?v=1795688473",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/FH1A0660.jpg?v=1795688473",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_092157_f3138655-c96f-416f-bbd5-68f9ed455bff.jpg?v=1795688472",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_092212_69e7a5b0-14c3-4cab-be27-45a0b03a7c1d.jpg?v=1795688473",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_092305_8024391f-60e5-4b26-97ad-063d79e50de6.jpg?v=1795688473"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "36",
+            "38",
+            "40",
+            "42"
+          ]
+        }
+      ],
+      "variants": {
+        "41094620905601": {
+          "id": "41094620905601",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "727661-11BR-size-36",
+          "available": true,
+          "price": 1575000,
+          "compare_at_price": 2250000
+        },
+        "41094620938369": {
+          "id": "41094620938369",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "727661-11BR-size-38",
+          "available": true,
+          "price": 1575000,
+          "compare_at_price": 2250000
+        },
+        "41094620971137": {
+          "id": "41094620971137",
+          "title": "40",
+          "options": [
+            "40"
+          ],
+          "sku": "727661-11BR-size-40",
+          "available": true,
+          "price": 1575000,
+          "compare_at_price": 2250000
+        },
+        "41094621003905": {
+          "id": "41094621003905",
+          "title": "42",
+          "options": [
+            "42"
+          ],
+          "sku": "727661-11BR-size-42",
+          "available": true,
+          "price": 1575000,
+          "compare_at_price": 2250000
         }
       },
       "available": true
@@ -96743,6 +98396,115 @@
       },
       "available": true
     },
+    "7103880495233": {
+      "id": "7103880495233",
+      "title": "Olive Green Regular Fit Chinos",
+      "handle": "hrm-sp-018",
+      "url": "https://monark.com.pk/products/hrm-sp-018",
+      "vendor": "Monark",
+      "type": "Cotton Pants",
+      "description": "<p>Bringing an earthy edge to smart-casual dressing, the Olive Green Regular Fit Chinos combine a versatile colour with a clean, balanced silhouette.<br>\nKey Features:?Classic chino design?Premium fabric?Comfortable regular fit?Muted olive green shade?Ideal for smart-casual and everyday outfits</p>",
+      "tags": [
+        "2026",
+        "26",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38",
+        "Casuals",
+        "Chinos & 5 Pockets",
+        "Chinos/Short",
+        "Cotton Pants",
+        "Facebook Shop",
+        "Jeans/Chino",
+        "Jeans/Chinos",
+        "New Arrivals",
+        "New Arrrivals",
+        "New In",
+        "Size",
+        "Size-Chi-WC",
+        "W26",
+        "men-bottoms",
+        "new",
+        "new arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_104728_ad2c6f2f-d56b-4988-a531-dee491dead61.jpg?v=1795688820",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_110525_b33d009b-eebb-49dc-9f73-5ef2d5b44b3f.jpg?v=1795688820"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        }
+      ],
+      "variants": {
+        "41094621823105": {
+          "id": "41094621823105",
+          "title": "30",
+          "options": [
+            "30"
+          ],
+          "sku": "HRM-SP-018-size-30",
+          "available": true,
+          "price": 479500,
+          "compare_at_price": 685000
+        },
+        "41094621855873": {
+          "id": "41094621855873",
+          "title": "32",
+          "options": [
+            "32"
+          ],
+          "sku": "HRM-SP-018-size-32",
+          "available": true,
+          "price": 479500,
+          "compare_at_price": 685000
+        },
+        "41094621888641": {
+          "id": "41094621888641",
+          "title": "34",
+          "options": [
+            "34"
+          ],
+          "sku": "HRM-SP-018-size-34",
+          "available": true,
+          "price": 479500,
+          "compare_at_price": 685000
+        },
+        "41094621921409": {
+          "id": "41094621921409",
+          "title": "36",
+          "options": [
+            "36"
+          ],
+          "sku": "HRM-SP-018-size-36",
+          "available": true,
+          "price": 479500,
+          "compare_at_price": 685000
+        },
+        "41094621954177": {
+          "id": "41094621954177",
+          "title": "38",
+          "options": [
+            "38"
+          ],
+          "sku": "HRM-SP-018-size-38",
+          "available": true,
+          "price": 479500,
+          "compare_at_price": 685000
+        }
+      },
+      "available": true
+    },
     "6964782530689": {
       "id": "6964782530689",
       "title": "Olive Green Regular fit jeans",
@@ -97471,6 +99233,88 @@
             "XL"
           ],
           "sku": "NDW26-SW010-size-XL",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        }
+      },
+      "available": true
+    },
+    "7103879643265": {
+      "id": "7103879643265",
+      "title": "Olive Green Sweatshirt",
+      "handle": "rtcw26-16",
+      "url": "https://monark.com.pk/products/rtcw26-16",
+      "vendor": "Monark",
+      "type": "SweatShirt",
+      "description": "<p>Grounded in an earthy tone, the Olive Green Sweatshirt offers a clean, versatile design that adds subtle character to casual wear.<br>\nKey Features:?Classic sweatshirt design?Premium soft fabric?Comfortable fit?Muted olive green shade?Ideal for relaxed casual styling</p>",
+      "tags": [
+        "Facebook Shop",
+        "New Arrivals",
+        "Size-Sweat-25",
+        "Sweatshirt",
+        "Sweatshirts",
+        "W26",
+        "Winter"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_072038_fed50114-693c-4933-8172-f64809129560.jpg?v=1795688222",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_072144_5529343b-7a50-4f7c-b0be-d5b7e0b662b0.jpg?v=1795688222",
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/hf_20261125_072246_375c8440-3faa-495f-b16c-53f5d6ef1546.jpg?v=1795688222"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "41094619627649": {
+          "id": "41094619627649",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "RTCW26-16-size-S",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094619660417": {
+          "id": "41094619660417",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "RTCW26-16-size-M",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094619693185": {
+          "id": "41094619693185",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "RTCW26-16-size-L",
+          "available": true,
+          "price": 339500,
+          "compare_at_price": 485000
+        },
+        "41094619725953": {
+          "id": "41094619725953",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "RTCW26-16-size-XL",
           "available": true,
           "price": 339500,
           "compare_at_price": 485000
@@ -102058,7 +103902,7 @@
             "17"
           ],
           "sku": "MAD2612-size-17",
-          "available": false,
+          "available": true,
           "price": 292500,
           "compare_at_price": 585000
         }
@@ -107149,7 +108993,7 @@
             "16"
           ],
           "sku": "MAD2632-size-16",
-          "available": false,
+          "available": true,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -108120,7 +109964,7 @@
             "17"
           ],
           "sku": "RCM2609-size-17",
-          "available": true,
+          "available": false,
           "price": 342500,
           "compare_at_price": 685000
         }
@@ -110722,7 +112566,7 @@
             "16"
           ],
           "sku": "RCM2639-size-16",
-          "available": true,
+          "available": false,
           "price": 292500,
           "compare_at_price": 585000
         },
@@ -113267,7 +115111,7 @@
             "16"
           ],
           "sku": "mad25-16-size-16",
-          "available": false,
+          "available": true,
           "price": 292500,
           "compare_at_price": 585000
         }
@@ -114427,6 +116271,141 @@
           "available": true,
           "price": 28750,
           "compare_at_price": 57500
+        }
+      },
+      "available": true
+    },
+    "7103737692289": {
+      "id": "7103737692289",
+      "title": "WHITE COTTON SOCKS",
+      "handle": "gol26-004wt",
+      "url": "https://monark.com.pk/products/gol26-004wt",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Simple and comfortable, the White Cotton Socks are an everyday essential designed for effortless styling and all-day wear</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/12_7a255a40-0b90-413b-95a3-dce1d3b434a5.jpg?v=1795679363"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421610625": {
+          "id": "41094421610625",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-004WT",
+          "available": true,
+          "price": 45500,
+          "compare_at_price": 65000
+        }
+      },
+      "available": true
+    },
+    "7103737921665": {
+      "id": "7103737921665",
+      "title": "WHITE COTTON SOCKS",
+      "handle": "gol26-006wt",
+      "url": "https://monark.com.pk/products/gol26-006wt",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>A clean everyday essential, the White Cotton Socks offer a comfortable feel and classic styling for versatile everyday wear</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/13_5f5b7ae4-cfa2-4ae6-8f7c-28583bc696d1.jpg?v=1795680321"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421840001": {
+          "id": "41094421840001",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-006WT",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
+        }
+      },
+      "available": true
+    },
+    "7103738019969": {
+      "id": "7103738019969",
+      "title": "WHITE COTTON SOCKS",
+      "handle": "gol26-005wt",
+      "url": "https://monark.com.pk/products/gol26-005wt",
+      "vendor": "Monark",
+      "type": "Socks",
+      "description": "<p>Clean and timeless, the White Cotton Socks bring everyday comfort and effortless versatility to your wardrobe</p>",
+      "tags": [
+        "Accessories",
+        "Default Title",
+        "Effortlessly Versatile",
+        "Facebook Shop",
+        "New Arrivals",
+        "Socks",
+        "W26",
+        "badge_new"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0041/8797/9905/files/11_d7d053d1-0db7-4b67-84a4-8f6c8a0fca4e.jpg?v=1795680512"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "41094421938305": {
+          "id": "41094421938305",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GOL26-005WT",
+          "available": true,
+          "price": 52500,
+          "compare_at_price": 75000
         }
       },
       "available": true
@@ -119090,7 +121069,7 @@
             "M"
           ],
           "sku": "TC26-23-SIZE-M",
-          "available": false,
+          "available": true,
           "price": 242500,
           "compare_at_price": 485000
         },
@@ -119583,7 +121562,7 @@
             "L"
           ],
           "sku": "tc26-10-size-L",
-          "available": false,
+          "available": true,
           "price": 272500,
           "compare_at_price": 545000
         },
