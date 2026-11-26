@@ -3,7 +3,7 @@
   "source": "https://www.ndure.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-25T12:17:11.103688+00:00",
+  "checked_at": "2026-11-26T00:33:58.688105+00:00",
   "products": {
     "8997266686120": {
       "id": "8997266686120",
@@ -15988,7 +15988,7 @@
             "OLV/GRN"
           ],
           "sku": "B-SL-MAV-0001:OLV/GRN:38",
-          "available": false,
+          "available": true,
           "price": 125900,
           "compare_at_price": 179900
         },
@@ -21104,7 +21104,7 @@
             "TAN"
           ],
           "sku": "B-BT-FRT-0006:TAN:31",
-          "available": true,
+          "available": false,
           "price": 300900,
           "compare_at_price": 429900
         },
@@ -25969,7 +25969,7 @@
             "BLACK"
           ],
           "sku": "B-SN-ARS-0005:BLACK:34",
-          "available": true,
+          "available": false,
           "price": 209900,
           "compare_at_price": 299900
         },
@@ -31395,7 +31395,7 @@
             "BLACK"
           ],
           "sku": "B-SN-CLD-0001:BLACK:33",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -31552,7 +31552,7 @@
             "BROWN"
           ],
           "sku": "B-SN-CLD-0001:BROWN:31",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -73817,7 +73817,7 @@
             "BLACK"
           ],
           "sku": "G-BT-AZR-0012:BLACK:36",
-          "available": true,
+          "available": false,
           "price": 370900,
           "compare_at_price": 529900
         },
@@ -73841,7 +73841,7 @@
             "BLACK"
           ],
           "sku": "G-BT-AZR-0012:BLACK:38",
-          "available": false,
+          "available": true,
           "price": 370900,
           "compare_at_price": 529900
         }
@@ -75945,17 +75945,14 @@
       "type": "Mens Footwear",
       "description": "<p>Recharge every step with lightweight comfort and support for all-day energy.</p><ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\"> <li style=\"margin-bottom: 12px;\">This pair is crafted from high-quality synthetic leather, ensuring durability.</li> <li style=\"margin-bottom: 12px;\">These slides feature a round toe shape and a Boost midsole for enhanced comfort and grip.</li> <li style=\"margin-bottom: 12px;\">The EVA outsole offers comfort, durability, and keeps the shoe lightweight.</li>\n</ul>",
       "tags": [
-        "030",
         "1BS",
         "1Everyday",
         "1Revised",
         "1SPC",
-        "1Sale",
         "1Summer25",
         "1allopen",
         "1men",
         "ALL SHOES",
-        "FLAT30",
         "M&W",
         "Men",
         "Ndure",
@@ -76026,7 +76023,7 @@
             "BLACK"
           ],
           "sku": "M-PL-OAS-0003:BLACK:42",
-          "available": true,
+          "available": false,
           "price": 174900,
           "compare_at_price": 249900
         },
@@ -76067,7 +76064,7 @@
           "compare_at_price": 249900
         }
       },
-      "available": true
+      "available": false
     },
     "8789971828904": {
       "id": "8789971828904",
@@ -77862,7 +77859,7 @@
             "BLK/BLK"
           ],
           "sku": "M-PL-PRO-0005:BLK/BLK:42",
-          "available": true,
+          "available": false,
           "price": 104900,
           "compare_at_price": 149900
         },
@@ -77874,7 +77871,7 @@
             "BLK/BLK"
           ],
           "sku": "M-PL-PRO-0005:BLK/BLK:43",
-          "available": true,
+          "available": false,
           "price": 104900,
           "compare_at_price": 149900
         },
@@ -79177,7 +79174,7 @@
             "BROWN"
           ],
           "sku": "M-AT-SPY-0002:BROWN:43",
-          "available": false,
+          "available": true,
           "price": 139900,
           "compare_at_price": 199900
         },
@@ -81994,12 +81991,15 @@
       "type": "Mens Footwear",
       "description": "<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt;\">Loafers featuring a croc-effect pattern across the upper. Designed with a clean, streamlined silhouette and finished with a contrasting off-white sole that adds a modern touch to the classic shape.</span><span style=\"font-size: 11.0pt;\"> </span></p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Thermoplastic Rubber</li>\n<li style=\"margin-bottom: 12px;\">Fashion Silhouette: Casual Loafers</li>\n</ul>",
       "tags": [
+        "030",
         "1AW25",
         "1BS",
         "1LFSO",
         "1SWT25",
+        "1Sale",
         "1men",
         "ALL SHOES",
+        "FLAT30",
         "M&W",
         "W24OW",
         "color:BLACK:Mens-Casual-Loafers-M-LF-CAP-0004-BLACK",
@@ -82079,7 +82079,7 @@
             "TAN"
           ],
           "sku": "M-LF-CAP-0004:TAN:43",
-          "available": false,
+          "available": true,
           "price": 419900,
           "compare_at_price": 599900
         },
@@ -82108,7 +82108,7 @@
           "compare_at_price": 599900
         }
       },
-      "available": false
+      "available": true
     },
     "9340314058920": {
       "id": "9340314058920",
@@ -82564,7 +82564,7 @@
             "ESPRESSO"
           ],
           "sku": "M-LF-CAP-0001:ESPRESSO:40",
-          "available": true,
+          "available": false,
           "price": 419900,
           "compare_at_price": 599900
         },
@@ -89169,7 +89169,7 @@
             "BLACK"
           ],
           "sku": "M-BF-WEL-0006:BLACK:43",
-          "available": true,
+          "available": false,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -90044,7 +90044,7 @@
             "BLACK"
           ],
           "sku": "M-BF-CRO-0007:BLACK:41",
-          "available": true,
+          "available": false,
           "price": 664900,
           "compare_at_price": 949900
         },
@@ -96881,15 +96881,18 @@
       "type": "Mens Footwear",
       "description": "<p>These slides are made for your off-duty style—clean, simple, and modern.</p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">This pair is made with good quality Synthetic Leather material, which ensures durability.</li>\n<li style=\"margin-bottom: 12px;\">Featuring a round-toe-shaped design and a cushioned footbed for maximum comfort.</li>\n<li style=\"margin-bottom: 12px;\">The PU outsole provides durability and comfort, along with good resilience.</li>\n</ul>",
       "tags": [
+        "030",
         "1Chappals",
         "1MRK",
         "1Open",
         "1RAT",
         "1SWT25",
+        "1Sale",
         "1Summer25",
         "1allopen",
         "1men",
         "ALL SHOES",
+        "FLAT30",
         "M&W",
         "Men",
         "Ndure",
@@ -96973,7 +96976,7 @@
             "ESPRESSO"
           ],
           "sku": "M-PL-ARC-0064:ESPRESSO:43",
-          "available": false,
+          "available": true,
           "price": 244900,
           "compare_at_price": 349900
         },
@@ -97002,7 +97005,7 @@
           "compare_at_price": 349900
         }
       },
-      "available": false
+      "available": true
     },
     "9154665087144": {
       "id": "9154665087144",
@@ -99537,7 +99540,7 @@
             "BRN/BLK"
           ],
           "sku": "M-SN-URB-0011:BRN/BLK:44",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         }
@@ -99759,7 +99762,7 @@
             "TAN"
           ],
           "sku": "M-SN-NIT-0008:TAN:41",
-          "available": true,
+          "available": false,
           "price": 559900,
           "compare_at_price": 799900
         },
@@ -100682,7 +100685,7 @@
             "WHT/BLK"
           ],
           "sku": "M-SN-RIG-0001:WHT/BLK:40",
-          "available": false,
+          "available": true,
           "price": 419900,
           "compare_at_price": 599900
         },
@@ -101274,15 +101277,12 @@
       "type": "Mens Footwear",
       "description": "<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt;\">Men’s lace-up sneakers with textured panel detailing and a contrast sculpted sole, offering a refined yet casual aesthetic.</span></p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Mesh with Synthetic</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Man-Made Sole/Thermoplastic</li>\n<li style=\"margin-bottom: 12px;\">Fashion Silhouette: Lace-Up Sneakers</li>\n</ul>",
       "tags": [
-        "030",
         "1AW25",
         "1BS",
         "1MRK",
         "1SWT25",
-        "1Sale",
         "1men",
         "ALL SHOES",
-        "FLAT30",
         "M&W",
         "M&WSNEAK",
         "Men",
@@ -101346,7 +101346,7 @@
             "BEIGE"
           ],
           "sku": "M-SN-DOR-0002:BEIGE:40",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -101411,7 +101411,7 @@
           "compare_at_price": 549900
         }
       },
-      "available": true
+      "available": false
     },
     "8151273406632": {
       "id": "8151273406632",
@@ -107962,7 +107962,7 @@
             "BLACK"
           ],
           "sku": "M-BF-PAB-0005:BLACK:43",
-          "available": false,
+          "available": true,
           "price": 314900,
           "compare_at_price": 449900
         },
@@ -108642,7 +108642,7 @@
             "BROWN"
           ],
           "sku": "M-BF-MNT-0008:BROWN:45",
-          "available": false,
+          "available": true,
           "price": 384900,
           "compare_at_price": 549900
         }
@@ -109526,7 +109526,7 @@
             "BLACK"
           ],
           "sku": "M-BF-PAB-0003:BLACK:43",
-          "available": true,
+          "available": false,
           "price": 314900,
           "compare_at_price": 449900
         },
@@ -110191,7 +110191,7 @@
             "ESPRESSO"
           ],
           "sku": "M-LF-RCP-0009:ESPRESSO:42",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -110215,7 +110215,7 @@
             "ESPRESSO"
           ],
           "sku": "M-LF-RCP-0009:ESPRESSO:44",
-          "available": false,
+          "available": true,
           "price": 279900,
           "compare_at_price": 399900
         }
@@ -112814,9 +112814,11 @@
       "type": "Mens Footwear",
       "description": "<p>Power up your day with these slip-ons for men.</p>\n<p> </p>\n<p>They have been made with good quality Flyknit material which keeps them light and ensures durability.</p>\n<p> </p>\n<p>These lightweight and flexible slip-on shoes are designed for easy wear, featuring a slide-in heel grip, an engineered knit upper, a rounded toe, and a cushioned insole for enhanced comfort.</p>\n<p> </p>\n<p>The EVA outsole provides comfort, grip and keeps the shoe light.</p>",
       "tags": [
+        "030",
         "1CFS24",
         "1CFW24",
         "1SWT25",
+        "1Sale",
         "1Sneaker25",
         "1Summer24",
         "1Winter23",
@@ -112824,6 +112826,7 @@
         "1men",
         "ALL SHOES",
         "CLOSED SHOES",
+        "FLAT30",
         "GREY",
         "M&W",
         "M&WSNEAK",
@@ -112901,7 +112904,7 @@
             "BLACK"
           ],
           "sku": "M-PR-GRN-0001:BLACK:42/8",
-          "available": false,
+          "available": true,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -112913,7 +112916,7 @@
             "BLACK"
           ],
           "sku": "M-PR-GRN-0001:BLACK:43/9",
-          "available": false,
+          "available": true,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -112942,7 +112945,7 @@
           "compare_at_price": 649900
         }
       },
-      "available": false
+      "available": true
     },
     "9237525627048": {
       "id": "9237525627048",
@@ -121196,7 +121199,7 @@
             "TAN"
           ],
           "sku": "M-LF-DRV-0030:TAN:40",
-          "available": true,
+          "available": false,
           "price": 419900,
           "compare_at_price": 599900
         },
@@ -121232,7 +121235,7 @@
             "TAN"
           ],
           "sku": "M-LF-DRV-0030:TAN:43",
-          "available": true,
+          "available": false,
           "price": 419900,
           "compare_at_price": 599900
         },
@@ -130760,7 +130763,7 @@
             "CAMEL"
           ],
           "sku": "M-LF-CAP-0101:CAMEL:45",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         }
@@ -131383,7 +131386,7 @@
             "BLACK"
           ],
           "sku": "M-LF-NAR-0011:BLACK:43/9",
-          "available": true,
+          "available": false,
           "price": 314900,
           "compare_at_price": 449900
         },
@@ -136802,15 +136805,11 @@
       "type": "Mens Footwear",
       "description": "<p>Upgrade your footwear collection with these men’s moc toe loafers.</p><p>Made from high-quality man-made leather, which ensures durability.</p><p>These loafers feature a slip-on design with a squared toe and a comfortable insole for added comfort.</p><p>A TPR outsole keeps the shoe light and provides anti-slip resistance.</p>",
       "tags": [
-        "030",
         "1Close",
         "1LFSO",
-        "1MFR&LF",
-        "1Sale",
         "1Winter24",
         "1men",
         "ALL SHOES",
-        "FLAT30",
         "M&W",
         "Men",
         "TTS",
@@ -136856,7 +136855,7 @@
             "TAN"
           ],
           "sku": "M-LF-DRV-0032:TAN:40",
-          "available": true,
+          "available": false,
           "price": 461900,
           "compare_at_price": 659900
         },
@@ -136868,7 +136867,7 @@
             "TAN"
           ],
           "sku": "M-LF-DRV-0032:TAN:41",
-          "available": true,
+          "available": false,
           "price": 461900,
           "compare_at_price": 659900
         },
@@ -136921,7 +136920,7 @@
           "compare_at_price": 659900
         }
       },
-      "available": true
+      "available": false
     },
     "9621631369384": {
       "id": "9621631369384",
@@ -137819,7 +137818,7 @@
             "BLK/BLK"
           ],
           "sku": "M-SN-RIG-0001:BLK/BLK:41",
-          "available": true,
+          "available": false,
           "price": 419900,
           "compare_at_price": 599900
         },
@@ -138415,7 +138414,7 @@
             "BLACK"
           ],
           "sku": "M-PR-KAY-0006:BLACK:44",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -138427,7 +138426,7 @@
             "BLACK"
           ],
           "sku": "M-PR-KAY-0006:BLACK:45",
-          "available": false,
+          "available": true,
           "price": 489900,
           "compare_at_price": 699900
         }
@@ -146600,7 +146599,7 @@
             "ESPRESSO"
           ],
           "sku": "M-TH-ARC-0048:ESPRESSO:44",
-          "available": false,
+          "available": true,
           "price": 265900,
           "compare_at_price": 379900
         },
@@ -147681,17 +147680,14 @@
       "type": "Mens Footwear",
       "description": "<p>Men’s retro-runner sneakers with subtle contrast trims. Finished with a white midsole and a treaded black outsole.</p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Mesh with Synthetic</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Fashion Silhouette: Lace-Up Sneakers</li>\n</ul>",
       "tags": [
-        "030",
         "1AW25",
         "1BS",
         "1HSS",
         "1MRK",
         "1SWT25",
-        "1Sale",
         "1Sneaker25",
         "1men",
         "ALL SHOES",
-        "FLAT30",
         "M&W",
         "M&WSNEAK",
         "TTS",
@@ -147736,7 +147732,7 @@
             "GREY"
           ],
           "sku": "M-PR-VEL-0037:GREY:40",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -147801,7 +147797,7 @@
           "compare_at_price": 549900
         }
       },
-      "available": true
+      "available": false
     },
     "8151274979496": {
       "id": "8151274979496",
@@ -151696,7 +151692,7 @@
             "BEIGE"
           ],
           "sku": "M-PR-LUC-0023:BEIGE:40",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -157245,7 +157241,7 @@
             "BLK/BLK"
           ],
           "sku": "M-AT-URR-0008:BLK/BLK:45",
-          "available": true,
+          "available": false,
           "price": 293900,
           "compare_at_price": 419900
         }
@@ -160359,7 +160355,7 @@
             "BLK/WHT"
           ],
           "sku": "M-SN-URB-0009:BLK/WHT:42",
-          "available": true,
+          "available": false,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -161376,7 +161372,7 @@
             "BLK/BLK"
           ],
           "sku": "M-AT-URR-0004:BLK/BLK:41",
-          "available": false,
+          "available": true,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -162701,7 +162697,7 @@
             "BLACK"
           ],
           "sku": "M-PR-ORI-0002:BLACK:41",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -169495,7 +169491,7 @@
             "BLACK"
           ],
           "sku": "M-PL-EIN-0001:BLACK:42",
-          "available": true,
+          "available": false,
           "price": 293900,
           "compare_at_price": 419900
         },
@@ -173329,7 +173325,7 @@
             "BROWN"
           ],
           "sku": "M-BF-CRO-0009:BROWN:41",
-          "available": false,
+          "available": true,
           "price": 664900,
           "compare_at_price": 949900
         },
@@ -176864,7 +176860,7 @@
             "BROWN"
           ],
           "sku": "M-PL-CSB-0011:BROWN:44",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -179688,10 +179684,13 @@
       "type": "Mens Footwear",
       "description": "<p>Men’s double-strap slides featuring a clean, balanced strap layout and a structured open-toe profile. The refined silhouette delivers everyday comfort with a confident, modern look.</p><ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Ethylene Vinyl Acetate</li>\n<li style=\"margin-bottom: 12px;\">Fashion Silhouette: Double-Strap Slides </li>\n</ul>",
       "tags": [
+        "030",
         "1BS",
         "1Chappals",
+        "1Sale",
         "1men",
         "ALL SHOES",
+        "FLAT30",
         "M&W",
         "Men",
         "Mens Footwear",
@@ -179753,7 +179752,7 @@
             "BROWN"
           ],
           "sku": "M-PL-CUB-0037:BROWN:41",
-          "available": false,
+          "available": true,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -179806,7 +179805,7 @@
           "compare_at_price": 399900
         }
       },
-      "available": false
+      "available": true
     },
     "9292290359464": {
       "id": "9292290359464",
@@ -181113,7 +181112,7 @@
             "D.BROWN"
           ],
           "sku": "M-PL-CSB-0017:D.BROWN:45",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         }
@@ -182744,7 +182743,7 @@
             "BROWN"
           ],
           "sku": "M-LF-CAP-0005:BROWN:41",
-          "available": true,
+          "available": false,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -184321,7 +184320,7 @@
             "OLIVE"
           ],
           "sku": "M-PR-LEN-0009:OLIVE:42",
-          "available": false,
+          "available": true,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -184762,7 +184761,7 @@
             "BLACK"
           ],
           "sku": "M-PR-PSC-0009:BLACK:45",
-          "available": false,
+          "available": true,
           "price": 489900,
           "compare_at_price": 699900
         }
@@ -185445,7 +185444,7 @@
             "GRY/BLK"
           ],
           "sku": "M-PR-LOK-0014:GRY/BLK:44",
-          "available": true,
+          "available": false,
           "price": 328900,
           "compare_at_price": 469900
         },
@@ -185571,7 +185570,7 @@
             "BLK/BLU"
           ],
           "sku": "M-PR-LOK-0014:BLK/BLU:43",
-          "available": true,
+          "available": false,
           "price": 328900,
           "compare_at_price": 469900
         },
@@ -187391,7 +187390,7 @@
             "BLACK"
           ],
           "sku": "M-PR-TYL-0020:BLACK:42",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -187821,7 +187820,7 @@
             "OFF WHITE"
           ],
           "sku": "M-PR-ALR-0008:OFF WHITE:45",
-          "available": true,
+          "available": false,
           "price": 559900,
           "compare_at_price": 799900
         }
@@ -187925,7 +187924,7 @@
             "GREY"
           ],
           "sku": "M-PR-ALR-0008:GREY:43",
-          "available": true,
+          "available": false,
           "price": 559900,
           "compare_at_price": 799900
         },
@@ -192067,13 +192066,16 @@
       "type": "Mens Footwear",
       "description": "<p>Make a bold statement with these vibrant navy low-top sneakers, designed to elevate any outfit. Their sleek, modern silhouette adds a fresh, fashion-forward edge to your everyday style.</p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Man-Made Sole/Thermoplastic</li>\n<li style=\"margin-bottom: 12px;\"><span>Silhouette: Low-top Sneakers</span></li>\n</ul>",
       "tags": [
+        "030",
         "1HSS",
         "1MRK",
         "1SWT25",
+        "1Sale",
         "1Sneaker25",
         "1Summer25",
         "1men",
         "ALL SHOES",
+        "FLAT30",
         "M&W",
         "M&WSNEAK",
         "Men",
@@ -192161,7 +192163,7 @@
             "NAVY"
           ],
           "sku": "M-SN-BRA-0019:NAVY:43",
-          "available": false,
+          "available": true,
           "price": 314900,
           "compare_at_price": 449900
         },
@@ -192190,7 +192192,7 @@
           "compare_at_price": 449900
         }
       },
-      "available": false
+      "available": true
     },
     "9184351715496": {
       "id": "9184351715496",
@@ -193590,7 +193592,7 @@
             "TAN"
           ],
           "sku": "M-PR-ORI-0003:TAN:43",
-          "available": false,
+          "available": true,
           "price": 384900,
           "compare_at_price": 549900
         },
@@ -194432,7 +194434,7 @@
             "CRM/BRN"
           ],
           "sku": "M-SN-RON-0001:CRM/BRN:44",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -195463,7 +195465,7 @@
             "BLK/OLV"
           ],
           "sku": "M-SN-RON-0001:BLK/OLV:41",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -195487,7 +195489,7 @@
             "BLK/OLV"
           ],
           "sku": "M-SN-RON-0001:BLK/OLV:43",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -196191,12 +196193,12 @@
             "MULTI"
           ],
           "sku": "A-SK-ANK-0037:MULTI:STD-M",
-          "available": true,
+          "available": false,
           "price": 59400,
           "compare_at_price": 84900
         }
       },
-      "available": true
+      "available": false
     },
     "8758381871272": {
       "id": "8758381871272",
@@ -197759,7 +197761,7 @@
             "L.GREY/WHT"
           ],
           "sku": "M-PR-VEG-0001:L.GREY/WHT:45",
-          "available": true,
+          "available": false,
           "price": 699900,
           "compare_at_price": 999900
         }
@@ -199063,7 +199065,7 @@
             "BLACK"
           ],
           "sku": "W-LF-ARY-0015:BLACK:40",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -203702,7 +203704,7 @@
             "BLACK"
           ],
           "sku": "W-BH-GRC-5004:BLACK:39",
-          "available": false,
+          "available": true,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -212327,7 +212329,7 @@
             "GOLD"
           ],
           "sku": "W-FL-VSQ-0142:GOLD:39",
-          "available": true,
+          "available": false,
           "price": 230900,
           "compare_at_price": 329900
         },
@@ -214510,7 +214512,7 @@
             "BURGUNDI"
           ],
           "sku": "W-BL-LIL-0090:BURGUNDI:38",
-          "available": true,
+          "available": false,
           "price": 230900,
           "compare_at_price": 329900
         },
@@ -216868,7 +216870,7 @@
             "BEIGE"
           ],
           "sku": "W-SN-PGS-0002:BEIGE:37",
-          "available": false,
+          "available": true,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -218973,7 +218975,7 @@
             "PINK"
           ],
           "sku": "W-SN-DON-0024:PINK:40",
-          "available": true,
+          "available": false,
           "price": 258900,
           "compare_at_price": 369900
         },
@@ -223207,7 +223209,7 @@
             "BLACK"
           ],
           "sku": "W-SN-STE-0002:BLACK:41",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         }
@@ -223880,7 +223882,7 @@
             "RED"
           ],
           "sku": "W-SN-STE-0002:RED:40",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -227949,7 +227951,7 @@
             "NAVY"
           ],
           "sku": "W-PL-TUS-0010:NAVY:36",
-          "available": true,
+          "available": false,
           "price": 174900,
           "compare_at_price": 249900
         },
@@ -229939,7 +229941,7 @@
             "L.GREY"
           ],
           "sku": "W-SN-GRN-0002:L.GREY:37",
-          "available": true,
+          "available": false,
           "price": 454900,
           "compare_at_price": 649900
         },
@@ -230230,7 +230232,7 @@
             "NAVY"
           ],
           "sku": "W-BL-LIL-0088:NAVY:40",
-          "available": false,
+          "available": true,
           "price": 209900,
           "compare_at_price": 299900
         },
@@ -238639,7 +238641,7 @@
             "BEIGE"
           ],
           "sku": "W-PL-OAS-0011:BEIGE:37",
-          "available": false,
+          "available": true,
           "price": 153900,
           "compare_at_price": 219900
         },
@@ -238663,7 +238665,7 @@
             "BEIGE"
           ],
           "sku": "W-PL-OAS-0011:BEIGE:39",
-          "available": false,
+          "available": true,
           "price": 153900,
           "compare_at_price": 219900
         },
@@ -238675,7 +238677,7 @@
             "BEIGE"
           ],
           "sku": "W-PL-OAS-0011:BEIGE:40",
-          "available": false,
+          "available": true,
           "price": 153900,
           "compare_at_price": 219900
         },
@@ -242087,7 +242089,7 @@
             "BEIGE"
           ],
           "sku": "W-FL-ALS-0027:BEIGE:41",
-          "available": false,
+          "available": true,
           "price": 209900,
           "compare_at_price": 299900
         }
@@ -242322,7 +242324,7 @@
             "BLACK"
           ],
           "sku": "W-FL-IND-0032:BLACK:39",
-          "available": true,
+          "available": false,
           "price": 223900,
           "compare_at_price": 319900
         },
@@ -242440,7 +242442,7 @@
             "FAWN"
           ],
           "sku": "W-FL-IND-0032:FAWN:38",
-          "available": true,
+          "available": false,
           "price": 223900,
           "compare_at_price": 319900
         },
@@ -244783,7 +244785,7 @@
             "BEIGE"
           ],
           "sku": "W-FL-IND-0034:BEIGE:39",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -258640,7 +258642,7 @@
             "PINK"
           ],
           "sku": "W-SN-GLI-0001:PINK:37",
-          "available": true,
+          "available": false,
           "price": 559900,
           "compare_at_price": 799900
         },
@@ -260209,7 +260211,7 @@
             "BLACK"
           ],
           "sku": "W-PR-LEO-0040:BLACK:38",
-          "available": true,
+          "available": false,
           "price": 300900,
           "compare_at_price": 429900
         },
@@ -262558,7 +262560,7 @@
             "PLUM"
           ],
           "sku": "W-PL-OAS-0004:PLUM:41",
-          "available": true,
+          "available": false,
           "price": 153900,
           "compare_at_price": 219900
         }
@@ -276862,7 +276864,7 @@
             "BLACK"
           ],
           "sku": "W-WG-MAN-0007:BLACK:41",
-          "available": true,
+          "available": false,
           "price": 300900,
           "compare_at_price": 429900
         }
@@ -288192,7 +288194,7 @@
             "TAN"
           ],
           "sku": "W-MC-SNC-0056:TAN:41",
-          "available": false,
+          "available": true,
           "price": 279900,
           "compare_at_price": 399900
         }
@@ -288826,7 +288828,7 @@
             "BEIGE"
           ],
           "sku": "W-BL-AMB-0018:BEIGE:40",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
@@ -289489,7 +289491,7 @@
             "BEIGE"
           ],
           "sku": "W-SN-HOG-0001:BEIGE:41",
-          "available": false,
+          "available": true,
           "price": 384900,
           "compare_at_price": 549900
         }
@@ -293468,7 +293470,7 @@
             "BLK/GLD"
           ],
           "sku": "W-SN-NIT-0002:BLK/GLD:37/5",
-          "available": true,
+          "available": false,
           "price": 489900,
           "compare_at_price": 699900
         },
@@ -298355,7 +298357,7 @@
             "BEIGE"
           ],
           "sku": "W-PL-DUN-0003:BEIGE:37",
-          "available": true,
+          "available": false,
           "price": 153900,
           "compare_at_price": 219900
         },
@@ -301246,7 +301248,7 @@
             "PINK"
           ],
           "sku": "W-PL-MON-0023:PINK:39",
-          "available": true,
+          "available": false,
           "price": 174900,
           "compare_at_price": 249900
         },
@@ -306081,7 +306083,7 @@
             "RED"
           ],
           "sku": "W-SN-MDN-0002:RED:38",
-          "available": true,
+          "available": false,
           "price": 279900,
           "compare_at_price": 399900
         },
@@ -307562,10 +307564,13 @@
       "type": "Womens Footwear",
       "description": "<p>Designed for everyday comfort, these sleek slides offer a lightweight feel with soft cushioning that keeps you at ease all day. The smooth upper provides a comfortable fit, while the durable sole ensures reliable grip and long-lasting wear. Perfect for casual outings, travel, or lounging in style.</p>\n<ul>\n<li>Upper Material: Ethylene Vinyl Acetate<br><br>\n</li>\n<li>Sole Material: Ethylene Vinyl Acetate<br><br>\n</li>\n<li>Fashion Silhouette: Thong Slides</li>\n</ul>",
       "tags": [
+        "030",
         "1BS",
+        "1Sale",
         "1women",
         "ALL SHOES",
         "Chappals / Flats",
+        "FLAT30",
         "M&W",
         "S&S",
         "SS26",
@@ -307650,7 +307655,7 @@
             "BLACK"
           ],
           "sku": "W-PL-CRM-0001:BLACK:39",
-          "available": false,
+          "available": true,
           "price": 104900,
           "compare_at_price": 149900
         },
@@ -307679,7 +307684,7 @@
           "compare_at_price": 149900
         }
       },
-      "available": false
+      "available": true
     },
     "9351732330664": {
       "id": "9351732330664",
@@ -310445,14 +310450,11 @@
       "type": "Womens Footwear",
       "description": "<p>A modern take on the classic silhouette, these Mary Jane sneakers feature dual adjustable straps for a secure, customizable fit. The soft upper is paired with a refined, contemporary design, while the rounded toe and flexible sole keep every step comfortable. A versatile pair that transitions seamlessly from relaxed daytime styling to effortlessly elevated looks.</p>\n<ul style=\"list-style-position: outside; padding-left: 20px; line-height: 1.6em; margin-bottom: 16px;\">\n<li style=\"margin-bottom: 12px;\">Upper Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Sole Material: Polyurethane</li>\n<li style=\"margin-bottom: 12px;\">Fashion Silhouette: Mary Jane Sneakers<br>\n</li>\n</ul>",
       "tags": [
-        "030",
-        "1Sale",
         "1Women",
         "ALL SHOES",
         "AW26",
         "AW26 all",
         "Athletic / Sports Shoes",
-        "FLAT30",
         "M&W",
         "Women",
         "Womens Footwear",
@@ -310496,7 +310498,7 @@
             "BEIGE"
           ],
           "sku": "W-BL-LIL-0100:BEIGE:36",
-          "available": true,
+          "available": false,
           "price": 244900,
           "compare_at_price": 349900
         },
@@ -310561,7 +310563,7 @@
           "compare_at_price": 349900
         }
       },
-      "available": true
+      "available": false
     },
     "9626353467560": {
       "id": "9626353467560",
@@ -312205,7 +312207,7 @@
             "BEIGE"
           ],
           "sku": "W-SN-DON-0023:BEIGE:37",
-          "available": true,
+          "available": false,
           "price": 258900,
           "compare_at_price": 369900
         },
@@ -314688,7 +314690,7 @@
             "BLACK"
           ],
           "sku": "W-BL-AMB-0014:BLACK:39",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": 499900
         },
