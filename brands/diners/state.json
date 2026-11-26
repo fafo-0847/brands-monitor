@@ -3,7 +3,7 @@
   "source": "https://diners.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-26T10:15:19.258249+00:00",
+  "checked_at": "2026-11-26T23:09:09.426721+00:00",
   "products": {
     "8793133187368": {
       "id": "8793133187368",
@@ -48,12 +48,12 @@
             "Default Title"
           ],
           "sku": "wu10594-beige",
-          "available": false,
+          "available": true,
           "price": 84500,
           "compare_at_price": 169000
         }
       },
-      "available": false
+      "available": true
     },
     "8812700270888": {
       "id": "8812700270888",
@@ -3749,7 +3749,7 @@
             "12-13Y"
           ],
           "sku": "KBB-1018-BLACK",
-          "available": true,
+          "available": false,
           "price": 79000,
           "compare_at_price": 249000
         },
@@ -3765,7 +3765,7 @@
           "compare_at_price": 249000
         }
       },
-      "available": true
+      "available": false
     },
     "9662417699112": {
       "id": "9662417699112",
@@ -6351,7 +6351,7 @@
             "XL"
           ],
           "sku": "FAS017-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 153500,
           "compare_at_price": 307000
         },
@@ -6362,7 +6362,7 @@
             "2XL"
           ],
           "sku": "FAS017-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 153500,
           "compare_at_price": 307000
         },
@@ -6373,12 +6373,12 @@
             "3XL"
           ],
           "sku": "FAS017-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 153500,
           "compare_at_price": 307000
         }
       },
-      "available": false
+      "available": true
     },
     "9847505617192": {
       "id": "9847505617192",
@@ -8270,7 +8270,7 @@
             "XL"
           ],
           "sku": "EG3732-BEIGE",
-          "available": false,
+          "available": true,
           "price": 539400,
           "compare_at_price": 899000
         }
@@ -16630,12 +16630,12 @@
             "Default Title"
           ],
           "sku": "US0526-BEIGE",
-          "available": false,
+          "available": true,
           "price": 399000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "10350227292456": {
       "id": "10350227292456",
@@ -18213,7 +18213,7 @@
             "L"
           ],
           "sku": "EG3870-BEIGE",
-          "available": true,
+          "available": false,
           "price": 599250,
           "compare_at_price": 799000
         },
@@ -23186,7 +23186,7 @@
             "6-7Y"
           ],
           "sku": "KBC-1044-BLACK",
-          "available": false,
+          "available": true,
           "price": 179400,
           "compare_at_price": 299000
         },
@@ -23853,7 +23853,7 @@
             "36"
           ],
           "sku": "IE81-BLACK",
-          "available": false,
+          "available": true,
           "price": 207000,
           "compare_at_price": 276000
         },
@@ -23864,7 +23864,7 @@
             "38"
           ],
           "sku": "IE81-BLACK",
-          "available": false,
+          "available": true,
           "price": 207000,
           "compare_at_price": 276000
         },
@@ -23875,7 +23875,7 @@
             "40"
           ],
           "sku": "IE81-BLACK",
-          "available": false,
+          "available": true,
           "price": 207000,
           "compare_at_price": 276000
         },
@@ -23913,7 +23913,7 @@
           "compare_at_price": 276000
         }
       },
-      "available": false
+      "available": true
     },
     "10436162322728": {
       "id": "10436162322728",
@@ -25986,7 +25986,7 @@
             "41"
           ],
           "sku": "SMC-0161-BLACK",
-          "available": false,
+          "available": true,
           "price": 349000,
           "compare_at_price": 699000
         },
@@ -26238,7 +26238,7 @@
             "43"
           ],
           "sku": "SMC-0182-BLACK",
-          "available": false,
+          "available": true,
           "price": 349000,
           "compare_at_price": 699000
         },
@@ -32068,7 +32068,7 @@
             "XXXL"
           ],
           "sku": "FASW069-BLACK",
-          "available": false,
+          "available": true,
           "price": 321750,
           "compare_at_price": 429000
         }
@@ -35328,7 +35328,9 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-BLACK-01.webp?v=1795432430",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-BLACK-02.webp?v=1795432430"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-BLACK-01_7ac4dcea-01d2-472c-8014-ff44b486bffe.webp?v=1795697809",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-BLACK-02.webp?v=1795432430",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-BLACK-02_924f76e2-a855-4dd0-9f47-3e1a67ec1857.webp?v=1795697809"
       ],
       "options": [
         {
@@ -35425,8 +35427,11 @@
         "winter2022"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BLACK-01_e3e2cd50-8a0d-4699-b4fc-2d14d766c045.webp?v=1795420963",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BLACK-02_4b6d6701-4f3d-4ad1-a5f8-788949a0190f.webp?v=1795420962"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BLACK-01_2f6e9a0e-f483-4693-a495-afa382d865ca.webp?v=1795697435",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BLACK-01_802af2d3-7a9e-4302-914e-4e0f3696b7df.webp?v=1795700703",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BLACK-02_2a50f878-54b3-40e9-8839-ae37d647f640.webp?v=1795700703",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BLACK-02_e459fa87-b6d6-43cc-a941-1b373879dac3.webp?v=1795697434",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BLACK-03.webp?v=1795700703"
       ],
       "options": [
         {
@@ -35965,7 +35970,11 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BLACK-01.webp?v=1795605124",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BLACK-02.webp?v=1795605124"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BLACK-01_71dec0ec-f831-4c49-a557-a3730591e0ee.webp?v=1795697212",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BLACK-02.webp?v=1795605124",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BLACK-02_29d0c17d-856c-46aa-ac3e-33cce8b5c0b3.webp?v=1795697212",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BLACK-03.webp?v=1795697212",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BLACK-04.webp?v=1795697212"
       ],
       "options": [
         {
@@ -39090,6 +39099,94 @@
       },
       "available": false
     },
+    "15514277347624": {
+      "id": "15514277347624",
+      "title": "Black Full-Zip Tracksuit Set – Stand-Collar",
+      "handle": "sic-0001-black",
+      "url": "https://diners.com.pk/products/sic-0001-black",
+      "vendor": "D Man",
+      "type": "SWEATSHIRT",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIFxAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Upgrade your everyday rotation with this clean, minimalist <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Black Two-Piece Tracksuit Set<!--TgQPHd|||[]--></strong>. Designed for effortless comfort and modern versatility, this coordinated set pairs a structured stand-collar full-zip jacket with relaxed matching pants—ideal for winter layering, travel, workouts, or casual daily wear.<span></span><!--TgQPHd|||[]-->\n</div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGBAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Full-Zip Jacket:<!--TgQPHd|||[]--></strong> Features a sleek stand-up collar, smooth full-length zipper closure, and ribbed cuffs and hem for a secure fit.<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Coordinated Pants:<!--TgQPHd|||[]--></strong> Designed with a relaxed, comfortable silhouette and adjustable hem detailing for easy everyday movement.<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Minimalist Aesthetic:<!--TgQPHd|||[]--></strong> All-black, logo-free finish pairs easily with sneakers and outerwear.<!--TgQPHd|||[]--></span><span></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGhAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric &amp; Composition:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Material:<!--TgQPHd|||[]--></strong> 65% Cotton, 35% Polyester (Heavyweight Interlock / Fleece Knit)<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Feel:<!--TgQPHd|||[]--></strong> Soft, breathable interior with a smooth, structured outer finish built for cooler weather.<!--TgQPHd|||[]--></span><span></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHBAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHRAA\" data-processed=\"true\" data-complete=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Machine wash cold on a gentle cycle with similar colors, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Turn inside out before washing to protect the fabric finish and zipper, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Do not bleach, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Line dry or tumble dry on low heat, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cool iron on reverse if needed; do not iron directly over zipper hardware</span>\n</li>\n</ul>",
+      "tags": [
+        "2999-5999",
+        "FLAT 30%",
+        "SweatShirts2022new",
+        "black",
+        "men-all",
+        "mensalefestive",
+        "mensweatshirt2022",
+        "menwesternall",
+        "new",
+        "newarrival22",
+        "street-icon",
+        "winter-western-collection-23",
+        "winter2022"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-BLACK-01.webp?v=1795686831",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-BLACK-02.webp?v=1795686830",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-BLACK-03.webp?v=1795686830"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "68301989052712": {
+          "id": "68301989052712",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "SIC-0001-BLACK",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989085480": {
+          "id": "68301989085480",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "SIC-0001-BLACK",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989118248": {
+          "id": "68301989118248",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "SIC-0001-BLACK",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989151016": {
+          "id": "68301989151016",
+          "title": "XXL",
+          "options": [
+            "XXL"
+          ],
+          "sku": "SIC-0001-BLACK",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "9875222233384": {
       "id": "9875222233384",
       "title": "Black Gingham Check Formal Shirt",
@@ -39172,7 +39269,7 @@
             "15.5"
           ],
           "sku": "AD38751-BLACK",
-          "available": true,
+          "available": false,
           "price": 276750,
           "compare_at_price": 369000
         },
@@ -39221,7 +39318,7 @@
           "compare_at_price": 369000
         }
       },
-      "available": true
+      "available": false
     },
     "10308734583080": {
       "id": "10308734583080",
@@ -41739,7 +41836,7 @@
             "36"
           ],
           "sku": "LSL-0041-BLACK",
-          "available": false,
+          "available": true,
           "price": 179400,
           "compare_at_price": 299000
         },
@@ -41750,7 +41847,7 @@
             "37"
           ],
           "sku": "LSL-0041-BLACK",
-          "available": false,
+          "available": true,
           "price": 179400,
           "compare_at_price": 299000
         },
@@ -41794,7 +41891,7 @@
             "41"
           ],
           "sku": "LSL-0041-BLACK",
-          "available": false,
+          "available": true,
           "price": 179400,
           "compare_at_price": 299000
         },
@@ -41805,12 +41902,12 @@
             "42"
           ],
           "sku": "LSL-0041-BLACK",
-          "available": false,
+          "available": true,
           "price": 179400,
           "compare_at_price": 299000
         }
       },
-      "available": false
+      "available": true
     },
     "9600830996776": {
       "id": "9600830996776",
@@ -43901,7 +43998,7 @@
             "17"
           ],
           "sku": "AB23395-1-BLACK",
-          "available": false,
+          "available": true,
           "price": 299000,
           "compare_at_price": 339000
         },
@@ -49218,7 +49315,7 @@
             "40"
           ],
           "sku": "SMF-0477-BLACK",
-          "available": true,
+          "available": false,
           "price": 549500,
           "compare_at_price": 1099000
         },
@@ -49278,7 +49375,7 @@
           "compare_at_price": 1099000
         }
       },
-      "available": true
+      "available": false
     },
     "8976523526440": {
       "id": "8976523526440",
@@ -50044,7 +50141,7 @@
             "M"
           ],
           "sku": "AG38409-BLACK",
-          "available": true,
+          "available": false,
           "price": 314250,
           "compare_at_price": 419000
         },
@@ -50309,12 +50406,12 @@
             "XL"
           ],
           "sku": "AB36725-BLACK",
-          "available": false,
+          "available": true,
           "price": 254250,
           "compare_at_price": 339000
         }
       },
-      "available": false
+      "available": true
     },
     "9583981494568": {
       "id": "9583981494568",
@@ -53505,7 +53602,7 @@
             "M"
           ],
           "sku": "WKL1588-BLACK",
-          "available": false,
+          "available": true,
           "price": 584500,
           "compare_at_price": 1169000
         },
@@ -53532,7 +53629,7 @@
           "compare_at_price": 1169000
         }
       },
-      "available": false
+      "available": true
     },
     "10266695729448": {
       "id": "10266695729448",
@@ -67429,7 +67526,7 @@
             "12Y"
           ],
           "sku": "KBS-0118-BLACK",
-          "available": false,
+          "available": true,
           "price": 1049250,
           "compare_at_price": 1399000
         },
@@ -70375,7 +70472,7 @@
             "XL"
           ],
           "sku": "GA0003-BLACK",
-          "available": true,
+          "available": false,
           "price": 524250,
           "compare_at_price": 699000
         },
@@ -70402,7 +70499,7 @@
           "compare_at_price": 699000
         }
       },
-      "available": true
+      "available": false
     },
     "10100090339624": {
       "id": "10100090339624",
@@ -71181,7 +71278,7 @@
             "XXL"
           ],
           "sku": "GA-4108-BLACK",
-          "available": true,
+          "available": false,
           "price": 599250,
           "compare_at_price": 799000
         },
@@ -72428,8 +72525,7 @@
         "menUnstitched Fabric",
         "mensalefestive",
         "new",
-        "newarrival22",
-        "sky blue"
+        "newarrival22"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0542-Black-01.webp?v=1795687747",
@@ -72456,6 +72552,57 @@
           "available": true,
           "price": 949000,
           "compare_at_price": 1099000
+        }
+      },
+      "available": true
+    },
+    "15507548602664": {
+      "id": "15507548602664",
+      "title": "Black Wash & Wear Fabric",
+      "handle": "us0579-black",
+      "url": "https://diners.com.pk/products/us0579-black",
+      "vendor": "D Man",
+      "type": "Fabric",
+      "description": "<p>Color: Black</p>\n<p>Size: 4.5 Meters</p>\n<p>Fabric: Wash &amp; Wear </p>\n<p>Season: Summer</p>",
+      "tags": [
+        "2999-5999",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Fabricwinter22",
+        "SALE",
+        "black",
+        "fabric",
+        "men-all",
+        "menUnstitched Fabric",
+        "mensalefestive",
+        "new",
+        "newarrival22"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0542-Black-01_dbe446c8-fabe-43ac-946f-3bb5294f5619.webp?v=1795688715",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0542-Black-02_1f10aac0-94cb-4a0f-b94f-11e4b48035a5.webp?v=1795688715",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0542-Black-03_cd2ca1cc-4bf5-4497-90e7-567557d61ad6.webp?v=1795688715"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68271522545960": {
+          "id": "68271522545960",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "US0579-BLACK",
+          "available": true,
+          "price": 699000,
+          "compare_at_price": null
         }
       },
       "available": true
@@ -73236,7 +73383,7 @@
             "XS"
           ],
           "sku": "EG3569-BLACK",
-          "available": true,
+          "available": false,
           "price": 799500,
           "compare_at_price": 1599000
         },
@@ -73285,7 +73432,7 @@
           "compare_at_price": 1599000
         }
       },
-      "available": true
+      "available": false
     },
     "9567232491816": {
       "id": "9567232491816",
@@ -77242,7 +77389,7 @@
             "M-48"
           ],
           "sku": "CA3994-PURPLE",
-          "available": false,
+          "available": true,
           "price": 999500,
           "compare_at_price": 1999000
         },
@@ -86232,7 +86379,7 @@
             "M"
           ],
           "sku": "FAP005-N-BLUE",
-          "available": false,
+          "available": true,
           "price": 235500,
           "compare_at_price": 471000
         },
@@ -86281,7 +86428,7 @@
           "compare_at_price": 471000
         }
       },
-      "available": false
+      "available": true
     },
     "9415141163304": {
       "id": "9415141163304",
@@ -88970,7 +89117,7 @@
             "15.5"
           ],
           "sku": "AD40713-BLUE",
-          "available": true,
+          "available": false,
           "price": 276750,
           "compare_at_price": 369000
         },
@@ -100563,7 +100710,7 @@
             "10Y"
           ],
           "sku": "KBC-0466-Blue",
-          "available": false,
+          "available": true,
           "price": 99000,
           "compare_at_price": 286000
         },
@@ -109883,7 +110030,7 @@
             "XL"
           ],
           "sku": "GA4055-BLUE",
-          "available": true,
+          "available": false,
           "price": 419400,
           "compare_at_price": 699000
         },
@@ -109910,7 +110057,7 @@
           "compare_at_price": 699000
         }
       },
-      "available": true
+      "available": false
     },
     "9719823270184": {
       "id": "9719823270184",
@@ -112889,7 +113036,7 @@
             "XXL"
           ],
           "sku": "OA1702-NAVY",
-          "available": true,
+          "available": false,
           "price": 899250,
           "compare_at_price": 1199000
         },
@@ -112900,7 +113047,7 @@
             "XXXL"
           ],
           "sku": "OA1702-NAVY",
-          "available": true,
+          "available": false,
           "price": 899250,
           "compare_at_price": 1199000
         }
@@ -118453,7 +118600,7 @@
             "10Y"
           ],
           "sku": "KBF-0081-R-BLUE",
-          "available": true,
+          "available": false,
           "price": 169000,
           "compare_at_price": 338000
         },
@@ -129128,8 +129275,9 @@
         "winter2022"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BROWN-01.webp?v=1795420931",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BROWN-02.webp?v=1795420931"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BROWN-01_9267ce3e-c97e-4890-95c7-9676d56d2e96.webp?v=1795700695",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BROWN-02_55c93aa0-e6c6-4226-b674-a7945c894909.webp?v=1795700695",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-BROWN-03.webp?v=1795700695"
       ],
       "options": [
         {
@@ -129216,8 +129364,12 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BROWN-01.webp?v=1795605102",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BROWN-01_d75af6a6-1739-4268-9490-109e2569d0d9.webp?v=1795697184",
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BROWN-02.webp?v=1795605102",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BROWN-03.webp?v=1795605102"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BROWN-02_e9219673-600a-4c13-aa8e-0048d1f34fbf.webp?v=1795697184",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BROWN-03.webp?v=1795605102",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BROWN-03_8474d0d5-9095-4630-af04-206a6c75e426.webp?v=1795697184",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-BROWN-04.webp?v=1795697184"
       ],
       "options": [
         {
@@ -140012,7 +140164,7 @@
             "34"
           ],
           "sku": "BA3113-BROWN",
-          "available": false,
+          "available": true,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -149126,7 +149278,7 @@
             "34"
           ],
           "sku": "BA1458-BROWN",
-          "available": true,
+          "available": false,
           "price": 321750,
           "compare_at_price": 429000
         },
@@ -155452,8 +155604,11 @@
         "winter2022"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-CAMEL-01_0116778d-7a4d-4d85-acea-79b0f9df6028.webp?v=1795420134",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-CAMEL-02_112c63bc-892f-405a-a2ea-4f886b3ddb3e.webp?v=1795420134"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-CAMEL-01_5e74c5fe-1bf0-440e-a0a8-94369b25b92c.webp?v=1795697802",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-CAMEL-01_ee59b030-288f-4425-b177-3a525c570cea.webp?v=1795701284",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-CAMEL-02_75cabee3-e438-462a-a02b-81501629d732.webp?v=1795697802",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-CAMEL-02_d22dbedf-ef7a-45db-b04a-6e90eebe26d0.webp?v=1795701283",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-CAMEL-03.webp?v=1795701283"
       ],
       "options": [
         {
@@ -155550,8 +155705,11 @@
         "winter2022"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-CAMEL-01.webp?v=1795420891",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-CAMEL-02.webp?v=1795420891"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-CAMEL-01_70705f1d-095d-4c0b-ae52-67ffc95726ea.webp?v=1795697345",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-CAMEL-01_f200d971-6dc3-4ffa-839b-f052ed445a0e.webp?v=1795700673",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-CAMEL-02_3e75e608-b490-4d1d-9ae7-c4191692f504.webp?v=1795697345",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-CAMEL-02_eeda1035-5d96-4590-b4d5-3c5f802ad2dd.webp?v=1795700673",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0002-CAMEL-03.webp?v=1795700673"
       ],
       "options": [
         {
@@ -158592,7 +158750,7 @@
             "58"
           ],
           "sku": "ECA021-WHITE",
-          "available": true,
+          "available": false,
           "price": 79000,
           "compare_at_price": 184000
         },
@@ -158619,7 +158777,7 @@
           "compare_at_price": 184000
         }
       },
-      "available": true
+      "available": false
     },
     "8295564345640": {
       "id": "8295564345640",
@@ -159734,7 +159892,7 @@
             "42"
           ],
           "sku": "PSLD-0103-FAWN",
-          "available": false,
+          "available": true,
           "price": 199000,
           "compare_at_price": 639000
         },
@@ -159772,7 +159930,7 @@
           "compare_at_price": 639000
         }
       },
-      "available": false
+      "available": true
     },
     "9300128497960": {
       "id": "9300128497960",
@@ -167040,7 +167198,7 @@
             "L"
           ],
           "sku": "NAPB103-CHARCOAL",
-          "available": true,
+          "available": false,
           "price": 209400,
           "compare_at_price": 349000
         },
@@ -167051,7 +167209,7 @@
             "XL"
           ],
           "sku": "NAPB103-CHARCOAL",
-          "available": true,
+          "available": false,
           "price": 209400,
           "compare_at_price": 349000
         },
@@ -167472,7 +167630,7 @@
             "XL"
           ],
           "sku": "GA4071-CHARCOAL",
-          "available": true,
+          "available": false,
           "price": 524250,
           "compare_at_price": 699000
         },
@@ -168533,7 +168691,7 @@
             "S"
           ],
           "sku": "EG3870-CHARCOAL",
-          "available": false,
+          "available": true,
           "price": 599250,
           "compare_at_price": 799000
         },
@@ -172078,7 +172236,7 @@
             "41"
           ],
           "sku": "SMC-0181-COFFEE",
-          "available": false,
+          "available": true,
           "price": 349000,
           "compare_at_price": 599000
         },
@@ -172111,7 +172269,7 @@
             "44"
           ],
           "sku": "SMC-0181-COFFEE",
-          "available": false,
+          "available": true,
           "price": 349000,
           "compare_at_price": 599000
         },
@@ -175967,12 +176125,12 @@
             "XXL"
           ],
           "sku": "FASW012-CORAL",
-          "available": true,
+          "available": false,
           "price": 199500,
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "9725893378344": {
       "id": "9725893378344",
@@ -182389,6 +182547,57 @@
       },
       "available": true
     },
+    "15499718557992": {
+      "id": "15499718557992",
+      "title": "Cream Wash & Wear Fabric",
+      "handle": "us0579-cream",
+      "url": "https://diners.com.pk/products/us0579-cream",
+      "vendor": "D Man",
+      "type": "Fabric",
+      "description": "<p>Color: Cream</p>\n<p>Size: 4.5 Meters</p>\n<p>Fabric: Wash &amp; Wear </p>\n<p>Season: Summer</p>",
+      "tags": [
+        "2999-5999",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Fabricwinter22",
+        "SALE",
+        "cream",
+        "fabric",
+        "men-all",
+        "menUnstitched Fabric",
+        "mensalefestive",
+        "new",
+        "newarrival22"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Cream-01.webp?v=1795688369",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Cream-02.webp?v=1795688369",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Cream-03.webp?v=1795688369"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68237377667368": {
+          "id": "68237377667368",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "US0579-CREAM",
+          "available": true,
+          "price": 699000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "10103923769640": {
       "id": "10103923769640",
       "title": "Cream Wash & Wear Kurta Pajama",
@@ -186915,7 +187124,7 @@
             "2-3Y"
           ],
           "sku": "KBC-1041-D-BLUE",
-          "available": false,
+          "available": true,
           "price": 179400,
           "compare_at_price": 299000
         },
@@ -187019,7 +187228,7 @@
           "compare_at_price": 329000
         }
       },
-      "available": false
+      "available": true
     },
     "10274116436264": {
       "id": "10274116436264",
@@ -198023,6 +198232,57 @@
       },
       "available": true
     },
+    "15494979780904": {
+      "id": "15494979780904",
+      "title": "Dark Blue Wash & Wear Fabric",
+      "handle": "us0579-d-blue",
+      "url": "https://diners.com.pk/products/us0579-d-blue",
+      "vendor": "D Man",
+      "type": "Fabric",
+      "description": "<p>Color: Dark Blue</p>\n<p>Size: 4.5 Meters</p>\n<p>Fabric: Wash &amp; Wear </p>\n<p>Season: All Season</p>",
+      "tags": [
+        "2999-5999",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Fabricwinter22",
+        "SALE",
+        "dark blue",
+        "fabric",
+        "men-all",
+        "menUnstitched Fabric",
+        "mensalefestive",
+        "new",
+        "newarrival22"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Blue-01.webp?v=1795688289",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Blue-02.webp?v=1795688289",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Blue-03.webp?v=1795688288"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68227022455080": {
+          "id": "68227022455080",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "US0579-D-BLUE",
+          "available": true,
+          "price": 699000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "9595354972456": {
       "id": "9595354972456",
       "title": "Dark Blue Wash & Wear Kurta Pajama",
@@ -205029,12 +205289,12 @@
             "XL"
           ],
           "sku": "EG3622-D-BROWN",
-          "available": true,
+          "available": false,
           "price": 449400,
           "compare_at_price": 749000
         }
       },
-      "available": true
+      "available": false
     },
     "9508276830504": {
       "id": "9508276830504",
@@ -207560,6 +207820,57 @@
           "sku": "US0535-D-FAWN",
           "available": true,
           "price": 399000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15491089793320": {
+      "id": "15491089793320",
+      "title": "Dark Fawn Wash & Wear Fabric",
+      "handle": "us0579-d-fawn",
+      "url": "https://diners.com.pk/products/us0579-d-fawn",
+      "vendor": "D Man",
+      "type": "Fabric",
+      "description": "<p>Color: Dark Fawn</p>\n<p>Size: 4.5 Meters</p>\n<p>Fabric: Wash &amp; Wear </p>\n<p>Season: All Season</p>",
+      "tags": [
+        "2999-5999",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Fabricwinter22",
+        "SALE",
+        "dark fawn",
+        "fabric",
+        "men-all",
+        "menUnstitched Fabric",
+        "mensalefestive",
+        "new",
+        "newarrival22"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Fawn-01.webp?v=1795688903",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Fawn-02.webp?v=1795688903",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-D-Fawn-03.webp?v=1795688903"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68206798307624": {
+          "id": "68206798307624",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "US0579-D-FAWN",
+          "available": true,
+          "price": 699000,
           "compare_at_price": null
         }
       },
@@ -212223,7 +212534,7 @@
             "L"
           ],
           "sku": "EG3838-D-GREEN",
-          "available": false,
+          "available": true,
           "price": 749250,
           "compare_at_price": 999000
         },
@@ -218074,7 +218385,7 @@
             "L"
           ],
           "sku": "EGW0049-D-GREY",
-          "available": true,
+          "available": false,
           "price": 1499250,
           "compare_at_price": 1999000
         },
@@ -229838,7 +230149,7 @@
             "3-4Y"
           ],
           "sku": "KGI-0069-D-PURPLE",
-          "available": true,
+          "available": false,
           "price": 139500,
           "compare_at_price": 279000
         },
@@ -229887,7 +230198,7 @@
           "compare_at_price": 279000
         }
       },
-      "available": true
+      "available": false
     },
     "8296014053672": {
       "id": "8296014053672",
@@ -236469,7 +236780,7 @@
             "M"
           ],
           "sku": "WKL1914-2PC-MAROON",
-          "available": true,
+          "available": false,
           "price": 524250,
           "compare_at_price": 699000
         },
@@ -236496,7 +236807,7 @@
           "compare_at_price": 699000
         }
       },
-      "available": true
+      "available": false
     },
     "10424921653544": {
       "id": "10424921653544",
@@ -237865,7 +238176,7 @@
             "XS"
           ],
           "sku": "WKL1964-2PC-PURPLE",
-          "available": true,
+          "available": false,
           "price": 1199400,
           "compare_at_price": 1999000
         },
@@ -237914,7 +238225,7 @@
           "compare_at_price": 1999000
         }
       },
-      "available": true
+      "available": false
     },
     "15422554669352": {
       "id": "15422554669352",
@@ -240653,7 +240964,7 @@
             "3Y"
           ],
           "sku": "KGKK-1497-2PC-PINK",
-          "available": true,
+          "available": false,
           "price": 209400,
           "compare_at_price": 349000
         },
@@ -240697,7 +241008,7 @@
             "7Y"
           ],
           "sku": "KGKK-1497-2PC-PINK",
-          "available": true,
+          "available": false,
           "price": 215400,
           "compare_at_price": 359000
         },
@@ -241006,7 +241317,7 @@
             "4Y"
           ],
           "sku": "KGKK-1379-2PC-PURPLE",
-          "available": false,
+          "available": true,
           "price": 269250,
           "compare_at_price": 359000
         },
@@ -241945,12 +242256,12 @@
             "18Y"
           ],
           "sku": "WTK161-2PC-ROYAL BLUE",
-          "available": true,
+          "available": false,
           "price": 374250,
           "compare_at_price": 499000
         }
       },
-      "available": true
+      "available": false
     },
     "10450242109736": {
       "id": "10450242109736",
@@ -246456,7 +246767,7 @@
             "L"
           ],
           "sku": "WK20766-L-BEIGE",
-          "available": false,
+          "available": true,
           "price": 449400,
           "compare_at_price": 749000
         },
@@ -246472,7 +246783,7 @@
           "compare_at_price": 749000
         }
       },
-      "available": false
+      "available": true
     },
     "9582040678696": {
       "id": "9582040678696",
@@ -247323,7 +247634,7 @@
             "M"
           ],
           "sku": "WK20797-BEIGE",
-          "available": true,
+          "available": false,
           "price": 501750,
           "compare_at_price": 669000
         },
@@ -250061,7 +250372,7 @@
             "M"
           ],
           "sku": "WKL1965-2PC-MAGENTA",
-          "available": false,
+          "available": true,
           "price": 449400,
           "compare_at_price": 749000
         },
@@ -250446,7 +250757,7 @@
             "XS"
           ],
           "sku": "WKL2134-2PC-PINK",
-          "available": true,
+          "available": false,
           "price": 359400,
           "compare_at_price": 599000
         },
@@ -251966,7 +252277,7 @@
             "XS"
           ],
           "sku": "WKL2107-2PC-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 389400,
           "compare_at_price": 649000
         },
@@ -252015,7 +252326,7 @@
           "compare_at_price": 649000
         }
       },
-      "available": true
+      "available": false
     },
     "10303044780328": {
       "id": "10303044780328",
@@ -262108,12 +262419,12 @@
             "Default Title"
           ],
           "sku": "WD0481-Duppatta-BLUE",
-          "available": true,
+          "available": false,
           "price": 179400,
           "compare_at_price": 299000
         }
       },
-      "available": true
+      "available": false
     },
     "10162622333224": {
       "id": "10162622333224",
@@ -264252,7 +264563,7 @@
             "6Y"
           ],
           "sku": "KGKK-1370-2PC-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 614250,
           "compare_at_price": 819000
         },
@@ -265790,7 +266101,7 @@
             "5Y"
           ],
           "sku": "KGKK-1421-2PC-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 239400,
           "compare_at_price": 399000
         },
@@ -265812,7 +266123,7 @@
             "7Y"
           ],
           "sku": "KGKK-1421-2PC-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 257400,
           "compare_at_price": 429000
         },
@@ -266109,7 +266420,7 @@
             "3Y"
           ],
           "sku": "KGKK-1422-2PC-GREEN",
-          "available": true,
+          "available": false,
           "price": 233400,
           "compare_at_price": 389000
         },
@@ -266153,7 +266464,7 @@
             "7Y"
           ],
           "sku": "KGKK-1422-2PC-GREEN",
-          "available": true,
+          "available": false,
           "price": 245400,
           "compare_at_price": 409000
         },
@@ -266164,7 +266475,7 @@
             "8Y"
           ],
           "sku": "KGKK-1422-2PC-GREEN",
-          "available": true,
+          "available": false,
           "price": 245400,
           "compare_at_price": 409000
         },
@@ -267738,7 +268049,7 @@
             "12Y"
           ],
           "sku": "KGKK-1437-2PC-YELLOW",
-          "available": true,
+          "available": false,
           "price": 329400,
           "compare_at_price": 549000
         }
@@ -274158,7 +274469,7 @@
             "M"
           ],
           "sku": "WKL1911-2PC-BROWN",
-          "available": true,
+          "available": false,
           "price": 516750,
           "compare_at_price": 689000
         },
@@ -274425,7 +274736,7 @@
             "12Y"
           ],
           "sku": "WTK150-2PC-MUSTARD",
-          "available": false,
+          "available": true,
           "price": 374250,
           "compare_at_price": 499000
         },
@@ -274463,7 +274774,7 @@
           "compare_at_price": 499000
         }
       },
-      "available": false
+      "available": true
     },
     "10100090405160": {
       "id": "10100090405160",
@@ -276662,7 +276973,7 @@
             "XS"
           ],
           "sku": "WKL2073-2PCOLIVE",
-          "available": true,
+          "available": false,
           "price": 461400,
           "compare_at_price": 769000
         },
@@ -276711,7 +277022,7 @@
           "compare_at_price": 769000
         }
       },
-      "available": true
+      "available": false
     },
     "10279754432808": {
       "id": "10279754432808",
@@ -277366,12 +277677,12 @@
             "Default Title"
           ],
           "sku": "WSH0148-L-BROWN",
-          "available": true,
+          "available": false,
           "price": 599250,
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "10100090667304": {
       "id": "10100090667304",
@@ -281280,7 +281591,7 @@
             "14Y"
           ],
           "sku": "WTK197-2PC-OLIVE",
-          "available": false,
+          "available": true,
           "price": 419400,
           "compare_at_price": 699000
         },
@@ -281474,7 +281785,7 @@
             "18Y"
           ],
           "sku": "WTK200-2PC-BLUE",
-          "available": false,
+          "available": true,
           "price": 389400,
           "compare_at_price": 649000
         }
@@ -285384,7 +285695,7 @@
             "L"
           ],
           "sku": "WKL1924-2PC-RUST",
-          "available": false,
+          "available": true,
           "price": 461400,
           "compare_at_price": 769000
         },
@@ -288765,7 +289076,7 @@
             "42"
           ],
           "sku": "LSL-0041-FAWN",
-          "available": false,
+          "available": true,
           "price": 179400,
           "compare_at_price": 299000
         }
@@ -304562,7 +304873,7 @@
             "M"
           ],
           "sku": "SA597-D-BLUE",
-          "available": true,
+          "available": false,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -311132,7 +311443,7 @@
             "12Y"
           ],
           "sku": "KGE-0150-BLUE",
-          "available": true,
+          "available": false,
           "price": 194500,
           "compare_at_price": 389000
         },
@@ -312173,7 +312484,7 @@
             "12Y"
           ],
           "sku": "KGP-0053-ORANGE",
-          "available": true,
+          "available": false,
           "price": 117500,
           "compare_at_price": 235000
         },
@@ -312189,7 +312500,7 @@
           "compare_at_price": 235000
         }
       },
-      "available": true
+      "available": false
     },
     "8295979974952": {
       "id": "8295979974952",
@@ -328737,7 +329048,7 @@
             "L"
           ],
           "sku": "GA4056-GREEN",
-          "available": true,
+          "available": false,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -328775,7 +329086,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "10115852796200": {
       "id": "10115852796200",
@@ -334172,8 +334483,11 @@
         "winter2022"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-GREY-01.webp?v=1795420207",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-GREY-02.webp?v=1795420207"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-GREY-01_122aaf5a-4d6e-49a1-915f-1adcb8127fa5.webp?v=1795697792",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-GREY-01_d0d79299-68dd-4641-bba4-3b3a6c1a61a1.webp?v=1795700583",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-GREY-02_1628a1f2-f87b-49c8-91d7-34cd21171c9c.webp?v=1795697791",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-GREY-02_177b621f-4082-4575-94be-885ac9dba4f9.webp?v=1795700583",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0001-GREY-03.webp?v=1795700583"
       ],
       "options": [
         {
@@ -335644,8 +335958,9 @@
         "winter2022"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-GREY-01.webp?v=1795420954",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-GREY-02.webp?v=1795420954"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-GREY-01_82cdfc5b-0b92-4ea9-8b2c-b1f1a024420c.webp?v=1795701355",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-GREY-02_0056b42d-0d00-4eae-ad85-fad82203a7fa.webp?v=1795701355",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-GREY-03.webp?v=1795701355"
       ],
       "options": [
         {
@@ -338801,7 +339116,7 @@
             "14.5"
           ],
           "sku": "AD41947-GREY",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -342804,7 +343119,7 @@
             "40"
           ],
           "sku": "BA3475-GREY",
-          "available": false,
+          "available": true,
           "price": 449250,
           "compare_at_price": 599000
         }
@@ -350366,7 +350681,7 @@
             "M"
           ],
           "sku": "FASW067-H-GREY",
-          "available": true,
+          "available": false,
           "price": 194500,
           "compare_at_price": 389000
         },
@@ -350415,7 +350730,7 @@
           "compare_at_price": 389000
         }
       },
-      "available": true
+      "available": false
     },
     "9629115449640": {
       "id": "9629115449640",
@@ -354676,7 +354991,7 @@
             "S"
           ],
           "sku": "WKL1459-YELLOW",
-          "available": false,
+          "available": true,
           "price": 203400,
           "compare_at_price": 339000
         },
@@ -356438,7 +356753,7 @@
             "S"
           ],
           "sku": "WK30394-BROWN",
-          "available": false,
+          "available": true,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -356476,7 +356791,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "8295490584872": {
       "id": "8295490584872",
@@ -356577,7 +356892,7 @@
             "XL"
           ],
           "sku": "WKL1297-Cream",
-          "available": false,
+          "available": true,
           "price": 143000,
           "compare_at_price": 286000
         },
@@ -356593,7 +356908,7 @@
           "compare_at_price": 286000
         }
       },
-      "available": false
+      "available": true
     },
     "9458536415528": {
       "id": "9458536415528",
@@ -357811,7 +358126,7 @@
             "9Y"
           ],
           "sku": "KGKK-1208-BEIGE",
-          "available": true,
+          "available": false,
           "price": 275400,
           "compare_at_price": 459000
         },
@@ -357833,7 +358148,7 @@
             "11Y"
           ],
           "sku": "KGKK-1208-BEIGE",
-          "available": true,
+          "available": false,
           "price": 281400,
           "compare_at_price": 469000
         },
@@ -361315,7 +361630,7 @@
             "40"
           ],
           "sku": "BJ3357-KHAKI",
-          "available": false,
+          "available": true,
           "price": 374250,
           "compare_at_price": 499000
         }
@@ -372479,7 +372794,7 @@
             "4-5Y"
           ],
           "sku": "KGP-0098-LAVENDER",
-          "available": true,
+          "available": false,
           "price": 134500,
           "compare_at_price": 269000
         },
@@ -375536,7 +375851,7 @@
             "3-4Y"
           ],
           "sku": "KBC-1020-L-BLUE",
-          "available": true,
+          "available": false,
           "price": 99000,
           "compare_at_price": 269000
         },
@@ -375629,7 +375944,7 @@
           "compare_at_price": 289000
         }
       },
-      "available": true
+      "available": false
     },
     "9658820919592": {
       "id": "9658820919592",
@@ -378975,7 +379290,7 @@
             "34"
           ],
           "sku": "BJ3368-L-BLUE",
-          "available": true,
+          "available": false,
           "price": 374250,
           "compare_at_price": 499000
         },
@@ -381549,7 +381864,7 @@
             "3XL-56"
           ],
           "sku": "CA4052-L-BROWN",
-          "available": true,
+          "available": false,
           "price": 1874250,
           "compare_at_price": 2499000
         },
@@ -385114,6 +385429,57 @@
           "sku": "US0548-L-BROWN",
           "available": true,
           "price": 899000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15494979944744": {
+      "id": "15494979944744",
+      "title": "Light Brown Wash & Wear Fabric",
+      "handle": "us0579-l-brown",
+      "url": "https://diners.com.pk/products/us0579-l-brown",
+      "vendor": "D Man",
+      "type": "Fabric",
+      "description": "<p>Color: Light Brown</p>\n<p>Size: 4.5 Meters</p>\n<p>Fabric: Wash &amp; Wear </p>\n<p>Season: All Season</p>",
+      "tags": [
+        "2999-5999",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Fabricwinter22",
+        "SALE",
+        "fabric",
+        "light brown",
+        "men-all",
+        "menUnstitched Fabric",
+        "mensalefestive",
+        "new",
+        "newarrival22"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-L-Brown-01.webp?v=1795688799",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-L-Brown-02.webp?v=1795688799",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-L-Brown-03.webp?v=1795688799"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68227022618920": {
+          "id": "68227022618920",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "US0579-L-BROWN",
+          "available": true,
+          "price": 699000,
           "compare_at_price": null
         }
       },
@@ -392513,6 +392879,94 @@
       },
       "available": false
     },
+    "15514277380392": {
+      "id": "15514277380392",
+      "title": "Light Grey Full-Zip Tracksuit Set – Stand-Collar",
+      "handle": "sic-0001-l-grey",
+      "url": "https://diners.com.pk/products/sic-0001-l-grey",
+      "vendor": "D Man",
+      "type": "SWEATSHIRT",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIFxAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Upgrade your everyday rotation with this clean, minimalist <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Light Grey Two-Piece Tracksuit Set<!--TgQPHd|||[]--></strong>. Designed for effortless comfort and modern versatility, this coordinated set pairs a structured stand-collar full-zip jacket with relaxed matching pants—ideal for winter layering, travel, workouts, or casual daily wear.<span></span><!--TgQPHd|||[]-->\n</div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGBAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Full-Zip Jacket:<!--TgQPHd|||[]--></strong> Features a sleek stand-up collar, smooth full-length zipper closure, and ribbed cuffs and hem for a secure fit.<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Coordinated Pants:<!--TgQPHd|||[]--></strong> Designed with a relaxed, comfortable silhouette and adjustable hem detailing for easy everyday movement.<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Minimalist Aesthetic:<!--TgQPHd|||[]--></strong> All-light grey, logo-free finish pairs easily with sneakers and outerwear.<!--TgQPHd|||[]--></span><span></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGhAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric &amp; Composition:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Material:<!--TgQPHd|||[]--></strong> 65% Cotton, 35% Polyester (Heavyweight Interlock / Fleece Knit)<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Feel:<!--TgQPHd|||[]--></strong> Soft, breathable interior with a smooth, structured outer finish built for cooler weather.<!--TgQPHd|||[]--></span><span></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHBAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHRAA\" data-processed=\"true\" data-complete=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Machine wash cold on a gentle cycle with similar colors, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Turn inside out before washing to protect the fabric finish and zipper, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Do not bleach, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Line dry or tumble dry on low heat, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cool iron on reverse if needed; do not iron directly over zipper hardware</span>\n</li>\n</ul>",
+      "tags": [
+        "2999-5999",
+        "FLAT 30%",
+        "SweatShirts2022new",
+        "light grey",
+        "men-all",
+        "mensalefestive",
+        "mensweatshirt2022",
+        "menwesternall",
+        "new",
+        "newarrival22",
+        "street-icon",
+        "winter-western-collection-23",
+        "winter2022"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-L-GREY-01.webp?v=1795686818",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-L-GREY-02.webp?v=1795686819",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-L-GREY-03.webp?v=1795686819"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "68301989183784": {
+          "id": "68301989183784",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "SIC-0001-L-GREY",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989216552": {
+          "id": "68301989216552",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "SIC-0001-L-GREY",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989249320": {
+          "id": "68301989249320",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "SIC-0001-L-GREY",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989282088": {
+          "id": "68301989282088",
+          "title": "XXL",
+          "options": [
+            "XXL"
+          ],
+          "sku": "SIC-0001-L-GREY",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "9403963932968": {
       "id": "9403963932968",
       "title": "Light Grey Infant Kurta Shalwar",
@@ -396990,7 +397444,7 @@
             "M"
           ],
           "sku": "GA0005-L-GREY",
-          "available": true,
+          "available": false,
           "price": 486750,
           "compare_at_price": 649000
         },
@@ -397039,7 +397493,7 @@
           "compare_at_price": 649000
         }
       },
-      "available": true
+      "available": false
     },
     "9650100338984": {
       "id": "9650100338984",
@@ -404462,7 +404916,7 @@
             "S"
           ],
           "sku": "OA1700-OLIVE",
-          "available": true,
+          "available": false,
           "price": 749250,
           "compare_at_price": 999000
         },
@@ -404643,6 +405097,57 @@
           "available": false,
           "price": 147000,
           "compare_at_price": 245000
+        }
+      },
+      "available": true
+    },
+    "15494980075816": {
+      "id": "15494980075816",
+      "title": "Lilac Wash & Wear Fabric",
+      "handle": "us0579-lilac",
+      "url": "https://diners.com.pk/products/us0579-lilac",
+      "vendor": "D Man",
+      "type": "Fabric",
+      "description": "<p>Color: Lilac</p>\n<p>Size: 4.5 Meters</p>\n<p>Fabric: Wash &amp; Wear </p>\n<p>Season: All Season</p>",
+      "tags": [
+        "2999-5999",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Fabricwinter22",
+        "SALE",
+        "fabric",
+        "lilac",
+        "men-all",
+        "menUnstitched Fabric",
+        "mensalefestive",
+        "new",
+        "newarrival22"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Lilac-01.webp?v=1795688642",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Lilac-02.webp?v=1795688642",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Lilac-03.webp?v=1795688642"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68227024847144": {
+          "id": "68227024847144",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "US0579-LILAC",
+          "available": true,
+          "price": 699000,
+          "compare_at_price": null
         }
       },
       "available": true
@@ -405172,7 +405677,7 @@
             "M"
           ],
           "sku": "FA963-N-BLUE",
-          "available": false,
+          "available": true,
           "price": 199500,
           "compare_at_price": 399000
         },
@@ -405221,7 +405726,7 @@
           "compare_at_price": 399000
         }
       },
-      "available": false
+      "available": true
     },
     "8295593935144": {
       "id": "8295593935144",
@@ -412773,7 +413278,7 @@
             "XL"
           ],
           "sku": "FAP004-MAROON",
-          "available": true,
+          "available": false,
           "price": 220000,
           "compare_at_price": 440000
         },
@@ -413895,7 +414400,7 @@
             "L"
           ],
           "sku": "EGW0047-MAROON",
-          "available": true,
+          "available": false,
           "price": 1499250,
           "compare_at_price": 1999000
         },
@@ -416585,7 +417090,7 @@
             "XL"
           ],
           "sku": "GA4056-MAROON",
-          "available": true,
+          "available": false,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -423164,7 +423669,7 @@
             "32"
           ],
           "sku": "BJ3381-M-BLUE",
-          "available": false,
+          "available": true,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -423224,7 +423729,7 @@
           "compare_at_price": 449000
         }
       },
-      "available": false
+      "available": true
     },
     "9595922284840": {
       "id": "9595922284840",
@@ -426004,7 +426509,7 @@
             "L"
           ],
           "sku": "FAP004-BEIGE",
-          "available": true,
+          "available": false,
           "price": 220000,
           "compare_at_price": 440000
         },
@@ -426031,7 +426536,7 @@
           "compare_at_price": 440000
         }
       },
-      "available": true
+      "available": false
     },
     "10115853418792": {
       "id": "10115853418792",
@@ -427819,7 +428324,7 @@
             "XL"
           ],
           "sku": "SA929-D-BLUE",
-          "available": true,
+          "available": false,
           "price": 824250,
           "compare_at_price": 1099000
         },
@@ -430743,7 +431248,7 @@
             "M"
           ],
           "sku": "SA917-L-BROWN",
-          "available": true,
+          "available": false,
           "price": 786750,
           "compare_at_price": 1049000
         },
@@ -430792,7 +431297,7 @@
           "compare_at_price": 1049000
         }
       },
-      "available": true
+      "available": false
     },
     "9478991249704": {
       "id": "9478991249704",
@@ -435444,7 +435949,7 @@
             "L"
           ],
           "sku": "HO0022-BLACK",
-          "available": false,
+          "available": true,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -435471,7 +435976,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "10011311964456": {
       "id": "10011311964456",
@@ -435538,7 +436043,7 @@
             "M"
           ],
           "sku": "FAZW023-BLACK",
-          "available": false,
+          "available": true,
           "price": 494250,
           "compare_at_price": 659000
         },
@@ -435587,7 +436092,7 @@
           "compare_at_price": 659000
         }
       },
-      "available": false
+      "available": true
     },
     "10131989725480": {
       "id": "10131989725480",
@@ -439214,7 +439719,7 @@
             "L"
           ],
           "sku": "OA1605-CREAM",
-          "available": false,
+          "available": true,
           "price": 749250,
           "compare_at_price": 999000
         },
@@ -442820,7 +443325,7 @@
             "M"
           ],
           "sku": "OA1513-BLACK",
-          "available": true,
+          "available": false,
           "price": 801750,
           "compare_at_price": 1069000
         },
@@ -445387,7 +445892,7 @@
             "L"
           ],
           "sku": "OA1609-NAVY",
-          "available": true,
+          "available": false,
           "price": 786750,
           "compare_at_price": 1049000
         },
@@ -445902,7 +446407,7 @@
             "S"
           ],
           "sku": "OA1610-NAVY",
-          "available": true,
+          "available": false,
           "price": 899250,
           "compare_at_price": 1199000
         },
@@ -445946,7 +446451,7 @@
             "XXL"
           ],
           "sku": "OA1610-NAVY",
-          "available": false,
+          "available": true,
           "price": 899250,
           "compare_at_price": 1199000
         },
@@ -445957,7 +446462,7 @@
             "XXXL"
           ],
           "sku": "OA1610-NAVY",
-          "available": false,
+          "available": true,
           "price": 899250,
           "compare_at_price": 1199000
         }
@@ -448077,7 +448582,7 @@
             "XL"
           ],
           "sku": "NAYL006-RED",
-          "available": false,
+          "available": true,
           "price": 374250,
           "compare_at_price": 499000
         },
@@ -449886,12 +450391,12 @@
             "4XL-58"
           ],
           "sku": "CA4068-WHITE",
-          "available": false,
+          "available": true,
           "price": 1874250,
           "compare_at_price": 2499000
         }
       },
-      "available": false
+      "available": true
     },
     "10439051804968": {
       "id": "10439051804968",
@@ -460050,7 +460555,7 @@
             "XL"
           ],
           "sku": "AG41943-MULTI",
-          "available": false,
+          "available": true,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -477608,7 +478113,7 @@
             "S"
           ],
           "sku": "FASW026-NAVY",
-          "available": false,
+          "available": true,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -477641,7 +478146,7 @@
             "XL"
           ],
           "sku": "FASW026-NAVY",
-          "available": false,
+          "available": true,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -477652,12 +478157,12 @@
             "XXL"
           ],
           "sku": "FASW026-NAVY",
-          "available": false,
+          "available": true,
           "price": 149500,
           "compare_at_price": 299000
         }
       },
-      "available": false
+      "available": true
     },
     "8831509692712": {
       "id": "8831509692712",
@@ -485457,7 +485962,7 @@
             "S"
           ],
           "sku": "HO0022-NAVY",
-          "available": false,
+          "available": true,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -485468,7 +485973,7 @@
             "M"
           ],
           "sku": "HO0022-NAVY",
-          "available": false,
+          "available": true,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -485479,7 +485984,7 @@
             "L"
           ],
           "sku": "HO0022-NAVY",
-          "available": false,
+          "available": true,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -485490,7 +485995,7 @@
             "XL"
           ],
           "sku": "HO0022-NAVY",
-          "available": false,
+          "available": true,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -485506,7 +486011,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "10115853222184": {
       "id": "10115853222184",
@@ -489650,7 +490155,7 @@
             "34"
           ],
           "sku": "BA3139-NAVY",
-          "available": true,
+          "available": false,
           "price": 411750,
           "compare_at_price": 549000
         },
@@ -494317,7 +494822,7 @@
             "L"
           ],
           "sku": "HO0021-NAVY",
-          "available": false,
+          "available": true,
           "price": 399500,
           "compare_at_price": 799000
         },
@@ -494344,7 +494849,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": false
+      "available": true
     },
     "9849094897960": {
       "id": "9849094897960",
@@ -507554,7 +508059,11 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-NAVY-01.webp?v=1795605086",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-NAVY-02.webp?v=1795605085"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-NAVY-01_fbe34cf5-482c-46d0-b5ee-73e003a160d2.webp?v=1795696852",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-NAVY-02.webp?v=1795605085",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-NAVY-02_2d58d032-6c43-4a31-957b-7a60d83a90dd.webp?v=1795696852",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-NAVY-03.webp?v=1795696852",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-NAVY-04.webp?v=1795696852"
       ],
       "options": [
         {
@@ -507849,6 +508358,94 @@
           "available": false,
           "price": 899400,
           "compare_at_price": 1499000
+        }
+      },
+      "available": true
+    },
+    "15514277413160": {
+      "id": "15514277413160",
+      "title": "Navy Full-Zip Tracksuit Set – Stand-Collar",
+      "handle": "sic-0001-navy",
+      "url": "https://diners.com.pk/products/sic-0001-navy",
+      "vendor": "D Man",
+      "type": "SWEATSHIRT",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIFxAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Upgrade your everyday rotation with this clean, minimalist <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Navy Two-Piece Tracksuit Set<!--TgQPHd|||[]--></strong>. Designed for effortless comfort and modern versatility, this coordinated set pairs a structured stand-collar full-zip jacket with relaxed matching pants—ideal for winter layering, travel, workouts, or casual daily wear.<span></span><!--TgQPHd|||[]-->\n</div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGBAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Full-Zip Jacket:<!--TgQPHd|||[]--></strong> Features a sleek stand-up collar, smooth full-length zipper closure, and ribbed cuffs and hem for a secure fit.<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Coordinated Pants:<!--TgQPHd|||[]--></strong> Designed with a relaxed, comfortable silhouette and adjustable hem detailing for easy everyday movement.<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGRAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Minimalist Aesthetic:<!--TgQPHd|||[]--></strong> All-navy, logo-free finish pairs easily with sneakers and outerwear.<!--TgQPHd|||[]--></span><span></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGhAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric &amp; Composition:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Material:<!--TgQPHd|||[]--></strong> 65% Cotton, 35% Polyester (Heavyweight Interlock / Fleece Knit)<!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIGxAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Feel:<!--TgQPHd|||[]--></strong> Soft, breathable interior with a smooth, structured outer finish built for cooler weather.<!--TgQPHd|||[]--></span><span></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHBAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHRAA\" data-processed=\"true\" data-complete=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIHRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Machine wash cold on a gentle cycle with similar colors, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Turn inside out before washing to protect the fabric finish and zipper, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Do not bleach, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Line dry or tumble dry on low heat, <!--TgQPHd|||[]--></span><span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cool iron on reverse if needed; do not iron directly over zipper hardware</span>\n</li>\n</ul>",
+      "tags": [
+        "2999-5999",
+        "FLAT 30%",
+        "SweatShirts2022new",
+        "men-all",
+        "mensalefestive",
+        "mensweatshirt2022",
+        "menwesternall",
+        "navy",
+        "new",
+        "newarrival22",
+        "street-icon",
+        "winter-western-collection-23",
+        "winter2022"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-NAVY-01.webp?v=1795686808",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-NAVY-02.webp?v=1795686808",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIC0001-NAVY-03.webp?v=1795686808"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "68301989314856": {
+          "id": "68301989314856",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "SIC-0001-NAVY",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989347624": {
+          "id": "68301989347624",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "SIC-0001-NAVY",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989380392": {
+          "id": "68301989380392",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "SIC-0001-NAVY",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
+        },
+        "68301989413160": {
+          "id": "68301989413160",
+          "title": "XXL",
+          "options": [
+            "XXL"
+          ],
+          "sku": "SIC-0001-NAVY",
+          "available": true,
+          "price": 1799000,
+          "compare_at_price": null
         }
       },
       "available": true
@@ -509790,7 +510387,7 @@
             "M"
           ],
           "sku": "NAPB111-NAVY",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": null
         },
@@ -510066,6 +510663,57 @@
           "sku": "us0458-NAVY",
           "available": true,
           "price": 499000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15494980239656": {
+      "id": "15494980239656",
+      "title": "Navy Wash & Wear Fabric",
+      "handle": "us0579-navy",
+      "url": "https://diners.com.pk/products/us0579-navy",
+      "vendor": "D Man",
+      "type": "Fabric",
+      "description": "<p>Color: Navy</p>\n<p>Size: 4.5 Meters</p>\n<p>Fabric: Wash &amp; Wear </p>\n<p>Season: All Season</p>",
+      "tags": [
+        "2999-5999",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Fabricwinter22",
+        "SALE",
+        "fabric",
+        "men-all",
+        "menUnstitched Fabric",
+        "mensalefestive",
+        "navy",
+        "new",
+        "newarrival22"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Navy-01.webp?v=1795688556",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Navy-02.webp?v=1795688556",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Navy-03.webp?v=1795688556"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68227025010984": {
+          "id": "68227025010984",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "US0579-NAVY",
+          "available": true,
+          "price": 699000,
           "compare_at_price": null
         }
       },
@@ -513632,7 +514280,7 @@
             "6-9M"
           ],
           "sku": "IBE-0007-OFFWHITE",
-          "available": true,
+          "available": false,
           "price": 144500,
           "compare_at_price": 289000
         },
@@ -513648,7 +514296,7 @@
           "compare_at_price": 289000
         }
       },
-      "available": true
+      "available": false
     },
     "9490794807592": {
       "id": "9490794807592",
@@ -516219,7 +516867,7 @@
             "M"
           ],
           "sku": "EGW0044-OFFWHITE",
-          "available": true,
+          "available": false,
           "price": 1274250,
           "compare_at_price": 1699000
         },
@@ -519072,8 +519720,7 @@
         "mensalefestive",
         "new",
         "newarrival22",
-        "off white",
-        "sky blue"
+        "off white"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Offwhite-01.webp?v=1795090334",
@@ -522697,8 +523344,12 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-OFFWHITE-01.webp?v=1795605135",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-OFFWHITE-01_bf378c95-3042-4506-a033-89c088c8f311.webp?v=1795696780",
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-OFFWHITE-02.webp?v=1795605135",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-OFFWHITE-03.webp?v=1795605135"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-OFFWHITE-02_2bcb543c-7d50-4714-9003-fa35cd03818b.webp?v=1795696780",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-OFFWHITE-03.webp?v=1795605135",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-OFFWHITE-03_44583b38-ef1e-42fe-8ad3-0c90303ef74a.webp?v=1795696780",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SISS0001-OFFWHITE-04.webp?v=1795696780"
       ],
       "options": [
         {
@@ -526881,7 +527532,9 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-OLIVE-01.webp?v=1795420684",
-        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-OLIVE-02.webp?v=1795420684"
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-OLIVE-01_73fce284-be5c-4d52-a8a0-641b00192dda.webp?v=1795697614",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-OLIVE-02.webp?v=1795420684",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/SIS0003-OLIVE-02_9d4eaae0-ba53-4679-ae8c-5ae95aad3159.webp?v=1795697614"
       ],
       "options": [
         {
@@ -527712,7 +528365,7 @@
             "42"
           ],
           "sku": "BA3496-OLIVE",
-          "available": true,
+          "available": false,
           "price": 449250,
           "compare_at_price": 599000
         },
@@ -536232,7 +536885,7 @@
             "40"
           ],
           "sku": "LSL-0042-PEACH",
-          "available": false,
+          "available": true,
           "price": 137400,
           "compare_at_price": 229000
         },
@@ -536243,7 +536896,7 @@
             "41"
           ],
           "sku": "LSL-0042-PEACH",
-          "available": false,
+          "available": true,
           "price": 137400,
           "compare_at_price": 229000
         },
@@ -536254,12 +536907,12 @@
             "42"
           ],
           "sku": "LSL-0042-PEACH",
-          "available": false,
+          "available": true,
           "price": 137400,
           "compare_at_price": 229000
         }
       },
-      "available": false
+      "available": true
     },
     "10286467547432": {
       "id": "10286467547432",
@@ -549282,7 +549935,7 @@
             "L"
           ],
           "sku": "WTR0691-Trouser-IVORY",
-          "available": true,
+          "available": false,
           "price": 119400,
           "compare_at_price": 199000
         }
@@ -549418,12 +550071,12 @@
             "Default Title"
           ],
           "sku": "WSH0150-BLACK",
-          "available": false,
+          "available": true,
           "price": 246750,
           "compare_at_price": 329000
         }
       },
-      "available": false
+      "available": true
     },
     "9985120960808": {
       "id": "9985120960808",
@@ -550324,7 +550977,7 @@
             "S"
           ],
           "sku": "FAS029-BLACK",
-          "available": false,
+          "available": true,
           "price": 189500,
           "compare_at_price": 379000
         },
@@ -550335,7 +550988,7 @@
             "M"
           ],
           "sku": "FAS029-BLACK",
-          "available": false,
+          "available": true,
           "price": 189500,
           "compare_at_price": 379000
         },
@@ -550379,7 +551032,7 @@
             "XXXL"
           ],
           "sku": "FAS029-BLACK",
-          "available": true,
+          "available": false,
           "price": 189500,
           "compare_at_price": 379000
         }
@@ -551487,7 +552140,7 @@
             "12Y"
           ],
           "sku": "WTK174-2PC-TEA PINK",
-          "available": true,
+          "available": false,
           "price": 389400,
           "compare_at_price": 649000
         },
@@ -560664,7 +561317,7 @@
             "S"
           ],
           "sku": "WKL1992-2PC-MINT",
-          "available": false,
+          "available": true,
           "price": 257400,
           "compare_at_price": 429000
         },
@@ -562285,7 +562938,7 @@
             "L"
           ],
           "sku": "WKL2044-2PC-GREEN",
-          "available": true,
+          "available": false,
           "price": 293400,
           "compare_at_price": 489000
         },
@@ -566041,7 +566694,7 @@
             "XS"
           ],
           "sku": "WKL2264-2PC-MULTI",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -569476,7 +570129,7 @@
             "L"
           ],
           "sku": "WKL2292-3PC-BLACK",
-          "available": true,
+          "available": false,
           "price": 524250,
           "compare_at_price": 699000
         },
@@ -571039,7 +571692,7 @@
             "S"
           ],
           "sku": "WKL2184-3PC-MAROON",
-          "available": true,
+          "available": false,
           "price": 651750,
           "compare_at_price": 869000
         },
@@ -573485,12 +574138,12 @@
             "Default Title"
           ],
           "sku": "WU32091-OLIVE",
-          "available": true,
+          "available": false,
           "price": 239400,
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "9737103868200": {
       "id": "9737103868200",
@@ -575683,12 +576336,12 @@
             "Default Title"
           ],
           "sku": "WU32329-BEIGE",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": 349000
         }
       },
-      "available": true
+      "available": false
     },
     "10242316402984": {
       "id": "10242316402984",
@@ -586459,7 +587112,7 @@
             "L"
           ],
           "sku": "WK21358-2PC-BLUE",
-          "available": false,
+          "available": true,
           "price": 317400,
           "compare_at_price": 529000
         },
@@ -586475,7 +587128,7 @@
           "compare_at_price": 529000
         }
       },
-      "available": false
+      "available": true
     },
     "10142012997928": {
       "id": "10142012997928",
@@ -592768,7 +593421,7 @@
             "14Y"
           ],
           "sku": "WTK2141-2PC-PINK",
-          "available": true,
+          "available": false,
           "price": 299250,
           "compare_at_price": 399000
         },
@@ -594807,12 +595460,12 @@
             "Default Title"
           ],
           "sku": "WU32333-OLIVE",
-          "available": true,
+          "available": false,
           "price": 329000,
           "compare_at_price": 429000
         }
       },
-      "available": true
+      "available": false
     },
     "10112862781736": {
       "id": "10112862781736",
@@ -603994,7 +604647,7 @@
             "S"
           ],
           "sku": "WKL1947-3PC-MAROON",
-          "available": true,
+          "available": false,
           "price": 696750,
           "compare_at_price": 929000
         },
@@ -605449,7 +606102,7 @@
             "4Y"
           ],
           "sku": "DJKP-32169-PURPLE",
-          "available": false,
+          "available": true,
           "price": 169000,
           "compare_at_price": 399000
         },
@@ -606564,7 +607217,7 @@
             "12Y"
           ],
           "sku": "WTK2034-PURPLE",
-          "available": false,
+          "available": true,
           "price": 179000,
           "compare_at_price": 549000
         },
@@ -606602,7 +607255,7 @@
           "compare_at_price": 549000
         }
       },
-      "available": false
+      "available": true
     },
     "8296045936936": {
       "id": "8296045936936",
@@ -611880,7 +612533,7 @@
             "11-12Y"
           ],
           "sku": "KGI-0081-MUSTARD",
-          "available": true,
+          "available": false,
           "price": 174500,
           "compare_at_price": 349000
         },
@@ -613769,7 +614422,7 @@
             "2-3Y"
           ],
           "sku": "KBA-0754-RED",
-          "available": true,
+          "available": false,
           "price": 49000,
           "compare_at_price": 165000
         },
@@ -613818,7 +614471,7 @@
           "compare_at_price": 165000
         }
       },
-      "available": true
+      "available": false
     },
     "9875225018664": {
       "id": "9875225018664",
@@ -617613,7 +618266,7 @@
             "XXL"
           ],
           "sku": "GA3424-RED",
-          "available": true,
+          "available": false,
           "price": 199000,
           "compare_at_price": 543000
         },
@@ -617629,7 +618282,7 @@
           "compare_at_price": 543000
         }
       },
-      "available": true
+      "available": false
     },
     "9472753860904": {
       "id": "9472753860904",
@@ -620361,7 +621014,7 @@
             "6-7Y"
           ],
           "sku": "KBP-0148-ROYAL BLUE",
-          "available": true,
+          "available": false,
           "price": 134500,
           "compare_at_price": 269000
         },
@@ -631867,7 +632520,7 @@
             "17.5"
           ],
           "sku": "AB41490-MULTI",
-          "available": true,
+          "available": false,
           "price": 276750,
           "compare_at_price": 369000
         }
@@ -633518,7 +634171,7 @@
             "36"
           ],
           "sku": "LSL-0052-SILVER",
-          "available": false,
+          "available": true,
           "price": 239400,
           "compare_at_price": 399000
         },
@@ -633562,7 +634215,7 @@
             "40"
           ],
           "sku": "LSL-0052-SILVER",
-          "available": false,
+          "available": true,
           "price": 239400,
           "compare_at_price": 399000
         },
@@ -633589,7 +634242,7 @@
           "compare_at_price": 399000
         }
       },
-      "available": false
+      "available": true
     },
     "9595355857192": {
       "id": "9595355857192",
@@ -641057,7 +641710,7 @@
             "15.5"
           ],
           "sku": "AD41387-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -642634,7 +643287,7 @@
             "15"
           ],
           "sku": "AB41487-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 276750,
           "compare_at_price": 369000
         },
@@ -644118,7 +644771,7 @@
             "18.5"
           ],
           "sku": "AD41748-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         }
@@ -646324,6 +646977,57 @@
           "sku": "US0535-SKY BLUE",
           "available": true,
           "price": 399000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15491090088232": {
+      "id": "15491090088232",
+      "title": "Sky Blue Wash & Wear Fabric",
+      "handle": "us0579-sky-blue",
+      "url": "https://diners.com.pk/products/us0579-sky-blue",
+      "vendor": "D Man",
+      "type": "Fabric",
+      "description": "<p>Color: Sky Blue</p>\n<p>Size: 4.5 Meters</p>\n<p>Fabric: Wash &amp; Wear </p>\n<p>Season: All Season</p>",
+      "tags": [
+        "2999-5999",
+        "ETHNIC WEAR",
+        "FLAT 25%",
+        "Fabricwinter22",
+        "SALE",
+        "fabric",
+        "men-all",
+        "menUnstitched Fabric",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "sky blue"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Sky-Blue-01.webp?v=1795688840",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Sky-Blue-02.webp?v=1795688840",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/US0579-Sky-Blue-03.webp?v=1795688839"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68206798602536": {
+          "id": "68206798602536",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "US0579-SKY BLUE",
+          "available": true,
+          "price": 699000,
           "compare_at_price": null
         }
       },
@@ -654874,7 +655578,7 @@
             "41"
           ],
           "sku": "SMJ-0017-BROWN",
-          "available": true,
+          "available": false,
           "price": 779400,
           "compare_at_price": 1299000
         },
@@ -655367,7 +656071,7 @@
             "11-12Y"
           ],
           "sku": "KBP-0138-ROYAL BLUE",
-          "available": true,
+          "available": false,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -656320,7 +657024,7 @@
             "3-4Y"
           ],
           "sku": "KBP-0131-OFFWHITE",
-          "available": true,
+          "available": false,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -656865,7 +657569,7 @@
             "40"
           ],
           "sku": "PSLD-0108-TAN",
-          "available": true,
+          "available": false,
           "price": 299400,
           "compare_at_price": 499000
         },
@@ -656876,7 +657580,7 @@
             "41"
           ],
           "sku": "PSLD-0108-TAN",
-          "available": true,
+          "available": false,
           "price": 299400,
           "compare_at_price": 499000
         },
@@ -656925,7 +657629,7 @@
           "compare_at_price": 499000
         }
       },
-      "available": true
+      "available": false
     },
     "10157835354408": {
       "id": "10157835354408",
@@ -657333,7 +658037,7 @@
             "40"
           ],
           "sku": "SMC-0133-Tan",
-          "available": false,
+          "available": true,
           "price": 299000,
           "compare_at_price": 625000
         },
@@ -657404,7 +658108,7 @@
           "compare_at_price": 625000
         }
       },
-      "available": false
+      "available": true
     },
     "8901412815144": {
       "id": "8901412815144",
@@ -661156,7 +661860,7 @@
             "L"
           ],
           "sku": "GA3415-TEAL",
-          "available": true,
+          "available": false,
           "price": 199000,
           "compare_at_price": 410000
         },
@@ -673668,7 +674372,7 @@
             "M"
           ],
           "sku": "EG3402-WHITE",
-          "available": true,
+          "available": false,
           "price": 329000,
           "compare_at_price": 799000
         },
@@ -673695,7 +674399,7 @@
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "9549689127208": {
       "id": "9549689127208",
@@ -689071,7 +689775,7 @@
             "15.5"
           ],
           "sku": "AD41376-WHITE",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -689120,7 +689824,7 @@
           "compare_at_price": 449000
         }
       },
-      "available": true
+      "available": false
     },
     "10274115387688": {
       "id": "10274115387688",
@@ -696282,7 +696986,7 @@
             "XL"
           ],
           "sku": "NAYI112-WHITE",
-          "available": false,
+          "available": true,
           "price": 524250,
           "compare_at_price": 699000
         },
@@ -696309,7 +697013,7 @@
           "compare_at_price": 699000
         }
       },
-      "available": false
+      "available": true
     },
     "10372372594984": {
       "id": "10372372594984",
@@ -709985,7 +710689,7 @@
             "M"
           ],
           "sku": "FAS024-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 189500,
           "compare_at_price": 379000
         },
