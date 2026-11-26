@@ -3,7 +3,7 @@
   "source": "https://mtjonline.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-26T10:58:02.441721+00:00",
+  "checked_at": "2026-11-26T23:51:03.327789+00:00",
   "products": {
     "15414245654702": {
       "id": "15414245654702",
@@ -12464,12 +12464,12 @@
             "KHADDAR"
           ],
           "sku": "WSDTW-PR-6010",
-          "available": true,
+          "available": false,
           "price": 276750,
           "compare_at_price": 369000
         }
       },
-      "available": true
+      "available": false
     },
     "15406873182382": {
       "id": "15406873182382",
@@ -33265,6 +33265,107 @@
           "available": true,
           "price": 223200,
           "compare_at_price": 279000
+        }
+      },
+      "available": true
+    },
+    "15494442713262": {
+      "id": "15494442713262",
+      "title": "BLACK KURTA PAJAMA & WAISTCOAT",
+      "handle": "black-kurta-pajama-waistcoat",
+      "url": "https://mtjonline.com/products/black-kurta-pajama-waistcoat",
+      "vendor": "MTJ ",
+      "type": "KAMEEZ SHALWAR & WAISTCOAT",
+      "description": "<p><strong>Blended fabric kurta pajama with an amazing soft and flowy feel and solid color tones, paired with a classy Waistcoat made of Suiting Fabric with slub texture on it, a perfect combination for every occasion whether it’s a formal event, wedding, or festive occasion.</strong></p>\n<ul>\n<li>\n<strong>Color:</strong><span> </span>Black</li>\n<li>\n<strong>Fabric:</strong><span> Blended</span>\n</li>\n<li>\n<strong>Season</strong><strong>:<span> </span></strong>Winter'26 Collection</li>\n<li>\n<strong>Style:<span> </span></strong>Plain</li>\n</ul>\n<p><strong>Disclaimer:</strong><span> </span><span>Due to the photographic lighting &amp; different screen calibrations, the colors of the original product may slightly vary from the picture</span></p>",
+      "tags": [
+        "KAMEEZ SHALWAR & WAISTCOAT",
+        "NEW IN"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Change_trouser_instead_of_shalwar_fbcdf610_2K.jpg?v=1795697037",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_black_kurta_waistcoat_71882c79_2K2.31.37PM.jpg?v=1795697038",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_black_waistcoat_21c3799e_2K.jpg?v=1795697038",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Man_wearing_black_waistcoat_kurta_54049321_2K.jpg?v=1795697037",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Replace_shalwar_with_trouser_fae253f6_2K.jpg?v=1795697037"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "BLENDED"
+          ]
+        }
+      ],
+      "variants": {
+        "68179875889326": {
+          "id": "68179875889326",
+          "title": "S / Black / BLENDED",
+          "options": [
+            "S",
+            "Black",
+            "BLENDED"
+          ],
+          "sku": "MKPW-7211-W-26",
+          "available": true,
+          "price": 1599000,
+          "compare_at_price": 1599000
+        },
+        "68179875922094": {
+          "id": "68179875922094",
+          "title": "M / Black / BLENDED",
+          "options": [
+            "M",
+            "Black",
+            "BLENDED"
+          ],
+          "sku": "MKPW-7211-W-26",
+          "available": true,
+          "price": 1599000,
+          "compare_at_price": 1599000
+        },
+        "68179875954862": {
+          "id": "68179875954862",
+          "title": "L / Black / BLENDED",
+          "options": [
+            "L",
+            "Black",
+            "BLENDED"
+          ],
+          "sku": "MKPW-7211-W-26",
+          "available": true,
+          "price": 1599000,
+          "compare_at_price": 1599000
+        },
+        "68179875987630": {
+          "id": "68179875987630",
+          "title": "XL / Black / BLENDED",
+          "options": [
+            "XL",
+            "Black",
+            "BLENDED"
+          ],
+          "sku": "MKPW-7211-W-26",
+          "available": true,
+          "price": 1599000,
+          "compare_at_price": 1599000
         }
       },
       "available": true
@@ -111031,7 +111132,7 @@
             "Cambric"
           ],
           "sku": "WSDTS-EPR-5487/S",
-          "available": false,
+          "available": true,
           "price": 524500,
           "compare_at_price": 1049000
         },
@@ -132101,7 +132202,7 @@
             "Lawn"
           ],
           "sku": "WSTS-EPR-5099/S",
-          "available": true,
+          "available": false,
           "price": 479400,
           "compare_at_price": 799000
         },
@@ -193105,7 +193206,7 @@
             "JACQUARD"
           ],
           "sku": "WSTW-DY-3840/S",
-          "available": true,
+          "available": false,
           "price": 419300,
           "compare_at_price": 599000
         },
@@ -208477,7 +208578,7 @@
             "BLENDED"
           ],
           "sku": "FB-00724 BK-8938-S-26",
-          "available": true,
+          "available": false,
           "price": 209400,
           "compare_at_price": 349000
         }
@@ -210566,7 +210667,7 @@
             "BLENDED"
           ],
           "sku": "FB-00716 MKS-4242-S-26",
-          "available": true,
+          "available": false,
           "price": 419400,
           "compare_at_price": 699000
         },
@@ -210610,7 +210711,7 @@
           "compare_at_price": 699000
         }
       },
-      "available": true
+      "available": false
     },
     "8863024480430": {
       "id": "8863024480430",
@@ -285338,12 +285439,12 @@
             "Sea Green"
           ],
           "sku": "FB-00647 MUS-163/7-S-25",
-          "available": true,
+          "available": false,
           "price": 328300,
           "compare_at_price": 469000
         }
       },
-      "available": true
+      "available": false
     },
     "7406841102510": {
       "id": "7406841102510",
@@ -291637,12 +291738,12 @@
             "9 To 11 UK SIZE"
           ],
           "sku": "MUSAFIR-DNCR SOCKS-003-PO3",
-          "available": true,
+          "available": false,
           "price": 84000,
           "compare_at_price": 105000
         }
       },
-      "available": true
+      "available": false
     },
     "9163203051694": {
       "id": "9163203051694",
@@ -295702,7 +295803,7 @@
             "Cotton"
           ],
           "sku": "FB-00660 MKS-9825-S-26",
-          "available": true,
+          "available": false,
           "price": 499500,
           "compare_at_price": 999000
         },
@@ -295759,7 +295860,7 @@
           "compare_at_price": 999000
         }
       },
-      "available": true
+      "available": false
     },
     "8988130312366": {
       "id": "8988130312366",
@@ -303727,6 +303828,123 @@
         }
       },
       "available": false
+    },
+    "15494330417326": {
+      "id": "15494330417326",
+      "title": "NAVY BLENDED KURTA PAJAMA",
+      "handle": "navy-blended-kurta-pajama",
+      "url": "https://mtjonline.com/products/navy-blended-kurta-pajama",
+      "vendor": "MTJ",
+      "type": "WINTER 2026 MEN KAMEEZ SHALWAR",
+      "description": "<div class=\"description-and-detail\">\n<div class=\"tab-content detail-tabs-content\" id=\"nav-tabContent\">\n<div class=\"tab-pane fade detail-content-pane active show\" id=\"nav-details\" role=\"tabpanel\">\n<div class=\"value content\">Plain Front, Plain Back, Full Sleeves, Cut &amp; Sew Band Neckline<br><strong>Colour: </strong>Navy<br><strong>Fabric: </strong>Blended<br>\n</div>\n</div>\n</div>\n</div>\n<div class=\"mt-0 mb-0 mx-0 text-left\">Note: Actual product color may vary slightly from the image.</div>",
+      "tags": [
+        "KURTA PAJAMA",
+        "MENS KAMEEZ SHALWAR",
+        "NEW IN",
+        "WINTER 2026 MEN KAMEEZ SHALWAR"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Change_trouser_to_shalwar_71862488_2K.jpg?v=1795697128",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Collar-detail.png?v=1795697129",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Detail.png?v=1795697129",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Replace_shalwar_with_trouser_53094d2d_2K.jpg?v=1795697128",
+        "https://cdn.shopify.com/s/files/1/0551/9763/0638/files/Seeleves_c3969028-4fdf-4bec-9380-aee5ec91bdc3.png?v=1795697128"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Navy"
+          ]
+        },
+        {
+          "name": "Fabric",
+          "position": 3,
+          "values": [
+            "BLENDED"
+          ]
+        }
+      ],
+      "variants": {
+        "68179489718446": {
+          "id": "68179489718446",
+          "title": "XS / Navy / BLENDED",
+          "options": [
+            "XS",
+            "Navy",
+            "BLENDED"
+          ],
+          "sku": "FB-00709 MKP-7157-W-26",
+          "available": false,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179489751214": {
+          "id": "68179489751214",
+          "title": "S / Navy / BLENDED",
+          "options": [
+            "S",
+            "Navy",
+            "BLENDED"
+          ],
+          "sku": "FB-00709 MKP-7157-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179489783982": {
+          "id": "68179489783982",
+          "title": "M / Navy / BLENDED",
+          "options": [
+            "M",
+            "Navy",
+            "BLENDED"
+          ],
+          "sku": "FB-00709 MKP-7157-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179489816750": {
+          "id": "68179489816750",
+          "title": "L / Navy / BLENDED",
+          "options": [
+            "L",
+            "Navy",
+            "BLENDED"
+          ],
+          "sku": "FB-00709 MKP-7157-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        },
+        "68179489849518": {
+          "id": "68179489849518",
+          "title": "XL / Navy / BLENDED",
+          "options": [
+            "XL",
+            "Navy",
+            "BLENDED"
+          ],
+          "sku": "FB-00709 MKP-7157-W-26",
+          "available": true,
+          "price": 949000,
+          "compare_at_price": 949000
+        }
+      },
+      "available": true
     },
     "9049208717486": {
       "id": "9049208717486",
@@ -312506,7 +312724,7 @@
             "BLENDED"
           ],
           "sku": "FB-00716 MKS-4269-S-26",
-          "available": true,
+          "available": false,
           "price": 509400,
           "compare_at_price": 849000
         },
@@ -346851,12 +347069,12 @@
             "Cambric"
           ],
           "sku": "WSTS-PR-5043/S",
-          "available": true,
+          "available": false,
           "price": 359400,
           "compare_at_price": 599000
         }
       },
-      "available": true
+      "available": false
     },
     "9032752496814": {
       "id": "9032752496814",
@@ -413548,12 +413766,12 @@
             "Default Title"
           ],
           "sku": "SEA SPICES",
-          "available": true,
+          "available": false,
           "price": 325000,
           "compare_at_price": 325000
         }
       },
-      "available": true
+      "available": false
     },
     "9021865656494": {
       "id": "9021865656494",
@@ -424773,7 +424991,7 @@
             "BLENDED"
           ],
           "sku": "FB-00650 MUS-192/5-S-26",
-          "available": true,
+          "available": false,
           "price": 351800,
           "compare_at_price": 469000
         },
