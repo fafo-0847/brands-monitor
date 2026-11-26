@@ -3,7 +3,7 @@
   "source": "https://baroque.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-26T09:58:31.729554+00:00",
+  "checked_at": "2026-11-26T22:52:25.120268+00:00",
   "products": {
     "6541553238083": {
       "id": "6541553238083",
@@ -6159,12 +6159,12 @@
             "DEFAULT"
           ],
           "sku": "EFUF4632",
-          "available": false,
+          "available": true,
           "price": 1836000,
           "compare_at_price": 2295000
         }
       },
-      "available": false
+      "available": true
     },
     "15401690726467": {
       "id": "15401690726467",
@@ -10334,12 +10334,12 @@
             "DEFAULT"
           ],
           "sku": "CHV13D03",
-          "available": true,
+          "available": false,
           "price": 2995000,
           "compare_at_price": 2995000
         }
       },
-      "available": true
+      "available": false
     },
     "7506808406083": {
       "id": "7506808406083",
@@ -12389,7 +12389,7 @@
             "L"
           ],
           "sku": "EFEN1294-LRG-333",
-          "available": true,
+          "available": false,
           "price": 1247500,
           "compare_at_price": 2495000
         },
@@ -12405,7 +12405,7 @@
           "compare_at_price": 2495000
         }
       },
-      "available": true
+      "available": false
     },
     "7641808044099": {
       "id": "7641808044099",
@@ -13458,7 +13458,7 @@
             "XS"
           ],
           "sku": "EFEN1309-XSM-333",
-          "available": true,
+          "available": false,
           "price": 1147500,
           "compare_at_price": 2295000
         },
@@ -14103,7 +14103,7 @@
             "XS"
           ],
           "sku": "EFPR1130-101-333",
-          "available": true,
+          "available": false,
           "price": 747500,
           "compare_at_price": 1495000
         },
@@ -16193,7 +16193,7 @@
             "L"
           ],
           "sku": "EFPR1359-LRG-333",
-          "available": false,
+          "available": true,
           "price": 2295000,
           "compare_at_price": 2295000
         }
@@ -16640,7 +16640,7 @@
             "XS"
           ],
           "sku": "EFPR1371-XSM",
-          "available": false,
+          "available": true,
           "price": 1695000,
           "compare_at_price": 1695000
         },
@@ -16678,7 +16678,7 @@
           "compare_at_price": 1695000
         }
       },
-      "available": false
+      "available": true
     },
     "15433995452483": {
       "id": "15433995452483",
@@ -22988,12 +22988,12 @@
             "DEFAULT"
           ],
           "sku": "ECUF0388",
-          "available": true,
+          "available": false,
           "price": 956000,
           "compare_at_price": 1195000
         }
       },
-      "available": true
+      "available": false
     },
     "7352876400707": {
       "id": "7352876400707",
@@ -23824,12 +23824,12 @@
             "DEFAULT"
           ],
           "sku": "EFUF4367",
-          "available": true,
+          "available": false,
           "price": 1996000,
           "compare_at_price": 2495000
         }
       },
-      "available": true
+      "available": false
     },
     "7527216283715": {
       "id": "7527216283715",
@@ -24654,12 +24654,12 @@
             "DEFAULT"
           ],
           "sku": "ECUF0505",
-          "available": false,
+          "available": true,
           "price": 1196000,
           "compare_at_price": 1495000
         }
       },
-      "available": false
+      "available": true
     },
     "7045795446851": {
       "id": "7045795446851",
@@ -24767,12 +24767,12 @@
             "DEFAULT"
           ],
           "sku": "ECUF0626",
-          "available": true,
+          "available": false,
           "price": 636000,
           "compare_at_price": 795000
         }
       },
-      "available": true
+      "available": false
     },
     "7265844035651": {
       "id": "7265844035651",
@@ -28096,7 +28096,7 @@
             "L"
           ],
           "sku": "EWPR1423-LRG",
-          "available": true,
+          "available": false,
           "price": 1495000,
           "compare_at_price": 1495000
         }
@@ -30933,8 +30933,8 @@
           ],
           "sku": "EWSF4669-XSM",
           "available": true,
-          "price": 1595000,
-          "compare_at_price": 1595000
+          "price": 2495000,
+          "compare_at_price": 2495000
         },
         "68035492151363": {
           "id": "68035492151363",
@@ -30945,8 +30945,8 @@
           ],
           "sku": "EWSF4669-SML",
           "available": true,
-          "price": 1595000,
-          "compare_at_price": 1595000
+          "price": 2495000,
+          "compare_at_price": 2495000
         },
         "68035492184131": {
           "id": "68035492184131",
@@ -30957,8 +30957,8 @@
           ],
           "sku": "EWSF4669-MDM",
           "available": true,
-          "price": 1595000,
-          "compare_at_price": 1595000
+          "price": 2495000,
+          "compare_at_price": 2495000
         },
         "68035492216899": {
           "id": "68035492216899",
@@ -30969,8 +30969,8 @@
           ],
           "sku": "EWSF4669-LRG",
           "available": true,
-          "price": 1595000,
-          "compare_at_price": 1595000
+          "price": 2495000,
+          "compare_at_price": 2495000
         },
         "68035492249667": {
           "id": "68035492249667",
@@ -30981,8 +30981,8 @@
           ],
           "sku": "EWSF4669-XLG",
           "available": true,
-          "price": 1595000,
-          "compare_at_price": 1595000
+          "price": 2495000,
+          "compare_at_price": 2495000
         }
       },
       "available": true
@@ -31538,12 +31538,12 @@
             "DEFAULT"
           ],
           "sku": "EWUF4003",
-          "available": false,
+          "available": true,
           "price": 876000,
           "compare_at_price": 1095000
         }
       },
-      "available": false
+      "available": true
     },
     "7525546623043": {
       "id": "7525546623043",
@@ -32250,12 +32250,12 @@
             "DEFAULT"
           ],
           "sku": "EWUF4622",
-          "available": true,
+          "available": false,
           "price": 796000,
           "compare_at_price": 995000
         }
       },
-      "available": true
+      "available": false
     },
     "7845736480835": {
       "id": "7845736480835",
@@ -32603,8 +32603,8 @@
           ],
           "sku": "EWUF4669",
           "available": false,
-          "price": 716000,
-          "compare_at_price": 895000
+          "price": 1196000,
+          "compare_at_price": 1495000
         }
       },
       "available": false
@@ -34763,12 +34763,12 @@
             "DEFAULT"
           ],
           "sku": "ELUF0324",
-          "available": true,
+          "available": false,
           "price": 671250,
           "compare_at_price": 895000
         }
       },
-      "available": true
+      "available": false
     },
     "6820424810563": {
       "id": "6820424810563",
@@ -37510,12 +37510,12 @@
             "DEFAULT"
           ],
           "sku": "ESUF4517",
-          "available": true,
+          "available": false,
           "price": 397500,
           "compare_at_price": 795000
         }
       },
-      "available": true
+      "available": false
     },
     "7672843042883": {
       "id": "7672843042883",
@@ -45650,12 +45650,12 @@
             "DEFAULT"
           ],
           "sku": "ENUF0386",
-          "available": false,
+          "available": true,
           "price": 796000,
           "compare_at_price": 995000
         }
       },
-      "available": false
+      "available": true
     },
     "7410194350147": {
       "id": "7410194350147",
@@ -47837,12 +47837,12 @@
             "DEFAULT"
           ],
           "sku": "ESUF4090",
-          "available": true,
+          "available": false,
           "price": 556500,
           "compare_at_price": 795000
         }
       },
-      "available": true
+      "available": false
     },
     "7368778874947": {
       "id": "7368778874947",
@@ -48990,7 +48990,7 @@
             "S"
           ],
           "sku": "EFPR1202-SML-333",
-          "available": true,
+          "available": false,
           "price": 3495000,
           "compare_at_price": 3495000
         },
@@ -49017,7 +49017,7 @@
           "compare_at_price": 3495000
         }
       },
-      "available": true
+      "available": false
     },
     "7766201434179": {
       "id": "7766201434179",
@@ -50197,12 +50197,12 @@
             "DEFAULT"
           ],
           "sku": "EFUF4381",
-          "available": true,
+          "available": false,
           "price": 1356000,
           "compare_at_price": 1695000
         }
       },
-      "available": true
+      "available": false
     },
     "7551182995523": {
       "id": "7551182995523",
@@ -52081,12 +52081,12 @@
             "DEFAULT"
           ],
           "sku": "EFUF4162",
-          "available": true,
+          "available": false,
           "price": 1356000,
           "compare_at_price": 1695000
         }
       },
-      "available": true
+      "available": false
     },
     "7410198216771": {
       "id": "7410198216771",
@@ -52826,7 +52826,7 @@
             "S"
           ],
           "sku": "EVPR1383-SML",
-          "available": true,
+          "available": false,
           "price": 2495000,
           "compare_at_price": 2495000
         },
@@ -52853,7 +52853,7 @@
           "compare_at_price": 2495000
         }
       },
-      "available": true
+      "available": false
     },
     "7848006058051": {
       "id": "7848006058051",
@@ -59227,12 +59227,12 @@
             "DEFAULT"
           ],
           "sku": "EVUF4649",
-          "available": false,
+          "available": true,
           "price": 1996000,
           "compare_at_price": 2495000
         }
       },
-      "available": false
+      "available": true
     },
     "15435186765891": {
       "id": "15435186765891",
@@ -63125,12 +63125,12 @@
             "DEFAULT"
           ],
           "sku": "EWUF4291",
-          "available": true,
+          "available": false,
           "price": 596000,
           "compare_at_price": 745000
         }
       },
-      "available": true
+      "available": false
     },
     "7490329673795": {
       "id": "7490329673795",
@@ -70614,7 +70614,7 @@
             "XS"
           ],
           "sku": "ESPR1376-XSM-333",
-          "available": false,
+          "available": true,
           "price": 777000,
           "compare_at_price": 1295000
         },
@@ -70652,7 +70652,7 @@
           "compare_at_price": 1295000
         }
       },
-      "available": false
+      "available": true
     },
     "6883659317315": {
       "id": "6883659317315",
