@@ -1,302 +1,736 @@
 {
-  "checked_at": "2026-11-25T22:27:28.549685+00:00",
+  "checked_at": "2026-11-26T09:32:31.492231+00:00",
   "baseline_created": false,
   "product_count": 10601,
-  "change_count": 42,
+  "change_count": 49,
   "changes": [
     {
-      "product_id": "10147532505272",
-      "title": "Mustard-Dobby-3 Piece (WPS25DE3003)",
-      "url": "https://bonanzasatrangi.com/products/wps25de3003?variant=52307369558200",
+      "product_id": "10108321923256",
+      "title": "Aqua Tint Lip & Cheek",
+      "url": "https://bonanzasatrangi.com/products/faqutn-215?variant=51891021807800",
+      "kind": "Sold out",
+      "detail": "FAQUTN-215-1"
+    },
+    {
+      "product_id": "10192329277624",
+      "title": "Rust-Cambric-2 Piece (WPSTSSW25S11D3)",
+      "url": "https://bonanzasatrangi.com/products/wpstssw25s11d3",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_1.jpg?v=1769508931",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_2.jpg?v=1769508953",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_3.jpg?v=1769508953",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_4.jpg?v=1769508953",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_5.jpg?v=1769508953",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_6.jpg?v=1769508931",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_7.jpg?v=1769508931"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_1.jpg?v=1769508931",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_1_842006ff-9d2c-48c1-ae6e-339062895bba.jpg?v=1795672875",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_2.jpg?v=1769508953",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_2_700afeb9-64c2-4267-bc56-79b5546165f9.jpg?v=1795672876",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_3.jpg?v=1769508953",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_3_a3872e36-7402-4fc8-bff3-e87bf380e939.jpg?v=1795672876",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_4.jpg?v=1769508953",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_4_7ace636b-8881-469e-9bdd-92ae97ed5e4d.jpg?v=1795672876",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_5.jpg?v=1769508953",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_5_2aa493ef-57d9-4a79-bc31-9e6cb57d4207.jpg?v=1795672876",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_6.jpg?v=1769508931",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_6_97d0618a-179d-43c5-8f81-c88c9746b5d0.jpg?v=1795672875",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSSW25S11D3_7.jpg?v=1769508931"
+      ]
+    },
+    {
+      "product_id": "10192899670200",
+      "title": "Inspire (MU2PBW25Z11D3)",
+      "url": "https://bonanzasatrangi.com/products/mu2pbw25z11d3?variant=52477004808376",
+      "kind": "Back in stock",
+      "detail": "Grey"
+    },
+    {
+      "product_id": "10209420443832",
+      "title": "Orange-Lawn-3 Piece (WP3PPBS26B1F47)",
+      "url": "https://bonanzasatrangi.com/products/wp3ppbs26b1f47?variant=52534278357176",
+      "kind": "Back in stock",
+      "detail": "8 / Orange"
+    },
+    {
+      "product_id": "10253697974456",
+      "title": "Maya - 3 Pc (WU3PPBS26KA2M13)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbs26ka2m13?variant=52980130807992",
+      "kind": "Sold out",
+      "detail": "Blue"
+    },
+    {
+      "product_id": "10372619010232",
+      "title": "Teal-Blended-Shalwar Suit - (MP2PSBW25ADJ3)",
+      "url": "https://bonanzasatrangi.com/products/mp2psbw25adj3?variant=53363939573944",
+      "kind": "Sold out",
+      "detail": "M / Teal"
+    },
+    {
+      "product_id": "10372754669752",
+      "title": "Yellow-Lawn-3 Piece (WP3PPBS26B3A20)",
+      "url": "https://bonanzasatrangi.com/products/wp3ppbs26b3a20?variant=53364492796088",
       "kind": "Sold out",
       "detail": "8 / Yellow"
     },
     {
-      "product_id": "10165097660600",
-      "title": "Grey-Jacquard-3 Piece (WP3PSBW25B9O50)",
-      "url": "https://bonanzasatrangi.com/products/wp3psbw25b9o50?variant=52367643377848",
+      "product_id": "10484852752568",
+      "title": "Pure Elegance - 3 Pc (WU3PSLW25NA10N5)",
+      "url": "https://bonanzasatrangi.com/products/wu3pslw25na10n5?variant=53783257186488",
       "kind": "Sold out",
-      "detail": "10 / Grey"
+      "detail": "Pink"
     },
     {
-      "product_id": "10170713047224",
-      "title": "Multi-Khaddar-3 Piece (WP3PPBW25B11D16)",
-      "url": "https://bonanzasatrangi.com/products/wp3ppbw25b11d16?variant=52393082585272",
+      "product_id": "10549511127224",
+      "title": "Red-Self Jacquard-2 Piece (WP2PSSS26S3A2)",
+      "url": "https://bonanzasatrangi.com/products/wp2psss26s3a2?variant=53978799702200",
       "kind": "Sold out",
-      "detail": "14 / Multi"
+      "detail": "14 / Red"
     },
     {
-      "product_id": "10175145181368",
-      "title": "P-Pink-Slub-3 Piece (WP3PPBW25B9O33)",
-      "url": "https://bonanzasatrangi.com/products/wp3ppbw25b9o33?variant=52404556759224",
-      "kind": "Sold out",
-      "detail": "12 / Pink"
+      "product_id": "10566869385400",
+      "title": "Black-Cotton Net-3 Piece (WPS25FE3054)",
+      "url": "https://bonanzasatrangi.com/products/wps25fe3054",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_1.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_2.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_3.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_4.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_5.jpg?v=1789628045"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_1.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_1_7eb78f6e-cf72-4894-ab39-6af9f2dc969c.jpg?v=1795673255",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_2.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_2_d210d28a-31cb-4768-b7de-c8f8988f3625.jpg?v=1795673255",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_3.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_3_0cdfae40-b80a-42d9-9eac-e943bb30d465.jpg?v=1795673255",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_4.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_4_b9a1303e-ce30-4238-9471-7c039e6a39f4.jpg?v=1795673255",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_5.jpg?v=1789628045",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_5_6132d469-747a-4e82-8dd9-421631fe0b81.jpg?v=1795673255",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPS25FE3054_6.jpg?v=1795673255"
+      ]
     },
     {
-      "product_id": "10190991294648",
-      "title": "Legacy - (100ML)",
-      "url": "https://bonanzasatrangi.com/products/laga100ml?variant=52470457237688",
+      "product_id": "10566869450936",
+      "title": "Grey-Self Jacquard-3 Piece (WUS25DE3089P)",
+      "url": "https://bonanzasatrangi.com/products/wus25de3089p",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_1.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_2.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_3.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_4.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_5.jpg?v=1789628206"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_1.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_1_3901a470-621a-41d1-9fa5-323bbf9d9543.jpg?v=1795672771",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_2.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_2_5b691834-e452-4526-8ee4-7c238604f21f.jpg?v=1795672771",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_3.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_3_a3576e1b-e175-40ae-b21b-78b1fb8330d5.jpg?v=1795672771",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_4.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_4_8618b19e-c607-401f-8d94-6db385f05506.jpg?v=1795672771",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_5.jpg?v=1789628206",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WUS25DE3089P_5_53e7bdb1-87f5-4bf3-acab-02f531740f12.jpg?v=1795672771"
+      ]
+    },
+    {
+      "product_id": "10571370758328",
+      "title": "Orange-Chiffon-3 Piece (WP3PSFS26F3A2)",
+      "url": "https://bonanzasatrangi.com/products/wp3psfs26f3a2",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_1.jpg?v=1789628002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_2.jpg?v=1789628002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_3.jpg?v=1789628003",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_4.jpg?v=1789628002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_5.jpg?v=1789628002"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_1.jpg?v=1789628002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_1_0e83d502-82a1-41c5-b934-f51649def22d.jpg?v=1795673322",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_2.jpg?v=1789628002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_2_db0b524f-eb3f-43e8-bb39-979715b8a296.jpg?v=1795673322",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_3.jpg?v=1789628003",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_3_b124249b-6c2b-4df1-89ce-da1fd907b943.jpg?v=1795673322",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_4.jpg?v=1789628002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_4_918e2cac-afcf-4354-b62c-b0f02e6d5ca1.jpg?v=1795673322",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_5.jpg?v=1789628002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_5_4ec11a6d-a521-4dd4-ad6a-dfe2a5fcb06b.jpg?v=1795673322",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSFS26F3A2_6.jpg?v=1795673322"
+      ]
+    },
+    {
+      "product_id": "10571370856632",
+      "title": "Brown-Blended-2 Piece (WPSTSBW26HR9O27)",
+      "url": "https://bonanzasatrangi.com/products/wpstsbw26hr9o27",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_1.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_2.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_3.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_4.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_5.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_6.jpg?v=1789628130"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_1.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_1_d16ef959-e451-4c0e-8937-d454cbc2f9c8.jpg?v=1795672964",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_2.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_2_c7eacbb0-ce28-472a-9c10-30062a350618.jpg?v=1795672964",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_3.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_3_be44c9b0-6094-40b9-bd12-1dbde0981e62.jpg?v=1795672964",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_4.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_4_477180ad-65da-41b5-a909-fa2cdd4425f5.jpg?v=1795672964",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_5.jpg?v=1789628130",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_5_4e905095-7af6-488b-a935-80d8c5b4d700.jpg?v=1795672964",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O27_6.jpg?v=1789628130"
+      ]
+    },
+    {
+      "product_id": "10591577276600",
+      "title": "Rust-Dobby-2 Piece (WPSTSBW26HR9O24)",
+      "url": "https://bonanzasatrangi.com/products/wpstsbw26hr9o24",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_1_64748c1f-0e01-4ec4-8792-f665995f7dd0.jpg?v=1793445656",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_2_5f576bce-0d50-44b9-891b-3a93703dfc55.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_3_d320b317-1a92-4981-9f00-28d51c06aa64.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_4_b7f956d7-64b3-43e2-a5aa-9537ce7db721.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_5_6aaeff69-1464-4d8d-a34b-7f3a17bd412c.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_6_7529cfab-0bb5-4182-aa3a-d8364cc6eeea.jpg?v=1793445657"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_1_64748c1f-0e01-4ec4-8792-f665995f7dd0.jpg?v=1793445656",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_1_e9617e50-f638-4984-adc9-8c615bdb72e1.jpg?v=1795673031",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_2_5f576bce-0d50-44b9-891b-3a93703dfc55.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_2_961da609-d2cd-4679-b860-ff453e8e9448.jpg?v=1795673031",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_3_481f5d6c-7a4a-4db6-b233-466ef99c05d2.jpg?v=1795673031",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_3_d320b317-1a92-4981-9f00-28d51c06aa64.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_4_36666fc7-2645-4bdb-a944-70b01a8fb4ec.jpg?v=1795673031",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_4_b7f956d7-64b3-43e2-a5aa-9537ce7db721.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_5_15c4fb3e-c308-42fe-a42f-9e5ff5326250.jpg?v=1795673031",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_5_6aaeff69-1464-4d8d-a34b-7f3a17bd412c.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_6_7529cfab-0bb5-4182-aa3a-d8364cc6eeea.jpg?v=1793445657",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_6_ae9395d6-3101-4b9b-a938-cab02f390ed7.jpg?v=1795673031",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTSBW26HR9O24_7.jpg?v=1795673031"
+      ]
+    },
+    {
+      "product_id": "10605857800376",
+      "title": "Green-Jacquard-3 Piece (WP3PSBW26B9O14)",
+      "url": "https://bonanzasatrangi.com/products/wp3psbw26b9o14",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_1.jpg?v=1791354294",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_2.jpg?v=1791354294",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_3.jpg?v=1791354294",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_4.jpg?v=1791354293",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_5.jpg?v=1791354293"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_1.jpg?v=1791354294",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_1_919d0f47-d3f2-4767-b78d-d468f64cf2e2.jpg?v=1795673403",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_2.jpg?v=1791354294",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_2_c63a979a-f602-4983-83db-16a6b6514a62.jpg?v=1795673403",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_3.jpg?v=1791354294",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_3_ee90df00-1fcc-44a6-8842-e1acd090fd40.jpg?v=1795673403",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_4.jpg?v=1791354293",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_4_32e48a9c-7c98-4957-b74b-3a9cdce8a054.jpg?v=1795673403",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_5.jpg?v=1791354293",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_5_8c052113-2a92-4535-a840-8b4e6d25e5a5.jpg?v=1795673403",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBW26B9O14_6.jpg?v=1795673403"
+      ]
+    },
+    {
+      "product_id": "10605857833144",
+      "title": "Purple-Seersucker-2 Piece (WPSTPBW26HR9O18)",
+      "url": "https://bonanzasatrangi.com/products/wpstpbw26hr9o18",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_1_3a6069e8-03f1-4d52-accf-cf489dece606.jpg?v=1793445262",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_2_f10d2d22-458b-47da-a31c-da6eb721339d.jpg?v=1793445262",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_3_fe94ebbd-4555-4bf2-861a-fb4eaf808a39.jpg?v=1793445262",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_4_bac9487b-606e-4f54-8527-4a8ecf3fca52.jpg?v=1793445262",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_5_d0767645-c667-4422-bfe3-b90ed68977ed.jpg?v=1793445262"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_1_3a6069e8-03f1-4d52-accf-cf489dece606.jpg?v=1793445262",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_1_bab3aed8-5e63-401a-b119-ec38955ae2de.jpg?v=1795673121",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_2_7709915e-81dc-4d77-9aed-2478a9f35ada.jpg?v=1795673121",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_2_f10d2d22-458b-47da-a31c-da6eb721339d.jpg?v=1793445262",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_3_30e695a7-7731-4874-9c16-4e062fdc9427.jpg?v=1795673121",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_3_fe94ebbd-4555-4bf2-861a-fb4eaf808a39.jpg?v=1793445262",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_4_bac9487b-606e-4f54-8527-4a8ecf3fca52.jpg?v=1793445262",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_4_c5801316-4c88-46cb-adc2-747898965d51.jpg?v=1795673121",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_5_89499897-8b89-485d-8ce6-bade04364667.jpg?v=1795673121",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O18_5_d0767645-c667-4422-bfe3-b90ed68977ed.jpg?v=1793445262"
+      ]
+    },
+    {
+      "product_id": "10612260012216",
+      "title": "G-Leaf Crew Neck Full Sleeves Sweater - (851-13)",
+      "url": "https://bonanzasatrangi.com/products/g-leaf-crew-neck-full-sleeves-sweater-851-13?variant=54178367471800",
       "kind": "Back in stock",
-      "detail": "100ML"
+      "detail": "M / G-Leaf"
     },
     {
-      "product_id": "10191948644536",
-      "title": "Violet-Khaddar-3 Piece (WP3PSBW25HR10N14)",
-      "url": "https://bonanzasatrangi.com/products/wp3psbw25hr10n14?variant=52472979194040",
+      "product_id": "10615340695736",
+      "title": "Pink-Khaddar-2 Piece (WPSTPBW26HR9O14)",
+      "url": "https://bonanzasatrangi.com/products/wpstpbw26hr9o14",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_1.jpg?v=1791194860",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_2.jpg?v=1791194860",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_3.jpg?v=1791194861",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_4.jpg?v=1791194860",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_5.jpg?v=1791194860"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_1.jpg?v=1791194860",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_1_f7f59d85-df7f-4dee-bb62-35749b401b54.jpg?v=1795673178",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_2.jpg?v=1791194860",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_2_6202bd9a-ba91-45f0-bf9d-df63a594b9f7.jpg?v=1795673178",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_3.jpg?v=1791194861",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_3_21b71178-d86e-4eac-8904-1c57019fbebf.jpg?v=1795673178",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_4.jpg?v=1791194860",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_4_212ebd90-f868-435b-9424-fdacfa64e5d0.jpg?v=1795673178",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_5.jpg?v=1791194860",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_5_0f6c4b94-079b-4b33-a147-c777b31df0b9.jpg?v=1795673179",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WPSTPBW26HR9O14_6.jpg?v=1795673178"
+      ]
+    },
+    {
+      "product_id": "10625634468024",
+      "title": "Black-Self Jacquard-3 Piece (WP3PSBS26B6J8)",
+      "url": "https://bonanzasatrangi.com/products/wp3psbs26b6j8",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_1.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_2.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_3.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_4.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_5.jpg?v=1791194781"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_1.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_1_9f2d0248-cfed-4291-bc60-49a50fa44eb3.jpg?v=1795673474",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_2.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_2_29634ec8-f2cb-47b2-87a6-60aa50ad253c.jpg?v=1795673475",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_3.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_3_f9ca4336-b7fd-4427-9432-7f1fc803439f.jpg?v=1795673474",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_4.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_4_23c4b1f3-9ec6-4982-b999-380b01684ba4.jpg?v=1795673474",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_5.jpg?v=1791194781",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_5_9f6ac14a-70e6-4008-a70a-db19da86a44f.jpg?v=1795673475",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PSBS26B6J8_6.jpg?v=1795673475"
+      ]
+    },
+    {
+      "product_id": "10625634795704",
+      "title": "Red-Zari Khaddar-3 Piece (WP3PPBW26B9O34)",
+      "url": "https://bonanzasatrangi.com/products/wp3ppbw26b9o34",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_1_0c6572bc-d8fd-4169-a1b7-1415c687d639.jpg?v=1793444043",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_5_725a8cc4-a916-423f-a592-2aaeda7dbdae.jpg?v=1793444044",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_6_5903c0b7-9689-485e-8815-a36cc0aa9bef.jpg?v=1793444043",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_7_23022eff-bafa-4445-94f6-6404aedb384e.jpg?v=1793444043",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_8_2996be61-8d26-4337-85d4-39cabf4827c9.jpg?v=1793444044"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_1_0c6572bc-d8fd-4169-a1b7-1415c687d639.jpg?v=1793444043",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_1_45eca345-535a-48a2-883c-529090debed2.jpg?v=1795673555",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_2_82639e81-2ef3-4312-a719-f437fda414df.jpg?v=1795673555",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_3_d37607b6-c9ba-41e4-88c8-64473c3f02d9.jpg?v=1795673555",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_4_af761cf0-fe40-4ad0-9db9-68ab54668fdf.jpg?v=1795673555",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_5_725a8cc4-a916-423f-a592-2aaeda7dbdae.jpg?v=1793444044",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_6_2c7a6ad1-1d10-41a9-93a9-6be17cf4b205.jpg?v=1795673555",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_6_5903c0b7-9689-485e-8815-a36cc0aa9bef.jpg?v=1793444043",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_7_23022eff-bafa-4445-94f6-6404aedb384e.jpg?v=1793444043",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_7_54ef6f2e-871b-41df-8b5c-34274a12ef24.jpg?v=1795673556",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP3PPBW26B9O34_8_2996be61-8d26-4337-85d4-39cabf4827c9.jpg?v=1793444044"
+      ]
+    },
+    {
+      "product_id": "10629198282936",
+      "title": "Zinfandel - 3 Pc (WU3PPBW26JA9O1)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26ja9o1?variant=54228795719864",
       "kind": "Sold out",
-      "detail": "12 / Purple"
+      "detail": "Maroon"
     },
     {
-      "product_id": "10228114096312",
-      "title": "Green-Karandi-3 Piece (WP3PSBW25B10N46)",
-      "url": "https://bonanzasatrangi.com/products/wp3psbw25b10n46?variant=52872250622136",
+      "product_id": "10629198414008",
+      "title": "Ornate - 3 Pc (WU3PPBW26JA9O3)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26ja9o3?variant=54228795850936",
       "kind": "Sold out",
-      "detail": "12 / Green"
+      "detail": "Teal"
     },
     {
-      "product_id": "10353611931832",
-      "title": "Brown-Self-Jacquard-3 Piece (WP3PPBW25B10N40)",
-      "url": "https://bonanzasatrangi.com/products/wp3ppbw25b10n40?variant=53197584990392",
+      "product_id": "10630050513080",
+      "title": "Lilac-Lawn-2 Piece (WP2PPBS26B4M11)",
+      "url": "https://bonanzasatrangi.com/products/wp2ppbs26b4m11",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_1.jpg?v=1791284599",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_2.jpg?v=1791284598",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_3.jpg?v=1791284599",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_4.jpg?v=1791284598",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_5.jpg?v=1791284598"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_1.jpg?v=1791284599",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_1_42e52a2b-0568-4aed-ba33-44ba864c18c0.jpg?v=1795673622",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_2.jpg?v=1791284598",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_2_d3fee2da-0743-404c-9564-9be3b8c61829.jpg?v=1795673622",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_3.jpg?v=1791284599",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_3_6e8e7ee8-2ea5-449d-846b-d22e18ed9549.jpg?v=1795673622",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_4.jpg?v=1791284598",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_4_664c0417-2316-4993-8074-9888963158e4.jpg?v=1795673622",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_5.jpg?v=1791284598",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_5_d9dbd951-99b5-49a5-bdd0-5781cc444d24.jpg?v=1795673622",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/WP2PPBS26B4M11_6.jpg?v=1795673622"
+      ]
+    },
+    {
+      "product_id": "10643282428088",
+      "title": "Couture - 3 Pc (WU3PPBW26LI9O34)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o34?variant=54261085470904",
       "kind": "Sold out",
-      "detail": "12 / Brown"
+      "detail": "Teal"
     },
     {
-      "product_id": "10372619075768",
-      "title": "Pista-Cotton-Shalwar Suit - (MP2PBBW25ADJ13)",
-      "url": "https://bonanzasatrangi.com/products/mp2pbbw25adj13?variant=53363939999928",
+      "product_id": "10643282624696",
+      "title": "Shadow - 3 Pc (WU3PPBW26LI9O62)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o62?variant=54261085733048",
       "kind": "Sold out",
-      "detail": "M / Pista"
+      "detail": "Orange"
     },
     {
-      "product_id": "10372754440376",
-      "title": "Multi-Lawn-3 Piece (WP3PPBS26B1F16)",
-      "url": "https://bonanzasatrangi.com/products/wp3ppbs26b1f16?variant=53364491780280",
-      "kind": "Back in stock",
-      "detail": "16 / Multi"
-    },
-    {
-      "product_id": "10384197583032",
-      "title": "O-White-Blended-Kurta Trouser - (MP2PSBW25ADD10)",
-      "url": "https://bonanzasatrangi.com/products/mp2psbw25add10?variant=53414289899704",
+      "product_id": "10643283083448",
+      "title": "Garnet - 3 Pc (WU3PPBW26LI9O48)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o48?variant=54261086191800",
       "kind": "Sold out",
-      "detail": "M / O-White"
+      "detail": "Purple"
     },
     {
-      "product_id": "10384618455224",
-      "title": "Olive-Lawn-3 Piece (WP3PPBS26B2M58)",
-      "url": "https://bonanzasatrangi.com/products/wp3ppbs26b2m58?variant=53414753763512",
+      "product_id": "10658939699384",
+      "title": "P-Black V-Neck Sando Sweater - (601-13)",
+      "url": "https://bonanzasatrangi.com/products/p-black-v-neck-sando-sweater-601-13?variant=54313292824760",
       "kind": "Sold out",
-      "detail": "8 / Olive"
+      "detail": "L / P-Black"
     },
     {
-      "product_id": "10412261408952",
-      "title": "Green-Self-Jacquard-2 Piece (WPSTSSW25S10N11)",
-      "url": "https://bonanzasatrangi.com/products/wpstssw25s10n11?variant=53494106161336",
-      "kind": "Back in stock",
-      "detail": "16 / Green"
-    },
-    {
-      "product_id": "10412261605560",
-      "title": "S-Blue-Self-Jacquard-3 Piece (WP3PSSS26S2M4)",
-      "url": "https://bonanzasatrangi.com/products/wp3psss26s2m4?variant=53494107046072",
+      "product_id": "10664706965688",
+      "title": "Azure Botanic - 3 Pc (WU3PPBW26LI9O35)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o35?variant=54371998662840",
       "kind": "Sold out",
-      "detail": "8 / Blue"
+      "detail": "Light Green"
     },
     {
-      "product_id": "10439774765240",
-      "title": "Cream-Cotton-Shalwar Suit - (MP2PSBS26BM3A4)",
-      "url": "https://bonanzasatrangi.com/products/mp2psbs26bm3a4?variant=53576753152184",
+      "product_id": "10664706998456",
+      "title": "Akari - 3 Pc (WU3PPBW26LI9O32)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o32?variant=54371998695608",
       "kind": "Sold out",
-      "detail": "M / Cream"
+      "detail": "Light Yellow"
     },
     {
-      "product_id": "10439774765240",
-      "title": "Cream-Cotton-Shalwar Suit - (MP2PSBS26BM3A4)",
-      "url": "https://bonanzasatrangi.com/products/mp2psbs26bm3a4?variant=53576753217720",
+      "product_id": "10666227499192",
+      "title": "WILD ROOT - 3 PC (WU3PPBW26LI9O33)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o33?variant=54401149599928",
       "kind": "Sold out",
-      "detail": "XL / Cream"
+      "detail": "Teal"
     },
     {
-      "product_id": "10450948260024",
-      "title": "Oud Suroor - (100 ML)",
-      "url": "https://bonanzasatrangi.com/products/ousu100ml?variant=53609422323896",
+      "product_id": "10666576806072",
+      "title": "D-Purple V Neck Cardigan Sando Sweater (26Z-210-68)",
+      "url": "https://bonanzasatrangi.com/products/d-purple-v-neck-cardigan-sando-sweater-26z-210-68?variant=54409039118520",
       "kind": "Sold out",
-      "detail": "100ML"
+      "detail": "XL / D-Purple"
     },
     {
-      "product_id": "10472370471096",
-      "title": "Mehrab - 3 Pc (WU3PSSW25R11D14)",
-      "url": "https://bonanzasatrangi.com/products/wu3pssw25r11d14?variant=53730913124536",
+      "product_id": "10671795110072",
+      "title": "Sunlit Botanic - 3 Pc (WU3PPBW26LI9O31)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o31?variant=54471071498424",
       "kind": "Sold out",
-      "detail": "Mustard"
+      "detail": "Yellow"
     },
     {
-      "product_id": "10482562367672",
-      "title": "Olive-Blended-Shalwar Suit - (MP2PBBW25ADJ12)",
-      "url": "https://bonanzasatrangi.com/products/mp2pbbw25adj12?variant=53776651223224",
+      "product_id": "10679068197048",
+      "title": "Orchid - 3 Pc (WU3PPBW26LI9O82)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o82?variant=54509178781880",
       "kind": "Sold out",
-      "detail": "S / Olive"
+      "detail": "Maroon"
     },
     {
-      "product_id": "10482562400440",
-      "title": "O-Green-Blended-Shalwar Suit - (MP2PSBS26ADF5)",
-      "url": "https://bonanzasatrangi.com/products/mp2psbs26adf5?variant=53776651518136",
+      "product_id": "10679068393656",
+      "title": "Divan - 3 Pc (WU3PPBW26LI9O84)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o84?variant=54509178978488",
       "kind": "Sold out",
-      "detail": "XL / Green"
+      "detail": "Camel"
     },
     {
-      "product_id": "10499293544632",
-      "title": "Green-Flannel-2 Piece (WP2PSBS26HR2M39)",
-      "url": "https://bonanzasatrangi.com/products/wp2psbs26hr2m39?variant=53831285866680",
-      "kind": "Back in stock",
-      "detail": "14 / Green"
-    },
-    {
-      "product_id": "10499308159160",
-      "title": "Brown-Blended-Shalwar Suit - (MP2PBBW25ADJ11)",
-      "url": "https://bonanzasatrangi.com/products/mp2pbbw25adj11?variant=53831328137400",
+      "product_id": "10679068623032",
+      "title": "Bliss - 3 Pc (WU3PPBW26LI9O86)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o86?variant=54509179207864",
       "kind": "Sold out",
-      "detail": "XS / Brown"
+      "detail": "Brown"
     },
     {
-      "product_id": "10519265607864",
-      "title": "Beige-Flannel-2 Piece (WP2PSBS26HR2M45)",
-      "url": "https://bonanzasatrangi.com/products/wp2psbs26hr2m45?variant=53893382045880",
+      "product_id": "10679068852408",
+      "title": "Cherry - 3 Pc (WU3PPBW26LI9O88)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o88?variant=54509179437240",
       "kind": "Sold out",
-      "detail": "8 / Beige"
+      "detail": "Blue"
     },
     {
-      "product_id": "10520271847608",
-      "title": "Black Oversized T-Shirt - (AWWOTBK001)",
-      "url": "https://bonanzasatrangi.com/products/awwotbk001?variant=53896095465656",
-      "kind": "Back in stock",
-      "detail": "S / Black"
+      "product_id": "10686000431288",
+      "title": "Sand-Blended-Kurta Trouser - (MP2PSBW25ADJ20)",
+      "url": "https://bonanzasatrangi.com/products/mp2psbw25adj20",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "<p>Kurta Trouser</p>\n\n<p>Blended Kurta Trouser</p>\n\n<p>Collar Style:<br>\nShirt Collar</p>\n\n<p>Fitting:<br>\nSmart Fit</p>",
+      "after": "<p><strong>Kurta Trouser</strong></p>\n<p><strong>Blended Kurta Trouser</strong></p>\n<p><strong>Collar Style:</strong><br>Shirt Collar</p>\n<p><strong>Fitting:</strong><br>Smart Fit</p>"
     },
     {
-      "product_id": "10532552376504",
-      "title": "Black-Jacquard-3 Piece (WU3PSBS26K1F12)",
-      "url": "https://bonanzasatrangi.com/products/wu3psbs26k1f12?variant=53930107699384",
-      "kind": "Sold out",
-      "detail": "Black"
-    },
-    {
-      "product_id": "10543390589112",
-      "title": "Green-Dobby-2 Piece (WP2PSBS26HR3A15)",
-      "url": "https://bonanzasatrangi.com/products/wp2psbs26hr3a15?variant=53964113772728",
-      "kind": "Sold out",
-      "detail": "10 / Green"
-    },
-    {
-      "product_id": "10543390589112",
-      "title": "Green-Dobby-2 Piece (WP2PSBS26HR3A15)",
-      "url": "https://bonanzasatrangi.com/products/wp2psbs26hr3a15?variant=53964113805496",
-      "kind": "Sold out",
-      "detail": "12 / Green"
-    },
-    {
-      "product_id": "10543390785720",
-      "title": "Grey-Fancy Net-3 Piece (WUS25FE3120P)",
-      "url": "https://bonanzasatrangi.com/products/wus25fe3120p?variant=53964114919608",
-      "kind": "Sold out",
-      "detail": "14 / Grey"
-    },
-    {
-      "product_id": "10555981332664",
-      "title": "Purple-Blended-Shalwar Suit - (MP2PBBS26ADF11)",
-      "url": "https://bonanzasatrangi.com/products/mp2pbbs26adf11?variant=54012324315320",
-      "kind": "Sold out",
-      "detail": "M / Purple"
-    },
-    {
-      "product_id": "10555981332664",
-      "title": "Purple-Blended-Shalwar Suit - (MP2PBBS26ADF11)",
-      "url": "https://bonanzasatrangi.com/products/mp2pbbs26adf11?variant=54012324348088",
-      "kind": "Sold out",
-      "detail": "L / Purple"
-    },
-    {
-      "product_id": "10591577243832",
-      "title": "Blue-Khaddar-2 Piece (WUSTPBW25L10N17P)",
-      "url": "https://bonanzasatrangi.com/products/wustpbw25l10n17p?variant=54109218439352",
-      "kind": "Sold out",
-      "detail": "10 / Blue"
-    },
-    {
-      "product_id": "10626025554104",
-      "title": "Spring Bloom - 3 Pc (WU3PPBW26LI9O19)",
-      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o19?variant=54218556768440",
-      "kind": "Sold out",
-      "detail": "Multi"
-    },
-    {
-      "product_id": "10630050676920",
-      "title": "Beige-Khaddar-3 Piece (WP3PPBW26B9O30)",
-      "url": "https://bonanzasatrangi.com/products/wp3ppbw26b9o30?variant=54231955341496",
-      "kind": "Sold out",
-      "detail": "8 / Beige"
-    },
-    {
-      "product_id": "10658938716344",
-      "title": "M-Blue V-Neck Sando Sweater - (657-13)",
-      "url": "https://bonanzasatrangi.com/products/m-blue-v-neck-sando-sweater-657-13?variant=54313288532152",
-      "kind": "Back in stock",
-      "detail": "M / M-Blue"
-    },
-    {
-      "product_id": "10666576609464",
-      "title": "Gray V Neck Cardigan Sando Sweater (26Z-208-68)",
-      "url": "https://bonanzasatrangi.com/products/gray-v-neck-cardigan-sando-sweater-26z-208-68?variant=54409038364856",
-      "kind": "Sold out",
-      "detail": "XL / Gray"
-    },
-    {
-      "product_id": "10685804019896",
-      "title": "Blue-Khaddar-3 Piece (WP3PSBW26HR9O16)",
-      "url": "https://bonanzasatrangi.com/products/wp3psbw26hr9o16?variant=54549080211640",
-      "kind": "Sold out",
-      "detail": "12 / Blue"
-    },
-    {
-      "product_id": "10694921814200",
-      "title": "B-Pink Oversized T-Shirt - (AWWOTBP001)",
-      "url": "https://bonanzasatrangi.com/products/awwotbp001?variant=54601619669176",
-      "kind": "Back in stock",
-      "detail": "S / Pink"
+      "product_id": "10686000431288",
+      "title": "Sand-Blended-Kurta Trouser - (MP2PSBW25ADJ20)",
+      "url": "https://bonanzasatrangi.com/products/mp2psbw25adj20",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_1.jpg?v=1793339469",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_2.jpg?v=1793339469",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_3.jpg?v=1793339468",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_4.jpg?v=1793339469",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_5.jpg?v=1793339469"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_1.jpg?v=1793339469",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_1_fdb217af-12ce-460e-a18d-4d17492b6686.jpg?v=1795671215",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_2.jpg?v=1793339469",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_2_02447ba0-e649-4451-bc3c-1b7344ca6c6f.jpg?v=1795671216",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_3.jpg?v=1793339468",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_3_11565a22-e611-4073-8742-65657223545a.jpg?v=1795671215",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_4.jpg?v=1793339469",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_4_36beac97-d694-451d-b743-388d5a7ac663.jpg?v=1795671215",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_5.jpg?v=1793339469",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_5_ce33ac27-871c-43ee-b355-2be35a223139.jpg?v=1795671215",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW25ADJ20_6.jpg?v=1795671216"
+      ]
     },
     {
       "product_id": "10703783690424",
       "title": "Malaysia-Blended-Shalwar Suit - (MP2PSBW26B10N9)",
-      "url": "https://bonanzasatrangi.com/products/mp2psbw26b10n9?variant=54655787991224",
+      "url": "https://bonanzasatrangi.com/products/mp2psbw26b10n9",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_1.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_2.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_3.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_4.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_5.jpg?v=1794830002"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_1.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_1_994c520c-d29b-4d15-a65e-3307b34ae824.jpg?v=1795670970",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_2.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_2_c008994e-21c9-4b61-a8da-f9c43299bdc6.jpg?v=1795670969",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_3.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_3_9ecfab85-f829-435c-b1dc-b4630d05b16e.jpg?v=1795670970",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_4.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_4_8f27e62d-e788-452d-944b-b90dadff993a.jpg?v=1795670970",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_5.jpg?v=1794830002",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_5_efdc3f2b-939e-495c-8b5d-c117ca1e6938.jpg?v=1795670970",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N9_6.jpg?v=1795670970"
+      ]
+    },
+    {
+      "product_id": "10708125810872",
+      "title": "Pink Petal - 3 Pc (WU3PPBW26LI9O75)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o75?variant=54675340951736",
       "kind": "Sold out",
-      "detail": "XXL / Malaysia"
+      "detail": "Pink"
+    },
+    {
+      "product_id": "10708126138552",
+      "title": "Skyline - 3 Pc (WU3PPBW26LI9O74)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o74?variant=54675344392376",
+      "kind": "Sold out",
+      "detail": "Grey"
+    },
+    {
+      "product_id": "10715720941752",
+      "title": "Blue-Blended-Kurta Trouser - (MP2PBS26BM2M38)",
+      "url": "https://bonanzasatrangi.com/products/mp2pbs26bm2m38",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_1.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_2.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_3.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_4.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_5.jpg?v=1794829856"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_1.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_1_d285db77-0377-4fcf-80af-8d6d9fb09281.jpg?v=1795671776",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_2.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_2_369887f0-651a-4072-9526-04b3ce73333f.jpg?v=1795671776",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_3.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_3_dac08913-23ee-479f-a603-a752795a8daf.jpg?v=1795671776",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_4.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_4_e459b2c3-189e-47f3-875a-ac1895877b95.jpg?v=1795671776",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_5.jpg?v=1794829856",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_5_49da5b9b-82dd-47e8-b7ae-88aedff4a3ce.jpg?v=1795671776",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PBS26BM2M38_6.jpg?v=1795671776"
+      ]
+    },
+    {
+      "product_id": "10715721072824",
+      "title": "O-White-Cotton-Shalwar Suit - (MPS25SSS2051)",
+      "url": "https://bonanzasatrangi.com/products/mps25sss2051",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_1.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_2.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_3.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_4.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_5.jpg?v=1794830078",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_6.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_7.jpg?v=1794830078"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_1.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_1_c2fc4350-8b61-472e-8a0d-7eb8c3d9c288.jpg?v=1795670656",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_2.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_2_2f72c746-d768-4c6f-9d38-a7f4755b5894.jpg?v=1795670656",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_3.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_3_1640f9a8-9bc7-4300-9997-200f7d2da598.jpg?v=1795670656",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_4.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_4_c6200198-ace1-4dc7-a86b-d31d32684a57.jpg?v=1795670656",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_5.jpg?v=1794830078",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_5_dabedc10-7ed9-43e1-971c-4f1db5559c43.jpg?v=1795670656",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_6.jpg?v=1794830077",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_6_286075f5-da32-4891-9426-538b3830671e.jpg?v=1795670656",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MPS25SSS2051_7.jpg?v=1794830078"
+      ]
     },
     {
       "product_id": "10715721597112",
       "title": "D-Olive-Blended-Shalwar Suit - (MP2PSBW26B10N10)",
-      "url": "https://bonanzasatrangi.com/products/mp2psbw26b10n10?variant=54710399041720",
+      "url": "https://bonanzasatrangi.com/products/mp2psbw26b10n10",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_1.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_2.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_3.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_4.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_5.jpg?v=1794830040"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_1.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_1_6df0e4b1-096d-4d66-b9c9-848c56ba88cd.jpg?v=1795670844",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_2.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_2_8439b2f3-25a2-4187-8a91-453f4805c9a8.jpg?v=1795670844",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_3.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_3_7f887f9e-5106-4d84-b504-a00025d69355.jpg?v=1795670844",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_4.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_4_0a8bb42f-af66-49ac-b229-8f76982b848c.jpg?v=1795670843",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_5.jpg?v=1794830040",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_5_63048a5c-c0d0-4065-9ec3-729e8dc6b9ef.jpg?v=1795670843",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N10_6.jpg?v=1795670844"
+      ]
+    },
+    {
+      "product_id": "10718970052792",
+      "title": "Diamond - 3 Pc (WU3PPBW26LI9O65)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li9o65?variant=54739206930616",
       "kind": "Sold out",
-      "detail": "XXL / D-Olive"
+      "detail": "Black"
     },
     {
-      "product_id": "10722537767096",
-      "title": "Dyed Cambric Trouser (WPSTSBS26SA2M4)",
-      "url": "https://bonanzasatrangi.com/products/wpstsbs26sa2m4",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 8 / White, 10 / White, 12 / White, 14 / White, 16 / White"
+      "product_id": "10722404827320",
+      "title": "Smoke Grey-Blended-Shalwar Suit - (MP2PSBW26B10N12)",
+      "url": "https://bonanzasatrangi.com/products/mp2psbw26b10n12",
+      "kind": "Product updated",
+      "detail": "Images changed (see changes.json for full before/after)",
+      "field": "images",
+      "before": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_1.jpg?v=1795002978",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_2.jpg?v=1795002978",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_3.jpg?v=1795002978",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_4.jpg?v=1795002978",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_5.jpg?v=1795002978"
+      ],
+      "after": [
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_1_c72112b0-79fc-42d8-865c-0b3fc83ee075.jpg?v=1795670759",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_2_eef02a94-ad48-4d26-87ad-3782c619a46d.jpg?v=1795670760",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_3_eb185552-99b8-4715-a861-075a45e794a0.jpg?v=1795670759",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_4_b1787494-a4ef-4b46-ad51-5a90bd97165b.jpg?v=1795670759",
+        "https://cdn.shopify.com/s/files/1/0872/1278/5848/files/MP2PSBW26B10N12_5_738b3270-ebeb-44f5-8630-8eca6ac4f865.jpg?v=1795670759"
+      ]
     },
     {
-      "product_id": "10757752979640",
-      "title": "Beige-Jacquard-3 Piece (WU3PSFS26F1F9)",
-      "url": "https://bonanzasatrangi.com/products/wu3psfs26f1f9",
-      "kind": "New product",
-      "detail": "Price: PKR 6,490.00; available sizes/options: Beige"
-    },
-    {
-      "product_id": "9896158593208",
-      "title": "VISION (100 ML)",
-      "url": "https://bonanzasatrangi.com/products/visio100ml?variant=50873418318008",
+      "product_id": "10734389067960",
+      "title": "Miso - 3 Pc (WU3PPBW26LI10N28)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li10n28?variant=54800279273656",
       "kind": "Sold out",
-      "detail": "100 ML"
+      "detail": "Blue"
+    },
+    {
+      "product_id": "10734389166264",
+      "title": "Zarveen - 3 Pc (WU3PPBW26LI10N30)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li10n30?variant=54800279371960",
+      "kind": "Sold out",
+      "detail": "M-Gold"
+    },
+    {
+      "product_id": "10741576204472",
+      "title": "Shay - 3 Pc (WU3PPBW26LI10N29)",
+      "url": "https://bonanzasatrangi.com/products/wu3ppbw26li10n29?variant=54846207393976",
+      "kind": "Sold out",
+      "detail": "Black"
     }
   ]
 }
