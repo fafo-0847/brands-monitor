@@ -3,7 +3,7 @@
   "source": "https://royaltag.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-26T00:58:14.326933+00:00",
+  "checked_at": "2026-11-26T12:16:38.382883+00:00",
   "products": {
     "8875920720046": {
       "id": "8875920720046",
@@ -1413,7 +1413,7 @@
             "Smart Fit"
           ],
           "sku": "164825",
-          "available": true,
+          "available": false,
           "price": 393750,
           "compare_at_price": 525000
         },
@@ -2452,7 +2452,7 @@
             "BEIGE"
           ],
           "sku": "172219",
-          "available": false,
+          "available": true,
           "price": 2587500,
           "compare_at_price": 3450000
         },
@@ -2981,7 +2981,7 @@
             "BEIGE"
           ],
           "sku": "170588",
-          "available": true,
+          "available": false,
           "price": 2587500,
           "compare_at_price": 3450000
         },
@@ -6514,7 +6514,7 @@
             "BLACK"
           ],
           "sku": "171052",
-          "available": true,
+          "available": false,
           "price": 1987500,
           "compare_at_price": 2650000
         },
@@ -9755,7 +9755,7 @@
             "BLUE"
           ],
           "sku": "166516",
-          "available": true,
+          "available": false,
           "price": 472500,
           "compare_at_price": 945000
         }
@@ -10859,7 +10859,7 @@
             "Brown"
           ],
           "sku": "161930",
-          "available": true,
+          "available": false,
           "price": 447500,
           "compare_at_price": 895000
         },
@@ -12463,7 +12463,7 @@
             "Smart Fit"
           ],
           "sku": "167792",
-          "available": true,
+          "available": false,
           "price": 182500,
           "compare_at_price": 365000
         },
@@ -13105,95 +13105,6 @@
       },
       "available": true
     },
-    "15444201734318": {
-      "id": "15444201734318",
-      "title": "Cable Knit Wool Cashmere Jumper",
-      "handle": "lm2610-br",
-      "url": "https://royaltag.com.pk/products/lm2610-br",
-      "vendor": "Royal Tag",
-      "type": "W26 SWEATERS",
-      "description": "<p>This cable-knit jumper is crafted from wool-and-cashmere yarn.<br>Rib- knit mock neck.<br>Quarter-zip placket.<br>Long sleeves with rib-knit cuffs.</p>\n<p><br><strong>STYLE: LM2610-BR</strong></p>",
-      "tags": [
-        "W26 SWEATERS",
-        "bless-friday-26"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_1.jpg?v=1793356717",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_2.jpg?v=1793356717",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_3.jpg?v=1793356717",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_4.jpg?v=1793356717"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "M",
-            "L",
-            "XL",
-            "2XL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "BROWN"
-          ]
-        }
-      ],
-      "variants": {
-        "67903121490094": {
-          "id": "67903121490094",
-          "title": "M / BROWN",
-          "options": [
-            "M",
-            "BROWN"
-          ],
-          "sku": "173501",
-          "available": true,
-          "price": 671250,
-          "compare_at_price": 895000
-        },
-        "67903121522862": {
-          "id": "67903121522862",
-          "title": "L / BROWN",
-          "options": [
-            "L",
-            "BROWN"
-          ],
-          "sku": "173502",
-          "available": true,
-          "price": 671250,
-          "compare_at_price": 895000
-        },
-        "67903121555630": {
-          "id": "67903121555630",
-          "title": "XL / BROWN",
-          "options": [
-            "XL",
-            "BROWN"
-          ],
-          "sku": "173503",
-          "available": true,
-          "price": 671250,
-          "compare_at_price": 895000
-        },
-        "67903121588398": {
-          "id": "67903121588398",
-          "title": "2XL / BROWN",
-          "options": [
-            "2XL",
-            "BROWN"
-          ],
-          "sku": "173504",
-          "available": true,
-          "price": 671250,
-          "compare_at_price": 895000
-        }
-      },
-      "available": true
-    },
     "15488255951022": {
       "id": "15488255951022",
       "title": "Cable-Knit  Jumper",
@@ -13500,9 +13411,98 @@
       },
       "available": true
     },
+    "15444201734318": {
+      "id": "15444201734318",
+      "title": "Cable-Knit Quarter Zipper Jumper",
+      "handle": "lm2610-br",
+      "url": "https://royaltag.com.pk/products/lm2610-br",
+      "vendor": "Royal Tag",
+      "type": "W26 SWEATERS",
+      "description": "<p>This cable-knit jumper is crafted from wool-and-cashmere yarn.<br>Rib- knit mock neck.<br>Quarter-zip placket.<br>Long sleeves with rib-knit cuffs.</p>\n<p><br><strong>STYLE: LM2610-BR</strong></p>",
+      "tags": [
+        "W26 SWEATERS",
+        "bless-friday-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_1.jpg?v=1793356717",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_2.jpg?v=1793356717",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_3.jpg?v=1793356717",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/LM2610-BR_4.jpg?v=1793356717"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BROWN"
+          ]
+        }
+      ],
+      "variants": {
+        "67903121490094": {
+          "id": "67903121490094",
+          "title": "M / BROWN",
+          "options": [
+            "M",
+            "BROWN"
+          ],
+          "sku": "173501",
+          "available": true,
+          "price": 671250,
+          "compare_at_price": 895000
+        },
+        "67903121522862": {
+          "id": "67903121522862",
+          "title": "L / BROWN",
+          "options": [
+            "L",
+            "BROWN"
+          ],
+          "sku": "173502",
+          "available": true,
+          "price": 671250,
+          "compare_at_price": 895000
+        },
+        "67903121555630": {
+          "id": "67903121555630",
+          "title": "XL / BROWN",
+          "options": [
+            "XL",
+            "BROWN"
+          ],
+          "sku": "173503",
+          "available": true,
+          "price": 671250,
+          "compare_at_price": 895000
+        },
+        "67903121588398": {
+          "id": "67903121588398",
+          "title": "2XL / BROWN",
+          "options": [
+            "2XL",
+            "BROWN"
+          ],
+          "sku": "173504",
+          "available": true,
+          "price": 671250,
+          "compare_at_price": 895000
+        }
+      },
+      "available": true
+    },
     "15491396501678": {
       "id": "15491396501678",
-      "title": "Cable-Knit Wool-Cashmere Jumper",
+      "title": "Cable-Knit Quarter Zipper Jumper",
       "handle": "lm2610-ny",
       "url": "https://royaltag.com.pk/products/lm2610-ny",
       "vendor": "Royal Tag",
@@ -16555,7 +16555,7 @@
             "CH.Grey"
           ],
           "sku": "169905",
-          "available": true,
+          "available": false,
           "price": 626500,
           "compare_at_price": 895000
         }
@@ -17071,7 +17071,7 @@
             "GREY"
           ],
           "sku": "169658",
-          "available": true,
+          "available": false,
           "price": 172500,
           "compare_at_price": 345000
         },
@@ -17083,7 +17083,7 @@
             "GREY"
           ],
           "sku": "169659",
-          "available": false,
+          "available": true,
           "price": 172500,
           "compare_at_price": 345000
         },
@@ -20060,7 +20060,7 @@
             "BEIGE"
           ],
           "sku": "173535",
-          "available": true,
+          "available": false,
           "price": 1087500,
           "compare_at_price": 1450000
         },
@@ -21069,7 +21069,7 @@
             "BLACK"
           ],
           "sku": "171136",
-          "available": true,
+          "available": false,
           "price": 1687500,
           "compare_at_price": 2250000
         },
@@ -21135,7 +21135,7 @@
             "BROWN"
           ],
           "sku": "172557",
-          "available": false,
+          "available": true,
           "price": 1462500,
           "compare_at_price": 1950000
         },
@@ -21341,7 +21341,7 @@
             "CH.Grey"
           ],
           "sku": "172552",
-          "available": false,
+          "available": true,
           "price": 1462500,
           "compare_at_price": 1950000
         },
@@ -23907,7 +23907,7 @@
             "NAVY"
           ],
           "sku": "171850",
-          "available": true,
+          "available": false,
           "price": 296250,
           "compare_at_price": 395000
         }
@@ -23999,56 +23999,6 @@
           "available": false,
           "price": 296250,
           "compare_at_price": 395000
-        }
-      },
-      "available": true
-    },
-    "9206173139118": {
-      "id": "9206173139118",
-      "title": "CUFF LINKS",
-      "handle": "cuf-2693",
-      "url": "https://royaltag.com.pk/products/cuf-2693",
-      "vendor": "Royal Tag",
-      "type": "SM326 CUFF LINKS",
-      "description": "<p>Refined cuff links designed to elevate formal attire with a timeless, polished finish.<br><br><strong>STYLE: CUF-2693</strong></p>",
-      "tags": [
-        "Accessories",
-        "Full Price Cuff Links",
-        "None",
-        "bless-friday-26"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/CUF-2693_2.jpg?v=1785995896",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/CUF-2693_3.jpg?v=1785995896"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "-"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "-"
-          ]
-        }
-      ],
-      "variants": {
-        "48886280945838": {
-          "id": "48886280945838",
-          "title": "- / -",
-          "options": [
-            "-",
-            "-"
-          ],
-          "sku": "170267",
-          "available": true,
-          "price": 198750,
-          "compare_at_price": 265000
         }
       },
       "available": true
@@ -26124,7 +26074,7 @@
             "Smart Fit"
           ],
           "sku": "160417",
-          "available": true,
+          "available": false,
           "price": 312500,
           "compare_at_price": 625000
         },
@@ -27167,7 +27117,7 @@
       "url": "https://royaltag.com.pk/products/crthc260804-br",
       "vendor": "Royal Tag",
       "type": "W26 Hood",
-      "description": "<p>A modern interlock hoodie designed with a comfortable pull-on style.<br><br><strong>STYLE: CRTHC260804-BR</strong></p>",
+      "description": "<p>A modern fleece hoodie designed with a comfortable pull-on style.<br><br><strong>STYLE: CRTHC260804-BR</strong></p>",
       "tags": [
         "W26 Hood",
         "bless-friday-26"
@@ -27786,7 +27736,7 @@
             "BEIGE"
           ],
           "sku": "172810",
-          "available": false,
+          "available": true,
           "price": 708750,
           "compare_at_price": 945000
         },
@@ -27990,7 +27940,7 @@
             "GREY"
           ],
           "sku": "172820",
-          "available": false,
+          "available": true,
           "price": 708750,
           "compare_at_price": 945000
         },
@@ -30128,7 +30078,7 @@
             "GREY"
           ],
           "sku": "171460",
-          "available": true,
+          "available": false,
           "price": 371250,
           "compare_at_price": 495000
         },
@@ -33613,7 +33563,7 @@
             "SKY"
           ],
           "sku": "167302",
-          "available": true,
+          "available": false,
           "price": 393750,
           "compare_at_price": 525000
         },
@@ -38427,7 +38377,7 @@
             "LT-GRAY"
           ],
           "sku": "168329",
-          "available": true,
+          "available": false,
           "price": 371250,
           "compare_at_price": 495000
         },
@@ -40689,7 +40639,7 @@
             "BEIGE"
           ],
           "sku": "174130",
-          "available": true,
+          "available": false,
           "price": 2437500,
           "compare_at_price": 3250000
         },
@@ -42224,95 +42174,6 @@
       },
       "available": true
     },
-    "15421256532142": {
-      "id": "15421256532142",
-      "title": "Mock Neck Cardigan",
-      "handle": "rtju260875-lbr",
-      "url": "https://royaltag.com.pk/products/rtju260875-lbr",
-      "vendor": "Royal Tag",
-      "type": "W26 Upper",
-      "description": "<p>Classic fit.<br>Rib-knit mock neck. <br>Full-zip placket.<br>Long sleeves with rib-knit cuffs.<br>Rib-knit hem.<br><br><br><strong>STYLE: RTJU260875-LBR</strong></p>",
-      "tags": [
-        "W26 Upper",
-        "bless-friday-26"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTJU260875-LBR_1.jpg?v=1792652016",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTJU260875-LBR_2.jpg?v=1792652016",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTJU260875-LBR_3.jpg?v=1792652016",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTJU260875-LBR_4.jpg?v=1792652016"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "M",
-            "L",
-            "XL",
-            "2XL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "LT-BROWN"
-          ]
-        }
-      ],
-      "variants": {
-        "67764164165806": {
-          "id": "67764164165806",
-          "title": "M / LT-BROWN",
-          "options": [
-            "M",
-            "LT-BROWN"
-          ],
-          "sku": "171980",
-          "available": false,
-          "price": 633750,
-          "compare_at_price": 845000
-        },
-        "67764164198574": {
-          "id": "67764164198574",
-          "title": "L / LT-BROWN",
-          "options": [
-            "L",
-            "LT-BROWN"
-          ],
-          "sku": "171981",
-          "available": true,
-          "price": 633750,
-          "compare_at_price": 845000
-        },
-        "67764164231342": {
-          "id": "67764164231342",
-          "title": "XL / LT-BROWN",
-          "options": [
-            "XL",
-            "LT-BROWN"
-          ],
-          "sku": "171982",
-          "available": true,
-          "price": 633750,
-          "compare_at_price": 845000
-        },
-        "67764164264110": {
-          "id": "67764164264110",
-          "title": "2XL / LT-BROWN",
-          "options": [
-            "2XL",
-            "LT-BROWN"
-          ],
-          "sku": "171983",
-          "available": true,
-          "price": 633750,
-          "compare_at_price": 845000
-        }
-      },
-      "available": true
-    },
     "15421257285806": {
       "id": "15421257285806",
       "title": "Mock Neck Cardigan",
@@ -42513,6 +42374,95 @@
           "available": true,
           "price": 933750,
           "compare_at_price": 1245000
+        }
+      },
+      "available": true
+    },
+    "15421256532142": {
+      "id": "15421256532142",
+      "title": "Mock Neck Zipper",
+      "handle": "rtju260875-lbr",
+      "url": "https://royaltag.com.pk/products/rtju260875-lbr",
+      "vendor": "Royal Tag",
+      "type": "W26 Upper",
+      "description": "<p>Classic fit.<br>Rib-knit mock neck. <br>Full-zip placket.<br>Long sleeves with rib-knit cuffs.<br>Rib-knit hem.<br><br><br><strong>STYLE: RTJU260875-LBR</strong></p>",
+      "tags": [
+        "W26 Upper",
+        "bless-friday-26"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTJU260875-LBR_1.jpg?v=1792652016",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTJU260875-LBR_2.jpg?v=1792652016",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTJU260875-LBR_3.jpg?v=1792652016",
+        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTJU260875-LBR_4.jpg?v=1792652016"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "LT-BROWN"
+          ]
+        }
+      ],
+      "variants": {
+        "67764164165806": {
+          "id": "67764164165806",
+          "title": "M / LT-BROWN",
+          "options": [
+            "M",
+            "LT-BROWN"
+          ],
+          "sku": "171980",
+          "available": false,
+          "price": 633750,
+          "compare_at_price": 845000
+        },
+        "67764164198574": {
+          "id": "67764164198574",
+          "title": "L / LT-BROWN",
+          "options": [
+            "L",
+            "LT-BROWN"
+          ],
+          "sku": "171981",
+          "available": true,
+          "price": 633750,
+          "compare_at_price": 845000
+        },
+        "67764164231342": {
+          "id": "67764164231342",
+          "title": "XL / LT-BROWN",
+          "options": [
+            "XL",
+            "LT-BROWN"
+          ],
+          "sku": "171982",
+          "available": true,
+          "price": 633750,
+          "compare_at_price": 845000
+        },
+        "67764164264110": {
+          "id": "67764164264110",
+          "title": "2XL / LT-BROWN",
+          "options": [
+            "2XL",
+            "LT-BROWN"
+          ],
+          "sku": "171983",
+          "available": true,
+          "price": 633750,
+          "compare_at_price": 845000
         }
       },
       "available": true
@@ -43468,111 +43418,6 @@
       },
       "available": true
     },
-    "8944300458158": {
-      "id": "8944300458158",
-      "title": "MR/BK WAISTCOAT",
-      "handle": "rwc250846-mr",
-      "url": "https://royaltag.com.pk/products/rwc250846-mr",
-      "vendor": "Royal Tag",
-      "type": "W25 WAISTCOAT",
-      "description": "<p>A classic waistcoat crafted for a sharp, refined look. Perfect for formal and semi-formal occasions.<br><br><strong>STYLE: RWC250846-MR</strong></p>",
-      "tags": [
-        "None",
-        "Summer Clearance Sale 2026",
-        "Tehwar",
-        "Waistcoat",
-        "waistcoat sale"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RWC250846-MR_1.jpg?v=1765962977",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RWC250846-MR_2.jpg?v=1765962977",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RWC250846-MR_3.jpg?v=1765962977",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RWC250846-MR_4.jpg?v=1765962977"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "2XL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "MR/BK"
-          ]
-        }
-      ],
-      "variants": {
-        "47259697905838": {
-          "id": "47259697905838",
-          "title": "S / MR/BK",
-          "options": [
-            "S",
-            "MR/BK"
-          ],
-          "sku": "163670",
-          "available": true,
-          "price": 412500,
-          "compare_at_price": 825000
-        },
-        "47259697938606": {
-          "id": "47259697938606",
-          "title": "M / MR/BK",
-          "options": [
-            "M",
-            "MR/BK"
-          ],
-          "sku": "163671",
-          "available": false,
-          "price": 412500,
-          "compare_at_price": 825000
-        },
-        "47259697971374": {
-          "id": "47259697971374",
-          "title": "L / MR/BK",
-          "options": [
-            "L",
-            "MR/BK"
-          ],
-          "sku": "163672",
-          "available": false,
-          "price": 412500,
-          "compare_at_price": 825000
-        },
-        "47259698004142": {
-          "id": "47259698004142",
-          "title": "XL / MR/BK",
-          "options": [
-            "XL",
-            "MR/BK"
-          ],
-          "sku": "163673",
-          "available": false,
-          "price": 412500,
-          "compare_at_price": 825000
-        },
-        "47259698036910": {
-          "id": "47259698036910",
-          "title": "2XL / MR/BK",
-          "options": [
-            "2XL",
-            "MR/BK"
-          ],
-          "sku": "163674",
-          "available": false,
-          "price": 412500,
-          "compare_at_price": 825000
-        }
-      },
-      "available": true
-    },
     "8895978995886": {
       "id": "8895978995886",
       "title": "Multi Round Neck Sweater",
@@ -43920,99 +43765,6 @@
           "available": true,
           "price": 2587500,
           "compare_at_price": 3450000
-        }
-      },
-      "available": true
-    },
-    "9081294291118": {
-      "id": "9081294291118",
-      "title": "Navy Classic Waistcoat",
-      "handle": "rwc260232-ny",
-      "url": "https://royaltag.com.pk/products/rwc260232-ny",
-      "vendor": "Royal Tag",
-      "type": "SM26 WAISTCOAT",
-      "description": "<p>A classic waistcoat crafted for a sharp, refined look. Perfect for formal and semi-formal occasions.<br><br><strong>STYLE: RWC260232-NY</strong></p>",
-      "tags": [
-        "None",
-        "Summer Clearance Sale 2026",
-        "Tehwar",
-        "Waistcoat",
-        "bless-friday-26-20",
-        "waistcoat sale"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RWC260232-NY_1.jpg?v=1776749333",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RWC260232-NY_2.jpg?v=1776749333",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RWC260232-NY_3.jpg?v=1776749333",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RWC260232-NY_4.jpg?v=1776749333"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "NAVY"
-          ]
-        }
-      ],
-      "variants": {
-        "47750039371950": {
-          "id": "47750039371950",
-          "title": "S / NAVY",
-          "options": [
-            "S",
-            "NAVY"
-          ],
-          "sku": "167590",
-          "available": false,
-          "price": 618750,
-          "compare_at_price": 825000
-        },
-        "47750039404718": {
-          "id": "47750039404718",
-          "title": "M / NAVY",
-          "options": [
-            "M",
-            "NAVY"
-          ],
-          "sku": "167591",
-          "available": true,
-          "price": 618750,
-          "compare_at_price": 825000
-        },
-        "47750039437486": {
-          "id": "47750039437486",
-          "title": "L / NAVY",
-          "options": [
-            "L",
-            "NAVY"
-          ],
-          "sku": "167592",
-          "available": false,
-          "price": 618750,
-          "compare_at_price": 825000
-        },
-        "47750039470254": {
-          "id": "47750039470254",
-          "title": "XL / NAVY",
-          "options": [
-            "XL",
-            "NAVY"
-          ],
-          "sku": "167593",
-          "available": false,
-          "price": 618750,
-          "compare_at_price": 825000
         }
       },
       "available": true
@@ -44439,7 +44191,7 @@
             "NAVY"
           ],
           "sku": "168347",
-          "available": true,
+          "available": false,
           "price": 162500,
           "compare_at_price": 325000
         },
@@ -47775,7 +47527,7 @@
             "Smart Fit"
           ],
           "sku": "159399",
-          "available": false,
+          "available": true,
           "price": 197500,
           "compare_at_price": 395000
         },
@@ -59833,55 +59585,6 @@
       },
       "available": true
     },
-    "9049450938542": {
-      "id": "9049450938542",
-      "title": "Silver Signature Lapel Pin",
-      "handle": "lp-153",
-      "url": "https://royaltag.com.pk/products/lp-153",
-      "vendor": "Royal Tag",
-      "type": "SP126 LAPEL PIN",
-      "description": "<p>Stylish lapel pins crafted to add a refined finishing touch to formal and semi-formal outfits.<br><br><strong>STYLE: LP-153</strong></p>",
-      "tags": [
-        "Accessories",
-        "Full Price Lapel Pin",
-        "None",
-        "bless-friday-26"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/LP-153_2.jpg?v=1773845957"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "-"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "SILVER"
-          ]
-        }
-      ],
-      "variants": {
-        "47648216809646": {
-          "id": "47648216809646",
-          "title": "- / SILVER",
-          "options": [
-            "-",
-            "SILVER"
-          ],
-          "sku": "166860",
-          "available": true,
-          "price": 146250,
-          "compare_at_price": 195000
-        }
-      },
-      "available": true
-    },
     "9049451102382": {
       "id": "9049451102382",
       "title": "Silver Sovereign Tie Pin",
@@ -60525,7 +60228,7 @@
             "SKY"
           ],
           "sku": "168755",
-          "available": true,
+          "available": false,
           "price": 371250,
           "compare_at_price": 495000
         },
@@ -60653,7 +60356,7 @@
             "SKY"
           ],
           "sku": "168961",
-          "available": true,
+          "available": false,
           "price": 371250,
           "compare_at_price": 495000
         },
@@ -62716,7 +62419,7 @@
             "CH.Grey"
           ],
           "sku": "172923",
-          "available": true,
+          "available": false,
           "price": 438750,
           "compare_at_price": 585000
         }
@@ -64792,7 +64495,7 @@
             "DARK BROWN"
           ],
           "sku": "172572",
-          "available": false,
+          "available": true,
           "price": 1237500,
           "compare_at_price": 1650000
         },
@@ -66839,95 +66542,6 @@
       },
       "available": true
     },
-    "10324863877294": {
-      "id": "10324863877294",
-      "title": "Textured long-sleeve polo",
-      "handle": "rtcf260714-ny",
-      "url": "https://royaltag.com.pk/products/rtcf260714-ny",
-      "vendor": "Royal Tag",
-      "type": "W26 POLO SHIRT",
-      "description": "<p>A classic long-sleeve polo features a soft Textured-knit cotton with a hint of stretch for all-day comfort. Finished with a hidden-button placket.<br><br><br><strong>STYLE: RTCF260714-NY</strong></p>",
-      "tags": [
-        "W26 POLO SHIRT",
-        "bless-friday-26"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTCF260714-NY_1.jpg?v=1790333547",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTCF260714-NY_2.jpg?v=1790333547",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTCF260714-NY_3.jpg?v=1790333547",
-        "https://cdn.shopify.com/s/files/1/1033/9361/files/RTCF260714-NY_4.jpg?v=1790333547"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "M",
-            "L",
-            "XL",
-            "2XL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "NAVY"
-          ]
-        }
-      ],
-      "variants": {
-        "50536143519918": {
-          "id": "50536143519918",
-          "title": "M / NAVY",
-          "options": [
-            "M",
-            "NAVY"
-          ],
-          "sku": "171518",
-          "available": false,
-          "price": 296250,
-          "compare_at_price": 395000
-        },
-        "50536143552686": {
-          "id": "50536143552686",
-          "title": "L / NAVY",
-          "options": [
-            "L",
-            "NAVY"
-          ],
-          "sku": "171519",
-          "available": false,
-          "price": 296250,
-          "compare_at_price": 395000
-        },
-        "50536143585454": {
-          "id": "50536143585454",
-          "title": "XL / NAVY",
-          "options": [
-            "XL",
-            "NAVY"
-          ],
-          "sku": "171520",
-          "available": true,
-          "price": 296250,
-          "compare_at_price": 395000
-        },
-        "50536143618222": {
-          "id": "50536143618222",
-          "title": "2XL / NAVY",
-          "options": [
-            "2XL",
-            "NAVY"
-          ],
-          "sku": "171521",
-          "available": false,
-          "price": 296250,
-          "compare_at_price": 395000
-        }
-      },
-      "available": true
-    },
     "10324864172206": {
       "id": "10324864172206",
       "title": "Textured long-sleeve polo",
@@ -67508,7 +67122,7 @@
             "BLACK"
           ],
           "sku": "170981",
-          "available": true,
+          "available": false,
           "price": 318750,
           "compare_at_price": 425000
         },
@@ -67710,7 +67324,7 @@
             "BLACK"
           ],
           "sku": "171333",
-          "available": true,
+          "available": false,
           "price": 288750,
           "compare_at_price": 385000
         },
@@ -68332,7 +67946,7 @@
             "GREEN"
           ],
           "sku": "171399",
-          "available": true,
+          "available": false,
           "price": 318750,
           "compare_at_price": 425000
         },
@@ -68421,7 +68035,7 @@
             "BEIGE"
           ],
           "sku": "171853",
-          "available": true,
+          "available": false,
           "price": 296250,
           "compare_at_price": 395000
         },
@@ -68718,7 +68332,7 @@
             "BLACK"
           ],
           "sku": "172782",
-          "available": true,
+          "available": false,
           "price": 708750,
           "compare_at_price": 945000
         },
@@ -68742,7 +68356,7 @@
             "BLACK"
           ],
           "sku": "172784",
-          "available": true,
+          "available": false,
           "price": 708750,
           "compare_at_price": 945000
         },
@@ -79003,7 +78617,7 @@
             "WHITE"
           ],
           "sku": "165944",
-          "available": true,
+          "available": false,
           "price": 262500,
           "compare_at_price": 525000
         },
@@ -79260,7 +78874,7 @@
             "GREY"
           ],
           "sku": "174145",
-          "available": true,
+          "available": false,
           "price": 3487500,
           "compare_at_price": 4650000
         },
@@ -79362,7 +78976,7 @@
             "LT-BROWN"
           ],
           "sku": "174165",
-          "available": true,
+          "available": false,
           "price": 3712500,
           "compare_at_price": 4950000
         },
