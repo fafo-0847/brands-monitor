@@ -3,7 +3,7 @@
   "source": "https://chesterbernard.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-25T23:36:51.190163+00:00",
+  "checked_at": "2026-11-26T10:53:38.971274+00:00",
   "products": {
     "8639177883831": {
       "id": "8639177883831",
@@ -2538,6 +2538,154 @@
       },
       "available": true
     },
+    "16003767500983": {
+      "id": "16003767500983",
+      "title": "Classic Pink Twill Formal Shirt",
+      "handle": "classic-pink-twill-formal-shirt",
+      "url": "https://chesterbernard.com/products/classic-pink-twill-formal-shirt",
+      "vendor": "Formal",
+      "type": "Shirts",
+      "description": "<div>\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_47_\">\n<div>\n<div>\n<div role=\"article\" aria-setsize=\"40\" aria-posinset=\"40\" aria-label=\"Message 40 of 40\" tabindex=\"0\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p dir=\"ltr\">A soft rose pink shirt in a smooth twill weave with a gentle diagonal texture and a subtle sheen. The classic spread collar and pearl-finish buttons give it a clean, polished look. It pairs well with navy, grey or charcoal suits and looks sharp with or without a tie. It's a confident, refined choice for the office, weddings and formal occasions.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div aria-hidden=\"true\"><br></div>\n</div>\n</div>\n<div aria-hidden=\"true\"><br></div>\n</div>",
+      "tags": [
+        "14.5",
+        "15",
+        "15.5",
+        "16",
+        "16.5",
+        "17",
+        "17.5",
+        "Formals",
+        "Shirts"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/A-15_50846991-07d5-4352-b06e-87b3add192fc.jpg?v=1795688867",
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/B-15_a7d32795-a453-4af1-bfd6-f560131bff63.jpg?v=1795688867",
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/C-15_76037d6c-ec68-4b8f-969b-7f526eaac51d.jpg?v=1795688867"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "14.5",
+            "15",
+            "15.5",
+            "16",
+            "16.5",
+            "17",
+            "17.5"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Pink"
+          ]
+        },
+        {
+          "name": "STYLE",
+          "position": 3,
+          "values": [
+            "Formal"
+          ]
+        }
+      ],
+      "variants": {
+        "58334189846711": {
+          "id": "58334189846711",
+          "title": "14.5 / Pink / Formal",
+          "options": [
+            "14.5",
+            "Pink",
+            "Formal"
+          ],
+          "sku": "OL70-8450-145",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334189879479": {
+          "id": "58334189879479",
+          "title": "15 / Pink / Formal",
+          "options": [
+            "15",
+            "Pink",
+            "Formal"
+          ],
+          "sku": "OL70-8450-150",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334189912247": {
+          "id": "58334189912247",
+          "title": "15.5 / Pink / Formal",
+          "options": [
+            "15.5",
+            "Pink",
+            "Formal"
+          ],
+          "sku": "OL70-8450-155",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334189945015": {
+          "id": "58334189945015",
+          "title": "16 / Pink / Formal",
+          "options": [
+            "16",
+            "Pink",
+            "Formal"
+          ],
+          "sku": "OL70-8450-160",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334189977783": {
+          "id": "58334189977783",
+          "title": "16.5 / Pink / Formal",
+          "options": [
+            "16.5",
+            "Pink",
+            "Formal"
+          ],
+          "sku": "OL70-8450-165",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334190010551": {
+          "id": "58334190010551",
+          "title": "17 / Pink / Formal",
+          "options": [
+            "17",
+            "Pink",
+            "Formal"
+          ],
+          "sku": "OL70-8450-170",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334190043319": {
+          "id": "58334190043319",
+          "title": "17.5 / Pink / Formal",
+          "options": [
+            "17.5",
+            "Pink",
+            "Formal"
+          ],
+          "sku": "OL70-8450-175",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "8693178859703": {
       "id": "8693178859703",
       "title": "Classic Pure White Formal Shirt",
@@ -3266,6 +3414,140 @@
           "sku": "OL612-7500-175",
           "available": false,
           "price": 795000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "16003755114679": {
+      "id": "16003755114679",
+      "title": "Classic White Royal Oxford Shirt",
+      "handle": "classic-white-royal-oxford-shirt",
+      "url": "https://chesterbernard.com/products/classic-white-royal-oxford-shirt",
+      "vendor": "FORMAL",
+      "type": "Shirts",
+      "description": "<div>\n<div role=\"feed\" aria-label=\"Chat messages\" aria-describedby=\"_r_47_\">\n<div>\n<div>\n<div role=\"article\" aria-setsize=\"36\" aria-posinset=\"36\" aria-label=\"Message 36 of 36\" tabindex=\"0\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p dir=\"ltr\">A crisp pure white shirt in a fine textured weave that gives it a subtle depth and a premium finish. The classic spread collar and pearl-finish buttons keep it clean and polished. It works with any suit and any tie, from everyday office wear to weddings and black-tie events. A must-have essential for every formal wardrobe.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div aria-hidden=\"true\"><br></div>\n</div>\n</div>\n<div aria-hidden=\"true\"><br></div>\n</div>",
+      "tags": [
+        "14.5",
+        "15",
+        "15.5",
+        "16",
+        "16.5",
+        "17",
+        "17.5",
+        "PLAIN",
+        "Shirts"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/A-20_1a9ecf1e-d8cf-499f-956c-1b495dd81e8c.jpg?v=1795688610",
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/B-20_0e521864-9960-4f78-aa31-8fafb601ed65.jpg?v=1795688610",
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/C-20_c3769590-829b-4560-95d1-def9b43305af.jpg?v=1795688610"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "14.5",
+            "15",
+            "15.5",
+            "16",
+            "16.5",
+            "17",
+            "17.5"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "White"
+          ]
+        }
+      ],
+      "variants": {
+        "58334169890999": {
+          "id": "58334169890999",
+          "title": "14.5 / White",
+          "options": [
+            "14.5",
+            "White"
+          ],
+          "sku": "OL439-8450-145",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334169923767": {
+          "id": "58334169923767",
+          "title": "15 / White",
+          "options": [
+            "15",
+            "White"
+          ],
+          "sku": "OL439-8450-165",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334169956535": {
+          "id": "58334169956535",
+          "title": "15.5 / White",
+          "options": [
+            "15.5",
+            "White"
+          ],
+          "sku": "OL439-8450-170",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334169989303": {
+          "id": "58334169989303",
+          "title": "16 / White",
+          "options": [
+            "16",
+            "White"
+          ],
+          "sku": "OL439-8450-150",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334170022071": {
+          "id": "58334170022071",
+          "title": "16.5 / White",
+          "options": [
+            "16.5",
+            "White"
+          ],
+          "sku": "OL439-8450-155",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334170054839": {
+          "id": "58334170054839",
+          "title": "17 / White",
+          "options": [
+            "17",
+            "White"
+          ],
+          "sku": "OL439-8450-160",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334170087607": {
+          "id": "58334170087607",
+          "title": "17.5 / White",
+          "options": [
+            "17.5",
+            "White"
+          ],
+          "sku": "OL439-8450-175",
+          "available": true,
+          "price": 845000,
           "compare_at_price": null
         }
       },
@@ -16837,6 +17119,140 @@
           "sku": "OL56-7950-175",
           "available": false,
           "price": 795000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "16003777593527": {
+      "id": "16003777593527",
+      "title": "White Diamond Dobby Formal Shirt",
+      "handle": "white-diamond-dobby-formal-shirt",
+      "url": "https://chesterbernard.com/products/white-diamond-dobby-formal-shirt",
+      "vendor": "FORMAL",
+      "type": "Shirts",
+      "description": "<div>\n<div role=\"article\" aria-setsize=\"40\" aria-posinset=\"38\" aria-label=\"Message 38 of 40\" tabindex=\"0\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p dir=\"ltr\">An elegant white shirt woven with a fine diamond dobby texture that catches the light for a subtle, luxurious finish. The classic spread collar and pearl-finish buttons give it a clean, refined look. It's ideal for weddings, formal dinners and special occasions, and still smart enough for the office. A premium white essential with a touch of understated richness.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div>\n<div role=\"article\" aria-setsize=\"40\" aria-posinset=\"39\" aria-label=\"Message 39 of 40\" tabindex=\"-1\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div tabindex=\"-1\">\n<div></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+      "tags": [
+        "14.5",
+        "15",
+        "15.5",
+        "16",
+        "16.5",
+        "17",
+        "17.5",
+        "PLAIN",
+        "Shirts"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/A-18_89ad999e-f296-46fc-8c44-584ffccf1db0.jpg?v=1795689023",
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/B-18_d6eaee70-b642-4ff3-abe8-376bf8f1a241.jpg?v=1795689023",
+        "https://cdn.shopify.com/s/files/1/0600/8514/1687/files/C-18_e6ba8015-7767-43ff-ac2a-d130d9cfbe9f.jpg?v=1795689022"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "14.5",
+            "15",
+            "15.5",
+            "16",
+            "16.5",
+            "17",
+            "17.5"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "White"
+          ]
+        }
+      ],
+      "variants": {
+        "58334193909943": {
+          "id": "58334193909943",
+          "title": "14.5 / White",
+          "options": [
+            "14.5",
+            "White"
+          ],
+          "sku": "OL39-8450-145",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334193942711": {
+          "id": "58334193942711",
+          "title": "15 / White",
+          "options": [
+            "15",
+            "White"
+          ],
+          "sku": "OL39-8450-150",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334193975479": {
+          "id": "58334193975479",
+          "title": "15.5 / White",
+          "options": [
+            "15.5",
+            "White"
+          ],
+          "sku": "OL39-8450-155",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334194008247": {
+          "id": "58334194008247",
+          "title": "16 / White",
+          "options": [
+            "16",
+            "White"
+          ],
+          "sku": "OL39-8450-160",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334194041015": {
+          "id": "58334194041015",
+          "title": "16.5 / White",
+          "options": [
+            "16.5",
+            "White"
+          ],
+          "sku": "OL39-8450-165",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334194073783": {
+          "id": "58334194073783",
+          "title": "17 / White",
+          "options": [
+            "17",
+            "White"
+          ],
+          "sku": "OL39-8450-170",
+          "available": true,
+          "price": 845000,
+          "compare_at_price": null
+        },
+        "58334194106551": {
+          "id": "58334194106551",
+          "title": "17.5 / White",
+          "options": [
+            "17.5",
+            "White"
+          ],
+          "sku": "OL39-8450-175",
+          "available": true,
+          "price": 845000,
           "compare_at_price": null
         }
       },
