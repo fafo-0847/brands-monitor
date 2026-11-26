@@ -3,7 +3,7 @@
   "source": "https://zarashahjahan.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-26T09:52:03.054164+00:00",
+  "checked_at": "2026-11-26T22:46:12.644731+00:00",
   "products": {
     "7241561669765": {
       "id": "7241561669765",
@@ -13828,7 +13828,7 @@
             "XS/S"
           ],
           "sku": "ZR26B1052-XS/S",
-          "available": false,
+          "available": true,
           "price": 1099800,
           "compare_at_price": null
         },
@@ -16010,12 +16010,12 @@
             "Default Title"
           ],
           "sku": "WS26-D9-Default",
-          "available": false,
+          "available": true,
           "price": 2099800,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "7241561866373": {
       "id": "7241561866373",
@@ -22517,7 +22517,7 @@
             "L"
           ],
           "sku": "ZR26P1059-L",
-          "available": false,
+          "available": true,
           "price": 2199800,
           "compare_at_price": 0
         },
@@ -22528,7 +22528,7 @@
             "XL"
           ],
           "sku": "ZR26P1059-XL",
-          "available": false,
+          "available": true,
           "price": 2199800,
           "compare_at_price": 0
         }
@@ -24408,7 +24408,7 @@
             "S"
           ],
           "sku": "ZR26P1053-S",
-          "available": true,
+          "available": false,
           "price": 2299800,
           "compare_at_price": 0
         },
@@ -32393,7 +32393,7 @@
             "XS/S"
           ],
           "sku": "ZR26B1054-XS/S",
-          "available": false,
+          "available": true,
           "price": 1199800,
           "compare_at_price": null
         },
@@ -32404,7 +32404,7 @@
             "M"
           ],
           "sku": "ZR26B1054-M",
-          "available": true,
+          "available": false,
           "price": 1199800,
           "compare_at_price": null
         },
@@ -33541,6 +33541,86 @@
           "available": true,
           "price": 6500000,
           "compare_at_price": 0
+        }
+      },
+      "available": true
+    },
+    "7411444088965": {
+      "id": "7411444088965",
+      "title": "MOTI MAHAL",
+      "handle": "zl26f1046",
+      "url": "https://zarashahjahan.com/products/zl26f1046",
+      "vendor": "Zarashahjahan",
+      "type": "Ready to Wear",
+      "description": "<p>Top: Organza<br>\nBottom: Bamber Silk<br>\nDupatta: Organza</p>\n\n<p>Moti Mahal is an ethereal seven-panel organza kurta that captures the grace of a bygone era. Each panel is beautifully embroidered with tilla, resham, and sequins, while softly scalloped edges and tassel details add a delicate, romantic finish.</p>\n\n<p>It is paired with a classic churidar pajama and a checkered organza dupatta finished with embroidery, completing a look that is timeless, airy, and effortlessly elegant for every formal occasion.</p>",
+      "tags": [
+        "26-Nov-2026",
+        "3 Piece",
+        "Item_Tax_Rate:18",
+        "Luxury formals",
+        "MAX_ADD:5",
+        "New Arrivals",
+        "New In",
+        "New In label",
+        "Ready to Wear",
+        "ZSJ Winter Edit'26",
+        "ZSJ winter Edit'26 V2",
+        "dhlcode:6104 1900",
+        "dhldes:Women stitched emborided shirt dupatta and trouser",
+        "sizechart_link:https://cdn.shopify.com/s/files/1/0340/8376/6405/files/ZL26F1046.png?v=1795587799"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/1_34f7c8c4-0886-4a50-8455-05d3251374dc.jpg?v=1795587447",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/2_dbf27147-bd14-446f-bc3b-6dbf6643a6a2.jpg?v=1795587447",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/3_6d2c6278-3486-49e1-9a49-25a011a407e1.jpg?v=1795587447",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/4_7e2797be-9fca-4b6a-9439-10237fb47d91.jpg?v=1795587446",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/5_f990de7c-a033-40ae-b7cd-4cd1da24e5a3.jpg?v=1795587447",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/6_51da61e6-e53c-43b4-83bf-d4c09d674705.jpg?v=1795587447"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "42943658360965": {
+          "id": "42943658360965",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "ZL26F1046-S",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658393733": {
+          "id": "42943658393733",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "ZL26F1046-M",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658426501": {
+          "id": "42943658426501",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "ZL26F1046-L",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
         }
       },
       "available": true
@@ -35241,12 +35321,12 @@
             "L/XL"
           ],
           "sku": "ZR26B1011-L/XL",
-          "available": false,
+          "available": true,
           "price": 1249800,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "7321411256453": {
       "id": "7321411256453",
@@ -36872,6 +36952,86 @@
           "available": true,
           "price": 3199800,
           "compare_at_price": 3999800
+        }
+      },
+      "available": true
+    },
+    "7411444154501": {
+      "id": "7411444154501",
+      "title": "NAZNEEN",
+      "handle": "zl26f1048",
+      "url": "https://zarashahjahan.com/products/zl26f1048",
+      "vendor": "Zarashahjahan",
+      "type": "Ready to Wear",
+      "description": "<p>Top: Korean Silk<br>\nBottom: Korean Silk<br>\nDupatta: Medium Silk</p>\n\n<p>Nazneen is a statement cobalt blue ensemble designed to make every entrance unforgettable. The 3-panel kurta is adorned with intricate tilla, resham, and sequin embroidery, while delicate cutwork paisleys trace each panel with graceful precision. Finished with chatta patti and tassel details, every element reflects refined craftsmanship and festive charm.</p>\n\n<p>Paired with a flowing farshi shalwar and a medium silk dupatta, Nazneen brings together regal elegance and effortless grace, making it the perfect statement for all your upcoming weddings.</p>",
+      "tags": [
+        "26-Nov-2026",
+        "3 Piece",
+        "Item_Tax_Rate:18",
+        "Luxury formals",
+        "MAX_ADD:5",
+        "New Arrivals",
+        "New In",
+        "New In label",
+        "Ready to Wear",
+        "ZSJ Winter Edit'26",
+        "ZSJ winter Edit'26 V2",
+        "dhlcode:6104 1900",
+        "dhldes:Women stitched emborided shirt dupatta and trouser",
+        "sizechart_link:https://cdn.shopify.com/s/files/1/0340/8376/6405/files/ZL26F1048.png?v=1795587798"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/1_e6cc20a9-3f26-43e1-bc95-af0aa2f4ffc5.jpg?v=1795587517",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/2_a54433dd-4d87-489b-a2a7-eb9ee6620a64.jpg?v=1795587517",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/3_f723dc50-3290-4c30-9dfa-bac1740dd890.jpg?v=1795587517",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/4_15a8bc0b-a471-4683-bef9-ca835d48267b.jpg?v=1795587517",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/5_c026ea3c-25f8-4b9c-a88f-d4d9a6f7a2c7.jpg?v=1795587517",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/6_1f276b50-3b00-4c9f-a5b7-3a90fbf6c6ad.jpg?v=1795587517"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "42943658557573": {
+          "id": "42943658557573",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "ZL26F1048-S",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658590341": {
+          "id": "42943658590341",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "ZL26F1048-M",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658623109": {
+          "id": "42943658623109",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "ZL26F1048-L",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
         }
       },
       "available": true
@@ -41100,12 +41260,12 @@
             "Default Title"
           ],
           "sku": "WS26-D4-Default",
-          "available": false,
+          "available": true,
           "price": 2099800,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "7327915704453": {
       "id": "7327915704453",
@@ -50582,7 +50742,7 @@
             "XS"
           ],
           "sku": "SS26F0650-XS",
-          "available": false,
+          "available": true,
           "price": 3199800,
           "compare_at_price": 0
         },
@@ -51094,6 +51254,86 @@
       },
       "available": true
     },
+    "7411444056197": {
+      "id": "7411444056197",
+      "title": "SHAFAQ",
+      "handle": "zl26f1045",
+      "url": "https://zarashahjahan.com/products/zl26f1045",
+      "vendor": "Zarashahjahan",
+      "type": "Ready to Wear",
+      "description": "<p>Top: Organza<br>\nBottom: Bamber Silk<br>\nDupatta: Organza</p>\n\n<p>Inspired by the soft glow of twilight, Shafaq is a graceful five-panel organza kurta embroidered with tilla, resham, and sequins. Delicate cutwork and tassel details add a refined finishing touch, giving the silhouette a light, luminous charm.</p>\n\n<p>It is paired with a silk sharara accented with gota work and a checkered organza dupatta finished with cutwork, creating an ensemble that is festive, elegant, and perfect for every celebration.</p>",
+      "tags": [
+        "26-Nov-2026",
+        "3 Piece",
+        "Item_Tax_Rate:18",
+        "Luxury formals",
+        "MAX_ADD:5",
+        "New Arrivals",
+        "New In",
+        "New In label",
+        "Ready to Wear",
+        "ZSJ Winter Edit'26",
+        "ZSJ winter Edit'26 V2",
+        "dhlcode:6104 1900",
+        "dhldes:Women stitched emborided shirt dupatta and trouser",
+        "sizechart_link:https://cdn.shopify.com/s/files/1/0340/8376/6405/files/ZL26F1045.png?v=1795587798"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/1_0ad8580f-162a-4c97-857b-ed172ab9540c.jpg?v=1795587560",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/2_9a79bf3f-f435-4491-afde-3259bb6caecb.jpg?v=1795587560",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/3_0da8032f-b83b-4f7b-a8e3-e716e5e0698d.jpg?v=1795587560",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/4_ac25c757-e991-4d82-ae0e-92c2844d1397.jpg?v=1795587560",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/5_6bcc9a8b-933a-4675-8e5e-68fd04605a6b.jpg?v=1795587560",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/6_0550dc20-d9b0-43c3-9b88-27fea3ebf66d.jpg?v=1795587560"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "42943658262661": {
+          "id": "42943658262661",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "ZL26F1045-S",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658295429": {
+          "id": "42943658295429",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "ZL26F1045-M",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658328197": {
+          "id": "42943658328197",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "ZL26F1045-L",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "7321411223685": {
       "id": "7321411223685",
       "title": "SHAH BEGUM",
@@ -51424,7 +51664,7 @@
             "S"
           ],
           "sku": "ZR26P1064-S",
-          "available": false,
+          "available": true,
           "price": 2499800,
           "compare_at_price": 0
         },
@@ -51511,12 +51751,12 @@
             "Default Title"
           ],
           "sku": "ZAL26-D3-Default",
-          "available": true,
+          "available": false,
           "price": 1237400,
           "compare_at_price": 1649800
         }
       },
-      "available": true
+      "available": false
     },
     "7271472267397": {
       "id": "7271472267397",
@@ -61041,6 +61281,86 @@
           "sku": "SS26B0238-XL",
           "available": true,
           "price": 649800,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "7411444121733": {
+      "id": "7411444121733",
+      "title": "ZARINA",
+      "handle": "zl26f1047",
+      "url": "https://zarashahjahan.com/products/zl26f1047",
+      "vendor": "Zarashahjahan",
+      "type": "Ready to Wear",
+      "description": "<p>Top: Korean Silk<br>\nBottom: Korean Silk<br>\nDupatta: Medium Silk</p>\n\n<p>Zarina is a regal deep red three-panel kurta adorned with exquisite Kashmiri embroidery. Rich resham, badla, and sequin work bring depth and shimmer to the silhouette, while chatta patti and tassel details add a graceful finishing touch.</p>\n\n<p>Paired with a flowing farshi shalwar and a silk dupatta, Zarina is a timeless statement of elegance and a must-have for the wedding season.</p>",
+      "tags": [
+        "26-Nov-2026",
+        "3 Piece",
+        "Item_Tax_Rate:18",
+        "Luxury formals",
+        "MAX_ADD:5",
+        "New Arrivals",
+        "New In",
+        "New In label",
+        "Ready to Wear",
+        "ZSJ Winter Edit'26",
+        "ZSJ winter Edit'26 V2",
+        "dhlcode:6104 1900",
+        "dhldes:Women stitched emborided shirt dupatta and trouser",
+        "sizechart_link:https://cdn.shopify.com/s/files/1/0340/8376/6405/files/ZL26F1047.png?v=1795587799"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/1_cd025b58-af83-4182-a9d5-93c543db9b40.jpg?v=1795587614",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/2_19d7f2e8-f9ba-4c0d-8496-29ad767443bc.jpg?v=1795587614",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/3_3f25495b-4ebc-4581-8006-0b3b09ca2d4a.jpg?v=1795587614",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/4_49484415-f2fd-4a08-8d16-938c70bbea2d.jpg?v=1795587614",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/5_9e154c28-b61c-4224-a0ed-cb1fa0190574.jpg?v=1795587614",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/6_2719e5b1-2e2f-4b3f-9808-b6ac6ea5f655.jpg?v=1795587614"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "42943658459269": {
+          "id": "42943658459269",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "ZL26F1047-S",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658492037": {
+          "id": "42943658492037",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "ZL26F1047-M",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658524805": {
+          "id": "42943658524805",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "ZL26F1047-L",
+          "available": true,
+          "price": 5999800,
           "compare_at_price": null
         }
       },
@@ -81380,6 +81700,86 @@
           "available": true,
           "price": 25500000,
           "compare_at_price": 0
+        }
+      },
+      "available": true
+    },
+    "7411444187269": {
+      "id": "7411444187269",
+      "title": "ZUMURD",
+      "handle": "zl26f1049",
+      "url": "https://zarashahjahan.com/products/zl26f1049",
+      "vendor": "Zarashahjahan",
+      "type": "Ready to Wear",
+      "description": "<p>Top: Organza<br>\nBottom: Bamber Silk<br>\nDupatta: Organza</p>\n\n<p>Zumurd is a fresh pistachio green three-panel organza kurta crafted in delicate chikankari embroidery, enhanced with resham, tilla, and sequins. Finished with chatta patti and tassel details, it carries a soft yet striking elegance that feels both traditional and refined.</p>\n\n<p>It comes with a sequin-sprayed silk gharara with embroidered borders, and is paired with an embroidered dupatta featuring chatta patti detailing, completing a look made to shine at every festive occasion.</p>",
+      "tags": [
+        "26-Nov-2026",
+        "3 Piece",
+        "Item_Tax_Rate:18",
+        "Luxury formals",
+        "MAX_ADD:5",
+        "New Arrivals",
+        "New In",
+        "New In label",
+        "Ready to Wear",
+        "ZSJ Winter Edit'26",
+        "ZSJ winter Edit'26 V2",
+        "dhlcode:6104 1900",
+        "dhldes:Women stitched emborided shirt dupatta and trouser",
+        "sizechart_link:https://cdn.shopify.com/s/files/1/0340/8376/6405/files/ZL26F1049.png?v=1795587799"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/1_9360b670-3c8f-4572-94ec-63995a4a5b8c.jpg?v=1795587658",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/2_224f8ef2-e2bd-488f-979c-7e78bf99aa90.jpg?v=1795587659",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/3_e305e097-a23d-4ba5-8df6-96f28df6d216.jpg?v=1795587659",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/4_b526f9df-7854-4dd0-8dd3-77e05fa59ce0.jpg?v=1795587659",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/5_1c36dd81-7a6c-4e18-aa97-9e981830d193.jpg?v=1795587659",
+        "https://cdn.shopify.com/s/files/1/0340/8376/6405/files/6_89d9b7ee-25a6-4282-8ea6-9b203937bfd9.jpg?v=1795587658"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "42943658688645": {
+          "id": "42943658688645",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "ZL26F1049-S",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658721413": {
+          "id": "42943658721413",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "ZL26F1049-M",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
+        },
+        "42943658754181": {
+          "id": "42943658754181",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "ZL26F1049-L",
+          "available": true,
+          "price": 5999800,
+          "compare_at_price": null
         }
       },
       "available": true
