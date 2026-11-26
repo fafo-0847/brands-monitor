@@ -1,64 +1,94 @@
 {
-  "checked_at": "2026-11-26T01:40:31.399118+00:00",
+  "checked_at": "2026-11-26T12:56:41.812138+00:00",
   "baseline_created": false,
-  "product_count": 760,
+  "product_count": 754,
   "change_count": 8,
   "changes": [
     {
-      "product_id": "7711673778315",
-      "title": "Chiccomfort",
-      "url": "https://aldoshoes.pk/products/chiccomfort?variant=43260834578571",
-      "kind": "Sold out",
-      "detail": "White / 37.5"
+      "product_id": "10418365825163",
+      "title": "Bienka - Grey Print",
+      "url": "https://aldoshoes.pk/products/bienka-grey-print",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7892987838603",
-      "title": "Adweli",
-      "url": "https://aldoshoes.pk/products/adweli?variant=43900767076491",
-      "kind": "Back in stock",
-      "detail": "Ice / L"
-    },
-    {
-      "product_id": "8076645171339",
-      "title": "Etiremas",
-      "url": "https://aldoshoes.pk/products/etiremas?variant=45534769381515",
-      "kind": "Sold out",
-      "detail": "Pastel Multi"
-    },
-    {
-      "product_id": "8384120225931",
-      "title": "Deverena - Dark Beige",
-      "url": "https://aldoshoes.pk/products/deverena-dark-beige?variant=48899066036363",
-      "kind": "Sold out",
-      "detail": "37"
-    },
-    {
-      "product_id": "8384120389771",
-      "title": "Deverena - Brown Multi",
-      "url": "https://aldoshoes.pk/products/deverena-brown-multi?variant=48899066921099",
-      "kind": "Sold out",
-      "detail": "37"
-    },
-    {
-      "product_id": "8384122617995",
-      "title": "Tenterden - White",
-      "url": "https://aldoshoes.pk/products/tenterden-1-white?variant=48899096903819",
-      "kind": "Sold out",
-      "detail": "Default Title"
+      "product_id": "8348274196619",
+      "title": "Desertrose",
+      "url": "https://aldoshoes.pk/products/desertrose",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "8384147488907",
       "title": "Krishelle - Brown Multi",
-      "url": "https://aldoshoes.pk/products/krishelle-brown-multi?variant=48899303866507",
-      "kind": "Back in stock",
-      "detail": "38"
+      "url": "https://aldoshoes.pk/products/krishelle-brown-multi",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "8384158204043",
-      "title": "Journey - Cognac",
-      "url": "https://aldoshoes.pk/products/journey-cognac?variant=48899376545931",
-      "kind": "Sold out",
-      "detail": "43"
+      "product_id": "8384167870603",
+      "title": "Maela - Brown",
+      "url": "https://aldoshoes.pk/products/maela-brown",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8384168951947",
+      "title": "Greylag - Brown",
+      "url": "https://aldoshoes.pk/products/greylag-brown",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8384171180171",
+      "title": "Lunaria - Purple",
+      "url": "https://aldoshoes.pk/products/lunaria-purple",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8384185041035",
+      "title": "Aros - Black",
+      "url": "https://aldoshoes.pk/products/aros-1-black",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Size(EUR)",
+          "position": 1,
+          "values": [
+            "41",
+            "42",
+            "42.5",
+            "43",
+            "43.5",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Size(EUR)",
+          "position": 1,
+          "values": [
+            "41",
+            "42.5",
+            "43",
+            "43.5",
+            "44",
+            "45"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "8384185041035",
+      "title": "Aros - Black",
+      "url": "https://aldoshoes.pk/products/aros-1-black?variant=48899439263883",
+      "kind": "Size/option removed",
+      "detail": "42"
     }
   ]
 }
