@@ -1,50 +1,93 @@
 {
-  "checked_at": "2026-11-26T00:41:03.012747+00:00",
+  "checked_at": "2026-11-26T11:53:28.136031+00:00",
   "baseline_created": false,
   "product_count": 824,
-  "change_count": 6,
+  "change_count": 7,
   "changes": [
     {
-      "product_id": "8143686697192",
-      "title": "Men's Slider US-PL-2301",
-      "url": "https://www.urbansole.com.pk/products/us-pl-2301-black-gry?variant=44312243175656",
-      "kind": "Sold out",
-      "detail": "BLACK/GRY / 45"
+      "product_id": "15418792050920",
+      "title": "Women's Sliders US-SP-6353",
+      "url": "https://www.urbansole.com.pk/products/womens-slippers-us-sp-6353-pink",
+      "kind": "Product updated",
+      "detail": "title: Women's Slippers US-SP-6353 → Women's Sliders US-SP-6353",
+      "field": "title",
+      "before": "Women's Slippers US-SP-6353",
+      "after": "Women's Sliders US-SP-6353"
     },
     {
-      "product_id": "8983367024872",
-      "title": "Xceed Men's Sneakers EX-SW-4202",
-      "url": "https://www.urbansole.com.pk/products/ex-sw-4202-black?variant=46763317887208",
-      "kind": "Sold out",
-      "detail": "BLACK / 42"
+      "product_id": "15418792050920",
+      "title": "Women's Sliders US-SP-6353",
+      "url": "https://www.urbansole.com.pk/products/womens-slippers-us-sp-6353-pink",
+      "kind": "Product updated",
+      "detail": "type: Slippers → Sliders",
+      "field": "type",
+      "before": "Slippers",
+      "after": "Sliders"
     },
     {
-      "product_id": "9083103379688",
-      "title": "Men's Slider US-PL-4306",
-      "url": "https://www.urbansole.com.pk/products/mens-slider-us-pl-4306-navy-grey?variant=47085981729000",
-      "kind": "Sold out",
-      "detail": "NAVY/GREY / 43"
+      "product_id": "15418792050920",
+      "title": "Women's Sliders US-SP-6353",
+      "url": "https://www.urbansole.com.pk/products/womens-slippers-us-sp-6353-pink",
+      "kind": "Product updated",
+      "detail": "tags: ['20% SALE', 'NonDiscounted', 'SALE', 'Summer 2026', 'URBANSOLE', 'new', 'new in', 'women', 'women new in', 'women new slipper', 'women slipper', 'womens'] → ['20% SALE', 'NonDiscounted', 'SALE', 'Summer 2026', 'URBANSOLE', 'Women Slider', 'Women Sliders', 'new', 'new in', 'women', 'women new in', 'women slipper', 'womens']",
+      "field": "tags",
+      "before": [
+        "20% SALE",
+        "NonDiscounted",
+        "SALE",
+        "Summer 2026",
+        "URBANSOLE",
+        "new",
+        "new in",
+        "women",
+        "women new in",
+        "women new slipper",
+        "women slipper",
+        "womens"
+      ],
+      "after": [
+        "20% SALE",
+        "NonDiscounted",
+        "SALE",
+        "Summer 2026",
+        "URBANSOLE",
+        "Women Slider",
+        "Women Sliders",
+        "new",
+        "new in",
+        "women",
+        "women new in",
+        "women slipper",
+        "womens"
+      ]
     },
     {
       "product_id": "9140959445224",
       "title": "Men's Moccasins US-TE-5352",
-      "url": "https://www.urbansole.com.pk/products/us-te-5352-black?variant=47341303595240",
-      "kind": "Sold out",
-      "detail": "BLACK / 43"
+      "url": "https://www.urbansole.com.pk/products/us-te-5352-black?variant=47341303529704",
+      "kind": "Back in stock",
+      "detail": "BLACK / 41"
     },
     {
-      "product_id": "9231467413736",
-      "title": "Women's Moccasins US-EN-5351",
-      "url": "https://www.urbansole.com.pk/products/women-s-moccasins-us-en-5351gun?variant=47723631313128",
+      "product_id": "9231467610344",
+      "title": "Men's Sports Shoes US-EX-5302",
+      "url": "https://www.urbansole.com.pk/products/men-s-sports-shoes-us-ex-5302black?variant=47723632525544",
       "kind": "Sold out",
-      "detail": "GUN / 41"
+      "detail": "BLACK / 45"
     },
     {
-      "product_id": "9321142092008",
-      "title": "Women's Slippers US-TK-6352",
-      "url": "https://www.urbansole.com.pk/products/womens-slippers-us-tk-6352-lt-pink?variant=48039027343592",
+      "product_id": "9311943950568",
+      "title": "Men's Slider US-BT-6302",
+      "url": "https://www.urbansole.com.pk/products/mens-slider-us-bt-6302-d-brown?variant=48008022327528",
       "kind": "Sold out",
-      "detail": "LT. Pink / 40"
+      "detail": "D. BROWN / 44"
+    },
+    {
+      "product_id": "9638823362792",
+      "title": "Men's Formal Shoes US-LG-6303",
+      "url": "https://www.urbansole.com.pk/products/mens-formal-shoes-us-lg-6303-black?variant=49062001115368",
+      "kind": "Sold out",
+      "detail": "BLACK / 44"
     }
   ]
 }
