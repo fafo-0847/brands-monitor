@@ -3,7 +3,7 @@
   "source": "https://jafferjees.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-27T01:48:02.594317+00:00",
+  "checked_at": "2026-11-27T13:25:07.636816+00:00",
   "products": {
     "8219302068419": {
       "id": "8219302068419",
@@ -779,7 +779,7 @@
             "Pink-8"
           ],
           "sku": "002280-149-058-01",
-          "available": true,
+          "available": false,
           "price": 2507500,
           "compare_at_price": 2950000
         },
@@ -1890,7 +1890,7 @@
             "Brown -47"
           ],
           "sku": "001474-097-002-01",
-          "available": true,
+          "available": false,
           "price": 250800,
           "compare_at_price": 295000
         },
@@ -8217,7 +8217,7 @@
             "Brown-121"
           ],
           "sku": "001261-094-002-01",
-          "available": true,
+          "available": false,
           "price": 1232500,
           "compare_at_price": 1450000
         },
@@ -11234,105 +11234,6 @@
           "available": true,
           "price": 1317500,
           "compare_at_price": 1550000
-        }
-      },
-      "available": true
-    },
-    "8059334426819": {
-      "id": "8059334426819",
-      "title": "Hamburg Keyring",
-      "handle": "bergn-keyring",
-      "url": "https://jafferjees.com/products/bergn-keyring",
-      "vendor": "Jafferjees Store",
-      "type": "",
-      "description": "<div class=\"\">\n<h4>DETAILS:</h4>\nMade from Buffalo Lux milled leather, holds your key with style.</div>\n<div class=\"\"><br></div>\n<div class=\"\">\n<h4>FEATURES:</h4>\n<ul>\n<li>Ring: 30 mm diameter</li>\n</ul>\n</div>\n<div class=\"\">\n<h4>DIMENSIONS:</h4>\n<ul>\n<li>50mm x 67mm</li>\n</ul>\n</div>",
-      "tags": [
-        "21M24",
-        "24M24",
-        "Key Rings",
-        "Keyrings",
-        "Men",
-        "QA-All collection",
-        "View All",
-        "customization-popup",
-        "font-effect-emboss",
-        "font-effect-gold",
-        "font-effect-silver",
-        "font-style-13",
-        "font-style-38",
-        "font-style-40",
-        "font-style-42",
-        "font-style-9",
-        "main-men",
-        "main-women",
-        "outside-placement"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3288521415_1.jpg?v=1746990180",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3288521415_2.jpg?v=1746990180",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3288521420_1.jpg?v=1746990180",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3288521420_2.jpg?v=1746990180",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3288521424_1.jpg?v=1746990180",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3288521424_2.jpg?v=1746990180",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3288522401_1.jpg?v=1746990180",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3288522401_2.jpg?v=1746990180"
-      ],
-      "options": [
-        {
-          "name": "Colour",
-          "position": 1,
-          "values": [
-            "Red-5",
-            "Black-0",
-            "Maroon-00",
-            "Tan-121"
-          ]
-        }
-      ],
-      "variants": {
-        "44012096782531": {
-          "id": "44012096782531",
-          "title": "Red-5",
-          "options": [
-            "Red-5"
-          ],
-          "sku": "001760-004-024-01",
-          "available": true,
-          "price": 85000,
-          "compare_at_price": 100000
-        },
-        "44012096815299": {
-          "id": "44012096815299",
-          "title": "Black-0",
-          "options": [
-            "Black-0"
-          ],
-          "sku": "001760-004-001-03",
-          "available": false,
-          "price": 85000,
-          "compare_at_price": 100000
-        },
-        "44012096848067": {
-          "id": "44012096848067",
-          "title": "Maroon-00",
-          "options": [
-            "Maroon-00"
-          ],
-          "sku": "001760-004-020-01",
-          "available": true,
-          "price": 85000,
-          "compare_at_price": 100000
-        },
-        "44012096880835": {
-          "id": "44012096880835",
-          "title": "Tan-121",
-          "options": [
-            "Tan-121"
-          ],
-          "sku": "001760-004-015-01",
-          "available": false,
-          "price": 85000,
-          "compare_at_price": 100000
         }
       },
       "available": true
@@ -14920,7 +14821,7 @@
             "Burgundy-13"
           ],
           "sku": "002294-149-004-01",
-          "available": true,
+          "available": false,
           "price": 1190000,
           "compare_at_price": 1400000
         },
@@ -14931,7 +14832,7 @@
             "Blue-150"
           ],
           "sku": "002294-149-005-01",
-          "available": true,
+          "available": false,
           "price": 1190000,
           "compare_at_price": 1400000
         }
@@ -15904,7 +15805,7 @@
             "Maroon"
           ],
           "sku": "001001-002-003-11",
-          "available": true,
+          "available": false,
           "price": 331500,
           "compare_at_price": 390000
         },
@@ -19370,7 +19271,7 @@
             "Green-011"
           ],
           "sku": "000763-001-009-01",
-          "available": true,
+          "available": false,
           "price": 595000,
           "compare_at_price": 700000
         },
@@ -27475,71 +27376,6 @@
       },
       "available": true
     },
-    "7774257905859": {
-      "id": "7774257905859",
-      "title": "Vintage Belt Pouch",
-      "handle": "vintage-belt-pouch",
-      "url": "https://jafferjees.com/products/vintage-belt-pouch",
-      "vendor": "Jafferjees Store",
-      "type": "",
-      "description": "<div class=\"\">\n<h4>DETAILS:</h4>\nTravel in style with this soft leather belt pouch, offering spacious storage for makeup, tech accessories, toiletries, and everyday essentials.<br>\n</div>\n<div class=\"\">\n<h4>FEATURES:</h4>\n<ul>\n<li>Top zipper opening</li>\n<li>Front pocket with snap button closure</li>\n<li>Three open pockets inside</li>\n<li>One zipper pocket inside</li>\n</ul>\n</div>\n<div class=\"\">\n<h4>DIMENSIONS:</h4>\n<ul>\n<li>175mm x 120mm x 35mm</li>\n</ul>\n</div>",
-      "tags": [
-        "21M24",
-        "Accessories",
-        "Explore The World",
-        "For The Plane",
-        "For Your Hotel Room",
-        "Handle With Flair",
-        "Men",
-        "Toilet Case",
-        "Travel",
-        "Women",
-        "main-travel"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3140081102_1_1.jpg?v=1746990656",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3140081102_2_1.jpg?v=1746990656",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3140081102_3_1.jpg?v=1746990657",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3140082101_1.jpg?v=1746990657",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3140082101_2.jpg?v=1746990657",
-        "https://cdn.shopify.com/s/files/1/0639/2909/0243/files/3140082101_3.jpg?v=1746990657"
-      ],
-      "options": [
-        {
-          "name": "Colour",
-          "position": 1,
-          "values": [
-            "Brown",
-            "Black"
-          ]
-        }
-      ],
-      "variants": {
-        "43072322535619": {
-          "id": "43072322535619",
-          "title": "Brown",
-          "options": [
-            "Brown"
-          ],
-          "sku": "000613-001-002-01",
-          "available": true,
-          "price": 743800,
-          "compare_at_price": 875000
-        },
-        "43072322568387": {
-          "id": "43072322568387",
-          "title": "Black",
-          "options": [
-            "Black"
-          ],
-          "sku": "000613-001-001-03",
-          "available": true,
-          "price": 743800,
-          "compare_at_price": 875000
-        }
-      },
-      "available": true
-    },
     "8213245558979": {
       "id": "8213245558979",
       "title": "Viola Handbag",
@@ -29074,7 +28910,7 @@
             "Maroon Antique"
           ],
           "sku": "000832-004-020-01",
-          "available": true,
+          "available": false,
           "price": 714000,
           "compare_at_price": 840000
         },
