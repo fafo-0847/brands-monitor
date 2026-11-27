@@ -3,7 +3,7 @@
   "source": "https://www.logoofficial.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-26T12:53:55.401013+00:00",
+  "checked_at": "2026-11-27T01:43:31.686355+00:00",
   "products": {
     "15408372809788": {
       "id": "15408372809788",
@@ -4555,7 +4555,7 @@
             "40"
           ],
           "sku": "003016-040-BLU",
-          "available": true,
+          "available": false,
           "price": 1550000,
           "compare_at_price": null
         },
@@ -5804,7 +5804,7 @@
             "40"
           ],
           "sku": "010090-040-BKC",
-          "available": true,
+          "available": false,
           "price": 1850000,
           "compare_at_price": null
         },
@@ -10062,7 +10062,7 @@
             "43"
           ],
           "sku": "002305-043-BROWN",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 797500
         },
@@ -11534,7 +11534,7 @@
             "40"
           ],
           "sku": "004262-040-BLU",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 531000
         },
@@ -24246,7 +24246,7 @@
             "44"
           ],
           "sku": "002637-044-BRM",
-          "available": true,
+          "available": false,
           "price": 826000,
           "compare_at_price": 1180000
         }
@@ -24650,7 +24650,7 @@
             "42"
           ],
           "sku": "002508-042-BKA",
-          "available": true,
+          "available": false,
           "price": 699500,
           "compare_at_price": 931000
         },
@@ -27862,7 +27862,7 @@
             "42"
           ],
           "sku": "007985-042-GRY",
-          "available": true,
+          "available": false,
           "price": 665000,
           "compare_at_price": 950000
         },
@@ -27977,7 +27977,7 @@
             "42"
           ],
           "sku": "007985-042-GRA",
-          "available": true,
+          "available": false,
           "price": 665000,
           "compare_at_price": 950000
         },
@@ -28015,7 +28015,7 @@
           "compare_at_price": 950000
         }
       },
-      "available": true
+      "available": false
     },
     "8315721351228": {
       "id": "8315721351228",
@@ -40815,7 +40815,7 @@
             "42"
           ],
           "sku": "010024-042-BKM",
-          "available": true,
+          "available": false,
           "price": 1790000,
           "compare_at_price": null
         },
@@ -42236,12 +42236,12 @@
             "Default Title"
           ],
           "sku": "S12255-000-CML",
-          "available": false,
+          "available": true,
           "price": 75000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "15500278038588": {
       "id": "15500278038588",
@@ -42278,12 +42278,54 @@
             "Default Title"
           ],
           "sku": "S12256-000-COF",
-          "available": false,
+          "available": true,
           "price": 75000,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
+    },
+    "15500278104124": {
+      "id": "15500278104124",
+      "title": "CREW SHORT (PACK OF 1)",
+      "handle": "s12257-blu",
+      "url": "https://www.logoofficial.com/products/s12257-blu",
+      "vendor": "LOGO",
+      "type": "SOCKS",
+      "description": "<p>Add a fresh touch to your everyday essentials with these blue crew short socks. Their classic colour and versatile length make them a practical addition to your regular casual wardrobe.</p>\n<p>Key Features:</p>\n<p>Blue Colour For A Fresh And Versatile Everyday Look</p>\n<p>Crew Short Length For Practical Daily Styling</p>\n<p>Classic Design That Complements Casual Outfits</p>\n<p>Easy-To-Pair Style For Different Footwear Choices</p>\n<p>Pack Of 1 Pair For Everyday Convenience</p>\n<p>Perfect for daily wear, casual outings, and pairing with your everyday footwear.</p>\n<!---->",
+      "tags": [
+        "Socks",
+        "WEARABLE ACC",
+        "color_BLUE"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/04_3c46401c-b1d3-4517-8df6-0050a1aaf395.jpg?v=1795697492",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/05_f7c55c9e-fae6-4bfe-8e6d-1a9e1881a6b5.jpg?v=1795697492",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/06_cd926ade-6ffe-4987-883c-d276ce530564.jpg?v=1795697491"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "68135833010236": {
+          "id": "68135833010236",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "S12257-000-BLU",
+          "available": true,
+          "price": 75000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
     },
     "7873442906172": {
       "id": "7873442906172",
@@ -44641,7 +44683,7 @@
             "41"
           ],
           "sku": "004263-041-BLK",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 531000
         },
@@ -47314,6 +47356,51 @@
       },
       "available": true
     },
+    "7150441201724": {
+      "id": "7150441201724",
+      "title": "DUVALL NOTE WALLET",
+      "handle": "nw531-bka",
+      "url": "https://www.logoofficial.com/products/nw531-bka",
+      "vendor": "LOGO",
+      "type": "ACCESSORIES",
+      "description": "<p>Stand out with this black men's note wallet, it presents an exclusive outer flap crafted from interwoven premium vegan leather straps. The distinctive design adds texture and character, while its spacious card and cash compartments offer practical organisation. RFID protection provides added security for your cards.</p>\n<p>Key Features:</p>\n<p>Interwoven Premium Vegan Leather Straps Forming An Exclusive And Textured Outer Flap</p>\n<p>Distinctive Design For A Stylish And Refined Appearance</p>\n<p>Fabric Lining For A Neat And Finished Inner</p>\n<p>Eight Card Pockets For Organised Storage Of Your Cards</p>\n<p>Two Cash Pockets For Convenient Banknote Storage</p>\n<p>RFID Protection To Help Safeguard Your Cards Against Unauthorized Scanning</p>\n<p>Perfect for everyday use and as a stylish accessory for modern dressing.</p>\n<!---->",
+      "tags": [
+        "Accessories",
+        "LEATHER ACC",
+        "color_BLACK",
+        "notewallet"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/01_ad5f0098-076d-4182-8da2-ce25a4b265ad.jpg?v=1795697736",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/02_7e69d4cc-404c-44d4-985d-46dd672cb960.jpg?v=1795697736",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/03_97e3fdac-5688-4d3c-87c5-348d6c8c74b4.jpg?v=1795697736",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/04_374c4baa-f646-4d3c-864b-e870e4a41892.jpg?v=1795697736",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/05_377f7f4e-d74b-46a5-9404-992aa69f592e.jpg?v=1795697736"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "40692615053372": {
+          "id": "40692615053372",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "NW531-000-BKA",
+          "available": true,
+          "price": 465000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "10316322930748": {
       "id": "10316322930748",
       "title": "DUVE SPORTS",
@@ -49566,7 +49653,7 @@
             "40"
           ],
           "sku": "2911-040-BKA",
-          "available": true,
+          "available": false,
           "price": 840000,
           "compare_at_price": 1119000
         },
@@ -49626,7 +49713,7 @@
           "compare_at_price": 1119000
         }
       },
-      "available": true
+      "available": false
     },
     "8840982200380": {
       "id": "8840982200380",
@@ -49725,7 +49812,7 @@
             "41"
           ],
           "sku": "004268-041-BLK",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 531000
         },
@@ -49747,7 +49834,7 @@
             "43"
           ],
           "sku": "004268-043-BLK",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 531000
         },
@@ -49840,7 +49927,7 @@
             "42"
           ],
           "sku": "004268-042-BLU",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 531000
         },
@@ -55479,7 +55566,7 @@
             "45"
           ],
           "sku": "002205-045-BROWN",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 799000
         }
@@ -59075,7 +59162,7 @@
             "40"
           ],
           "sku": "004269-040-BLU",
-          "available": true,
+          "available": false,
           "price": 399000,
           "compare_at_price": 531000
         },
@@ -71694,6 +71781,51 @@
         }
       },
       "available": false
+    },
+    "7886930706492": {
+      "id": "7886930706492",
+      "title": "KINGSCROWN NOTE WALLET",
+      "handle": "nw604-bka",
+      "url": "https://www.logoofficial.com/products/nw604-bka",
+      "vendor": "LOGO",
+      "type": "ACCESSORIES",
+      "description": "<p>Make a stylish addition to your everyday accessories with this men's note wallet. It is made from high-shine animal-textured vegan leather. Signature LOGO Collection buckle details add a distinctive finishing touch, while the practical layout provides dedicated spaces for cards, cash, and coins. RFID protection offers added security for your cards.</p>\n<p>Key Features:</p>\n<p>High-Shine Animal-Textured Vegan Leather For A Distinctive And Polished Appearance</p>\n<p>Signature LOGO Collection Buckle Details For An Exclusive Finish</p>\n<p>Fabric Lining For A Neat And Finished Inner</p>\n<p>Four Card Pockets For Convenient Card Organisation</p>\n<p>Two Cash Pockets And One Coin Pocket For Practical Storage</p>\n<p>RFID Protection To Help Safeguard Your Cards Against Unauthorised Scanning</p>\n<p>Perfect for everyday use and keeping your essential belongings neatly organised.</p>\n<!---->",
+      "tags": [
+        "Accessories",
+        "LEATHER ACC",
+        "color_BLACK",
+        "notewallet"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/01_8e136462-e28a-4a09-8b42-842c4113ec9b.jpg?v=1795697853",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/02_a5c9341b-0f09-4e81-8a01-c48047a57749.jpg?v=1795697853",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/03_f80ac8d7-9b05-4e8d-ab17-a96f85315561.jpg?v=1795697853",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/04_1f19e0d8-a131-44c2-9665-7222905f86da.jpg?v=1795697853",
+        "https://cdn.shopify.com/s/files/1/0097/2075/8332/files/05_15b14f77-3ed2-44b3-a373-c0bcb0423040.jpg?v=1795697853"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "42431119982652": {
+          "id": "42431119982652",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "NW604-000-BKA",
+          "available": true,
+          "price": 455000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
     },
     "8649400385596": {
       "id": "8649400385596",
@@ -94004,12 +94136,12 @@
             "Default Title"
           ],
           "sku": "AS189-000-BKA",
-          "available": false,
+          "available": true,
           "price": 59400,
           "compare_at_price": null
         }
       },
-      "available": false
+      "available": true
     },
     "7704036278332": {
       "id": "7704036278332",
@@ -98374,7 +98506,7 @@
             "39"
           ],
           "sku": "002618-039-BLACK",
-          "available": true,
+          "available": false,
           "price": 899500,
           "compare_at_price": 1197000
         },
@@ -125290,7 +125422,7 @@
             "40"
           ],
           "sku": "011083-040-BRC",
-          "available": true,
+          "available": false,
           "price": 699500,
           "compare_at_price": 1550000
         },
@@ -125301,7 +125433,7 @@
             "41"
           ],
           "sku": "011083-041-BRC",
-          "available": true,
+          "available": false,
           "price": 699500,
           "compare_at_price": 1550000
         },
@@ -125350,7 +125482,7 @@
           "compare_at_price": 1550000
         }
       },
-      "available": true
+      "available": false
     },
     "8887603167292": {
       "id": "8887603167292",
@@ -134454,7 +134586,7 @@
             "41"
           ],
           "sku": "022207-041-BLACK",
-          "available": true,
+          "available": false,
           "price": 800000,
           "compare_at_price": 1600000
         },
@@ -134559,7 +134691,7 @@
             "40"
           ],
           "sku": "022207-040-BROWN",
-          "available": true,
+          "available": false,
           "price": 800000,
           "compare_at_price": 1600000
         },
@@ -134570,7 +134702,7 @@
             "41"
           ],
           "sku": "022207-041-BROWN",
-          "available": true,
+          "available": false,
           "price": 800000,
           "compare_at_price": 1600000
         },
@@ -139318,7 +139450,7 @@
             "43"
           ],
           "sku": "007871-043-BKA",
-          "available": true,
+          "available": false,
           "price": 850000,
           "compare_at_price": null
         },
@@ -139345,7 +139477,7 @@
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "7347360333884": {
       "id": "7347360333884",
@@ -151600,7 +151732,7 @@
             "41"
           ],
           "sku": "011005-041-BKW",
-          "available": true,
+          "available": false,
           "price": 2090000,
           "compare_at_price": null
         },
