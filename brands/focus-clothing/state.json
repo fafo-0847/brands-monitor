@@ -3,7 +3,7 @@
   "source": "https://focusclothing.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-27T01:17:09.114977+00:00",
+  "checked_at": "2026-11-27T12:53:18.453716+00:00",
   "products": {
     "9239567958234": {
       "id": "9239567958234",
@@ -2048,7 +2048,7 @@
             "2XL"
           ],
           "sku": "MJK2601-2XL-BLK",
-          "available": true,
+          "available": false,
           "price": 1049625,
           "compare_at_price": 1399500
         }
@@ -2222,7 +2222,7 @@
             "S"
           ],
           "sku": "MSD2608-SML-BLK",
-          "available": false,
+          "available": true,
           "price": 412125,
           "compare_at_price": 549500
         },
@@ -4122,7 +4122,7 @@
             "XL"
           ],
           "sku": "MTR2608-EXL-BLK",
-          "available": false,
+          "available": true,
           "price": 524625,
           "compare_at_price": 699500
         },
@@ -6248,7 +6248,7 @@
             "S"
           ],
           "sku": "MSD2606-SML-BRN",
-          "available": false,
+          "available": true,
           "price": 412125,
           "compare_at_price": 549500
         },
@@ -6671,7 +6671,8 @@
             "S",
             "M",
             "L",
-            "XL"
+            "XL",
+            "2XL"
           ]
         }
       ],
@@ -6720,6 +6721,18 @@
             "XL"
           ],
           "sku": "MUP2606-EXL-BRN",
+          "available": true,
+          "price": 449625,
+          "compare_at_price": 599500
+        },
+        "69096246739162": {
+          "id": "69096246739162",
+          "title": "Brown / 2XL",
+          "options": [
+            "Brown",
+            "2XL"
+          ],
+          "sku": null,
           "available": true,
           "price": 449625,
           "compare_at_price": 599500
@@ -6861,7 +6874,8 @@
             "S",
             "M",
             "L",
-            "XL"
+            "XL",
+            "2XL"
           ]
         }
       ],
@@ -6911,6 +6925,18 @@
           ],
           "sku": "MTR2608-EXL-DBR",
           "available": false,
+          "price": 524625,
+          "compare_at_price": 699500
+        },
+        "69096236581082": {
+          "id": "69096236581082",
+          "title": "Dark Brown / 2XL",
+          "options": [
+            "Dark Brown",
+            "2XL"
+          ],
+          "sku": "MTR2608-2XL-DBR",
+          "available": true,
           "price": 524625,
           "compare_at_price": 699500
         }
@@ -11878,7 +11904,7 @@
             "L"
           ],
           "sku": "MTR2608-LRG-DGY",
-          "available": false,
+          "available": true,
           "price": 524625,
           "compare_at_price": 699500
         },
@@ -16209,7 +16235,8 @@
             "S",
             "M",
             "L",
-            "XL"
+            "XL",
+            "2XL"
           ]
         }
       ],
@@ -16259,6 +16286,18 @@
           ],
           "sku": "MUP2616-EXL-GRN",
           "available": true,
+          "price": 524625,
+          "compare_at_price": 699500
+        },
+        "69096251916506": {
+          "id": "69096251916506",
+          "title": "Green / 2XL",
+          "options": [
+            "Green",
+            "2XL"
+          ],
+          "sku": null,
+          "available": false,
           "price": 524625,
           "compare_at_price": 699500
         }
@@ -18153,7 +18192,7 @@
             "2XL"
           ],
           "sku": "FMT2699-2XL-LGY",
-          "available": false,
+          "available": true,
           "price": 337125,
           "compare_at_price": 449500
         }
@@ -22776,7 +22815,7 @@
             "2XL"
           ],
           "sku": "KMT2699-2XL-LBR",
-          "available": false,
+          "available": true,
           "price": 337125,
           "compare_at_price": 449500
         }
@@ -24878,6 +24917,101 @@
           "available": true,
           "price": 374625,
           "compare_at_price": 499500
+        }
+      },
+      "available": true
+    },
+    "15379335774426": {
+      "id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "handle": "light-grey-paneled-hoodie-for-men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men",
+      "vendor": "Men",
+      "type": "Men Upper & Hoodie",
+      "description": "Refresh your everyday streetwear with this two-tone grey and white hoodie. Soft fleece offers comfortable wear, while contrasting side panels add a distinctive look. Finished with ribbed cuffs, it’s an easy choice for daily outfits.",
+      "tags": [
+        "30%",
+        "ALL",
+        "DR",
+        "HOODIES",
+        "Hoodies winter20-24",
+        "MB",
+        "MENS",
+        "Men",
+        "NEW WINTER MEN",
+        "NIMS",
+        "New",
+        "New Arrivals",
+        "New In",
+        "New In Men",
+        "Sale",
+        "Sho30% All New In Men",
+        "Sho30% All Winter M",
+        "WINTER24",
+        "mws_fee_generated",
+        "winter20-24"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/001_6768e841-f3b6-4d00-877f-7b2ac85bfebb.jpg?v=1795757951",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/002_8c60c3f2-434e-4899-bebd-647a563c4a5e.jpg?v=1795757951",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/003_cd699e08-24e5-4dc1-9a12-95a4883e217f.jpg?v=1795757951"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "69080912298202": {
+          "id": "69080912298202",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "MUP2615-SML-STW",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
+        },
+        "69080912330970": {
+          "id": "69080912330970",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "MUP2615-MED-STW",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
+        },
+        "69080912363738": {
+          "id": "69080912363738",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "MUP2615-LRG-STW",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
+        },
+        "69080912396506": {
+          "id": "69080912396506",
+          "title": "XL",
+          "options": [
+            "XL"
+          ],
+          "sku": "MUP2615-EXL-STW",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
         }
       },
       "available": true
@@ -28384,7 +28518,7 @@
             "S"
           ],
           "sku": "MSD2607-SML-HGY",
-          "available": false,
+          "available": true,
           "price": 359625,
           "compare_at_price": 479500
         },
@@ -30286,6 +30420,125 @@
       },
       "available": true
     },
+    "15378061230298": {
+      "id": "15378061230298",
+      "title": "Mocha Brown Zip-Up Hoodie",
+      "handle": "mocha-brown-zip-up-hoodie",
+      "url": "https://focusclothing.pk/products/mocha-brown-zip-up-hoodie",
+      "vendor": "Men",
+      "type": "Men Upper & Hoodie",
+      "description": "Layer up effortlessly with this mocha brown zip-up hoodie. Designed with relaxed drop shoulders and sleek silver-tone zipper hardware, it pairs everyday style with cozy fleece comfort—an easy choice for casual outings and laid-back days.",
+      "tags": [
+        "30%",
+        "ALL",
+        "DR",
+        "HOODIES",
+        "Hoodies winter20-24",
+        "MB",
+        "MENS",
+        "Men",
+        "NEW WINTER MEN",
+        "NIMS",
+        "New",
+        "New Arrivals",
+        "New In",
+        "New In Men",
+        "Sale",
+        "Sho30% All New In Men",
+        "Sho30% All Winter M",
+        "WINTER24",
+        "mws_fee_generated",
+        "winter20-24"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/001_baa7c5ba-4e9d-4962-a037-b200118c0d46.jpg?v=1795757917",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/002_f12c8a7d-6875-4619-99f5-6ef3af4645b4.jpg?v=1795757917",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/003_fc826e6a-7597-4dfc-942c-662326368e9d.jpg?v=1795757917"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Brown"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        }
+      ],
+      "variants": {
+        "69076191445210": {
+          "id": "69076191445210",
+          "title": "Brown / S",
+          "options": [
+            "Brown",
+            "S"
+          ],
+          "sku": "MUP2616-SML-BRN",
+          "available": true,
+          "price": 699500,
+          "compare_at_price": 699500
+        },
+        "69076191477978": {
+          "id": "69076191477978",
+          "title": "Brown / M",
+          "options": [
+            "Brown",
+            "M"
+          ],
+          "sku": "MUP2616-MED-BRN",
+          "available": true,
+          "price": 699500,
+          "compare_at_price": 699500
+        },
+        "69076191510746": {
+          "id": "69076191510746",
+          "title": "Brown / L",
+          "options": [
+            "Brown",
+            "L"
+          ],
+          "sku": "MUP2616-LRG-BRN",
+          "available": true,
+          "price": 699500,
+          "compare_at_price": 699500
+        },
+        "69076191543514": {
+          "id": "69076191543514",
+          "title": "Brown / XL",
+          "options": [
+            "Brown",
+            "XL"
+          ],
+          "sku": "MUP2616-EXL-BRN",
+          "available": true,
+          "price": 699500,
+          "compare_at_price": 699500
+        },
+        "69096255717594": {
+          "id": "69096255717594",
+          "title": "Brown / 2XL",
+          "options": [
+            "Brown",
+            "2XL"
+          ],
+          "sku": null,
+          "available": true,
+          "price": 699500,
+          "compare_at_price": 699500
+        }
+      },
+      "available": true
+    },
     "15267712663770": {
       "id": "15267712663770",
       "title": "Mocha Relaxed Sweatpants",
@@ -31606,7 +31859,7 @@
             "S"
           ],
           "sku": "MUP2614-SML-NVY",
-          "available": false,
+          "available": true,
           "price": 524625,
           "compare_at_price": 699500
         },
@@ -33059,7 +33312,7 @@
             "L"
           ],
           "sku": "MTS2622-LRG-NVY",
-          "available": true,
+          "available": false,
           "price": 149750,
           "compare_at_price": 299500
         },
@@ -34717,7 +34970,8 @@
             "S",
             "M",
             "L",
-            "XL"
+            "XL",
+            "2XL"
           ]
         }
       ],
@@ -34766,6 +35020,18 @@
             "XL"
           ],
           "sku": "MSD2605-EXL-LBR",
+          "available": true,
+          "price": 374625,
+          "compare_at_price": 499500
+        },
+        "69096280490202": {
+          "id": "69096280490202",
+          "title": "Light Brown / 2XL",
+          "options": [
+            "Light Brown",
+            "2XL"
+          ],
+          "sku": null,
           "available": true,
           "price": 374625,
           "compare_at_price": 499500
@@ -43804,7 +44070,7 @@
             "2XL"
           ],
           "sku": "MUP2607-2XL-BRN",
-          "available": false,
+          "available": true,
           "price": 524625,
           "compare_at_price": 699500
         }
@@ -45296,6 +45562,115 @@
       },
       "available": true
     },
+    "15378089967834": {
+      "id": "15378089967834",
+      "title": "Unisex Mocha Brown Straight-Leg Sweatpants",
+      "handle": "unisex-mocha-brown-straight-leg-sweatpants",
+      "url": "https://focusclothing.pk/products/unisex-mocha-brown-straight-leg-sweatpants",
+      "vendor": "Men",
+      "type": "Men Trouser",
+      "description": "Relax in everyday comfort with these unisex mocha brown sweatpants. Soft fleece and a straight-leg fit create an easygoing look, while the open hems keep the silhouette clean and versatile for off-duty wear.",
+      "tags": [
+        "MENS",
+        "Men",
+        "New",
+        "New In",
+        "New In Men",
+        "New Products",
+        "Trouser-W",
+        "WMEN",
+        "men-trouser-size",
+        "mws_fee_generated"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/001_d205ec0d-f576-4bc7-bf6f-956390c9498a.jpg?v=1795757961",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/002_a5c39ca2-778f-42bb-adad-a3cec3977ac2.jpg?v=1795757961",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/003_ccaa330f-cecb-4bed-94bd-5bd26806c3e8.jpg?v=1795757961"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Rust"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        }
+      ],
+      "variants": {
+        "69076267040986": {
+          "id": "69076267040986",
+          "title": "Rust / S",
+          "options": [
+            "Rust",
+            "S"
+          ],
+          "sku": "KMT2694-SML-RST",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
+        },
+        "69076267073754": {
+          "id": "69076267073754",
+          "title": "Rust / M",
+          "options": [
+            "Rust",
+            "M"
+          ],
+          "sku": "KMT2694-MED-RST",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
+        },
+        "69076267106522": {
+          "id": "69076267106522",
+          "title": "Rust / L",
+          "options": [
+            "Rust",
+            "L"
+          ],
+          "sku": "KMT2694-LRG-RST",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
+        },
+        "69076267139290": {
+          "id": "69076267139290",
+          "title": "Rust / XL",
+          "options": [
+            "Rust",
+            "XL"
+          ],
+          "sku": "KMT2694-EXL-RST",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
+        },
+        "69076267172058": {
+          "id": "69076267172058",
+          "title": "Rust / 2XL",
+          "options": [
+            "Rust",
+            "2XL"
+          ],
+          "sku": "KMT2694-2XL-RST",
+          "available": true,
+          "price": 649500,
+          "compare_at_price": 649500
+        }
+      },
+      "available": true
+    },
     "15304572862682": {
       "id": "15304572862682",
       "title": "Unisex Navy Quater Zip Hoodie",
@@ -45804,7 +46179,8 @@
             "S",
             "M",
             "L",
-            "XL"
+            "XL",
+            "2XL"
           ]
         }
       ],
@@ -45854,6 +46230,18 @@
           ],
           "sku": "MUP2608-EXL-SNG",
           "available": true,
+          "price": 524625,
+          "compare_at_price": 699500
+        },
+        "69096263221466": {
+          "id": "69096263221466",
+          "title": "Gray / 2XL",
+          "options": [
+            "Gray",
+            "2XL"
+          ],
+          "sku": null,
+          "available": false,
           "price": 524625,
           "compare_at_price": 699500
         }
@@ -45925,7 +46313,7 @@
             "S"
           ],
           "sku": "MUP2611-SML-TEL",
-          "available": false,
+          "available": true,
           "price": 449625,
           "compare_at_price": 599500
         },
@@ -45973,7 +46361,7 @@
             "2XL"
           ],
           "sku": "MUP2611-2XL-TEL",
-          "available": false,
+          "available": true,
           "price": 449625,
           "compare_at_price": 599500
         }

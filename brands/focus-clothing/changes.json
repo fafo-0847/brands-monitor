@@ -1,15 +1,390 @@
 {
-  "checked_at": "2026-11-27T01:17:09.114977+00:00",
+  "checked_at": "2026-11-27T12:53:18.453716+00:00",
   "baseline_created": false,
-  "product_count": 449,
-  "change_count": 1,
+  "product_count": 452,
+  "change_count": 26,
   "changes": [
     {
-      "product_id": "15274536042714",
-      "title": "Men's Reversible Black & Burgundy Belt",
-      "url": "https://focusclothing.pk/products/belt-1?variant=67563270078682",
+      "product_id": "15266725134554",
+      "title": "Brown Tailored Track Pants",
+      "url": "https://focusclothing.pk/products/mens-brown-center-seam-track-pants",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Dark Brown"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Dark Brown"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "15266725134554",
+      "title": "Brown Tailored Track Pants",
+      "url": "https://focusclothing.pk/products/mens-brown-center-seam-track-pants?variant=69096236581082",
+      "kind": "Size/option added",
+      "detail": "Dark Brown / 2XL: Available, PKR 5,246.25"
+    },
+    {
+      "product_id": "15266732277978",
+      "title": "Gray Side-Stripe Track Pants",
+      "url": "https://focusclothing.pk/products/mens-gray-side-stripe-track-pants?variant=67521130889434",
+      "kind": "Back in stock",
+      "detail": "Light gray / 2XL"
+    },
+    {
+      "product_id": "15266732310746",
+      "title": "Light Brown Relaxed-Fit Trouser",
+      "url": "https://focusclothing.pk/products/mens-light-brown-relaxed-fit-trouser?variant=67521119977690",
+      "kind": "Back in stock",
+      "detail": "Light Brown / 2XL"
+    },
+    {
+      "product_id": "15267639132378",
+      "title": "Black Tailored Track Pants",
+      "url": "https://focusclothing.pk/products/mens-black-center-seam-track-pants?variant=67525124915418",
+      "kind": "Back in stock",
+      "detail": "BLACK / XL"
+    },
+    {
+      "product_id": "15267641131226",
+      "title": "Dark Grey Tailored Track Pants",
+      "url": "https://focusclothing.pk/products/mens-dark-grey-center-seam-track-pants?variant=67525139529946",
+      "kind": "Back in stock",
+      "detail": "Dark Gray / L"
+    },
+    {
+      "product_id": "15281139843290",
+      "title": "Olive Grey Sweatshirt",
+      "url": "https://focusclothing.pk/products/mens-olive-grey-crewneck-graphic-sweatshirt",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Light Brown"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Light Brown"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "15281139843290",
+      "title": "Olive Grey Sweatshirt",
+      "url": "https://focusclothing.pk/products/mens-olive-grey-crewneck-graphic-sweatshirt?variant=69096280490202",
+      "kind": "Size/option added",
+      "detail": "Light Brown / 2XL: Available, PKR 3,746.25"
+    },
+    {
+      "product_id": "15291170062554",
+      "title": "Black Fur Collar Zip Jacket",
+      "url": "https://focusclothing.pk/products/mens-black-fur-collar-zip-jacket?variant=67748074062042",
       "kind": "Sold out",
-      "detail": "BLACK"
+      "detail": "BLACK / 2XL"
+    },
+    {
+      "product_id": "15304582463706",
+      "title": "Unisex Stone Grey Quarter Zip Hoodie",
+      "url": "https://focusclothing.pk/products/focus-unisex-stone-grey-half-zip-pullover-hoodie",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Gray"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Gray"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "15304582463706",
+      "title": "Unisex Stone Grey Quarter Zip Hoodie",
+      "url": "https://focusclothing.pk/products/focus-unisex-stone-grey-half-zip-pullover-hoodie?variant=69096263221466",
+      "kind": "Size/option added",
+      "detail": "Gray / 2XL: Unavailable, PKR 5,246.25"
+    },
+    {
+      "product_id": "15314581389530",
+      "title": "Unisex Teal Hoodie",
+      "url": "https://focusclothing.pk/products/classic-blue-pullover-hoodie?variant=68060630483162",
+      "kind": "Back in stock",
+      "detail": "Teal / S"
+    },
+    {
+      "product_id": "15314581389530",
+      "title": "Unisex Teal Hoodie",
+      "url": "https://focusclothing.pk/products/classic-blue-pullover-hoodie?variant=68060630614234",
+      "kind": "Back in stock",
+      "detail": "Teal / 2XL"
+    },
+    {
+      "product_id": "15329683439834",
+      "title": "Brown Johnny Collar Sweatshirt",
+      "url": "https://focusclothing.pk/products/brown-johnny-collar-sweatshirt?variant=68230046122202",
+      "kind": "Back in stock",
+      "detail": "Brown / S"
+    },
+    {
+      "product_id": "15334113575130",
+      "title": "Navy Full-Zip Hoodie for Women",
+      "url": "https://focusclothing.pk/products/navy-full-zip-hoodie-for-women?variant=68439363158234",
+      "kind": "Back in stock",
+      "detail": "Navy / S"
+    },
+    {
+      "product_id": "15335371866330",
+      "title": "Brown Ribbed Quarter-Zip Hoodie",
+      "url": "https://focusclothing.pk/products/brown-ribbed-quarter-zip-hoodie",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Brown"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Brown"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "15335371866330",
+      "title": "Brown Ribbed Quarter-Zip Hoodie",
+      "url": "https://focusclothing.pk/products/brown-ribbed-quarter-zip-hoodie?variant=69096246739162",
+      "kind": "Size/option added",
+      "detail": "Brown / 2XL: Available, PKR 4,496.25"
+    },
+    {
+      "product_id": "15339751473370",
+      "title": "Men's Heather Grey Graphic Sweatshirt",
+      "url": "https://focusclothing.pk/products/mens-heather-grey-graphic-sweatshirt?variant=68706898116826",
+      "kind": "Back in stock",
+      "detail": "Gray / S"
+    },
+    {
+      "product_id": "15340619333850",
+      "title": "Black Graphic Sweatshirt",
+      "url": "https://focusclothing.pk/products/black-graphic-sweatshirt?variant=68733093871834",
+      "kind": "Back in stock",
+      "detail": "BLACK / S"
+    },
+    {
+      "product_id": "15346864128218",
+      "title": "Taupe Quarter-Snap Upper",
+      "url": "https://focusclothing.pk/products/taupe-quarter-snap-fleece-upper?variant=68868251353306",
+      "kind": "Back in stock",
+      "detail": "Brown / 2XL"
+    },
+    {
+      "product_id": "15355336523994",
+      "title": "Forest Green Full-Zip Hoodie for Men",
+      "url": "https://focusclothing.pk/products/forest-green-full-zip-hoodie-for-men",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "15355336523994",
+      "title": "Forest Green Full-Zip Hoodie for Men",
+      "url": "https://focusclothing.pk/products/forest-green-full-zip-hoodie-for-men?variant=69096251916506",
+      "kind": "Size/option added",
+      "detail": "Green / 2XL: Unavailable, PKR 5,246.25"
+    },
+    {
+      "product_id": "15378061230298",
+      "title": "Mocha Brown Zip-Up Hoodie",
+      "url": "https://focusclothing.pk/products/mocha-brown-zip-up-hoodie",
+      "kind": "New product",
+      "detail": "Price: PKR 6,995.00; available sizes/options: Brown / S, Brown / M, Brown / L, Brown / XL, Brown / 2XL"
+    },
+    {
+      "product_id": "15378089967834",
+      "title": "Unisex Mocha Brown Straight-Leg Sweatpants",
+      "url": "https://focusclothing.pk/products/unisex-mocha-brown-straight-leg-sweatpants",
+      "kind": "New product",
+      "detail": "Price: PKR 6,495.00; available sizes/options: Rust / S, Rust / M, Rust / L, Rust / XL, Rust / 2XL"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men",
+      "kind": "New product",
+      "detail": "Price: PKR 6,495.00; available sizes/options: S, M, L, XL"
+    },
+    {
+      "product_id": "9239551181018",
+      "title": "Navy T-Shirt",
+      "url": "https://focusclothing.pk/products/t-shirt-22?variant=47807336677594",
+      "kind": "Sold out",
+      "detail": "Navy / L"
     }
   ]
 }
