@@ -1,286 +1,133 @@
 {
-  "checked_at": "2026-11-26T12:29:38.076206+00:00",
+  "checked_at": "2026-11-27T01:20:37.541139+00:00",
   "baseline_created": false,
-  "product_count": 870,
-  "change_count": 29,
+  "product_count": 871,
+  "change_count": 8,
   "changes": [
     {
-      "product_id": "7296453443619",
-      "title": "Florenza",
-      "url": "https://www.threadsandmotifs.com/products/florenza",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "product_id": "7296295927843",
+      "title": "Izzah Skirt Saree",
+      "url": "https://www.threadsandmotifs.com/products/izzah-skirt-saree?variant=44046381809699",
+      "kind": "Back in stock",
+      "detail": "Small / Standard"
     },
     {
-      "product_id": "7297489469475",
-      "title": "Fleuria",
-      "url": "https://www.threadsandmotifs.com/products/fleuria",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7297530036259",
-      "title": "Iris Bloom Lehenga Set",
-      "url": "https://www.threadsandmotifs.com/products/iris-bloom-lehenga-set",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7299893657635",
-      "title": "Nazneen",
-      "url": "https://www.threadsandmotifs.com/products/nazneen",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7311245967395",
-      "title": "Ophelia",
-      "url": "https://www.threadsandmotifs.com/products/ophelia",
+      "product_id": "7323136720931",
+      "title": "Burnished Copper Velvet (RTW 2PC)",
+      "url": "https://www.threadsandmotifs.com/products/aaina-embroidered-velvet-rtw-2pc-copy",
       "kind": "Product updated",
-      "detail": "title: Aqua Fleur → Ophelia",
-      "field": "title",
-      "before": "Aqua Fleur",
-      "after": "Ophelia"
-    },
-    {
-      "product_id": "7311245967395",
-      "title": "Ophelia",
-      "url": "https://www.threadsandmotifs.com/products/ophelia",
-      "kind": "Product updated",
-      "detail": "handle: aqua-fleur → ophelia",
-      "field": "handle",
-      "before": "aqua-fleur",
-      "after": "ophelia"
-    },
-    {
-      "product_id": "7311508275235",
-      "title": "Flora",
-      "url": "https://www.threadsandmotifs.com/products/flora",
-      "kind": "Product updated",
-      "detail": "title: Iris Bloom → Flora",
-      "field": "title",
-      "before": "Iris Bloom",
-      "after": "Flora"
-    },
-    {
-      "product_id": "7311508275235",
-      "title": "Flora",
-      "url": "https://www.threadsandmotifs.com/products/flora",
-      "kind": "Product updated",
-      "detail": "handle: iris-bloom → flora",
-      "field": "handle",
-      "before": "iris-bloom",
-      "after": "flora"
-    },
-    {
-      "product_id": "7322203029539",
-      "title": "Nazneen (RTW)",
-      "url": "https://www.threadsandmotifs.com/products/nazneen-rtw?variant=44137720381475",
-      "kind": "Size/option updated",
-      "detail": "Medium sku: 12208-M-SS → 12207-M-SS"
-    },
-    {
-      "product_id": "7324633661475",
-      "title": "Seaglass Silk Ensemble (RTW)",
-      "url": "https://www.threadsandmotifs.com/products/seaglass-silk-ensemble-rtw",
-      "kind": "Product updated",
-      "detail": "tags: ['over-20000', 'readytoship', 'rtwsemiformals', 'size-large', 'size-medium', 'size-small'] → ['over-20000', 'readytoship', 'rtwsemiformals', 'size-small']",
+      "detail": "tags: ['newarrivalspret', 'over-20000', 'pret', 'size-large', 'size-medium', 'velvet'] → ['newarrivalspret', 'over-20000', 'pret', 'size-medium', 'velvet']",
       "field": "tags",
       "before": [
+        "newarrivalspret",
         "over-20000",
-        "readytoship",
-        "rtwsemiformals",
+        "pret",
         "size-large",
         "size-medium",
-        "size-small"
+        "velvet"
       ],
       "after": [
+        "newarrivalspret",
         "over-20000",
-        "readytoship",
-        "rtwsemiformals",
-        "size-small"
+        "pret",
+        "size-medium",
+        "velvet"
       ]
     },
     {
-      "product_id": "7324633661475",
-      "title": "Seaglass Silk Ensemble (RTW)",
-      "url": "https://www.threadsandmotifs.com/products/seaglass-silk-ensemble-rtw",
-      "kind": "Product updated",
-      "detail": "Options changed (see changes.json for full before/after)",
-      "field": "options",
-      "before": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "Small",
-            "Medium",
-            "Large"
-          ]
-        }
-      ],
-      "after": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "Small"
-          ]
-        }
-      ]
-    },
-    {
-      "product_id": "7324633661475",
-      "title": "Seaglass Silk Ensemble (RTW)",
-      "url": "https://www.threadsandmotifs.com/products/seaglass-silk-ensemble-rtw?variant=44166201507875",
-      "kind": "Size/option removed",
-      "detail": "Medium"
-    },
-    {
-      "product_id": "7324633661475",
-      "title": "Seaglass Silk Ensemble (RTW)",
-      "url": "https://www.threadsandmotifs.com/products/seaglass-silk-ensemble-rtw?variant=44166201540643",
-      "kind": "Size/option removed",
+      "product_id": "7323136720931",
+      "title": "Burnished Copper Velvet (RTW 2PC)",
+      "url": "https://www.threadsandmotifs.com/products/aaina-embroidered-velvet-rtw-2pc-copy?variant=44142712291363",
+      "kind": "Sold out",
       "detail": "Large"
     },
     {
-      "product_id": "7332772216867",
-      "title": "Floral Serenade Lehenga Set",
-      "url": "https://www.threadsandmotifs.com/products/floral-serenade-lehenga-set",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "product_id": "7336496431139",
+      "title": "Afnan",
+      "url": "https://www.threadsandmotifs.com/products/afnan?variant=44263397720099",
+      "kind": "Sold out",
+      "detail": "Default Title"
     },
     {
-      "product_id": "7332782309411",
-      "title": "Florentine Rose Lehenga Set",
-      "url": "https://www.threadsandmotifs.com/products/florentine-rose-lehenga-set",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7334363824163",
-      "title": "Water Lilies",
-      "url": "https://www.threadsandmotifs.com/products/water-lilies",
-      "kind": "Product updated",
-      "detail": "title: Mahtab Lilac → Water Lilies",
-      "field": "title",
-      "before": "Mahtab Lilac",
-      "after": "Water Lilies"
-    },
-    {
-      "product_id": "7334363824163",
-      "title": "Water Lilies",
-      "url": "https://www.threadsandmotifs.com/products/water-lilies",
-      "kind": "Product updated",
-      "detail": "handle: mahtab-lilac → water-lilies",
-      "field": "handle",
-      "before": "mahtab-lilac",
-      "after": "water-lilies"
-    },
-    {
-      "product_id": "7334363824163",
-      "title": "Water Lilies",
-      "url": "https://www.threadsandmotifs.com/products/water-lilies",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Cool lavender-lilac shirt and dupatta with silver embellishments, paired with a double-shaded jamawar skirt in ice aqua and pale seafoam green.</p>\n<p>Mahtab Lilac features a long Sheesha silk shirt in cool lavender-lilac. Crystals frame the keyhole and shoulder cutouts, while pearls, sequins and cut-glass beads trace vertical patterns and floral motifs across the shirt. Delicate lattice cutwork opens up the fitted sleeves and scalloped daman, and pastel bead drops accent the waist.</p>\n<p>The flared jamawar skirt blends ice aqua and pale seafoam green, with silver woven motifs that catch the light as the fabric moves. A matching lavender-lilac Sheesha silk dupatta completes the three-piece ensemble, with diagonal rows of embellishment and scalloped borders detailed with pearls, sequins and cut-glass beads.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Shirt length 52 inches</strong><br><strong>Skirt length 45 inches </strong></p>",
-      "after": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Cool lavender-lilac shirt and dupatta with silver embellishments, paired with a double-shaded jamawar skirt in ice aqua and pale seafoam green.</p>\n<p>Water Lilies features a long Sheesha silk shirt in cool lavender-lilac. Crystals frame the keyhole and shoulder cutouts, while pearls, sequins and cut-glass beads trace vertical patterns and floral motifs across the shirt. Delicate lattice cutwork opens up the fitted sleeves and scalloped daman, and pastel bead drops accent the waist.</p>\n<p>The flared jamawar skirt blends ice aqua and pale seafoam green, with silver woven motifs that catch the light as the fabric moves. A matching lavender-lilac Sheesha silk dupatta completes the three-piece ensemble, with diagonal rows of embellishment and scalloped borders detailed with pearls, sequins and cut-glass beads.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Shirt length 52 inches</strong><br><strong>Skirt length 45 inches </strong></p>"
-    },
-    {
-      "product_id": "7334396788771",
-      "title": "Venus",
-      "url": "https://www.threadsandmotifs.com/products/venus",
-      "kind": "Product updated",
-      "detail": "title: Roohi Mauve → Venus",
-      "field": "title",
-      "before": "Roohi Mauve",
-      "after": "Venus"
-    },
-    {
-      "product_id": "7334396788771",
-      "title": "Venus",
-      "url": "https://www.threadsandmotifs.com/products/venus",
-      "kind": "Product updated",
-      "detail": "handle: roohi-mauve → venus",
-      "field": "handle",
-      "before": "roohi-mauve",
-      "after": "venus"
-    },
-    {
-      "product_id": "7334396788771",
-      "title": "Venus",
-      "url": "https://www.threadsandmotifs.com/products/venus",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Pale dusty mauve net shirt with silver-toned embellishments, a metallic mauve-taupe skirt and a soft lilac-mauve dupatta.</p>\n<p>Roohi Mauve features a long, front-open net shirt with a V-neckline and embellished shoulder cutouts. Pearls, sequins and cut-glass beads trace fan-shaped motifs across the bodice and elongated patterns down the sheer sleeves and shirt panels. Open side chaaks reveal the pleated skirt beneath, while fine beaded fringe finishes the cuffs and daman.</p>\n<p>The metallic mauve-taupe shimmer skirt falls in fine pleats to a wide scalloped border embellished with pearls, sequins and cut-glass beads. A sheer lilac-mauve net dupatta completes the three-piece ensemble, with scattered floral motifs and a glistening border detailed in the same beadwork.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Shirt Length 49 inches</strong><br><strong>Skirt Length 46.5 inches</strong><br></p>",
-      "after": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Pale dusty mauve net shirt with silver-toned embellishments, a metallic mauve-taupe skirt and a soft lilac-mauve dupatta.</p>\n<p>Venus features a long, front-open net shirt with a V-neckline and embellished shoulder cutouts. Pearls, sequins and cut-glass beads trace fan-shaped motifs across the bodice and elongated patterns down the sheer sleeves and shirt panels. Open side chaaks reveal the pleated skirt beneath, while fine beaded fringe finishes the cuffs and daman.</p>\n<p>The metallic mauve-taupe shimmer skirt falls in fine pleats to a wide scalloped border embellished with pearls, sequins and cut-glass beads. A sheer lilac-mauve net dupatta completes the three-piece ensemble, with scattered floral motifs and a glistening border detailed in the same beadwork.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Shirt Length 49 inches</strong><br><strong>Skirt Length 46.5 inches</strong><br></p>"
-    },
-    {
-      "product_id": "7334445187107",
-      "title": "Pearl",
-      "url": "https://www.threadsandmotifs.com/products/pearl",
-      "kind": "Product updated",
-      "detail": "title: Ziya → Pearl",
-      "field": "title",
-      "before": "Ziya",
-      "after": "Pearl"
-    },
-    {
-      "product_id": "7334445187107",
-      "title": "Pearl",
-      "url": "https://www.threadsandmotifs.com/products/pearl",
-      "kind": "Product updated",
-      "detail": "handle: roohi-mauve-copy → pearl",
-      "field": "handle",
-      "before": "roohi-mauve-copy",
-      "after": "pearl"
-    },
-    {
-      "product_id": "7334445187107",
-      "title": "Pearl",
-      "url": "https://www.threadsandmotifs.com/products/pearl",
-      "kind": "Product updated",
-      "detail": "Description changed (see changes.json for full before/after)",
-      "field": "description",
-      "before": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Light butter yellow net jacket and dupatta, paired with a three-tone chiffon skirt in butter yellow, light pink and mint aqua.</p>\n<p>Mahin Butter Yellow features a long, front-open net jacket in light butter yellow. Pearls, sequins and cut-glass beads trace curved motifs and fine vertical lines across the jacket, with a richly embellished neckline and delicate bead drops at the cuffs and hem.</p>\n<p>The chiffon blouse and flared chiffon skirt are both detailed with Kamdani and sequins. The skirt brings together butter yellow, light pink and mint aqua, with all three shades visible beneath the sheer jacket. A matching light butter yellow net dupatta, embellished with pearls, sequins and cut-glass beads, completes the four-piece ensemble.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Jacket Length 57</strong><strong> inches</strong><br><strong>Skirt Length 46.5 inches</strong><br></p>",
-      "after": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong><br>Light butter yellow net jacket and dupatta, paired with a three-tone chiffon skirt in butter yellow, light pink and mint aqua.</p>\n<p>Pearl Butter Yellow features a long, front-open net jacket in light butter yellow. Pearls, sequins and cut-glass beads trace curved motifs and fine vertical lines across the jacket, with a richly embellished neckline and delicate bead drops at the cuffs and hem.</p>\n<p>The chiffon blouse and flared chiffon skirt are both detailed with Kamdani and sequins. The skirt brings together butter yellow, light pink and mint aqua, with all three shades visible beneath the sheer jacket. A matching light butter yellow net dupatta, embellished with pearls, sequins and cut-glass beads, completes the four-piece ensemble.<br><br><strong>Details:</strong><br><strong>Model size Small</strong><br><strong>Jacket Length 57</strong><strong> inches</strong><br><strong>Skirt Length 46.5 inches</strong><br></p>"
+      "product_id": "7336664924195",
+      "title": "Simin Ivory",
+      "url": "https://www.threadsandmotifs.com/products/simin-ivory",
+      "kind": "New product",
+      "detail": "Price: PKR 99,500.00 – PKR 109,450.00; available sizes/options: Small / Standard, Small / Express- 10% Upcharge, Medium / Standard, Medium / Express- 10% Upcharge, Large / Standard, Large / Express- 10% Upcharge, Customized / Standard, Customized / Express- 10% Upcharge"
     },
     {
       "product_id": "7336677113891",
       "title": "Nazara Rose",
       "url": "https://www.threadsandmotifs.com/products/nazara-rose",
-      "kind": "New product",
-      "detail": "Price: PKR 135,000.00 – PKR 148,500.00; available sizes/options: Small / Standard, Small / Express- 10% Upcharge, Medium / Standard, Medium / Express- 10% Upcharge, Large / Standard, Large / Express- 10% Upcharge, Customized / Standard, Customized / Express- 10% Upcharge"
+      "kind": "Product updated",
+      "detail": "tags: ['Signature Lehengas', 'bridal', 'bridemaid', 'formal', 'formals', 'over-20000', 'partywear', 'weddingguests'] → ['Signature Lehengas', 'bridal', 'bridemaid', 'formal', 'formals', 'over-20000', 'partywear', 'size-customized', 'size-large', 'size-medium', 'size-small', 'weddingguests']",
+      "field": "tags",
+      "before": [
+        "Signature Lehengas",
+        "bridal",
+        "bridemaid",
+        "formal",
+        "formals",
+        "over-20000",
+        "partywear",
+        "weddingguests"
+      ],
+      "after": [
+        "Signature Lehengas",
+        "bridal",
+        "bridemaid",
+        "formal",
+        "formals",
+        "over-20000",
+        "partywear",
+        "size-customized",
+        "size-large",
+        "size-medium",
+        "size-small",
+        "weddingguests"
+      ]
     },
     {
       "product_id": "7336678424611",
       "title": "Primrose Atelier",
       "url": "https://www.threadsandmotifs.com/products/primrose-atelier",
-      "kind": "New product",
-      "detail": "Price: PKR 180,000.00 – PKR 198,000.00; available sizes/options: Small / Standard, Small / Express- 10% Upcharge, Medium / Standard, Medium / Express- 10% Upcharge, Large / Standard, Large / Express- 10% Upcharge, Customised / Standard, Customised / Express- 10% Upcharge"
-    },
-    {
-      "product_id": "7336681046051",
-      "title": "Zunaira",
-      "url": "https://www.threadsandmotifs.com/products/zunaira?variant=44263661830179",
-      "kind": "Sold out",
-      "detail": "Default Title"
+      "kind": "Product updated",
+      "detail": "tags: ['Signature Lehengas', 'bridal', 'bridemaid', 'formal', 'formals', 'over-20000', 'partywear', 'weddingguests'] → ['Signature Lehengas', 'bridal', 'bridemaid', 'formal', 'formals', 'over-20000', 'partywear', 'size-customised', 'size-large', 'size-medium', 'size-small', 'weddingguests']",
+      "field": "tags",
+      "before": [
+        "Signature Lehengas",
+        "bridal",
+        "bridemaid",
+        "formal",
+        "formals",
+        "over-20000",
+        "partywear",
+        "weddingguests"
+      ],
+      "after": [
+        "Signature Lehengas",
+        "bridal",
+        "bridemaid",
+        "formal",
+        "formals",
+        "over-20000",
+        "partywear",
+        "size-customised",
+        "size-large",
+        "size-medium",
+        "size-small",
+        "weddingguests"
+      ]
     },
     {
       "product_id": "7337161785379",
       "title": "Azure Botanica (RTW)",
       "url": "https://www.threadsandmotifs.com/products/azure-botanica-rtw",
-      "kind": "New product",
-      "detail": "Price: PKR 59,900.00; available sizes/options: Small, Medium, Large"
-    },
-    {
-      "product_id": "7337213198371",
-      "title": "Amethyst Vine Silk Ensemble (RTW)",
-      "url": "https://www.threadsandmotifs.com/products/amethyst-vine-silk-ensemble-rtw",
-      "kind": "New product",
-      "detail": "Price: PKR 44,000.00; available sizes/options: Small, Medium, Large"
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong>: Deep Blue with cool green sequins, accented with silver, champagne gold and soft blush.</p>\n<p>Azure Botanica pairs a long silk shirt in deep petrol blue with a sweeping velvet skirt. Oversized blooms and trailing leaves extend across the front, back and sheer sleeves, with silver, champagne-gold and soft blush accents woven through the design. Pearls, sequins and cut-glass beads bring dimension to the embroidery, while dense embellishment frames the V-neckline, cuffs and daman.</p>\n<p>The matching silk dupatta carries scattered floral motifs and a richly embroidered border, embellished with pearls, sequins and cut-glass beads. Delicate beaded drops finish the pallu, and a fine silver trim traces the hem of the flared velvet skirt.<br><br>Details:<br>Model size Small<br>Shirt length <br>Skirt length </p>",
+      "after": "<p data-pm-slice=\"0 0 []\"><strong>Colour</strong>: Deep Blue with cool green sequins, accented with silver, champagne gold and soft blush.</p>\n<p>Azure Botanica pairs a long silk shirt in deep petrol blue with a sweeping velvet skirt. Oversized blooms and trailing leaves extend across the front, back and sheer sleeves, with silver, champagne-gold and soft blush accents woven through the design. Pearls, sequins and cut-glass beads bring dimension to the embroidery, while dense embellishment frames the V-neckline, cuffs and daman.</p>\n<p>The matching silk dupatta carries scattered floral motifs and a richly embroidered border, embellished with pearls, sequins and cut-glass beads. Delicate beaded drops finish the pallu, and a fine silver trim traces the hem of the flared velvet skirt.<br><br>Details:<br>Model size Small<br></p>"
     }
   ]
 }
