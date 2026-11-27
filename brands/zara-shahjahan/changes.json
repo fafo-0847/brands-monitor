@@ -1,29 +1,46 @@
 {
-  "checked_at": "2026-11-27T10:13:52.012107+00:00",
+  "checked_at": "2026-11-27T22:29:37.566175+00:00",
   "baseline_created": false,
   "product_count": 1061,
-  "change_count": 3,
+  "change_count": 5,
   "changes": [
     {
-      "product_id": "7241561669765",
-      "title": "Aabroo",
-      "url": "https://zarashahjahan.com/products/ss26p0365?variant=41514079682693",
-      "kind": "Sold out",
-      "detail": "M"
-    },
-    {
-      "product_id": "7332830707845",
-      "title": "WAADI",
-      "url": "https://zarashahjahan.com/products/zr26p1023?variant=41869038289029",
+      "product_id": "7370962403461",
+      "title": "HARF",
+      "url": "https://zarashahjahan.com/products/zr26p1059?variant=42033705189509",
       "kind": "Sold out",
       "detail": "XL"
     },
     {
+      "product_id": "7376840654981",
+      "title": "Shab",
+      "url": "https://zarashahjahan.com/products/shab?variant=42385055252613",
+      "kind": "Sold out",
+      "detail": "XL"
+    },
+    {
+      "product_id": "7393722040453",
+      "title": "Motia",
+      "url": "https://zarashahjahan.com/products/zr26b1050?variant=42909702258821",
+      "kind": "Sold out",
+      "detail": "XS/S"
+    },
+    {
+      "product_id": "7393722171525",
+      "title": "Mehtab",
+      "url": "https://zarashahjahan.com/products/zr26b1054?variant=42909702684805",
+      "kind": "Sold out",
+      "detail": "XS/S"
+    },
+    {
       "product_id": "7411444088965",
       "title": "MOTI MAHAL",
-      "url": "https://zarashahjahan.com/products/zl26f1046?variant=42943658426501",
-      "kind": "Sold out",
-      "detail": "L"
+      "url": "https://zarashahjahan.com/products/zl26f1046",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "<p>Top: Organza<br>\nBottom: Bamber Silk<br>\nDupatta: Organza</p>\n\n<p>Moti Mahal is an ethereal seven-panel organza kurta that captures the grace of a bygone era. Each panel is beautifully embroidered with tilla, resham, and sequins, while softly scalloped edges and tassel details add a delicate, romantic finish.</p>\n\n<p>It is paired with a classic churidar pajama and a checkered organza dupatta finished with embroidery, completing a look that is timeless, airy, and effortlessly elegant for every formal occasion.</p>",
+      "after": "<p>Top: Organza<br>Bottom: Bamber Silk<br>Dupatta: Organza</p>\n<p>Moti Mahal is an ivory ethereal seven-panel organza kurta that captures the grace of a bygone era. Each panel is beautifully embroidered with tilla, resham, and sequins, while softly scalloped edges and tassel details add a delicate, romantic finish.</p>\n<p>It is paired with a classic churidar pajama and a checkered organza dupatta finished with embroidery, completing a look that is timeless, airy, and effortlessly elegant for every formal occasion.</p>"
     }
   ]
 }
