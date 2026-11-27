@@ -1,3991 +1,813 @@
 {
-  "checked_at": "2026-11-26T11:49:47.723922+00:00",
+  "checked_at": "2026-11-27T00:43:02.393530+00:00",
   "baseline_created": false,
-  "product_count": 5415,
-  "change_count": 569,
+  "product_count": 5474,
+  "change_count": 115,
   "changes": [
     {
-      "product_id": "10394416185647",
-      "title": "Quest Brown Formal Tassel Shoes 0111144",
-      "url": "https://1ststep.pk/products/quest-brown-formal-tassel-shoes-0111144?variant=50690317254959",
-      "kind": "Back in stock",
-      "detail": "BROWN / 41"
-    },
-    {
-      "product_id": "10394416185647",
-      "title": "Quest Brown Formal Tassel Shoes 0111144",
-      "url": "https://1ststep.pk/products/quest-brown-formal-tassel-shoes-0111144?variant=50690317287727",
-      "kind": "Back in stock",
-      "detail": "BROWN / 42"
-    },
-    {
-      "product_id": "10394416185647",
-      "title": "Quest Brown Formal Tassel Shoes 0111144",
-      "url": "https://1ststep.pk/products/quest-brown-formal-tassel-shoes-0111144?variant=50690317320495",
-      "kind": "Back in stock",
-      "detail": "BROWN / 43"
-    },
-    {
-      "product_id": "10404377329967",
-      "title": "Auden Gray Textured Loafers 0130868",
-      "url": "https://1ststep.pk/products/auden-gray-textured-loafers-0130868?variant=50722455617839",
+      "product_id": "10368923140399",
+      "title": "Pheline  Maroon Fancy Slippers 0412537",
+      "url": "https://1ststep.pk/products/pheline-maroon-fancy-slippers-0412537?variant=50607090565423",
       "kind": "Sold out",
-      "detail": "GRAY / 40"
+      "detail": "MAROON / 38"
     },
     {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107015983",
-      "kind": "Price decreased",
-      "detail": "MUSTARD / 40: PKR 5,950.00 → PKR 4,500.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107015983",
-      "kind": "Compare-at price increased",
-      "detail": "MUSTARD / 40: PKR 8,500.00 → PKR 9,000.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107048751",
-      "kind": "Price decreased",
-      "detail": "MUSTARD / 41: PKR 5,950.00 → PKR 4,500.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107048751",
-      "kind": "Compare-at price increased",
-      "detail": "MUSTARD / 41: PKR 8,500.00 → PKR 9,000.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107081519",
-      "kind": "Price decreased",
-      "detail": "MUSTARD / 42: PKR 5,950.00 → PKR 4,500.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107081519",
-      "kind": "Compare-at price increased",
-      "detail": "MUSTARD / 42: PKR 8,500.00 → PKR 9,000.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107114287",
-      "kind": "Price decreased",
-      "detail": "MUSTARD / 43: PKR 5,950.00 → PKR 4,500.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107114287",
-      "kind": "Compare-at price increased",
-      "detail": "MUSTARD / 43: PKR 8,500.00 → PKR 9,000.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107147055",
-      "kind": "Price decreased",
-      "detail": "MUSTARD / 44: PKR 5,950.00 → PKR 4,500.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107147055",
-      "kind": "Compare-at price increased",
-      "detail": "MUSTARD / 44: PKR 8,500.00 → PKR 9,000.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107179823",
-      "kind": "Price decreased",
-      "detail": "MUSTARD / 45: PKR 5,950.00 → PKR 4,500.00"
-    },
-    {
-      "product_id": "10498963177775",
-      "title": "Casual Sandal Mustard 0141020",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141020?variant=51029107179823",
-      "kind": "Compare-at price increased",
-      "detail": "MUSTARD / 45: PKR 8,500.00 → PKR 9,000.00"
-    },
-    {
-      "product_id": "10498987491631",
-      "title": "Tyndale Glossy Maroon Derby Shoes 0111302",
-      "url": "https://1ststep.pk/products/formal-shoes-maroon-0111302",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "10559154684207",
-      "title": "Gold Crystal Heel Fancy Slippers 0412556",
-      "url": "https://1ststep.pk/products/gold-crystal-heel-fancy-slippers-0412556?variant=51227464663343",
-      "kind": "Back in stock",
-      "detail": "GOLD / 37"
-    },
-    {
-      "product_id": "10559155274031",
-      "title": "Maroon Flat Fancy Slippers 0412872",
-      "url": "https://1ststep.pk/products/maroon-flat-fancy-slippers-0412872?variant=51227471905071",
+      "product_id": "10505915597103",
+      "title": "Girl Gold Casual Sandals 0720916",
+      "url": "https://1ststep.pk/products/baby-girls-gold-casual-sandals-0720916?variant=51047074365743",
       "kind": "Sold out",
-      "detail": "MAROON / 40"
+      "detail": "GOLD / 33"
     },
     {
-      "product_id": "10561368654127",
-      "title": "Black Shiny Formal Shoes 0111276",
-      "url": "https://1ststep.pk/products/black-shiny-formal-shoes-0111276?variant=51240590016815",
+      "product_id": "10569332719919",
+      "title": "Womens Black Fancy Slippers 0411978",
+      "url": "https://1ststep.pk/products/womens-black-fancy-slippers-0411978?variant=51277569655087",
+      "kind": "Sold out",
+      "detail": "BLACK / 38"
+    },
+    {
+      "product_id": "10569333178671",
+      "title": "Womens Blue Flat Fancy Slippers 0412862",
+      "url": "https://1ststep.pk/products/womens-blue-flat-fancy-slippers-0412862?variant=51277575618863",
+      "kind": "Sold out",
+      "detail": "BLUE / 38"
+    },
+    {
+      "product_id": "10685257023791",
+      "title": "Blue Slip On Sneakers 0120607",
+      "url": "https://1ststep.pk/products/blue-slip-on-sneakers-0120607?variant=51640859885871",
+      "kind": "Sold out",
+      "detail": "BLUE / 41"
+    },
+    {
+      "product_id": "10685260366127",
+      "title": "Black Mens Sneakers 0120630",
+      "url": "https://1ststep.pk/products/black-mens-sneakers-0120630?variant=51640881643823",
       "kind": "Back in stock",
       "detail": "BLACK / 41"
     },
     {
-      "product_id": "10585909985583",
-      "title": "Women Black Sneakers Shoes 0440845",
-      "url": "https://1ststep.pk/products/black-sneakers-shoes-0440845?variant=51337491022127",
+      "product_id": "10716591292719",
+      "title": "Girl Fawn Fancy Sandal 0721099",
+      "url": "https://1ststep.pk/products/fawn-fancy-sandal-0721099?variant=51744497500463",
       "kind": "Sold out",
-      "detail": "BLACK / 39"
+      "detail": "FAWN / 33"
     },
     {
-      "product_id": "10593933099311",
-      "title": "Maroon Pointed Heel Fancy Sandals 0421516",
-      "url": "https://1ststep.pk/products/maroon-pointed-heel-fancy-sandals-0421516",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "10611186565423",
-      "title": "Brown Casual Slippers For Men 0151145",
-      "url": "https://1ststep.pk/products/brown-casual-slippers-for-men-0151145?variant=51394017493295",
-      "kind": "Sold out",
-      "detail": "BROWN / 44"
-    },
-    {
-      "product_id": "10611186663727",
-      "title": "Khaki Casual Slippers For Men 0151145",
-      "url": "https://1ststep.pk/products/khaki-casual-slippers-for-men-0151145?variant=51394017952047",
+      "product_id": "10779671527727",
+      "title": "Trolley Bag Large 28\" 0850316",
+      "url": "https://1ststep.pk/products/trolley-bags-large-28-0850316?variant=51971614245167",
       "kind": "Back in stock",
-      "detail": "KHAKI / 43"
+      "detail": "White / Large 28\""
     },
     {
-      "product_id": "10611186794799",
-      "title": "Black Casual Slippers 0151146",
-      "url": "https://1ststep.pk/products/black-casual-slippers-0151146?variant=51394018902319",
+      "product_id": "10781669359919",
+      "title": "Bridal Court Shoes Silver 0450044",
+      "url": "https://1ststep.pk/products/bridal-court-shoes-silver-0450044?variant=51975065829679",
+      "kind": "Sold out",
+      "detail": "Silver / 38"
+    },
+    {
+      "product_id": "10783077925167",
+      "title": "Boy Jogger Shoes Blue 650646",
+      "url": "https://1ststep.pk/products/baba-jogger-shoes-blue-650646?variant=51979542790447",
+      "kind": "Sold out",
+      "detail": "Blue / 38"
+    },
+    {
+      "product_id": "10790176981295",
+      "title": "Sneaker Shoes White 0120645",
+      "url": "https://1ststep.pk/products/sneaker-shoes-white-0120645?variant=51995800961327",
+      "kind": "Sold out",
+      "detail": "White / 41"
+    },
+    {
+      "product_id": "10804380434735",
+      "title": "Girl Fancy Pumps Black 0710608",
+      "url": "https://1ststep.pk/products/baby-fancy-pumps-black-0710608?variant=52052430487855",
+      "kind": "Sold out",
+      "detail": "Black / 31"
+    },
+    {
+      "product_id": "10810309804335",
+      "title": "Formal Shoes Black 0111501",
+      "url": "https://1ststep.pk/products/formal-shoes-black-0111501?variant=52077278658863",
+      "kind": "Sold out",
+      "detail": "Black / 44"
+    },
+    {
+      "product_id": "10810310164783",
+      "title": "Formal Shoes Black 0111554",
+      "url": "https://1ststep.pk/products/formal-shoes-black-0111554?variant=52077281181999",
+      "kind": "Sold out",
+      "detail": "Black / 44"
+    },
+    {
+      "product_id": "10966788538671",
+      "title": "Fancy Sandal Golden 0421680",
+      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421680?variant=52296176075055",
       "kind": "Back in stock",
-      "detail": "BLACK / 44"
+      "detail": "Golden / 41"
     },
     {
-      "product_id": "10651901559087",
-      "title": "Womens Green Block Heel Slippers 0412939",
-      "url": "https://1ststep.pk/products/womens-green-block-heel-slippers-0412939?variant=51516126789935",
+      "product_id": "10987081728303",
+      "title": "Fancy Slipper Black 0413624",
+      "url": "https://1ststep.pk/products/fancy-slipper-black-0413624?variant=52323189555503",
       "kind": "Sold out",
-      "detail": "GREEN / 37"
+      "detail": "Black / 41"
     },
     {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804692783",
-      "kind": "Price decreased",
-      "detail": "BLACK / 36: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804692783",
-      "kind": "Compare-at price increased",
-      "detail": "BLACK / 36: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804725551",
-      "kind": "Price decreased",
-      "detail": "BLACK / 37: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804725551",
-      "kind": "Compare-at price increased",
-      "detail": "BLACK / 37: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804758319",
-      "kind": "Price decreased",
-      "detail": "BLACK / 38: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804758319",
-      "kind": "Compare-at price increased",
-      "detail": "BLACK / 38: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804791087",
-      "kind": "Price decreased",
-      "detail": "BLACK / 39: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804791087",
-      "kind": "Compare-at price increased",
-      "detail": "BLACK / 39: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804823855",
-      "kind": "Price decreased",
-      "detail": "BLACK / 40: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804823855",
-      "kind": "Compare-at price increased",
-      "detail": "BLACK / 40: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804856623",
-      "kind": "Price decreased",
-      "detail": "BLACK / 41: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671498985775",
-      "title": "Womens Black Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-black-bridal-sandals-0421503?variant=51587804856623",
-      "kind": "Compare-at price increased",
-      "detail": "BLACK / 41: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805151535",
-      "kind": "Price decreased",
-      "detail": "GOLD / 36: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805151535",
-      "kind": "Compare-at price increased",
-      "detail": "GOLD / 36: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805184303",
-      "kind": "Price decreased",
-      "detail": "GOLD / 37: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805184303",
-      "kind": "Compare-at price increased",
-      "detail": "GOLD / 37: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805217071",
-      "kind": "Price decreased",
-      "detail": "GOLD / 38: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805217071",
-      "kind": "Compare-at price increased",
-      "detail": "GOLD / 38: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805249839",
-      "kind": "Price decreased",
-      "detail": "GOLD / 39: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805249839",
-      "kind": "Compare-at price increased",
-      "detail": "GOLD / 39: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805282607",
-      "kind": "Price decreased",
-      "detail": "GOLD / 40: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805282607",
-      "kind": "Compare-at price increased",
-      "detail": "GOLD / 40: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805315375",
-      "kind": "Price decreased",
-      "detail": "GOLD / 41: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499018543",
-      "title": "Womens Gold Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-gold-bridal-sandals-0421503?variant=51587805315375",
-      "kind": "Compare-at price increased",
-      "detail": "GOLD / 41: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805610287",
-      "kind": "Price decreased",
-      "detail": "MAROON / 36: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805610287",
-      "kind": "Compare-at price increased",
-      "detail": "MAROON / 36: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805643055",
-      "kind": "Price decreased",
-      "detail": "MAROON / 37: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805643055",
-      "kind": "Compare-at price increased",
-      "detail": "MAROON / 37: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805675823",
-      "kind": "Price decreased",
-      "detail": "MAROON / 38: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805675823",
-      "kind": "Compare-at price increased",
-      "detail": "MAROON / 38: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805708591",
-      "kind": "Price decreased",
-      "detail": "MAROON / 39: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805708591",
-      "kind": "Compare-at price increased",
-      "detail": "MAROON / 39: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805741359",
-      "kind": "Price decreased",
-      "detail": "MAROON / 40: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805741359",
-      "kind": "Compare-at price increased",
-      "detail": "MAROON / 40: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805774127",
-      "kind": "Price decreased",
-      "detail": "MAROON / 41: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10671499051311",
-      "title": "Womens Maroon Bridal Sandals 0421503",
-      "url": "https://1ststep.pk/products/womens-maroon-bridal-sandals-0421503?variant=51587805774127",
-      "kind": "Compare-at price increased",
-      "detail": "MAROON / 41: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10685257220399",
-      "title": "Black Mens Slip On Sneakers 0120608",
-      "url": "https://1ststep.pk/products/black-mens-slip-on-sneakers-0120608?variant=51640860999983",
-      "kind": "Back in stock",
-      "detail": "BLACK / 45"
-    },
-    {
-      "product_id": "10685257318703",
-      "title": "Khaki Mens Slip On Sneakers 0120608",
-      "url": "https://1ststep.pk/products/khaki-mens-slip-on-sneakers-0120608?variant=51640861819183",
-      "kind": "Back in stock",
-      "detail": "KHAKI / 43"
-    },
-    {
-      "product_id": "10685257482543",
-      "title": "Blue Sneakers For Men 0120610",
-      "url": "https://1ststep.pk/products/blue-sneakers-for-men-0120610?variant=51640862867759",
-      "kind": "Back in stock",
-      "detail": "BLUE / 45"
-    },
-    {
-      "product_id": "10685257711919",
-      "title": "Blue Mens Sneakers 0120612",
-      "url": "https://1ststep.pk/products/blue-mens-sneakers-0120612?variant=51640864244015",
-      "kind": "Back in stock",
-      "detail": "BLUE / 40"
-    },
-    {
-      "product_id": "10685257810223",
-      "title": "Blue Sneakers For Men 0120613",
-      "url": "https://1ststep.pk/products/blue-sneakers-for-men-0120613?variant=51640864899375",
-      "kind": "Back in stock",
-      "detail": "BLUE / 41"
-    },
-    {
-      "product_id": "10685300375855",
-      "title": "Silver Pointed Heel Sandals 0421443",
-      "url": "https://1ststep.pk/products/silver-pointed-heel-sandals-0421443?variant=51641040503087",
+      "product_id": "10987083366703",
+      "title": "Fancy Sandal Black 0421659",
+      "url": "https://1ststep.pk/products/fancy-sandal-black-0421659?variant=52323197026607",
       "kind": "Sold out",
-      "detail": "SILVER / 41"
+      "detail": "Black / 36"
     },
     {
-      "product_id": "10685303488815",
-      "title": "Silver Bridal Sandals 0421544",
-      "url": "https://1ststep.pk/products/silver-bridal-sandals-0421544?variant=51641047220527",
+      "product_id": "11515711553839",
+      "title": "Loafer Shoes Khaki 0131153",
+      "url": "https://1ststep.pk/products/loafer-shoes-khaki-0131153?variant=52874977116463",
       "kind": "Sold out",
-      "detail": "SILVER / 37"
+      "detail": "Khaki / 40"
     },
     {
-      "product_id": "10716592013615",
-      "title": "Girl Pink Jogger Shoes 0750321",
-      "url": "https://1ststep.pk/products/pink-jogger-shoes-0750321",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "10732724977967",
-      "title": "Blue Casual Slipper 0413358",
-      "url": "https://1ststep.pk/products/blue-casual-slipper-0413358",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "10746465419567",
-      "title": "Formal Shoes Brown 0111421",
-      "url": "https://1ststep.pk/products/formal-shoes-brown-0111421?variant=51862262055215",
-      "kind": "Back in stock",
-      "detail": "Brown / 41"
-    },
-    {
-      "product_id": "10759828963631",
-      "title": "Fancy Slipper Maroon 0413473",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413473?variant=51902750458159",
+      "product_id": "11562152526127",
+      "title": "Boy Jogger Shoes Blue 0650725",
+      "url": "https://1ststep.pk/products/baba-jogger-shoes-blue-0650725?variant=52924367470895",
       "kind": "Sold out",
-      "detail": "Maroon / 37"
+      "detail": "Blue / 38"
     },
     {
-      "product_id": "10774492709167",
-      "title": "Girl Fancy Pumps Blue 0710641",
-      "url": "https://1ststep.pk/products/baby-fancy-pumps-blue-0710641?variant=51952513417519",
+      "product_id": "11562152526127",
+      "title": "Boy Jogger Shoes Blue 0650725",
+      "url": "https://1ststep.pk/products/baba-jogger-shoes-blue-0650725?variant=52924367503663",
       "kind": "Sold out",
-      "detail": "Blue / 35"
+      "detail": "Blue / 39"
     },
     {
-      "product_id": "10775796547887",
-      "title": "Fancy Pumps Brown 0431413",
-      "url": "https://1ststep.pk/products/fancy-pumps-brown-0431413?variant=51958383280431",
+      "product_id": "12675457155375",
+      "title": "Peshawari Sandal Brown 0141344",
+      "url": "https://1ststep.pk/products/peshawari-sandal-brown-0141344?variant=54236134375727",
       "kind": "Sold out",
-      "detail": "Brown / 37"
+      "detail": "Brown / 43"
     },
     {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017234735",
-      "kind": "Price decreased",
-      "detail": "Black / 36: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017234735",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 36: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017267503",
-      "kind": "Price decreased",
-      "detail": "Black / 37: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017267503",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 37: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017300271",
-      "kind": "Price decreased",
-      "detail": "Black / 38: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017300271",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 38: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017333039",
-      "kind": "Price decreased",
-      "detail": "Black / 39: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017333039",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 39: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017365807",
-      "kind": "Price decreased",
-      "detail": "Black / 40: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017365807",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 40: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017398575",
-      "kind": "Price decreased",
-      "detail": "Black / 41: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636559151",
-      "title": "Casual Slipper Black 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0412165?variant=51975017398575",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 41: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017627951",
-      "kind": "Price decreased",
-      "detail": "Green / 36: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017627951",
-      "kind": "Compare-at price increased",
-      "detail": "Green / 36: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017660719",
-      "kind": "Price decreased",
-      "detail": "Green / 37: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017660719",
-      "kind": "Compare-at price increased",
-      "detail": "Green / 37: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017693487",
-      "kind": "Price decreased",
-      "detail": "Green / 38: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017693487",
-      "kind": "Compare-at price increased",
-      "detail": "Green / 38: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017726255",
-      "kind": "Price decreased",
-      "detail": "Green / 39: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017726255",
-      "kind": "Compare-at price increased",
-      "detail": "Green / 39: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017759023",
-      "kind": "Price decreased",
-      "detail": "Green / 40: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017759023",
-      "kind": "Compare-at price increased",
-      "detail": "Green / 40: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017791791",
-      "kind": "Price decreased",
-      "detail": "Green / 41: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636624687",
-      "title": "Casual Slipper Green 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-green-0412165?variant=51975017791791",
-      "kind": "Compare-at price increased",
-      "detail": "Green / 41: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018021167",
-      "kind": "Price decreased",
-      "detail": "Maroon / 36: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018021167",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 36: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018053935",
-      "kind": "Price decreased",
-      "detail": "Maroon / 37: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018053935",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 37: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018086703",
-      "kind": "Price decreased",
-      "detail": "Maroon / 38: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018086703",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 38: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018119471",
-      "kind": "Price decreased",
-      "detail": "Maroon / 39: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018119471",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 39: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018152239",
-      "kind": "Price decreased",
-      "detail": "Maroon / 40: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018152239",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 40: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018185007",
-      "kind": "Price decreased",
-      "detail": "Maroon / 41: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "10781636690223",
-      "title": "Casual Slipper Maroon 0412165",
-      "url": "https://1ststep.pk/products/casual-slipper-maroon-0412165?variant=51975018185007",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 41: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "10798967750959",
-      "title": "Boy Sneaker Shoes Pink 0640107",
-      "url": "https://1ststep.pk/products/baba-sneaker-shoes-pink-0640107-pink?variant=52034706833711",
-      "kind": "Back in stock",
-      "detail": "Pink / 35"
-    },
-    {
-      "product_id": "10803595870511",
-      "title": "Boy Casual Shoes Black 0610596",
-      "url": "https://1ststep.pk/products/baba-casual-shoes-black-0610596?variant=52050456117551",
+      "product_id": "12692810793263",
+      "title": "Boy Formal Shoes Brown 0610635",
+      "url": "https://1ststep.pk/products/baba-formal-shoes-brown-0610635?variant=54257821581615",
       "kind": "Sold out",
-      "detail": "Black / 37"
-    },
-    {
-      "product_id": "10804380500271",
-      "title": "Girl Fancy Pumps Peach 0710608",
-      "url": "https://1ststep.pk/products/baby-fancy-pumps-peach-0710608?variant=52052431569199",
-      "kind": "Sold out",
-      "detail": "Peach / 32"
-    },
-    {
-      "product_id": "10816385450287",
-      "title": "Women Sneaker Shoes Fawn 0440874",
-      "url": "https://1ststep.pk/products/sneaker-shoes-fawn-0440874?variant=52111286534447",
-      "kind": "Back in stock",
-      "detail": "Fawn / 38"
-    },
-    {
-      "product_id": "10816385876271",
-      "title": "Women Sneaker Shoes White 0440916",
-      "url": "https://1ststep.pk/products/sneaker-shoes-white-0440916?variant=52111288959279",
-      "kind": "Back in stock",
-      "detail": "White / 39"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729425711",
-      "kind": "Price decreased",
-      "detail": "Black / 36: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729425711",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 36: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729458479",
-      "kind": "Price decreased",
-      "detail": "Black / 37: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729458479",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 37: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729491247",
-      "kind": "Price decreased",
-      "detail": "Black / 38: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729491247",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 38: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729524015",
-      "kind": "Price decreased",
-      "detail": "Black / 39: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729524015",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 39: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729556783",
-      "kind": "Price decreased",
-      "detail": "Black / 40: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729556783",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 40: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729589551",
-      "kind": "Price decreased",
-      "detail": "Black / 41: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872484655",
-      "title": "Fancy Slipper Black 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413522?variant=52137729589551",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 41: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729622319",
-      "kind": "Price decreased",
-      "detail": "Fawn / 36: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729622319",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 36: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729655087",
-      "kind": "Price decreased",
-      "detail": "Fawn / 37: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729655087",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 37: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729687855",
-      "kind": "Price decreased",
-      "detail": "Fawn / 38: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729687855",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 38: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729720623",
-      "kind": "Price decreased",
-      "detail": "Fawn / 39: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729720623",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 39: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729753391",
-      "kind": "Price decreased",
-      "detail": "Fawn / 40: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729753391",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 40: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729786159",
-      "kind": "Price decreased",
-      "detail": "Fawn / 41: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872517423",
-      "title": "Fancy Slipper Fawn 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413522?variant=52137729786159",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 41: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729818927",
-      "kind": "Price decreased",
-      "detail": "Maroon / 36: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729818927",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 36: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729851695",
-      "kind": "Price decreased",
-      "detail": "Maroon / 37: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729851695",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 37: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729884463",
-      "kind": "Price decreased",
-      "detail": "Maroon / 38: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729884463",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 38: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729917231",
-      "kind": "Price decreased",
-      "detail": "Maroon / 39: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729917231",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 39: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729949999",
-      "kind": "Price decreased",
-      "detail": "Maroon / 40: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729949999",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 40: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729982767",
-      "kind": "Price decreased",
-      "detail": "Maroon / 41: PKR 3,150.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872550191",
-      "title": "Fancy Slipper Maroon 0413622",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413522?variant=52137729982767",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 41: PKR 4,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730408751",
-      "kind": "Price decreased",
-      "detail": "Black / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730408751",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730441519",
-      "kind": "Price decreased",
-      "detail": "Black / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730441519",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730474287",
-      "kind": "Price decreased",
-      "detail": "Black / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730474287",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730507055",
-      "kind": "Price decreased",
-      "detail": "Black / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730507055",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730539823",
-      "kind": "Price decreased",
-      "detail": "Black / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730539823",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730572591",
-      "kind": "Price decreased",
-      "detail": "Black / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872648495",
-      "title": "Fancy Slipper Black 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413640?variant=52137730572591",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730605359",
-      "kind": "Price decreased",
-      "detail": "Fawn / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730605359",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730638127",
-      "kind": "Price decreased",
-      "detail": "Fawn / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730638127",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730670895",
-      "kind": "Price decreased",
-      "detail": "Fawn / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730670895",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730703663",
-      "kind": "Price decreased",
-      "detail": "Fawn / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730703663",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730736431",
-      "kind": "Price decreased",
-      "detail": "Fawn / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730736431",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730769199",
-      "kind": "Price decreased",
-      "detail": "Fawn / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872681263",
-      "title": "Fancy Slipper Fawn 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413640?variant=52137730769199",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730801967",
-      "kind": "Price decreased",
-      "detail": "Maroon / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730801967",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730834735",
-      "kind": "Price decreased",
-      "detail": "Maroon / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730834735",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730867503",
-      "kind": "Price decreased",
-      "detail": "Maroon / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730867503",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730900271",
-      "kind": "Price decreased",
-      "detail": "Maroon / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730900271",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730933039",
-      "kind": "Price decreased",
-      "detail": "Maroon / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730933039",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730965807",
-      "kind": "Price decreased",
-      "detail": "Maroon / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10821872714031",
-      "title": "Fancy Slipper Maroon 0413640",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413640?variant=52137730965807",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10825936863535",
-      "title": "Girl Casual Pumps Brown 0710660",
-      "url": "https://1ststep.pk/products/baby-casual-pumps-brown-0710660?variant=52149251113263",
-      "kind": "Sold out",
-      "detail": "Brown / 33"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295973896495",
-      "kind": "Price decreased",
-      "detail": "Black / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295973896495",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295973929263",
-      "kind": "Price decreased",
-      "detail": "Black / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295973929263",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295973962031",
-      "kind": "Price decreased",
-      "detail": "Black / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295973962031",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295973994799",
-      "kind": "Price decreased",
-      "detail": "Black / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295973994799",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295974027567",
-      "kind": "Price decreased",
-      "detail": "Black / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295974027567",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295974060335",
-      "kind": "Price decreased",
-      "detail": "Black / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966588719407",
-      "title": "Fancy Slipper Black 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413610?variant=52295974060335",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974715695",
-      "kind": "Price decreased",
-      "detail": "Fawn / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974715695",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974748463",
-      "kind": "Price decreased",
-      "detail": "Fawn / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974748463",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974781231",
-      "kind": "Price decreased",
-      "detail": "Fawn / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974781231",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974813999",
-      "kind": "Price decreased",
-      "detail": "Fawn / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974813999",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974846767",
-      "kind": "Price decreased",
-      "detail": "Fawn / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974846767",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974879535",
-      "kind": "Price decreased",
-      "detail": "Fawn / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966589341999",
-      "title": "Fancy Slipper Fawn 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413610?variant=52295974879535",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975764271",
-      "kind": "Price decreased",
-      "detail": "Maroon / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975764271",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975797039",
-      "kind": "Price decreased",
-      "detail": "Maroon / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975797039",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975829807",
-      "kind": "Price decreased",
-      "detail": "Maroon / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975829807",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975862575",
-      "kind": "Price decreased",
-      "detail": "Maroon / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975862575",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975895343",
-      "kind": "Price decreased",
-      "detail": "Maroon / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975895343",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975928111",
-      "kind": "Price decreased",
-      "detail": "Maroon / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966590095663",
-      "title": "Fancy Slipper Maroon 0413610",
-      "url": "https://1ststep.pk/products/fancy-slipper-maroon-0413610?variant=52295975928111",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173224239",
-      "kind": "Price decreased",
-      "detail": "Silver / 36: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173224239",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 36: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173257007",
-      "kind": "Price decreased",
-      "detail": "Silver / 37: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173257007",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 37: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173289775",
-      "kind": "Price decreased",
-      "detail": "Silver / 38: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173289775",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 38: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173322543",
-      "kind": "Price decreased",
-      "detail": "Silver / 39: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173322543",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 39: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173355311",
-      "kind": "Price decreased",
-      "detail": "Silver / 40: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173355311",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 40: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173388079",
-      "kind": "Price decreased",
-      "detail": "Silver / 41: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786474287",
-      "title": "Fancy Sandal Silver 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421658?variant=52296173388079",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 41: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173846831",
-      "kind": "Price decreased",
-      "detail": "Golden / 36: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173846831",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 36: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173879599",
-      "kind": "Price decreased",
-      "detail": "Golden / 37: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173879599",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 37: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173912367",
-      "kind": "Price decreased",
-      "detail": "Golden / 38: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173912367",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 38: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173945135",
-      "kind": "Price decreased",
-      "detail": "Golden / 39: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173945135",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 39: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173977903",
-      "kind": "Price decreased",
-      "detail": "Golden / 40: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296173977903",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 40: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296174010671",
-      "kind": "Price decreased",
-      "detail": "Golden / 41: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10966786933039",
-      "title": "Fancy Sandal Golden 0421658",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421658?variant=52296174010671",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 41: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197583663",
-      "kind": "Price decreased",
-      "detail": "Silver / 36: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197583663",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 36: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197616431",
-      "kind": "Price decreased",
-      "detail": "Silver / 37: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197616431",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 37: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197649199",
-      "kind": "Price decreased",
-      "detail": "Silver / 38: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197649199",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 38: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197681967",
-      "kind": "Price decreased",
-      "detail": "Silver / 39: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197681967",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 39: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197714735",
-      "kind": "Price decreased",
-      "detail": "Silver / 40: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197714735",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 40: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197747503",
-      "kind": "Price decreased",
-      "detail": "Silver / 41: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083465007",
-      "title": "Fancy Sandal Silver 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421669?variant=52323197747503",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 41: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197780271",
-      "kind": "Price decreased",
-      "detail": "Golden / 36: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197780271",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 36: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197813039",
-      "kind": "Price decreased",
-      "detail": "Golden / 37: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197813039",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 37: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197845807",
-      "kind": "Price decreased",
-      "detail": "Golden / 38: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197845807",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 38: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197878575",
-      "kind": "Price decreased",
-      "detail": "Golden / 39: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197878575",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 39: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197911343",
-      "kind": "Price decreased",
-      "detail": "Golden / 40: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197911343",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 40: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197944111",
-      "kind": "Price decreased",
-      "detail": "Golden / 41: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10987083497775",
-      "title": "Fancy Sandal Golden 0421669",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421669?variant=52323197944111",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 41: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328417984815",
-      "kind": "Price decreased",
-      "detail": "Silver / 41: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328417984815",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 41: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418017583",
-      "kind": "Price decreased",
-      "detail": "Silver / 36: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418017583",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 36: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418050351",
-      "kind": "Price decreased",
-      "detail": "Silver / 37: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418050351",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 37: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418083119",
-      "kind": "Price decreased",
-      "detail": "Silver / 38: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418083119",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 38: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418115887",
-      "kind": "Price decreased",
-      "detail": "Silver / 39: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418115887",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 39: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418148655",
-      "kind": "Price decreased",
-      "detail": "Silver / 40: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687163695",
-      "title": "Fancy Sandal Silver 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421670?variant=52328418148655",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 40: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419197231",
-      "kind": "Price decreased",
-      "detail": "Golden / 36: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419197231",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 36: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419229999",
-      "kind": "Price decreased",
-      "detail": "Golden / 37: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419229999",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 37: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419262767",
-      "kind": "Price decreased",
-      "detail": "Golden / 38: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419262767",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 38: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419295535",
-      "kind": "Price decreased",
-      "detail": "Golden / 39: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419295535",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 39: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419328303",
-      "kind": "Price decreased",
-      "detail": "Golden / 40: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419328303",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 40: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419361071",
-      "kind": "Price decreased",
-      "detail": "Golden / 41: PKR 4,130.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "10988687524143",
-      "title": "Fancy Sandal Golden 0421670",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421670?variant=52328419361071",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 41: PKR 5,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11159397925167",
-      "title": "Girl Fancy Pumps Black 0710658",
-      "url": "https://1ststep.pk/products/baby-fancy-pumps-black-0710658?variant=52507574141231",
-      "kind": "Sold out",
-      "detail": "Black / 33"
-    },
-    {
-      "product_id": "11159401595183",
-      "title": "Girl Jogger Shoes Purple 0750343",
-      "url": "https://1ststep.pk/products/baby-jogger-shoes-purple-0750343?variant=52507580334383",
-      "kind": "Sold out",
-      "detail": "Purple / 18"
-    },
-    {
-      "product_id": "11186536808751",
-      "title": "Boy Jogger Shoes Gray 0650694",
-      "url": "https://1ststep.pk/products/baba-jogger-shoes-gray-0650694",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "11350135406895",
-      "title": "Formal Shoes Black 0111660",
-      "url": "https://1ststep.pk/products/formal-shoes-black-0111660?variant=52705165377839",
-      "kind": "Back in stock",
-      "detail": "Black / 43"
-    },
-    {
-      "product_id": "11515698807087",
-      "title": "Loafer Shoes Dark Brown 0131144",
-      "url": "https://1ststep.pk/products/loafer-shoes-dark-brown-0131144?variant=52874959913263",
-      "kind": "Sold out",
-      "detail": "Dark Brown / 40"
-    },
-    {
-      "product_id": "11515698807087",
-      "title": "Loafer Shoes Dark Brown 0131144",
-      "url": "https://1ststep.pk/products/loafer-shoes-dark-brown-0131144?variant=52874960044335",
-      "kind": "Sold out",
-      "detail": "Dark Brown / 44"
-    },
-    {
-      "product_id": "11515699396911",
-      "title": "Loafer Shoes Khaki 0131144",
-      "url": "https://1ststep.pk/products/loafer-shoes-khaki-0131144?variant=52874960765231",
-      "kind": "Sold out",
-      "detail": "Khaki / 43"
-    },
-    {
-      "product_id": "11515710144815",
-      "title": "Loafer Shoes Gray 0131152",
-      "url": "https://1ststep.pk/products/loafer-shoes-gray-0131152?variant=52874975215919",
-      "kind": "Back in stock",
-      "detail": "Gray / 42"
-    },
-    {
-      "product_id": "11515710144815",
-      "title": "Loafer Shoes Gray 0131152",
-      "url": "https://1ststep.pk/products/loafer-shoes-gray-0131152?variant=52874975281455",
-      "kind": "Sold out",
-      "detail": "Gray / 44"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973480239",
-      "kind": "Price decreased",
-      "detail": "Black / 36: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973480239",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 36: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973513007",
-      "kind": "Price decreased",
-      "detail": "Black / 37: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973513007",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 37: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973545775",
-      "kind": "Price decreased",
-      "detail": "Black / 38: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973545775",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 38: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973578543",
-      "kind": "Price decreased",
-      "detail": "Black / 39: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973578543",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 39: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973611311",
-      "kind": "Price decreased",
-      "detail": "Black / 40: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973611311",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 40: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973644079",
-      "kind": "Price decreased",
-      "detail": "Black / 41: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551580750127",
-      "title": "Fancy Sandal Black 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421652?variant=52912973644079",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 41: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239163183",
-      "kind": "Price decreased",
-      "detail": "Golden / 36: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239163183",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 36: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239195951",
-      "kind": "Price decreased",
-      "detail": "Golden / 37: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239195951",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 37: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239228719",
-      "kind": "Price decreased",
-      "detail": "Golden / 38: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239228719",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 38: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239261487",
-      "kind": "Price decreased",
-      "detail": "Golden / 39: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239261487",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 39: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239294255",
-      "kind": "Price decreased",
-      "detail": "Golden / 40: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239294255",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 40: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239327023",
-      "kind": "Price decreased",
-      "detail": "Golden / 41: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551837684015",
-      "title": "Fancy Sandal Golden 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421652?variant=52913239327023",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 41: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301848367",
-      "kind": "Price decreased",
-      "detail": "Peach / 36: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301848367",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 36: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301881135",
-      "kind": "Price decreased",
-      "detail": "Peach / 37: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301881135",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 37: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301913903",
-      "kind": "Price decreased",
-      "detail": "Peach / 38: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301913903",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 38: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301946671",
-      "kind": "Price decreased",
-      "detail": "Peach / 39: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301946671",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 39: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301979439",
-      "kind": "Price decreased",
-      "detail": "Peach / 40: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913301979439",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 40: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913302012207",
-      "kind": "Price decreased",
-      "detail": "Peach / 41: PKR 3,850.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "11551898370351",
-      "title": "Fancy Sandal Peach 0421652",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421652?variant=52913302012207",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 41: PKR 5,500.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12213301510447",
-      "title": "Casual Shoes Brown 0160673",
-      "url": "https://1ststep.pk/products/casual-shoes-brown-0160673?variant=53758425006383",
-      "kind": "Sold out",
-      "detail": "Brown / 40"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845359407",
-      "kind": "Price decreased",
-      "detail": "Silver / 36: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845359407",
-      "kind": "Compare-at price decreased",
-      "detail": "Silver / 36: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845392175",
-      "kind": "Price decreased",
-      "detail": "Silver / 37: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845392175",
-      "kind": "Compare-at price decreased",
-      "detail": "Silver / 37: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845424943",
-      "kind": "Price decreased",
-      "detail": "Silver / 38: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845424943",
-      "kind": "Compare-at price decreased",
-      "detail": "Silver / 38: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845457711",
-      "kind": "Price decreased",
-      "detail": "Silver / 39: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845457711",
-      "kind": "Compare-at price decreased",
-      "detail": "Silver / 39: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845490479",
-      "kind": "Price decreased",
-      "detail": "Silver / 40: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845490479",
-      "kind": "Compare-at price decreased",
-      "detail": "Silver / 40: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845523247",
-      "kind": "Price decreased",
-      "detail": "Silver / 41: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12584008155439",
-      "title": "Bridal Sandal Silver 0421673",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421673?variant=54140845523247",
-      "kind": "Compare-at price decreased",
-      "detail": "Silver / 41: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12589915046191",
-      "title": "Boy Loafer Shoes Black 0610612",
-      "url": "https://1ststep.pk/products/baba-loafer-shoes-black-0610612?variant=54146846982447",
-      "kind": "Sold out",
-      "detail": "Black / 38"
-    },
-    {
-      "product_id": "12675488416047",
-      "title": "Loafer Shoes Mustard 0131081",
-      "url": "https://1ststep.pk/products/loafer-shoes-mustard-0131081?variant=54236170977583",
-      "kind": "Sold out",
-      "detail": "Mustard / 44"
-    },
-    {
-      "product_id": "12713492054319",
-      "title": "Girl Fancy Sandal Golden 0720984",
-      "url": "https://1ststep.pk/products/baby-fancy-sandal-golden-0720984?variant=54283405001007",
-      "kind": "Sold out",
-      "detail": "Golden / 34"
+      "detail": "Brown / 36"
     },
     {
       "product_id": "12735232966959",
       "title": "Sneaker Shoes Black 0120722",
       "url": "https://1ststep.pk/products/sneaker-shoes-black-0120722?variant=54308546183471",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "Black / 41"
     },
     {
-      "product_id": "12735238078767",
-      "title": "Sneaker Shoes Brown 0120733",
-      "url": "https://1ststep.pk/products/sneaker-shoes-brown-0120733?variant=54308556243247",
-      "kind": "Back in stock",
-      "detail": "Brown / 42"
-    },
-    {
-      "product_id": "12735239717167",
-      "title": "Sneaker Shoes Dark Brown 0120736",
-      "url": "https://1ststep.pk/products/sneaker-shoes-dark-brown-0120736?variant=54308559782191",
-      "kind": "Back in stock",
-      "detail": "Dark Brown / 42"
-    },
-    {
-      "product_id": "12735243944239",
-      "title": "Sneaker Shoes Blue 0120749",
-      "url": "https://1ststep.pk/products/sneaker-shoes-blue-0120749?variant=54308568891695",
+      "product_id": "12920970510639",
+      "title": "Fancy Slipper Olive 0413694",
+      "url": "https://1ststep.pk/products/fancy-slipper-olive-0413694?variant=54500477272367",
       "kind": "Sold out",
-      "detail": "Blue / 42"
+      "detail": "Olive / 38"
     },
     {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778320687",
-      "kind": "Price decreased",
-      "detail": "Black / 36: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778320687",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 36: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778353455",
-      "kind": "Price decreased",
-      "detail": "Black / 37: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778353455",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 37: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778386223",
-      "kind": "Price decreased",
-      "detail": "Black / 38: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778386223",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 38: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778418991",
-      "kind": "Price decreased",
-      "detail": "Black / 39: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778418991",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 39: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778451759",
-      "kind": "Price decreased",
-      "detail": "Black / 40: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778451759",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 40: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778484527",
-      "kind": "Price decreased",
-      "detail": "Black / 41: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738299789615",
-      "title": "Fancy Sandal Black 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421209?variant=54311778484527",
-      "kind": "Compare-at price increased",
-      "detail": "Black / 41: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311778910511",
-      "kind": "Price decreased",
-      "detail": "Peach / 36: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311778910511",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 36: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311778943279",
-      "kind": "Price decreased",
-      "detail": "Peach / 37: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311778943279",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 37: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311778976047",
-      "kind": "Price decreased",
-      "detail": "Peach / 38: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311778976047",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 38: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311779008815",
-      "kind": "Price decreased",
-      "detail": "Peach / 39: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311779008815",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 39: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311779041583",
-      "kind": "Price decreased",
-      "detail": "Peach / 40: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311779041583",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 40: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311779074351",
-      "kind": "Price decreased",
-      "detail": "Peach / 41: PKR 2,730.00 → PKR 2,000.00"
-    },
-    {
-      "product_id": "12738300084527",
-      "title": "Fancy Sandal Peach 0421209",
-      "url": "https://1ststep.pk/products/fancy-sandal-peach-0421209?variant=54311779074351",
-      "kind": "Compare-at price increased",
-      "detail": "Peach / 41: PKR 3,900.00 → PKR 4,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779205423",
-      "kind": "Price decreased",
-      "detail": "Silver / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779205423",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779238191",
-      "kind": "Price decreased",
-      "detail": "Silver / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779238191",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779270959",
-      "kind": "Price decreased",
-      "detail": "Silver / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779270959",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779303727",
-      "kind": "Price decreased",
-      "detail": "Silver / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779303727",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779336495",
-      "kind": "Price decreased",
-      "detail": "Silver / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779336495",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779369263",
-      "kind": "Price decreased",
-      "detail": "Silver / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300182831",
-      "title": "Fancy Sandal Silver 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-silver-0421641?variant=54311779369263",
-      "kind": "Compare-at price increased",
-      "detail": "Silver / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779565871",
-      "kind": "Price decreased",
-      "detail": "Golden / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779565871",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779598639",
-      "kind": "Price decreased",
-      "detail": "Golden / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779598639",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779631407",
-      "kind": "Price decreased",
-      "detail": "Golden / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779631407",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779664175",
-      "kind": "Price decreased",
-      "detail": "Golden / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779664175",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779696943",
-      "kind": "Price decreased",
-      "detail": "Golden / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779696943",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779729711",
-      "kind": "Price decreased",
-      "detail": "Golden / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300412207",
-      "title": "Fancy Sandal Golden 0421641",
-      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421641?variant=54311779729711",
-      "kind": "Compare-at price increased",
-      "detail": "Golden / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311779959087",
-      "kind": "Price decreased",
-      "detail": "Black / 35: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311779959087",
-      "kind": "Compare-at price decreased",
-      "detail": "Black / 35: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311779991855",
-      "kind": "Price decreased",
-      "detail": "Black / 36: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311779991855",
-      "kind": "Compare-at price decreased",
-      "detail": "Black / 36: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311780024623",
-      "kind": "Price decreased",
-      "detail": "Black / 37: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311780024623",
-      "kind": "Compare-at price decreased",
-      "detail": "Black / 37: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311780057391",
-      "kind": "Price decreased",
-      "detail": "Black / 38: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311780057391",
-      "kind": "Compare-at price decreased",
-      "detail": "Black / 38: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311780090159",
-      "kind": "Price decreased",
-      "detail": "Black / 39: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311780090159",
-      "kind": "Compare-at price decreased",
-      "detail": "Black / 39: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311780122927",
-      "kind": "Price decreased",
-      "detail": "Black / 40: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300608815",
-      "title": "Fancy Sandal Black 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-black-0421663?variant=54311780122927",
-      "kind": "Compare-at price decreased",
-      "detail": "Black / 40: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780253999",
-      "kind": "Price decreased",
-      "detail": "Fawn / 35: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780253999",
-      "kind": "Compare-at price decreased",
-      "detail": "Fawn / 35: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780286767",
-      "kind": "Price decreased",
-      "detail": "Fawn / 36: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780286767",
-      "kind": "Compare-at price decreased",
-      "detail": "Fawn / 36: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780319535",
-      "kind": "Price decreased",
-      "detail": "Fawn / 37: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780319535",
-      "kind": "Compare-at price decreased",
-      "detail": "Fawn / 37: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780352303",
-      "kind": "Price decreased",
-      "detail": "Fawn / 38: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780352303",
-      "kind": "Compare-at price decreased",
-      "detail": "Fawn / 38: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780385071",
-      "kind": "Price decreased",
-      "detail": "Fawn / 39: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780385071",
-      "kind": "Compare-at price decreased",
-      "detail": "Fawn / 39: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780417839",
-      "kind": "Price decreased",
-      "detail": "Fawn / 40: PKR 4,830.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "12738300739887",
-      "title": "Fancy Sandal Fawn 0421663",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421663?variant=54311780417839",
-      "kind": "Compare-at price decreased",
-      "detail": "Fawn / 40: PKR 6,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "12739203793199",
-      "title": "Casual Slipper Brown 0413391",
-      "url": "https://1ststep.pk/products/casual-slipper-brown-0413391",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "12739204809007",
-      "title": "Casual Slipper Fawn 0413391",
-      "url": "https://1ststep.pk/products/casual-slipper-fawn-0413391",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "12757695627567",
-      "title": "Casual Slipper Fawn 0413955",
-      "url": "https://1ststep.pk/products/casual-slipper-fawn-0413955",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "12920343331119",
-      "title": "Formal Slipper Fawn 0413573",
-      "url": "https://1ststep.pk/products/formal-slipper-fawn-0413573?variant=54499838722351",
-      "kind": "Sold out",
-      "detail": "Fawn / 40"
-    },
-    {
-      "product_id": "12922415939887",
-      "title": "Casual Slipper Mustard 0413923",
-      "url": "https://1ststep.pk/products/casual-slipper-mustard-0413923",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "12943343386927",
-      "title": "Casual Hand Bag Green 0322186",
-      "url": "https://1ststep.pk/products/casual-hand-bags-green-0322186?variant=54523658567983",
-      "kind": "Sold out",
-      "detail": "Green"
-    },
-    {
-      "product_id": "13011296452911",
-      "title": "Casual Slipper Black 0151339",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0151339?variant=54594437611823",
-      "kind": "Back in stock",
-      "detail": "Black / 40"
-    },
-    {
-      "product_id": "13011468910895",
-      "title": "Formal Shoes Black 0111694",
-      "url": "https://1ststep.pk/products/formal-shoes-black-0111694",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "13055695520047",
-      "title": "Fancy Slipper Olive 0413661",
-      "url": "https://1ststep.pk/products/fancy-slipper-olive-0413661?variant=54666127704367",
-      "kind": "Sold out",
-      "detail": "Olive / 39"
-    },
-    {
-      "product_id": "13055706825007",
-      "title": "Fancy Slipper Black 0413683",
-      "url": "https://1ststep.pk/products/fancy-slipper-black-0413683?variant=54666107650351",
-      "kind": "Sold out",
-      "detail": "Black / 38"
-    },
-    {
-      "product_id": "13073590747439",
-      "title": "Sport Sandal Blue 0141447",
-      "url": "https://1ststep.pk/products/sport-sandal-blue-0141447?variant=54659080716591",
-      "kind": "Sold out",
-      "detail": "Blue / 45"
-    },
-    {
-      "product_id": "13296903258415",
-      "title": "Casual Hand Bag Beige 0322208",
-      "url": "https://1ststep.pk/products/casual-hand-bags-beige-0322208",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "13326411563311",
-      "title": "Casual Sandal\n Brown 0141440",
-      "url": "https://1ststep.pk/products/casual-sandal-brown-0141440?variant=55031855284527",
-      "kind": "Sold out",
-      "detail": "Brown / 41"
-    },
-    {
-      "product_id": "13326413857071",
-      "title": "Casual Sandal\n Mustard 0141440",
-      "url": "https://1ststep.pk/products/casual-sandal-mustard-0141440?variant=55031864131887",
-      "kind": "Back in stock",
-      "detail": "Mustard / 40"
-    },
-    {
-      "product_id": "13327315304751",
-      "title": "Casual Shoes Blue 0160684",
-      "url": "https://1ststep.pk/products/casual-shoes-blue-0160684?variant=55034820002095",
-      "kind": "Sold out",
-      "detail": "Blue / 40"
-    },
-    {
-      "product_id": "13553676812591",
-      "title": "Casual Slipper Gray 0413990",
-      "url": "https://1ststep.pk/products/casual-slipper-gray-0413990?variant=55326966153519",
-      "kind": "Sold out",
-      "detail": "Gray / 39"
-    },
-    {
-      "product_id": "13554576228655",
-      "title": "Casual Slipper Brown 0151397",
-      "url": "https://1ststep.pk/products/casual-slipper-brown-0151397?variant=55327923142959",
-      "kind": "Sold out",
-      "detail": "Brown / 44"
-    },
-    {
-      "product_id": "13604610638127",
-      "title": "Casual Sandal Brown 0141288",
-      "url": "https://1ststep.pk/products/casual-sandal-brown-0141288?variant=55379889914159",
+      "product_id": "13010958647599",
+      "title": "Casual Sandal Brown 0141263",
+      "url": "https://1ststep.pk/products/casual-sandal-brown-0141263?variant=54594090697007",
       "kind": "Sold out",
       "detail": "Brown / 42"
     },
     {
-      "product_id": "13604622991663",
-      "title": "Casual Sandal Black 0141457",
-      "url": "https://1ststep.pk/products/casual-sandal-black-0141457?variant=55379905249583",
+      "product_id": "13073846173999",
+      "title": "Casual Slipper Black 0151342",
+      "url": "https://1ststep.pk/products/casual-slipper-black-0151342?variant=54659342598447",
       "kind": "Sold out",
       "detail": "Black / 44"
     },
     {
-      "product_id": "13605213471023",
-      "title": "Casual Shoes Dark Brown 0160685",
-      "url": "https://1ststep.pk/products/casual-shoes-dark-brown-0160685?variant=55380551369007",
-      "kind": "Back in stock",
-      "detail": "Dark Brown / 43"
-    },
-    {
-      "product_id": "14157485932847",
-      "title": "Casual Slipper Brown 0151411",
-      "url": "https://1ststep.pk/products/casual-slipper-brown-0151411",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658078511",
-      "kind": "Price decreased",
-      "detail": "Fawn / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658078511",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658111279",
-      "kind": "Price decreased",
-      "detail": "Fawn / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658111279",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658144047",
-      "kind": "Price decreased",
-      "detail": "Fawn / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658144047",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658176815",
-      "kind": "Price decreased",
-      "detail": "Fawn / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658176815",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658209583",
-      "kind": "Price decreased",
-      "detail": "Fawn / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658209583",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658242351",
-      "kind": "Price decreased",
-      "detail": "Fawn / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204477276463",
-      "title": "Fancy Sandal Fawn 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-fawn-0421721?variant=56007658242351",
-      "kind": "Compare-at price increased",
-      "detail": "Fawn / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659225391",
-      "kind": "Price decreased",
-      "detail": "Maroon / 36: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659225391",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 36: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659258159",
-      "kind": "Price decreased",
-      "detail": "Maroon / 37: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659258159",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 37: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659290927",
-      "kind": "Price decreased",
-      "detail": "Maroon / 38: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659290927",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 38: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659323695",
-      "kind": "Price decreased",
-      "detail": "Maroon / 39: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659323695",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 39: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659356463",
-      "kind": "Price decreased",
-      "detail": "Maroon / 40: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659356463",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 40: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659389231",
-      "kind": "Price decreased",
-      "detail": "Maroon / 41: PKR 3,430.00 → PKR 3,000.00"
-    },
-    {
-      "product_id": "14204478193967",
-      "title": "Fancy Sandal Maroon 0421721",
-      "url": "https://1ststep.pk/products/fancy-sandal-maroon-0421721?variant=56007659389231",
-      "kind": "Compare-at price increased",
-      "detail": "Maroon / 41: PKR 4,900.00 → PKR 6,000.00"
-    },
-    {
-      "product_id": "14300027060527",
-      "title": "Casual Slipper Mustard 0414004",
-      "url": "https://1ststep.pk/products/casual-slipper-mustard-0414004?variant=56107119280431",
+      "product_id": "13556901478703",
+      "title": "Boy Sport Sandal Fawn 0621060",
+      "url": "https://1ststep.pk/products/baba-sport-sandal-fawn-0621060?variant=55330300657967",
       "kind": "Sold out",
-      "detail": "Mustard / 36"
+      "detail": "Fawn / 36"
     },
     {
-      "product_id": "14300027060527",
-      "title": "Casual Slipper Mustard 0414004",
-      "url": "https://1ststep.pk/products/casual-slipper-mustard-0414004?variant=56107119378735",
+      "product_id": "14148673470767",
+      "title": "Casual Sandal Black 0141372",
+      "url": "https://1ststep.pk/products/casual-sandal-black-0141372?variant=55950097908015",
       "kind": "Sold out",
-      "detail": "Mustard / 39"
+      "detail": "Black / 41"
     },
     {
-      "product_id": "14300752773423",
-      "title": "Casual Sandal Fawn 0421848",
-      "url": "https://1ststep.pk/products/casual-sandal-fawn-0421848?variant=56107867668783",
+      "product_id": "14148718854447",
+      "title": "Casual Slipper Black 0151304",
+      "url": "https://1ststep.pk/products/casual-slipper-black-0151304?variant=55950167965999",
       "kind": "Sold out",
-      "detail": "Fawn / 41"
+      "detail": "Black / 43"
     },
     {
-      "product_id": "14300754772271",
-      "title": "Casual Sandal Fawn 0421849",
-      "url": "https://1ststep.pk/products/casual-sandal-fawn-0421849?variant=56107869962543",
+      "product_id": "16005711331631",
+      "title": "Fancy Sandal Golden 0421837",
+      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421837?variant=57961506308399",
       "kind": "Sold out",
-      "detail": "Fawn / 38"
+      "detail": "Golden / 41"
     },
     {
-      "product_id": "16005695209775",
-      "title": "Fancy Slipper Fawn 0413796",
-      "url": "https://1ststep.pk/products/fancy-slipper-fawn-0413796?variant=57961462300975",
-      "kind": "Sold out",
-      "detail": "Fawn / 40"
-    },
-    {
-      "product_id": "16032669073711",
-      "title": "Casual Shoulder Bag Green 0331761",
-      "url": "https://1ststep.pk/products/casual-shoulder-bag-green-0331761",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "16050106040623",
-      "title": "Casual Sandal Brown 0421873",
-      "url": "https://1ststep.pk/products/casual-sandal-brown-0421873?variant=58149127586095",
-      "kind": "Sold out",
-      "detail": "Brown / 38"
-    },
-    {
-      "product_id": "16050106138927",
-      "title": "Casual Sandal Fawn 0421873",
-      "url": "https://1ststep.pk/products/casual-sandal-fawn-0421873?variant=58149128012079",
+      "product_id": "16050213191983",
+      "title": "Casual Slipper Fawn 0414035",
+      "url": "https://1ststep.pk/products/casual-slipper-fawn-0414035?variant=58149702861103",
       "kind": "Sold out",
       "detail": "Fawn / 37"
     },
     {
-      "product_id": "16054557507887",
-      "title": "Casual Hand Bag Dark Brown 0322300",
-      "url": "https://1ststep.pk/products/casual-hand-bag-dark-brown-0322300",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "16103615463727",
-      "title": "Shoulder Bag Black 0331789",
-      "url": "https://1ststep.pk/products/shoulder-bag-black-0331789",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "16124520366383",
-      "title": "Women Sneaker Shoes Fawn 0441042",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-fawn-0441042?variant=58327055073583",
+      "product_id": "16138794533167",
+      "title": "Casual Slipper Black 0413982",
+      "url": "https://1ststep.pk/products/casual-slipper-black-0413982?variant=58364099002671",
       "kind": "Sold out",
-      "detail": "Fawn / 41"
+      "detail": "Black / 42"
     },
     {
-      "product_id": "16134863225135",
-      "title": "Hand Bag Light Brown 0322317",
-      "url": "https://1ststep.pk/products/hand-bag-light-brown-0322317",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "16176113451311",
-      "title": "Boy Casual Shoes Fawn 0610687",
-      "url": "https://1ststep.pk/products/baba-casual-shoes-fawn-0610687?variant=58489662570799",
+      "product_id": "16200225718575",
+      "title": "Girl Jogger Shoes Purple 0750588",
+      "url": "https://1ststep.pk/products/girl-jogger-shoes-purple-0750588?variant=58613360296239",
       "kind": "Sold out",
-      "detail": "Fawn / 38"
+      "detail": "PURPLE / 26"
     },
     {
-      "product_id": "16186508968239",
-      "title": "Loafer Shoes Black 0131195",
-      "url": "https://1ststep.pk/products/loafer-shoes-black-0131195?variant=58540221006127",
-      "kind": "Sold out",
-      "detail": "Black / 44"
-    },
-    {
-      "product_id": "16186540654895",
-      "title": "Casual Shoes Black 0160694",
-      "url": "https://1ststep.pk/products/casual-shoes-black-0160694?variant=58540273369391",
-      "kind": "Sold out",
-      "detail": "Black / 45"
-    },
-    {
-      "product_id": "16200225784111",
-      "title": "Girl Jogger Shoes Pink 0750588",
-      "url": "https://1ststep.pk/products/girl-jogger-shoes-pink-0750588?variant=58613360918831",
-      "kind": "Sold out",
-      "detail": "PINK / 32"
-    },
-    {
-      "product_id": "16200226013487",
-      "title": "Girl Jogger Shoes Gray 0750591",
-      "url": "https://1ststep.pk/products/girl-jogger-shoes-gray-0750591?variant=58613362950447",
+      "product_id": "16202850304303",
+      "title": "Sneaker Shoes Dark Brown 0120771",
+      "url": "https://1ststep.pk/products/sneaker-shoes-dark-brown-0120771?variant=58620809117999",
       "kind": "Back in stock",
-      "detail": "GRAY / 27"
+      "detail": "Dark Brown / 44"
     },
     {
-      "product_id": "16201897279791",
-      "title": "Casual Court Shoes Maroon 0450229",
-      "url": "https://1ststep.pk/products/casual-court-shoes-maroon-0450229?variant=58618197115183",
+      "product_id": "16202913186095",
+      "title": "Roman Sandal Brown 0141474",
+      "url": "https://1ststep.pk/products/roman-sandal-brown-0141474?variant=58620990161199",
       "kind": "Sold out",
-      "detail": "Maroon / 40"
+      "detail": "Brown / 42"
     },
     {
-      "product_id": "16203564417327",
-      "title": "Casual Shoes Brown 0160715",
-      "url": "https://1ststep.pk/products/casual-shoes-brown-0160715",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "16204941263151",
-      "title": "Boy Formal Shoes Black 0610692",
-      "url": "https://1ststep.pk/products/boy-formal-shoes-black-0610692?variant=58628856512815",
-      "kind": "Back in stock",
-      "detail": "Black / 38"
-    },
-    {
-      "product_id": "16208186704175",
-      "title": "Women Sneaker Shoes Black 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-black-0441073?variant=58639352135983",
-      "kind": "Sold out",
-      "detail": "Black / 38"
-    },
-    {
-      "product_id": "16208186704175",
-      "title": "Women Sneaker Shoes Black 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-black-0441073?variant=58639352168751",
+      "product_id": "16208172515631",
+      "title": "Casual Pumps Black 0431502",
+      "url": "https://1ststep.pk/products/casual-pumps-black-0431502?variant=58639313043759",
       "kind": "Sold out",
       "detail": "Black / 39"
     },
     {
       "product_id": "16208186704175",
       "title": "Women Sneaker Shoes Black 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-black-0441073?variant=58639352201519",
-      "kind": "Sold out",
-      "detail": "Black / 40"
-    },
-    {
-      "product_id": "16208186802479",
-      "title": "Women Sneaker Shoes Fawn 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-fawn-0441073?variant=58639352594735",
-      "kind": "Sold out",
-      "detail": "Fawn / 38"
-    },
-    {
-      "product_id": "16208186802479",
-      "title": "Women Sneaker Shoes Fawn 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-fawn-0441073?variant=58639352627503",
-      "kind": "Sold out",
-      "detail": "Fawn / 39"
-    },
-    {
-      "product_id": "16208186802479",
-      "title": "Women Sneaker Shoes Fawn 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-fawn-0441073?variant=58639352660271",
-      "kind": "Sold out",
-      "detail": "Fawn / 40"
-    },
-    {
-      "product_id": "16208186802479",
-      "title": "Women Sneaker Shoes Fawn 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-fawn-0441073?variant=58639352693039",
-      "kind": "Sold out",
-      "detail": "Fawn / 41"
-    },
-    {
-      "product_id": "16208186900783",
-      "title": "Women Sneaker Shoes Pink 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-pink-0441073?variant=58639352987951",
-      "kind": "Sold out",
-      "detail": "Pink / 37"
-    },
-    {
-      "product_id": "16208186900783",
-      "title": "Women Sneaker Shoes Pink 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-pink-0441073?variant=58639353020719",
-      "kind": "Sold out",
-      "detail": "Pink / 38"
-    },
-    {
-      "product_id": "16208186900783",
-      "title": "Women Sneaker Shoes Pink 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-pink-0441073?variant=58639353053487",
-      "kind": "Sold out",
-      "detail": "Pink / 39"
-    },
-    {
-      "product_id": "16208186900783",
-      "title": "Women Sneaker Shoes Pink 0441073",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-pink-0441073?variant=58639353086255",
-      "kind": "Sold out",
-      "detail": "Pink / 40"
-    },
-    {
-      "product_id": "16214330409263",
-      "title": "Girl Fancy Pumps Black 0710701",
-      "url": "https://1ststep.pk/products/girl-fancy-pumps-black-0710701?variant=58658452472111",
-      "kind": "Back in stock",
-      "detail": "Black / 36"
-    },
-    {
-      "product_id": "16214331130159",
-      "title": "Girl Fancy Pumps Fawn 0710710",
-      "url": "https://1ststep.pk/products/girl-fancy-pumps-fawn-0710710?variant=58658458468655",
-      "kind": "Back in stock",
-      "detail": "Fawn / 27"
-    },
-    {
-      "product_id": "16216676008239",
-      "title": "Casual Pumps Black 0431512",
-      "url": "https://1ststep.pk/products/casual-pumps-black-0431512?variant=58669178421551",
-      "kind": "Back in stock",
-      "detail": "Black / 41"
-    },
-    {
-      "product_id": "16216751079727",
-      "title": "Shoulder Bag Purple 0331859",
-      "url": "https://1ststep.pk/products/shoulder-bag-purple-0331859",
+      "url": "https://1ststep.pk/products/women-sneaker-shoes-black-0441073",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "16220196241711",
-      "title": "Casual Shoes Blue 0160725",
-      "url": "https://1ststep.pk/products/casual-shoes-blue-0160725",
+      "product_id": "16208186802479",
+      "title": "Women Sneaker Shoes Fawn 0441073",
+      "url": "https://1ststep.pk/products/women-sneaker-shoes-fawn-0441073",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "16220196405551",
-      "title": "Casual Shoes Brown 0160727",
-      "url": "https://1ststep.pk/products/casual-shoes-brown-0160727?variant=58687760367919",
-      "kind": "Back in stock",
-      "detail": "Brown / 40"
+      "product_id": "16208186900783",
+      "title": "Women Sneaker Shoes Pink 0441073",
+      "url": "https://1ststep.pk/products/women-sneaker-shoes-pink-0441073",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "16220196405551",
-      "title": "Casual Shoes Brown 0160727",
-      "url": "https://1ststep.pk/products/casual-shoes-brown-0160727?variant=58687760466223",
-      "kind": "Back in stock",
+      "product_id": "16216738562351",
+      "title": "Hand bag Gray 0322362",
+      "url": "https://1ststep.pk/products/hand-bag-gray-0322362",
+      "kind": "New product",
+      "detail": "Price: PKR 3,500.00; available sizes/options: Gray"
+    },
+    {
+      "product_id": "16216738595119",
+      "title": "Hand bag Silver 0322362",
+      "url": "https://1ststep.pk/products/hand-bag-silver-0322362",
+      "kind": "New product",
+      "detail": "Price: PKR 3,500.00; available sizes/options: Silver"
+    },
+    {
+      "product_id": "16216738627887",
+      "title": "Hand bag Golden 0322362",
+      "url": "https://1ststep.pk/products/hand-bag-golden-0322362",
+      "kind": "New product",
+      "detail": "Price: PKR 3,500.00; available sizes/options: Golden"
+    },
+    {
+      "product_id": "16216738660655",
+      "title": "Hand bag Peach 0322362",
+      "url": "https://1ststep.pk/products/hand-bag-peach-0322362",
+      "kind": "New product",
+      "detail": "Price: PKR 3,500.00; available sizes/options: Peach"
+    },
+    {
+      "product_id": "16216738693423",
+      "title": "Hand bag Black 0322363",
+      "url": "https://1ststep.pk/products/hand-bag-black-0322363",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Black"
+    },
+    {
+      "product_id": "16216738726191",
+      "title": "Hand bag Blue 0322363",
+      "url": "https://1ststep.pk/products/hand-bag-blue-0322363",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Blue"
+    },
+    {
+      "product_id": "16216738758959",
+      "title": "Hand bag Maroon 0322363",
+      "url": "https://1ststep.pk/products/hand-bag-maroon-0322363",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Maroon"
+    },
+    {
+      "product_id": "16216738791727",
+      "title": "Hand bag Pink 0322363",
+      "url": "https://1ststep.pk/products/hand-bag-pink-0322363",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Pink"
+    },
+    {
+      "product_id": "16216738857263",
+      "title": "Hand bag Brown 0322364",
+      "url": "https://1ststep.pk/products/hand-bag-brown-0322364",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Brown"
+    },
+    {
+      "product_id": "16216738890031",
+      "title": "Hand bag Black 0322364",
+      "url": "https://1ststep.pk/products/hand-bag-black-0322364",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Black"
+    },
+    {
+      "product_id": "16216738922799",
+      "title": "Hand bag Blue 0322364",
+      "url": "https://1ststep.pk/products/hand-bag-blue-0322364",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Blue"
+    },
+    {
+      "product_id": "16216738988335",
+      "title": "Hand bag Gray 0322364",
+      "url": "https://1ststep.pk/products/hand-bag-gray-0322364",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Gray"
+    },
+    {
+      "product_id": "16216739053871",
+      "title": "Hand bag Maroon 0322364",
+      "url": "https://1ststep.pk/products/hand-bag-maroon-0322364",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Maroon"
+    },
+    {
+      "product_id": "16216739086639",
+      "title": "Hand bag Pink 0322364",
+      "url": "https://1ststep.pk/products/hand-bag-pink-0322364",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Pink"
+    },
+    {
+      "product_id": "16216739152175",
+      "title": "Hand bag Mustard 0322364",
+      "url": "https://1ststep.pk/products/hand-bag-mustard-0322364",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Mustard"
+    },
+    {
+      "product_id": "16216739184943",
+      "title": "Hand bag L.Green 0322364",
+      "url": "https://1ststep.pk/products/hand-bag-l-green-0322364",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: L.Green"
+    },
+    {
+      "product_id": "16216739217711",
+      "title": "Hand bag Brown 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-brown-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Brown"
+    },
+    {
+      "product_id": "16216739250479",
+      "title": "Hand bag Black 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-black-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Black"
+    },
+    {
+      "product_id": "16216739283247",
+      "title": "Hand bag White 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-white-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: White"
+    },
+    {
+      "product_id": "16216739316015",
+      "title": "Hand bag Blue 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-blue-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Blue"
+    },
+    {
+      "product_id": "16216739348783",
+      "title": "Hand bag Fawn 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-fawn-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Fawn"
+    },
+    {
+      "product_id": "16216739381551",
+      "title": "Hand bag Green 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-green-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Green"
+    },
+    {
+      "product_id": "16216739414319",
+      "title": "Hand bag Gray 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-gray-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Gray"
+    },
+    {
+      "product_id": "16216739447087",
+      "title": "Hand bag Maroon 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-maroon-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Maroon"
+    },
+    {
+      "product_id": "16216739479855",
+      "title": "Hand bag Mustard 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-mustard-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: Mustard"
+    },
+    {
+      "product_id": "16216739512623",
+      "title": "Hand bag Light Green 0322368",
+      "url": "https://1ststep.pk/products/hand-bag-light-green-0322368",
+      "kind": "New product",
+      "detail": "Price: PKR 3,200.00; available sizes/options: L.Green"
+    },
+    {
+      "product_id": "16216739545391",
+      "title": "Hand bag Brown 0322372",
+      "url": "https://1ststep.pk/products/hand-bag-brown-0322372",
+      "kind": "New product",
+      "detail": "Price: PKR 2,500.00; available sizes/options: Brown"
+    },
+    {
+      "product_id": "16216739578159",
+      "title": "Hand bag Black 0322372",
+      "url": "https://1ststep.pk/products/hand-bag-black-0322372",
+      "kind": "New product",
+      "detail": "Price: PKR 2,500.00; available sizes/options: Black"
+    },
+    {
+      "product_id": "16216739610927",
+      "title": "Hand bag Blue 0322372",
+      "url": "https://1ststep.pk/products/hand-bag-blue-0322372",
+      "kind": "New product",
+      "detail": "Price: PKR 2,500.00; available sizes/options: Blue"
+    },
+    {
+      "product_id": "16216739643695",
+      "title": "Hand bag Fawn 0322372",
+      "url": "https://1ststep.pk/products/hand-bag-fawn-0322372",
+      "kind": "New product",
+      "detail": "Price: PKR 2,500.00; available sizes/options: Fawn"
+    },
+    {
+      "product_id": "16216739676463",
+      "title": "Hand bag Green 0322372",
+      "url": "https://1ststep.pk/products/hand-bag-green-0322372",
+      "kind": "New product",
+      "detail": "Price: PKR 2,500.00; available sizes/options: Green"
+    },
+    {
+      "product_id": "16216739709231",
+      "title": "Hand bag Golden 0322372",
+      "url": "https://1ststep.pk/products/hand-bag-golden-0322372",
+      "kind": "New product",
+      "detail": "Price: PKR 2,500.00; available sizes/options: Golden"
+    },
+    {
+      "product_id": "16216739741999",
+      "title": "Hand bag Pink 0322372",
+      "url": "https://1ststep.pk/products/hand-bag-pink-0322372",
+      "kind": "New product",
+      "detail": "Price: PKR 2,500.00; available sizes/options: Pink"
+    },
+    {
+      "product_id": "16220187885871",
+      "title": "Boy Loafer Shoes Mustard 0640190",
+      "url": "https://1ststep.pk/products/boy-loafer-shoes-mustard-0640190?variant=58687738741039",
+      "kind": "Sold out",
+      "detail": "Mustard / 26"
+    },
+    {
+      "product_id": "16228989468975",
+      "title": "Casual Shoes Brown 0160732",
+      "url": "https://1ststep.pk/products/casual-shoes-brown-0160732?variant=58727808401711",
+      "kind": "Sold out",
       "detail": "Brown / 43"
     },
     {
-      "product_id": "16229993382191",
-      "title": "Girl Jogger Shoes Pink 0750600",
-      "url": "https://1ststep.pk/products/girl-jogger-shoes-pink-0750600?variant=58735804186927",
-      "kind": "Sold out",
-      "detail": "Pink / 21"
-    },
-    {
-      "product_id": "16233871081775",
-      "title": "Girl Fancy Pumps  Black 0710748",
-      "url": "https://1ststep.pk/products/girl-fancy-pumps-black-0710748?variant=58751936266543",
-      "kind": "Sold out",
-      "detail": "Black / 26"
-    },
-    {
-      "product_id": "16235988549935",
-      "title": "Formal Shoes Black 0111945",
-      "url": "https://1ststep.pk/products/formal-shoes-black-0111945?variant=58760717959471",
-      "kind": "Sold out",
-      "detail": "Black / 40"
-    },
-    {
-      "product_id": "16235988582703",
-      "title": "Formal Shoes Brown 0111946",
-      "url": "https://1ststep.pk/products/formal-shoes-brown-0111946?variant=58760718254383",
+      "product_id": "16228990058799",
+      "title": "Sneaker Shoes Dark Gray 0120776",
+      "url": "https://1ststep.pk/products/sneaker-shoes-dark-gray-0120776?variant=58727809941807",
       "kind": "Back in stock",
-      "detail": "Brown / 43"
+      "detail": "Dark Gray / 45"
     },
     {
-      "product_id": "16235988582703",
-      "title": "Formal Shoes Brown 0111946",
-      "url": "https://1ststep.pk/products/formal-shoes-brown-0111946?variant=58760718287151",
-      "kind": "Back in stock",
-      "detail": "Brown / 44"
-    },
-    {
-      "product_id": "16235988648239",
-      "title": "Formal Shoes Black 0111755",
-      "url": "https://1ststep.pk/products/formal-shoes-black-0111755?variant=58760718811439",
-      "kind": "Back in stock",
+      "product_id": "16228997693743",
+      "title": "Formal Shoes Black 0111837",
+      "url": "https://1ststep.pk/products/formal-shoes-black-0111837?variant=58727878787375",
+      "kind": "Sold out",
       "detail": "Black / 42"
     },
     {
-      "product_id": "16235989434671",
-      "title": "Formal Shoes Brown 0131193",
-      "url": "https://1ststep.pk/products/formal-shoes-brown-0131193?variant=58760722841903",
+      "product_id": "16229008146735",
+      "title": "Casual Slipper White 0414086",
+      "url": "https://1ststep.pk/products/casual-slipper-white-0414086",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: White / 36, White / 37, White / 38, White / 39, White / 40, White / 41"
+    },
+    {
+      "product_id": "16229008212271",
+      "title": "Casual Slipper Fawn 0414086",
+      "url": "https://1ststep.pk/products/casual-slipper-fawn-0414086",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: Fawn / 36, Fawn / 37, Fawn / 38, Fawn / 39, Fawn / 40, Fawn / 41"
+    },
+    {
+      "product_id": "16229008245039",
+      "title": "Casual Slipper Pink 0414086",
+      "url": "https://1ststep.pk/products/casual-slipper-pink-0414086",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: Pink / 36, Pink / 37, Pink / 38, Pink / 39, Pink / 40, Pink / 41"
+    },
+    {
+      "product_id": "16229008277807",
+      "title": "Casual Slipper Mustard 0414086",
+      "url": "https://1ststep.pk/products/casual-slipper-mustard-0414086",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: Mustard / 36, Mustard / 37, Mustard / 38, Mustard / 39, Mustard / 40, Mustard / 41"
+    },
+    {
+      "product_id": "16229008310575",
+      "title": "Casual Slipper Silver 0414127",
+      "url": "https://1ststep.pk/products/casual-slipper-silver-0414127",
+      "kind": "New product",
+      "detail": "Price: PKR 2,730.00; available sizes/options: Silver / 36, Silver / 37, Silver / 38, Silver / 39, Silver / 40, Silver / 41"
+    },
+    {
+      "product_id": "16229008343343",
+      "title": "Casual Slipper Golden 0414127",
+      "url": "https://1ststep.pk/products/casual-slipper-golden-0414127",
+      "kind": "New product",
+      "detail": "Price: PKR 2,730.00; available sizes/options: Golden / 36, Golden / 37, Golden / 38, Golden / 39, Golden / 40, Golden / 41"
+    },
+    {
+      "product_id": "16236007162159",
+      "title": "Light Gold Clutch 0315993",
+      "url": "https://1ststep.pk/products/light-gold-clutch-0315993?variant=58760808628527",
       "kind": "Sold out",
-      "detail": "Brown / 40"
-    },
-    {
-      "product_id": "16236008014127",
-      "title": "Light Gold Clutch 0316008",
-      "url": "https://1ststep.pk/products/light-gold-clutch-0316008",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "16237420052783",
-      "title": "Casual Slipper Brown 0151420",
-      "url": "https://1ststep.pk/products/casual-slipper-brown-0151420",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "16237420347695",
-      "title": "Casual Slipper Black 0151421",
-      "url": "https://1ststep.pk/products/casual-slipper-black-0151421?variant=58768059105583",
-      "kind": "Sold out",
-      "detail": "Black / 41"
-    },
-    {
-      "product_id": "16239264268591",
-      "title": "Moccasin Shoes Fawn 0441085",
-      "url": "https://1ststep.pk/products/moccasin-shoes-fawn-0441085?variant=58779647344943",
-      "kind": "Sold out",
-      "detail": "Fawn / 41"
+      "detail": "Light Gold"
     },
     {
       "product_id": "16240901062959",
       "title": "Casual Shoes Khaki 0160697",
       "url": "https://1ststep.pk/products/casual-shoes-khaki-0160697?variant=58787227926831",
-      "kind": "Sold out",
+      "kind": "Back in stock",
       "detail": "Khaki / 40"
     },
     {
-      "product_id": "16264796242223",
-      "title": "Girl Casual Slipper Pink 0730468",
-      "url": "https://1ststep.pk/products/girl-casual-slipper-pink-0730468?variant=58853348376879",
+      "product_id": "16240901062959",
+      "title": "Casual Shoes Khaki 0160697",
+      "url": "https://1ststep.pk/products/casual-shoes-khaki-0160697?variant=58787227992367",
       "kind": "Sold out",
-      "detail": "Pink / 26"
+      "detail": "Khaki / 42"
     },
     {
-      "product_id": "16265720103215",
-      "title": "Boy Casual Slipper Fawn 0630372",
-      "url": "https://1ststep.pk/products/boy-casual-slipper-fawn-0630372?variant=58854896304431",
+      "product_id": "16240901062959",
+      "title": "Casual Shoes Khaki 0160697",
+      "url": "https://1ststep.pk/products/casual-shoes-khaki-0160697?variant=58787228025135",
       "kind": "Sold out",
-      "detail": "Fawn / 35"
+      "detail": "Khaki / 43"
     },
     {
-      "product_id": "16265720234287",
-      "title": "Boy Casual Slipper Turquoise 0630372",
-      "url": "https://1ststep.pk/products/boy-casual-slipper-turquoise-0630372?variant=58854897156399",
+      "product_id": "16252895133999",
+      "title": "Casual Slipper Brown 0151415",
+      "url": "https://1ststep.pk/products/casual-slipper-brown-0151415?variant=58821299634479",
       "kind": "Sold out",
-      "detail": "Turquoise / 35"
+      "detail": "Brown / 41"
     },
     {
-      "product_id": "16271208972591",
-      "title": "Women Sneaker Shoes Fawn 0441149",
-      "url": "https://1ststep.pk/products/women-sneaker-shoes-fawn-0441149?variant=58877592633647",
+      "product_id": "16252895133999",
+      "title": "Casual Slipper Brown 0151415",
+      "url": "https://1ststep.pk/products/casual-slipper-brown-0151415?variant=58821299667247",
       "kind": "Sold out",
-      "detail": "Fawn / 37"
+      "detail": "Brown / 42"
     },
     {
-      "product_id": "16272891642159",
-      "title": "Sneaker Shoes Gray 0120804",
-      "url": "https://1ststep.pk/products/sneaker-shoes-gray-0120804",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
+      "product_id": "16252895133999",
+      "title": "Casual Slipper Brown 0151415",
+      "url": "https://1ststep.pk/products/casual-slipper-brown-0151415?variant=58821299732783",
+      "kind": "Sold out",
+      "detail": "Brown / 44"
     },
     {
-      "product_id": "16292736860463",
-      "title": "Bridal Sandal Silver 0421387",
-      "url": "https://1ststep.pk/products/bridal-sandal-silver-0421387?variant=59022341636399",
-      "kind": "Back in stock",
-      "detail": "Silver / 36"
+      "product_id": "16252895494447",
+      "title": "Casual Slipper Gray 0151419",
+      "url": "https://1ststep.pk/products/casual-slipper-gray-0151419?variant=58821301862703",
+      "kind": "Sold out",
+      "detail": "Gray / 43"
     },
     {
-      "product_id": "16292737057071",
-      "title": "Bridal Sandal Golden 0421611",
-      "url": "https://1ststep.pk/products/bridal-sandal-golden-0421611?variant=59022342619439",
-      "kind": "Back in stock",
-      "detail": "Golden / 40"
+      "product_id": "16264795750703",
+      "title": "Girl Casual Slipper Black 0730468",
+      "url": "https://1ststep.pk/products/girl-casual-slipper-black-0730468?variant=58853346541871",
+      "kind": "Sold out",
+      "detail": "Black / 29"
     },
     {
-      "product_id": "16294204277039",
-      "title": "Silver Party Clutch 0316026",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316026",
+      "product_id": "16272891871535",
+      "title": "Sneaker Shoes Brown 0120806",
+      "url": "https://1ststep.pk/products/sneaker-shoes-brown-0120806?variant=58884844224815",
+      "kind": "Sold out",
+      "detail": "Brown / 40"
+    },
+    {
+      "product_id": "16282552271151",
+      "title": "Casual Pumps Brown 0431522",
+      "url": "https://1ststep.pk/products/casual-pumps-brown-0431522",
       "kind": "New product",
-      "detail": "Price: PKR 5,320.00; available sizes/options: Silver"
+      "detail": "Price: PKR 3,150.00; available sizes/options: Brown / 36, Brown / 37, Brown / 38, Brown / 39, Brown / 40, Brown / 41"
     },
     {
-      "product_id": "16294204309807",
-      "title": "Peach Party Clutch 0316026",
-      "url": "https://1ststep.pk/products/peach-party-clutch-0316026",
+      "product_id": "16282552369455",
+      "title": "Casual Pumps Black 0431522",
+      "url": "https://1ststep.pk/products/casual-pumps-black-0431522",
       "kind": "New product",
-      "detail": "Price: PKR 5,320.00; available sizes/options: Peach"
+      "detail": "Price: PKR 3,150.00; available sizes/options: Black / 36, Black / 37, Black / 38, Black / 39, Black / 40, Black / 41"
     },
     {
-      "product_id": "16294204375343",
-      "title": "Light Gold Party Clutch 0316026",
-      "url": "https://1ststep.pk/products/light-gold-party-clutch-0316026",
+      "product_id": "16282552598831",
+      "title": "Casual Pumps Fawn 0431522",
+      "url": "https://1ststep.pk/products/casual-pumps-fawn-0431522",
       "kind": "New product",
-      "detail": "Price: PKR 5,320.00; available sizes/options: Light Gold"
+      "detail": "Price: PKR 3,150.00; available sizes/options: Fawn / 36, Fawn / 37, Fawn / 38, Fawn / 39, Fawn / 40, Fawn / 41"
     },
     {
-      "product_id": "16294204440879",
-      "title": "Silver Party Clutch 0316027",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316027",
+      "product_id": "16289996079407",
+      "title": "Sneaker Shoes Black 0120819",
+      "url": "https://1ststep.pk/products/sneaker-shoes-black-0120819",
+      "kind": "New product",
+      "detail": "Price: PKR 8,050.00; available sizes/options: Black / 40, Black / 41, Black / 42, Black / 43, Black / 44, Black / 45"
+    },
+    {
+      "product_id": "16289996177711",
+      "title": "Sneaker Shoes Fawn 0120819",
+      "url": "https://1ststep.pk/products/sneaker-shoes-fawn-0120819",
+      "kind": "New product",
+      "detail": "Price: PKR 8,050.00; available sizes/options: Fawn / 40, Fawn / 41, Fawn / 42, Fawn / 43, Fawn / 44, Fawn / 45"
+    },
+    {
+      "product_id": "16289996243247",
+      "title": "Sneaker Shoes Gray 0120819",
+      "url": "https://1ststep.pk/products/sneaker-shoes-gray-0120819",
+      "kind": "New product",
+      "detail": "Price: PKR 8,050.00; available sizes/options: Gray / 40, Gray / 41, Gray / 42, Gray / 43, Gray / 44, Gray / 45"
+    },
+    {
+      "product_id": "16293895143727",
+      "title": "Fancy Sandal White 0421894",
+      "url": "https://1ststep.pk/products/fancy-sandal-white-0421894",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: White / 36, White / 37, White / 38, White / 39, White / 40, White / 41"
+    },
+    {
+      "product_id": "16293895274799",
+      "title": "Fancy Sandal Golden 0421894",
+      "url": "https://1ststep.pk/products/fancy-sandal-golden-0421894",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: Golden / 36, Golden / 37, Golden / 38, Golden / 39, Golden / 40, Golden / 41"
+    },
+    {
+      "product_id": "16293917163823",
+      "title": "Casual Sandal Black 0421898",
+      "url": "https://1ststep.pk/products/casual-sandal-black-0421898",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: Black / 36, Black / 37, Black / 38, Black / 39, Black / 40, Black / 41"
+    },
+    {
+      "product_id": "16293917229359",
+      "title": "Casual Sandal Silver 0421898",
+      "url": "https://1ststep.pk/products/casual-sandal-silver-0421898",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: Silver / 36, Silver / 37, Silver / 38, Silver / 39, Silver / 40, Silver / 41"
+    },
+    {
+      "product_id": "16293917327663",
+      "title": "Casual Sandal Golden 0421898",
+      "url": "https://1ststep.pk/products/casual-sandal-golden-0421898",
+      "kind": "New product",
+      "detail": "Price: PKR 3,150.00; available sizes/options: Golden / 36, Golden / 37, Golden / 38, Golden / 39, Golden / 40, Golden / 41"
+    },
+    {
+      "product_id": "16294205686063",
+      "title": "Silver Party Clutch 0316040",
+      "url": "https://1ststep.pk/products/silver-party-clutch-0316040",
+      "kind": "New product",
+      "detail": "Price: PKR 5,040.00; available sizes/options: Silver"
+    },
+    {
+      "product_id": "16294205784367",
+      "title": "Golden Party Clutch 0316040",
+      "url": "https://1ststep.pk/products/golden-party-clutch-0316040",
+      "kind": "New product",
+      "detail": "Price: PKR 5,040.00; available sizes/options: Golden"
+    },
+    {
+      "product_id": "16294205849903",
+      "title": "Peach Party Clutch 0316040",
+      "url": "https://1ststep.pk/products/peach-party-clutch-0316040",
+      "kind": "New product",
+      "detail": "Price: PKR 5,040.00; available sizes/options: Peach"
+    },
+    {
+      "product_id": "16294205882671",
+      "title": "Silver Party Clutch 0316041",
+      "url": "https://1ststep.pk/products/silver-party-clutch-0316041",
       "kind": "New product",
       "detail": "Price: PKR 5,250.00; available sizes/options: Silver"
     },
     {
-      "product_id": "16294204506415",
-      "title": "Peach Party Clutch 0316027",
-      "url": "https://1ststep.pk/products/peach-party-clutch-0316027",
-      "kind": "New product",
-      "detail": "Price: PKR 5,250.00; available sizes/options: Peach"
-    },
-    {
-      "product_id": "16294204539183",
-      "title": "Light Gold Party Clutch 0316027",
-      "url": "https://1ststep.pk/products/light-gold-party-clutch-0316027",
-      "kind": "New product",
-      "detail": "Price: PKR 5,250.00; available sizes/options: Light Gold"
-    },
-    {
-      "product_id": "16294204604719",
-      "title": "Silver Party Clutch 0316028",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316028",
-      "kind": "New product",
-      "detail": "Price: PKR 5,250.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294204670255",
-      "title": "Peach Party Clutch 0316028",
-      "url": "https://1ststep.pk/products/peach-party-clutch-0316028",
-      "kind": "New product",
-      "detail": "Price: PKR 5,250.00; available sizes/options: Peach"
-    },
-    {
-      "product_id": "16294204703023",
-      "title": "Light Gold Party Clutch 0316028",
-      "url": "https://1ststep.pk/products/light-gold-party-clutch-0316028",
-      "kind": "New product",
-      "detail": "Price: PKR 5,250.00; available sizes/options: Light Gold"
-    },
-    {
-      "product_id": "16294204735791",
-      "title": "Silver Party Clutch 0316029",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316029",
-      "kind": "New product",
-      "detail": "Price: PKR 5,320.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294204768559",
-      "title": "Golden Party Clutch 0316029",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316029",
-      "kind": "New product",
-      "detail": "Price: PKR 5,320.00; available sizes/options: Golden"
-    },
-    {
-      "product_id": "16294204801327",
-      "title": "Silver Party Clutch 0316030",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316030",
-      "kind": "New product",
-      "detail": "Price: PKR 5,460.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294204866863",
-      "title": "Golden Party Clutch 0316030",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316030",
-      "kind": "New product",
-      "detail": "Price: PKR 5,460.00; available sizes/options: Golden"
-    },
-    {
-      "product_id": "16294204899631",
-      "title": "Silver Party Clutch 0316031",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316031",
-      "kind": "New product",
-      "detail": "Price: PKR 5,530.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294204997935",
-      "title": "Golden Party Clutch 0316031",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316031",
-      "kind": "New product",
-      "detail": "Price: PKR 5,530.00; available sizes/options: Golden"
-    },
-    {
-      "product_id": "16294205063471",
-      "title": "Silver Party Clutch 0316032",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316032",
-      "kind": "New product",
-      "detail": "Price: PKR 5,460.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294205096239",
-      "title": "Golden Party Clutch 0316032",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316032",
-      "kind": "New product",
-      "detail": "Price: PKR 5,460.00; available sizes/options: Golden"
-    },
-    {
-      "product_id": "16294205129007",
-      "title": "Silver Party Clutch 0316033",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316033",
-      "kind": "New product",
-      "detail": "Price: PKR 5,530.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294205194543",
-      "title": "Golden Party Clutch 0316033",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316033",
-      "kind": "New product",
-      "detail": "Price: PKR 5,530.00; available sizes/options: Golden"
-    },
-    {
-      "product_id": "16294205227311",
-      "title": "Silver Party Clutch 0316034",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316034",
-      "kind": "New product",
-      "detail": "Price: PKR 5,530.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294205292847",
-      "title": "Golden Party Clutch 0316034",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316034",
-      "kind": "New product",
-      "detail": "Price: PKR 5,530.00; available sizes/options: Golden"
-    },
-    {
-      "product_id": "16294205325615",
-      "title": "Silver Party Clutch 0316035",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316035",
-      "kind": "New product",
-      "detail": "Price: PKR 5,460.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294205358383",
-      "title": "Golden Party Clutch 0316035",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316035",
-      "kind": "New product",
-      "detail": "Price: PKR 5,460.00; available sizes/options: Golden"
-    },
-    {
-      "product_id": "16294205391151",
-      "title": "Silver Party Clutch 0316036",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316036",
-      "kind": "New product",
-      "detail": "Price: PKR 5,320.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294205423919",
-      "title": "Golden Party Clutch 0316036",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316036",
-      "kind": "New product",
-      "detail": "Price: PKR 5,320.00; available sizes/options: Golden"
-    },
-    {
-      "product_id": "16294205456687",
-      "title": "Silver Party Clutch 0316037",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316037",
-      "kind": "New product",
-      "detail": "Price: PKR 5,250.00; available sizes/options: Silver"
-    },
-    {
-      "product_id": "16294205489455",
-      "title": "Golden Party Clutch 0316037",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316037",
+      "product_id": "16294205948207",
+      "title": "Golden Party Clutch 0316041",
+      "url": "https://1ststep.pk/products/golden-party-clutch-0316041",
       "kind": "New product",
       "detail": "Price: PKR 5,250.00; available sizes/options: Golden"
     },
     {
-      "product_id": "16294205522223",
-      "title": "Silver Party Clutch 0316038",
-      "url": "https://1ststep.pk/products/silver-party-clutch-0316038",
+      "product_id": "16294205980975",
+      "title": "Peach Party Clutch 0316041",
+      "url": "https://1ststep.pk/products/peach-party-clutch-0316041",
       "kind": "New product",
-      "detail": "Price: PKR 5,040.00; available sizes/options: Silver"
+      "detail": "Price: PKR 5,250.00; available sizes/options: Peach"
     },
     {
-      "product_id": "16294205554991",
-      "title": "Golden Party Clutch 0316038",
-      "url": "https://1ststep.pk/products/golden-party-clutch-0316038",
+      "product_id": "16294206013743",
+      "title": "Silver Party Clutch 0316042",
+      "url": "https://1ststep.pk/products/silver-party-clutch-0316042",
       "kind": "New product",
-      "detail": "Price: PKR 5,040.00; available sizes/options: Golden"
+      "detail": "Price: PKR 5,250.00; available sizes/options: Silver"
     },
     {
-      "product_id": "16294205620527",
-      "title": "Peach Party Clutch 0316038",
-      "url": "https://1ststep.pk/products/peach-party-clutch-0316038",
+      "product_id": "16294206046511",
+      "title": "Peach Party Clutch 0316042",
+      "url": "https://1ststep.pk/products/peach-party-clutch-0316042",
       "kind": "New product",
-      "detail": "Price: PKR 5,040.00; available sizes/options: Peach"
+      "detail": "Price: PKR 5,250.00; available sizes/options: Peach"
     },
     {
-      "product_id": "16294261129519",
-      "title": "Silver Casual Clutch 0316039",
-      "url": "https://1ststep.pk/products/silver-casual-clutch-0316039",
+      "product_id": "16294206079279",
+      "title": "Light Gold Party Clutch 0316042",
+      "url": "https://1ststep.pk/products/light-gold-party-clutch-0316042",
       "kind": "New product",
-      "detail": "Price: PKR 5,040.00; available sizes/options: Silver"
+      "detail": "Price: PKR 5,250.00; available sizes/options: Light Gold"
     },
     {
-      "product_id": "16294261293359",
-      "title": "Golden Casual Clutch 0316039",
-      "url": "https://1ststep.pk/products/golden-casual-clutch-0316039",
+      "product_id": "16294206112047",
+      "title": "Silver Party Clutch 0316043",
+      "url": "https://1ststep.pk/products/silver-party-clutch-0316043",
       "kind": "New product",
-      "detail": "Price: PKR 5,040.00; available sizes/options: Golden"
+      "detail": "Price: PKR 5,320.00; available sizes/options: Silver"
     },
     {
-      "product_id": "16294261358895",
-      "title": "Peach Casual Clutch 0316039",
-      "url": "https://1ststep.pk/products/peach-casual-clutch-0316039",
+      "product_id": "16294206144815",
+      "title": "Peach Party Clutch 0316043",
+      "url": "https://1ststep.pk/products/peach-party-clutch-0316043",
       "kind": "New product",
-      "detail": "Price: PKR 5,040.00; available sizes/options: Peach"
+      "detail": "Price: PKR 5,320.00; available sizes/options: Peach"
+    },
+    {
+      "product_id": "16294206210351",
+      "title": "Light Gold Party Clutch 0316043",
+      "url": "https://1ststep.pk/products/light-gold-party-clutch-0316043",
+      "kind": "New product",
+      "detail": "Price: PKR 5,320.00; available sizes/options: Light Gold"
     }
   ]
 }
