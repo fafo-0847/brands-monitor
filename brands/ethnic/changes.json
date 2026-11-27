@@ -1,2080 +1,568 @@
 {
-  "checked_at": "2026-11-26T22:37:14.815454+00:00",
+  "checked_at": "2026-11-27T10:01:55.201855+00:00",
   "baseline_created": false,
-  "product_count": 5115,
-  "change_count": 371,
+  "product_count": 5085,
+  "change_count": 91,
   "changes": [
     {
-      "product_id": "15417987399782",
-      "title": "TROUSERS (E4156-108-804)",
-      "url": "https://pk.ethnc.com/products/western-bottom-e4156-108-804-804",
+      "product_id": "15422042112102",
+      "title": "EMBROIDERED SUIT (E1099-404-004 E1099-304-004)",
+      "url": "https://pk.ethnc.com/products/boutique-suit-e1099-404-004-004-boutique-suit-e1099-304-004-004",
       "kind": "Product updated",
-      "detail": "tags: ['E4156-108-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'Western Bottom', \"Western Bottoms'26\", 'Western trouser', \"Western'26\", 'Women-Western', 'west launch', 'western trousers', 'women', 'women-fp'] → ['E4156-108-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'Western Bottom', \"Western Bottoms'26\", 'Western trouser', \"Western'26\", 'Women-Western', 'west launch', 'western trousers', 'women']",
+      "detail": "tags: [\"Boutique Kids'26\", 'E1099-304-1-shirt-chartify', 'E1099-304-2-trouser-chartify', \"EASTERN KIDS'26\", 'FP', 'FP0925', 'WS26-KIDS', 'boutique kids', 'eastern kids', 'kids'] → [\"Boutique Kids'26\", 'E1099-304-1-shirt-chartify', 'E1099-304-2-trouser-chartify', \"EASTERN KIDS'26\", 'FP', 'FP0925', 'WS26-KIDS', 'boutique kids', 'eastern kids', 'kids', 'kids-fp']",
       "field": "tags",
       "before": [
-        "E4156-108-2-trouser-chartify",
+        "Boutique Kids'26",
+        "E1099-304-1-shirt-chartify",
+        "E1099-304-2-trouser-chartify",
+        "EASTERN KIDS'26",
         "FP",
         "FP0925",
-        "WS-26",
-        "Western Bottom",
-        "Western Bottoms'26",
-        "Western trouser",
-        "Western'26",
-        "Women-Western",
-        "west launch",
-        "western trousers",
-        "women",
-        "women-fp"
+        "WS26-KIDS",
+        "boutique kids",
+        "eastern kids",
+        "kids"
       ],
       "after": [
-        "E4156-108-2-trouser-chartify",
+        "Boutique Kids'26",
+        "E1099-304-1-shirt-chartify",
+        "E1099-304-2-trouser-chartify",
+        "EASTERN KIDS'26",
         "FP",
         "FP0925",
-        "WS-26",
-        "Western Bottom",
-        "Western Bottoms'26",
-        "Western trouser",
-        "Western'26",
-        "Women-Western",
-        "west launch",
-        "western trousers",
-        "women"
+        "WS26-KIDS",
+        "boutique kids",
+        "eastern kids",
+        "kids",
+        "kids-fp"
       ]
     },
     {
-      "product_id": "15422052434022",
-      "title": "TOP (E3761-108-318)",
-      "url": "https://pk.ethnc.com/products/western-top-e3761-108-318-318",
-      "kind": "Product updated",
-      "detail": "tags: ['E3761-108-1-top-chartify', 'FP', 'FP0925', 'WS-26', 'Western Shirt', \"Western Shirt'26\", \"Western'26\", 'Women-Western', 'western tops and tees', 'women'] → ['E3761-108-1-top-chartify', 'FP', 'FP0925', 'WS-26', 'Western Shirt', \"Western Shirt'26\", \"Western'26\", 'Women-Western', 'western tops and tees', 'women', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "E3761-108-1-top-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "Western Shirt",
-        "Western Shirt'26",
-        "Western'26",
-        "Women-Western",
-        "western tops and tees",
-        "women"
-      ],
-      "after": [
-        "E3761-108-1-top-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "Western Shirt",
-        "Western Shirt'26",
-        "Western'26",
-        "Women-Western",
-        "western tops and tees",
-        "women",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "15422060527718",
-      "title": "SOLID SUIT (E9749-102-005)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9749-102-005-005",
-      "kind": "Product updated",
-      "detail": "tags: ['Casual Suit', \"Casual'26\", 'E9749/102-1-shirt-chartify', 'E9749/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern', 'women-fp'] → ['Casual Suit', \"Casual'26\", 'E9749/102-1-shirt-chartify', 'E9749/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern']",
-      "field": "tags",
-      "before": [
-        "Casual Suit",
-        "Casual'26",
-        "E9749/102-1-shirt-chartify",
-        "E9749/102-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ],
-      "after": [
-        "Casual Suit",
-        "Casual'26",
-        "E9749/102-1-shirt-chartify",
-        "E9749/102-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ]
-    },
-    {
-      "product_id": "15422060691558",
-      "title": "PRINTED SUIT (E9852-102-803)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9852-102-803-803",
-      "kind": "Product updated",
-      "detail": "tags: ['E9852-102-803-1-shirt-chartify', 'E9852-102-803-2-trouser-chartify', 'FP', 'FP0925', \"SP SUITS'26\", 'SP Suit', \"SP'26\", 'WS-26', 'women', 'women-eastern'] → ['E9852-102-803-1-shirt-chartify', 'E9852-102-803-2-trouser-chartify', 'FP', 'FP0925', \"SP SUITS'26\", 'SP Suit', \"SP'26\", 'WS-26', 'women', 'women-eastern', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "E9852-102-803-1-shirt-chartify",
-        "E9852-102-803-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "SP SUITS'26",
-        "SP Suit",
-        "SP'26",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ],
-      "after": [
-        "E9852-102-803-1-shirt-chartify",
-        "E9852-102-803-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "SP SUITS'26",
-        "SP Suit",
-        "SP'26",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "6834594480230",
-      "title": "BLAZER (E0481/108/316)",
-      "url": "https://pk.ethnc.com/products/western-outerwear-e0481-108-316-316",
-      "kind": "New product",
-      "detail": "Price: PKR 5,490.00; available sizes/options: XS / Pink"
-    },
-    {
-      "product_id": "6872488902758",
-      "title": "HAIR PINS (E0163/411/998)",
-      "url": "https://pk.ethnc.com/products/kids-hair-accessories-e0163-411-998-998",
+      "product_id": "15422060757094",
+      "title": "EMBROIDERED SUIT (E9855-102-804)",
+      "url": "https://pk.ethnc.com/products/casual-suit-e9855-102-804-804",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "6877465346150",
-      "title": "SOLID TOP (E1246/108/002)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e1246-108-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 1,390.00; available sizes/options: S / off-white, M / off-white, L / off-white"
-    },
-    {
-      "product_id": "6882260877414",
-      "title": "PRINTED DRESS (E0714/401/999)",
-      "url": "https://pk.ethnc.com/products/junior-skirt-e0714-401-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 2,090.00; available sizes/options: 8-9Y / multi, 9-10Y / multi, 10-11Y / multi"
-    },
-    {
-      "product_id": "6882263662694",
-      "title": "PRINTED OVER SHIRT (E1230/108/623)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e1230-108-623-623",
-      "kind": "New product",
-      "detail": "Price: PKR 2,790.00; available sizes/options: XS / dark-blue, S / dark-blue"
-    },
-    {
-      "product_id": "6885189255270",
-      "title": "SHAWL (E0152/111/604)",
-      "url": "https://pk.ethnc.com/products/women-shawl-e0152-111-604-604",
-      "kind": "New product",
-      "detail": "Price: PKR 2,390.00; available sizes/options: FREE / dark-blue"
-    },
-    {
-      "product_id": "6885189845094",
-      "title": "EARRINGS (E0297/110/303)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0297-110-303-303",
-      "kind": "New product",
-      "detail": "Price: PKR 1,890.00; available sizes/options: FREE / maroon"
-    },
-    {
-      "product_id": "6885190893670",
-      "title": "PRINTED DRESS (E1291/108/707)",
-      "url": "https://pk.ethnc.com/products/western-dress-e1291-108-707-707",
-      "kind": "New product",
-      "detail": "Price: PKR 2,390.00; available sizes/options: XS / green"
-    },
-    {
-      "product_id": "6885191024742",
-      "title": "PRINTED DRESS (E1294/108/006)",
-      "url": "https://pk.ethnc.com/products/western-dress-e1294-108-006-006",
-      "kind": "New product",
-      "detail": "Price: PKR 2,790.00; available sizes/options: S / off-white, M / off-white"
-    },
-    {
-      "product_id": "6886867599462",
-      "title": "SOLID BUTTON DOWN SHIRT (E1245/108/002)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e1245-108-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: M / off-white, L / off-white"
-    },
-    {
-      "product_id": "6886867632230",
-      "title": "SOLID BUTTON DOWN SHIRT (E1247/108/002)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e1247-108-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: M / off-white, L / off-white"
-    },
-    {
-      "product_id": "6894879342694",
-      "title": "PRINTED DRESS (E1293/108/901)",
-      "url": "https://pk.ethnc.com/products/western-dress-e1293-108-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 2,790.00; available sizes/options: XS / black, S / black"
-    },
-    {
-      "product_id": "6915809443942",
-      "title": "SOLID V-NECK DRESS (E1204/108/906)",
-      "url": "https://pk.ethnc.com/products/western-dress-e1204-108-906-906",
-      "kind": "New product",
-      "detail": "Price: PKR 3,590.00; available sizes/options: XS / grey"
-    },
-    {
-      "product_id": "6915809902694",
-      "title": "SLEEVELESS SWEATER (E1272/108/003)",
-      "url": "https://pk.ethnc.com/products/western-sweater-e1272-108-003-003",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: XS / off-white"
-    },
-    {
-      "product_id": "6915809935462",
-      "title": "SLEEVELESS SWEATER (E1272/108/902)",
-      "url": "https://pk.ethnc.com/products/western-sweater-e1272-108-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: XS / black, S / black"
-    },
-    {
-      "product_id": "6915810132070",
-      "title": "TURTLE NECK SWEATER (E1276/108/427)",
-      "url": "https://pk.ethnc.com/products/western-sweater-e1276-108-427-427",
-      "kind": "New product",
-      "detail": "Price: PKR 2,590.00; available sizes/options: XS / light-pink, S / light-pink, M / light-pink"
-    },
-    {
-      "product_id": "6932859650150",
-      "title": "SHAWL (E0185/111/520)",
-      "url": "https://pk.ethnc.com/products/women-shawl-e0185-111-520-520",
-      "kind": "New product",
-      "detail": "Price: PKR 1,490.00; available sizes/options: FREE / purple"
-    },
-    {
-      "product_id": "6953816391782",
-      "title": "JEANS (E0965/401/625)",
-      "url": "https://pk.ethnc.com/products/junior-jeans-e0965-401-625-625",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 10-11Y / blue, 11-12Y / blue"
-    },
-    {
-      "product_id": "6953816752230",
-      "title": "JACQUARD TOP (E1048/401/003)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1048-401-003-003",
-      "kind": "New product",
-      "detail": "Price: PKR 1,590.00; available sizes/options: 8-9Y / off-white, 9-10Y / off-white, 10-11Y / off-white"
-    },
-    {
-      "product_id": "7007067177062",
-      "title": "PRINTED TOP (E1052/401/608)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1052-401-608-608",
-      "kind": "New product",
-      "detail": "Price: PKR 1,890.00; available sizes/options: 6-7Y / light-blue, 7-8Y / light-blue"
-    },
-    {
-      "product_id": "7008178307174",
-      "title": "PRINTED TOP (E1042/301/326)",
-      "url": "https://pk.ethnc.com/products/toddler-top-e1042-301-326-326",
-      "kind": "New product",
-      "detail": "Price: PKR 1,490.00; available sizes/options: 12-18M / light-pink"
-    },
-    {
-      "product_id": "7008178339942",
-      "title": "PRINTED TOP (E1042/301/511)",
-      "url": "https://pk.ethnc.com/products/toddler-top-e1042-301-511-511",
-      "kind": "New product",
-      "detail": "Price: PKR 1,490.00; available sizes/options: 12-18M / lilac"
-    },
-    {
-      "product_id": "7009890435174",
-      "title": "CO-ORD SET (E1000/301/628)",
-      "url": "https://pk.ethnc.com/products/toddler-suit-e1000-301-628-628",
-      "kind": "New product",
-      "detail": "Price: PKR 2,150.00; available sizes/options: 12-18M / blue"
-    },
-    {
-      "product_id": "7012636754022",
-      "title": "JEANS (E1106/401/316)",
-      "url": "https://pk.ethnc.com/products/junior-jeans-e1106-401-316-316",
-      "kind": "New product",
-      "detail": "Price: PKR 1,690.00; available sizes/options: 9-10Y / pink, 10-11Y / pink"
-    },
-    {
-      "product_id": "7022481375334",
-      "title": "JEANS (E0961/301/630)",
-      "url": "https://pk.ethnc.com/products/toddler-jeans-e0961-301-630-630",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 12-18M / light-blue"
-    },
-    {
-      "product_id": "7022481703014",
-      "title": "PRINTED TOP (E1046/401/003)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1046-401-003-003",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 8-9Y / off-white"
-    },
-    {
-      "product_id": "7026453938278",
-      "title": "PRINTED TOP (E1045/401/725)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1045-401-725-725",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 8-9Y / green"
-    },
-    {
-      "product_id": "7026454233190",
-      "title": "CHECKERED SHIRT (E1708/108/617)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e1708-108-617-617",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: L / light-blue"
-    },
-    {
-      "product_id": "7026798723174",
-      "title": "EMBROIDERED KURTI (E0008/119/112)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-e0008-119-112-112",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: S / beige"
-    },
-    {
-      "product_id": "7026798821478",
-      "title": "EMBROIDERED KURTI (E0016/119/628)",
-      "url": "https://pk.ethnc.com/products/boho-top-e0016-119-628-628",
-      "kind": "New product",
-      "detail": "Price: PKR 3,490.00; available sizes/options: S / blue"
-    },
-    {
-      "product_id": "7041735360614",
-      "title": "TIGHT (E1038/401/633)",
-      "url": "https://pk.ethnc.com/products/junior-tight-e1038-401-633-633",
-      "kind": "New product",
-      "detail": "Price: PKR 590.00; available sizes/options: 10-11Y / light-blue"
-    },
-    {
-      "product_id": "7055377530982",
-      "title": "EARRINGS (E0333/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0333-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 990.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7055377596518",
-      "title": "EARRINGS (E0336/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0336-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,150.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7055377629286",
-      "title": "EARRINGS (E0337/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0337-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,390.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7081459515494",
-      "title": "EARRINGS (E0356/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0356-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,250.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7141253939302",
-      "title": "EARRINGS (E0405/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0405-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,390.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7183416918118",
-      "title": "DRESS (E0935/301/999)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e0935-301-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 1,090.00; available sizes/options: 12-18M / multi"
-    },
-    {
-      "product_id": "7215515697254",
-      "title": "DRESS (E0938/301/999)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e0938-301-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 1,250.00; available sizes/options: 12-18M / multi"
-    },
-    {
-      "product_id": "7215516057702",
-      "title": "EMBROIDERED TOP (E1044/401/119)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1044-401-119-119",
-      "kind": "New product",
-      "detail": "Price: PKR 1,590.00; available sizes/options: 7-8Y / olive-green, 8-9Y / olive-green"
-    },
-    {
-      "product_id": "7215516352614",
-      "title": "TOP (E1086/301/610)",
-      "url": "https://pk.ethnc.com/products/toddler-top-e1086-301-610-610",
-      "kind": "New product",
-      "detail": "Price: PKR 1,650.00; available sizes/options: 12-18M / light-blue"
-    },
-    {
-      "product_id": "7219455852646",
-      "title": "DRESS (E0907/301/999)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e0907-301-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 1,150.00; available sizes/options: 12-18M / multi, 2-3Y / multi"
-    },
-    {
-      "product_id": "7237300715622",
-      "title": "KURTI (E0070/119/004)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-e0070-119-004-004",
-      "kind": "New product",
-      "detail": "Price: PKR 2,750.00; available sizes/options: XS / off-white, S / off-white"
-    },
-    {
-      "product_id": "7237301502054",
-      "title": "EARRINGS (E0419/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0419-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,390.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7237302747238",
-      "title": "EARRINGS (E0435/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0435-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7237305958502",
-      "title": "SHIRT (E1643/108/214)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e1643-108-214-214",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: S / orange"
-    },
-    {
-      "product_id": "7237306482790",
-      "title": "SHIRT (E1700/108/902)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e1700-108-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: XS / black, S / black"
-    },
-    {
-      "product_id": "7237306679398",
-      "title": "TOP (E1706/108/227)",
-      "url": "https://pk.ethnc.com/products/western-top-e1706-108-227-227",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: XS / light-yellow, S / light-yellow"
-    },
-    {
-      "product_id": "7247344894054",
-      "title": "TOP (E1087/301/426)",
-      "url": "https://pk.ethnc.com/products/toddler-top-e1087-301-426-426",
-      "kind": "New product",
-      "detail": "Price: PKR 1,350.00; available sizes/options: 12-18M / light-pink, 2-3Y / light-pink"
-    },
-    {
-      "product_id": "7285050998886",
-      "title": "TOP (E1077/301/631)",
-      "url": "https://pk.ethnc.com/products/toddler-top-e1077-301-631-631",
-      "kind": "New product",
-      "detail": "Price: PKR 1,650.00; available sizes/options: 12-18M / light-blue"
-    },
-    {
-      "product_id": "7289021628518",
-      "title": "DRESS (E0920/401/001)",
-      "url": "https://pk.ethnc.com/products/junior-top-e0920-401-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 2,750.00; available sizes/options: 5-6Y / white, 6-7Y / white, 7-8Y / white"
-    },
-    {
-      "product_id": "7290666287206",
-      "title": "TOP (E1069/401/113)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1069-401-113-113",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 7-8Y / beige, 8-9Y / beige"
-    },
-    {
-      "product_id": "7312082632806",
-      "title": "DRESS (E0952/301/421)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e0952-301-421-421",
-      "kind": "New product",
-      "detail": "Price: PKR 1,650.00; available sizes/options: 12-18M / light-pink"
-    },
-    {
-      "product_id": "7333404442726",
-      "title": "PRINTED DRESS (E0934/301/001)",
-      "url": "https://pk.ethnc.com/products/toddler-top-e0934-301-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 1,650.00; available sizes/options: 12-18M / white"
-    },
-    {
-      "product_id": "7333404901478",
-      "title": "TOP (E1065/401/422)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1065-401-422-422",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 7-8Y / light-pink"
-    },
-    {
-      "product_id": "7342871511142",
-      "title": "DRESS (E0930/401/001)",
-      "url": "https://pk.ethnc.com/products/junior-dress-e0930-401-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 2,250.00; available sizes/options: 6-7Y / white, 7-8Y / white"
-    },
-    {
-      "product_id": "7345444159590",
-      "title": "EARRINGS (E0470/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0470-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 2,590.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7345444618342",
-      "title": "EARRINGS (E0477/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e0477-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 2,590.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7345448845414",
-      "title": "EARRINGS (E2406/110/301)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e2406-110-301-301",
-      "kind": "New product",
-      "detail": "Price: PKR 1,190.00; available sizes/options: FREE / red"
-    },
-    {
-      "product_id": "7345448878182",
-      "title": "EARRINGS (E2407/110/101)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e2407-110-101-101",
-      "kind": "New product",
-      "detail": "Price: PKR 1,190.00; available sizes/options: FREE / yellow"
-    },
-    {
-      "product_id": "7345448943718",
-      "title": "EARRINGS (E2408/110/708)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e2408-110-708-708",
-      "kind": "New product",
-      "detail": "Price: PKR 1,190.00; available sizes/options: FREE / green"
-    },
-    {
-      "product_id": "7345449369702",
-      "title": "EARRINGS (E2416/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e2416-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,590.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7345449435238",
-      "title": "EARRINGS (E2417/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e2417-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,890.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7345449697382",
-      "title": "EARRINGS (E2422/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e2422-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,590.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7345449795686",
-      "title": "EARRINGS (E2423/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e2423-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,590.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7345449828454",
-      "title": "EARRINGS (E2424/110/131)",
-      "url": "https://pk.ethnc.com/products/women-earrings-e2424-110-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 2,990.00; available sizes/options: FREE / gold"
-    },
-    {
-      "product_id": "7354536099942",
-      "title": "PRINTED TOP (E1066/401/419)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1066-401-419-419",
-      "kind": "New product",
-      "detail": "Price: PKR 2,250.00; available sizes/options: 07-08Y / pink"
-    },
-    {
-      "product_id": "7368096677990",
-      "title": "EMBROIDERED KURTI (E0176/119/001)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-e0176-119-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 2,750.00; available sizes/options: S / white"
-    },
-    {
-      "product_id": "7368098709606",
-      "title": "DRESS (E0930/301/005)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e0930-301-005-005",
-      "kind": "New product",
-      "detail": "Price: PKR 1,490.00; available sizes/options: 12-18M / off-white"
-    },
-    {
-      "product_id": "7368098971750",
-      "title": "PRINTED DRESS (E0989/301/422)",
-      "url": "https://pk.ethnc.com/products/toddler-jumpsuit-e0989-301-422-422",
-      "kind": "New product",
-      "detail": "Price: PKR 1,450.00; available sizes/options: 12-18M / light-pink"
-    },
-    {
-      "product_id": "7368099233894",
-      "title": "PRINTED SHIRT (E1080/401/002)",
-      "url": "https://pk.ethnc.com/products/junior-shirt-e1080-401-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 1,450.00; available sizes/options: 8-9Y / off-white"
-    },
-    {
-      "product_id": "7368099299430",
-      "title": "TOP (E1085/401/426)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1085-401-426-426",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 8-9Y / light-pink, 9-10Y / light-pink, 10-11Y / light-pink, 11-12Y / light-pink"
-    },
-    {
-      "product_id": "7383835344998",
-      "title": "DRESS (E0935/401/001)",
-      "url": "https://pk.ethnc.com/products/junior-dress-e0935-401-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 2,350.00; available sizes/options: 5-6Y / white, 7-8Y / white, 8-9Y / white"
-    },
-    {
-      "product_id": "7383835639910",
-      "title": "DRESS (E0952/401/609)",
-      "url": "https://pk.ethnc.com/products/junior-dress-e0952-401-609-609",
-      "kind": "New product",
-      "detail": "Price: PKR 2,990.00; available sizes/options: 6-7Y / light-blue, 7-8Y / light-blue"
-    },
-    {
-      "product_id": "7385554026598",
-      "title": "SHAWL (E0318/111/815)",
-      "url": "https://pk.ethnc.com/products/women-shawl-e0318-111-815-815",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: FREE / brown"
-    },
-    {
-      "product_id": "7427604873318",
-      "title": "SHOES (E0061/409/529)",
-      "url": "https://pk.ethnc.com/products/shoes-e0061-409-529-529",
-      "kind": "New product",
-      "detail": "Price: PKR 3,690.00; available sizes/options: 33 / lilac"
-    },
-    {
-      "product_id": "7427605102694",
-      "title": "SHOES (E0062/409/426)",
-      "url": "https://pk.ethnc.com/products/shoes-e0062-409-426-426?variant=43332639064166",
+      "product_id": "7432433008742",
+      "title": "TROUSER (E1237/401/316)",
+      "url": "https://pk.ethnc.com/products/junior-trouser-e1237-401-316-316?variant=43332551737446",
       "kind": "Sold out",
-      "detail": "36 / light-pink"
+      "detail": "7-8Y / pink"
     },
     {
-      "product_id": "7427605168230",
-      "title": "SHOES (E0062/409/511)",
-      "url": "https://pk.ethnc.com/products/shoes-e0062-409-511-511?variant=43332638736486",
+      "product_id": "7543036215398",
+      "title": "EMBROIDERED SUIT (E3034/103/002)",
+      "url": "https://pk.ethnc.com/products/rozana-suit-e3034-103-002-002?variant=42520305336422",
       "kind": "Sold out",
-      "detail": "32 / lilac"
+      "detail": "L / Off White"
     },
     {
-      "product_id": "7427605168230",
-      "title": "SHOES (E0062/409/511)",
-      "url": "https://pk.ethnc.com/products/shoes-e0062-409-511-511?variant=43332638867558",
+      "product_id": "7543529406566",
+      "title": "SNEAKERS (E0086/409/316)",
+      "url": "https://pk.ethnc.com/products/sneakers-e0086-409-316-316?variant=42456775852134",
       "kind": "Sold out",
-      "detail": "36 / lilac"
+      "detail": "36 / Pink"
     },
     {
-      "product_id": "7427605692518",
-      "title": "PUMPS (E0064/409/919)",
-      "url": "https://pk.ethnc.com/products/pumps-e0064-409-919-919",
-      "kind": "New product",
-      "detail": "Price: PKR 2,790.00; available sizes/options: 36 / silver"
-    },
-    {
-      "product_id": "7427605889126",
-      "title": "PUMPS (E0065/409/301)",
-      "url": "https://pk.ethnc.com/products/pumps-e0065-409-301-301",
-      "kind": "New product",
-      "detail": "Price: PKR 2,390.00; available sizes/options: 35 / red"
-    },
-    {
-      "product_id": "7427605921894",
-      "title": "PUMPS (E0065/409/401)",
-      "url": "https://pk.ethnc.com/products/pumps-e0065-409-401-401",
-      "kind": "New product",
-      "detail": "Price: PKR 2,390.00; available sizes/options: 33 / pink, 35 / pink"
-    },
-    {
-      "product_id": "7427606151270",
-      "title": "PUMPS (E0066/309/413)",
-      "url": "https://pk.ethnc.com/products/pumps-e0066-309-413-413",
-      "kind": "New product",
-      "detail": "Price: PKR 2,290.00; available sizes/options: 27 / pink, 30 / pink"
-    },
-    {
-      "product_id": "7427606839398",
-      "title": "PUMPS (E0068/409/901)",
-      "url": "https://pk.ethnc.com/products/pumps-e0068-409-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 3,790.00; available sizes/options: 31 / black"
-    },
-    {
-      "product_id": "7427608608870",
-      "title": "DRESS (E1203/301/902)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e1203-301-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 4,490.00; available sizes/options: 12-18M / black, 3-4Y / black"
-    },
-    {
-      "product_id": "7427609395302",
-      "title": "DRESS (E1209/301/002)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e1209-301-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: 12-18M / off-white"
-    },
-    {
-      "product_id": "7427611197542",
-      "title": "SWEATSHIRT (E1225/401/301)",
-      "url": "https://pk.ethnc.com/products/junior-sweat-shirt-e1225-401-301-301",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 9-10Y / red"
-    },
-    {
-      "product_id": "7427611394150",
-      "title": "SWEATSHIRT (E1233/401/513)",
-      "url": "https://pk.ethnc.com/products/junior-sweat-shirt-e1233-401-513-513",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: 8-9Y / lilac, 9-10Y / lilac"
-    },
-    {
-      "product_id": "7427611983974",
-      "title": "EMBROIDERED TOP (E1250/401/902)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1250-401-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 8-9Y / black, 10-11Y / black"
-    },
-    {
-      "product_id": "7427612934246",
-      "title": "EMBROIDERED TOP (E1259/401/003)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1259-401-003-003",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 6-7Y / off-white, 9-10Y / off-white, 10-11Y / off-white"
-    },
-    {
-      "product_id": "7427614441574",
-      "title": "BLAZER (E2017/108/901)",
-      "url": "https://pk.ethnc.com/products/western-long-coat-e2017-108-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 6,990.00; available sizes/options: S / black"
-    },
-    {
-      "product_id": "7427618439270",
-      "title": "SWEATER (E2079/108/710)",
-      "url": "https://pk.ethnc.com/products/western-sweater-e2079-108-710-710",
-      "kind": "New product",
-      "detail": "Price: PKR 2,990.00; available sizes/options: XS / green, S / green, M / green"
-    },
-    {
-      "product_id": "7427618504806",
-      "title": "SWEATER (E2079/108/902)",
-      "url": "https://pk.ethnc.com/products/western-sweater-e2079-108-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 2,990.00; available sizes/options: XS / black"
-    },
-    {
-      "product_id": "7427618603110",
-      "title": "SWEATER (E2081/108/132)",
-      "url": "https://pk.ethnc.com/products/western-sweater-e2081-108-132-132",
-      "kind": "New product",
-      "detail": "Price: PKR 3,190.00; available sizes/options: XS / yellow"
-    },
-    {
-      "product_id": "7427803676774",
-      "title": "TEXTURED SUIT (E5126/102/405)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e5126-102-405-405",
-      "kind": "New product",
-      "detail": "Price: PKR 3,990.00; available sizes/options: XS / magenta"
-    },
-    {
-      "product_id": "7432433238118",
-      "title": "TROUSER (E1242/401/122)",
-      "url": "https://pk.ethnc.com/products/junior-trouser-e1242-401-122-122",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 7-8Y / olive-green, 10-11Y / olive-green"
-    },
-    {
-      "product_id": "7432433500262",
-      "title": "TROUSER (E1244/401/004)",
-      "url": "https://pk.ethnc.com/products/junior-trouser-e1244-401-004-004",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 6-7Y / off-white, 7-8Y / off-white, 9-10Y / off-white"
-    },
-    {
-      "product_id": "7432434450534",
-      "title": "EMBROIDERED TOP (E1258/401/901)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1258-401-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 7-8Y / black, 8-9Y / black"
-    },
-    {
-      "product_id": "7445659811942",
-      "title": "SHAWL (E0321/111/226)",
-      "url": "https://pk.ethnc.com/products/women-shawl-e0321-111-226-226",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: FREE / light-yellow"
-    },
-    {
-      "product_id": "7445661089894",
-      "title": "SHAWL (E0335/111/311)",
-      "url": "https://pk.ethnc.com/products/women-shawl-e0335-111-311-311",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: FREE / pink"
-    },
-    {
-      "product_id": "7445663809638",
-      "title": "EMBROIDERED TOP (E1220/301/901)",
-      "url": "https://pk.ethnc.com/products/toddler-shirt-e1220-301-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 12-18M / black"
-    },
-    {
-      "product_id": "7458737455206",
-      "title": "SANDAL (E0860/109/901)",
-      "url": "https://pk.ethnc.com/products/sandal-e0860-109-901-901?variant=43332464476262",
+      "product_id": "7543529734246",
+      "title": "SNEAKERS (E0087/409/131)",
+      "url": "https://pk.ethnc.com/products/sneakers-e0087-409-131-131?variant=42456776900710",
       "kind": "Sold out",
-      "detail": "39 / black"
-    },
-    {
-      "product_id": "7485826170982",
-      "title": "DRESS (E1206/301/999)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e1206-301-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 1,490.00; available sizes/options: 12-18M / multi"
-    },
-    {
-      "product_id": "7485826760806",
-      "title": "TROUSER (E1238/401/001)",
-      "url": "https://pk.ethnc.com/products/junior-trouser-e1238-401-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 1,590.00; available sizes/options: 06-07Y / white"
-    },
-    {
-      "product_id": "7485827350630",
-      "title": "DRESS (E2001/108/999)",
-      "url": "https://pk.ethnc.com/products/western-dress-e2001-108-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 2,400.00; available sizes/options: M / multi"
-    },
-    {
-      "product_id": "7488105775206",
-      "title": "DRESS (E1207/301/999)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e1207-301-999-999",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7532729532518",
-      "title": "EMBROIDERED KAFTAN (E3010/103/403)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e3010-103-403-403",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7542521462886",
-      "title": "EMBROIDERED KURTI (S1E0473/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-s1e0473-119-902-902",
-      "kind": "Product updated",
-      "detail": "tags: ['AugSaleWomenALL06August2025', 'AugSaleWomenBoho06August2025', 'AugSaleWomenPret06August2025', \"BOHO CAMPAIGN '25 LOOKBOOK\", \"BOHO'25\", 'Boho', 'DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenBoho23Dec2025', 'FR Sale 60-70', 'JULSMSS25', 'New-In boho', \"PRET SS'25\", 'PartSaleUpto50%WomenALL16April2025', 'PartSaleUpto50%WomenBoho16April2025', 'PartSaleUpto50%WomenPret16April2025', 'S1E0473/119/902-1-Shirt-SimplifiedSizechart', 'SS-25', 'SummerSaleWomenALL18June2025', 'SummerSaleWomenBoho18June2025', 'SummerSaleWomenPret18June2025', 'WOMEN-F.P', 'Women', 'Women New In', 'boho kurti', 'boho-Full Price', 'east-meets-west', 'women-sale'] → ['AugSaleWomenALL06August2025', 'AugSaleWomenBoho06August2025', 'AugSaleWomenPret06August2025', \"BOHO CAMPAIGN '25 LOOKBOOK\", \"BOHO'25\", 'Boho', 'DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenBoho23Dec2025', 'FR Sale 60-70', 'JULSMSS25', 'New-In boho', \"PRET SS'25\", 'PartSaleUpto50%WomenALL16April2025', 'PartSaleUpto50%WomenBoho16April2025', 'PartSaleUpto50%WomenPret16April2025', 'S1E0473/119/902-1-Shirt-SimplifiedSizechart', 'SS-25', 'SummerSaleWomenALL18June2025', 'SummerSaleWomenBoho18June2025', 'SummerSaleWomenPret18June2025', 'WOMEN-F.P', 'Women', 'Women New In', 'boho kurti', 'boho-Full Price', 'east-meets-west']",
-      "field": "tags",
-      "before": [
-        "AugSaleWomenALL06August2025",
-        "AugSaleWomenBoho06August2025",
-        "AugSaleWomenPret06August2025",
-        "BOHO CAMPAIGN '25 LOOKBOOK",
-        "BOHO'25",
-        "Boho",
-        "DIS0925",
-        "DecSaleWomenALL23Dec2025",
-        "DecSaleWomenBoho23Dec2025",
-        "FR Sale 60-70",
-        "JULSMSS25",
-        "New-In boho",
-        "PRET SS'25",
-        "PartSaleUpto50%WomenALL16April2025",
-        "PartSaleUpto50%WomenBoho16April2025",
-        "PartSaleUpto50%WomenPret16April2025",
-        "S1E0473/119/902-1-Shirt-SimplifiedSizechart",
-        "SS-25",
-        "SummerSaleWomenALL18June2025",
-        "SummerSaleWomenBoho18June2025",
-        "SummerSaleWomenPret18June2025",
-        "WOMEN-F.P",
-        "Women",
-        "Women New In",
-        "boho kurti",
-        "boho-Full Price",
-        "east-meets-west",
-        "women-sale"
-      ],
-      "after": [
-        "AugSaleWomenALL06August2025",
-        "AugSaleWomenBoho06August2025",
-        "AugSaleWomenPret06August2025",
-        "BOHO CAMPAIGN '25 LOOKBOOK",
-        "BOHO'25",
-        "Boho",
-        "DIS0925",
-        "DecSaleWomenALL23Dec2025",
-        "DecSaleWomenBoho23Dec2025",
-        "FR Sale 60-70",
-        "JULSMSS25",
-        "New-In boho",
-        "PRET SS'25",
-        "PartSaleUpto50%WomenALL16April2025",
-        "PartSaleUpto50%WomenBoho16April2025",
-        "PartSaleUpto50%WomenPret16April2025",
-        "S1E0473/119/902-1-Shirt-SimplifiedSizechart",
-        "SS-25",
-        "SummerSaleWomenALL18June2025",
-        "SummerSaleWomenBoho18June2025",
-        "SummerSaleWomenPret18June2025",
-        "WOMEN-F.P",
-        "Women",
-        "Women New In",
-        "boho kurti",
-        "boho-Full Price",
-        "east-meets-west"
-      ]
-    },
-    {
-      "product_id": "7542521462886",
-      "title": "EMBROIDERED KURTI (S1E0473/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-s1e0473-119-902-902?variant=42454527803494",
-      "kind": "Sold out",
-      "detail": "S / Black"
-    },
-    {
-      "product_id": "7543029989478",
-      "title": "BUTTON DOWN SHIRT (E2380/108/001)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2380-108-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: None"
-    },
-    {
-      "product_id": "7543032971366",
-      "title": "SHIRT (E2494/108/326)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2494-108-326-326",
-      "kind": "New product",
-      "detail": "Price: PKR 2,990.00; available sizes/options: S / Light Pink, M / Light Pink"
-    },
-    {
-      "product_id": "7543033397350",
-      "title": "BUTTON DOWN CROPPED SHIRT (E2527/108/902)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2527-108-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: XS / Black"
-    },
-    {
-      "product_id": "7543039918182",
-      "title": "EMBROIDERED SUIT (E3100/103/402)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e3100-103-402-402?variant=42520304681062",
-      "kind": "Sold out",
-      "detail": "L / Magenta"
-    },
-    {
-      "product_id": "7543040213094",
-      "title": "EMBROIDERED SUIT (E3101/103/902)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e3101-103-902-902",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7543051714662",
-      "title": "TROUSER (S1E0437/119/002)",
-      "url": "https://pk.ethnc.com/products/boho-trouser-s1e0437-119-002-002",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7543528259686",
-      "title": "KHOLA PURI (E0073/409/529)",
-      "url": "https://pk.ethnc.com/products/khola-puri-e0073-409-529-529?variant=42456771395686",
-      "kind": "Sold out",
-      "detail": "35 / Lilac"
-    },
-    {
-      "product_id": "7543528751206",
-      "title": "SNEAKERS (E0075/309/511)",
-      "url": "https://pk.ethnc.com/products/sneakers-e0075-309-511-511?variant=42456773296230",
-      "kind": "Sold out",
-      "detail": "28 / Lilac"
-    },
-    {
-      "product_id": "7543530029158",
-      "title": "SNEAKERS (E0088/409/401)",
-      "url": "https://pk.ethnc.com/products/sneakers-e0088-409-401-401?variant=42456777687142",
-      "kind": "Sold out",
-      "detail": "31 / Pink"
-    },
-    {
-      "product_id": "7543540809830",
-      "title": "CO-ORD SET (E1511/401/608)",
-      "url": "https://pk.ethnc.com/products/junior-suit-e1511-401-608-608",
-      "kind": "New product",
-      "detail": "Price: PKR 2,090.00; available sizes/options: 9-10Y / Light Blue, 10-11Y / Light Blue"
+      "detail": "36 / Gold"
     },
     {
       "product_id": "7543540940902",
       "title": "CO-ORD SET (E1523/301/630)",
       "url": "https://pk.ethnc.com/products/toddler-suit-e1523-301-630-630",
-      "kind": "New product",
-      "detail": "Price: PKR 3,490.00; available sizes/options: 12-18M / Light Blue"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7543541792870",
       "title": "TROUSER (E1579/401/002)",
       "url": "https://pk.ethnc.com/products/junior-trouser-e1579-401-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 990.00; available sizes/options: 9-10Y / Off White"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7545700876390",
-      "title": "SUN KISSED (E0029/112/999)",
-      "url": "https://pk.ethnc.com/products/women-body-mist-e0029-112-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 600.00; available sizes/options: 150 ML / multi"
-    },
-    {
-      "product_id": "7545703694438",
-      "title": "SOLID SUIT (E0662/116/902)",
-      "url": "https://pk.ethnc.com/products/basic-suit-e0662-116-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 3,990.00; available sizes/options: M / Black"
-    },
-    {
-      "product_id": "7545704743014",
-      "title": "DRESS (E2291/108/413)",
-      "url": "https://pk.ethnc.com/products/western-dress-e2291-108-413-413",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: XS / Pink"
+      "product_id": "7545379848294",
+      "title": "HAIR ACCESSORIES (E0198/411/633)",
+      "url": "https://pk.ethnc.com/products/hair-accessories-e0198-411-633-633",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7545704972390",
       "title": "BUTTON DOWN STRIPED SHIRT (E2325/108/628)",
       "url": "https://pk.ethnc.com/products/western-shirt-e2325-108-628-628",
-      "kind": "New product",
-      "detail": "Price: PKR 1,290.00; available sizes/options: S / Blue"
+      "kind": "Product updated",
+      "detail": "tags: ['DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenStudio23Dec2025', 'DecSaleWomenWestern23Dec2025', 'E2325/108/412-1-Shirt-SimplifiedSizechart', 'New-In Western', \"ONGOING SS'25\", \"PRET SS'25\", 'SS-25', 'SummerSaleWomenALL18June2025', 'SummerSaleWomenPret18June2025', 'SummerSaleWomenWestern18June2025', 'WOMEN-F.P', 'Western', 'Western shirt', \"Western'25\", 'Western-Full Price', 'Women', 'Women New In', 'one piece pret', 'shirt western 25', \"western shirt'25\", \"western summer'25\", 'women-sale', 'women-western'] → ['DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenStudio23Dec2025', 'DecSaleWomenWestern23Dec2025', 'E2325/108/412-1-Shirt-SimplifiedSizechart', 'New-In Western', \"ONGOING SS'25\", \"PRET SS'25\", 'SS-25', 'SummerSaleWomenALL18June2025', 'SummerSaleWomenPret18June2025', 'SummerSaleWomenWestern18June2025', 'WOMEN-F.P', 'Western', 'Western shirt', \"Western'25\", 'Western-Full Price', 'Women', 'Women New In', 'one piece pret', 'shirt western 25', \"western shirt'25\", \"western summer'25\", 'women-western']",
+      "field": "tags",
+      "before": [
+        "DIS0925",
+        "DecSaleWomenALL23Dec2025",
+        "DecSaleWomenStudio23Dec2025",
+        "DecSaleWomenWestern23Dec2025",
+        "E2325/108/412-1-Shirt-SimplifiedSizechart",
+        "New-In Western",
+        "ONGOING SS'25",
+        "PRET SS'25",
+        "SS-25",
+        "SummerSaleWomenALL18June2025",
+        "SummerSaleWomenPret18June2025",
+        "SummerSaleWomenWestern18June2025",
+        "WOMEN-F.P",
+        "Western",
+        "Western shirt",
+        "Western'25",
+        "Western-Full Price",
+        "Women",
+        "Women New In",
+        "one piece pret",
+        "shirt western 25",
+        "western shirt'25",
+        "western summer'25",
+        "women-sale",
+        "women-western"
+      ],
+      "after": [
+        "DIS0925",
+        "DecSaleWomenALL23Dec2025",
+        "DecSaleWomenStudio23Dec2025",
+        "DecSaleWomenWestern23Dec2025",
+        "E2325/108/412-1-Shirt-SimplifiedSizechart",
+        "New-In Western",
+        "ONGOING SS'25",
+        "PRET SS'25",
+        "SS-25",
+        "SummerSaleWomenALL18June2025",
+        "SummerSaleWomenPret18June2025",
+        "SummerSaleWomenWestern18June2025",
+        "WOMEN-F.P",
+        "Western",
+        "Western shirt",
+        "Western'25",
+        "Western-Full Price",
+        "Women",
+        "Women New In",
+        "one piece pret",
+        "shirt western 25",
+        "western shirt'25",
+        "western summer'25",
+        "women-western"
+      ]
+    },
+    {
+      "product_id": "7545704972390",
+      "title": "BUTTON DOWN STRIPED SHIRT (E2325/108/628)",
+      "url": "https://pk.ethnc.com/products/western-shirt-e2325-108-628-628?variant=42537305276518",
+      "kind": "Sold out",
+      "detail": "S / Blue"
+    },
+    {
+      "product_id": "7545705168998",
+      "title": "STRIPED SHIRT (E2328/108/709)",
+      "url": "https://pk.ethnc.com/products/western-shirt-e2328-108-709-709?variant=42468311892070",
+      "kind": "Sold out",
+      "detail": "S / Green"
     },
     {
       "product_id": "7545706446950",
       "title": "BUTTON DOWN SHIRT (E2372/108/902)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2372-108-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 1,490.00; available sizes/options: S / Black, M / Black"
-    },
-    {
-      "product_id": "7557307629670",
-      "title": "EMBROIDERED SUIT (E0666/106/001)",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0666-106-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 3,590.00; available sizes/options: S / White"
-    },
-    {
-      "product_id": "7557309726822",
-      "title": "BUTTON DOWN STRIPED SHIRT (E2360/108/426)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2360-108-426-426",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: XS / Light Pink"
-    },
-    {
-      "product_id": "7557309792358",
-      "title": "BUTTON DOWN STRIPED SHIRT (E2360/108/714)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2360-108-714-714?variant=42508568625254",
+      "url": "https://pk.ethnc.com/products/western-shirt-e2372-108-902-902?variant=42537302622310",
       "kind": "Sold out",
-      "detail": "S / Teal Green"
-    },
-    {
-      "product_id": "7557309825126",
-      "title": "BUTTON DOWN SHIRT (E2367/108/001)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2367-108-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 1,890.00; available sizes/options: S / White"
-    },
-    {
-      "product_id": "7557309956198",
-      "title": "BUTTON DOWN SHIRT (E2373/108/632)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2373-108-632-632",
-      "kind": "New product",
-      "detail": "Price: PKR 1,290.00; available sizes/options: S / Light Blue"
-    },
-    {
-      "product_id": "7557310021734",
-      "title": "SHIRT (E2378/108/632)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2378-108-632-632",
-      "kind": "New product",
-      "detail": "Price: PKR 2,390.00; available sizes/options: S / Light Blue, M / Light Blue"
+      "detail": "S / Black"
     },
     {
       "product_id": "7557310611558",
       "title": "TOP (E2401/108/616)",
       "url": "https://pk.ethnc.com/products/western-top-e2401-108-616-616",
-      "kind": "New product",
-      "detail": "Price: PKR 690.00; available sizes/options: L / Light Blue"
-    },
-    {
-      "product_id": "7557310742630",
-      "title": "TOP WTH FRILLS (E2409/108/001)",
-      "url": "https://pk.ethnc.com/products/western-top-e2409-108-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: L / White"
-    },
-    {
-      "product_id": "7557311692902",
-      "title": "SHIRT (E2475/108/001)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2475-108-001-001?variant=42508574687334",
-      "kind": "Sold out",
-      "detail": "L / White"
-    },
-    {
-      "product_id": "7557312708710",
-      "title": "TEXTURED SHIRT (E2529/108/902)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2529-108-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 2,090.00; available sizes/options: M / Black"
-    },
-    {
-      "product_id": "7557313003622",
-      "title": "TROUSER (E2544/108/530)",
-      "url": "https://pk.ethnc.com/products/western-trouser-e2544-108-530-530",
-      "kind": "New product",
-      "detail": "Price: PKR 1,190.00; available sizes/options: None"
-    },
-    {
-      "product_id": "7557313069158",
-      "title": "TROUSER (E2544/108/817)",
-      "url": "https://pk.ethnc.com/products/western-trouser-e2544-108-817-817",
-      "kind": "New product",
-      "detail": "Price: PKR 1,190.00; available sizes/options: None"
-    },
-    {
-      "product_id": "7557317197926",
-      "title": "TOP (S2E0497/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-top-s2e0497-119-902-902",
       "kind": "Product updated",
-      "detail": "tags: ['AugSaleWomenALL06August2025', 'AugSaleWomenBoho06August2025', 'AugSaleWomenPret06August2025', 'BOHO 12 May 25', \"BOHO'25\", 'Boho', 'DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenBoho23Dec2025', 'JULSMSS25', 'New-In boho', \"PRET SS'25\", 'S2E0497/119/902-1-shirt-SimplifiedSizechart', 'SS-25', 'SummerSaleWomenALL18June2025', 'SummerSaleWomenBoho18June2025', 'SummerSaleWomenPret18June2025', 'WOMEN-F.P', 'Women', 'Women New In', 'boho top', 'boho-Full Price', 'east-meets-west', 'women-sale'] → ['AugSaleWomenALL06August2025', 'AugSaleWomenBoho06August2025', 'AugSaleWomenPret06August2025', 'BOHO 12 May 25', \"BOHO'25\", 'Boho', 'DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenBoho23Dec2025', 'JULSMSS25', 'New-In boho', \"PRET SS'25\", 'S2E0497/119/902-1-shirt-SimplifiedSizechart', 'SS-25', 'SummerSaleWomenALL18June2025', 'SummerSaleWomenBoho18June2025', 'SummerSaleWomenPret18June2025', 'WOMEN-F.P', 'Women', 'Women New In', 'boho top', 'boho-Full Price', 'east-meets-west']",
+      "detail": "tags: ['DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenStudio23Dec2025', 'DecSaleWomenWestern23Dec2025', 'New-In Western', \"ONGOING SS'25\", \"PRET SS'25\", 'SS-25', 'SummerSaleWomenALL18June2025', 'SummerSaleWomenPret18June2025', 'SummerSaleWomenWestern18June2025', 'WOMEN-F.P', 'Western', 'Western shirt', \"Western'25\", 'Western-Full Price', 'Women', 'Women New In', 'one piece pret', 'shirt western 25', \"western shirt'25\", \"western summer'25\", 'women-sale', 'women-western'] → ['DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenStudio23Dec2025', 'DecSaleWomenWestern23Dec2025', 'New-In Western', \"ONGOING SS'25\", \"PRET SS'25\", 'SS-25', 'SummerSaleWomenALL18June2025', 'SummerSaleWomenPret18June2025', 'SummerSaleWomenWestern18June2025', 'WOMEN-F.P', 'Western', 'Western shirt', \"Western'25\", 'Western-Full Price', 'Women', 'Women New In', 'one piece pret', 'shirt western 25', \"western shirt'25\", \"western summer'25\", 'women-western']",
       "field": "tags",
       "before": [
-        "AugSaleWomenALL06August2025",
-        "AugSaleWomenBoho06August2025",
-        "AugSaleWomenPret06August2025",
-        "BOHO 12 May 25",
-        "BOHO'25",
-        "Boho",
         "DIS0925",
         "DecSaleWomenALL23Dec2025",
-        "DecSaleWomenBoho23Dec2025",
-        "JULSMSS25",
-        "New-In boho",
+        "DecSaleWomenStudio23Dec2025",
+        "DecSaleWomenWestern23Dec2025",
+        "New-In Western",
+        "ONGOING SS'25",
         "PRET SS'25",
-        "S2E0497/119/902-1-shirt-SimplifiedSizechart",
         "SS-25",
         "SummerSaleWomenALL18June2025",
-        "SummerSaleWomenBoho18June2025",
         "SummerSaleWomenPret18June2025",
+        "SummerSaleWomenWestern18June2025",
         "WOMEN-F.P",
+        "Western",
+        "Western shirt",
+        "Western'25",
+        "Western-Full Price",
         "Women",
         "Women New In",
-        "boho top",
-        "boho-Full Price",
-        "east-meets-west",
-        "women-sale"
+        "one piece pret",
+        "shirt western 25",
+        "western shirt'25",
+        "western summer'25",
+        "women-sale",
+        "women-western"
       ],
       "after": [
-        "AugSaleWomenALL06August2025",
-        "AugSaleWomenBoho06August2025",
-        "AugSaleWomenPret06August2025",
-        "BOHO 12 May 25",
-        "BOHO'25",
-        "Boho",
         "DIS0925",
         "DecSaleWomenALL23Dec2025",
-        "DecSaleWomenBoho23Dec2025",
-        "JULSMSS25",
-        "New-In boho",
+        "DecSaleWomenStudio23Dec2025",
+        "DecSaleWomenWestern23Dec2025",
+        "New-In Western",
+        "ONGOING SS'25",
         "PRET SS'25",
-        "S2E0497/119/902-1-shirt-SimplifiedSizechart",
         "SS-25",
         "SummerSaleWomenALL18June2025",
-        "SummerSaleWomenBoho18June2025",
         "SummerSaleWomenPret18June2025",
+        "SummerSaleWomenWestern18June2025",
         "WOMEN-F.P",
+        "Western",
+        "Western shirt",
+        "Western'25",
+        "Western-Full Price",
         "Women",
         "Women New In",
-        "boho top",
-        "boho-Full Price",
-        "east-meets-west"
+        "one piece pret",
+        "shirt western 25",
+        "western shirt'25",
+        "western summer'25",
+        "women-western"
       ]
     },
     {
-      "product_id": "7557317197926",
-      "title": "TOP (S2E0497/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-top-s2e0497-119-902-902?variant=42508594741350",
+      "product_id": "7557310611558",
+      "title": "TOP (E2401/108/616)",
+      "url": "https://pk.ethnc.com/products/western-top-e2401-108-616-616?variant=42508571541606",
       "kind": "Sold out",
-      "detail": "XS / Black"
-    },
-    {
-      "product_id": "7565305643110",
-      "title": "TROUSER (E1571/301/637)",
-      "url": "https://pk.ethnc.com/products/toddler-trouser-e1571-301-637-637",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7566290747494",
-      "title": "TOP (E1467/401/719)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1467-401-719-719?variant=42532757012582",
-      "kind": "Sold out",
-      "detail": "7-8Y / Ice Green"
-    },
-    {
-      "product_id": "7566291075174",
-      "title": "CO-ORD SET (E1518/401/631)",
-      "url": "https://pk.ethnc.com/products/junior-suit-e1518-401-631-631",
-      "kind": "New product",
-      "detail": "Price: PKR 2,790.00; available sizes/options: 9-10Y / Baby Blue"
+      "detail": "L / Light Blue"
     },
     {
       "product_id": "7566291370086",
       "title": "EMBROIDERED DRESS (E1565/301/002)",
       "url": "https://pk.ethnc.com/products/toddler-shirt-e1565-301-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 12-18M / Off White"
-    },
-    {
-      "product_id": "7566291697766",
-      "title": "EMBROIDERED TOP (E1582/301/529)",
-      "url": "https://pk.ethnc.com/products/toddler-top-e1582-301-529-529",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7568070246502",
-      "title": "BUTTON DOWN SHIRT (E2375/108/632)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2375-108-632-632",
-      "kind": "New product",
-      "detail": "Price: PKR 1,290.00; available sizes/options: S / Baby Blue"
-    },
-    {
-      "product_id": "7572822818918",
-      "title": "TROUSER (E1572/301/998)",
-      "url": "https://pk.ethnc.com/products/toddler-trouser-e1572-301-998-998?variant=42549607891046",
+      "product_id": "7566292385894",
+      "title": "CO-ORD SET (E1689/401/002)",
+      "url": "https://pk.ethnc.com/products/junior-suit-e1689-401-002-002?variant=42532766089318",
       "kind": "Sold out",
-      "detail": "3-4Y / Multi"
+      "detail": "7-8Y / Off White"
     },
     {
-      "product_id": "7580982837350",
-      "title": "PRINTED SUIT (E0619/106/005)",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0619-106-005-005",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7580986540134",
-      "title": "TOP (E1590/301/001)",
-      "url": "https://pk.ethnc.com/products/toddler-top-e1590-301-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 490.00; available sizes/options: 12-18M / White"
-    },
-    {
-      "product_id": "7595872125030",
-      "title": "PRINTED SUIT (E0621/106/301)",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0621-106-301-301?variant=42625365377126",
+      "product_id": "7566292385894",
+      "title": "CO-ORD SET (E1689/401/002)",
+      "url": "https://pk.ethnc.com/products/junior-suit-e1689-401-002-002?variant=42532766154854",
       "kind": "Sold out",
-      "detail": "L / Red"
+      "detail": "9-10Y / Off White"
     },
     {
-      "product_id": "7595872256102",
-      "title": "PRINTED SUIT (E0628/106/002)",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0628-106-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 2,390.00; available sizes/options: L / Off White"
-    },
-    {
-      "product_id": "7595873599590",
-      "title": "PRINTED DRESS (E2296/108/001)",
-      "url": "https://pk.ethnc.com/products/western-dress-e2296-108-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 3,990.00; available sizes/options: S / White"
-    },
-    {
-      "product_id": "7595874877542",
-      "title": "TROUSER (E2423/108/901)",
-      "url": "https://pk.ethnc.com/products/western-trouser-e2423-108-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 2,590.00; available sizes/options: M / Black, L / Black"
-    },
-    {
-      "product_id": "7596553502822",
-      "title": "EMBROIDERED WAISTCOAT (E1494/401/126)",
-      "url": "https://pk.ethnc.com/products/junior-top-e1494-401-126-126?variant=42627545366630",
+      "product_id": "7572778942566",
+      "title": "TROUSER (S4E0561/119/902)",
+      "url": "https://pk.ethnc.com/products/boho-trouser-s4e0561-119-902-902?variant=42549490548838",
       "kind": "Sold out",
-      "detail": "11-12Y / Apple Green"
+      "detail": "L / Jet Black"
     },
     {
-      "product_id": "7640844075110",
-      "title": "DRESS (E2280/108/902)",
-      "url": "https://pk.ethnc.com/products/western-dress-e2280-108-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 2,990.00; available sizes/options: None"
-    },
-    {
-      "product_id": "7640844370022",
-      "title": "DRESS (E2374/108/130)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2374-108-130-130",
-      "kind": "New product",
-      "detail": "Price: PKR 2,690.00; available sizes/options: None"
-    },
-    {
-      "product_id": "7640844828774",
-      "title": "BUTTON DOWN SHIRT (E2472/108/001)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e2472-108-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: XS / White"
-    },
-    {
-      "product_id": "7640885428326",
-      "title": "JUMPSUIT (E1529/301/101)",
-      "url": "https://pk.ethnc.com/products/toddler-jumpsuit-e1529-301-101-101",
-      "kind": "New product",
-      "detail": "Price: PKR 1,390.00; available sizes/options: 4-5Y / Yellow"
-    },
-    {
-      "product_id": "7645880483942",
-      "title": "EMBROIDERED SHIRT (E0056/115/602)",
-      "url": "https://pk.ethnc.com/products/semi-formal-dress-e0056-115-602-602?variant=42754753953894",
+      "product_id": "7572822786150",
+      "title": "TROUSER (E1571/401/529)",
+      "url": "https://pk.ethnc.com/products/junior-trouser-e1571-401-529-529?variant=42549607661670",
       "kind": "Sold out",
-      "detail": "M / Peacock"
+      "detail": "7-8Y / Ice Pink"
     },
     {
-      "product_id": "7645881466982",
-      "title": "KHUSSA (E1000/109/901)",
-      "url": "https://pk.ethnc.com/products/khussa-e1000-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 41 / black"
+      "product_id": "7572822851686",
+      "title": "TROUSER (E1577/401/007)",
+      "url": "https://pk.ethnc.com/products/junior-trouser-e1577-401-007-007?variant=42549608153190",
+      "kind": "Sold out",
+      "detail": "11-12Y / Sand"
     },
     {
-      "product_id": "7645881827430",
-      "title": "KHUSSA (E1102/109/131)",
-      "url": "https://pk.ethnc.com/products/khussa-e1102-109-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 37 / gold, 41 / gold"
+      "product_id": "7580985622630",
+      "title": "DRESS (E1433/401/725)",
+      "url": "https://pk.ethnc.com/products/junior-dress-e1433-401-725-725?variant=42576624386150",
+      "kind": "Sold out",
+      "detail": "6-7Y / Parrot Green Fluorescent"
     },
     {
-      "product_id": "7645955489894",
-      "title": "JEANS (E1513/401/630)",
-      "url": "https://pk.ethnc.com/products/junior-jeans-e1513-401-630-630?variant=45596285993062",
-      "kind": "Back in stock",
-      "detail": "10-11Y / skyway"
+      "product_id": "7580985720934",
+      "title": "DRESS (E1434/401/301)",
+      "url": "https://pk.ethnc.com/products/junior-dress-e1434-401-301-301?variant=42576624681062",
+      "kind": "Sold out",
+      "detail": "6-7Y / Red"
     },
     {
-      "product_id": "7655670972518",
-      "title": "TROUSER (E1998/301/316)",
-      "url": "https://pk.ethnc.com/products/toddler-trouser-e1998-301-316-316",
-      "kind": "New product",
-      "detail": "Price: PKR 890.00; available sizes/options: 12-18M / Light Pink"
+      "product_id": "7595871273062",
+      "title": "DRESS (E0043/120/901)",
+      "url": "https://pk.ethnc.com/products/timeless-shirt-e0043-120-901-901",
+      "kind": "Product updated",
+      "detail": "tags: ['DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenTIMELESZ23Dec2025', 'E0043/120/901-1-shirt-SimplifiedSizechart', 'JanSaleWomenALL21Jan2026', 'JanSaleWomenPret21Jan2026', 'JanSaleWomenTIMELESZ21Jan2026', 'NovFRWomenALL24Nov2025', 'NovFRWomenPret24Nov2025', 'NovFRWomenTIMELESZ24Nov2025', 'NovPromoWomenALL19Nov2025', 'NovPromoWomenPret19Nov2025', 'NovPromoWomenTIMELESZ19Nov2025', \"PRET SS'25\", 'SS-25', 'TIMELESS 11 AUG 25', 'Timeless', \"Timeless'25\", 'Timeless-Full Price', 'TimelessFP', 'Timessless Shirt', 'Timessless Top', 'WOMEN-F.P', 'Women', 'Women New In', 'east-meets-west', 'one piece pret'] → ['DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenTIMELESZ23Dec2025', 'E0043/120/901-1-shirt-SimplifiedSizechart', 'JanSaleWomenALL21Jan2026', 'JanSaleWomenPret21Jan2026', 'JanSaleWomenTIMELESZ21Jan2026', 'NovFRWomenALL24Nov2025', 'NovFRWomenPret24Nov2025', 'NovFRWomenTIMELESZ24Nov2025', 'NovPromoWomenALL19Nov2025', 'NovPromoWomenPret19Nov2025', 'NovPromoWomenTIMELESZ19Nov2025', \"PRET SS'25\", 'SS-25', 'TIMELESS 11 AUG 25', 'Timeless', \"Timeless'25\", 'Timeless-Full Price', 'TimelessFP', 'Timessless Shirt', 'Timessless Top', 'WOMEN-F.P', 'Women', 'Women New In', 'east-meets-west', 'one piece pret', 'women-sale']",
+      "field": "tags",
+      "before": [
+        "DIS0925",
+        "DecSaleWomenALL23Dec2025",
+        "DecSaleWomenTIMELESZ23Dec2025",
+        "E0043/120/901-1-shirt-SimplifiedSizechart",
+        "JanSaleWomenALL21Jan2026",
+        "JanSaleWomenPret21Jan2026",
+        "JanSaleWomenTIMELESZ21Jan2026",
+        "NovFRWomenALL24Nov2025",
+        "NovFRWomenPret24Nov2025",
+        "NovFRWomenTIMELESZ24Nov2025",
+        "NovPromoWomenALL19Nov2025",
+        "NovPromoWomenPret19Nov2025",
+        "NovPromoWomenTIMELESZ19Nov2025",
+        "PRET SS'25",
+        "SS-25",
+        "TIMELESS 11 AUG 25",
+        "Timeless",
+        "Timeless'25",
+        "Timeless-Full Price",
+        "TimelessFP",
+        "Timessless Shirt",
+        "Timessless Top",
+        "WOMEN-F.P",
+        "Women",
+        "Women New In",
+        "east-meets-west",
+        "one piece pret"
+      ],
+      "after": [
+        "DIS0925",
+        "DecSaleWomenALL23Dec2025",
+        "DecSaleWomenTIMELESZ23Dec2025",
+        "E0043/120/901-1-shirt-SimplifiedSizechart",
+        "JanSaleWomenALL21Jan2026",
+        "JanSaleWomenPret21Jan2026",
+        "JanSaleWomenTIMELESZ21Jan2026",
+        "NovFRWomenALL24Nov2025",
+        "NovFRWomenPret24Nov2025",
+        "NovFRWomenTIMELESZ24Nov2025",
+        "NovPromoWomenALL19Nov2025",
+        "NovPromoWomenPret19Nov2025",
+        "NovPromoWomenTIMELESZ19Nov2025",
+        "PRET SS'25",
+        "SS-25",
+        "TIMELESS 11 AUG 25",
+        "Timeless",
+        "Timeless'25",
+        "Timeless-Full Price",
+        "TimelessFP",
+        "Timessless Shirt",
+        "Timessless Top",
+        "WOMEN-F.P",
+        "Women",
+        "Women New In",
+        "east-meets-west",
+        "one piece pret",
+        "women-sale"
+      ]
     },
     {
-      "product_id": "7678998839398",
-      "title": "EMBROIDERED SUIT (E0638/106/112)",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0638-106-112-112",
-      "kind": "New product",
-      "detail": "Price: PKR 5,990.00; available sizes/options: L / Yellow Beige"
+      "product_id": "7640884707430",
+      "title": "DRESS (E1434/401/219)",
+      "url": "https://pk.ethnc.com/products/junior-dress-e1434-401-219-219?variant=42733084115046",
+      "kind": "Sold out",
+      "detail": "9-10Y / Light Mustard"
+    },
+    {
+      "product_id": "7655662911590",
+      "title": "POINTED PUMPS (E1146/109/901)",
+      "url": "https://pk.ethnc.com/products/pointed-pumps-e1146-109-901-901?variant=45093704499302",
+      "kind": "Sold out",
+      "detail": "40 / Black"
+    },
+    {
+      "product_id": "7655663730790",
+      "title": "PUMPS (E1157/109/911)",
+      "url": "https://pk.ethnc.com/products/pumps-e1157-109-911-911?variant=45093660229734",
+      "kind": "Sold out",
+      "detail": "41 / Light Grey"
     },
     {
       "product_id": "7679012470886",
       "title": "KHUSSA (E1013/109/126)",
       "url": "https://pk.ethnc.com/products/khussa-e1013-109-126-126",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 38 / apple-green"
-    },
-    {
-      "product_id": "7679020138598",
-      "title": "KURTI (S4E0574/119/806)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-s4e0574-119-806-806",
-      "kind": "Product updated",
-      "detail": "tags: [\"BOHO'25\", 'Boho', 'Boho 5 Sept 25', 'DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenBoho23Dec2025', 'JanSaleWomenALL21Jan2026', 'JanSaleWomenBoho21Jan2026', 'JanSaleWomenPret21Jan2026', 'New-In boho', 'NovFRWomenALL24Nov2025', 'NovFRWomenBoho24Nov2025', 'NovFRWomenPret24Nov2025', 'NovPromoWomenALL19Nov2025', 'NovPromoWomenBoho19Nov2025', 'NovPromoWomenPret19Nov2025', \"PRET SS'25\", 'S4E0574/119/806-1-shirt-SimplifiedSizechart', 'SS-25', 'WOMEN-F.P', 'Women', 'Women New In', 'boho kurti', 'boho-Full Price', 'east-meets-west', 'women-sale'] → [\"BOHO'25\", 'Boho', 'Boho 5 Sept 25', 'DIS0925', 'DecSaleWomenALL23Dec2025', 'DecSaleWomenBoho23Dec2025', 'JanSaleWomenALL21Jan2026', 'JanSaleWomenBoho21Jan2026', 'JanSaleWomenPret21Jan2026', 'New-In boho', 'NovFRWomenALL24Nov2025', 'NovFRWomenBoho24Nov2025', 'NovFRWomenPret24Nov2025', 'NovPromoWomenALL19Nov2025', 'NovPromoWomenBoho19Nov2025', 'NovPromoWomenPret19Nov2025', \"PRET SS'25\", 'S4E0574/119/806-1-shirt-SimplifiedSizechart', 'SS-25', 'WOMEN-F.P', 'Women', 'Women New In', 'boho kurti', 'boho-Full Price', 'east-meets-west']",
-      "field": "tags",
-      "before": [
-        "BOHO'25",
-        "Boho",
-        "Boho 5 Sept 25",
-        "DIS0925",
-        "DecSaleWomenALL23Dec2025",
-        "DecSaleWomenBoho23Dec2025",
-        "JanSaleWomenALL21Jan2026",
-        "JanSaleWomenBoho21Jan2026",
-        "JanSaleWomenPret21Jan2026",
-        "New-In boho",
-        "NovFRWomenALL24Nov2025",
-        "NovFRWomenBoho24Nov2025",
-        "NovFRWomenPret24Nov2025",
-        "NovPromoWomenALL19Nov2025",
-        "NovPromoWomenBoho19Nov2025",
-        "NovPromoWomenPret19Nov2025",
-        "PRET SS'25",
-        "S4E0574/119/806-1-shirt-SimplifiedSizechart",
-        "SS-25",
-        "WOMEN-F.P",
-        "Women",
-        "Women New In",
-        "boho kurti",
-        "boho-Full Price",
-        "east-meets-west",
-        "women-sale"
-      ],
-      "after": [
-        "BOHO'25",
-        "Boho",
-        "Boho 5 Sept 25",
-        "DIS0925",
-        "DecSaleWomenALL23Dec2025",
-        "DecSaleWomenBoho23Dec2025",
-        "JanSaleWomenALL21Jan2026",
-        "JanSaleWomenBoho21Jan2026",
-        "JanSaleWomenPret21Jan2026",
-        "New-In boho",
-        "NovFRWomenALL24Nov2025",
-        "NovFRWomenBoho24Nov2025",
-        "NovFRWomenPret24Nov2025",
-        "NovPromoWomenALL19Nov2025",
-        "NovPromoWomenBoho19Nov2025",
-        "NovPromoWomenPret19Nov2025",
-        "PRET SS'25",
-        "S4E0574/119/806-1-shirt-SimplifiedSizechart",
-        "SS-25",
-        "WOMEN-F.P",
-        "Women",
-        "Women New In",
-        "boho kurti",
-        "boho-Full Price",
-        "east-meets-west"
-      ]
-    },
-    {
-      "product_id": "7679020138598",
-      "title": "KURTI (S4E0574/119/806)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-s4e0574-119-806-806?variant=42906516521062",
-      "kind": "Sold out",
-      "detail": "S / Caramel"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7683331948646",
       "title": "TROUSER (E1570/401/529)",
       "url": "https://pk.ethnc.com/products/junior-trouser-e1570-401-529-529",
-      "kind": "New product",
-      "detail": "Price: PKR 890.00; available sizes/options: 9-10Y / Ice Pink"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7683333587046",
       "title": "JEANS (E1686/301/630)",
       "url": "https://pk.ethnc.com/products/toddler-jeans-e1686-301-630-630",
-      "kind": "New product",
-      "detail": "Price: PKR 890.00; available sizes/options: 12-18M / Skyway"
-    },
-    {
-      "product_id": "7683336831078",
-      "title": "SWEATERS (E1886/401/312)",
-      "url": "https://pk.ethnc.com/products/junior-sweaters-e1886-401-312-312",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: 9-10Y / dusty-salmon"
-    },
-    {
-      "product_id": "7694613119078",
-      "title": "CO-ORD SET (E1451/301/301)",
-      "url": "https://pk.ethnc.com/products/toddler-suit-e1451-301-301-301",
-      "kind": "New product",
-      "detail": "Price: PKR 3,190.00; available sizes/options: 12-18M / Red"
-    },
-    {
-      "product_id": "7696391733350",
-      "title": "KHUSSA (E1117/109/901)",
-      "url": "https://pk.ethnc.com/products/khussa-e1117-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00; available sizes/options: 37 / black"
-    },
-    {
-      "product_id": "7699663323238",
-      "title": "PUMPS (E2322/309/902)",
-      "url": "https://pk.ethnc.com/products/pumps-e2322-309-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 2,690.00; available sizes/options: 30 / Jet Black"
-    },
-    {
-      "product_id": "7699663356006",
-      "title": "PUMPS (E2323/309/902)",
-      "url": "https://pk.ethnc.com/products/pumps-e2323-309-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 2,500.00; available sizes/options: 26 / Jet Black"
-    },
-    {
-      "product_id": "7715201253478",
-      "title": "EMBROIDERED SUIT (E0632/106/001)",
-      "url": "https://pk.ethnc.com/products/studio-dress-e0632-106-001-001",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7716801413222",
       "title": "TOP (E0637/119/319)",
-      "url": "https://pk.ethnc.com/products/boho-top-e0637-119-319-319?variant=43046345113702",
-      "kind": "Back in stock",
-      "detail": "M / Spice"
-    },
-    {
-      "product_id": "7716801413222",
-      "title": "TOP (E0637/119/319)",
       "url": "https://pk.ethnc.com/products/boho-top-e0637-119-319-319?variant=43046345146470",
-      "kind": "Back in stock",
-      "detail": "L / Spice"
-    },
-    {
-      "product_id": "7716801511526",
-      "title": "EMBROIDERED TOP (E0639/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-suit-e0639-119-902-902?variant=45093162647654",
       "kind": "Sold out",
-      "detail": "S / jet-black"
+      "detail": "L / Spice"
     },
     {
       "product_id": "7716804132966",
       "title": "KHUSSA (E1159/109/901)",
       "url": "https://pk.ethnc.com/products/khussa-e1159-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 40 / black"
-    },
-    {
-      "product_id": "7722046488678",
-      "title": "PRINTED SUIT (E1315/402/531 E1315/302/531)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1315-402-531-531-casual-suit-e1315-302-531-531",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00 – PKR 1,990.00; available sizes/options: 3-4Y / lilac-mist"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7730765463654",
       "title": "THE KISS (E0060/112/999 E0052/112/999)",
       "url": "https://pk.ethnc.com/products/women-perfume-e0060-112-999-999-women-perfume-e0052-112-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 1,320.00 – PKR 3,490.00; available sizes/options: 100 ML / multi"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7730765725798",
-      "title": "TROPICAL ESCAPE (E0053/112/999 E0045/112/999)",
-      "url": "https://pk.ethnc.com/products/women-perfume-e0053-112-999-999-women-perfume-e0045-112-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 850.00 – PKR 1,800.00; available sizes/options: 100 ML / Multi"
-    },
-    {
-      "product_id": "7738456932454",
-      "title": "DRESS (E1828/301/401)",
-      "url": "https://pk.ethnc.com/products/toddler-dress-e1828-301-401-401?variant=43335209255014",
+      "product_id": "7734910648422",
+      "title": "TROUSER (E7052/102/902)",
+      "url": "https://pk.ethnc.com/products/casual-trouser-e7052-102-902-902?variant=45090577678438",
       "kind": "Sold out",
-      "detail": "3-4Y / Pink"
+      "detail": "S / jet-black"
     },
     {
       "product_id": "7738458341478",
       "title": "CO-ORD SET (E1869/401/902)",
       "url": "https://pk.ethnc.com/products/junior-suit-e1869-401-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 3,190.00; available sizes/options: 5-6Y / jet-black"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7738458996838",
-      "title": "JEANS (E1923/301/619)",
-      "url": "https://pk.ethnc.com/products/toddler-trouser-e1923-301-619-619",
-      "kind": "New product",
-      "detail": "Price: PKR 890.00; available sizes/options: 12-18M / navy-blue"
-    },
-    {
-      "product_id": "7738459095142",
-      "title": "TIGHTS (E1924/401/514)",
-      "url": "https://pk.ethnc.com/products/junior-trouser-e1924-401-514-514",
-      "kind": "New product",
-      "detail": "Price: PKR 690.00; available sizes/options: 9-10Y / lilac-marble"
-    },
-    {
-      "product_id": "7738463879270",
-      "title": "DRESS (E2306/108/001)",
-      "url": "https://pk.ethnc.com/products/western-trouser-e2306-108-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 4,390.00; available sizes/options: XS / White"
-    },
-    {
-      "product_id": "7742743052390",
-      "title": "KHUSSA (E1184/109/416)",
-      "url": "https://pk.ethnc.com/products/khussa-e1184-109-416-416?variant=45596266397798",
+      "product_id": "7738463191142",
+      "title": "TROUSER (E0541/101/002)",
+      "url": "https://pk.ethnc.com/products/fusion-top-e0541-101-002-002?variant=43335270203494",
       "kind": "Sold out",
-      "detail": "38 / wine"
+      "detail": "L / Off White"
     },
     {
-      "product_id": "7742745378918",
-      "title": "EMBROIDERED SUIT (E7235/102/619)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e7235-102-619-619?variant=45090170372198",
+      "product_id": "7755598954598",
+      "title": "EMBROIDERED SHIRT (E1000/101/006)",
+      "url": "https://pk.ethnc.com/products/fusion-shirt-e1000-101-006-006?variant=45596262662246",
       "kind": "Sold out",
-      "detail": "XS / navy-blue"
+      "detail": "S / antique-white"
     },
     {
-      "product_id": "7749420908646",
-      "title": "SOCKS (E2927/111/999)",
-      "url": "https://pk.ethnc.com/products/women-socks-e2927-111-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 490.00; available sizes/options: 36-38 / multi"
+      "product_id": "7755600429158",
+      "title": "TROUSER (E1919/401/635)",
+      "url": "https://pk.ethnc.com/products/junior-trouser-e1919-401-635-635",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7755598528614",
-      "title": "JEANS (E0623/119/903)",
-      "url": "https://pk.ethnc.com/products/boho-jeans-e0623-119-903-903?variant=45596263219302",
-      "kind": "Back in stock",
-      "detail": "L / anthracite-grey"
-    },
-    {
-      "product_id": "7755599708262",
-      "title": "T-SHIRT (E1801/401/915)",
-      "url": "https://pk.ethnc.com/products/junior-t-shirt-e1801-401-915-915?variant=45090055356518",
-      "kind": "Sold out",
-      "detail": "7-8Y / light-grey"
-    },
-    {
-      "product_id": "7755600298086",
-      "title": "TROUSER (E1912/301/635)",
-      "url": "https://pk.ethnc.com/products/toddler-trouser-e1912-301-635-635?variant=45090039726182",
-      "kind": "Sold out",
-      "detail": "2-3Y / dusty-blue"
-    },
-    {
-      "product_id": "7755600855142",
-      "title": "SWEAT SHIRT (E1955/401/632)",
-      "url": "https://pk.ethnc.com/products/junior-sweat-shirt-e1955-401-632-632",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: 10-11Y / baby-blue"
-    },
-    {
-      "product_id": "7768408457318",
-      "title": "SHAWL (E0401/111/602)",
-      "url": "https://pk.ethnc.com/products/women-dupatta-e0401-111-602-602",
-      "kind": "New product",
-      "detail": "Price: PKR 1,790.00; available sizes/options: FREE / peacock"
+      "product_id": "7768408490086",
+      "title": "DUPATTA (E0401/111/620)",
+      "url": "https://pk.ethnc.com/products/women-dupatta-e0401-111-620-620",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7768409309286",
       "title": "TROUSER (E1926/401/999)",
       "url": "https://pk.ethnc.com/products/junior-trouser-e1926-401-999-999",
-      "kind": "New product",
-      "detail": "Price: PKR 1,090.00; available sizes/options: 7-8Y / multi"
-    },
-    {
-      "product_id": "7782453018726",
-      "title": "SWEAT SHIRT (E1814/401/710)",
-      "url": "https://pk.ethnc.com/products/junior-sweat-shirt-e1814-401-710-710?variant=43502525644902",
-      "kind": "Sold out",
-      "detail": "11-12Y / Bright Green"
-    },
-    {
-      "product_id": "7782453575782",
-      "title": "CO-ORD SET (E1825/301/635)",
-      "url": "https://pk.ethnc.com/products/toddler-suit-e1825-301-635-635",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: 12-18M / dusty-blue"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7782454657126",
       "title": "SWEAT SHIRT (E1953/401/711)",
-      "url": "https://pk.ethnc.com/products/junior-sweat-shirt-e1953-401-711-711?variant=45089876803686",
+      "url": "https://pk.ethnc.com/products/junior-sweat-shirt-e1953-401-711-711?variant=45089876869222",
       "kind": "Sold out",
-      "detail": "8-9Y / teal"
+      "detail": "10-11Y / teal"
     },
     {
-      "product_id": "7782454722662",
-      "title": "HOODIE (E1957/401/004)",
-      "url": "https://pk.ethnc.com/products/junior-hoodie-e1957-401-004-004?variant=45596256862310",
-      "kind": "Sold out",
-      "detail": "10-11Y / lemon-icing"
-    },
-    {
-      "product_id": "7832676532326",
-      "title": "EMBROIDERED SUIT (E1514/402/005 E1514/302/005)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1514-402-005-005-casual-suit-e1514-302-005-005?variant=45596249129062",
-      "kind": "Sold out",
-      "detail": "11-12Y / vanilla-ice"
-    },
-    {
-      "product_id": "7833825443942",
-      "title": "EMBROIDERED SUIT (E1522/402/216 E1522/302/216)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1522-402-216-216-casual-suit-e1522-302-216-216?variant=45596243984486",
+      "product_id": "7835165392998",
+      "title": "PRINTED SUIT (E1660/402/005 E1660/302/005)",
+      "url": "https://pk.ethnc.com/products/casual-suit-e1660-402-005-005-casual-suit-e1660-302-005-005?variant=45596236644454",
       "kind": "Back in stock",
-      "detail": "10-11Y / pale-orange"
+      "detail": "6-7Y / vanilla-ice"
     },
     {
-      "product_id": "7833827541094",
-      "title": "PRINTED SHIRT (E8044/102/904)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e8044-102-904-904?variant=45596241395814",
+      "product_id": "7835165392998",
+      "title": "PRINTED SUIT (E1660/402/005 E1660/302/005)",
+      "url": "https://pk.ethnc.com/products/casual-suit-e1660-402-005-005-casual-suit-e1660-302-005-005?variant=45596236677222",
       "kind": "Sold out",
-      "detail": "S / dark-grey"
+      "detail": "7-8Y / vanilla-ice"
     },
     {
-      "product_id": "7835164442726",
-      "title": "EMBROIDERED SUIT (E1047/104/126)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e1047-104-126-126",
-      "kind": "New product",
-      "detail": "Price: PKR 16,490.00; available sizes/options: M / Apple Green, L / Apple Green"
-    },
-    {
-      "product_id": "7838910906470",
-      "title": "SWEATSHIRT (E0174/120/708)",
-      "url": "https://pk.ethnc.com/products/timelesz-sweatshirt-e0174-120-708-708?variant=46622133780582",
-      "kind": "Back in stock",
-      "detail": "S / green"
-    },
-    {
-      "product_id": "7838910906470",
-      "title": "SWEATSHIRT (E0174/120/708)",
-      "url": "https://pk.ethnc.com/products/timelesz-sweatshirt-e0174-120-708-708?variant=46622133813350",
-      "kind": "Back in stock",
-      "detail": "M / green"
-    },
-    {
-      "product_id": "7847478198374",
-      "title": "EMBROIDERED SUIT (E0931/404/003 E0931/304/003)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e0931-404-003-003-boutique-suit-e0931-304-003-003?variant=44381475995750",
+      "product_id": "7839077433446",
+      "title": "SHIRT (E3396/108/614)",
+      "url": "https://pk.ethnc.com/products/western-shirt-e3396-108-614-614?variant=44332489244774",
       "kind": "Sold out",
-      "detail": "13-14Y / Coconut Milk"
+      "detail": "L / Light Aqua"
     },
     {
-      "product_id": "7850094952550",
-      "title": "SANDAL (E1098/109/110)",
-      "url": "https://pk.ethnc.com/products/sandal-e1098-109-110-110",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: 39 / Yellow Beige"
-    },
-    {
-      "product_id": "7850095837286",
-      "title": "KHUSSA (E1125/109/805)",
-      "url": "https://pk.ethnc.com/products/khussa-e1125-109-805-805",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 36 / Taupe, 38 / Taupe"
-    },
-    {
-      "product_id": "7850096459878",
-      "title": "PUMPS (E1182/109/131)",
-      "url": "https://pk.ethnc.com/products/pumps-e1182-109-131-131?variant=44388147560550",
+      "product_id": "7847478100070",
+      "title": "EMBROIDERED SUIT (E0922/404/104 E0922/304/104)",
+      "url": "https://pk.ethnc.com/products/boutique-suit-e0922-404-104-104-boutique-suit-e0922-304-104-104?variant=45596231598182",
       "kind": "Sold out",
-      "detail": "37 / Gold"
-    },
-    {
-      "product_id": "7850096492646",
-      "title": "PUMPS (E1182/109/901)",
-      "url": "https://pk.ethnc.com/products/pumps-e1182-109-901-901?variant=44388147757158",
-      "kind": "Sold out",
-      "detail": "37 / Black"
-    },
-    {
-      "product_id": "7850101669990",
-      "title": "DUPATTA (E9034/102/505)",
-      "url": "https://pk.ethnc.com/products/women-dupatta-e9034-102-505-505",
-      "kind": "New product",
-      "detail": "Price: PKR 1,490.00; available sizes/options: FREE / Dusty Purple"
-    },
-    {
-      "product_id": "7850102325350",
-      "title": "DUPATTA (E9040/102/816)",
-      "url": "https://pk.ethnc.com/products/women-dupatta-e9040-102-816-816",
-      "kind": "New product",
-      "detail": "Price: PKR 1,190.00; available sizes/options: FREE / Brown Grey"
+      "detail": "13-14Y / yellow"
     },
     {
       "product_id": "7850104029286",
       "title": "EMBROIDERED SHIRT (E0701/119/804)",
-      "url": "https://pk.ethnc.com/products/boho-shirt-e0701-119-804-804?variant=44388164698214",
-      "kind": "Sold out",
-      "detail": "XS / Chocolate Brown"
-    },
-    {
-      "product_id": "7850104258662",
-      "title": "EMBROIDERED TOP (E0712/119/901)",
-      "url": "https://pk.ethnc.com/products/boho-shirt-e0712-119-901-901?variant=44388165615718",
-      "kind": "Back in stock",
-      "detail": "L / Black"
-    },
-    {
-      "product_id": "7850105012326",
-      "title": "TROUSER (E0740/119/803)",
-      "url": "https://pk.ethnc.com/products/boho-trouser-e0740-119-803-803?variant=44388169777254",
-      "kind": "Back in stock",
-      "detail": "XS / Dark Brown"
-    },
-    {
-      "product_id": "7850105208934",
-      "title": "SHIRT (E0745/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-shirt-e0745-119-902-902",
+      "url": "https://pk.ethnc.com/products/boho-shirt-e0701-119-804-804",
       "kind": "Product updated",
-      "detail": "tags: ['Boho 30 June 26', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0745-119-902-1-shirt-Chartify', 'Price Issue', 'SS-26', 'Women', 'east-meets-west'] → ['Boho 30 June 26', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0745-119-902-1-shirt-Chartify', 'Price Issue', 'SS-26', 'Women', 'east-meets-west', 'women-sale']",
+      "detail": "tags: ['AprSaleWomenPret29Apr2026', 'Boho 16 Feb 26', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0701/119/804-1-shirt-SimplifiedSizechart', 'JuneSaleWomenALL10June2026', 'JuneSaleWomenPret10June2026', 'SS-26', 'Women', 'WomenALL29Apr2026', 'WomenBoho10June2026', 'WomenBoho29Apr2026', 'east-meets-west', 'women-sale'] → ['AprSaleWomenPret29Apr2026', 'Boho 16 Feb 26', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0701/119/804-1-shirt-SimplifiedSizechart', 'JuneSaleWomenALL10June2026', 'JuneSaleWomenPret10June2026', 'SS-26', 'Women', 'WomenALL29Apr2026', 'WomenBoho10June2026', 'WomenBoho29Apr2026', 'east-meets-west']",
       "field": "tags",
       "before": [
-        "Boho 30 June 26",
+        "AprSaleWomenPret29Apr2026",
+        "Boho 16 Feb 26",
         "Boho Shirt",
         "Boho'26",
         "DIS0925",
-        "E0745-119-902-1-shirt-Chartify",
-        "Price Issue",
+        "E0701/119/804-1-shirt-SimplifiedSizechart",
+        "JuneSaleWomenALL10June2026",
+        "JuneSaleWomenPret10June2026",
         "SS-26",
         "Women",
-        "east-meets-west"
-      ],
-      "after": [
-        "Boho 30 June 26",
-        "Boho Shirt",
-        "Boho'26",
-        "DIS0925",
-        "E0745-119-902-1-shirt-Chartify",
-        "Price Issue",
-        "SS-26",
-        "Women",
-        "east-meets-west",
-        "women-sale"
-      ]
-    },
-    {
-      "product_id": "7850105208934",
-      "title": "SHIRT (E0745/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-shirt-e0745-119-902-902?variant=45941824454758",
-      "kind": "Back in stock",
-      "detail": "S / jet-black"
-    },
-    {
-      "product_id": "7850106224742",
-      "title": "SHIRT (E0758/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-shirt-e0758-119-902-902",
-      "kind": "Product updated",
-      "detail": "tags: ['Boho 30 June 26', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0758/119/902-1-shirt-Chartify', 'E0758/119/902-2-shirt-Chartify', 'SS-26', 'Women', 'east-meets-west'] → ['Boho 30 June 26', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0758/119/902-1-shirt-Chartify', 'E0758/119/902-2-shirt-Chartify', 'SS-26', 'Women', 'east-meets-west', 'women-sale']",
-      "field": "tags",
-      "before": [
-        "Boho 30 June 26",
-        "Boho Shirt",
-        "Boho'26",
-        "DIS0925",
-        "E0758/119/902-1-shirt-Chartify",
-        "E0758/119/902-2-shirt-Chartify",
-        "SS-26",
-        "Women",
-        "east-meets-west"
-      ],
-      "after": [
-        "Boho 30 June 26",
-        "Boho Shirt",
-        "Boho'26",
-        "DIS0925",
-        "E0758/119/902-1-shirt-Chartify",
-        "E0758/119/902-2-shirt-Chartify",
-        "SS-26",
-        "Women",
-        "east-meets-west",
-        "women-sale"
-      ]
-    },
-    {
-      "product_id": "7850106224742",
-      "title": "SHIRT (E0758/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-shirt-e0758-119-902-902?variant=44388174626918",
-      "kind": "Back in stock",
-      "detail": "XS / Jet Black"
-    },
-    {
-      "product_id": "7850106355814",
-      "title": "TOP (E0759/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-top-e0759-119-902-902",
-      "kind": "Product updated",
-      "detail": "tags: ['Boho 17 Aug 26', 'Boho Shirt', 'Boho Top', \"Boho'26\", 'DIS0925', 'E0759/119-1-shirt-chartify', 'SS-26', 'Women', 'east-meets-west', 'women-sale'] → ['Boho 17 Aug 26', 'Boho Shirt', 'Boho Top', \"Boho'26\", 'DIS0925', 'E0759/119-1-shirt-chartify', 'SS-26', 'Women', 'east-meets-west']",
-      "field": "tags",
-      "before": [
-        "Boho 17 Aug 26",
-        "Boho Shirt",
-        "Boho Top",
-        "Boho'26",
-        "DIS0925",
-        "E0759/119-1-shirt-chartify",
-        "SS-26",
-        "Women",
+        "WomenALL29Apr2026",
+        "WomenBoho10June2026",
+        "WomenBoho29Apr2026",
         "east-meets-west",
         "women-sale"
       ],
       "after": [
-        "Boho 17 Aug 26",
+        "AprSaleWomenPret29Apr2026",
+        "Boho 16 Feb 26",
         "Boho Shirt",
-        "Boho Top",
         "Boho'26",
         "DIS0925",
-        "E0759/119-1-shirt-chartify",
+        "E0701/119/804-1-shirt-SimplifiedSizechart",
+        "JuneSaleWomenALL10June2026",
+        "JuneSaleWomenPret10June2026",
         "SS-26",
         "Women",
+        "WomenALL29Apr2026",
+        "WomenBoho10June2026",
+        "WomenBoho29Apr2026",
         "east-meets-west"
-      ]
-    },
-    {
-      "product_id": "7850106355814",
-      "title": "TOP (E0759/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-top-e0759-119-902-902?variant=44388175249510",
-      "kind": "Sold out",
-      "detail": "L / Jet Black"
-    },
-    {
-      "product_id": "7850106454118",
-      "title": "SOLID SUIT (E0760/116/901)",
-      "url": "https://pk.ethnc.com/products/basic-suit-e0760-116-901-901?variant=45941822324838",
-      "kind": "Sold out",
-      "detail": "L / Black"
-    },
-    {
-      "product_id": "7850106552422",
-      "title": "KURTI (E0761/119/004)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-e0761-119-004-004",
-      "kind": "Product updated",
-      "detail": "tags: ['Boho 30 June 26', 'Boho Kurti', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0761-119-004-1-shirt-Chartify', 'SS-26', 'Women', 'east-meets-west'] → ['Boho 30 June 26', 'Boho Kurti', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0761-119-004-1-shirt-Chartify', 'SS-26', 'Women', 'east-meets-west', 'women-sale']",
-      "field": "tags",
-      "before": [
-        "Boho 30 June 26",
-        "Boho Kurti",
-        "Boho Shirt",
-        "Boho'26",
-        "DIS0925",
-        "E0761-119-004-1-shirt-Chartify",
-        "SS-26",
-        "Women",
-        "east-meets-west"
-      ],
-      "after": [
-        "Boho 30 June 26",
-        "Boho Kurti",
-        "Boho Shirt",
-        "Boho'26",
-        "DIS0925",
-        "E0761-119-004-1-shirt-Chartify",
-        "SS-26",
-        "Women",
-        "east-meets-west",
-        "women-sale"
-      ]
-    },
-    {
-      "product_id": "7850106552422",
-      "title": "KURTI (E0761/119/004)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-e0761-119-004-004?variant=44388176035942",
-      "kind": "Back in stock",
-      "detail": "L / Lemon Icing"
-    },
-    {
-      "product_id": "7850106716262",
-      "title": "SOLID SUIT (E0764/116/906)",
-      "url": "https://pk.ethnc.com/products/basic-suit-e0764-116-906-906?variant=44388176691302",
-      "kind": "Back in stock",
-      "detail": "L / Grey"
-    },
-    {
-      "product_id": "7850106814566",
-      "title": "SOLID SUIT (E0765/116/304)",
-      "url": "https://pk.ethnc.com/products/basic-suit-e0765-116-304-304",
-      "kind": "New product",
-      "detail": "Price: PKR 4,500.00; available sizes/options: XS / Grape Wine"
-    },
-    {
-      "product_id": "7850107437158",
-      "title": "KIMONO (E0772/119/902)",
-      "url": "https://pk.ethnc.com/products/boho-kimono-e0772-119-902-902?variant=44388179476582",
-      "kind": "Back in stock",
-      "detail": "XS / Jet Black"
-    },
-    {
-      "product_id": "7850108518502",
-      "title": "EMBROIDERED TOP (E0808/119/002)",
-      "url": "https://pk.ethnc.com/products/boho-kurti-e0808-119-002-002",
-      "kind": "Product updated",
-      "detail": "tags: ['Boho 30 June 26', 'Boho Kurti', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0808/119/002-1-shirt-Chartify', 'SS-26', 'Women', 'east-meets-west'] → ['Boho 30 June 26', 'Boho Kurti', 'Boho Shirt', \"Boho'26\", 'DIS0925', 'E0808/119/002-1-shirt-Chartify', 'SS-26', 'Women', 'east-meets-west', 'women-sale']",
-      "field": "tags",
-      "before": [
-        "Boho 30 June 26",
-        "Boho Kurti",
-        "Boho Shirt",
-        "Boho'26",
-        "DIS0925",
-        "E0808/119/002-1-shirt-Chartify",
-        "SS-26",
-        "Women",
-        "east-meets-west"
-      ],
-      "after": [
-        "Boho 30 June 26",
-        "Boho Kurti",
-        "Boho Shirt",
-        "Boho'26",
-        "DIS0925",
-        "E0808/119/002-1-shirt-Chartify",
-        "SS-26",
-        "Women",
-        "east-meets-west",
-        "women-sale"
       ]
     },
     {
       "product_id": "7850108518502",
       "title": "EMBROIDERED TOP (E0808/119/002)",
       "url": "https://pk.ethnc.com/products/boho-kurti-e0808-119-002-002?variant=44388183670886",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "M / Off White"
     },
     {
-      "product_id": "7850108584038",
-      "title": "PRINTED SUIT (E0812/119/629)",
-      "url": "https://pk.ethnc.com/products/boho-suit-e0812-119-629-629?variant=44388183900262",
-      "kind": "Sold out",
-      "detail": "S / Blue"
-    },
-    {
-      "product_id": "7850112024678",
-      "title": "EMBROIDERED SUIT (E1124/101/902)",
-      "url": "https://pk.ethnc.com/products/fusion-suit-e1124-101-902-902?variant=44388197859430",
-      "kind": "Back in stock",
-      "detail": "L / Jet Black"
-    },
-    {
-      "product_id": "7850113400934",
-      "title": "SKIRT (E3376/108/001)",
-      "url": "https://pk.ethnc.com/products/western-skirt-e3376-108-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 3,500.00; available sizes/options: None"
-    },
-    {
-      "product_id": "7850114121830",
-      "title": "SHIRT (E3409/108/514)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e3409-108-514-514?variant=44388206280806",
-      "kind": "Sold out",
-      "detail": "M / Lilac Marble"
-    },
-    {
-      "product_id": "7850114711654",
-      "title": "SHIRT (E3422/108/001)",
-      "url": "https://pk.ethnc.com/products/western-shirt-e3422-108-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 3,990.00; available sizes/options: M / White"
-    },
-    {
-      "product_id": "7850115825766",
-      "title": "EMBROIDERED SUIT (E4021/103/006)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4021-103-006-006",
-      "kind": "New product",
-      "detail": "Price: PKR 8,790.00; available sizes/options: XS / Antique White"
-    },
-    {
-      "product_id": "7850116317286",
-      "title": "PRINTED SHIRT (E4088/103/217)",
-      "url": "https://pk.ethnc.com/products/rozana-dress-e4088-103-217-217",
+      "product_id": "7850115563622",
+      "title": "EMBROIDERED SUIT (E4002/103/817)",
+      "url": "https://pk.ethnc.com/products/rozana-suit-e4002-103-817-817",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
@@ -2082,1264 +570,325 @@
       "product_id": "7850123952230",
       "title": "EMBROIDERED KAFTAN (E4409/103/005)",
       "url": "https://pk.ethnc.com/products/rozana-kaftan-e4409-103-005-005",
-      "kind": "New product",
-      "detail": "Price: PKR 6,490.00; available sizes/options: XS / Vanilla Ice"
-    },
-    {
-      "product_id": "7850127917158",
-      "title": "EMBROIDERED KURTI (E7916/102/005)",
-      "url": "https://pk.ethnc.com/products/casual-kurti-e7916-102-005-005?variant=44388261888102",
-      "kind": "Sold out",
-      "detail": "L / Vanilla Ice"
-    },
-    {
-      "product_id": "7859183124582",
-      "title": "EMBROIDERED SUIT (E0918/404/215 E0918/304/215)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e0918-404-215-215-boutique-suit-e0918-304-215-215",
-      "kind": "New product",
-      "detail": "Price: PKR 5,000.00 – PKR 5,500.00; available sizes/options: 11-12Y / Pale Orange"
-    },
-    {
-      "product_id": "7859920273510",
-      "title": "EMBROIDERED SUIT (E0938/404/406 E0938/304/406)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e0938-404-406-406-boutique-suit-e0938-304-406-406?variant=44428057149542",
-      "kind": "Sold out",
-      "detail": "3-4Y / Barbie Pink"
-    },
-    {
-      "product_id": "7859920339046",
-      "title": "EMBROIDERED SUIT (E0939/404/314 E0939/304/314)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e0939-404-314-314-boutique-suit-e0939-304-314-314?variant=46622120935526",
-      "kind": "Back in stock",
-      "detail": "13-14Y / blush-coral"
-    },
-    {
-      "product_id": "7859925287014",
-      "title": "SHIRT (E2074/401/328)",
-      "url": "https://pk.ethnc.com/products/junior-shirt-e2074-401-328-328",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7859930660966",
-      "title": "PUMPS (E2950/409/415)",
-      "url": "https://pk.ethnc.com/products/pumps-e2950-409-415-415?variant=44428103221350",
+      "product_id": "7850124279910",
+      "title": "EMBROIDERED SHIRT (E7535/102/602)",
+      "url": "https://pk.ethnc.com/products/casual-shirt-e7535-102-602-602",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "7859183485030",
+      "title": "PRINTED SUIT (E1556/402/115 E1556/302/115)",
+      "url": "https://pk.ethnc.com/products/casual-suit-e1556-402-115-115-casual-suit-e1556-302-115-115?variant=44419522887782",
       "kind": "Sold out",
-      "detail": "31 / Burgundy"
+      "detail": "10-11Y / Pale Yellow"
     },
     {
-      "product_id": "7859930955878",
-      "title": "KHUSSA (E2954/409/130)",
-      "url": "https://pk.ethnc.com/products/khussa-e2954-409-130-130?variant=44428104138854",
-      "kind": "Back in stock",
-      "detail": "34 / Pale Green"
+      "product_id": "7859920273510",
+      "title": "EMBROIDERED SUIT (E0938/404/406 E0938/304/406)",
+      "url": "https://pk.ethnc.com/products/boutique-suit-e0938-404-406-406-boutique-suit-e0938-304-406-406",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7884492341350",
-      "title": "PRINTED SUIT (E1674/402/002 E1674/302/002)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1674-402-002-002-casual-suit-e1674-302-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00 – PKR 2,690.00; available sizes/options: 10-11Y / Off White"
-    },
-    {
-      "product_id": "7934830215270",
-      "title": "KHUSSA (E1163/109/901)",
-      "url": "https://pk.ethnc.com/products/khussa-e1163-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 2,500.00; available sizes/options: 37 / Black"
-    },
-    {
-      "product_id": "7934830313574",
-      "title": "EMBROIDERED SUIT (E1554/402/004 E1554/302/004)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1554-402-004-004-casual-suit-e1554-302-004-004",
-      "kind": "New product",
-      "detail": "Price: PKR 2,990.00 – PKR 3,490.00; available sizes/options: 10-11Y / Lemon Icing"
-    },
-    {
-      "product_id": "7934830674022",
-      "title": "KHUSSA (E2956/409/007)",
-      "url": "https://pk.ethnc.com/products/khussa-e2956-409-007-007",
-      "kind": "New product",
-      "detail": "Price: PKR 2,000.00; available sizes/options: 32 / Sand"
-    },
-    {
-      "product_id": "7949105987686",
-      "title": "T-SHIRT (E3628/108/801)",
-      "url": "https://pk.ethnc.com/products/western-suit-e3628-108-801-801",
-      "kind": "Product updated",
-      "detail": "tags: ['AprSaleWomenPret29Apr2026', 'DIS0925', 'FP', 'JuneSaleWomenALL10June2026', 'JuneSaleWomenPret10June2026', 'SS-26', \"Western'26\", 'Women', 'WomenALL29Apr2026', 'WomenWestern10June2026', 'WomenWestern29Apr2026', 'matching separates', 'western tops and tees', 'women-sale', 'women-western'] → ['AprSaleWomenPret29Apr2026', 'DIS0925', 'FP', 'JuneSaleWomenALL10June2026', 'JuneSaleWomenPret10June2026', 'SS-26', \"Western'26\", 'Women', 'WomenALL29Apr2026', 'WomenWestern10June2026', 'WomenWestern29Apr2026', 'matching separates', 'western tops and tees', 'women-western']",
-      "field": "tags",
-      "before": [
-        "AprSaleWomenPret29Apr2026",
-        "DIS0925",
-        "FP",
-        "JuneSaleWomenALL10June2026",
-        "JuneSaleWomenPret10June2026",
-        "SS-26",
-        "Western'26",
-        "Women",
-        "WomenALL29Apr2026",
-        "WomenWestern10June2026",
-        "WomenWestern29Apr2026",
-        "matching separates",
-        "western tops and tees",
-        "women-sale",
-        "women-western"
-      ],
-      "after": [
-        "AprSaleWomenPret29Apr2026",
-        "DIS0925",
-        "FP",
-        "JuneSaleWomenALL10June2026",
-        "JuneSaleWomenPret10June2026",
-        "SS-26",
-        "Western'26",
-        "Women",
-        "WomenALL29Apr2026",
-        "WomenWestern10June2026",
-        "WomenWestern29Apr2026",
-        "matching separates",
-        "western tops and tees",
-        "women-western"
-      ]
-    },
-    {
-      "product_id": "7949105987686",
-      "title": "T-SHIRT (E3628/108/801)",
-      "url": "https://pk.ethnc.com/products/western-suit-e3628-108-801-801?variant=45314970320998",
+      "product_id": "7949823443046",
+      "title": "KHUSSA (E1230/109/808)",
+      "url": "https://pk.ethnc.com/products/khussa-e1230-109-808-808?variant=45333208858726",
       "kind": "Sold out",
-      "detail": "M / Brown"
+      "detail": "40 / Peanut"
     },
     {
-      "product_id": "7949817544806",
-      "title": "JEANS (E0340/120/622)",
-      "url": "https://pk.ethnc.com/products/timelesz-jeans-e0340-120-622-622?variant=45333184774246",
-      "kind": "Back in stock",
-      "detail": "M / Indigo Blue"
-    },
-    {
-      "product_id": "7949819117670",
-      "title": "TOP (E0833/119/112)",
-      "url": "https://pk.ethnc.com/products/boho-top-e0833-119-112-112?variant=45333191000166",
-      "kind": "Back in stock",
-      "detail": "S / Yellow Beige"
-    },
-    {
-      "product_id": "7949820952678",
-      "title": "KHUSSA (E1126/109/816)",
-      "url": "https://pk.ethnc.com/products/khussa-e1126-109-816-816",
-      "kind": "New product",
-      "detail": "Price: PKR 2,590.00; available sizes/options: 38 / Brown Grey, 41 / Brown Grey"
-    },
-    {
-      "product_id": "7949821870182",
-      "title": "EMBROIDERED SHIRT (E1141/101/902)",
-      "url": "https://pk.ethnc.com/products/fusion-top-e1141-101-902-902?variant=45333200633958",
-      "kind": "Back in stock",
-      "detail": "M / Jet Black"
-    },
-    {
-      "product_id": "7949822754918",
-      "title": "KHUSSA (E1167/109/131)",
-      "url": "https://pk.ethnc.com/products/khussa-e1167-109-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 2,690.00; available sizes/options: 36 / Gold"
-    },
-    {
-      "product_id": "7949822787686",
-      "title": "KHUSSA (E1168/109/405)",
-      "url": "https://pk.ethnc.com/products/khussa-e1168-109-405-405",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 37 / Hot Pink, 38 / Hot Pink"
-    },
-    {
-      "product_id": "7949823246438",
-      "title": "KHUSSA (E1225/109/901)",
-      "url": "https://pk.ethnc.com/products/khussa-e1225-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 36 / Black, 37 / Black, 38 / Black"
-    },
-    {
-      "product_id": "7949823344742",
-      "title": "KHUSSA (E1228/109/901)",
-      "url": "https://pk.ethnc.com/products/khussa-e1228-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 2,290.00; available sizes/options: 36 / Black"
-    },
-    {
-      "product_id": "7949823377510",
-      "title": "KHUSSA (E1229/109/617)",
-      "url": "https://pk.ethnc.com/products/khussa-e1229-109-617-617",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: 40 / Light Aqua"
-    },
-    {
-      "product_id": "7949823410278",
-      "title": "KHUSSA (E1230/109/425)",
-      "url": "https://pk.ethnc.com/products/khussa-e1230-109-425-425?variant=45333208694886",
+      "product_id": "7949823705190",
+      "title": "KHUSSA (E1244/109/812)",
+      "url": "https://pk.ethnc.com/products/khussa-e1244-109-812-812?variant=45333210497126",
       "kind": "Sold out",
-      "detail": "41 / Pastel Pink"
-    },
-    {
-      "product_id": "7949823508582",
-      "title": "KHUSSA (E1237/109/817)",
-      "url": "https://pk.ethnc.com/products/khussa-e1237-109-817-817",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 38 / Stone"
-    },
-    {
-      "product_id": "7949823541350",
-      "title": "KHUSSA (E1238/109/901)",
-      "url": "https://pk.ethnc.com/products/khussa-e1238-109-901-901?variant=45333209415782",
-      "kind": "Sold out",
-      "detail": "39 / Black"
-    },
-    {
-      "product_id": "7949823574118",
-      "title": "KHUSSA (E1240/109/001)",
-      "url": "https://pk.ethnc.com/products/khussa-e1240-109-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 38 / White"
-    },
-    {
-      "product_id": "7949823639654",
-      "title": "KHUSSA (E1242/109/901)",
-      "url": "https://pk.ethnc.com/products/khussa-e1242-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 2,290.00; available sizes/options: 36 / Black, 37 / Black"
-    },
-    {
-      "product_id": "7949823869030",
-      "title": "SANDAL (E1250/109/131)",
-      "url": "https://pk.ethnc.com/products/sandal-e1250-109-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 1,690.00; available sizes/options: 36 / Gold"
+      "detail": "40 / Light Grey"
     },
     {
       "product_id": "7949823901798",
       "title": "PUMPS (E1255/109/901)",
       "url": "https://pk.ethnc.com/products/pumps-e1255-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 2,790.00; available sizes/options: 39 / Black"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7949824032870",
-      "title": "KHOLA PURI (E1259/109/218)",
-      "url": "https://pk.ethnc.com/products/khola-puri-e1259-109-218-218",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: 36 / Antique Moss"
-    },
-    {
-      "product_id": "7949824393318",
-      "title": "KHOLA PURI (E1267/109/901)",
-      "url": "https://pk.ethnc.com/products/khola-puri-e1267-109-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 40 / Black"
-    },
-    {
-      "product_id": "7949825507430",
-      "title": "HAIR ACCESSORIES (E2767/111/007)",
-      "url": "https://pk.ethnc.com/products/hair-accessories-e2767-111-007-007",
-      "kind": "New product",
-      "detail": "Price: PKR 550.00; available sizes/options: FREE / Sand"
-    },
-    {
-      "product_id": "7949828063334",
-      "title": "TOP (E3535/108/808)",
-      "url": "https://pk.ethnc.com/products/western-top-e3535-108-808-808",
-      "kind": "New product",
-      "detail": "Price: PKR 1,090.00; available sizes/options: None"
+      "product_id": "7949827604582",
+      "title": "T-SHIRT (E3521/108/819)",
+      "url": "https://pk.ethnc.com/products/western-t-shirt-e3521-108-819-819?variant=45333223473254",
+      "kind": "Sold out",
+      "detail": "S / Medium Oatmeal"
     },
     {
       "product_id": "7949829079142",
       "title": "T-SHIRT (E3563/108/004)",
-      "url": "https://pk.ethnc.com/products/western-t-shirt-e3563-108-004-004",
-      "kind": "New product",
-      "detail": "Price: PKR 1,190.00; available sizes/options: M / Lemon Icing"
-    },
-    {
-      "product_id": "7949829439590",
-      "title": "TROUSER (E3621/108/217)",
-      "url": "https://pk.ethnc.com/products/western-suit-e3621-108-217-217?variant=45333228978278",
-      "kind": "Back in stock",
-      "detail": "L / Golden Brown"
-    },
-    {
-      "product_id": "7949830324326",
-      "title": "EMBROIDERED SUIT (E4329/103/003)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4329-103-003-003?variant=45333232156774",
+      "url": "https://pk.ethnc.com/products/western-t-shirt-e3563-108-004-004?variant=45941819342950",
       "kind": "Sold out",
-      "detail": "XS / Coconut Milk"
-    },
-    {
-      "product_id": "7949831897190",
-      "title": "EMBROIDERED SUIT (E4417/103/005)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4417-103-005-005",
-      "kind": "New product",
-      "detail": "Price: PKR 6,990.00; available sizes/options: S / Vanilla Ice"
+      "detail": "M / Lemon Icing"
     },
     {
       "product_id": "7949831962726",
       "title": "EMBROIDERED SUIT (E4419/103/316)",
       "url": "https://pk.ethnc.com/products/rozana-suit-e4419-103-316-316",
-      "kind": "New product",
-      "detail": "Price: PKR 10,990.00; available sizes/options: XS / Light Pink"
-    },
-    {
-      "product_id": "7949833797734",
-      "title": "EMBROIDERED KAFTAN (E4472/103/115)",
-      "url": "https://pk.ethnc.com/products/rozana-kaftan-e4472-103-115-115",
-      "kind": "New product",
-      "detail": "Price: PKR 7,490.00; available sizes/options: XS / Pale Yellow"
-    },
-    {
-      "product_id": "7949834453094",
-      "title": "EMBROIDERED SUIT (E4489/103/005)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4489-103-005-005",
-      "kind": "New product",
-      "detail": "Price: PKR 6,990.00; available sizes/options: XS / Vanilla Ice"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7949834551398",
       "title": "EMBROIDERED SUIT (E4492/103/006)",
       "url": "https://pk.ethnc.com/products/rozana-suit-e4492-103-006-006",
-      "kind": "New product",
-      "detail": "Price: PKR 6,990.00; available sizes/options: XS / Antique White"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "7949834846310",
+      "title": "EMBROIDERED KAFTAN (E4501/103/112)",
+      "url": "https://pk.ethnc.com/products/rozana-kaftan-e4501-103-112-112?variant=45333252571238",
+      "kind": "Sold out",
+      "detail": "L / Yellow Beige"
+    },
+    {
+      "product_id": "7949836091494",
+      "title": "EMBROIDERED SUIT (E4558/103/814)",
+      "url": "https://pk.ethnc.com/products/rozana-suit-e4558-103-814-814",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7949840613478",
       "title": "EMBROIDERED SUIT (E7849/102/620)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e7849-102-620-620?variant=45333276000358",
-      "kind": "Sold out",
-      "detail": "S / Deep Blue"
-    },
-    {
-      "product_id": "7949841989734",
-      "title": "SOLID SUIT (E8182/102/121)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e8182-102-121-121?variant=46622079975526",
-      "kind": "Back in stock",
-      "detail": "L / olive"
-    },
-    {
-      "product_id": "7949842055270",
-      "title": "SOLID SUIT (E8184/102/204)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e8184-102-204-204?variant=46622078926950",
-      "kind": "Back in stock",
-      "detail": "L / pumpkin"
+      "url": "https://pk.ethnc.com/products/casual-suit-e7849-102-620-620",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
     },
     {
       "product_id": "7949845725286",
       "title": "SOLID SUIT (E8531/102/126)",
       "url": "https://pk.ethnc.com/products/casual-suit-e8531-102-126-126",
-      "kind": "New product",
-      "detail": "Price: PKR 2,990.00; available sizes/options: XS / Apple Green, S / Apple Green"
-    },
-    {
-      "product_id": "7950159904870",
-      "title": "EMBROIDERED SUIT (E0978/404/524 E0978/304/524)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e0978-404-524-524-boutique-suit-e0978-304-524-524",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "7950160035942",
-      "title": "EMBROIDERED SUIT (E0982/404/314 E0982/304/314)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e0982-404-314-314-boutique-suit-e0982-304-314-314",
+      "product_id": "7950159642726",
+      "title": "EMBROIDERED SUIT (E0962/404/106 E0962/304/106)",
+      "url": "https://pk.ethnc.com/products/boutique-suit-e0962-404-106-106-boutique-suit-e0962-304-106-106?variant=45334757638246",
+      "kind": "Sold out",
+      "detail": "10-11Y / Bright Yellow"
+    },
+    {
+      "product_id": "7950162722918",
+      "title": "EMBROIDERED DRESS (E2030/401/720)",
+      "url": "https://pk.ethnc.com/products/junior-dress-e2030-401-720-720",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "7950160167014",
-      "title": "EMBROIDERED SUIT (E0986/404/216 E0986/304/216)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e0986-404-216-216-boutique-suit-e0986-304-216-216?variant=45334763307110",
-      "kind": "Sold out",
-      "detail": "7-8Y / Pale Orange"
-    },
-    {
-      "product_id": "7950160494694",
-      "title": "EMBROIDERED SUIT (E0996/404/515 E0996/304/515)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e0996-404-515-515-boutique-suit-e0996-304-515-515?variant=45941814820966",
-      "kind": "Sold out",
-      "detail": "6-7Y / lilac-ice"
-    },
-    {
-      "product_id": "7950162231398",
-      "title": "EMBROIDERED SUIT (E1615/402/902 E1615/302/902)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1615-402-902-902-casual-suit-e1615-302-902-902?variant=46622021877862",
-      "kind": "Sold out",
-      "detail": "9-10Y / jet-black"
-    },
-    {
-      "product_id": "7950162264166",
-      "title": "EMBROIDERED SUIT (E1616/402/621 E1616/302/621)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1616-402-621-621-casual-suit-e1616-302-621-621?variant=46622020993126",
-      "kind": "Sold out",
-      "detail": "4-5Y / twilight"
-    },
-    {
-      "product_id": "7950162526310",
-      "title": "PRINTED SUIT (E1703/402/722 E1703/302/722)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1703-402-722-722-casual-suit-e1703-302-722-722?variant=45941811019878",
-      "kind": "Sold out",
-      "detail": "11-12Y / pastel-green"
-    },
-    {
-      "product_id": "7950162624614",
-      "title": "PRINTED SUIT (E1708/402/001 E1708/302/001)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1708-402-001-001-casual-suit-e1708-302-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 1,990.00 – PKR 2,190.00; available sizes/options: 11-12Y / White"
-    },
-    {
-      "product_id": "7950164295782",
-      "title": "CO-ORD SET (E2126/301/512)",
-      "url": "https://pk.ethnc.com/products/toddler-suit-e2126-301-512-512",
-      "kind": "New product",
-      "detail": "Price: PKR 3,490.00; available sizes/options: 3-4Y / Smoky Grape"
     },
     {
       "product_id": "7950164459622",
       "title": "CO-ORD SET (E2131/401/902)",
-      "url": "https://pk.ethnc.com/products/junior-suit-e2131-401-902-902?variant=45334801023078",
+      "url": "https://pk.ethnc.com/products/junior-suit-e2131-401-902-902",
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "7950165049446",
+      "title": "TROUSER (E2173/401/622)",
+      "url": "https://pk.ethnc.com/products/junior-trouser-e2173-401-622-622?variant=45334804496486",
       "kind": "Sold out",
-      "detail": "10-11Y / Jet Black"
-    },
-    {
-      "product_id": "7950164852838",
-      "title": "CO-ORD SET (E2155/401/130)",
-      "url": "https://pk.ethnc.com/products/junior-suit-e2155-401-130-130",
-      "kind": "New product",
-      "detail": "Price: PKR 1,590.00; available sizes/options: 8-9Y / Pale Green"
-    },
-    {
-      "product_id": "7950168752230",
-      "title": "T-SHIRT (E2246/301/110)",
-      "url": "https://pk.ethnc.com/products/toddler-t-shirt-e2246-301-110-110",
-      "kind": "New product",
-      "detail": "Price: PKR 940.00; available sizes/options: 2-3Y / yellow-beige"
+      "detail": "8-9Y / Indigo Blue"
     },
     {
       "product_id": "7950169440358",
       "title": "TIGHTS (E2284/301/902)",
       "url": "https://pk.ethnc.com/products/toddler-tights-e2284-301-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 840.00; available sizes/options: 4-5Y / jet-black"
-    },
-    {
-      "product_id": "7962102235238",
-      "title": "JEWELLERY (E0421/410/131)",
-      "url": "https://pk.ethnc.com/products/jewellery-e0421-410-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 990.00; available sizes/options: FREE / Gold"
-    },
-    {
-      "product_id": "7962103119974",
-      "title": "PANTS (E0804/119/621)",
-      "url": "https://pk.ethnc.com/products/boho-pants-e0804-119-621-621",
-      "kind": "Product updated",
-      "detail": "tags: ['Boho Bottoms', \"Boho'26\", 'E0804-119-2-pant-chartify', 'FP', 'FP0925', 'SS-26', 'east-meets-west', 'women', 'women-fp'] → ['Boho Bottoms', \"Boho'26\", 'E0804-119-2-pant-chartify', 'FP', 'FP0925', 'SS-26', 'east-meets-west', 'women']",
-      "field": "tags",
-      "before": [
-        "Boho Bottoms",
-        "Boho'26",
-        "E0804-119-2-pant-chartify",
-        "FP",
-        "FP0925",
-        "SS-26",
-        "east-meets-west",
-        "women",
-        "women-fp"
-      ],
-      "after": [
-        "Boho Bottoms",
-        "Boho'26",
-        "E0804-119-2-pant-chartify",
-        "FP",
-        "FP0925",
-        "SS-26",
-        "east-meets-west",
-        "women"
-      ]
-    },
-    {
-      "product_id": "7962103480422",
-      "title": "SKIRT (E1172/101/902)",
-      "url": "https://pk.ethnc.com/products/fusion-skirt-e1172-101-902-902?variant=45444140138598",
-      "kind": "Back in stock",
-      "detail": "L / Jet Black"
-    },
-    {
-      "product_id": "7962103513190",
-      "title": "PUMPS (E1252/109/131)",
-      "url": "https://pk.ethnc.com/products/pumps-e1252-109-131-131",
-      "kind": "New product",
-      "detail": "Price: PKR 2,490.00; available sizes/options: 40 / gold"
-    },
-    {
-      "product_id": "7962103611494",
-      "title": "EMBROIDERED SUIT (E1617/402/901 E1617/302/901)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1617-402-901-901-casual-suit-e1617-302-901-901?variant=46621982326886",
-      "kind": "Sold out",
-      "detail": "7-8Y / black"
-    },
-    {
-      "product_id": "7962103677030",
-      "title": "EMBROIDERED SUIT (E1619/402/326 E1619/302/326)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1619-402-326-326-casual-suit-e1619-302-326-326",
-      "kind": "New product",
-      "detail": "Price: PKR 3,990.00 – PKR 4,490.00; available sizes/options: 11-12Y / coral"
-    },
-    {
-      "product_id": "7962105938022",
-      "title": "EMBROIDERED SUIT (E4554/103/901)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4554-103-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 7,990.00; available sizes/options: XS / Black"
-    },
-    {
-      "product_id": "7962106134630",
-      "title": "EMBROIDERED SUIT (E4611/103/226)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4611-103-226-226",
-      "kind": "New product",
-      "detail": "Price: PKR 8,990.00; available sizes/options: XS / Pale Yellow, M / Pale Yellow"
-    },
-    {
-      "product_id": "7987608748134",
-      "title": "SKIRT (E3608/108/618)",
-      "url": "https://pk.ethnc.com/products/western-skirt-e3608-108-618-618",
-      "kind": "Product updated",
-      "detail": "tags: ['DIS0925', 'E3608/108/618-1-skirt-SimplifiedSizechart', 'FP', 'JuneSaleWomenALL10June2026', 'JuneSaleWomenPret10June2026', 'SS-26', 'Western Bottom', \"Western Bottoms'26\", \"Western'26\", 'Women West 22 June 26', 'Women-Western', 'WomenWestern10June2026', 'western skirts', 'western trousers', 'women', 'women-sale'] → ['DIS0925', 'E3608/108/618-1-skirt-SimplifiedSizechart', 'FP', 'JuneSaleWomenALL10June2026', 'JuneSaleWomenPret10June2026', 'SS-26', 'Western Bottom', \"Western Bottoms'26\", \"Western'26\", 'Women West 22 June 26', 'Women-Western', 'WomenWestern10June2026', 'western skirts', 'western trousers', 'women']",
-      "field": "tags",
-      "before": [
-        "DIS0925",
-        "E3608/108/618-1-skirt-SimplifiedSizechart",
-        "FP",
-        "JuneSaleWomenALL10June2026",
-        "JuneSaleWomenPret10June2026",
-        "SS-26",
-        "Western Bottom",
-        "Western Bottoms'26",
-        "Western'26",
-        "Women West 22 June 26",
-        "Women-Western",
-        "WomenWestern10June2026",
-        "western skirts",
-        "western trousers",
-        "women",
-        "women-sale"
-      ],
-      "after": [
-        "DIS0925",
-        "E3608/108/618-1-skirt-SimplifiedSizechart",
-        "FP",
-        "JuneSaleWomenALL10June2026",
-        "JuneSaleWomenPret10June2026",
-        "SS-26",
-        "Western Bottom",
-        "Western Bottoms'26",
-        "Western'26",
-        "Women West 22 June 26",
-        "Women-Western",
-        "WomenWestern10June2026",
-        "western skirts",
-        "western trousers",
-        "women"
-      ]
-    },
-    {
-      "product_id": "7987608748134",
-      "title": "SKIRT (E3608/108/618)",
-      "url": "https://pk.ethnc.com/products/western-skirt-e3608-108-618-618?variant=45562571030630",
-      "kind": "Sold out",
-      "detail": "S / Dark Blue"
-    },
-    {
-      "product_id": "8008126496870",
-      "title": "EMBROIDERED SUIT (E0788/106/001)",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0788-106-001-001",
-      "kind": "New product",
-      "detail": "Price: PKR 6,490.00; available sizes/options: XS / White, S / White, L / White"
-    },
-    {
-      "product_id": "8008126988390",
-      "title": "EMBROIDERED SUIT (E0793-106-902)",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0793-106-902-902",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "8008127283302",
-      "title": "SOLID SUIT (E0800/106/902)",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0800-106-902-902?variant=45632228556902",
+      "product_id": "7962104070246",
+      "title": "CO-ORD SET (E2091/401/902)",
+      "url": "https://pk.ethnc.com/products/junior-suit-e2091-401-902-902?variant=45444144660582",
       "kind": "Sold out",
-      "detail": "L / Jet Black"
+      "detail": "10-11Y / Jet Black"
     },
     {
-      "product_id": "8008132067430",
-      "title": "EMBROIDERED SUIT (E0896/119/002)",
-      "url": "https://pk.ethnc.com/products/boho-suit-e0896-119-002-002",
-      "kind": "Product updated",
-      "detail": "tags: ['Boho Suit', \"Boho'26\", 'E0896/119-1-waistcoat-chartify', 'E0896/119-2-trouser-chartify', 'FP', 'FP0925', 'SS-26', 'east-meets-west', 'women'] → ['Boho Suit', \"Boho'26\", 'E0896/119-1-waistcoat-chartify', 'E0896/119-2-trouser-chartify', 'FP', 'FP0925', 'SS-26', 'east-meets-west', 'women', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "Boho Suit",
-        "Boho'26",
-        "E0896/119-1-waistcoat-chartify",
-        "E0896/119-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "SS-26",
-        "east-meets-west",
-        "women"
-      ],
-      "after": [
-        "Boho Suit",
-        "Boho'26",
-        "E0896/119-1-waistcoat-chartify",
-        "E0896/119-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "SS-26",
-        "east-meets-west",
-        "women",
-        "women-fp"
-      ]
+      "product_id": "7962106134630",
+      "title": "EMBROIDERED SUIT (E4611/103/226)",
+      "url": "https://pk.ethnc.com/products/rozana-suit-e4611-103-226-226?variant=45444150558822",
+      "kind": "Sold out",
+      "detail": "M / Pale Yellow"
+    },
+    {
+      "product_id": "7962107379814",
+      "title": "EMBROIDERED SUIT (E8227/102/006)",
+      "url": "https://pk.ethnc.com/products/casual-suit-e8227-102-006-006?variant=45444155375718",
+      "kind": "Sold out",
+      "detail": "L / Antique White"
+    },
+    {
+      "product_id": "8008126496870",
+      "title": "EMBROIDERED SUIT (E0788/106/001)",
+      "url": "https://pk.ethnc.com/products/studio-suit-e0788-106-001-001?variant=45632226558054",
+      "kind": "Sold out",
+      "detail": "L / White"
     },
     {
       "product_id": "8008133148774",
       "title": "EMBROIDERED SUIT (E1200/104/902)",
       "url": "https://pk.ethnc.com/products/boutique-suit-e1200-104-902-902",
-      "kind": "New product",
-      "detail": "Price: PKR 17,490.00; available sizes/options: M / Jet Black"
-    },
-    {
-      "product_id": "8008133247078",
-      "title": "EMBROIDERED SUIT (E1202/104/714)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e1202-104-714-714?variant=45632241926246",
-      "kind": "Back in stock",
-      "detail": "L / Sea Green"
-    },
-    {
-      "product_id": "8008133804134",
-      "title": "EMBROIDERED SUIT (E1212/104/306)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e1212-104-306-306?variant=45632243466342",
-      "kind": "Back in stock",
-      "detail": "L / Cherry Red"
-    },
-    {
-      "product_id": "8008145240166",
-      "title": "PRINTED KURTI (E8014/102/604)",
-      "url": "https://pk.ethnc.com/products/casual-kurti-e8014-102-604-604",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
     },
     {
-      "product_id": "8008146157670",
-      "title": "EMBROIDERED SUIT (E8246/102/902)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e8246-102-902-902?variant=45632279511142",
-      "kind": "Back in stock",
-      "detail": "L / Jet Black"
-    },
-    {
-      "product_id": "8008147927142",
-      "title": "PRINTED SUIT (E8291/102/110)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e8291-102-110-110?variant=45632284426342",
-      "kind": "Sold out",
-      "detail": "M / Yellow Beige"
-    },
-    {
-      "product_id": "8008148189286",
-      "title": "PRINTED SUIT (E8298/102/902)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e8298-102-902-902",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8008150745190",
-      "title": "EMBROIDERED DRESS (E9213/102/001)",
-      "url": "https://pk.ethnc.com/products/casual-dress-e9213-102-001-001",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8008151203942",
-      "title": "TROUSER (E9220/102/002)",
-      "url": "https://pk.ethnc.com/products/casual-trouser-e9220-102-002-002",
-      "kind": "New product",
-      "detail": "Price: PKR 2,190.00; available sizes/options: M / Off White"
+      "product_id": "8008134459494",
+      "title": "EMBROIDERED SUIT (E1222/104/402)",
+      "url": "https://pk.ethnc.com/products/boutique-suit-e1222-104-402-402",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "<p>Immerse in classic opulence with this 2-piece festive suit. A thigh-length, straight-cut tunic designed with an intricately worked round neckline and front placket detailing featuring decorative hanging tassels. The shirt is accented with all-over sequin spray floral work, wide sleeves with embroidered mustard cuff panels, and a heavy scalloped hemline. Paired with matching deep plum flared gharara bottoms. Features delicate vertical tilla embroidery stripes, prominent embroidered medallion motifs above the knee flare, and an ornate, multi-tiered border trim along the hem.<br>-Mulberry Color<br>-Stitched Article<br>-2 piece</p>\n<p class=\"MsoNormal\"><b>Size &amp; Fit:</b><br>-Model height is 5'6.<br>-Model is wearing<b> XS </b>size.</p>",
+      "after": "<p>Immerse in classic opulence with this 2-piece festive suit. A thigh-length, straight-cut tunic designed with an intricately worked round neckline and front placket detailing featuring decorative hanging tassels. The shirt is accented with all-over sequin spray floral work, wide sleeves with embroidered mustard cuff panels, and a heavy scalloped hemline. Paired with matching deep plum flared lehnga. Features delicate vertical tilla embroidery stripes, prominent embroidered medallion motifs above the knee flare, and an ornate, multi-tiered border trim along the hem.<br>-Mulberry Color<br>-Stitched Article<br>-2 piece</p>\n<p class=\"MsoNormal\"><b>Size &amp; Fit:</b><br>-Model height is 5'6.<br>-Model is wearing<b> XS </b>size.</p>"
     },
     {
       "product_id": "8034484125798",
       "title": "EMBROIDERED KURTI (E8005-102-617)",
       "url": "https://pk.ethnc.com/products/casual-kurti-e8005-102-617-617",
-      "kind": "New product",
-      "detail": "Price: PKR 2,690.00; available sizes/options: M / Light Aqua"
+      "kind": "Product removed",
+      "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8095558107238",
+      "title": "EMBROIDERED SUIT (E1078-404-415 E1078-304-415)",
+      "url": "https://pk.ethnc.com/products/boutique-suit-e1078-404-415-415-boutique-suit-e1078-304-415-415?variant=45923427549286",
+      "kind": "Sold out",
+      "detail": "4-5Y / Burgundy"
+    },
+    {
+      "product_id": "8095558107238",
+      "title": "EMBROIDERED SUIT (E1078-404-415 E1078-304-415)",
+      "url": "https://pk.ethnc.com/products/boutique-suit-e1078-404-415-415-boutique-suit-e1078-304-415-415?variant=45923427647590",
+      "kind": "Sold out",
+      "detail": "7-8Y / Burgundy"
     },
     {
       "product_id": "8095559975014",
       "title": "PRINTED SUIT (E1873-402-809 E1873-302-809)",
       "url": "https://pk.ethnc.com/products/casual-suit-e1873-402-809-809-casual-suit-e1873-302-809-809?variant=45923446292582",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "5-6Y / Shadow Grey"
     },
     {
-      "product_id": "8095559975014",
-      "title": "PRINTED SUIT (E1873-402-809 E1873-302-809)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1873-402-809-809-casual-suit-e1873-302-809-809?variant=45923446358118",
+      "product_id": "8099969597542",
+      "title": "EMBROIDERED SUIT (E4739/103/304)",
+      "url": "https://pk.ethnc.com/products/rozana-suit-e4739-103-304-304?variant=45933696188518",
       "kind": "Sold out",
-      "detail": "7-8Y / Shadow Grey"
+      "detail": "M / Grape Wine"
     },
     {
-      "product_id": "8099947413606",
-      "title": "EMBROIDERED SUIT (E1241-104-801)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e1241-104-801-801?variant=45933560168550",
-      "kind": "Sold out",
-      "detail": "XS / Brown"
-    },
-    {
-      "product_id": "8099948298342",
-      "title": "PUMPS (E1251/109/111)",
-      "url": "https://pk.ethnc.com/products/pumps-e1251-109-111-111?variant=45933565673574",
-      "kind": "Sold out",
-      "detail": "41 / Yellow Beige"
-    },
-    {
-      "product_id": "8099948363878",
-      "title": "EMBROIDERED KAFTAN (E1251-104-901)",
-      "url": "https://pk.ethnc.com/products/boutique-kaftan-e1251-104-901-901",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8099949707366",
-      "title": "EMBROIDERED SUIT (E1269-104-002)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e1269-104-002-002",
-      "kind": "Product updated",
-      "detail": "tags: ['Boutique', 'Boutique 9 Nov 26', 'Boutique suit', \"Boutique'26\", 'E1269/104-1-shirt-chartify', 'E1269/104-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern'] → ['Boutique', 'Boutique 9 Nov 26', 'Boutique suit', \"Boutique'26\", 'E1269/104-1-shirt-chartify', 'E1269/104-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "Boutique",
-        "Boutique 9 Nov 26",
-        "Boutique suit",
-        "Boutique'26",
-        "E1269/104-1-shirt-chartify",
-        "E1269/104-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ],
-      "after": [
-        "Boutique",
-        "Boutique 9 Nov 26",
-        "Boutique suit",
-        "Boutique'26",
-        "E1269/104-1-shirt-chartify",
-        "E1269/104-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "8099950428262",
-      "title": "EMBROIDERED SUIT (E1284-104-622)",
-      "url": "https://pk.ethnc.com/products/boutique-suit-e1284-104-622-622?variant=45933579960422",
-      "kind": "Sold out",
-      "detail": "S / Indigo Blue"
-    },
-    {
-      "product_id": "8099952263270",
-      "title": "PUMPS (E1545-109-901)",
-      "url": "https://pk.ethnc.com/products/pumps-e1545-109-901-901?variant=45933599129702",
-      "kind": "Back in stock",
-      "detail": "41 / Black"
-    },
-    {
-      "product_id": "8099954032742",
-      "title": "HEELS (E1556-109-415)",
-      "url": "https://pk.ethnc.com/products/heels-e1556-109-415-415?variant=45933615743078",
-      "kind": "Back in stock",
-      "detail": "36 / Burgundy"
-    },
-    {
-      "product_id": "8099954393190",
-      "title": "PUMPS (E1561-109-801)",
-      "url": "https://pk.ethnc.com/products/pumps-e1561-109-801-801?variant=45933618331750",
-      "kind": "Sold out",
-      "detail": "40 / Brown"
-    },
-    {
-      "product_id": "8099955834982",
-      "title": "PUMPS (E1574-109-901)",
-      "url": "https://pk.ethnc.com/products/pumps-e1574-109-901-901?variant=45933630980198",
-      "kind": "Sold out",
-      "detail": "41 / Black"
-    },
-    {
-      "product_id": "8099968188518",
-      "title": "EMBROIDERED SUIT (E4715-103-004)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4715-103-004-004?variant=45933692223590",
-      "kind": "Sold out",
-      "detail": "XS / Lemon Icing"
-    },
-    {
-      "product_id": "8099969073254",
-      "title": "EMBROIDERED KAFTAN (E4730-103-004)",
-      "url": "https://pk.ethnc.com/products/rozana-kaftan-e4730-103-004-004?variant=45933694779494",
-      "kind": "Sold out",
-      "detail": "M / Lemon Icing"
-    },
-    {
-      "product_id": "8099970875494",
-      "title": "EMBROIDERED SUIT (E4764-103-901)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4764-103-901-901?variant=45933700022374",
+      "product_id": "8099974316134",
+      "title": "EMBROIDERED SUIT (E4838-103-901)",
+      "url": "https://pk.ethnc.com/products/rozana-suit-e4838-103-901-901?variant=45933713096806",
       "kind": "Sold out",
       "detail": "L / Black"
     },
     {
-      "product_id": "8099974086758",
-      "title": "EMBROIDERED DRESS (E4833-103-901)",
-      "url": "https://pk.ethnc.com/products/rozana-dress-e4833-103-901-901?variant=45933712343142",
-      "kind": "Sold out",
-      "detail": "M / Black"
-    },
-    {
-      "product_id": "8099974250598",
-      "title": "EMBROIDERED SUIT (E4836-103-708)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4836-103-708-708",
-      "kind": "Product updated",
-      "detail": "tags: ['E4836-103-1-shirt-chartify', 'E4836-103-2-trouser-chartify', 'FP', 'FP0925', 'Rozana Suit', \"Rozana'26\", 'WS-26', 'women', 'women-eastern'] → ['E4836-103-1-shirt-chartify', 'E4836-103-2-trouser-chartify', 'FP', 'FP0925', 'Rozana Suit', \"Rozana'26\", 'WS-26', 'women', 'women-eastern', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "E4836-103-1-shirt-chartify",
-        "E4836-103-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ],
-      "after": [
-        "E4836-103-1-shirt-chartify",
-        "E4836-103-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "8099975037030",
-      "title": "EMBROIDERED SUIT (E4865-103-416)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4865-103-416-416",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
       "product_id": "8099975987302",
       "title": "EMBROIDERED SUIT (E4931-103-105)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4931-103-105-105?variant=45933719322726",
-      "kind": "Sold out",
-      "detail": "S / Yellow"
-    },
-    {
-      "product_id": "8099976380518",
-      "title": "EMBROIDERED KAFTAN (E9307-102-802)",
-      "url": "https://pk.ethnc.com/products/casual-kaftan-e9307-102-802-802?variant=45933720961126",
-      "kind": "Sold out",
-      "detail": "L / Coffee"
-    },
-    {
-      "product_id": "8099976544358",
-      "title": "PRINTED KAFTAN (E9312-102-004)",
-      "url": "https://pk.ethnc.com/products/casual-kaftan-e9312-102-004-004?variant=45933721616486",
-      "kind": "Sold out",
-      "detail": "L / Lemon Icing"
-    },
-    {
-      "product_id": "8099977887846",
-      "title": "EMBROIDERED DRESS (E9373-102-621)",
-      "url": "https://pk.ethnc.com/products/casual-dress-e9373-102-621-621?variant=45933726957670",
-      "kind": "Sold out",
-      "detail": "L / Twilight"
-    },
-    {
-      "product_id": "8099978117222",
-      "title": "EMBROIDERED DRESS (E9377/102/517)",
-      "url": "https://pk.ethnc.com/products/casual-dress-e9377-102-517-517",
+      "url": "https://pk.ethnc.com/products/rozana-suit-e4931-103-105-105",
       "kind": "Product removed",
       "detail": "No longer listed in the collection"
+    },
+    {
+      "product_id": "8099978084454",
+      "title": "EMBROIDERED SUIT (E9376/102/305)",
+      "url": "https://pk.ethnc.com/products/casual-suit-e9376-102-305-305?variant=45933727350886",
+      "kind": "Sold out",
+      "detail": "M / Brick Red"
+    },
+    {
+      "product_id": "8099978084454",
+      "title": "EMBROIDERED SUIT (E9376/102/305)",
+      "url": "https://pk.ethnc.com/products/casual-suit-e9376-102-305-305?variant=45933727383654",
+      "kind": "Sold out",
+      "detail": "L / Brick Red"
     },
     {
       "product_id": "8099978739814",
       "title": "EMBROIDERED SUIT (E9389-102-817)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9389-102-817-817?variant=45933729251430",
+      "url": "https://pk.ethnc.com/products/casual-suit-e9389-102-817-817?variant=45933729284198",
       "kind": "Sold out",
-      "detail": "S / Stone"
+      "detail": "M / Stone"
     },
     {
       "product_id": "8099979165798",
       "title": "PRINTED KAFTAN (E9400-102-517)",
       "url": "https://pk.ethnc.com/products/casual-kaftan-e9400-102-517-517?variant=45933730824294",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "L / Plum"
     },
     {
-      "product_id": "8099980607590",
-      "title": "EMBROIDERED SUIT (E9493-102-902)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9493-102-902-902",
-      "kind": "Product updated",
-      "detail": "tags: ['Casual Suit', \"Casual'26\", 'E9493/102-1-shirt-chartify', 'E9493/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern'] → ['Casual Suit', \"Casual'26\", 'E9493/102-1-shirt-chartify', 'E9493/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "Casual Suit",
-        "Casual'26",
-        "E9493/102-1-shirt-chartify",
-        "E9493/102-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ],
-      "after": [
-        "Casual Suit",
-        "Casual'26",
-        "E9493/102-1-shirt-chartify",
-        "E9493/102-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "8099981688934",
-      "title": "EMBROIDERED KURTI (E9606-102-318)",
-      "url": "https://pk.ethnc.com/products/casual-kurti-e9606-102-318-318?variant=45933740458086",
+      "product_id": "8099982278758",
+      "title": "PRINTED KURTI (E9616-102-902)",
+      "url": "https://pk.ethnc.com/products/casual-kurti-e9616-102-902-902?variant=45933742620774",
       "kind": "Sold out",
-      "detail": "XS / Chocolate"
-    },
-    {
-      "product_id": "8099982835814",
-      "title": "TROUSER (E9628-102-007)",
-      "url": "https://pk.ethnc.com/products/casual-trouser-e9628-102-007-007?variant=45933744947302",
-      "kind": "Sold out",
-      "detail": "L / Sand"
-    },
-    {
-      "product_id": "8099983818854",
-      "title": "PRINTED KAFTAN (E9639-102-902)",
-      "url": "https://pk.ethnc.com/products/casual-kaftan-e9639-102-902-902?variant=45933748682854",
-      "kind": "Back in stock",
-      "detail": "L / Jet Black"
-    },
-    {
-      "product_id": "8099987914854",
-      "title": "PRINTED SUIT (E9771-102-127)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9771-102-127-127?variant=45933762478182",
-      "kind": "Sold out",
-      "detail": "L / Apple Green"
-    },
-    {
-      "product_id": "8169509355622",
-      "title": "TROUSER (E0820-119-001)",
-      "url": "https://pk.ethnc.com/products/boho-trouser-e0820-119-001-001",
-      "kind": "Product updated",
-      "detail": "tags: ['Boho Bottoms', \"Boho'26\", 'E0820-119-2-trouser-chartify', 'FP', 'FP0925', 'SS-26', 'east-meets-west', 'women'] → ['Boho Bottoms', \"Boho'26\", 'E0820-119-2-trouser-chartify', 'FP', 'FP0925', 'SS-26', 'east-meets-west', 'women', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "Boho Bottoms",
-        "Boho'26",
-        "E0820-119-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "SS-26",
-        "east-meets-west",
-        "women"
-      ],
-      "after": [
-        "Boho Bottoms",
-        "Boho'26",
-        "E0820-119-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "SS-26",
-        "east-meets-west",
-        "women",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "8169509388390",
-      "title": "TROUSER (E0820-119-902)",
-      "url": "https://pk.ethnc.com/products/boho-trouser-e0820-119-902-902",
-      "kind": "Product updated",
-      "detail": "tags: ['Boho Bottoms', \"Boho'26\", 'E0820-119-2-trouser-chartify', 'FP', 'FP0925', 'SS-26', 'east-meets-west', 'women'] → ['Boho Bottoms', \"Boho'26\", 'E0820-119-2-trouser-chartify', 'FP', 'FP0925', 'SS-26', 'east-meets-west', 'women', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "Boho Bottoms",
-        "Boho'26",
-        "E0820-119-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "SS-26",
-        "east-meets-west",
-        "women"
-      ],
-      "after": [
-        "Boho Bottoms",
-        "Boho'26",
-        "E0820-119-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "SS-26",
-        "east-meets-west",
-        "women",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "8169511747686",
-      "title": "KHUSSA (E1338-109-901)",
-      "url": "https://pk.ethnc.com/products/khussa-e1338-109-901-901?variant=46643600621670",
-      "kind": "Back in stock",
-      "detail": "41 / Black"
+      "detail": "XS / Jet Black"
     },
     {
       "product_id": "8169516925030",
       "title": "EMBROIDERED SUIT (E4845-103-620)",
       "url": "https://pk.ethnc.com/products/rozana-suit-e4845-103-620-620?variant=46643617071206",
-      "kind": "Back in stock",
+      "kind": "Sold out",
       "detail": "XS / Deep Blue"
     },
     {
-      "product_id": "8169517351014",
-      "title": "EMBROIDERED SUIT (E4896-103-007)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4896-103-007-007",
-      "kind": "Product updated",
-      "detail": "tags: ['E4896/103/007-1-shirt-chartify', 'E4896/103/007-2-trouser-chartify', 'FP', 'FP0925', 'Rozana Suit', \"Rozana'26\", 'WS-26', 'women', 'women-eastern', 'women-fp'] → ['E4896/103/007-1-shirt-chartify', 'E4896/103/007-2-trouser-chartify', 'FP', 'FP0925', 'Rozana Suit', \"Rozana'26\", 'WS-26', 'women', 'women-eastern']",
-      "field": "tags",
-      "before": [
-        "E4896/103/007-1-shirt-chartify",
-        "E4896/103/007-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ],
-      "after": [
-        "E4896/103/007-1-shirt-chartify",
-        "E4896/103/007-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ]
-    },
-    {
-      "product_id": "8169517514854",
-      "title": "EMBROIDERED SUIT (E4900-103-619)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4900-103-619-619",
-      "kind": "Product updated",
-      "detail": "tags: ['E4900/103/619-1-shirt-chartify', 'E4900/103/619-2-trouser-chartify', 'FP', 'FP0925', 'Rozana Suit', \"Rozana'26\", 'WS-26', 'women', 'women-eastern', 'women-fp'] → ['E4900/103/619-1-shirt-chartify', 'E4900/103/619-2-trouser-chartify', 'FP', 'FP0925', 'Rozana Suit', \"Rozana'26\", 'WS-26', 'women', 'women-eastern']",
-      "field": "tags",
-      "before": [
-        "E4900/103/619-1-shirt-chartify",
-        "E4900/103/619-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ],
-      "after": [
-        "E4900/103/619-1-shirt-chartify",
-        "E4900/103/619-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ]
-    },
-    {
-      "product_id": "8169518071910",
-      "title": "EMBROIDERED SUIT (E4912-103-402)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4912-103-402-402?variant=46643620708454",
+      "product_id": "8169521217638",
+      "title": "EMBROIDERED SUIT (E9536-102-004)",
+      "url": "https://pk.ethnc.com/products/casual-suit-e9536-102-004-004?variant=46643633291366",
       "kind": "Sold out",
-      "detail": "L / Mulberry"
+      "detail": "S / Lemon Icing"
     },
     {
-      "product_id": "8169518628966",
-      "title": "EMBROIDERED SUIT (E4937-103-702)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4937-103-702-702?variant=46643622707302",
+      "product_id": "8169522430054",
+      "title": "PRINTED KURTI (E9722-102-003)",
+      "url": "https://pk.ethnc.com/products/casual-kurti-e9722-102-003-003?variant=46643640565862",
       "kind": "Sold out",
-      "detail": "M / Dark Green"
+      "detail": "S / Coconut Milk"
     },
     {
-      "product_id": "8169518661734",
-      "title": "EMBROIDERED SUIT (E4938-103-823)",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4938-103-823-823",
+      "product_id": "8198440845414",
+      "title": "EMBROIDERED SUIT (E1097-404-306 E1097-304-306)",
+      "url": "https://pk.ethnc.com/products/boutique-suit-e1097-404-306-306-boutique-suit-e1097-304-306-306",
       "kind": "Product updated",
-      "detail": "tags: ['E4938/103-1-shirt-chartify', 'E4938/103-2-trouser-chartify', 'FP', 'FP0925', 'Rozana Suit', \"Rozana'26\", 'WS-26', 'women', 'women-eastern'] → ['E4938/103-1-shirt-chartify', 'E4938/103-2-trouser-chartify', 'FP', 'FP0925', 'Rozana Suit', \"Rozana'26\", 'WS-26', 'women', 'women-eastern', 'women-fp']",
+      "detail": "tags: [\"Boutique Kids'26\", 'E1097-304-1-shirt-chartify', 'E1097-304-2-gharara-chartify', \"EASTERN KIDS'26\", 'FP', 'FP0925', 'WS26-KIDS', 'boutique kids', 'eastern kids', 'kids', 'kids-boutique'] → [\"Boutique Kids'26\", 'E1097-304-1-shirt-chartify', 'E1097-304-2-gharara-chartify', \"EASTERN KIDS'26\", 'FP', 'FP0925', 'WS26-KIDS', 'boutique kids', 'eastern kids', 'kids', 'kids-boutique', 'kids-fp']",
       "field": "tags",
       "before": [
-        "E4938/103-1-shirt-chartify",
-        "E4938/103-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ],
-      "after": [
-        "E4938/103-1-shirt-chartify",
-        "E4938/103-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "8169519841382",
-      "title": "EMBROIDERED SUIT (E9436-102-902)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9436-102-902-902",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8169520365670",
-      "title": "PRINTED SUIT (E9508-102-902)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9508-102-902-902?variant=46643629064294",
-      "kind": "Sold out",
-      "detail": "S / Jet Black"
-    },
-    {
-      "product_id": "8169523118182",
-      "title": "SOLID SUIT (E9760-102-002)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9760-102-002-002",
-      "kind": "Product updated",
-      "detail": "tags: ['Casual Suit', \"Casual'26\", 'E9760/102/901-1-top-chartify', 'E9760/102/901-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'Women Casual & SP 29 Oct 26', 'women', 'women-eastern'] → ['Casual Suit', \"Casual'26\", 'E9760/102/901-1-top-chartify', 'E9760/102/901-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'Women Casual & SP 29 Oct 26', 'women', 'women-eastern', 'women-fp']",
-      "field": "tags",
-      "before": [
-        "Casual Suit",
-        "Casual'26",
-        "E9760/102/901-1-top-chartify",
-        "E9760/102/901-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "Women Casual & SP 29 Oct 26",
-        "women",
-        "women-eastern"
-      ],
-      "after": [
-        "Casual Suit",
-        "Casual'26",
-        "E9760/102/901-1-top-chartify",
-        "E9760/102/901-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "Women Casual & SP 29 Oct 26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ]
-    },
-    {
-      "product_id": "8169523216486",
-      "title": "EMBROIDERED SUIT (E9760-102-901)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9760-102-901-901",
-      "kind": "New product",
-      "detail": "Price: PKR 11,990.00; available sizes/options: XS / Black, S / Black, M / Black, L / Black"
-    },
-    {
-      "product_id": "8169523347558",
-      "title": "EMBROIDERED SUIT (E9802-102-519)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9802-102-519-519",
-      "kind": "Product removed",
-      "detail": "No longer listed in the collection"
-    },
-    {
-      "product_id": "8172135776358",
-      "title": "EMBROIDERED SUIT (E0366-415-620 E0366-315-620)",
-      "url": "https://pk.ethnc.com/products/semi-formal-suit-e0366-415-620-620-semi-formal-suit-e0366-315-620-620?variant=46656290095206",
-      "kind": "Sold out",
-      "detail": "9-10Y / Deep Blue"
-    },
-    {
-      "product_id": "8198441664614",
-      "title": "PRINTED SUIT (E1825-402-518 E1825-302-518)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1825-402-518-518-casual-suit-e1825-302-518-518",
-      "kind": "Product updated",
-      "detail": "tags: ['BF2026KIDS24Nov2026', 'BF2026KidsEASTERN24Nov2026', \"Casual Kids'26\", 'E1825/302-1-shirt-chartify', 'E1825/302-2-trouser-chartify', \"EASTERN KIDS'26\", 'FP', 'FP0925', 'KidsCasual24Nov2026', 'WS26-KIDS', 'casual kids', 'eastern kids', 'kids', 'kids-fp', 'kids-sale'] → ['BF2026KIDS24Nov2026', 'BF2026KidsEASTERN24Nov2026', \"Casual Kids'26\", 'E1825/302-1-shirt-chartify', 'E1825/302-2-trouser-chartify', \"EASTERN KIDS'26\", 'FP', 'FP0925', 'KidsCasual24Nov2026', 'WS26-KIDS', 'casual kids', 'eastern kids', 'kids', 'kids-sale']",
-      "field": "tags",
-      "before": [
-        "BF2026KIDS24Nov2026",
-        "BF2026KidsEASTERN24Nov2026",
-        "Casual Kids'26",
-        "E1825/302-1-shirt-chartify",
-        "E1825/302-2-trouser-chartify",
+        "Boutique Kids'26",
+        "E1097-304-1-shirt-chartify",
+        "E1097-304-2-gharara-chartify",
         "EASTERN KIDS'26",
         "FP",
         "FP0925",
-        "KidsCasual24Nov2026",
         "WS26-KIDS",
-        "casual kids",
+        "boutique kids",
         "eastern kids",
         "kids",
-        "kids-fp",
-        "kids-sale"
+        "kids-boutique"
       ],
       "after": [
-        "BF2026KIDS24Nov2026",
-        "BF2026KidsEASTERN24Nov2026",
-        "Casual Kids'26",
-        "E1825/302-1-shirt-chartify",
-        "E1825/302-2-trouser-chartify",
+        "Boutique Kids'26",
+        "E1097-304-1-shirt-chartify",
+        "E1097-304-2-gharara-chartify",
         "EASTERN KIDS'26",
         "FP",
         "FP0925",
-        "KidsCasual24Nov2026",
         "WS26-KIDS",
-        "casual kids",
+        "boutique kids",
         "eastern kids",
         "kids",
-        "kids-sale"
+        "kids-boutique",
+        "kids-fp"
       ]
     },
     {
@@ -3347,7 +896,7 @@
       "title": "EMBROIDERED SUIT (E9747-102-902)",
       "url": "https://pk.ethnc.com/products/casual-suit-e9747-102-902-902",
       "kind": "Product updated",
-      "detail": "tags: ['Casual Suit', \"Casual'26\", 'E9747-102-902-1-shirt-chartify', 'E9747/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern', 'women-fp'] → ['Casual Suit', \"Casual'26\", 'E9747-102-902-1-shirt-chartify', 'E9747/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern']",
+      "detail": "tags: ['Casual Suit', \"Casual'26\", 'E9747-102-902-1-shirt-chartify', 'E9747/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern'] → ['Casual Suit', \"Casual'26\", 'E9747-102-902-1-shirt-chartify', 'E9747/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern', 'women-fp']",
       "field": "tags",
       "before": [
         "Casual Suit",
@@ -3358,8 +907,7 @@
         "FP0925",
         "WS-26",
         "women",
-        "women-eastern",
-        "women-fp"
+        "women-eastern"
       ],
       "after": [
         "Casual Suit",
@@ -3370,69 +918,8 @@
         "FP0925",
         "WS-26",
         "women",
-        "women-eastern"
-      ]
-    },
-    {
-      "product_id": "8198443466854",
-      "title": "SOLID SUIT (E9749-102-902)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9749-102-902-902",
-      "kind": "Product updated",
-      "detail": "tags: ['Casual Suit', \"Casual'26\", 'E9749/102-1-shirt-chartify', 'E9749/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern', 'women-fp'] → ['Casual Suit', \"Casual'26\", 'E9749/102-1-shirt-chartify', 'E9749/102-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern']",
-      "field": "tags",
-      "before": [
-        "Casual Suit",
-        "Casual'26",
-        "E9749/102-1-shirt-chartify",
-        "E9749/102-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
         "women-eastern",
         "women-fp"
-      ],
-      "after": [
-        "Casual Suit",
-        "Casual'26",
-        "E9749/102-1-shirt-chartify",
-        "E9749/102-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern"
-      ]
-    },
-    {
-      "product_id": "8198443532390",
-      "title": "EMBROIDERED SUIT (E9750-102-803)",
-      "url": "https://pk.ethnc.com/products/casual-suit-e9750-102-803-803",
-      "kind": "Product updated",
-      "detail": "tags: ['Casual Suit', \"Casual'26\", 'E9750/102/803/223-1-shirt-chartify', 'E9750/102/803/223-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern', 'women-fp'] → ['Casual Suit', \"Casual'26\", 'E9750/102/803/223-1-shirt-chartify', 'E9750/102/803/223-2-trouser-chartify', 'FP', 'FP0925', 'WS-26', 'women', 'women-eastern']",
-      "field": "tags",
-      "before": [
-        "Casual Suit",
-        "Casual'26",
-        "E9750/102/803/223-1-shirt-chartify",
-        "E9750/102/803/223-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern",
-        "women-fp"
-      ],
-      "after": [
-        "Casual Suit",
-        "Casual'26",
-        "E9750/102/803/223-1-shirt-chartify",
-        "E9750/102/803/223-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "WS-26",
-        "women",
-        "women-eastern"
       ]
     }
   ]
