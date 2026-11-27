@@ -3,7 +3,7 @@
   "source": "https://sputnikfootwear.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-26T12:55:18.740311+00:00",
+  "checked_at": "2026-11-27T01:45:07.426728+00:00",
   "products": {
     "8732098068733": {
       "id": "8732098068733",
@@ -15587,8 +15587,8 @@
             "Black",
             "7"
           ],
-          "sku": null,
-          "available": false,
+          "sku": "L02943-007-002",
+          "available": true,
           "price": 297500,
           "compare_at_price": 350000
         },
@@ -15599,8 +15599,8 @@
             "Black",
             "8"
           ],
-          "sku": null,
-          "available": false,
+          "sku": "L02943-008-002",
+          "available": true,
           "price": 297500,
           "compare_at_price": 350000
         },
@@ -15611,8 +15611,8 @@
             "Black",
             "9"
           ],
-          "sku": null,
-          "available": false,
+          "sku": "L02943-009-002",
+          "available": true,
           "price": 297500,
           "compare_at_price": 350000
         },
@@ -15623,8 +15623,8 @@
             "Black",
             "10"
           ],
-          "sku": null,
-          "available": false,
+          "sku": "L02943-010-002",
+          "available": true,
           "price": 297500,
           "compare_at_price": 350000
         },
@@ -15635,8 +15635,8 @@
             "Black",
             "11"
           ],
-          "sku": null,
-          "available": false,
+          "sku": "L02943-011-002",
+          "available": true,
           "price": 297500,
           "compare_at_price": 350000
         },
@@ -15647,13 +15647,13 @@
             "Black",
             "12"
           ],
-          "sku": null,
-          "available": false,
+          "sku": "L02943-012-002",
+          "available": true,
           "price": 297500,
           "compare_at_price": 350000
         }
       },
-      "available": false
+      "available": true
     },
     "15437821739261": {
       "id": "15437821739261",
@@ -40494,6 +40494,123 @@
           "available": true,
           "price": 671500,
           "compare_at_price": 790000
+        }
+      },
+      "available": true
+    },
+    "15535986934013": {
+      "id": "15535986934013",
+      "title": "Blue Pumps L04422/005",
+      "handle": "blue-pumps-l04422-005",
+      "url": "https://sputnikfootwear.com/products/blue-pumps-l04422-005",
+      "vendor": "SputnikFootwear",
+      "type": "Ladies Pumps",
+      "description": "",
+      "tags": [
+        "15% Off",
+        "Ladies Pumps",
+        "New Arrivals",
+        "Women New Arrival",
+        "Women's Collection"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0655/8489/0109/files/a_667609d8-55a5-4fd0-92ca-5db75bac0967.jpg?v=1795698059",
+        "https://cdn.shopify.com/s/files/1/0655/8489/0109/files/b_1.jpg?v=1795698059",
+        "https://cdn.shopify.com/s/files/1/0655/8489/0109/files/c_1df660a9-995c-4d57-a829-2499e8d1a837.jpg?v=1795698097"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue"
+          ]
+        },
+        {
+          "name": "Shoe size",
+          "position": 2,
+          "values": [
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+          ]
+        }
+      ],
+      "variants": {
+        "72084000047357": {
+          "id": "72084000047357",
+          "title": "Blue / 6",
+          "options": [
+            "Blue",
+            "6"
+          ],
+          "sku": "L04422-006-005",
+          "available": true,
+          "price": 382500,
+          "compare_at_price": 450000
+        },
+        "72084000080125": {
+          "id": "72084000080125",
+          "title": "Blue / 7",
+          "options": [
+            "Blue",
+            "7"
+          ],
+          "sku": "L04422-007-005",
+          "available": true,
+          "price": 382500,
+          "compare_at_price": 450000
+        },
+        "72084000112893": {
+          "id": "72084000112893",
+          "title": "Blue / 8",
+          "options": [
+            "Blue",
+            "8"
+          ],
+          "sku": "L04422-008-005",
+          "available": true,
+          "price": 382500,
+          "compare_at_price": 450000
+        },
+        "72084000145661": {
+          "id": "72084000145661",
+          "title": "Blue / 9",
+          "options": [
+            "Blue",
+            "9"
+          ],
+          "sku": "L04422-009-005",
+          "available": true,
+          "price": 382500,
+          "compare_at_price": 450000
+        },
+        "72084000178429": {
+          "id": "72084000178429",
+          "title": "Blue / 10",
+          "options": [
+            "Blue",
+            "10"
+          ],
+          "sku": "L04422-010-005",
+          "available": true,
+          "price": 382500,
+          "compare_at_price": 450000
+        },
+        "72084000211197": {
+          "id": "72084000211197",
+          "title": "Blue / 11",
+          "options": [
+            "Blue",
+            "11"
+          ],
+          "sku": "L04422-011-005",
+          "available": true,
+          "price": 382500,
+          "compare_at_price": 450000
         }
       },
       "available": true
