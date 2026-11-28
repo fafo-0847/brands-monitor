@@ -1,7 +1,38 @@
 {
-  "checked_at": "2026-11-28T01:18:59.068689+00:00",
+  "checked_at": "2026-11-28T11:46:07.243178+00:00",
   "baseline_created": false,
   "product_count": 1943,
-  "change_count": 0,
-  "changes": []
+  "change_count": 3,
+  "changes": [
+    {
+      "product_id": "15370150838463",
+      "title": "OLIVE GREEN WAISTCOAT",
+      "url": "https://www.ismailfarid.com/products/olive-green-waistcoat-wst519",
+      "kind": "Product updated",
+      "detail": "title: LIGHT BROWN WAISTCOAT → OLIVE GREEN WAISTCOAT",
+      "field": "title",
+      "before": "LIGHT BROWN WAISTCOAT",
+      "after": "OLIVE GREEN WAISTCOAT"
+    },
+    {
+      "product_id": "15370150838463",
+      "title": "OLIVE GREEN WAISTCOAT",
+      "url": "https://www.ismailfarid.com/products/olive-green-waistcoat-wst519",
+      "kind": "Product updated",
+      "detail": "handle: light-brown-waistcoat-wst519 → olive-green-waistcoat-wst519",
+      "field": "handle",
+      "before": "light-brown-waistcoat-wst519",
+      "after": "olive-green-waistcoat-wst519"
+    },
+    {
+      "product_id": "15370150838463",
+      "title": "OLIVE GREEN WAISTCOAT",
+      "url": "https://www.ismailfarid.com/products/olive-green-waistcoat-wst519",
+      "kind": "Product updated",
+      "detail": "Description changed (see changes.json for full before/after)",
+      "field": "description",
+      "before": "<p>Light brown waistcoat</p>",
+      "after": "<p>Olive green waistcoat</p>"
+    }
+  ]
 }
