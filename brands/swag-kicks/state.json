@@ -3,7 +3,7 @@
   "source": "https://www.swag-kicks.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-28T01:10:54.374611+00:00",
+  "checked_at": "2026-11-28T11:40:33.507100+00:00",
   "products": {
     "8469970583738": {
       "id": "8469970583738",
@@ -31407,12 +31407,12 @@
             "Default Title"
           ],
           "sku": "SA-S35173863",
-          "available": true,
+          "available": false,
           "price": 549900,
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "10332847210682": {
       "id": "10332847210682",
@@ -156592,6 +156592,57 @@
           "sku": "SK-S35158463",
           "available": true,
           "price": 449900,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "8168877949114": {
+      "id": "8168877949114",
+      "title": "Skechers Men's GO WALK MAX-MIDSHORE Trainers",
+      "handle": "skechers-mens-go-walk-max-midshore-trainers",
+      "url": "https://www.swag-kicks.com/products/skechers-mens-go-walk-max-midshore-trainers",
+      "vendor": "Amir Sahab Batch# 735",
+      "type": "",
+      "description": "<div style=\"padding: 40px;background-color:#f5f5f5;\" id=\"iDetails\"><div style=\"padding: 15px; background-color: #F5F5F5;\">\r\n  <h2 style=\"font-family: 'Blatant', sans-serif !important;\n             font-size: 24px !important;\n             line-height: 16px !important;\n             letter-spacing: 0.4px;\n             font-weight: 400 !important;\n             margin: 0; color:black;\">\r\n    Item Details\r\n  </h2>\r\n\r\n  <ul style=\"font-family: 'Roboto Mono', monospace !important;\n             font-size: 12px !important;\n             line-height: 16px !important;\n             letter-spacing: 0.4px;\n             color: #595959;\n             padding-left: 1rem !important;\">\r\n    <li>Size: ${newsize}</li>\r\n    <li>Brand: ${brands}</li>\r\n    <li>Condition: ${newcondition}</li>\r\n    <li>SKU: AS-S153696</li>\r\n    <li>Product Code: ${productcode}</li>\r\n    <li>Material: Fabric , Textile , Synthetic , Flat Knit</li>\r\n    <li>Color: ${color}</li>\r\n    <li>Made In: ${made_in}</li>\r\n    <li>Gender: ${gender}</li>\r\n  </ul>\r\n\r\n  <p style=\"font-family: 'Roboto Mono', monospace !important;\n            font-size: 12px !important;\n            line-height: 16px !important;\n            letter-spacing: 0.4px;\n            color: #595959;\n            font-weight: 300;\">\r\n    This product is made in ${made_in} and imported from USA.<br>\r\n    Not a fake / Not a first copy / Not a replica.<br>\r\n    100% Original &amp; Genuine product.<br>\r\n    All products are quality checked and inspected.<br>\r\n    Easy 7-Day return policy. Please email Contact@swag-kicks.com to initiate the return process.\r\n  </p>\r\n</div></div>",
+      "tags": [
+        "09/10",
+        "41",
+        "AS-S153696",
+        "Athletic",
+        "Black",
+        "Footwear",
+        "Male",
+        "Msneakers",
+        "SKECHERS",
+        "Sneakers"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0164/5304/2230/files/1_20_126_0fc4fae8-c3bc-489d-b77a-9f46e4868cfa.jpg?v=1752561151",
+        "https://cdn.shopify.com/s/files/1/0164/5304/2230/files/1_20_127_294c4053-845e-4efb-9b08-18d696988557.jpg?v=1752561151",
+        "https://cdn.shopify.com/s/files/1/0164/5304/2230/files/1_20_128_b7c75a90-e2a5-4207-9131-e769c1156565.jpg?v=1752561151",
+        "https://cdn.shopify.com/s/files/1/0164/5304/2230/files/1_20_129_28000107-ad2a-422e-8183-6a5f5d588b1a.jpg?v=1752561151",
+        "https://cdn.shopify.com/s/files/1/0164/5304/2230/files/1_20_130_6b9b8eac-eab0-4f96-a5d5-2109995b128f.jpg?v=1752561151"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": {
+        "44985507643578": {
+          "id": "44985507643578",
+          "title": "Default Title",
+          "options": [
+            "Default Title"
+          ],
+          "sku": "AS-S153696",
+          "available": true,
+          "price": 979900,
           "compare_at_price": null
         }
       },
