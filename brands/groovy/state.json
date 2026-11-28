@@ -3,7 +3,7 @@
   "source": "https://groovypakistan.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-27T11:59:20.517852+00:00",
+  "checked_at": "2026-11-28T00:35:30.772502+00:00",
   "products": {
     "8989896114412": {
       "id": "8989896114412",
@@ -925,7 +925,7 @@
             "S"
           ],
           "sku": "GP009-S",
-          "available": true,
+          "available": false,
           "price": 244300,
           "compare_at_price": 349000
         },
@@ -3565,7 +3565,7 @@
             "S"
           ],
           "sku": "GST001-S",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 360000
         },
@@ -3577,7 +3577,7 @@
             "M"
           ],
           "sku": "GST001-M",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 360000
         },
@@ -3589,7 +3589,7 @@
             "L"
           ],
           "sku": "GST001-L",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 360000
         },
@@ -3601,12 +3601,12 @@
             "XL"
           ],
           "sku": "GST001-XL",
-          "available": false,
+          "available": true,
           "price": 280000,
           "compare_at_price": 360000
         }
       },
-      "available": false
+      "available": true
     },
     "8995640705260": {
       "id": "8995640705260",
@@ -5818,7 +5818,7 @@
             "XL"
           ],
           "sku": "GH013-XL",
-          "available": true,
+          "available": false,
           "price": 320000,
           "compare_at_price": null
         }
@@ -6551,7 +6551,7 @@
             "M"
           ],
           "sku": "GH009-M",
-          "available": false,
+          "available": true,
           "price": 320000,
           "compare_at_price": null
         },
@@ -6562,7 +6562,7 @@
             "L"
           ],
           "sku": "GH009-L",
-          "available": false,
+          "available": true,
           "price": 320000,
           "compare_at_price": null
         },
@@ -8818,7 +8818,7 @@
             "S"
           ],
           "sku": "GH052-S",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": null
         },
@@ -10174,7 +10174,7 @@
             "S"
           ],
           "sku": "GST084-S",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": null
         },
@@ -16760,7 +16760,7 @@
             "Chalk"
           ],
           "sku": "GST026-M",
-          "available": true,
+          "available": false,
           "price": 260000,
           "compare_at_price": null
         },
@@ -22032,7 +22032,7 @@
             "S"
           ],
           "sku": "GST060-S",
-          "available": false,
+          "available": true,
           "price": 272000,
           "compare_at_price": 320000
         },
@@ -22044,7 +22044,7 @@
             "M"
           ],
           "sku": "GST060-M",
-          "available": false,
+          "available": true,
           "price": 272000,
           "compare_at_price": 320000
         },
@@ -22151,7 +22151,7 @@
             "S"
           ],
           "sku": "GST065-S",
-          "available": false,
+          "available": true,
           "price": 320000,
           "compare_at_price": 320000
         },
@@ -22163,7 +22163,7 @@
             "M"
           ],
           "sku": "GST065-M",
-          "available": false,
+          "available": true,
           "price": 320000,
           "compare_at_price": 320000
         },
@@ -22175,7 +22175,7 @@
             "L"
           ],
           "sku": "GST065-L",
-          "available": false,
+          "available": true,
           "price": 320000,
           "compare_at_price": 320000
         },
@@ -22199,7 +22199,7 @@
             "2XL"
           ],
           "sku": "GST065-2XL",
-          "available": false,
+          "available": true,
           "price": 320000,
           "compare_at_price": 320000
         }
@@ -22621,7 +22621,7 @@
             "XS"
           ],
           "sku": "GST070-XS",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -22633,7 +22633,7 @@
             "S"
           ],
           "sku": "GST070-S",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -22645,7 +22645,7 @@
             "M"
           ],
           "sku": "GST070-M",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -22657,7 +22657,7 @@
             "L"
           ],
           "sku": "GST070-L",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -22669,7 +22669,7 @@
             "XL"
           ],
           "sku": "GST070-XL",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -22743,7 +22743,7 @@
             "XS"
           ],
           "sku": "GST061-XS",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -22755,7 +22755,7 @@
             "S"
           ],
           "sku": "GST061-S",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -22767,7 +22767,7 @@
             "M"
           ],
           "sku": "GST061-M",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -22779,7 +22779,7 @@
             "L"
           ],
           "sku": "GST061-L",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -23355,7 +23355,7 @@
             "S"
           ],
           "sku": "GST066-S",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -23367,7 +23367,7 @@
             "M"
           ],
           "sku": "GST066-M",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -23476,7 +23476,7 @@
             "S"
           ],
           "sku": "GST073-S",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -23488,7 +23488,7 @@
             "M"
           ],
           "sku": "GST073-M",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -23500,7 +23500,7 @@
             "L"
           ],
           "sku": "GST073-L",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -23512,7 +23512,7 @@
             "XL"
           ],
           "sku": "GST073-XL",
-          "available": false,
+          "available": true,
           "price": 224000,
           "compare_at_price": 320000
         },
@@ -26605,7 +26605,7 @@
             "L"
           ],
           "sku": "GST006-L",
-          "available": true,
+          "available": false,
           "price": 252000,
           "compare_at_price": 360000
         },
@@ -26621,7 +26621,7 @@
           "compare_at_price": 360000
         }
       },
-      "available": true
+      "available": false
     },
     "8995711746284": {
       "id": "8995711746284",
@@ -33515,7 +33515,7 @@
             "M"
           ],
           "sku": "GST027-M",
-          "available": true,
+          "available": false,
           "price": 349900,
           "compare_at_price": null
         },
@@ -35900,7 +35900,7 @@
             "M"
           ],
           "sku": "GST076-M",
-          "available": true,
+          "available": false,
           "price": 360000,
           "compare_at_price": null
         },
@@ -36116,7 +36116,7 @@
             "S"
           ],
           "sku": "GB028-S",
-          "available": true,
+          "available": false,
           "price": 189000,
           "compare_at_price": null
         },
@@ -36157,7 +36157,7 @@
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "8995733864684": {
       "id": "8995733864684",
@@ -39059,7 +39059,7 @@
             "M"
           ],
           "sku": "GP019-M",
-          "available": true,
+          "available": false,
           "price": 209300,
           "compare_at_price": 299000
         },
