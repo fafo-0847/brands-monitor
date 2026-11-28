@@ -3,7 +3,7 @@
   "source": "https://baroque.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-27T22:35:11.490254+00:00",
+  "checked_at": "2026-11-28T09:28:14.978612+00:00",
   "products": {
     "6541553238083": {
       "id": "6541553238083",
@@ -24686,12 +24686,12 @@
             "DEFAULT"
           ],
           "sku": "ECUF0625",
-          "available": false,
+          "available": true,
           "price": 636000,
           "compare_at_price": 795000
         }
       },
-      "available": false
+      "available": true
     },
     "7045796626499": {
       "id": "7045796626499",
@@ -26836,12 +26836,12 @@
             "DEFAULT"
           ],
           "sku": "ESUF0300",
-          "available": false,
+          "available": true,
           "price": 746250,
           "compare_at_price": 995000
         }
       },
-      "available": false
+      "available": true
     },
     "7089152786499": {
       "id": "7089152786499",
@@ -28050,7 +28050,7 @@
             "S"
           ],
           "sku": "EWPR1423-SML",
-          "available": true,
+          "available": false,
           "price": 1495000,
           "compare_at_price": 1495000
         },
@@ -28061,7 +28061,7 @@
             "M"
           ],
           "sku": "EWPR1423-MDM",
-          "available": true,
+          "available": false,
           "price": 1495000,
           "compare_at_price": 1495000
         },
@@ -28540,6 +28540,161 @@
             "L"
           ],
           "sku": "EWPR1448-LRG",
+          "available": true,
+          "price": 1195000,
+          "compare_at_price": 1195000
+        }
+      },
+      "available": true
+    },
+    "15538896207939": {
+      "id": "15538896207939",
+      "title": "EMBROIDERED KHADDAR PR-1449",
+      "handle": "embroidered-khaddar-pr-1449",
+      "url": "https://baroque.pk/products/embroidered-khaddar-pr-1449",
+      "vendor": "PRET",
+      "type": "WINTER",
+      "description": "<p>A beautifully coordinated ensemble featuring an embroidered khaddar shirt, a digital-printed pashmina shawl with an embroidered border patch, and a khaddar trouser. The set includes the shirt, shawl, trouser, and accessories for a complete look.</p>",
+      "tags": [
+        "BQU-PRET"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/71_dad47033-e57a-484e-bd2d-113243f50a0a.jpg?v=1795850477",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/72_5c318c63-5f61-439f-a825-89e6c35cd6ce.jpg?v=1795850477",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/73_3ebfa5a9-0627-4814-90a6-e2e64f12c379.jpg?v=1795850477",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/74_65748726-3832-4004-be01-3f23733fcfef.jpg?v=1795850477",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/76_09bfcbc3-707e-42d9-9990-f0fcb7aff983.jpg?v=1795850477"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "68131061563459": {
+          "id": "68131061563459",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EWPR1449-XSM",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68131061596227": {
+          "id": "68131061596227",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EWPR1449-SML",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68131061628995": {
+          "id": "68131061628995",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EWPR1449-MDM",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        },
+        "68131061661763": {
+          "id": "68131061661763",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EWPR1449-LRG",
+          "available": true,
+          "price": 1295000,
+          "compare_at_price": 1295000
+        }
+      },
+      "available": true
+    },
+    "15538897485891": {
+      "id": "15538897485891",
+      "title": "EMBROIDERED KHADDAR PR-1450",
+      "handle": "embroidered-khaddar-pr-1450",
+      "url": "https://baroque.pk/products/embroidered-khaddar-pr-1450",
+      "vendor": "PRET",
+      "type": "WINTER",
+      "description": "<p>EMBROIDERED KHADDAR PR-1450 combines an embroidered digital-printed khaddar shirt with a matching digital-printed khaddar shalwar and a digital-printed twill shawl. Complete with accessories, this coordinated ensemble is ready for a polished traditional look.<br><br></p>",
+      "tags": [
+        "BQU-PRET"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/77_78130f27-f6a1-48d1-ac26-c964fbf6f7f2.jpg?v=1795850736",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/78_0d33187e-d9ce-4f63-99cc-c925a504a25c.jpg?v=1795850737",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/79_5bbf60df-d985-45a9-883c-e63601f02a49.jpg?v=1795850737",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/80_835aaf5e-39f6-4c93-9fa8-4e590f0e2a47.jpg?v=1795850737"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "68131082043459": {
+          "id": "68131082043459",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EWPR1450-XSM",
+          "available": true,
+          "price": 1195000,
+          "compare_at_price": 1195000
+        },
+        "68131082076227": {
+          "id": "68131082076227",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EWPR1450-SML",
+          "available": true,
+          "price": 1195000,
+          "compare_at_price": 1195000
+        },
+        "68131082108995": {
+          "id": "68131082108995",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EWPR1450-MDM",
+          "available": true,
+          "price": 1195000,
+          "compare_at_price": 1195000
+        },
+        "68131082141763": {
+          "id": "68131082141763",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EWPR1450-LRG",
           "available": true,
           "price": 1195000,
           "compare_at_price": 1195000
@@ -34239,7 +34394,7 @@
             "M"
           ],
           "sku": "ESPR1348-MDM-333",
-          "available": false,
+          "available": true,
           "price": 598000,
           "compare_at_price": 1495000
         },
@@ -34255,7 +34410,7 @@
           "compare_at_price": 1495000
         }
       },
-      "available": false
+      "available": true
     },
     "7712031440963": {
       "id": "7712031440963",
@@ -45607,12 +45762,12 @@
             "DEFAULT"
           ],
           "sku": "EFUF4159",
-          "available": true,
+          "available": false,
           "price": 1596000,
           "compare_at_price": 1995000
         }
       },
-      "available": true
+      "available": false
     },
     "7414270984259": {
       "id": "7414270984259",
@@ -52983,7 +53138,7 @@
             "M"
           ],
           "sku": "EVPR1408-MDM",
-          "available": false,
+          "available": true,
           "price": 2995000,
           "compare_at_price": 2995000
         },
@@ -52999,7 +53154,7 @@
           "compare_at_price": 2995000
         }
       },
-      "available": false
+      "available": true
     },
     "15421583753283": {
       "id": "15421583753283",
@@ -53331,6 +53486,84 @@
         }
       },
       "available": false
+    },
+    "15538955223107": {
+      "id": "15538955223107",
+      "title": "EMBROIDERED VELVET PR-1443",
+      "handle": "embroidered-velvet-pr-1443",
+      "url": "https://baroque.pk/products/embroidered-velvet-pr-1443",
+      "vendor": "PRET",
+      "type": "VELVET",
+      "description": "<p>Create an elegant occasion look with this embroidered velvet ensemble, featuring an embellished neckline for a refined finish. The net dupatta is detailed with an embroidered border, while the silk trousers complete the coordinated set.<br><br></p>",
+      "tags": [
+        "BQU-PRET"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/81_a4723d03-e479-44d3-bd31-90d6fe1b1a42.jpg?v=1795852153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/82_50b66944-ec4f-4782-b3e3-e897f5165562.jpg?v=1795852154",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/83_8b4db45f-63a6-4d79-90ab-a06e23347f8a.jpg?v=1795852153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/84_f82ad97a-ac76-47e1-9c62-5e5a4da3b828.jpg?v=1795852153",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/85_3cbfa868-d4dc-4209-9f96-35126b8828e2.jpg?v=1795852153"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "68131944857667": {
+          "id": "68131944857667",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EVPR1443-XSM",
+          "available": true,
+          "price": 1995000,
+          "compare_at_price": 1995000
+        },
+        "68131944890435": {
+          "id": "68131944890435",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EVPR1443-SML",
+          "available": true,
+          "price": 1995000,
+          "compare_at_price": 1995000
+        },
+        "68131944923203": {
+          "id": "68131944923203",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EVPR1443-MDM",
+          "available": true,
+          "price": 1995000,
+          "compare_at_price": 1995000
+        },
+        "68131944955971": {
+          "id": "68131944955971",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EVPR1443-LRG",
+          "available": true,
+          "price": 1995000,
+          "compare_at_price": 1995000
+        }
+      },
+      "available": true
     },
     "7330761867331": {
       "id": "7330761867331",
@@ -62276,6 +62509,108 @@
       },
       "available": true
     },
+    "15534266941507": {
+      "id": "15534266941507",
+      "title": "EMBROIDERED VISCOSE SILK SF-4617",
+      "handle": "embroidered-viscose-silk-sf-4617",
+      "url": "https://baroque.pk/products/embroidered-viscose-silk-sf-4617",
+      "vendor": "STITCHED",
+      "type": "WINTER",
+      "description": "<p>A graceful embroidered ensemble featuring a printed viscose silk front, paired with digitally printed viscose silk sleeves, back and trouser. Organza borders add delicate embroidered detail to the sleeves and front and back, while the digital print on the viscose shawl completes the look. Plain velvet adds a rich finishing touch.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/241_fa009854-8a74-4de2-9825-804ae15f89e7.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/242_6f0736a8-12aa-44a5-b740-1c78efbee999.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/243_a62ba472-51fe-4fc4-99be-c4d2c96badbc.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/244_c575e217-f448-4890-a93f-4473a9c32bd6.jpg?v=1795778512",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/245_1fdc5c31-9a2e-4206-9d87-999ae67b39a0.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/246_72e8ccd6-3f8f-4f1a-b7eb-35f34d8ac042.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/247_fb60e6c7-e68d-4a26-9126-342f5ef2e0b1.jpg?v=1795778510"
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "STITCHED"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68116794638403": {
+          "id": "68116794638403",
+          "title": "STITCHED / XS",
+          "options": [
+            "STITCHED",
+            "XS"
+          ],
+          "sku": "EWSF4617-XSM",
+          "available": true,
+          "price": 1795000,
+          "compare_at_price": 1795000
+        },
+        "68116794671171": {
+          "id": "68116794671171",
+          "title": "STITCHED / S",
+          "options": [
+            "STITCHED",
+            "S"
+          ],
+          "sku": "EWSF4617-SML",
+          "available": true,
+          "price": 1795000,
+          "compare_at_price": 1795000
+        },
+        "68116794703939": {
+          "id": "68116794703939",
+          "title": "STITCHED / M",
+          "options": [
+            "STITCHED",
+            "M"
+          ],
+          "sku": "EWSF4617-MDM",
+          "available": true,
+          "price": 1795000,
+          "compare_at_price": 1795000
+        },
+        "68116794736707": {
+          "id": "68116794736707",
+          "title": "STITCHED / L",
+          "options": [
+            "STITCHED",
+            "L"
+          ],
+          "sku": "EWSF4617-LRG",
+          "available": true,
+          "price": 1795000,
+          "compare_at_price": 1795000
+        },
+        "68116794769475": {
+          "id": "68116794769475",
+          "title": "STITCHED / XL",
+          "options": [
+            "STITCHED",
+            "XL"
+          ],
+          "sku": "EWSF4617-XLG",
+          "available": true,
+          "price": 1795000,
+          "compare_at_price": 1795000
+        }
+      },
+      "available": true
+    },
     "15411398017091": {
       "id": "15411398017091",
       "title": "EMBROIDERED VISCOSE SILK SF-4619",
@@ -63965,6 +64300,56 @@
           "available": true,
           "price": 716000,
           "compare_at_price": 895000
+        }
+      },
+      "available": true
+    },
+    "15534240235587": {
+      "id": "15534240235587",
+      "title": "EMBROIDERED VISCOSE SILK UF-4617",
+      "handle": "embroidered-viscose-silk-uf-4617",
+      "url": "https://baroque.pk/products/embroidered-viscose-silk-uf-4617",
+      "vendor": "UNSTITCHED",
+      "type": "WINTER",
+      "description": "A graceful embroidered ensemble featuring a printed viscose silk front, paired with digitally printed viscose silk sleeves, back and trouser. Organza borders add delicate embroidered detail to the sleeves and front and back, while the digital print on the viscose shawl completes the look. Plain velvet adds a rich finishing touch.",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/241_fa009854-8a74-4de2-9825-804ae15f89e7.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/242_6f0736a8-12aa-44a5-b740-1c78efbee999.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/243_a62ba472-51fe-4fc4-99be-c4d2c96badbc.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/244_c575e217-f448-4890-a93f-4473a9c32bd6.jpg?v=1795778512",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/245_1fdc5c31-9a2e-4206-9d87-999ae67b39a0.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/246_72e8ccd6-3f8f-4f1a-b7eb-35f34d8ac042.jpg?v=1795778510",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/247_fb60e6c7-e68d-4a26-9126-342f5ef2e0b1.jpg?v=1795778510"
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "UNSTITCHED"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "DEFAULT"
+          ]
+        }
+      ],
+      "variants": {
+        "68116726054979": {
+          "id": "68116726054979",
+          "title": "UNSTITCHED / DEFAULT",
+          "options": [
+            "UNSTITCHED",
+            "DEFAULT"
+          ],
+          "sku": "EWUF4617",
+          "available": true,
+          "price": 796000,
+          "compare_at_price": 995000
         }
       },
       "available": true
@@ -67737,6 +68122,84 @@
       },
       "available": true
     },
+    "15538904367171": {
+      "id": "15538904367171",
+      "title": "PRINTED VISCOSE PR-1445",
+      "handle": "printed-viscose-pr-1445",
+      "url": "https://baroque.pk/products/printed-viscose-pr-1445",
+      "vendor": "PRET",
+      "type": "WINTER",
+      "description": "<p>Printed Viscose PR-1445 brings together a beautifully coordinated three-piece outfit. The shirt features printed viscose with an embroidered neckline and sleeve patch, paired with a digital printed Pashmina shawl and digital printed viscose trousers. Includes shirt, shawl and trouser with accessories.</p>",
+      "tags": [
+        "BQU-PRET"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/62_d3a9b317-e3cb-46a5-b4ea-395db0f0d26e.jpg?v=1795851439",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/63_0eaeecab-141f-445a-8715-ae00aa8be97a.jpg?v=1795851439",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/64_1173e2a9-2a29-490e-97e2-1b666ccda9de.jpg?v=1795851438",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/65_e2b778e9-ad0f-4fc9-a58f-1fc2e654f4a9.jpg?v=1795851439",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/66_b6288fe0-be4b-4b02-9d9c-d21166363b4a.jpg?v=1795851439"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "variants": {
+        "68131124314179": {
+          "id": "68131124314179",
+          "title": "XS",
+          "options": [
+            "XS"
+          ],
+          "sku": "EWPR1445-XSM",
+          "available": true,
+          "price": 1695000,
+          "compare_at_price": 1695000
+        },
+        "68131124346947": {
+          "id": "68131124346947",
+          "title": "S",
+          "options": [
+            "S"
+          ],
+          "sku": "EWPR1445-SML",
+          "available": true,
+          "price": 1695000,
+          "compare_at_price": 1695000
+        },
+        "68131124379715": {
+          "id": "68131124379715",
+          "title": "M",
+          "options": [
+            "M"
+          ],
+          "sku": "EWPR1445-MDM",
+          "available": true,
+          "price": 1695000,
+          "compare_at_price": 1695000
+        },
+        "68131124412483": {
+          "id": "68131124412483",
+          "title": "L",
+          "options": [
+            "L"
+          ],
+          "sku": "EWPR1445-LRG",
+          "available": true,
+          "price": 1695000,
+          "compare_at_price": 1695000
+        }
+      },
+      "available": true
+    },
     "7330749513795": {
       "id": "7330749513795",
       "title": "PRINTED VISCOSE SF-731",
@@ -69187,6 +69650,211 @@
       },
       "available": true
     },
+    "15534252392515": {
+      "id": "15534252392515",
+      "title": "PRINTED VISCOSE SILK SF-4607",
+      "handle": "printed-viscose-silk-sf-4607",
+      "url": "https://baroque.pk/products/printed-viscose-silk-sf-4607",
+      "vendor": "STITCHED",
+      "type": "WINTER",
+      "description": "<p>Printed Viscose Silk SF-4607 features a digital printed viscose shirt and trouser paired with a coordinating digital printed viscose shawl. A thoughtfully matched ensemble for a polished, coordinated look.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/383.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/384.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/386.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/387.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/389.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/390.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/391.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/394.jpg?v=1795778053"
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "STITCHED"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68116759511107": {
+          "id": "68116759511107",
+          "title": "STITCHED / XS",
+          "options": [
+            "STITCHED",
+            "XS"
+          ],
+          "sku": "EWSF4607-XSM",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        },
+        "68116759543875": {
+          "id": "68116759543875",
+          "title": "STITCHED / S",
+          "options": [
+            "STITCHED",
+            "S"
+          ],
+          "sku": "EWSF4607-SML",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        },
+        "68116759576643": {
+          "id": "68116759576643",
+          "title": "STITCHED / M",
+          "options": [
+            "STITCHED",
+            "M"
+          ],
+          "sku": "EWSF4607-MDM",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        },
+        "68116759609411": {
+          "id": "68116759609411",
+          "title": "STITCHED / L",
+          "options": [
+            "STITCHED",
+            "L"
+          ],
+          "sku": "EWSF4607-LRG",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        },
+        "68116759642179": {
+          "id": "68116759642179",
+          "title": "STITCHED / XL",
+          "options": [
+            "STITCHED",
+            "XL"
+          ],
+          "sku": "EWSF4607-XLG",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        }
+      },
+      "available": true
+    },
+    "15534261731395": {
+      "id": "15534261731395",
+      "title": "PRINTED VISCOSE SILK SF-4608",
+      "handle": "printed-viscose-silk-sf-4608",
+      "url": "https://baroque.pk/products/printed-viscose-silk-sf-4608",
+      "vendor": "STITCHED",
+      "type": "WINTER",
+      "description": "<p>Printed Viscose Silk SF-4608 features a digital printed viscose shirt and trouser paired with a coordinating digital printed viscose shawl. A thoughtfully matched ensemble for a polished, coordinated look.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/390.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/391.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/394.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/396.jpg?v=1795778256",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/398_21dbe7ef-cb43-4d33-91c4-70306af5735c.jpg?v=1795778261",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/399.jpg?v=1795778256",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/401.jpg?v=1795778257"
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "STITCHED"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "68116782907459": {
+          "id": "68116782907459",
+          "title": "STITCHED / XS",
+          "options": [
+            "STITCHED",
+            "XS"
+          ],
+          "sku": "EWSF4608-XSM",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        },
+        "68116782940227": {
+          "id": "68116782940227",
+          "title": "STITCHED / S",
+          "options": [
+            "STITCHED",
+            "S"
+          ],
+          "sku": "EWSF4608-SML",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        },
+        "68116782972995": {
+          "id": "68116782972995",
+          "title": "STITCHED / M",
+          "options": [
+            "STITCHED",
+            "M"
+          ],
+          "sku": "EWSF4608-MDM",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        },
+        "68116783005763": {
+          "id": "68116783005763",
+          "title": "STITCHED / L",
+          "options": [
+            "STITCHED",
+            "L"
+          ],
+          "sku": "EWSF4608-LRG",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        },
+        "68116783038531": {
+          "id": "68116783038531",
+          "title": "STITCHED / XL",
+          "options": [
+            "STITCHED",
+            "XL"
+          ],
+          "sku": "EWSF4608-XLG",
+          "available": true,
+          "price": 1395000,
+          "compare_at_price": 1395000
+        }
+      },
+      "available": true
+    },
     "15514687340611": {
       "id": "15514687340611",
       "title": "PRINTED VISCOSE SILK SF-4610",
@@ -69946,6 +70614,107 @@
           "available": true,
           "price": 716000,
           "compare_at_price": 895000
+        }
+      },
+      "available": true
+    },
+    "15534215856195": {
+      "id": "15534215856195",
+      "title": "PRINTED VISCOSE SILK UF-4607",
+      "handle": "printed-viscose-silk-uf-4607",
+      "url": "https://baroque.pk/products/printed-viscose-silk-uf-4607",
+      "vendor": "UNSTITCHED",
+      "type": "WINTER",
+      "description": "Printed Viscose Silk UF-4607 features a digital printed viscose shirt and trouser paired with a coordinating digital printed viscose shawl. A thoughtfully matched ensemble for a polished, coordinated look.",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/383.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/384.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/386.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/387.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/389.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/390.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/391.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/394.jpg?v=1795778053"
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "UNSTITCHED"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "DEFAULT"
+          ]
+        }
+      ],
+      "variants": {
+        "68116654719043": {
+          "id": "68116654719043",
+          "title": "UNSTITCHED / DEFAULT",
+          "options": [
+            "UNSTITCHED",
+            "DEFAULT"
+          ],
+          "sku": "EWUF4607",
+          "available": true,
+          "price": 556000,
+          "compare_at_price": 695000
+        }
+      },
+      "available": true
+    },
+    "15534231027779": {
+      "id": "15534231027779",
+      "title": "PRINTED VISCOSE SILK UF-4608",
+      "handle": "printed-viscose-silk-uf-4608",
+      "url": "https://baroque.pk/products/printed-viscose-silk-uf-4608",
+      "vendor": "UNSTITCHED",
+      "type": "WINTER",
+      "description": "<p>Printed Viscose Silk UF-4608 features a digital printed viscose shirt and trouser paired with a coordinating digital printed viscose shawl. A thoughtfully matched ensemble for a polished, coordinated look.</p>",
+      "tags": [],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/390.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/391.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/394.jpg?v=1795778053",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/396.jpg?v=1795778256",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/398_21dbe7ef-cb43-4d33-91c4-70306af5735c.jpg?v=1795778261",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/399.jpg?v=1795778256",
+        "https://cdn.shopify.com/s/files/1/2277/5269/files/401.jpg?v=1795778257"
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "UNSTITCHED"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "DEFAULT"
+          ]
+        }
+      ],
+      "variants": {
+        "68116699316291": {
+          "id": "68116699316291",
+          "title": "UNSTITCHED / DEFAULT",
+          "options": [
+            "UNSTITCHED",
+            "DEFAULT"
+          ],
+          "sku": "EWUF4608",
+          "available": true,
+          "price": 556000,
+          "compare_at_price": 695000
         }
       },
       "available": true
