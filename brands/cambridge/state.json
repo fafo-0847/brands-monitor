@@ -3,7 +3,7 @@
   "source": "https://thecambridgeshop.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-27T23:49:28.663452+00:00",
+  "checked_at": "2026-11-28T10:19:24.725845+00:00",
   "products": {
     "9733898731815": {
       "id": "9733898731815",
@@ -9883,7 +9883,7 @@
             "L"
           ],
           "sku": "S26PAS01",
-          "available": true,
+          "available": false,
           "price": 328650,
           "compare_at_price": 469500
         },
@@ -49855,7 +49855,7 @@
             "S"
           ],
           "sku": "W26BCF01",
-          "available": false,
+          "available": true,
           "price": 535075,
           "compare_at_price": 629500
         },
@@ -51894,6 +51894,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Winter",
         "Winter 2026"
       ],
@@ -52035,12 +52036,13 @@
       "description": "\n<p><strong>Product Details:</strong></p>\n<ul>\n  <li>Crafted from 100% polyester fabric for durability and comfort</li>\n  <li>Full sleeves create a modern and polished look</li>\n  <li>Regular fit balances comfort and style</li>\n  <li>Ideal for casual occasions</li>\n</ul>\n\n<p><strong>Care Instructions:</strong><br>\nDry Clean Only</p>\n\n<hr>\n\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n\n<div class=\"index-tableContainer\">\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Fabric Type</div>\n    <div class=\"index-rowValue\">Polyester</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Composition</div>\n    <div class=\"index-rowValue\">100% Polyester</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Sleeves</div>\n    <div class=\"index-rowValue\">Full Sleeves</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Fit</div>\n    <div class=\"index-rowValue\">Regular Fit</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Occasion</div>\n    <div class=\"index-rowValue\">Casual</div>\n  </div>\n</div>\n\n<style>\n  .index-tableContainer {\n    display: flex;\n    flex-wrap: wrap;\n  }\n\n  .index-row {\n    flex: 45%;\n    margin: 0 5% 10px 0;\n  }\n\n  .index-rowKey {\n    font-size: 12px;\n    opacity: 0.7;\n    padding-top: 5px;\n  }\n\n  .index-rowValue {\n    border-bottom: 1px solid #3333332e;\n    font-size: 12px;\n    padding-bottom: 5px;\n  }\n</style>\n",
       "tags": [
         "2026",
-        "CCJL2604-Regular-SimplifiedSizechart",
+        "CCJ26-06-10-11-Replent-Regular-SimplifiedSizechart",
         "Cambridge",
         "Casual Jacket",
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Winter",
         "Winter 2026"
       ],
@@ -58244,7 +58246,7 @@
             "XXL"
           ],
           "sku": "S26PJC01",
-          "available": true,
+          "available": false,
           "price": 258650,
           "compare_at_price": 369500
         },
@@ -64870,7 +64872,7 @@
             "40/32"
           ],
           "sku": "CRFL2501",
-          "available": true,
+          "available": false,
           "price": 559650,
           "compare_at_price": 799500
         },
@@ -75672,7 +75674,7 @@
             "XS"
           ],
           "sku": "KSP25-07",
-          "available": true,
+          "available": false,
           "price": 169750,
           "compare_at_price": 339500
         },
@@ -76674,7 +76676,7 @@
             "L"
           ],
           "sku": "KSP25-12",
-          "available": true,
+          "available": false,
           "price": 169750,
           "compare_at_price": 339500
         },
@@ -77603,7 +77605,7 @@
             "S"
           ],
           "sku": "S26PJC03-B",
-          "available": true,
+          "available": false,
           "price": 221700,
           "compare_at_price": 369500
         },
@@ -78054,7 +78056,7 @@
             "XXL"
           ],
           "sku": "S26PJC03-B",
-          "available": true,
+          "available": false,
           "price": 221700,
           "compare_at_price": 369500
         },
@@ -79977,7 +79979,7 @@
             "16½"
           ],
           "sku": "CP6-09",
-          "available": false,
+          "available": true,
           "price": 599500,
           "compare_at_price": null
         },
@@ -97885,6 +97887,7 @@
         "Corduroy-Vest-Regular-SimplifiedSizechart",
         "Jackets",
         "Quilted",
+        "Sale",
         "Sleeveless",
         "VEST",
         "Winter",
@@ -101198,7 +101201,7 @@
             "XXL"
           ],
           "sku": "USJC26-2",
-          "available": true,
+          "available": false,
           "price": 369500,
           "compare_at_price": 369500
         },
@@ -108579,7 +108582,7 @@
             "XL"
           ],
           "sku": "SWC26-6",
-          "available": true,
+          "available": false,
           "price": 524650,
           "compare_at_price": 749500
         },
@@ -108608,7 +108611,7 @@
           "compare_at_price": 749500
         }
       },
-      "available": true
+      "available": false
     },
     "9968063512871": {
       "id": "9968063512871",
@@ -118266,7 +118269,7 @@
             "XL"
           ],
           "sku": "W26SCF01",
-          "available": false,
+          "available": true,
           "price": 458575,
           "compare_at_price": 539500
         },
@@ -128120,7 +128123,7 @@
             "S"
           ],
           "sku": "MDJ25-08",
-          "available": true,
+          "available": false,
           "price": 524650,
           "compare_at_price": 749500
         },
@@ -128173,7 +128176,7 @@
           "compare_at_price": 749500
         }
       },
-      "available": true
+      "available": false
     },
     "9969119396135": {
       "id": "9969119396135",
@@ -133458,7 +133461,7 @@
             "30"
           ],
           "sku": "CDRF2603",
-          "available": true,
+          "available": false,
           "price": 398650,
           "compare_at_price": 569500
         },
@@ -146110,7 +146113,7 @@
             "17"
           ],
           "sku": "BLY5-02",
-          "available": false,
+          "available": true,
           "price": 579500,
           "compare_at_price": 579500
         },
@@ -148044,6 +148047,7 @@
         "Interlock Polo",
         "Needle-Interlock-Regular-SimplifiedSizechart",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Regular Fit",
         "Sale",
@@ -148263,6 +148267,7 @@
         "Interlock Polo",
         "Needle-Interlock-Regular-SimplifiedSizechart",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Regular Fit",
         "Sale",
@@ -153732,7 +153737,7 @@
             "L"
           ],
           "sku": "W25HSF01",
-          "available": true,
+          "available": false,
           "price": 447650,
           "compare_at_price": 639500
         },
@@ -173402,7 +173407,7 @@
             "36"
           ],
           "sku": "CEP6-02",
-          "available": false,
+          "available": true,
           "price": 799500,
           "compare_at_price": 799500
         },
@@ -174333,7 +174338,7 @@
             "38"
           ],
           "sku": "CEP6-10",
-          "available": false,
+          "available": true,
           "price": 899500,
           "compare_at_price": 899500
         },
@@ -174491,7 +174496,7 @@
             "35"
           ],
           "sku": "CEP6-08",
-          "available": false,
+          "available": true,
           "price": 899500,
           "compare_at_price": 899500
         },
@@ -202072,7 +202077,7 @@
             "XL"
           ],
           "sku": "W26TSP01",
-          "available": false,
+          "available": true,
           "price": 321650,
           "compare_at_price": 459500
         },
@@ -248299,7 +248304,7 @@
             "S"
           ],
           "sku": "BTS7-06-B",
-          "available": false,
+          "available": true,
           "price": 365700,
           "compare_at_price": 609500
         },
@@ -250757,6 +250762,7 @@
         "Half Sleeves",
         "Jacquard Polo",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -251004,6 +251010,7 @@
         "Half Sleeves",
         "Jacquard Polo",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -259731,7 +259738,7 @@
             "M"
           ],
           "sku": "W25JSF02-B",
-          "available": true,
+          "available": false,
           "price": 419700,
           "compare_at_price": 699500
         },
@@ -259784,7 +259791,7 @@
           "compare_at_price": 699500
         }
       },
-      "available": true
+      "available": false
     },
     "10170830061863": {
       "id": "10170830061863",
@@ -272824,6 +272831,7 @@
         "Half Sleeves",
         "Heringbone-Johnny-Polo-Regular-SimplifiedSizechart",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Regular Fit",
         "Sale",
@@ -280360,7 +280368,7 @@
             "L"
           ],
           "sku": "W26BSH01-B",
-          "available": false,
+          "available": true,
           "price": 299700,
           "compare_at_price": 499500
         },
@@ -280389,7 +280397,7 @@
           "compare_at_price": 499500
         }
       },
-      "available": false
+      "available": true
     },
     "9941251621159": {
       "id": "9941251621159",
@@ -281823,6 +281831,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -281958,6 +281967,7 @@
         "Regular Fit",
         "S/L-Designer-Sweater-SimplifiedSizechart",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -282067,6 +282077,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -282202,6 +282213,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -282311,6 +282323,7 @@
         "Lambs Wool",
         "REGULAR-FIT",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -282446,6 +282459,7 @@
         "Lambs Wool",
         "REGULAR-FIT",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -282555,6 +282569,7 @@
         "Lambs Wool",
         "REGULAR-FIT",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -282690,6 +282705,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -282811,6 +282827,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -282919,6 +282936,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -283991,6 +284009,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -284125,6 +284144,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -284259,6 +284279,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -284393,6 +284414,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -284502,6 +284524,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -284637,6 +284660,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -284772,6 +284796,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -284907,6 +284932,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -285042,6 +285068,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -285177,6 +285204,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -285312,6 +285340,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -285447,6 +285476,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -285556,6 +285586,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -285665,6 +285696,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -285800,6 +285832,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -285909,6 +285942,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -286005,6 +286039,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -286140,6 +286175,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -286275,6 +286311,7 @@
         "Regular Fit",
         "S/L-Designer-Sweater-SimplifiedSizechart",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -286384,6 +286421,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -286519,6 +286557,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -286654,6 +286693,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -286789,6 +286829,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -288515,6 +288556,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -288783,6 +288825,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -288917,6 +288960,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -289051,6 +289095,7 @@
         "Full Sleeves",
         "Lambs Wool",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -294746,6 +294791,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -294880,6 +294926,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -294975,6 +295022,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -295083,6 +295131,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -295191,6 +295240,7 @@
         "Lambs Wool",
         "Regular Fit",
         "Sale",
+        "Sweater",
         "Sweaters",
         "Winter",
         "Winter 2026"
@@ -310374,7 +310424,7 @@
             "W 36 / L 31"
           ],
           "sku": "LFPM2501",
-          "available": true,
+          "available": false,
           "price": 374750,
           "compare_at_price": 749500
         },
@@ -338887,7 +338937,7 @@
             "S"
           ],
           "sku": "UCBRC261",
-          "available": false,
+          "available": true,
           "price": 339500,
           "compare_at_price": 339500
         },
@@ -341346,7 +341396,7 @@
             "L"
           ],
           "sku": "W26PBP01-B",
-          "available": true,
+          "available": false,
           "price": 287700,
           "compare_at_price": 479500
         },
@@ -341455,7 +341505,7 @@
             "L"
           ],
           "sku": "W26PBP01-B",
-          "available": true,
+          "available": false,
           "price": 287700,
           "compare_at_price": 479500
         },
@@ -342601,6 +342651,7 @@
         "Half Sleeves",
         "Heringbone-Johnny-Polo-Regular-SimplifiedSizechart",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Regular Fit",
         "Sale",
@@ -347541,12 +347592,12 @@
             "Metal"
           ],
           "sku": "CFL-2648",
-          "available": true,
+          "available": false,
           "price": 319500,
           "compare_at_price": 319500
         }
       },
-      "available": true
+      "available": false
     },
     "10567782105383": {
       "id": "10567782105383",
@@ -349290,6 +349341,7 @@
         "Cambridge",
         "F-S-Shacket-Regular-SimplifiedSizechart",
         "Full Sleeves",
+        "Jackets",
         "Polos",
         "Sale",
         "Shacket",
@@ -349398,6 +349450,7 @@
         "Cambridge",
         "F-S-Shacket-Regular-SimplifiedSizechart",
         "Full Sleeves",
+        "Jackets",
         "Polos",
         "Sale",
         "Shacket",
@@ -352809,7 +352862,7 @@
             "XXL"
           ],
           "sku": "UVJC25-1",
-          "available": false,
+          "available": true,
           "price": 429500,
           "compare_at_price": 429500
         },
@@ -362456,7 +362509,7 @@
             "S"
           ],
           "sku": "W26MNO01",
-          "available": false,
+          "available": true,
           "price": 552075,
           "compare_at_price": 649500
         },
@@ -379820,7 +379873,7 @@
             "L"
           ],
           "sku": "W25JHO01",
-          "available": true,
+          "available": false,
           "price": 489650,
           "compare_at_price": 699500
         },
@@ -379861,7 +379914,7 @@
           "compare_at_price": 699500
         }
       },
-      "available": true
+      "available": false
     },
     "10178546827559": {
       "id": "10178546827559",
@@ -412914,7 +412967,7 @@
             "15"
           ],
           "sku": "CPY6-01",
-          "available": true,
+          "available": false,
           "price": 599500,
           "compare_at_price": 599500
         },
@@ -412979,7 +413032,7 @@
           "compare_at_price": 599500
         }
       },
-      "available": true
+      "available": false
     },
     "10167445356839": {
       "id": "10167445356839",
@@ -422655,7 +422708,7 @@
             "16½"
           ],
           "sku": "BPP6-08",
-          "available": true,
+          "available": false,
           "price": 899500,
           "compare_at_price": 899500
         },
@@ -433989,7 +434042,7 @@
             "56"
           ],
           "sku": "CCJ25-01",
-          "available": true,
+          "available": false,
           "price": 1329650,
           "compare_at_price": 1899500
         },
@@ -434308,6 +434361,7 @@
         "Jackets",
         "Padded-Vest-Jacket-SimplifiedSizechart",
         "Quilted",
+        "Sale",
         "Sleeveless",
         "VEST",
         "Winter",
@@ -434442,6 +434496,7 @@
         "Jackets",
         "Padded-Vest-Jacket-SimplifiedSizechart",
         "Quilted",
+        "Sale",
         "Sleeveless",
         "VEST",
         "Winter",
@@ -473454,7 +473509,7 @@
             "42"
           ],
           "sku": "CLST604",
-          "available": true,
+          "available": false,
           "price": 2999500,
           "compare_at_price": 2999500
         },
@@ -473598,7 +473653,7 @@
             "38"
           ],
           "sku": "CLSTT604",
-          "available": true,
+          "available": false,
           "price": 999900,
           "compare_at_price": 999900
         },
@@ -483515,7 +483570,7 @@
             "S"
           ],
           "sku": "BC5-030",
-          "available": false,
+          "available": true,
           "price": 349650,
           "compare_at_price": 499500
         },
@@ -484749,7 +484804,7 @@
             "S"
           ],
           "sku": "BCSS6-02",
-          "available": false,
+          "available": true,
           "price": 1309500,
           "compare_at_price": 1309500
         },
@@ -498193,7 +498248,7 @@
             "M"
           ],
           "sku": "W26BF01",
-          "available": true,
+          "available": false,
           "price": 509575,
           "compare_at_price": 599500
         },
@@ -521080,6 +521135,7 @@
         "Cambridge",
         "Half Sleeves",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Sale",
         "Strip-Jersey-Polo-Relax-SimplifiedSizechart",
@@ -521188,6 +521244,7 @@
         "Cambridge",
         "Half Sleeves",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Sale",
         "Strip-Jersey-Polo-Relax-SimplifiedSizechart",
@@ -532231,6 +532288,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Sueded",
         "Winter",
         "Winter 2026"
@@ -532379,6 +532437,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Sueded",
         "Winter",
         "Winter 2026"
@@ -532527,6 +532586,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Sueded",
         "Winter",
         "Winter 2026"
@@ -544865,7 +544925,7 @@
             "S"
           ],
           "sku": "W26SCO01",
-          "available": false,
+          "available": true,
           "price": 450075,
           "compare_at_price": 529500
         },
@@ -544930,7 +544990,7 @@
           "compare_at_price": 529500
         }
       },
-      "available": false
+      "available": true
     },
     "10366266704167": {
       "id": "10366266704167",
@@ -545012,7 +545072,7 @@
             "M"
           ],
           "sku": "W26SCO01",
-          "available": false,
+          "available": true,
           "price": 450075,
           "compare_at_price": 529500
         },
@@ -545024,7 +545084,7 @@
             "L"
           ],
           "sku": "W26SCO01",
-          "available": false,
+          "available": true,
           "price": 450075,
           "compare_at_price": 529500
         },
@@ -545065,7 +545125,7 @@
           "compare_at_price": 529500
         }
       },
-      "available": false
+      "available": true
     },
     "10366266736935": {
       "id": "10366266736935",
@@ -545687,7 +545747,7 @@
             "S"
           ],
           "sku": "W26TVT01",
-          "available": false,
+          "available": true,
           "price": 244650,
           "compare_at_price": 349500
         },
@@ -545963,7 +546023,7 @@
             "S"
           ],
           "sku": "W26BSO01",
-          "available": false,
+          "available": true,
           "price": 509575,
           "compare_at_price": 599500
         },
@@ -547462,6 +547522,7 @@
         "Full Sleeves",
         "POLOS/TEES",
         "Pique",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -547685,6 +547746,7 @@
         "Full Sleeves",
         "POLOS/TEES",
         "Pique",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -547796,6 +547858,7 @@
         "Full Sleeves",
         "POLOS/TEES",
         "Pique",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -547907,6 +547970,7 @@
         "Full Sleeves",
         "POLOS/TEES",
         "Pique",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -548095,7 +548159,7 @@
             "L"
           ],
           "sku": "W26PFL01-B",
-          "available": true,
+          "available": false,
           "price": 311700,
           "compare_at_price": 519500
         },
@@ -548124,7 +548188,7 @@
           "compare_at_price": 519500
         }
       },
-      "available": true
+      "available": false
     },
     "5004150767702": {
       "id": "5004150767702",
@@ -559127,7 +559191,7 @@
             "XL"
           ],
           "sku": "BCSS6-04",
-          "available": false,
+          "available": true,
           "price": 899500,
           "compare_at_price": 899500
         },
@@ -561309,7 +561373,7 @@
             "W 36 / L 31"
           ],
           "sku": "CCUM2501",
-          "available": true,
+          "available": false,
           "price": 334750,
           "compare_at_price": 669500
         },
@@ -562064,7 +562128,7 @@
             "W 40 / L 31"
           ],
           "sku": "CCUM2601",
-          "available": false,
+          "available": true,
           "price": 789500,
           "compare_at_price": 789500
         },
@@ -564947,7 +565011,7 @@
             "W 38 / L 30"
           ],
           "sku": "CCUS2601",
-          "available": true,
+          "available": false,
           "price": 789500,
           "compare_at_price": 789500
         },
@@ -565199,7 +565263,7 @@
             "W 35 / L 32"
           ],
           "sku": "CCUL2601",
-          "available": false,
+          "available": true,
           "price": 789500,
           "compare_at_price": 789500
         },
@@ -565235,7 +565299,7 @@
             "W 38 / L 32"
           ],
           "sku": "CCUL2601",
-          "available": false,
+          "available": true,
           "price": 789500,
           "compare_at_price": 789500
         },
@@ -567590,7 +567654,7 @@
             "XL"
           ],
           "sku": "CAM-74-04",
-          "available": true,
+          "available": false,
           "price": 314650,
           "compare_at_price": 449500
         },
@@ -573007,7 +573071,7 @@
             "XL"
           ],
           "sku": "W26HSW01",
-          "available": false,
+          "available": true,
           "price": 399075,
           "compare_at_price": 469500
         },
@@ -573150,6 +573214,7 @@
         "Cambridge",
         "Full Sleeves",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -573213,7 +573278,7 @@
             "L"
           ],
           "sku": "W26PSW01",
-          "available": false,
+          "available": true,
           "price": 424575,
           "compare_at_price": 499500
         },
@@ -573230,7 +573295,7 @@
           "compare_at_price": 499500
         }
       },
-      "available": false
+      "available": true
     },
     "10382395572519": {
       "id": "10382395572519",
@@ -573248,6 +573313,7 @@
         "Cambridge",
         "Full Sleeves",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -573346,6 +573412,7 @@
         "Cambridge",
         "Full Sleeves",
         "POLOS/TEES",
+        "Polo",
         "Polos",
         "Sale",
         "Textured",
@@ -573484,7 +573551,7 @@
             "S"
           ],
           "sku": "W26PSW01",
-          "available": false,
+          "available": true,
           "price": 424575,
           "compare_at_price": 499500
         },
@@ -574832,12 +574899,13 @@
       "description": "\n<p><strong>Product Details:</strong></p>\n<ul>\n  <li>Crafted from 100% polyester fabric for durability and comfort</li>\n  <li>Full sleeves create a modern and polished look</li>\n  <li>Regular fit balances comfort and style</li>\n  <li>Ideal for casual occasions</li>\n</ul>\n\n<p><strong>Care Instructions:</strong><br>\nDry Clean Only</p>\n\n<hr>\n\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n\n<div class=\"index-tableContainer\">\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Fabric Type</div>\n    <div class=\"index-rowValue\">Polyester</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Composition</div>\n    <div class=\"index-rowValue\">100% Polyester</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Sleeves</div>\n    <div class=\"index-rowValue\">Full Sleeves</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Fit</div>\n    <div class=\"index-rowValue\">Regular Fit</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Occasion</div>\n    <div class=\"index-rowValue\">Casual</div>\n  </div>\n</div>\n\n<style>\n  .index-tableContainer {\n    display: flex;\n    flex-wrap: wrap;\n  }\n\n  .index-row {\n    flex: 45%;\n    margin: 0 5% 10px 0;\n  }\n\n  .index-rowKey {\n    font-size: 12px;\n    opacity: 0.7;\n    padding-top: 5px;\n  }\n\n  .index-rowValue {\n    border-bottom: 1px solid #3333332e;\n    font-size: 12px;\n    padding-bottom: 5px;\n  }\n</style>\n",
       "tags": [
         "2026",
-        "CCJL2604-Regular-SimplifiedSizechart",
+        "CCJ26-06-10-11-Replent-Regular-SimplifiedSizechart",
         "Cambridge",
         "Casual Jacket",
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Water repelent",
         "Winter",
         "Winter 2026"
@@ -577605,6 +577673,7 @@
         "Jackets",
         "Padded-Vest-Jacket-SimplifiedSizechart",
         "Quilted",
+        "Sale",
         "Sleeveless",
         "VEST",
         "Water repelent",
@@ -577743,6 +577812,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Water repelent",
         "Winter",
         "Winter 2026"
@@ -578256,6 +578326,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Water repelent",
         "Winter",
         "Winter 2026"
@@ -578403,6 +578474,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Water repelent",
         "Winter",
         "Winter 2026"
@@ -578551,6 +578623,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Water repelent",
         "Winter",
         "Winter 2026"
@@ -578693,12 +578766,13 @@
       "description": "\n<p><strong>Product Details:</strong></p>\n<ul>\n  <li>Crafted from 100% polyester fabric for durability and comfort</li>\n  <li>Full sleeves create a modern and polished look</li>\n  <li>Regular fit balances comfort and style</li>\n  <li>Ideal for casual occasions</li>\n</ul>\n\n<p><strong>Care Instructions:</strong><br>\nDry Clean Only</p>\n\n<hr>\n\n<p><strong class=\"index-sizeFitDescTitle index-product-ProductDetail-title\">Specifications</strong></p>\n\n<div class=\"index-tableContainer\">\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Fabric Type</div>\n    <div class=\"index-rowValue\">Polyester</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Composition</div>\n    <div class=\"index-rowValue\">100% Polyester</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Sleeves</div>\n    <div class=\"index-rowValue\">Full Sleeves</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Fit</div>\n    <div class=\"index-rowValue\">Regular Fit</div>\n  </div>\n  <div class=\"index-row\">\n    <div class=\"index-rowKey\">Occasion</div>\n    <div class=\"index-rowValue\">Casual</div>\n  </div>\n</div>\n\n<style>\n  .index-tableContainer {\n    display: flex;\n    flex-wrap: wrap;\n  }\n\n  .index-row {\n    flex: 45%;\n    margin: 0 5% 10px 0;\n  }\n\n  .index-rowKey {\n    font-size: 12px;\n    opacity: 0.7;\n    padding-top: 5px;\n  }\n\n  .index-rowValue {\n    border-bottom: 1px solid #3333332e;\n    font-size: 12px;\n    padding-bottom: 5px;\n  }\n</style>\n",
       "tags": [
         "2026",
-        "CCJL2604-Regular-SimplifiedSizechart",
+        "CCJ26-06-10-11-Replent-Regular-SimplifiedSizechart",
         "Cambridge",
         "Casual Jacket",
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Water repelent",
         "Winter",
         "Winter 2026"
@@ -578834,6 +578908,7 @@
         "Full Sleeves",
         "Jackets",
         "Polyster",
+        "Sale",
         "Water repelent",
         "Winter",
         "Winter 2026"
@@ -590682,7 +590757,7 @@
             "W 44 / L 31"
           ],
           "sku": "CWRS2602",
-          "available": false,
+          "available": true,
           "price": 849500,
           "compare_at_price": 849500
         }
@@ -610081,7 +610156,7 @@
             "XXL"
           ],
           "sku": "BC5-022",
-          "available": false,
+          "available": true,
           "price": 349650,
           "compare_at_price": 499500
         },
@@ -620725,9 +620800,7 @@
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/0004_W26JSF01-Brown1.jpg?v=1793699116",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/0005_W26JSF01-Brown.jpg?v=1793699116",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/W26JSF01-Brown-CU.jpg?v=1792052342",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/W26JSF01-Brown.jpg?v=1792052342",
         "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/W26JSF01-Brown1.jpg?v=1792052342"
       ],
       "options": [
@@ -620945,8 +621018,7 @@
         "Zipper"
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/0004_W26JSF01-Navy-1_2e5930e4-5eba-4c7e-a10d-bd724e7f2eea.jpg?v=1794827858",
-        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/0005_W26JSF01-Navy_f921be3f-4ae3-42f1-9008-3f2f2800961a.jpg?v=1794827859"
+        "https://cdn.shopify.com/s/files/1/0283/5510/0758/files/0004_W26JSF01-Navy-1_2e5930e4-5eba-4c7e-a10d-bd724e7f2eea.jpg?v=1794827858"
       ],
       "options": [
         {
