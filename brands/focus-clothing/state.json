@@ -3,7 +3,7 @@
   "source": "https://focusclothing.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-28T01:30:19.981947+00:00",
+  "checked_at": "2026-11-28T11:53:36.115563+00:00",
   "products": {
     "9239567958234": {
       "id": "9239567958234",
@@ -8640,7 +8640,7 @@
             "33"
           ],
           "sku": "MCP2605-W33-CRM",
-          "available": true,
+          "available": false,
           "price": 412125,
           "compare_at_price": 549500
         },
@@ -24966,51 +24966,62 @@
             "L",
             "XL"
           ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "White"
+          ]
         }
       ],
       "variants": {
         "69080912298202": {
           "id": "69080912298202",
-          "title": "S",
+          "title": "S / White",
           "options": [
-            "S"
+            "S",
+            "White"
           ],
           "sku": "MUP2615-SML-STW",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         },
         "69080912330970": {
           "id": "69080912330970",
-          "title": "M",
+          "title": "M / White",
           "options": [
-            "M"
+            "M",
+            "White"
           ],
           "sku": "MUP2615-MED-STW",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         },
         "69080912363738": {
           "id": "69080912363738",
-          "title": "L",
+          "title": "L / White",
           "options": [
-            "L"
+            "L",
+            "White"
           ],
           "sku": "MUP2615-LRG-STW",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         },
         "69080912396506": {
           "id": "69080912396506",
-          "title": "XL",
+          "title": "XL / White",
           "options": [
-            "XL"
+            "XL",
+            "White"
           ],
           "sku": "MUP2615-EXL-STW",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         }
       },
@@ -30485,7 +30496,7 @@
           ],
           "sku": "MUP2616-SML-BRN",
           "available": true,
-          "price": 699500,
+          "price": 524625,
           "compare_at_price": 699500
         },
         "69076191477978": {
@@ -30497,7 +30508,7 @@
           ],
           "sku": "MUP2616-MED-BRN",
           "available": true,
-          "price": 699500,
+          "price": 524625,
           "compare_at_price": 699500
         },
         "69076191510746": {
@@ -30509,7 +30520,7 @@
           ],
           "sku": "MUP2616-LRG-BRN",
           "available": true,
-          "price": 699500,
+          "price": 524625,
           "compare_at_price": 699500
         },
         "69076191543514": {
@@ -30521,7 +30532,7 @@
           ],
           "sku": "MUP2616-EXL-BRN",
           "available": true,
-          "price": 699500,
+          "price": 524625,
           "compare_at_price": 699500
         },
         "69096255717594": {
@@ -30533,7 +30544,7 @@
           ],
           "sku": null,
           "available": true,
-          "price": 699500,
+          "price": 524625,
           "compare_at_price": 699500
         }
       },
@@ -33343,6 +33354,115 @@
       },
       "available": true
     },
+    "15387416002778": {
+      "id": "15387416002778",
+      "title": "Navy Tailored Track Pants",
+      "handle": "navy-tailored-track-pants",
+      "url": "https://focusclothing.pk/products/navy-tailored-track-pants",
+      "vendor": "Men",
+      "type": "Men Trouser",
+      "description": "Refresh your everyday style with these navy tailored track pants. A clean, streamlined look pairs easily with casual outfits, while the adjustable drawstring waistband lets you fine-tune the fit. A versatile choice for relaxed days and effortless layering.",
+      "tags": [
+        "MENS",
+        "Men",
+        "New",
+        "New In",
+        "New In Men",
+        "New Products",
+        "Trouser-W",
+        "WMEN",
+        "men-trouser-size",
+        "mws_fee_generated"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/001_1e58a1bc-e3c9-4e65-9e5d-48ffcc22d51f.jpg?v=1795843857",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/002_e4c1feb3-d4b5-49d2-87db-780c0761792b.jpg?v=1795843858",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/003_a00722d7-7a09-4b96-acdd-890168e56883.jpg?v=1795843857"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Navy"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ]
+        }
+      ],
+      "variants": {
+        "69098218258650": {
+          "id": "69098218258650",
+          "title": "Navy / S",
+          "options": [
+            "Navy",
+            "S"
+          ],
+          "sku": "MTR2608-SML-NVY",
+          "available": true,
+          "price": 524625,
+          "compare_at_price": 699500
+        },
+        "69098218291418": {
+          "id": "69098218291418",
+          "title": "Navy / M",
+          "options": [
+            "Navy",
+            "M"
+          ],
+          "sku": "MTR2608-MED-NVY",
+          "available": true,
+          "price": 524625,
+          "compare_at_price": 699500
+        },
+        "69098218324186": {
+          "id": "69098218324186",
+          "title": "Navy / L",
+          "options": [
+            "Navy",
+            "L"
+          ],
+          "sku": "MTR2608-LRG-NVY",
+          "available": true,
+          "price": 524625,
+          "compare_at_price": 699500
+        },
+        "69098218356954": {
+          "id": "69098218356954",
+          "title": "Navy / XL",
+          "options": [
+            "Navy",
+            "XL"
+          ],
+          "sku": "MTR2608-EXL-NVY",
+          "available": true,
+          "price": 524625,
+          "compare_at_price": 699500
+        },
+        "69098218389722": {
+          "id": "69098218389722",
+          "title": "Navy / 2XL",
+          "options": [
+            "Navy",
+            "2XL"
+          ],
+          "sku": "MTR2608-2XL-NVY",
+          "available": true,
+          "price": 524625,
+          "compare_at_price": 699500
+        }
+      },
+      "available": true
+    },
     "9241906282714": {
       "id": "9241906282714",
       "title": "Navy White Strip Polo Shirt",
@@ -33571,6 +33691,103 @@
           "available": true,
           "price": 824625,
           "compare_at_price": 1099500
+        }
+      },
+      "available": true
+    },
+    "15387428651226": {
+      "id": "15387428651226",
+      "title": "Off White Collar Sweatshirt",
+      "handle": "off-white-collar-sweatshirt",
+      "url": "https://focusclothing.pk/products/off-white-collar-sweatshirt",
+      "vendor": "Men",
+      "type": "Men Sweatshirt",
+      "description": "<p><br></p>Pair it with tailored trousers or your favorite jeans for an easy, polished look. Layer it over a tee for added versatility through the day.",
+      "tags": [
+        "Essential",
+        "MEN SUMMER 23",
+        "MSS",
+        "Men",
+        "Men C Grade",
+        "New",
+        "New In",
+        "New In Men",
+        "New Products",
+        "New Summer Men",
+        "New T-Shirt"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/001_b55b0fba-813e-4b65-8f6c-95a60cdf5b55.jpg?v=1795843876",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/002_59ae105d-cbd0-4ef2-b56e-4698346c4789.jpg?v=1795843876",
+        "https://cdn.shopify.com/s/files/1/0475/7179/6123/files/003_eb5eaaef-a6b4-4525-a82c-544212c81ee8.jpg?v=1795843876"
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Off white"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "69098328686810": {
+          "id": "69098328686810",
+          "title": "Off white / S",
+          "options": [
+            "Off white",
+            "S"
+          ],
+          "sku": "MSD2606-SML-OWH",
+          "available": true,
+          "price": 412125,
+          "compare_at_price": 549500
+        },
+        "69098336911578": {
+          "id": "69098336911578",
+          "title": "Off white / M",
+          "options": [
+            "Off white",
+            "M"
+          ],
+          "sku": "MSD2606-MED-OWH",
+          "available": true,
+          "price": 412125,
+          "compare_at_price": 549500
+        },
+        "69098336944346": {
+          "id": "69098336944346",
+          "title": "Off white / L",
+          "options": [
+            "Off white",
+            "L"
+          ],
+          "sku": "MSD2606-LRG-OWH",
+          "available": true,
+          "price": 412125,
+          "compare_at_price": 549500
+        },
+        "69098336977114": {
+          "id": "69098336977114",
+          "title": "Off white / XL",
+          "options": [
+            "Off white",
+            "XL"
+          ],
+          "sku": "MSD2606-EXL-OWH",
+          "available": true,
+          "price": 412125,
+          "compare_at_price": 549500
         }
       },
       "available": true
@@ -45617,7 +45834,7 @@
           ],
           "sku": "KMT2694-SML-RST",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         },
         "69076267073754": {
@@ -45629,7 +45846,7 @@
           ],
           "sku": "KMT2694-MED-RST",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         },
         "69076267106522": {
@@ -45641,7 +45858,7 @@
           ],
           "sku": "KMT2694-LRG-RST",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         },
         "69076267139290": {
@@ -45653,7 +45870,7 @@
           ],
           "sku": "KMT2694-EXL-RST",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         },
         "69076267172058": {
@@ -45665,7 +45882,7 @@
           ],
           "sku": "KMT2694-2XL-RST",
           "available": true,
-          "price": 649500,
+          "price": 487125,
           "compare_at_price": 649500
         }
       },

@@ -1,15 +1,222 @@
 {
-  "checked_at": "2026-11-28T01:30:19.981947+00:00",
+  "checked_at": "2026-11-28T11:53:36.115563+00:00",
   "baseline_created": false,
-  "product_count": 452,
-  "change_count": 1,
+  "product_count": 454,
+  "change_count": 26,
   "changes": [
     {
-      "product_id": "15307102060762",
-      "title": "Espresso Brown Suede Jacket",
-      "url": "https://focusclothing.pk/products/espresso-brown-faux-suede-jacket?variant=67983146909914",
+      "product_id": "15378061230298",
+      "title": "Mocha Brown Zip-Up Hoodie",
+      "url": "https://focusclothing.pk/products/mocha-brown-zip-up-hoodie?variant=69076191445210",
+      "kind": "Price decreased",
+      "detail": "Brown / S: PKR 6,995.00 → PKR 5,246.25"
+    },
+    {
+      "product_id": "15378061230298",
+      "title": "Mocha Brown Zip-Up Hoodie",
+      "url": "https://focusclothing.pk/products/mocha-brown-zip-up-hoodie?variant=69076191477978",
+      "kind": "Price decreased",
+      "detail": "Brown / M: PKR 6,995.00 → PKR 5,246.25"
+    },
+    {
+      "product_id": "15378061230298",
+      "title": "Mocha Brown Zip-Up Hoodie",
+      "url": "https://focusclothing.pk/products/mocha-brown-zip-up-hoodie?variant=69076191510746",
+      "kind": "Price decreased",
+      "detail": "Brown / L: PKR 6,995.00 → PKR 5,246.25"
+    },
+    {
+      "product_id": "15378061230298",
+      "title": "Mocha Brown Zip-Up Hoodie",
+      "url": "https://focusclothing.pk/products/mocha-brown-zip-up-hoodie?variant=69076191543514",
+      "kind": "Price decreased",
+      "detail": "Brown / XL: PKR 6,995.00 → PKR 5,246.25"
+    },
+    {
+      "product_id": "15378061230298",
+      "title": "Mocha Brown Zip-Up Hoodie",
+      "url": "https://focusclothing.pk/products/mocha-brown-zip-up-hoodie?variant=69096255717594",
+      "kind": "Price decreased",
+      "detail": "Brown / 2XL: PKR 6,995.00 → PKR 5,246.25"
+    },
+    {
+      "product_id": "15378089967834",
+      "title": "Unisex Mocha Brown Straight-Leg Sweatpants",
+      "url": "https://focusclothing.pk/products/unisex-mocha-brown-straight-leg-sweatpants?variant=69076267040986",
+      "kind": "Price decreased",
+      "detail": "Rust / S: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15378089967834",
+      "title": "Unisex Mocha Brown Straight-Leg Sweatpants",
+      "url": "https://focusclothing.pk/products/unisex-mocha-brown-straight-leg-sweatpants?variant=69076267073754",
+      "kind": "Price decreased",
+      "detail": "Rust / M: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15378089967834",
+      "title": "Unisex Mocha Brown Straight-Leg Sweatpants",
+      "url": "https://focusclothing.pk/products/unisex-mocha-brown-straight-leg-sweatpants?variant=69076267106522",
+      "kind": "Price decreased",
+      "detail": "Rust / L: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15378089967834",
+      "title": "Unisex Mocha Brown Straight-Leg Sweatpants",
+      "url": "https://focusclothing.pk/products/unisex-mocha-brown-straight-leg-sweatpants?variant=69076267139290",
+      "kind": "Price decreased",
+      "detail": "Rust / XL: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15378089967834",
+      "title": "Unisex Mocha Brown Straight-Leg Sweatpants",
+      "url": "https://focusclothing.pk/products/unisex-mocha-brown-straight-leg-sweatpants?variant=69076267172058",
+      "kind": "Price decreased",
+      "detail": "Rust / 2XL: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men",
+      "kind": "Product updated",
+      "detail": "Options changed (see changes.json for full before/after)",
+      "field": "options",
+      "before": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "White"
+          ]
+        }
+      ]
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912298202",
+      "kind": "Price decreased",
+      "detail": "S / White: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912298202",
+      "kind": "Size/option updated",
+      "detail": "S / White title: S → S / White"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912298202",
+      "kind": "Size/option updated",
+      "detail": "S / White options: ['S'] → ['S', 'White']"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912330970",
+      "kind": "Price decreased",
+      "detail": "M / White: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912330970",
+      "kind": "Size/option updated",
+      "detail": "M / White title: M → M / White"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912330970",
+      "kind": "Size/option updated",
+      "detail": "M / White options: ['M'] → ['M', 'White']"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912363738",
+      "kind": "Price decreased",
+      "detail": "L / White: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912363738",
+      "kind": "Size/option updated",
+      "detail": "L / White title: L → L / White"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912363738",
+      "kind": "Size/option updated",
+      "detail": "L / White options: ['L'] → ['L', 'White']"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912396506",
+      "kind": "Price decreased",
+      "detail": "XL / White: PKR 6,495.00 → PKR 4,871.25"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912396506",
+      "kind": "Size/option updated",
+      "detail": "XL / White title: XL → XL / White"
+    },
+    {
+      "product_id": "15379335774426",
+      "title": "Light Grey Paneled Hoodie for Men",
+      "url": "https://focusclothing.pk/products/light-grey-paneled-hoodie-for-men?variant=69080912396506",
+      "kind": "Size/option updated",
+      "detail": "XL / White options: ['XL'] → ['XL', 'White']"
+    },
+    {
+      "product_id": "15387416002778",
+      "title": "Navy Tailored Track Pants",
+      "url": "https://focusclothing.pk/products/navy-tailored-track-pants",
+      "kind": "New product",
+      "detail": "Price: PKR 5,246.25; available sizes/options: Navy / S, Navy / M, Navy / L, Navy / XL, Navy / 2XL"
+    },
+    {
+      "product_id": "15387428651226",
+      "title": "Off White Collar Sweatshirt",
+      "url": "https://focusclothing.pk/products/off-white-collar-sweatshirt",
+      "kind": "New product",
+      "detail": "Price: PKR 4,121.25; available sizes/options: Off white / S, Off white / M, Off white / L, Off white / XL"
+    },
+    {
+      "product_id": "9414791299290",
+      "title": "Cream Chino pant",
+      "url": "https://focusclothing.pk/products/cream-chino-pant?variant=48288246563034",
       "kind": "Sold out",
-      "detail": "Brown / M"
+      "detail": "Beige / 33"
     }
   ]
 }
