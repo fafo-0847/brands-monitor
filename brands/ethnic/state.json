@@ -3,7 +3,7 @@
   "source": "https://pk.ethnc.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-27T22:19:11.055103+00:00",
+  "checked_at": "2026-11-28T09:12:19.131065+00:00",
   "products": {
     "7545700974694": {
       "id": "7545700974694",
@@ -3507,7 +3507,7 @@
             "sand"
           ],
           "sku": "E3005/108/007-50621940",
-          "available": true,
+          "available": false,
           "price": 449000,
           "compare_at_price": 1499000
         },
@@ -18901,7 +18901,7 @@
             "ice-pink"
           ],
           "sku": "E1515/301/529-50634230",
-          "available": true,
+          "available": false,
           "price": 185000,
           "compare_at_price": 369000
         },
@@ -19878,7 +19878,7 @@
             "Anthracite Grey"
           ],
           "sku": "E1631/401/903-50616031",
-          "available": true,
+          "available": false,
           "price": 189000,
           "compare_at_price": 649000
         },
@@ -25128,7 +25128,7 @@
             "powder-coral"
           ],
           "sku": "E2198/301/327-50688944",
-          "available": true,
+          "available": false,
           "price": 164000,
           "compare_at_price": 329000
         },
@@ -43025,7 +43025,6 @@
         "one piece pret",
         "western dress'24",
         "western dress'25",
-        "women-sale",
         "women-western"
       ],
       "images": [
@@ -43087,7 +43086,7 @@
             "multi"
           ],
           "sku": "E2001/108/999-50583562",
-          "available": true,
+          "available": false,
           "price": 240000,
           "compare_at_price": 599000
         },
@@ -43104,7 +43103,7 @@
           "compare_at_price": 599000
         }
       },
-      "available": true
+      "available": false
     },
     "7859923648614": {
       "id": "7859923648614",
@@ -47794,7 +47793,7 @@
             "Light Green"
           ],
           "sku": "E2255/108/720-50603727",
-          "available": true,
+          "available": false,
           "price": 149000,
           "compare_at_price": 499000
         },
@@ -48441,7 +48440,6 @@
         "two piece pret",
         "western dress'25",
         "western summer'25",
-        "women-sale",
         "women-western"
       ],
       "images": [
@@ -48479,7 +48477,7 @@
             "White"
           ],
           "sku": "E2306/108/001-50646890",
-          "available": true,
+          "available": false,
           "price": 439000,
           "compare_at_price": 1099000
         },
@@ -48520,7 +48518,7 @@
           "compare_at_price": 1099000
         }
       },
-      "available": true
+      "available": false
     },
     "7640844370022": {
       "id": "7640844370022",
@@ -48893,7 +48891,8 @@
         "WS26-KIDS",
         "chota fusion toddler",
         "fusion dress toddler",
-        "kids"
+        "kids",
+        "kids-fp"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/2290/7917/files/E2810-301_1.jpg?v=1793789394",
@@ -140225,7 +140224,7 @@
             "Sea Green"
           ],
           "sku": "E1202/104/714-50700338",
-          "available": true,
+          "available": false,
           "price": 2589000,
           "compare_at_price": 3699000
         },
@@ -143764,7 +143763,7 @@
             "Caramel"
           ],
           "sku": "E1250-104-806-50706908",
-          "available": true,
+          "available": false,
           "price": 2099000,
           "compare_at_price": 2999000
         }
@@ -167379,8 +167378,7 @@
         "WS26-KIDS",
         "casual kids",
         "eastern kids",
-        "kids",
-        "kids-fp"
+        "kids"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/2290/7917/files/E1863-402-635_1.jpg?v=1793595458",
@@ -185894,7 +185892,7 @@
             "Grape Wine"
           ],
           "sku": "E4772-103-304-50713852",
-          "available": true,
+          "available": false,
           "price": 1399000,
           "compare_at_price": 1999000
         },
@@ -187083,7 +187081,7 @@
             "Chocolate Brown"
           ],
           "sku": "E4784-103-804-50728993",
-          "available": true,
+          "available": false,
           "price": 1679000,
           "compare_at_price": 2399000
         }
@@ -191593,7 +191591,7 @@
             "Deep Blue"
           ],
           "sku": "E4845-103-620-50727074",
-          "available": true,
+          "available": false,
           "price": 1119000,
           "compare_at_price": 1599000
         },
@@ -193268,7 +193266,7 @@
             "Grape Wine"
           ],
           "sku": "E4873-103-304-50710310",
-          "available": true,
+          "available": false,
           "price": 1189000,
           "compare_at_price": 1699000
         },
@@ -198705,7 +198703,7 @@
             "Black"
           ],
           "sku": "E4932-103-901-50719222",
-          "available": true,
+          "available": false,
           "price": 1119000,
           "compare_at_price": 1599000
         },
@@ -199268,8 +199266,7 @@
         "Rozana'26",
         "WS-26",
         "women",
-        "women-eastern",
-        "women-fp"
+        "women-eastern"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/2290/7917/files/E4938-103-823_1.jpg?v=1793011850",
@@ -200522,111 +200519,6 @@
           "available": true,
           "price": 979000,
           "compare_at_price": 1399000
-        }
-      },
-      "available": true
-    },
-    "15422060101734": {
-      "id": "15422060101734",
-      "title": "EMBROIDERED SUIT (E4951-103-901)",
-      "handle": "rozana-suit-e4951-103-901-901",
-      "url": "https://pk.ethnc.com/products/rozana-suit-e4951-103-901-901",
-      "vendor": "WS-26",
-      "type": "Rozana",
-      "description": "<p>Exude regal festive poise with this jet black embroidered suit, masterfully tailored in an elongated, straight-cut silhouette. The long black tunic features a round neckline with a deep V-slit, dramatic wide bell sleeves trimmed with delicate black beaded fringe, and ornate botanical threadwork in shades of ivory, champagne gold, and soft sage green cascading down the central bodice, side panels, and deep hemline border. Paired with coordinating black wide-leg palazzo finished with matching geometric embroidered borders along the hem, this statement two-piece ensemble seamlessly merges heritage craftsmanship with modern luxury.<br><span>-Black Color</span><br><span>-Stitched Article</span><br><span>-2 Piece</span><br><br><strong>Size &amp; Fit:</strong><br><span>-Model height is </span><strong>5'6</strong><span>.</span><br><span>-Model is wearing </span><strong>XS </strong><span>size.</span></p>",
-      "tags": [
-        "BF2026WomenALL24Nov2026",
-        "BF2026WomenPret24Nov2026",
-        "E4951-103-1-shirt-chartify",
-        "E4951-103-2-trouser-chartify",
-        "FP",
-        "FP0925",
-        "Rozana Suit",
-        "Rozana'26",
-        "WS-26",
-        "WomenRozana24Nov2026",
-        "women",
-        "women-eastern",
-        "women-sale"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_1.jpg?v=1794311968",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_1_7bf9b0f0-b666-4f3a-802c-5f30f00afa25.jpg?v=1794899919",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_2.jpg?v=1794311968",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_2_ce9a8b85-4959-4ab1-b95b-bcceb2eb89f0.jpg?v=1794899919",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_3.jpg?v=1794311968",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_3_51cee840-354f-47cd-b6c6-2325f20b8e35.jpg?v=1794899919",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_4.jpg?v=1794311969",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_4_7f7a8ba2-d8d3-4110-90e6-b89eb8f8a81a.jpg?v=1794899919",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E4951-103-901_5.jpg?v=1794311968"
-      ],
-      "options": [
-        {
-          "name": "SIZE",
-          "position": 1,
-          "values": [
-            "XS",
-            "S",
-            "M",
-            "L"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Black"
-          ]
-        }
-      ],
-      "variants": {
-        "67703987306598": {
-          "id": "67703987306598",
-          "title": "XS / Black",
-          "options": [
-            "XS",
-            "Black"
-          ],
-          "sku": "E4951-103-901-50739173",
-          "available": true,
-          "price": 1189000,
-          "compare_at_price": 1699000
-        },
-        "67703987339366": {
-          "id": "67703987339366",
-          "title": "S / Black",
-          "options": [
-            "S",
-            "Black"
-          ],
-          "sku": "E4951-103-901-50739170",
-          "available": true,
-          "price": 1189000,
-          "compare_at_price": 1699000
-        },
-        "67703987372134": {
-          "id": "67703987372134",
-          "title": "M / Black",
-          "options": [
-            "M",
-            "Black"
-          ],
-          "sku": "E4951-103-901-50739171",
-          "available": false,
-          "price": 1189000,
-          "compare_at_price": 1699000
-        },
-        "67703987404902": {
-          "id": "67703987404902",
-          "title": "L / Black",
-          "options": [
-            "L",
-            "Black"
-          ],
-          "sku": "E4951-103-901-50739172",
-          "available": false,
-          "price": 1189000,
-          "compare_at_price": 1699000
         }
       },
       "available": true
@@ -208691,7 +208583,7 @@
             "Violet"
           ],
           "sku": "E9416-102-519-50725513",
-          "available": true,
+          "available": false,
           "price": 839000,
           "compare_at_price": 1199000
         }
@@ -221502,8 +221394,7 @@
         "E0808/119/002-1-shirt-Chartify",
         "SS-26",
         "Women",
-        "east-meets-west",
-        "women-sale"
+        "east-meets-west"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/2290/7917/files/E0808-119-002_1.jpg?v=1782735881",
@@ -257181,7 +257072,7 @@
             "ice-pink"
           ],
           "sku": "E1958/401/529-50659286",
-          "available": true,
+          "available": false,
           "price": 200000,
           "compare_at_price": 399000
         },
@@ -264999,7 +264890,7 @@
             "Indigo Blue"
           ],
           "sku": "E0306/120/622-50693237",
-          "available": true,
+          "available": false,
           "price": 400000,
           "compare_at_price": 799000
         }
@@ -267224,7 +267115,7 @@
             "skyway"
           ],
           "sku": "E1513/401/630-50618297",
-          "available": true,
+          "available": false,
           "price": 219000,
           "compare_at_price": 449000
         },
@@ -281754,125 +281645,6 @@
       },
       "available": false
     },
-    "7640885428326": {
-      "id": "7640885428326",
-      "title": "JUMPSUIT (E1529/301/101)",
-      "handle": "toddler-jumpsuit-e1529-301-101-101",
-      "url": "https://pk.ethnc.com/products/toddler-jumpsuit-e1529-301-101-101",
-      "vendor": "SS25-KIDS",
-      "type": "Fusion",
-      "description": "<p>Bring a burst of sunshine to her wardrobe with our delightful yellow sun print jumpsuit! This cheerful one-piece features a vibrant yellow base adorned with an all-over playful sunburst pattern, radiating warmth and happiness. The comfortable loose fit silhouette ensures freedom of movement for all her adventures. Perfect for sunny playdates, casual outings, or simply enjoying bright days in style.<br>-Yellow Color <br>-Stitched Article<br>-1 piece</p>\n<p class=\"MsoNormal\"><b>Size &amp; Fit:</b><br>-Model height is 40-42 Inches<br>-Model is wearing <b>3-4 Year</b> size.</p>",
-      "tags": [
-        "AugSaleKIDSALL06August2025",
-        "AugSaleKidsCHOTAFUSION06August2025",
-        "AugSaleKidsFusion06August2025",
-        "CHOTA FUSION TODDLER'24",
-        "CHOTA FUSION TODDLER'25",
-        "Chota Fusion",
-        "DIS0925",
-        "DRESS & JUMPSUIT TODDLER",
-        "DRESS & JUMPSUIT TODDLER'24",
-        "DRESS & JUMPSUIT TODDLER'25 fusion dress toddler",
-        "DecSaleKIDSALL23Dec2025",
-        "DecSaleKidsCHOTAFUSION23Dec2025",
-        "E1529/301/101-1-JUMPSUIT-SimplifiedSizechart",
-        "Fusion kids",
-        "Fusion-Full Price",
-        "KIDS-F.P",
-        "Kids Fusion 30 June 25",
-        "Kids Fusion-Full Price",
-        "Kids New In",
-        "New-In Fusion Kids",
-        "PRET SS'25 Kids",
-        "SS25-KIDS",
-        "chota fusion toddler",
-        "fusion dress toddler",
-        "fusion jumpsuit toddler",
-        "girls toddler",
-        "kids",
-        "kids fusion'25",
-        "kids-sale",
-        "one piece kids"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1529-301-101_1.jpg?v=1751262128",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1529-301-101_2.jpg?v=1751262129",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1529-301-101_3.jpg?v=1751262129",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1529-301-101_4.jpg?v=1751262129",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1529-301-101_5.jpg?v=1751262129",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1529-301-101_6.jpg?v=1751262129"
-      ],
-      "options": [
-        {
-          "name": "SIZE",
-          "position": 1,
-          "values": [
-            "12-18M",
-            "2-3Y",
-            "3-4Y",
-            "4-5Y"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Yellow"
-          ]
-        }
-      ],
-      "variants": {
-        "42733087719526": {
-          "id": "42733087719526",
-          "title": "12-18M / Yellow",
-          "options": [
-            "12-18M",
-            "Yellow"
-          ],
-          "sku": "E1529/301/101-50614107",
-          "available": false,
-          "price": 139000,
-          "compare_at_price": 349000
-        },
-        "42733087752294": {
-          "id": "42733087752294",
-          "title": "2-3Y / Yellow",
-          "options": [
-            "2-3Y",
-            "Yellow"
-          ],
-          "sku": "E1529/301/101-50614104",
-          "available": false,
-          "price": 139000,
-          "compare_at_price": 349000
-        },
-        "42733087785062": {
-          "id": "42733087785062",
-          "title": "3-4Y / Yellow",
-          "options": [
-            "3-4Y",
-            "Yellow"
-          ],
-          "sku": "E1529/301/101-50614105",
-          "available": false,
-          "price": 139000,
-          "compare_at_price": 349000
-        },
-        "42733087817830": {
-          "id": "42733087817830",
-          "title": "4-5Y / Yellow",
-          "options": [
-            "4-5Y",
-            "Yellow"
-          ],
-          "sku": "E1529/301/101-50614106",
-          "available": true,
-          "price": 139000,
-          "compare_at_price": 349000
-        }
-      },
-      "available": true
-    },
     "7572823965798": {
       "id": "7572823965798",
       "title": "JUMPSUIT (E1702/301/626)",
@@ -287746,132 +287518,6 @@
       },
       "available": true
     },
-    "7949824032870": {
-      "id": "7949824032870",
-      "title": "KHOLA PURI (E1259/109/218)",
-      "handle": "khola-puri-e1259-109-218-218",
-      "url": "https://pk.ethnc.com/products/khola-puri-e1259-109-218-218",
-      "vendor": "SS-26",
-      "type": "Footwear",
-      "description": "<p>A vibrant and earthy pair of toe-ring flat sandals in a rich tan hue. Showcasing a bohemian-chic aesthetic, these flat slides feature a classic Kolhapuri-inspired T-strap and toe-loop layout, striking a beautiful contrast with bright turquoise stone embellishments. Designed for effortlessly stylish everyday wear, they bring a perfect pop of color to warm-weather outfits.<br>-Antique Moss Color </p>\n<p> </p>",
-      "tags": [
-        "DIS0925",
-        "FOOTWEAR-1-footwear-SimplifiedSizechart",
-        "FP",
-        "Khola",
-        "SS-26",
-        "WOMEN FOOTWEAR'26",
-        "khola puri",
-        "women",
-        "women footwear",
-        "women-sale"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1259-109-218_1.jpg?v=1780551848",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1259-109-218_2.jpg?v=1780551847",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1259-109-218_3.jpg?v=1780551848",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1259-109-218_4.jpg?v=1780551848",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1259-109-218_5.jpg?v=1780551848",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1259-109-218_6.jpg?v=1780551848",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1259-109-218_7.jpg?v=1780551847"
-      ],
-      "options": [
-        {
-          "name": "SIZE",
-          "position": 1,
-          "values": [
-            "36",
-            "37",
-            "38",
-            "39",
-            "40",
-            "41"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Antique Moss"
-          ]
-        }
-      ],
-      "variants": {
-        "45333212332134": {
-          "id": "45333212332134",
-          "title": "36 / Antique Moss",
-          "options": [
-            "36",
-            "Antique Moss"
-          ],
-          "sku": "E1259/109/218-50693978",
-          "available": true,
-          "price": 219000,
-          "compare_at_price": 449000
-        },
-        "45333212364902": {
-          "id": "45333212364902",
-          "title": "37 / Antique Moss",
-          "options": [
-            "37",
-            "Antique Moss"
-          ],
-          "sku": "E1259/109/218-50693979",
-          "available": false,
-          "price": 219000,
-          "compare_at_price": 449000
-        },
-        "45333212397670": {
-          "id": "45333212397670",
-          "title": "38 / Antique Moss",
-          "options": [
-            "38",
-            "Antique Moss"
-          ],
-          "sku": "E1259/109/218-50693980",
-          "available": false,
-          "price": 219000,
-          "compare_at_price": 449000
-        },
-        "45333212430438": {
-          "id": "45333212430438",
-          "title": "39 / Antique Moss",
-          "options": [
-            "39",
-            "Antique Moss"
-          ],
-          "sku": "E1259/109/218-50693981",
-          "available": false,
-          "price": 219000,
-          "compare_at_price": 449000
-        },
-        "45333212463206": {
-          "id": "45333212463206",
-          "title": "40 / Antique Moss",
-          "options": [
-            "40",
-            "Antique Moss"
-          ],
-          "sku": "E1259/109/218-50693982",
-          "available": false,
-          "price": 219000,
-          "compare_at_price": 449000
-        },
-        "45333212495974": {
-          "id": "45333212495974",
-          "title": "41 / Antique Moss",
-          "options": [
-            "41",
-            "Antique Moss"
-          ],
-          "sku": "E1259/109/218-50693983",
-          "available": false,
-          "price": 219000,
-          "compare_at_price": 449000
-        }
-      },
-      "available": true
-    },
     "7934830248038": {
       "id": "7934830248038",
       "title": "KHOLA PURI (E1261/109/004)",
@@ -289094,7 +288740,7 @@
             "Light Blue"
           ],
           "sku": "E0084/409/617-50574876",
-          "available": true,
+          "available": false,
           "price": 159000,
           "compare_at_price": 399000
         },
@@ -290409,145 +290055,6 @@
       },
       "available": true
     },
-    "7645881827430": {
-      "id": "7645881827430",
-      "title": "KHUSSA (E1102/109/131)",
-      "handle": "khussa-e1102-109-131-131",
-      "url": "https://pk.ethnc.com/products/khussa-e1102-109-131-131",
-      "vendor": "SS-25",
-      "type": "Footwear",
-      "description": "<p>Experience the elegance of traditional craftsmanship with this Golden Khussa, adorned with intricate embellishments. Designed for both comfort and style, its detailed handwork enhances any outfit, making it perfect for special occasions or cultural events. <br>-Gold Color</p>",
-      "tags": [
-        "DIS0925",
-        "DecSaleWomenALL23Dec2025",
-        "DecSaleWomenFootwear23Dec2025",
-        "FOOTWEAR-1-footwear-SimplifiedSizechart",
-        "Footwear",
-        "Footwear SS'25",
-        "Footwear-Full Price",
-        "JanSaleWomenALL21Jan2026",
-        "JanSaleWomenFootwear21Jan2026",
-        "Khussa",
-        "New-In Footwear",
-        "NovPromoWomenALL19Nov2025",
-        "NovPromoWomenFootwear19Nov2025",
-        "PRET SS'25",
-        "SS-25",
-        "WOMEN FOOTWEAR FP25",
-        "WOMEN FOOTWEAR'25",
-        "WOMEN-F.P",
-        "Women",
-        "footwear women",
-        "women footwear",
-        "women-sale"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1102-109-131_1.jpg?v=1752213911",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1102-109-131_2.jpg?v=1752213911",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1102-109-131_3.jpg?v=1752213911",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1102-109-131_4.jpg?v=1752213911",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1102-109-131_5.jpg?v=1752213911",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1102-109-131_6.jpg?v=1752213911",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1102-109-131_7.jpg?v=1752213912",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1102-109-131_8.jpg?v=1752213912"
-      ],
-      "options": [
-        {
-          "name": "SIZE",
-          "position": 1,
-          "values": [
-            "36",
-            "37",
-            "38",
-            "39",
-            "40",
-            "41"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "gold"
-          ]
-        }
-      ],
-      "variants": {
-        "45093711970406": {
-          "id": "45093711970406",
-          "title": "36 / gold",
-          "options": [
-            "36",
-            "gold"
-          ],
-          "sku": "E1102/109/131-50617733",
-          "available": false,
-          "price": 249000,
-          "compare_at_price": 499000
-        },
-        "45093712003174": {
-          "id": "45093712003174",
-          "title": "37 / gold",
-          "options": [
-            "37",
-            "gold"
-          ],
-          "sku": "E1102/109/131-50617734",
-          "available": true,
-          "price": 249000,
-          "compare_at_price": 499000
-        },
-        "45093712035942": {
-          "id": "45093712035942",
-          "title": "38 / gold",
-          "options": [
-            "38",
-            "gold"
-          ],
-          "sku": "E1102/109/131-50617735",
-          "available": false,
-          "price": 249000,
-          "compare_at_price": 499000
-        },
-        "45093712068710": {
-          "id": "45093712068710",
-          "title": "39 / gold",
-          "options": [
-            "39",
-            "gold"
-          ],
-          "sku": "E1102/109/131-50617736",
-          "available": false,
-          "price": 249000,
-          "compare_at_price": 499000
-        },
-        "45093712101478": {
-          "id": "45093712101478",
-          "title": "40 / gold",
-          "options": [
-            "40",
-            "gold"
-          ],
-          "sku": "E1102/109/131-50617737",
-          "available": false,
-          "price": 249000,
-          "compare_at_price": 499000
-        },
-        "45093712134246": {
-          "id": "45093712134246",
-          "title": "41 / gold",
-          "options": [
-            "41",
-            "gold"
-          ],
-          "sku": "E1102/109/131-50617738",
-          "available": true,
-          "price": 249000,
-          "compare_at_price": 499000
-        }
-      },
-      "available": true
-    },
     "7696391733350": {
       "id": "7696391733350",
       "title": "KHUSSA (E1117/109/901)",
@@ -290917,7 +290424,7 @@
             "pale-green"
           ],
           "sku": "E1123/109/130-50681455",
-          "available": true,
+          "available": false,
           "price": 209000,
           "compare_at_price": 429000
         },
@@ -291192,7 +290699,7 @@
             "Brown Grey"
           ],
           "sku": "E1126/109/816-50680168",
-          "available": true,
+          "available": false,
           "price": 259000,
           "compare_at_price": 529000
         }
@@ -294827,7 +294334,7 @@
             "Peanut"
           ],
           "sku": "E1230/109/808-50693570",
-          "available": true,
+          "available": false,
           "price": 250000,
           "compare_at_price": 499000
         }
@@ -318207,7 +317714,7 @@
             "Multi"
           ],
           "sku": "E1147/109/998-50619562",
-          "available": true,
+          "available": false,
           "price": 219000,
           "compare_at_price": 749000
         },
@@ -333255,124 +332762,6 @@
       },
       "available": true
     },
-    "7595872256102": {
-      "id": "7595872256102",
-      "title": "PRINTED SUIT (E0628/106/002)",
-      "handle": "studio-suit-e0628-106-002-002",
-      "url": "https://pk.ethnc.com/products/studio-suit-e0628-106-002-002",
-      "vendor": "SS-25",
-      "type": "Studio",
-      "description": "<p class=\"MsoNormal\">Embrace whimsical charm with this vibrantly printed camisole top and midi skirt. A light background serves as a canvas for a playful and colorful collage of illustrations across both pieces. The camisole top features a summery and feminine silhouette with a square neckline, delicate straps, and a subtle ruffled hem. Complementing this, the midi skirt boasts a flowing A-line silhouette and a unique border print that adds an extra touch of visual interest. This set is perfect for adding a pop of color to your warm-weather wardrobe.<br>-Off White Color<br>-Stitched Article<br>-2 piece</p>\n<p class=\"MsoNormal\"><b>Size &amp; Fit:</b><br>-Model height is 5'6.<br>-Model is wearing <b>XS </b>size.</p>",
-      "tags": [
-        "AugSaleWomenALL06August2025",
-        "AugSaleWomenPret06August2025",
-        "AugSaleWomenStudio06August2025",
-        "CO-ORD SET TEST PRODUCT",
-        "CO-ORD SETS WESTERN'25",
-        "DIS0925",
-        "DecSaleWomenALL23Dec2025",
-        "DecSaleWomenStudio23Dec2025",
-        "E0628/106/002-1-shirt-SimplifiedSizechart",
-        "E0628/106/002-2-skirt-SimplifiedSizechart",
-        "PRET SS'25",
-        "SS-25",
-        "STUDIO & FUSION 2 June 25",
-        "Studio",
-        "Studio Suit",
-        "Studio'25",
-        "Studio-Full Price",
-        "WOMEN-F.P",
-        "Western'25",
-        "Women",
-        "Women New In",
-        "co-ord set",
-        "studioFP",
-        "two piece pret",
-        "women-sale",
-        "women-western"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/DSCF9522.jpg?v=1748848816",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E0628-106-002_1.jpg?v=1748848813",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E0628-106-002_2.jpg?v=1748848813",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E0628-106-002_3.jpg?v=1748848813",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E0628-106-002_3_837cd1f7-ce8c-4a36-bbd0-fd5cc60f5f3b.jpg?v=1748848813",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E0628-106-002_4_e7aca901-eb93-4116-bb59-d7a3869506fe.jpg?v=1748848813",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E0628-106-002_5.jpg?v=1748848813",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E0628-106-002_5_f45fbbda-a473-4385-940a-d5c2b6ad5942.jpg?v=1748848813",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E0628-106-002_6.jpg?v=1748848813"
-      ],
-      "options": [
-        {
-          "name": "SIZE",
-          "position": 1,
-          "values": [
-            "XS",
-            "S",
-            "M",
-            "L"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Off White"
-          ]
-        }
-      ],
-      "variants": {
-        "42625365737574": {
-          "id": "42625365737574",
-          "title": "XS / Off White",
-          "options": [
-            "XS",
-            "Off White"
-          ],
-          "sku": "E0628/106/002-50611851",
-          "available": false,
-          "price": 239000,
-          "compare_at_price": 799000
-        },
-        "42625365770342": {
-          "id": "42625365770342",
-          "title": "S / Off White",
-          "options": [
-            "S",
-            "Off White"
-          ],
-          "sku": "E0628/106/002-50611852",
-          "available": false,
-          "price": 239000,
-          "compare_at_price": 799000
-        },
-        "42625365803110": {
-          "id": "42625365803110",
-          "title": "M / Off White",
-          "options": [
-            "M",
-            "Off White"
-          ],
-          "sku": "E0628/106/002-50611853",
-          "available": false,
-          "price": 239000,
-          "compare_at_price": 799000
-        },
-        "42625365835878": {
-          "id": "42625365835878",
-          "title": "L / Off White",
-          "options": [
-            "L",
-            "Off White"
-          ],
-          "sku": "E0628/106/002-50611854",
-          "available": true,
-          "price": 239000,
-          "compare_at_price": 799000
-        }
-      },
-      "available": true
-    },
     "7655662649446": {
       "id": "7655662649446",
       "title": "PRINTED SUIT (E0646/106/902)",
@@ -338187,214 +337576,6 @@
       },
       "available": true
     },
-    "7722046488678": {
-      "id": "7722046488678",
-      "title": "PRINTED SUIT (E1315/402/531 E1315/302/531)",
-      "handle": "casual-suit-e1315-402-531-531-casual-suit-e1315-302-531-531",
-      "url": "https://pk.ethnc.com/products/casual-suit-e1315-402-531-531-casual-suit-e1315-302-531-531",
-      "vendor": "WS25-KIDS",
-      "type": "Casual",
-      "description": "<p>Dress her in this lovely printed suit for a look that's both traditional and stylish. The ensemble features a charming lilac-mist shirt with an all-over floral print and a sweet tassel detail at the neckline. It's perfectly paired with contrasting printed shalwar, which add a touch of playful pattern. Made from a comfortable and breathable fabric, this suit is ideal for festive gatherings or family events.<br>-Lilac Mist Color<br>-Stitched Article<br>-2 piece</p>\n<p class=\"MsoNormal\"><b>Size &amp; Fit:</b><br>-Model height is 45-46 Inches<br>-Model is wearing <b>05-06 Year</b> size.</p>",
-      "tags": [
-        "DIS0925",
-        "DecSaleKIDSALL23Dec2025",
-        "DecSaleKidsCasual23Dec2025",
-        "DecSaleKidsEASTERN23Dec2025",
-        "E1315/402/531-1-shirt-SimplifiedSizechart",
-        "E1315/402/531-1-trouser-SimplifiedSizechart",
-        "EASTERN KIDS'24",
-        "EASTERN KIDS'25",
-        "JanSaleKIDSALL21Jan2026",
-        "JanSaleKidsCasual21Jan2026",
-        "JanSaleKidsEASTERN21Jan2026",
-        "KIDS-F.P",
-        "Kids New In",
-        "Kids SP 29 Sep 25",
-        "Kids SP'25",
-        "Kids suit",
-        "NovPromoKIDSALL19Nov2025",
-        "NovPromoKidsCasual19Nov2025",
-        "NovPromoKidsEASTERN19Nov2025",
-        "PRET WS'25 Kids",
-        "WS25-KIDS",
-        "eastern kids",
-        "kids",
-        "kids eastern'24",
-        "kids eastern'25",
-        "kids-sale",
-        "sp kids",
-        "two piece kids"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1315-402-531_1.jpg?v=1756876868",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1315-402-531_2.jpg?v=1756876869",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1315-402-531_3.jpg?v=1756876868",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1315-402-531_4.jpg?v=1756876868",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1315-402-531_5.jpg?v=1756876869",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1315-402-531_6.jpg?v=1756876868"
-      ],
-      "options": [
-        {
-          "name": "SIZE",
-          "position": 1,
-          "values": [
-            "3-4Y",
-            "4-5Y",
-            "5-6Y",
-            "6-7Y",
-            "7-8Y",
-            "8-9Y",
-            "9-10Y",
-            "10-11Y",
-            "11-12Y",
-            "12-13Y",
-            "13-14Y"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "lilac-mist"
-          ]
-        }
-      ],
-      "variants": {
-        "45092867539046": {
-          "id": "45092867539046",
-          "title": "3-4Y / lilac-mist",
-          "options": [
-            "3-4Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/302/531-50635877",
-          "available": true,
-          "price": 179000,
-          "compare_at_price": 369000
-        },
-        "45092867571814": {
-          "id": "45092867571814",
-          "title": "4-5Y / lilac-mist",
-          "options": [
-            "4-5Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/302/531-50635878",
-          "available": false,
-          "price": 179000,
-          "compare_at_price": 369000
-        },
-        "45092867604582": {
-          "id": "45092867604582",
-          "title": "5-6Y / lilac-mist",
-          "options": [
-            "5-6Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/302/531-50635874",
-          "available": false,
-          "price": 179000,
-          "compare_at_price": 369000
-        },
-        "45092867637350": {
-          "id": "45092867637350",
-          "title": "6-7Y / lilac-mist",
-          "options": [
-            "6-7Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/302/531-50635875",
-          "available": false,
-          "price": 179000,
-          "compare_at_price": 369000
-        },
-        "45092867670118": {
-          "id": "45092867670118",
-          "title": "7-8Y / lilac-mist",
-          "options": [
-            "7-8Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/302/531-50635876",
-          "available": false,
-          "price": 179000,
-          "compare_at_price": 369000
-        },
-        "45092867702886": {
-          "id": "45092867702886",
-          "title": "8-9Y / lilac-mist",
-          "options": [
-            "8-9Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/402/531-50635879",
-          "available": false,
-          "price": 199000,
-          "compare_at_price": 399000
-        },
-        "45092867735654": {
-          "id": "45092867735654",
-          "title": "9-10Y / lilac-mist",
-          "options": [
-            "9-10Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/402/531-50635880",
-          "available": false,
-          "price": 199000,
-          "compare_at_price": 399000
-        },
-        "45092867768422": {
-          "id": "45092867768422",
-          "title": "10-11Y / lilac-mist",
-          "options": [
-            "10-11Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/402/531-50635881",
-          "available": false,
-          "price": 199000,
-          "compare_at_price": 399000
-        },
-        "45092867801190": {
-          "id": "45092867801190",
-          "title": "11-12Y / lilac-mist",
-          "options": [
-            "11-12Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/402/531-50635882",
-          "available": false,
-          "price": 199000,
-          "compare_at_price": 399000
-        },
-        "45092867833958": {
-          "id": "45092867833958",
-          "title": "12-13Y / lilac-mist",
-          "options": [
-            "12-13Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/402/531-50635884",
-          "available": false,
-          "price": 199000,
-          "compare_at_price": 399000
-        },
-        "45092867866726": {
-          "id": "45092867866726",
-          "title": "13-14Y / lilac-mist",
-          "options": [
-            "13-14Y",
-            "lilac-mist"
-          ],
-          "sku": "E1315/402/531-50635883",
-          "available": false,
-          "price": 199000,
-          "compare_at_price": 399000
-        }
-      },
-      "available": true
-    },
     "7859183485030": {
       "id": "7859183485030",
       "title": "PRINTED SUIT (E1556/402/115 E1556/302/115)",
@@ -341139,7 +340320,7 @@
             "Green"
           ],
           "sku": "E1803-402-708-50716440",
-          "available": true,
+          "available": false,
           "price": 349000,
           "compare_at_price": 499000
         }
@@ -360771,7 +359952,8 @@
         "SP'26",
         "WS-26",
         "women",
-        "women-eastern"
+        "women-eastern",
+        "women-fp"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/2290/7917/files/E9852-102-803_1.jpg?v=1792479523",
@@ -373717,7 +372899,7 @@
             "Multi"
           ],
           "sku": "E2323/309/998-50635451",
-          "available": true,
+          "available": false,
           "price": 250000,
           "compare_at_price": 499000
         },
@@ -375079,7 +374261,7 @@
             "Black"
           ],
           "sku": "E2950/409/901-50664651",
-          "available": true,
+          "available": false,
           "price": 319000,
           "compare_at_price": 649000
         },
@@ -379189,7 +378371,7 @@
             "brown"
           ],
           "sku": "E0753/109/804-50567946",
-          "available": true,
+          "available": false,
           "price": 189000,
           "compare_at_price": 649000
         }
@@ -434798,7 +433980,7 @@
             "Black"
           ],
           "sku": "E0085/409/901-50585901",
-          "available": true,
+          "available": false,
           "price": 219000,
           "compare_at_price": 749000
         },
@@ -435363,7 +434545,7 @@
             "Silver"
           ],
           "sku": "E0087/409/919-50579629",
-          "available": true,
+          "available": false,
           "price": 219000,
           "compare_at_price": 749000
         },
@@ -435565,7 +434747,7 @@
             "Pink"
           ],
           "sku": "E0088/409/401-50579635",
-          "available": true,
+          "available": false,
           "price": 219000,
           "compare_at_price": 749000
         }
@@ -448891,7 +448073,7 @@
             "Pastel Pink"
           ],
           "sku": "E0785-116-425-50706896",
-          "available": true,
+          "available": false,
           "price": 500000,
           "compare_at_price": 999000
         }
@@ -452697,7 +451879,7 @@
             "olive"
           ],
           "sku": "E8182/102/121-50680907",
-          "available": true,
+          "available": false,
           "price": 249000,
           "compare_at_price": 499000
         }
@@ -452898,7 +452080,7 @@
             "pumpkin"
           ],
           "sku": "E8184/102/204-50680915",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": 599000
         }
@@ -467684,122 +466866,6 @@
           "available": true,
           "price": 149000,
           "compare_at_price": 309000
-        }
-      },
-      "available": true
-    },
-    "7755600068710": {
-      "id": "7755600068710",
-      "title": "SWEAT SHIRT (E1820/301/635)",
-      "handle": "toddler-sweat-shirt-e1820-301-635-635",
-      "url": "https://pk.ethnc.com/products/toddler-sweat-shirt-e1820-301-635-635",
-      "vendor": "WS25-KIDS",
-      "type": "Fusion",
-      "description": "<p>Kids' Sweatshirt in Dusty Blue with Flower Design. This gentle dusty blue sweatshirt brings comfort and elegance to your child's everyday look. A pretty flower pattern decorates the right side, adding a subtle pop of visual interest. Made from soft, quality fabric that feels nice against the skin, it's perfect for layering or wearing on its own. Ideal for school, outdoor play, or cozy days at home. A timeless piece that pairs easily with any outfit in your child's closet.<br>-Dusty Blue Color<br>-<span>Stitched Article</span><br><span>-1 piece</span></p>\n<p><span><strong>Size &amp; Fit:</strong><br>-Model height is 40-42 Inches<br>-Model is wearing <strong>3</strong><strong>-4 Year</strong> size.</span></p>",
-      "tags": [
-        "Chota Fusion",
-        "DIS0925",
-        "DecSaleKIDSALL23Dec2025",
-        "DecSaleKidsCHOTAFUSION23Dec2025",
-        "DecSaleKidsFusion23Dec2025",
-        "Fusion-Full Price",
-        "JanSaleKIDSALL21Jan2026",
-        "JanSaleKidsCHOTAFUSION21Jan2026",
-        "JanSaleKidsFusion21Jan2026",
-        "KIDS-F.P",
-        "Kids Fusion-Full Price",
-        "Kids New In",
-        "Kids shirt",
-        "New-In Fusion Kids",
-        "NovPromoKIDSALL19Nov2025",
-        "NovPromoKidsCHOTAFUSION19Nov2025",
-        "NovPromoKidsFusion19Nov2025",
-        "Pret WS'25 Kids",
-        "WS25-KIDS",
-        "chota fusion toddler",
-        "chota fusion toddler'25",
-        "fusion sweatshirt toddler",
-        "kids",
-        "kids-sale",
-        "one piece kids",
-        "sweat shirt",
-        "sweat shirt toddler",
-        "sweatshirt toddler'25"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1820-301-635_1.jpg?v=1763703491",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1820-301-635_3.jpg?v=1763703491",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1820-301-635_4.jpg?v=1763703491",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1820-301-635_5.jpg?v=1763703491",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1820-301-635_6.jpg?v=1763703491"
-      ],
-      "options": [
-        {
-          "name": "SIZE",
-          "position": 1,
-          "values": [
-            "12-18M",
-            "2-3Y",
-            "3-4Y",
-            "4-5Y"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "dusty-blue"
-          ]
-        }
-      ],
-      "variants": {
-        "45090047033446": {
-          "id": "45090047033446",
-          "title": "12-18M / dusty-blue",
-          "options": [
-            "12-18M",
-            "dusty-blue"
-          ],
-          "sku": "E1820/301/635-50656448",
-          "available": true,
-          "price": 89000,
-          "compare_at_price": 289000
-        },
-        "45090047066214": {
-          "id": "45090047066214",
-          "title": "2-3Y / dusty-blue",
-          "options": [
-            "2-3Y",
-            "dusty-blue"
-          ],
-          "sku": "E1820/301/635-50656449",
-          "available": false,
-          "price": 89000,
-          "compare_at_price": 289000
-        },
-        "45090047098982": {
-          "id": "45090047098982",
-          "title": "3-4Y / dusty-blue",
-          "options": [
-            "3-4Y",
-            "dusty-blue"
-          ],
-          "sku": "E1820/301/635-50656450",
-          "available": false,
-          "price": 89000,
-          "compare_at_price": 289000
-        },
-        "45090047131750": {
-          "id": "45090047131750",
-          "title": "4-5Y / dusty-blue",
-          "options": [
-            "4-5Y",
-            "dusty-blue"
-          ],
-          "sku": "E1820/301/635-50656447",
-          "available": false,
-          "price": 89000,
-          "compare_at_price": 289000
         }
       },
       "available": true
@@ -492952,7 +492018,7 @@
             "light-pink"
           ],
           "sku": "E1925/401/316-50655120",
-          "available": true,
+          "available": false,
           "price": 59000,
           "compare_at_price": 189000
         }
@@ -511070,163 +510136,6 @@
       },
       "available": false
     },
-    "7755599577190": {
-      "id": "7755599577190",
-      "title": "TOP (E1800/401/329)",
-      "handle": "junior-t-shirt-e1800-401-329-329",
-      "url": "https://pk.ethnc.com/products/junior-t-shirt-e1800-401-329-329",
-      "vendor": "WS25-KIDS",
-      "type": "Fusion",
-      "description": "<p>Introduce a touch of sweetness to your casual attire with this delightful top. This comfy, long-sleeved shirt is crafted in a soft baby pink fabric that features a subtle ribbed or textured finish. This cheerful, playful top adds a unique and lighthearted touch to everyday wear.<br>-Pale Coral Color<br>-Stitched Article<br>-1 piece</p>\n<p class=\"MsoNormal\"><b>Size &amp; Fit:</b><br>-Model height is 45-46 Inches<br>-Model is wearing <b>05-06 Year</b> size.</p>",
-      "tags": [
-        "Chota Fusion",
-        "Chota fusion t-shirt junior",
-        "Chota fusion top junior",
-        "DIS0925",
-        "DecSaleKIDSALL23Dec2025",
-        "DecSaleKidsCHOTAFUSION23Dec2025",
-        "DecSaleKidsFusion23Dec2025",
-        "Fusion-Full Price",
-        "JanSaleKIDSALL21Jan2026",
-        "JanSaleKidsCHOTAFUSION21Jan2026",
-        "JanSaleKidsFusion21Jan2026",
-        "KIDS-F.P",
-        "Kids Fusion-Full Price",
-        "Kids New In",
-        "New-In Fusion Kids",
-        "NovPromoKIDSALL19Nov2025",
-        "NovPromoKidsCHOTAFUSION19Nov2025",
-        "NovPromoKidsFusion19Nov2025",
-        "Pret WS'25 Kids",
-        "WS25-KIDS",
-        "chota fusion junior",
-        "chota fusion junior'25",
-        "fusion shirt junior",
-        "kids",
-        "kids-sale",
-        "one piece kids",
-        "tops and kurti junior'25",
-        "tops and kurtis junior'25",
-        "western shirt"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1800-401-329_1.jpg?v=1762507853",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1800-401-329_2.jpg?v=1762507853",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1800-401-329_3.jpg?v=1762507853",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1800-401-329_4.jpg?v=1762507853",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1800-401-329_5.jpg?v=1762507853",
-        "https://cdn.shopify.com/s/files/1/2290/7917/files/E1800-401-329_6.jpg?v=1762507853"
-      ],
-      "options": [
-        {
-          "name": "SIZE",
-          "position": 1,
-          "values": [
-            "5-6Y",
-            "6-7Y",
-            "7-8Y",
-            "8-9Y",
-            "9-10Y",
-            "10-11Y",
-            "11-12Y"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "pale-coral"
-          ]
-        }
-      ],
-      "variants": {
-        "45090059288678": {
-          "id": "45090059288678",
-          "title": "5-6Y / pale-coral",
-          "options": [
-            "5-6Y",
-            "pale-coral"
-          ],
-          "sku": "E1800/401/329-50656539",
-          "available": false,
-          "price": 79000,
-          "compare_at_price": 189000
-        },
-        "45090059321446": {
-          "id": "45090059321446",
-          "title": "6-7Y / pale-coral",
-          "options": [
-            "6-7Y",
-            "pale-coral"
-          ],
-          "sku": "E1800/401/329-50656533",
-          "available": false,
-          "price": 79000,
-          "compare_at_price": 189000
-        },
-        "45090059354214": {
-          "id": "45090059354214",
-          "title": "7-8Y / pale-coral",
-          "options": [
-            "7-8Y",
-            "pale-coral"
-          ],
-          "sku": "E1800/401/329-50656534",
-          "available": false,
-          "price": 79000,
-          "compare_at_price": 189000
-        },
-        "45090059386982": {
-          "id": "45090059386982",
-          "title": "8-9Y / pale-coral",
-          "options": [
-            "8-9Y",
-            "pale-coral"
-          ],
-          "sku": "E1800/401/329-50656535",
-          "available": false,
-          "price": 79000,
-          "compare_at_price": 189000
-        },
-        "45090059419750": {
-          "id": "45090059419750",
-          "title": "9-10Y / pale-coral",
-          "options": [
-            "9-10Y",
-            "pale-coral"
-          ],
-          "sku": "E1800/401/329-50656536",
-          "available": true,
-          "price": 79000,
-          "compare_at_price": 189000
-        },
-        "45090059452518": {
-          "id": "45090059452518",
-          "title": "10-11Y / pale-coral",
-          "options": [
-            "10-11Y",
-            "pale-coral"
-          ],
-          "sku": "E1800/401/329-50656537",
-          "available": false,
-          "price": 79000,
-          "compare_at_price": 189000
-        },
-        "45090059485286": {
-          "id": "45090059485286",
-          "title": "11-12Y / pale-coral",
-          "options": [
-            "11-12Y",
-            "pale-coral"
-          ],
-          "sku": "E1800/401/329-50656538",
-          "available": false,
-          "price": 79000,
-          "compare_at_price": 189000
-        }
-      },
-      "available": true
-    },
     "7755599609958": {
       "id": "7755599609958",
       "title": "TOP (E1801/301/635)",
@@ -520817,8 +519726,7 @@
         "WomenALL29Apr2026",
         "WomenBoho10June2026",
         "WomenBoho29Apr2026",
-        "east-meets-west",
-        "women-sale"
+        "east-meets-west"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/2290/7917/files/E0725-119-001_1.jpg?v=1771220043",
@@ -520873,7 +519781,7 @@
             "White"
           ],
           "sku": "E0725/119/001-50656939",
-          "available": true,
+          "available": false,
           "price": 250000,
           "compare_at_price": 499000
         },
@@ -520902,7 +519810,7 @@
           "compare_at_price": 499000
         }
       },
-      "available": true
+      "available": false
     },
     "7850104586342": {
       "id": "7850104586342",
@@ -522058,8 +520966,7 @@
         "FP0925",
         "SS-26",
         "east-meets-west",
-        "women",
-        "women-fp"
+        "women"
       ],
       "images": [
         "https://cdn.shopify.com/s/files/1/2290/7917/files/E0820-119-001_1.jpg?v=1792402928",
@@ -534851,7 +533758,7 @@
             "Taupe"
           ],
           "sku": "E3061/108/805-50659302",
-          "available": true,
+          "available": false,
           "price": 219000,
           "compare_at_price": 449000
         }
