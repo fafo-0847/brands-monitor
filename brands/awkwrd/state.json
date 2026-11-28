@@ -3,7 +3,7 @@
   "source": "https://www.awkwardxstore.com/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-28T00:34:05.566434+00:00",
+  "checked_at": "2026-11-28T11:00:32.748242+00:00",
   "products": {
     "7965883072706": {
       "id": "7965883072706",
@@ -6480,96 +6480,6 @@
       },
       "available": true
     },
-    "8251232387266": {
-      "id": "8251232387266",
-      "title": "Cargo Sweatpants | Brown",
-      "handle": "cargo-sweatpants-brown",
-      "url": "https://www.awkwardxstore.com/products/cargo-sweatpants-brown",
-      "vendor": "AWKWRDx",
-      "type": "Cargo Trousers",
-      "description": "<p><em>Essential </em>Cargo Trouser</p>\n<p>Matching Drawstrings</p>\n<p>300 GSM, <em>Razed French Terry</em></p>\n<p>Colour: Mocha Brown</p>\n<p>Winter Xclusive Drop</p>\n<p>Logo tonal screen-printed</p>\n<p>AWKWRD™ label included.</p>\n<p><em>Disclaimer: Colours may vary slightly depending on your screen settings.</em><br><em>Actual product specifications may vary by ±20%.</em><span></span></p>\n<!---->",
-      "tags": [
-        "Cargo Sweatpants"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/02_e3d320f8-f581-4f2f-b605-bab9d4792334.webp?v=1764403586",
-        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/03_3415ac4e-a43c-4ad8-8cbb-fa483ec5a0c6.webp?v=1764403586",
-        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/05_ffeacc83-4deb-45c8-ba5e-e2b56775987d.webp?v=1764403586",
-        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/06_7cecca43-60a9-40e7-b399-40970a7c38a5.webp?v=1764403586",
-        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/07_62cd6221-0b44-482b-a581-59adce088c65.webp?v=1764403586",
-        "https://cdn.shopify.com/s/files/1/0551/9586/1186/files/08_826b23c4-b80d-442f-810d-b7350528f447.webp?v=1764403586"
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Mocha Brown"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ]
-        }
-      ],
-      "variants": {
-        "46125130973378": {
-          "id": "46125130973378",
-          "title": "Mocha Brown / S",
-          "options": [
-            "Mocha Brown",
-            "S"
-          ],
-          "sku": "Cargo-Trouser-Fleece-S-Mocha Brown",
-          "available": false,
-          "price": 280000,
-          "compare_at_price": 350000
-        },
-        "46125131006146": {
-          "id": "46125131006146",
-          "title": "Mocha Brown / M",
-          "options": [
-            "Mocha Brown",
-            "M"
-          ],
-          "sku": "Cargo-Trouser-Fleece-M-Mocha Brown",
-          "available": false,
-          "price": 280000,
-          "compare_at_price": 350000
-        },
-        "46125131038914": {
-          "id": "46125131038914",
-          "title": "Mocha Brown / L",
-          "options": [
-            "Mocha Brown",
-            "L"
-          ],
-          "sku": "Cargo-Trouser-Fleece-L-Mocha Brown",
-          "available": false,
-          "price": 280000,
-          "compare_at_price": 350000
-        },
-        "46125131071682": {
-          "id": "46125131071682",
-          "title": "Mocha Brown / XL",
-          "options": [
-            "Mocha Brown",
-            "XL"
-          ],
-          "sku": "Cargo-Trouser-Fleece-XL-Mocha Brown",
-          "available": true,
-          "price": 280000,
-          "compare_at_price": 350000
-        }
-      },
-      "available": true
-    },
     "7985479745730": {
       "id": "7985479745730",
       "title": "Cargo Trouser | Black",
@@ -10061,7 +9971,7 @@
             "M"
           ],
           "sku": "EOT-Fleece-M-Travis Brown",
-          "available": true,
+          "available": false,
           "price": 260000,
           "compare_at_price": 380000
         },
@@ -17839,7 +17749,7 @@
             "S"
           ],
           "sku": "Basic Tshirt-Light-S-Sicko Grey",
-          "available": true,
+          "available": false,
           "price": 180000,
           "compare_at_price": 250000
         },
