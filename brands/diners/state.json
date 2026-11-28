@@ -3,7 +3,7 @@
   "source": "https://diners.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-27T22:51:36.441071+00:00",
+  "checked_at": "2026-11-28T09:44:39.185726+00:00",
   "products": {
     "8793133187368": {
       "id": "8793133187368",
@@ -6351,7 +6351,7 @@
             "XL"
           ],
           "sku": "FAS017-L-BLUE",
-          "available": true,
+          "available": false,
           "price": 153500,
           "compare_at_price": 307000
         },
@@ -6637,7 +6637,7 @@
             "S"
           ],
           "sku": "FAZ004-NAVY",
-          "available": false,
+          "available": true,
           "price": 256000,
           "compare_at_price": 512000
         },
@@ -6648,7 +6648,7 @@
             "M"
           ],
           "sku": "FAZ004-NAVY",
-          "available": false,
+          "available": true,
           "price": 256000,
           "compare_at_price": 512000
         },
@@ -6659,7 +6659,7 @@
             "L"
           ],
           "sku": "FAZ004-NAVY",
-          "available": false,
+          "available": true,
           "price": 256000,
           "compare_at_price": 512000
         },
@@ -6670,7 +6670,7 @@
             "XL"
           ],
           "sku": "FAZ004-NAVY",
-          "available": false,
+          "available": true,
           "price": 256000,
           "compare_at_price": 512000
         },
@@ -6681,7 +6681,7 @@
             "2XL"
           ],
           "sku": "FAZ004-NAVY",
-          "available": false,
+          "available": true,
           "price": 256000,
           "compare_at_price": 512000
         },
@@ -6692,12 +6692,12 @@
             "3XL"
           ],
           "sku": "FAZ004-NAVY",
-          "available": false,
+          "available": true,
           "price": 256000,
           "compare_at_price": 512000
         }
       },
-      "available": false
+      "available": true
     },
     "8295539900712": {
       "id": "8295539900712",
@@ -23853,7 +23853,7 @@
             "36"
           ],
           "sku": "IE81-BLACK",
-          "available": true,
+          "available": false,
           "price": 207000,
           "compare_at_price": 276000
         },
@@ -23875,7 +23875,7 @@
             "40"
           ],
           "sku": "IE81-BLACK",
-          "available": true,
+          "available": false,
           "price": 207000,
           "compare_at_price": 276000
         },
@@ -25905,7 +25905,7 @@
             "58"
           ],
           "sku": "ECA048-BLACK",
-          "available": false,
+          "available": true,
           "price": 141750,
           "compare_at_price": 189000
         },
@@ -25921,7 +25921,7 @@
           "compare_at_price": 189000
         }
       },
-      "available": false
+      "available": true
     },
     "8934031819048": {
       "id": "8934031819048",
@@ -43976,7 +43976,7 @@
             "16"
           ],
           "sku": "AB23395-1-BLACK",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": 339000
         },
@@ -43998,7 +43998,7 @@
             "17"
           ],
           "sku": "AB23395-1-BLACK",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": 339000
         },
@@ -53023,7 +53023,7 @@
             "9-10Y"
           ],
           "sku": "KGI-0064-BLACK",
-          "available": true,
+          "available": false,
           "price": 164500,
           "compare_at_price": 329000
         },
@@ -53072,7 +53072,7 @@
           "compare_at_price": 329000
         }
       },
-      "available": true
+      "available": false
     },
     "9872558326056": {
       "id": "9872558326056",
@@ -55622,7 +55622,7 @@
             "42"
           ],
           "sku": "BA3496-BLACK",
-          "available": true,
+          "available": false,
           "price": 449250,
           "compare_at_price": 599000
         },
@@ -59436,7 +59436,7 @@
             "M"
           ],
           "sku": "EGW0044-BLACK",
-          "available": true,
+          "available": false,
           "price": 1274250,
           "compare_at_price": 1699000
         },
@@ -59463,7 +59463,7 @@
           "compare_at_price": 1699000
         }
       },
-      "available": true
+      "available": false
     },
     "10436193354024": {
       "id": "10436193354024",
@@ -60928,7 +60928,7 @@
             "40"
           ],
           "sku": "BJ3373-BLACK",
-          "available": false,
+          "available": true,
           "price": 374250,
           "compare_at_price": 499000
         }
@@ -61166,7 +61166,7 @@
             "40"
           ],
           "sku": "BJ3382-BLACK",
-          "available": true,
+          "available": false,
           "price": 321750,
           "compare_at_price": 429000
         },
@@ -76723,6 +76723,113 @@
         }
       },
       "available": false
+    },
+    "15514299695400": {
+      "id": "15514299695400",
+      "title": "Black Wool-Blend Single-Breasted Blazer",
+      "handle": "sib-0002-black",
+      "url": "https://diners.com.pk/products/sib-0002-black",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual and formal wardrobe with this <strong>Men's Classic Black Wool-Blend Blazer</strong>. Designed with a tailored silhouette, this versatile sport coat features notch lapels, a subtle lapel pin accent, front patch pockets, and a crisp striped interior lining for breathable comfort. Crafted from a durable and soft wool-blend fabric, it transitions effortlessly from office meetings to evening events.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-processed=\"true\" data-complete=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Single-breasted button closure with notch lapels<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Functional front patch pockets and chest pocket<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAD\" data-sae=\"\" data-complete=\"true\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Subtle metallic lapel pin<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAE\" data-complete=\"true\" data-processed=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Striped interior lining for smooth layering<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric &amp; Lining:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 75% Polyester, 15% Viscose, 10% Wool<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDRAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Dry clean only to maintain shape and fabric integrity<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Do not bleach or tumble dry<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAD\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cool iron on reverse if needed, or steam gently</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "black",
+        "blazer",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2022"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-03-01.webp?v=1795853521",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-03-02.webp?v=1795853521",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-03-03.webp?v=1795853521"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68302143095080": {
+          "id": "68302143095080",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0002-BLACK",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143127848": {
+          "id": "68302143127848",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0002-BLACK",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143160616": {
+          "id": "68302143160616",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0002-BLACK",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143193384": {
+          "id": "68302143193384",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0002-BLACK",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143226152": {
+          "id": "68302143226152",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0002-BLACK",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
     },
     "9700029104424": {
       "id": "9700029104424",
@@ -101658,7 +101765,7 @@
             "30"
           ],
           "sku": "BJ3374-BLUE",
-          "available": false,
+          "available": true,
           "price": 374250,
           "compare_at_price": 499000
         },
@@ -102964,7 +103071,7 @@
             "32"
           ],
           "sku": "BJ3381-BLUE",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -103024,7 +103131,7 @@
           "compare_at_price": 449000
         }
       },
-      "available": true
+      "available": false
     },
     "10426948026664": {
       "id": "10426948026664",
@@ -107213,7 +107320,7 @@
             "36"
           ],
           "sku": "BJ3339-BLUE",
-          "available": true,
+          "available": false,
           "price": 411750,
           "compare_at_price": 549000
         },
@@ -126908,7 +127015,7 @@
             "42"
           ],
           "sku": "SMC-0175-BROWN",
-          "available": false,
+          "available": true,
           "price": 349000,
           "compare_at_price": 499000
         },
@@ -129433,6 +129540,112 @@
       },
       "available": true
     },
+    "15514299564328": {
+      "id": "15514299564328",
+      "title": "Brown Faux Suede Casual Blazer",
+      "handle": "sib-0001-brown",
+      "url": "https://diners.com.pk/products/sib-0001-brown",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Men's Brown Faux Suede Blazer<!--TgQPHd|||[]--></strong>. Crafted from a soft, velvety micro-suede blend with added stretch, this lightweight sport coat offers all-day comfort and effortless structure. Featuring classic notch lapels, a two-button closure, three functional patch pockets, and a breathable striped interior lining, it layers seamlessly over button-downs or knitwear for work, dinners, or weekend outings.<span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit &amp; Style:<!--TgQPHd|||[]--></strong> Tailored casual fit, notch lapels, two-button front, three front patch pockets<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell Composition:<!--TgQPHd|||[]--></strong> 95% Polyester, 5% Spandex<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining Composition:<!--TgQPHd|||[]--></strong> 100% Polyester<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAE\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong> Dry clean only. Do not wash, bleach, or tumble dry. Cool iron on reverse side using a pressing cloth if needed.</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "brown",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2022"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-02-01.webp?v=1795851108",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-02-02.webp?v=1795851107",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-02-03.webp?v=1795851108"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68302142538024": {
+          "id": "68302142538024",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0001-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142570792": {
+          "id": "68302142570792",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0001-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142603560": {
+          "id": "68302142603560",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0001-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142636328": {
+          "id": "68302142636328",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0001-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142669096": {
+          "id": "68302142669096",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0001-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "15506952618280": {
       "id": "15506952618280",
       "title": "Brown Faux Suede Shacket",
@@ -131395,7 +131608,7 @@
             "43"
           ],
           "sku": "SMF-0381-BROWN",
-          "available": true,
+          "available": false,
           "price": 649500,
           "compare_at_price": 1299000
         },
@@ -131422,7 +131635,7 @@
           "compare_at_price": 1299000
         }
       },
-      "available": true
+      "available": false
     },
     "8920529207592": {
       "id": "8920529207592",
@@ -145957,6 +146170,113 @@
       },
       "available": true
     },
+    "15514277085480": {
+      "id": "15514277085480",
+      "title": "Brown Textured Two-Button Casual Blazer",
+      "handle": "sib-0003-brown",
+      "url": "https://diners.com.pk/products/sib-0003-brown",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">men’s brown textured blazer<!--TgQPHd|||[]--></strong>. Designed for effortless versatility, this tailored sport coat features a classic two-button single-breasted closure, notched lapels with a subtle lapel pin detail, and functional front patch pockets for a relaxed, modern aesthetic. The dark melange weave adds visual depth, making it easy to pair with tailored trousers for the office or dark denim for evening outings. Complete with a breathable light-colored interior lining and three-button cuffs, this jacket offers structured comfort throughout the day.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Style:<!--TgQPHd|||[]--></strong> Single-breasted, two-button sport coat<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lapel:<!--TgQPHd|||[]--></strong> Notched lapel with accent pin<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Pockets:<!--TgQPHd|||[]--></strong> Two lower front patch pockets and one chest patch pocket<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cuffs:<!--TgQPHd|||[]--></strong> Three-button sleeve cuffs<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAF\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> Partial light grey interior lining for breathable wear<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric Composition &amp; Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 80% Polyester (T), 20% Rayon (R)<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester</span><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><br><em class=\"zhvwWe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAC\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care:<!--TgQPHd|||[]--></strong> Dry clean only to maintain structure and fabric texture. Cool iron with a pressing cloth if needed; do not bleach or tumble dry.</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "brown",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2022",
+        "winter2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-01-01_5d9bb269-28bf-4aca-b900-32bf1264ff4d.webp?v=1795854289",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-01-02_d18d053a-7716-4816-ad6d-d5d824ea1404.webp?v=1795854288",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-01-03_09513a28-d7ac-408a-99ab-67930496ff2f.webp?v=1795854288"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68301987938600": {
+          "id": "68301987938600",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0003-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301987971368": {
+          "id": "68301987971368",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0003-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988004136": {
+          "id": "68301988004136",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0003-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988036904": {
+          "id": "68301988036904",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0003-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988069672": {
+          "id": "68301988069672",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0003-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "9316972593448": {
       "id": "9316972593448",
       "title": "Brown Tie With Pocket Square",
@@ -146280,6 +146600,113 @@
           "sku": "NAPB110-BROWN",
           "available": false,
           "price": 349000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15514277216552": {
+      "id": "15514277216552",
+      "title": "Brown Two-Button Casual Blazer with Striped Lining",
+      "handle": "sib-0004-brown",
+      "url": "https://diners.com.pk/products/sib-0004-brown",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this versatile <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Men’s Brown Single-Breasted Blazer<!--TgQPHd|||[]--></strong>. Designed with a tailored notch lapel, a classic two-button front closure, and practical patch pockets, this lightweight jacket transitions effortlessly from office wear to evening outings. Finished with a subtle teal lapel accent and a breathable white-and-grey striped inner lining for all-day comfort.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Style:<!--TgQPHd|||[]--></strong> Single-breasted, two-button closure<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Details:<!--TgQPHd|||[]--></strong> Notch lapel with removable accent pin, front patch pockets, and striped interior lining<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit:<!--TgQPHd|||[]--></strong> Tailored / Smart-casual fit<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric Composition &amp; Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 80% Polyester (T), 20% Rayon (R)<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester</span><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><em class=\"zhvwWe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAD\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care:<!--TgQPHd|||[]--></strong> Dry clean only. Do not bleach. Cool iron under a damp cloth if needed. Hang on a structured hanger to maintain shape.</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "brown",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME80-02-01_ddea0357-9108-4446-bac0-a5f80be7f5cf.webp?v=1795854273",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME80-02-02_38653159-7ba7-4090-8f33-8a7013c4173b.webp?v=1795854273",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME80-02-03_b07450de-20b9-449f-918e-1043b6f5ceea.webp?v=1795854273"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68301988495656": {
+          "id": "68301988495656",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0004-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988528424": {
+          "id": "68301988528424",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0004-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988561192": {
+          "id": "68301988561192",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0004-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988593960": {
+          "id": "68301988593960",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0004-BROWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988626728": {
+          "id": "68301988626728",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0004-BROWN",
+          "available": true,
+          "price": 1999000,
           "compare_at_price": null
         }
       },
@@ -157729,6 +158156,113 @@
       },
       "available": true
     },
+    "15514277118248": {
+      "id": "15514277118248",
+      "title": "Camel Textured Two-Button Casual Blazer",
+      "handle": "sib-0003-camel",
+      "url": "https://diners.com.pk/products/sib-0003-camel",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">men’s camel textured blazer<!--TgQPHd|||[]--></strong>. Designed for effortless versatility, this tailored sport coat features a classic two-button single-breasted closure, notched lapels with a subtle lapel pin detail, and functional front patch pockets for a relaxed, modern aesthetic. The dark melange weave adds visual depth, making it easy to pair with tailored trousers for the office or dark denim for evening outings. Complete with a breathable light-colored interior lining and three-button cuffs, this jacket offers structured comfort throughout the day.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Style:<!--TgQPHd|||[]--></strong> Single-breasted, two-button sport coat<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lapel:<!--TgQPHd|||[]--></strong> Notched lapel with accent pin<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Pockets:<!--TgQPHd|||[]--></strong> Two lower front patch pockets and one chest patch pocket<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cuffs:<!--TgQPHd|||[]--></strong> Three-button sleeve cuffs<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAF\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> Partial light grey interior lining for breathable wear<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric Composition &amp; Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 80% Polyester (T), 20% Rayon (R)<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester</span><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><br><em class=\"zhvwWe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAC\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care:<!--TgQPHd|||[]--></strong> Dry clean only to maintain structure and fabric texture. Cool iron with a pressing cloth if needed; do not bleach or tumble dry.</span></li>\n</ul>\n</div>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "camel",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-01-01.webp?v=1795854128",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-01-02.webp?v=1795854128",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-01-03.webp?v=1795854128"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68301988135208": {
+          "id": "68301988135208",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0003-CAMEL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988167976": {
+          "id": "68301988167976",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0003-CAMEL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988200744": {
+          "id": "68301988200744",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0003-CAMEL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988233512": {
+          "id": "68301988233512",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0003-CAMEL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988266280": {
+          "id": "68301988266280",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0003-CAMEL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "9873839489320": {
       "id": "9873839489320",
       "title": "Camel Wash & Wear Fabric",
@@ -159072,7 +159606,7 @@
             "58"
           ],
           "sku": "ECA021-WHITE",
-          "available": true,
+          "available": false,
           "price": 79000,
           "compare_at_price": 184000
         },
@@ -159099,7 +159633,7 @@
           "compare_at_price": 184000
         }
       },
-      "available": true
+      "available": false
     },
     "8295564345640": {
       "id": "8295564345640",
@@ -159886,7 +160420,7 @@
             "XL"
           ],
           "sku": "FAJW025-NAVY",
-          "available": false,
+          "available": true,
           "price": 224500,
           "compare_at_price": 449000
         },
@@ -160214,7 +160748,7 @@
             "42"
           ],
           "sku": "PSLD-0103-FAWN",
-          "available": true,
+          "available": false,
           "price": 199000,
           "compare_at_price": 639000
         },
@@ -160252,7 +160786,7 @@
           "compare_at_price": 639000
         }
       },
-      "available": true
+      "available": false
     },
     "9300128497960": {
       "id": "9300128497960",
@@ -162974,7 +163508,7 @@
             "40"
           ],
           "sku": "SMC-0155-BLACK",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": 869000
         },
@@ -163045,7 +163579,7 @@
           "compare_at_price": 869000
         }
       },
-      "available": true
+      "available": false
     },
     "8749662273832": {
       "id": "8749662273832",
@@ -165128,6 +165662,112 @@
         }
       },
       "available": false
+    },
+    "15514299629864": {
+      "id": "15514299629864",
+      "title": "Charcoal Faux Suede Casual Blazer",
+      "handle": "sib-0001-charcoal",
+      "url": "https://diners.com.pk/products/sib-0001-charcoal",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Men's Charcoal Faux Suede Blazer<!--TgQPHd|||[]--></strong>. Crafted from a soft, velvety micro-suede blend with added stretch, this lightweight sport coat offers all-day comfort and effortless structure. Featuring classic notch lapels, a two-button closure, three functional patch pockets, and a breathable striped interior lining, it layers seamlessly over button-downs or knitwear for work, dinners, or weekend outings.<span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit &amp; Style:<!--TgQPHd|||[]--></strong> Tailored casual fit, notch lapels, two-button front, three front patch pockets<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell Composition:<!--TgQPHd|||[]--></strong> 95% Polyester, 5% Spandex<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining Composition:<!--TgQPHd|||[]--></strong> 100% Polyester<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAE\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong> Dry clean only. Do not wash, bleach, or tumble dry. Cool iron on reverse side using a pressing cloth if needed.</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "charcoal",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2022"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-01-01.webp?v=1795853588",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-01-02.webp?v=1795853588",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-01-03.webp?v=1795853588"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68302142767400": {
+          "id": "68302142767400",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0001-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142800168": {
+          "id": "68302142800168",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0001-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142832936": {
+          "id": "68302142832936",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0001-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142865704": {
+          "id": "68302142865704",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0001-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142898472": {
+          "id": "68302142898472",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0001-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
     },
     "9785854722344": {
       "id": "9785854722344",
@@ -167449,6 +168089,112 @@
       },
       "available": true
     },
+    "15514277183784": {
+      "id": "15514277183784",
+      "title": "Charcoal Textured Two-Button Casual Blazer",
+      "handle": "sib-0003-charcoal",
+      "url": "https://diners.com.pk/products/sib-0003-charcoal",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">men’s charcoal textured blazer<!--TgQPHd|||[]--></strong>. Designed for effortless versatility, this tailored sport coat features a classic two-button single-breasted closure, notched lapels with a subtle lapel pin detail, and functional front patch pockets for a relaxed, modern aesthetic. The dark melange weave adds visual depth, making it easy to pair with tailored trousers for the office or dark denim for evening outings. Complete with a breathable light-colored interior lining and three-button cuffs, this jacket offers structured comfort throughout the day.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Style:<!--TgQPHd|||[]--></strong> Single-breasted, two-button sport coat<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lapel:<!--TgQPHd|||[]--></strong> Notched lapel with accent pin<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Pockets:<!--TgQPHd|||[]--></strong> Two lower front patch pockets and one chest patch pocket<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAE\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cuffs:<!--TgQPHd|||[]--></strong> Three-button sleeve cuffs<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAF\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> Partial light grey interior lining for breathable wear<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric Composition &amp; Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 80% Polyester (T), 20% Rayon (R)<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester</span><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><br><em class=\"zhvwWe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAC\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care:<!--TgQPHd|||[]--></strong> Dry clean only to maintain structure and fabric texture. Cool iron with a pressing cloth if needed; do not bleach or tumble dry.</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "charcoal",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-03-01.webp?v=1795853996",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-03-02.webp?v=1795853996",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-03-03.webp?v=1795853996"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68301988331816": {
+          "id": "68301988331816",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0003-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988364584": {
+          "id": "68301988364584",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0003-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988397352": {
+          "id": "68301988397352",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0003-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988430120": {
+          "id": "68301988430120",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0003-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988462888": {
+          "id": "68301988462888",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0003-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "9706028597544": {
       "id": "9706028597544",
       "title": "Charcoal Tipping Collar Polo",
@@ -167750,6 +168496,113 @@
         }
       },
       "available": false
+    },
+    "15514277249320": {
+      "id": "15514277249320",
+      "title": "Charcoal Two-Button Casual Blazer with Striped Lining",
+      "handle": "sib-0004-charcoal",
+      "url": "https://diners.com.pk/products/sib-0004-charcoal",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this versatile <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Men’s Charcoal Single-Breasted Blazer<!--TgQPHd|||[]--></strong>. Designed with a tailored notch lapel, a classic two-button front closure, and practical patch pockets, this lightweight jacket transitions effortlessly from office wear to evening outings. Finished with a subtle teal lapel accent and a breathable white-and-grey striped inner lining for all-day comfort.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Style:<!--TgQPHd|||[]--></strong> Single-breasted, two-button closure<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Details:<!--TgQPHd|||[]--></strong> Notch lapel with removable accent pin, front patch pockets, and striped interior lining<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit:<!--TgQPHd|||[]--></strong> Tailored / Smart-casual fit<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric Composition &amp; Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 80% Polyester (T), 20% Rayon (R)<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester</span><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><em class=\"zhvwWe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAD\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care:<!--TgQPHd|||[]--></strong> Dry clean only. Do not bleach. Cool iron under a damp cloth if needed. Hang on a structured hanger to maintain shape.</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "charcoal",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-02-01.webp?v=1795854007",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-02-02.webp?v=1795854007",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME79-02-03.webp?v=1795854007"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68301988659496": {
+          "id": "68301988659496",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0004-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988692264": {
+          "id": "68301988692264",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0004-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988725032": {
+          "id": "68301988725032",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0004-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988757800": {
+          "id": "68301988757800",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0004-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988790568": {
+          "id": "68301988790568",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0004-CHARCOAL",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
     },
     "10020194746664": {
       "id": "10020194746664",
@@ -175727,6 +176580,113 @@
       },
       "available": true
     },
+    "15514299728168": {
+      "id": "15514299728168",
+      "title": "Coffee Wool-Blend Single-Breasted Blazer",
+      "handle": "sib-0002-coffee",
+      "url": "https://diners.com.pk/products/sib-0002-coffee",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual and formal wardrobe with this <strong>Men's Classic Coffee Wool-Blend Blazer</strong>. Designed with a tailored silhouette, this versatile sport coat features notch lapels, a subtle lapel pin accent, front patch pockets, and a crisp striped interior lining for breathable comfort. Crafted from a durable and soft wool-blend fabric, it transitions effortlessly from office meetings to evening events.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"><br></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-processed=\"true\" data-complete=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Single-breasted button closure with notch lapels<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Functional front patch pockets and chest pocket<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAD\" data-sae=\"\" data-complete=\"true\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Subtle metallic lapel pin<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAE\" data-complete=\"true\" data-processed=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Striped interior lining for smooth layering<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric &amp; Lining:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 75% Polyester, 15% Viscose, 10% Wool<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDRAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Dry clean only to maintain shape and fabric integrity<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Do not bleach or tumble dry<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAD\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cool iron on reverse if needed, or steam gently</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "coffee",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-03-01.webp?v=1795853358",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-03-02.webp?v=1795853358",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-03-03.webp?v=1795853358"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68302143258920": {
+          "id": "68302143258920",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0002-COFFEE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143291688": {
+          "id": "68302143291688",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0002-COFFEE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143324456": {
+          "id": "68302143324456",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0002-COFFEE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143357224": {
+          "id": "68302143357224",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0002-COFFEE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143389992": {
+          "id": "68302143389992",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0002-COFFEE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "8295808729384": {
       "id": "8295808729384",
       "title": "Color Block Boys Combos",
@@ -176436,7 +177396,7 @@
             "XL"
           ],
           "sku": "FASW012-CORAL",
-          "available": false,
+          "available": true,
           "price": 199500,
           "compare_at_price": 399000
         },
@@ -176447,12 +177407,12 @@
             "XXL"
           ],
           "sku": "FASW012-CORAL",
-          "available": false,
+          "available": true,
           "price": 199500,
           "compare_at_price": 399000
         }
       },
-      "available": false
+      "available": true
     },
     "9725893378344": {
       "id": "9725893378344",
@@ -178844,12 +179804,12 @@
             "Default Title"
           ],
           "sku": "WSH0079-CREAM",
-          "available": true,
+          "available": false,
           "price": 399500,
           "compare_at_price": 799000
         }
       },
-      "available": true
+      "available": false
     },
     "8306071863592": {
       "id": "8306071863592",
@@ -197950,7 +198910,7 @@
             "XXL"
           ],
           "sku": "GA0008-D-BLUE",
-          "available": false,
+          "available": true,
           "price": 974250,
           "compare_at_price": 1299000
         },
@@ -206006,7 +206966,7 @@
             "M"
           ],
           "sku": "EG3720-D-BROWN",
-          "available": true,
+          "available": false,
           "price": 509400,
           "compare_at_price": 849000
         },
@@ -208048,7 +209008,7 @@
             "M"
           ],
           "sku": "GA-4108-D-FAWN",
-          "available": true,
+          "available": false,
           "price": 599250,
           "compare_at_price": 799000
         },
@@ -219017,7 +219977,7 @@
             "38"
           ],
           "sku": "BA3103-D-GREY",
-          "available": true,
+          "available": false,
           "price": 321750,
           "compare_at_price": 429000
         },
@@ -219033,7 +219993,7 @@
           "compare_at_price": 429000
         }
       },
-      "available": true
+      "available": false
     },
     "9530375864616": {
       "id": "9530375864616",
@@ -240743,12 +241703,12 @@
             "Default Title"
           ],
           "sku": "WK30442-Duppatta-BLACK",
-          "available": true,
+          "available": false,
           "price": 137400,
           "compare_at_price": 229000
         }
       },
-      "available": true
+      "available": false
     },
     "10423947854120": {
       "id": "10423947854120",
@@ -247089,7 +248049,7 @@
             "L"
           ],
           "sku": "WK20766-L-BEIGE",
-          "available": true,
+          "available": false,
           "price": 449400,
           "compare_at_price": 749000
         },
@@ -247105,7 +248065,7 @@
           "compare_at_price": 749000
         }
       },
-      "available": true
+      "available": false
     },
     "9582040678696": {
       "id": "9582040678696",
@@ -281297,7 +282257,7 @@
             "14Y"
           ],
           "sku": "WTK155-2PC-BEIGE",
-          "available": false,
+          "available": true,
           "price": 281400,
           "compare_at_price": 469000
         },
@@ -281319,7 +282279,7 @@
             "18Y"
           ],
           "sku": "WTK155-2PC-BEIGE",
-          "available": false,
+          "available": true,
           "price": 281400,
           "compare_at_price": 469000
         }
@@ -289809,7 +290769,7 @@
             "L50"
           ],
           "sku": "CF3999-PINK",
-          "available": false,
+          "available": true,
           "price": 1099500,
           "compare_at_price": 2199000
         },
@@ -293596,6 +294556,113 @@
       },
       "available": false
     },
+    "15514277282088": {
+      "id": "15514277282088",
+      "title": "Fawn Two-Button Casual Blazer with Striped Lining",
+      "handle": "sib-0004-fawn",
+      "url": "https://diners.com.pk/products/sib-0004-fawn",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-complete=\"true\" data-processed=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this versatile <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Men’s Fawn Single-Breasted Blazer<!--TgQPHd|||[]--></strong>. Designed with a tailored notch lapel, a classic two-button front closure, and practical patch pockets, this lightweight jacket transitions effortlessly from office wear to evening outings. Finished with a subtle teal lapel accent and a breathable white-and-grey striped inner lining for all-day comfort.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\"></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Style:<!--TgQPHd|||[]--></strong> Single-breasted, two-button closure<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Details:<!--TgQPHd|||[]--></strong> Notch lapel with removable accent pin, front patch pockets, and striped interior lining<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit:<!--TgQPHd|||[]--></strong> Tailored / Smart-casual fit<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric Composition &amp; Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 80% Polyester (T), 20% Rayon (R)<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester</span><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><em class=\"zhvwWe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAD\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care:<!--TgQPHd|||[]--></strong> Dry clean only. Do not bleach. Cool iron under a damp cloth if needed. Hang on a structured hanger to maintain shape.</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "fawn",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME80-03-01.webp?v=1795853719",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME80-03-02.webp?v=1795853719",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME80-03-03.webp?v=1795853719"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68301988856104": {
+          "id": "68301988856104",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0004-FAWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988888872": {
+          "id": "68301988888872",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0004-FAWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988921640": {
+          "id": "68301988921640",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0004-FAWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988954408": {
+          "id": "68301988954408",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0004-FAWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68301988987176": {
+          "id": "68301988987176",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0004-FAWN",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
     "9639562772776": {
       "id": "9639562772776",
       "title": "Fawn Waistcoat",
@@ -293799,12 +294866,12 @@
             "Default Title"
           ],
           "sku": "US0491-FAWN",
-          "available": true,
+          "available": false,
           "price": 546750,
           "compare_at_price": 729000
         }
       },
-      "available": true
+      "available": false
     },
     "10157836370216": {
       "id": "10157836370216",
@@ -306892,7 +307959,7 @@
             "9-10Y"
           ],
           "sku": "KGI-0043-L-GREEN",
-          "available": false,
+          "available": true,
           "price": 139500,
           "compare_at_price": 279000
         },
@@ -306903,7 +307970,7 @@
             "10-11Y"
           ],
           "sku": "KGI-0043-L-GREEN",
-          "available": false,
+          "available": true,
           "price": 139500,
           "compare_at_price": 279000
         },
@@ -306914,7 +307981,7 @@
             "11-12Y"
           ],
           "sku": "KGI-0043-L-GREEN",
-          "available": false,
+          "available": true,
           "price": 139500,
           "compare_at_price": 279000
         },
@@ -306941,7 +308008,7 @@
           "compare_at_price": 279000
         }
       },
-      "available": false
+      "available": true
     },
     "9521169105192": {
       "id": "9521169105192",
@@ -307129,7 +308196,7 @@
             "6-7Y"
           ],
           "sku": "KGI-0082-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -355303,7 +356370,7 @@
             "L"
           ],
           "sku": "WK20355-ORANGE",
-          "available": true,
+          "available": false,
           "price": 257400,
           "compare_at_price": 429000
         },
@@ -355319,7 +356386,7 @@
           "compare_at_price": 429000
         }
       },
-      "available": true
+      "available": false
     },
     "9731790176552": {
       "id": "9731790176552",
@@ -359512,7 +360579,7 @@
             "14Y"
           ],
           "sku": "WTK2059-R-BLUE",
-          "available": true,
+          "available": false,
           "price": 239400,
           "compare_at_price": 399000
         },
@@ -367776,7 +368843,7 @@
             "S"
           ],
           "sku": "SWW-0002-MAROON",
-          "available": true,
+          "available": false,
           "price": 699000,
           "compare_at_price": null
         },
@@ -367803,7 +368870,7 @@
           "compare_at_price": null
         }
       },
-      "available": true
+      "available": false
     },
     "15420824092968": {
       "id": "15420824092968",
@@ -375521,7 +376588,7 @@
             "X56"
           ],
           "sku": "CA4062-L-BLUE",
-          "available": true,
+          "available": false,
           "price": 1874250,
           "compare_at_price": 2499000
         },
@@ -377627,7 +378694,7 @@
             "L"
           ],
           "sku": "NAKS001-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 261750,
           "compare_at_price": 349000
         },
@@ -378186,7 +379253,7 @@
             "4Y"
           ],
           "sku": "KBB-0975-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 79000,
           "compare_at_price": 249000
         },
@@ -378197,7 +379264,7 @@
             "6Y"
           ],
           "sku": "KBB-0975-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 79000,
           "compare_at_price": 249000
         },
@@ -378208,7 +379275,7 @@
             "8Y"
           ],
           "sku": "KBB-0975-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 79000,
           "compare_at_price": 249000
         },
@@ -378219,7 +379286,7 @@
             "10Y"
           ],
           "sku": "KBB-0975-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 79000,
           "compare_at_price": 269000
         },
@@ -378241,12 +379308,12 @@
             "14Y"
           ],
           "sku": "KBB-0975-L-BLUE",
-          "available": false,
+          "available": true,
           "price": 79000,
           "compare_at_price": 269000
         }
       },
-      "available": false
+      "available": true
     },
     "10274115060008": {
       "id": "10274115060008",
@@ -389379,7 +390446,7 @@
             "8-9Y"
           ],
           "sku": "KGP-0096-L-GREEN",
-          "available": false,
+          "available": true,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -397967,7 +399034,7 @@
             "XL"
           ],
           "sku": "GA0005-L-GREY",
-          "available": false,
+          "available": true,
           "price": 486750,
           "compare_at_price": 649000
         },
@@ -397978,7 +399045,7 @@
             "XXL"
           ],
           "sku": "GA0005-L-GREY",
-          "available": false,
+          "available": true,
           "price": 486750,
           "compare_at_price": 649000
         },
@@ -397994,7 +399061,7 @@
           "compare_at_price": 649000
         }
       },
-      "available": false
+      "available": true
     },
     "9650100338984": {
       "id": "9650100338984",
@@ -400092,7 +401159,7 @@
             "XL"
           ],
           "sku": "EG3718-L-GREY",
-          "available": false,
+          "available": true,
           "price": 599250,
           "compare_at_price": 799000
         }
@@ -403150,7 +404217,7 @@
             "8Y"
           ],
           "sku": "KBB-0978-L-PINK",
-          "available": false,
+          "available": true,
           "price": 79000,
           "compare_at_price": 249000
         },
@@ -403172,7 +404239,7 @@
             "12Y"
           ],
           "sku": "KBB-0978-L-PINK",
-          "available": false,
+          "available": true,
           "price": 79000,
           "compare_at_price": 269000
         },
@@ -403188,7 +404255,7 @@
           "compare_at_price": 269000
         }
       },
-      "available": false
+      "available": true
     },
     "8858482475304": {
       "id": "8858482475304",
@@ -405012,7 +406079,7 @@
             "XXXL"
           ],
           "sku": "OA1700-BEIGE",
-          "available": true,
+          "available": false,
           "price": 749250,
           "compare_at_price": 999000
         }
@@ -405116,7 +406183,7 @@
             "XXL"
           ],
           "sku": "OA1700-BLACK",
-          "available": true,
+          "available": false,
           "price": 749250,
           "compare_at_price": 999000
         },
@@ -413779,7 +414846,7 @@
             "XL"
           ],
           "sku": "FAP004-MAROON",
-          "available": false,
+          "available": true,
           "price": 220000,
           "compare_at_price": 440000
         },
@@ -422684,7 +423751,7 @@
             "30"
           ],
           "sku": "BJ3372-M-BLUE",
-          "available": false,
+          "available": true,
           "price": 374250,
           "compare_at_price": 499000
         },
@@ -424170,7 +425237,7 @@
             "32"
           ],
           "sku": "BJ3381-M-BLUE",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -424230,7 +425297,7 @@
           "compare_at_price": 449000
         }
       },
-      "available": true
+      "available": false
     },
     "9595922284840": {
       "id": "9595922284840",
@@ -427010,7 +428077,7 @@
             "L"
           ],
           "sku": "FAP004-BEIGE",
-          "available": false,
+          "available": true,
           "price": 220000,
           "compare_at_price": 440000
         },
@@ -427021,7 +428088,7 @@
             "XL"
           ],
           "sku": "FAP004-BEIGE",
-          "available": false,
+          "available": true,
           "price": 220000,
           "compare_at_price": 440000
         },
@@ -427032,12 +428099,12 @@
             "2XL"
           ],
           "sku": "FAP004-BEIGE",
-          "available": false,
+          "available": true,
           "price": 220000,
           "compare_at_price": 440000
         }
       },
-      "available": false
+      "available": true
     },
     "10115853418792": {
       "id": "10115853418792",
@@ -436566,7 +437633,7 @@
             "XL"
           ],
           "sku": "FAZW023-BLACK",
-          "available": false,
+          "available": true,
           "price": 494250,
           "compare_at_price": 659000
         },
@@ -436588,7 +437655,7 @@
             "XXXL"
           ],
           "sku": "FAZW023-BLACK",
-          "available": false,
+          "available": true,
           "price": 494250,
           "compare_at_price": 659000
         }
@@ -448606,7 +449673,7 @@
             "S"
           ],
           "sku": "FAPW024-OLIVE",
-          "available": false,
+          "available": true,
           "price": 449250,
           "compare_at_price": 599000
         },
@@ -448617,7 +449684,7 @@
             "M"
           ],
           "sku": "FAPW024-OLIVE",
-          "available": false,
+          "available": true,
           "price": 449250,
           "compare_at_price": 599000
         },
@@ -448650,7 +449717,7 @@
             "XXL"
           ],
           "sku": "FAPW024-OLIVE",
-          "available": false,
+          "available": true,
           "price": 449250,
           "compare_at_price": 599000
         }
@@ -457874,7 +458941,7 @@
             "L"
           ],
           "sku": "AB41460-MULTI",
-          "available": false,
+          "available": true,
           "price": 269250,
           "compare_at_price": 359000
         },
@@ -461949,7 +463016,7 @@
             "16"
           ],
           "sku": "AD41837-MULTI",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -465234,7 +466301,7 @@
             "15.5"
           ],
           "sku": "AD41743-MULTI",
-          "available": true,
+          "available": false,
           "price": 336750,
           "compare_at_price": 449000
         },
@@ -482953,7 +484020,7 @@
             "L"
           ],
           "sku": "FASW022-NAVY",
-          "available": true,
+          "available": false,
           "price": 134500,
           "compare_at_price": 269000
         },
@@ -505568,7 +506635,7 @@
             "M"
           ],
           "sku": "EG3715-N-BLUE",
-          "available": true,
+          "available": false,
           "price": 540000,
           "compare_at_price": 900000
         },
@@ -505595,7 +506662,7 @@
           "compare_at_price": 900000
         }
       },
-      "available": true
+      "available": false
     },
     "9880283644200": {
       "id": "9880283644200",
@@ -521859,7 +522926,7 @@
             "L"
           ],
           "sku": "EG3614-OFFWHITE",
-          "available": false,
+          "available": true,
           "price": 824250,
           "compare_at_price": 1099000
         },
@@ -524173,6 +525240,113 @@
           "sku": "SIJ-0001-OFFWHITE",
           "available": true,
           "price": 1399000,
+          "compare_at_price": null
+        }
+      },
+      "available": true
+    },
+    "15514299760936": {
+      "id": "15514299760936",
+      "title": "Off-White Wool-Blend Single-Breasted Blazer",
+      "handle": "sib-0002-offwhite",
+      "url": "https://diners.com.pk/products/sib-0002-offwhite",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual and formal wardrobe with this <strong>Men's Classic Off-White Wool-Blend Blazer</strong>. Designed with a tailored silhouette, this versatile sport coat features notch lapels, a subtle lapel pin accent, front patch pockets, and a crisp striped interior lining for breathable comfort. Crafted from a durable and soft wool-blend fabric, it transitions effortlessly from office meetings to evening events.<span></span><!--TgQPHd|||[]-->\n</div>\n<div data-os-fs=\"\" aria-hidden=\"true\" tabindex=\"0\"></div>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICRAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Key Features:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAA\" data-processed=\"true\" data-complete=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Single-breasted button closure with notch lapels<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Functional front patch pockets and chest pocket<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAD\" data-sae=\"\" data-complete=\"true\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Subtle metallic lapel pin<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIChAE\" data-complete=\"true\" data-processed=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Striped interior lining for smooth layering<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICxAA\" data-processed=\"true\" data-complete=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Fabric &amp; Lining:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell:<!--TgQPHd|||[]--></strong> 75% Polyester, 15% Viscose, 10% Wool<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining:<!--TgQPHd|||[]--></strong> 100% Polyester<!--TgQPHd|||[]--></span><span></span><!--TgQPHd|||[]-->\n</li>\n<!--TgQPHd|||[]-->\n</ul>\n<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDRAA\" data-complete=\"true\" data-processed=\"true\">\n<strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong><span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Dry clean only to maintain shape and fabric integrity<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Do not bleach or tumble dry<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIDhAD\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Cool iron on reverse if needed, or steam gently</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "newarrival26",
+        "off white",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-02-01.webp?v=1795853349",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-02-02.webp?v=1795853349",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME78-02-03.webp?v=1795853349"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68302143422760": {
+          "id": "68302143422760",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0002-OFFWHITE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143455528": {
+          "id": "68302143455528",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0002-OFFWHITE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143488296": {
+          "id": "68302143488296",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0002-OFFWHITE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143521064": {
+          "id": "68302143521064",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0002-OFFWHITE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143553832": {
+          "id": "68302143553832",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0002-OFFWHITE",
+          "available": true,
+          "price": 1999000,
           "compare_at_price": null
         }
       },
@@ -526958,6 +528132,112 @@
           "available": false,
           "price": 719400,
           "compare_at_price": 1199000
+        }
+      },
+      "available": true
+    },
+    "15514299662632": {
+      "id": "15514299662632",
+      "title": "Olive Faux Suede Casual Blazer",
+      "handle": "sib-0001-olive",
+      "url": "https://diners.com.pk/products/sib-0001-olive",
+      "vendor": "D Man",
+      "type": "Blazer",
+      "description": "<div class=\"n6owBd awi2gc\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIIBxAA\" data-processed=\"true\" data-complete=\"true\" aria-owns=\"action-menu-parent-container\">Elevate your smart-casual wardrobe with this <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\" data-processed=\"true\">Men's Olive Faux Suede Blazer<!--TgQPHd|||[]--></strong>. Crafted from a soft, velvety micro-suede blend with added stretch, this lightweight sport coat offers all-day comfort and effortless structure. Featuring classic notch lapels, a two-button closure, three functional patch pockets, and a breathable striped interior lining, it layers seamlessly over button-downs or knitwear for work, dinners, or weekend outings.<span></span><!--TgQPHd|||[]-->\n</div>\n<ul class=\"XSq4R KI3fJ\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAA\" data-complete=\"true\" data-processed=\"true\">\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAB\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Fit &amp; Style:<!--TgQPHd|||[]--></strong> Tailored casual fit, notch lapels, two-button front, three front patch pockets<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAC\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Shell Composition:<!--TgQPHd|||[]--></strong> 95% Polyester, 5% Spandex<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAD\" data-complete=\"true\" data-sae=\"\">\n<span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Lining Composition:<!--TgQPHd|||[]--></strong> 100% Polyester<!--TgQPHd|||[]--></span><!--TgQPHd|||[]-->\n</li>\n<li class=\"Z1qcYe\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-hveid=\"CAIICBAE\" data-complete=\"true\" data-sae=\"\"><span class=\"iNqyIf\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\"><strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"c\" data-complete=\"true\">Care Instructions:<!--TgQPHd|||[]--></strong> Dry clean only. Do not wash, bleach, or tumble dry. Cool iron on reverse side using a pressing cloth if needed.</span></li>\n</ul>",
+      "tags": [
+        "Blazers",
+        "Casual",
+        "Double Button",
+        "FLAT 30%",
+        "NEWBLAZER22",
+        "Shirt & T-Shirt",
+        "blazer",
+        "men-all",
+        "mensalefestive",
+        "new",
+        "newarrival22",
+        "olive",
+        "over-9999",
+        "size-l50",
+        "size-m48",
+        "size-ss46",
+        "size-x52",
+        "street-icon",
+        "winter2022"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-01-01.webp?v=1795851290",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-01-02.webp?v=1795851290",
+        "https://cdn.shopify.com/s/files/1/0752/0442/8072/files/ME77-01-03.webp?v=1795851290"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "M-48",
+            "L-50",
+            "XL-52",
+            "2XL-54",
+            "3XL-56"
+          ]
+        }
+      ],
+      "variants": {
+        "68302142931240": {
+          "id": "68302142931240",
+          "title": "M-48",
+          "options": [
+            "M-48"
+          ],
+          "sku": "SIB-0001-OLIVE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142964008": {
+          "id": "68302142964008",
+          "title": "L-50",
+          "options": [
+            "L-50"
+          ],
+          "sku": "SIB-0001-OLIVE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302142996776": {
+          "id": "68302142996776",
+          "title": "XL-52",
+          "options": [
+            "XL-52"
+          ],
+          "sku": "SIB-0001-OLIVE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143029544": {
+          "id": "68302143029544",
+          "title": "2XL-54",
+          "options": [
+            "2XL-54"
+          ],
+          "sku": "SIB-0001-OLIVE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
+        },
+        "68302143062312": {
+          "id": "68302143062312",
+          "title": "3XL-56",
+          "options": [
+            "3XL-56"
+          ],
+          "sku": "SIB-0001-OLIVE",
+          "available": true,
+          "price": 1999000,
+          "compare_at_price": null
         }
       },
       "available": true
@@ -534032,7 +535312,7 @@
             "2-3Y"
           ],
           "sku": "KGP-0084-Orange",
-          "available": false,
+          "available": true,
           "price": 89500,
           "compare_at_price": 179000
         },
@@ -534043,7 +535323,7 @@
             "3-4Y"
           ],
           "sku": "KGP-0084-Orange",
-          "available": false,
+          "available": true,
           "price": 89500,
           "compare_at_price": 179000
         },
@@ -534054,7 +535334,7 @@
             "4-5Y"
           ],
           "sku": "KGP-0084-Orange",
-          "available": false,
+          "available": true,
           "price": 89500,
           "compare_at_price": 179000
         },
@@ -534092,7 +535372,7 @@
           "compare_at_price": 179000
         }
       },
-      "available": false
+      "available": true
     },
     "10295514857768": {
       "id": "10295514857768",
@@ -551046,7 +552326,7 @@
             "3-4Y"
           ],
           "sku": "KBP-0119-BLACK",
-          "available": false,
+          "available": true,
           "price": 149500,
           "compare_at_price": 299000
         },
@@ -551474,7 +552754,7 @@
             "3-4Y"
           ],
           "sku": "KBP-0136-LIME GREEN",
-          "available": false,
+          "available": true,
           "price": 134500,
           "compare_at_price": 269000
         },
@@ -585302,7 +586582,7 @@
             "6-9M"
           ],
           "sku": "KGKK-1494-2PC-IVORY",
-          "available": false,
+          "available": true,
           "price": 161400,
           "compare_at_price": 269000
         },
@@ -585780,7 +587060,7 @@
             "3-6M"
           ],
           "sku": "KGKK-1342-2PC-CREAM",
-          "available": false,
+          "available": true,
           "price": 119400,
           "compare_at_price": 199000
         },
@@ -586587,12 +587867,12 @@
             "Default Title"
           ],
           "sku": "WU32311-D-BLUE",
-          "available": true,
+          "available": false,
           "price": 299000,
           "compare_at_price": 399000
         }
       },
-      "available": true
+      "available": false
     },
     "10005658140968": {
       "id": "10005658140968",
@@ -590981,12 +592261,12 @@
             "Default Title"
           ],
           "sku": "WSH0165-MAROON",
-          "available": true,
+          "available": false,
           "price": 179400,
           "compare_at_price": 299000
         }
       },
-      "available": true
+      "available": false
     },
     "10407407354152": {
       "id": "10407407354152",
@@ -592394,7 +593674,7 @@
             "L"
           ],
           "sku": "WKL2269-Shirt-PEACH",
-          "available": true,
+          "available": false,
           "price": 426750,
           "compare_at_price": 569000
         }
@@ -593368,7 +594648,7 @@
             "2XL"
           ],
           "sku": "FAS032-N-BLUE",
-          "available": false,
+          "available": true,
           "price": 143000,
           "compare_at_price": 286000
         },
@@ -593379,12 +594659,12 @@
             "3XL"
           ],
           "sku": "FAS032-N-BLUE",
-          "available": false,
+          "available": true,
           "price": 143000,
           "compare_at_price": 286000
         }
       },
-      "available": false
+      "available": true
     },
     "10265136562472": {
       "id": "10265136562472",
@@ -593548,7 +594828,7 @@
             "12Y"
           ],
           "sku": "KGKK-1420-2PC-TEAL",
-          "available": false,
+          "available": true,
           "price": 299400,
           "compare_at_price": 499000
         }
@@ -594012,7 +595292,7 @@
             "14Y"
           ],
           "sku": "WTK2141-2PC-PINK",
-          "available": false,
+          "available": true,
           "price": 299250,
           "compare_at_price": 399000
         },
@@ -594023,7 +595303,7 @@
             "16Y"
           ],
           "sku": "WTK2141-2PC-PINK",
-          "available": false,
+          "available": true,
           "price": 299250,
           "compare_at_price": 399000
         },
@@ -597136,12 +598416,12 @@
             "Default Title"
           ],
           "sku": "WU32274-SKY BLUE",
-          "available": true,
+          "available": false,
           "price": 279000,
           "compare_at_price": 349000
         }
       },
-      "available": true
+      "available": false
     },
     "10161449632040": {
       "id": "10161449632040",
@@ -613124,7 +614404,7 @@
             "11-12Y"
           ],
           "sku": "KGI-0081-MUSTARD",
-          "available": false,
+          "available": true,
           "price": 174500,
           "compare_at_price": 349000
         },
@@ -615571,7 +616851,7 @@
             "13-14Y"
           ],
           "sku": "KGP-0107-RED",
-          "available": false,
+          "available": true,
           "price": 149500,
           "compare_at_price": 299000
         }
@@ -651813,7 +653093,7 @@
             "4-5Y"
           ],
           "sku": "KGP-0108-PISTACHIO",
-          "available": false,
+          "available": true,
           "price": 134500,
           "compare_at_price": 269000
         },
@@ -661869,7 +663149,7 @@
             "9-10Y"
           ],
           "sku": "KBA-0838-TEAL",
-          "available": false,
+          "available": true,
           "price": 141750,
           "compare_at_price": 189000
         },
@@ -708241,7 +709521,7 @@
             "L"
           ],
           "sku": "SL1024-BLACK",
-          "available": true,
+          "available": false,
           "price": 649500,
           "compare_at_price": 1299000
         },
@@ -711361,7 +712641,7 @@
             "S"
           ],
           "sku": "FAS024-N-BLUE",
-          "available": false,
+          "available": true,
           "price": 189500,
           "compare_at_price": 379000
         },
@@ -711421,7 +712701,7 @@
           "compare_at_price": 379000
         }
       },
-      "available": false
+      "available": true
     },
     "8295594721576": {
       "id": "8295594721576",
