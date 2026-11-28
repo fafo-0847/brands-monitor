@@ -1,44 +1,68 @@
 {
-  "checked_at": "2026-11-28T01:33:36.653296+00:00",
+  "checked_at": "2026-11-28T11:57:20.653657+00:00",
   "baseline_created": false,
-  "product_count": 871,
-  "change_count": 2,
+  "product_count": 872,
+  "change_count": 5,
   "changes": [
     {
-      "product_id": "7185500602403",
-      "title": "READY TO WEAR KAFTAN",
-      "url": "https://www.threadsandmotifs.com/products/ready-to-wear-kaftan-37",
+      "product_id": "7334924419107",
+      "title": "Naurah Rose Silk Ensemble (RTW 3PC)",
+      "url": "https://www.threadsandmotifs.com/products/dusty-rose-pearl-silk-ensemble-rtw-copy",
       "kind": "Product updated",
-      "detail": "tags: ['5000-10000', 'FESTIVES', 'Non-Add on', 'SALE', 'TESTING', 'pretsale', 'rtwsale', 'size-medium', 'updated-rtw-kaftan'] → ['5000-10000', 'FESTIVES', 'Non-Add on', 'SALE', 'TESTING', 'pretsale', 'rtwsale', 'updated-rtw-kaftan']",
+      "detail": "title: Naurah Rose Silk Ensemble (RTW) → Naurah Rose Silk Ensemble (RTW 3PC)",
+      "field": "title",
+      "before": "Naurah Rose Silk Ensemble (RTW)",
+      "after": "Naurah Rose Silk Ensemble (RTW 3PC)"
+    },
+    {
+      "product_id": "7337161785379",
+      "title": "Azure Botanica (RTW 3PC)",
+      "url": "https://www.threadsandmotifs.com/products/azure-botanica-rtw",
+      "kind": "Product updated",
+      "detail": "title: Azure Botanica (RTW) → Azure Botanica (RTW 3PC)",
+      "field": "title",
+      "before": "Azure Botanica (RTW)",
+      "after": "Azure Botanica (RTW 3PC)"
+    },
+    {
+      "product_id": "7337161785379",
+      "title": "Azure Botanica (RTW 3PC)",
+      "url": "https://www.threadsandmotifs.com/products/azure-botanica-rtw",
+      "kind": "Product updated",
+      "detail": "tags: ['Ready to wear', 'over-20000', 'readytoship', 'size-large', 'size-medium', 'size-small'] → ['over-20000', 'readytoship', 'size-large', 'size-medium', 'size-small']",
       "field": "tags",
       "before": [
-        "5000-10000",
-        "FESTIVES",
-        "Non-Add on",
-        "SALE",
-        "TESTING",
-        "pretsale",
-        "rtwsale",
+        "Ready to wear",
+        "over-20000",
+        "readytoship",
+        "size-large",
         "size-medium",
-        "updated-rtw-kaftan"
+        "size-small"
       ],
       "after": [
-        "5000-10000",
-        "FESTIVES",
-        "Non-Add on",
-        "SALE",
-        "TESTING",
-        "pretsale",
-        "rtwsale",
-        "updated-rtw-kaftan"
+        "over-20000",
+        "readytoship",
+        "size-large",
+        "size-medium",
+        "size-small"
       ]
     },
     {
-      "product_id": "7185500602403",
-      "title": "READY TO WEAR KAFTAN",
-      "url": "https://www.threadsandmotifs.com/products/ready-to-wear-kaftan-37?variant=41856960593955",
-      "kind": "Sold out",
-      "detail": "Medium"
+      "product_id": "7337213198371",
+      "title": "Amethyst Vine Silk Ensemble (RTW 3PC)",
+      "url": "https://www.threadsandmotifs.com/products/amethyst-vine-silk-ensemble-rtw",
+      "kind": "Product updated",
+      "detail": "title: Amethyst Vine Silk Ensemble (RTW) → Amethyst Vine Silk Ensemble (RTW 3PC)",
+      "field": "title",
+      "before": "Amethyst Vine Silk Ensemble (RTW)",
+      "after": "Amethyst Vine Silk Ensemble (RTW 3PC)"
+    },
+    {
+      "product_id": "7338771415075",
+      "title": "Aqua Bloom Silk Ensemble (RTW 3PC)",
+      "url": "https://www.threadsandmotifs.com/products/aqua-bloom-silk-ensemble-rtw-3pc",
+      "kind": "New product",
+      "detail": "Price: PKR 44,000.00; available sizes/options: Small, Medium, Large"
     }
   ]
 }
