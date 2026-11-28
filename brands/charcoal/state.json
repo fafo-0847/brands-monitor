@@ -3,7 +3,7 @@
   "source": "https://charcoal.com.pk/collections/all",
   "currency": "PKR",
   "price_unit": "minor_units",
-  "checked_at": "2026-11-27T23:39:57.396325+00:00",
+  "checked_at": "2026-11-28T10:09:41.100819+00:00",
   "products": {
     "8662943465698": {
       "id": "8662943465698",
@@ -1272,7 +1272,7 @@
             "Brown"
           ],
           "sku": "26SUT17-M46-BRN",
-          "available": false,
+          "available": true,
           "price": 3199600,
           "compare_at_price": 3999500
         },
@@ -22401,7 +22401,7 @@
             "LARGE"
           ],
           "sku": "24WC001-0LR-CLG",
-          "available": true,
+          "available": false,
           "price": 495800,
           "compare_at_price": 1239500
         },
@@ -23208,7 +23208,7 @@
             "Large"
           ],
           "sku": "24SK016-0LR-BLM",
-          "available": true,
+          "available": false,
           "price": 359800,
           "compare_at_price": 899500
         },
@@ -23391,12 +23391,12 @@
             "XL"
           ],
           "sku": "24SK010-0XL-DGR",
-          "available": true,
+          "available": false,
           "price": 427800,
           "compare_at_price": 1069500
         }
       },
-      "available": true
+      "available": false
     },
     "8729346801890": {
       "id": "8729346801890",
@@ -25034,7 +25034,7 @@
             "Medium"
           ],
           "sku": "24SK018-0MD-CRE",
-          "available": true,
+          "available": false,
           "price": 439800,
           "compare_at_price": 1099500
         },
@@ -25555,12 +25555,12 @@
             "XL"
           ],
           "sku": "24SK017-0XL-BRM",
-          "available": true,
+          "available": false,
           "price": 359800,
           "compare_at_price": 899500
         }
       },
-      "available": true
+      "available": false
     },
     "8588216107234": {
       "id": "8588216107234",
@@ -121949,7 +121949,7 @@
             "Large"
           ],
           "sku": "24CS124-0LR-BLK",
-          "available": true,
+          "available": false,
           "price": 187800,
           "compare_at_price": 469500
         },
@@ -121971,7 +121971,7 @@
             "XXL"
           ],
           "sku": "24CS124-XXL-BLK",
-          "available": true,
+          "available": false,
           "price": 187800,
           "compare_at_price": 469500
         }
@@ -126659,7 +126659,7 @@
             "XL"
           ],
           "sku": "24CS123-0XL-BLU",
-          "available": true,
+          "available": false,
           "price": 171800,
           "compare_at_price": 429500
         },
@@ -131725,7 +131725,7 @@
             "XL"
           ],
           "sku": "24CS115-0XL-BRC",
-          "available": true,
+          "available": false,
           "price": 171800,
           "compare_at_price": 429500
         },
@@ -131920,7 +131920,7 @@
             "XXL"
           ],
           "sku": "24CS131-XXL-BKI",
-          "available": true,
+          "available": false,
           "price": 187800,
           "compare_at_price": 469500
         }
@@ -186960,7 +186960,7 @@
             "XL"
           ],
           "sku": "24CS112-0XL-SBL",
-          "available": true,
+          "available": false,
           "price": 171800,
           "compare_at_price": 429500
         },
@@ -188048,6 +188048,114 @@
         }
       },
       "available": false
+    },
+    "15605648261346": {
+      "id": "15605648261346",
+      "title": "CASUAL SHIRT SMART FIT OATMEAL",
+      "handle": "casual-shirt-smart-fit-oatmeal",
+      "url": "https://charcoal.com.pk/products/casual-shirt-smart-fit-oatmeal",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "Casual shirts",
+      "description": "",
+      "tags": [
+        "ALL CASUAL",
+        "ALL CASUAL SHIRTS",
+        "ALL CASUAL TOPS",
+        "All Shirts",
+        "CASUAL SHIRTS",
+        "N-CASUAL SHIRTS",
+        "New Arrival",
+        "PRE FALL 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04727.1.webp?v=1795852683",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04727.2.webp?v=1795852683",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04727_51c20aeb-abb6-4eb6-a5d1-cf2017d459c0.webp?v=1795852683",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06187.webp?v=1795852683"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "OATMEAL"
+          ]
+        }
+      ],
+      "variants": {
+        "68366269612258": {
+          "id": "68366269612258",
+          "title": "Small / OATMEAL",
+          "options": [
+            "Small",
+            "OATMEAL"
+          ],
+          "sku": "26CS002-0SM-OTM",
+          "available": true,
+          "price": 489500,
+          "compare_at_price": 0
+        },
+        "68366269645026": {
+          "id": "68366269645026",
+          "title": "Medium / OATMEAL",
+          "options": [
+            "Medium",
+            "OATMEAL"
+          ],
+          "sku": "26CS002-0MD-OTM",
+          "available": true,
+          "price": 489500,
+          "compare_at_price": 0
+        },
+        "68366269677794": {
+          "id": "68366269677794",
+          "title": "Large / OATMEAL",
+          "options": [
+            "Large",
+            "OATMEAL"
+          ],
+          "sku": "26CS002-0LR-OTM",
+          "available": true,
+          "price": 489500,
+          "compare_at_price": 0
+        },
+        "68366269710562": {
+          "id": "68366269710562",
+          "title": "XL / OATMEAL",
+          "options": [
+            "XL",
+            "OATMEAL"
+          ],
+          "sku": "26CS002-0XL-OTM",
+          "available": true,
+          "price": 489500,
+          "compare_at_price": 0
+        },
+        "68366269743330": {
+          "id": "68366269743330",
+          "title": "XXL / OATMEAL",
+          "options": [
+            "XXL",
+            "OATMEAL"
+          ],
+          "sku": "26CS002-XXL-OTM",
+          "available": false,
+          "price": 489500,
+          "compare_at_price": 0
+        }
+      },
+      "available": true
     },
     "8955442921698": {
       "id": "8955442921698",
@@ -202910,7 +203018,7 @@
             "36"
           ],
           "sku": "24CT027-M36-CHL",
-          "available": true,
+          "available": false,
           "price": 247800,
           "compare_at_price": 619500
         },
@@ -218162,12 +218270,12 @@
             "XXL"
           ],
           "sku": "24SWT07-XXL-BRN",
-          "available": true,
+          "available": false,
           "price": 359800,
           "compare_at_price": 899500
         }
       },
-      "available": true
+      "available": false
     },
     "8758552887522": {
       "id": "8758552887522",
@@ -219463,7 +219571,7 @@
             "White"
           ],
           "sku": "26SF006-0SM-OWT",
-          "available": true,
+          "available": false,
           "price": 314750,
           "compare_at_price": 629500
         },
@@ -219499,7 +219607,7 @@
             "White"
           ],
           "sku": "26SF006-0XL-OWT",
-          "available": true,
+          "available": false,
           "price": 314750,
           "compare_at_price": 629500
         },
@@ -226776,7 +226884,7 @@
             "Large"
           ],
           "sku": "24JKT07-0LR-BLK",
-          "available": false,
+          "available": true,
           "price": 419825,
           "compare_at_price": 1199500
         },
@@ -250708,7 +250816,7 @@
             "36"
           ],
           "sku": "24CP010-M36-OLV",
-          "available": true,
+          "available": false,
           "price": 195800,
           "compare_at_price": 489500
         },
@@ -250724,7 +250832,7 @@
           "compare_at_price": 489500
         }
       },
-      "available": true
+      "available": false
     },
     "8566841704674": {
       "id": "8566841704674",
@@ -284137,7 +284245,7 @@
             "White"
           ],
           "sku": "25CP036-M34-WHT",
-          "available": true,
+          "available": false,
           "price": 314750,
           "compare_at_price": 629500
         },
@@ -289597,7 +289705,7 @@
             "36"
           ],
           "sku": "24DP020-M36-BLU",
-          "available": true,
+          "available": false,
           "price": 337800,
           "compare_at_price": 844500
         },
@@ -293729,7 +293837,7 @@
             "34"
           ],
           "sku": "24DP019-M34-DRK",
-          "available": true,
+          "available": false,
           "price": 331800,
           "compare_at_price": 829500
         },
@@ -294142,7 +294250,7 @@
             "32"
           ],
           "sku": "24DP002-M32-GRY",
-          "available": false,
+          "available": true,
           "price": 307800,
           "compare_at_price": 769500
         },
@@ -294191,7 +294299,7 @@
           "compare_at_price": 769500
         }
       },
-      "available": false
+      "available": true
     },
     "8729180012770": {
       "id": "8729180012770",
@@ -302145,6 +302253,138 @@
       },
       "available": false
     },
+    "15605904965858": {
+      "id": "15605904965858",
+      "title": "DRESS SHIRT BEIGE",
+      "handle": "dress-shirt-beige-2",
+      "url": "https://charcoal.com.pk/products/dress-shirt-beige-2",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS",
+        "New Arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06043_177d3cb3-9e71-434c-a691-dbb58fe291d0.webp?v=1795859793",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06043copy.webp?v=1795859793",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06044.webp?v=1795859793",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06338_caab5a56-90f6-4bac-b264-2a18701ea712.webp?v=1795859793"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017",
+            "175"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Beige"
+          ]
+        }
+      ],
+      "variants": {
+        "68368324100322": {
+          "id": "68368324100322",
+          "title": "145 / Beige",
+          "options": [
+            "145",
+            "Beige"
+          ],
+          "sku": "26DS028-145-BGE",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368324133090": {
+          "id": "68368324133090",
+          "title": "015 / Beige",
+          "options": [
+            "015",
+            "Beige"
+          ],
+          "sku": "26DS028-015-BGE",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368324165858": {
+          "id": "68368324165858",
+          "title": "155 / Beige",
+          "options": [
+            "155",
+            "Beige"
+          ],
+          "sku": "26DS028-155-BGE",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368324198626": {
+          "id": "68368324198626",
+          "title": "016 / Beige",
+          "options": [
+            "016",
+            "Beige"
+          ],
+          "sku": "26DS028-016-BGE",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368324231394": {
+          "id": "68368324231394",
+          "title": "165 / Beige",
+          "options": [
+            "165",
+            "Beige"
+          ],
+          "sku": "26DS028-165-BGE",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368324264162": {
+          "id": "68368324264162",
+          "title": "017 / Beige",
+          "options": [
+            "017",
+            "Beige"
+          ],
+          "sku": "26DS028-017-BGE",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368324296930": {
+          "id": "68368324296930",
+          "title": "175 / Beige",
+          "options": [
+            "175",
+            "Beige"
+          ],
+          "sku": "26DS028-175-BGE",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        }
+      },
+      "available": true
+    },
     "8727346217186": {
       "id": "8727346217186",
       "title": "DRESS SHIRT BLACK",
@@ -302704,6 +302944,256 @@
         }
       },
       "available": false
+    },
+    "15605815083234": {
+      "id": "15605815083234",
+      "title": "DRESS SHIRT BLACK",
+      "handle": "dress-shirt-grey-7",
+      "url": "https://charcoal.com.pk/products/dress-shirt-grey-7",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06116.webp?v=1795856622",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06116copy.webp?v=1795856622",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06122_095229d8-b85f-4268-bdfb-1c73bd692b25.webp?v=1795856622",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06601_1ec28972-51d4-4919-b7ea-6949e8fbf6f2.webp?v=1795856622"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "variants": {
+        "68367606972642": {
+          "id": "68367606972642",
+          "title": "145 / Black",
+          "options": [
+            "145",
+            "Black"
+          ],
+          "sku": "26DS027-145-BLK",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367607005410": {
+          "id": "68367607005410",
+          "title": "015 / Black",
+          "options": [
+            "015",
+            "Black"
+          ],
+          "sku": "26DS027-015-BLK",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367607038178": {
+          "id": "68367607038178",
+          "title": "155 / Black",
+          "options": [
+            "155",
+            "Black"
+          ],
+          "sku": "26DS027-155-BLK",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367607070946": {
+          "id": "68367607070946",
+          "title": "016 / Black",
+          "options": [
+            "016",
+            "Black"
+          ],
+          "sku": "26DS027-016-BLK",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367607103714": {
+          "id": "68367607103714",
+          "title": "165 / Black",
+          "options": [
+            "165",
+            "Black"
+          ],
+          "sku": "26DS027-165-BLK",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367607136482": {
+          "id": "68367607136482",
+          "title": "017 / Black",
+          "options": [
+            "017",
+            "Black"
+          ],
+          "sku": "26DS027-017-BLK",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        }
+      },
+      "available": true
+    },
+    "15605911617762": {
+      "id": "15605911617762",
+      "title": "DRESS SHIRT BLACK",
+      "handle": "dress-shirt-black-5",
+      "url": "https://charcoal.com.pk/products/dress-shirt-black-5",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS",
+        "New Arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC05995_a49768e8-1a5d-43cd-a9f7-4151a7c86b63.webp?v=1795859995",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC05995copy.webp?v=1795859995",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC05999_6689b4c6-a463-4b1c-ba9c-53f39ce09cf2.webp?v=1795859995",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06281top_bottomchange.webp?v=1795859995"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017",
+            "175"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "variants": {
+        "68368354640098": {
+          "id": "68368354640098",
+          "title": "145 / Black",
+          "options": [
+            "145",
+            "Black"
+          ],
+          "sku": "26DS031-145-BLK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68368354672866": {
+          "id": "68368354672866",
+          "title": "015 / Black",
+          "options": [
+            "015",
+            "Black"
+          ],
+          "sku": "26DS031-015-BLK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68368354705634": {
+          "id": "68368354705634",
+          "title": "155 / Black",
+          "options": [
+            "155",
+            "Black"
+          ],
+          "sku": "26DS031-155-BLK",
+          "available": false,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68368354738402": {
+          "id": "68368354738402",
+          "title": "016 / Black",
+          "options": [
+            "016",
+            "Black"
+          ],
+          "sku": "26DS031-016-BLK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68368354771170": {
+          "id": "68368354771170",
+          "title": "165 / Black",
+          "options": [
+            "165",
+            "Black"
+          ],
+          "sku": "26DS031-165-BLK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68368354803938": {
+          "id": "68368354803938",
+          "title": "017 / Black",
+          "options": [
+            "017",
+            "Black"
+          ],
+          "sku": "26DS031-017-BLK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68368354836706": {
+          "id": "68368354836706",
+          "title": "175 / Black",
+          "options": [
+            "175",
+            "Black"
+          ],
+          "sku": "26DS031-175-BLK",
+          "available": false,
+          "price": 519600,
+          "compare_at_price": 649500
+        }
+      },
+      "available": true
     },
     "8103951302882": {
       "id": "8103951302882",
@@ -305520,6 +306010,123 @@
       },
       "available": false
     },
+    "15605799354594": {
+      "id": "15605799354594",
+      "title": "DRESS SHIRT DARK GREY",
+      "handle": "dress-shirt-dark-grey-1",
+      "url": "https://charcoal.com.pk/products/dress-shirt-dark-grey-1",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06070_5bebc6be-3daf-44a1-a07a-4326243910bf.webp?v=1795856104",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06071.webp?v=1795856104",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06753_4bd81c5a-7b27-4f72-ae38-8765bdad6113.webp?v=1795856104"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "dark grey"
+          ]
+        }
+      ],
+      "variants": {
+        "68367443034338": {
+          "id": "68367443034338",
+          "title": "145 / dark grey",
+          "options": [
+            "145",
+            "dark grey"
+          ],
+          "sku": "26DS025-145-DGR",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367443067106": {
+          "id": "68367443067106",
+          "title": "015 / dark grey",
+          "options": [
+            "015",
+            "dark grey"
+          ],
+          "sku": "26DS025-015-DGR",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367443099874": {
+          "id": "68367443099874",
+          "title": "155 / dark grey",
+          "options": [
+            "155",
+            "dark grey"
+          ],
+          "sku": "26DS025-155-DGR",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367443132642": {
+          "id": "68367443132642",
+          "title": "016 / dark grey",
+          "options": [
+            "016",
+            "dark grey"
+          ],
+          "sku": "26DS025-016-DGR",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367443165410": {
+          "id": "68367443165410",
+          "title": "165 / dark grey",
+          "options": [
+            "165",
+            "dark grey"
+          ],
+          "sku": "26DS025-165-DGR",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367443198178": {
+          "id": "68367443198178",
+          "title": "017 / dark grey",
+          "options": [
+            "017",
+            "dark grey"
+          ],
+          "sku": "26DS025-017-DGR",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        }
+      },
+      "available": true
+    },
     "9174203039970": {
       "id": "9174203039970",
       "title": "DRESS SHIRT DARK NAVY",
@@ -307808,6 +308415,138 @@
       },
       "available": false
     },
+    "15605852700898": {
+      "id": "15605852700898",
+      "title": "DRESS SHIRT LIGHT GREY",
+      "handle": "dress-shirt-light-grey-4",
+      "url": "https://charcoal.com.pk/products/dress-shirt-light-grey-4",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS",
+        "New Arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06053_7d6977c8-3322-45d3-b382-ff1afbff2f93.webp?v=1795858067",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06053copy_783e614b-d053-41e1-99bc-f68b903573cb.webp?v=1795858067",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06056.webp?v=1795858067",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06518.webp?v=1795858067"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017",
+            "175"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "light grey"
+          ]
+        }
+      ],
+      "variants": {
+        "68367848276194": {
+          "id": "68367848276194",
+          "title": "145 / light grey",
+          "options": [
+            "145",
+            "light grey"
+          ],
+          "sku": "26DS028-145-LGR",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68367848308962": {
+          "id": "68367848308962",
+          "title": "015 / light grey",
+          "options": [
+            "015",
+            "light grey"
+          ],
+          "sku": "26DS028-015-LGR",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68367848341730": {
+          "id": "68367848341730",
+          "title": "155 / light grey",
+          "options": [
+            "155",
+            "light grey"
+          ],
+          "sku": "26DS028-155-LGR",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68367848374498": {
+          "id": "68367848374498",
+          "title": "016 / light grey",
+          "options": [
+            "016",
+            "light grey"
+          ],
+          "sku": "26DS028-016-LGR",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68367848407266": {
+          "id": "68367848407266",
+          "title": "165 / light grey",
+          "options": [
+            "165",
+            "light grey"
+          ],
+          "sku": "26DS028-165-LGR",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68367848440034": {
+          "id": "68367848440034",
+          "title": "017 / light grey",
+          "options": [
+            "017",
+            "light grey"
+          ],
+          "sku": "26DS028-017-LGR",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68367848472802": {
+          "id": "68367848472802",
+          "title": "175 / light grey",
+          "options": [
+            "175",
+            "light grey"
+          ],
+          "sku": "26DS028-175-LGR",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        }
+      },
+      "available": true
+    },
     "8103920074978": {
       "id": "8103920074978",
       "title": "DRESS SHIRT LIGHT KHAKI",
@@ -309455,6 +310194,138 @@
       },
       "available": false
     },
+    "15605866365154": {
+      "id": "15605866365154",
+      "title": "DRESS SHIRT MINT GREEN",
+      "handle": "dress-shirt-mint-green",
+      "url": "https://charcoal.com.pk/products/dress-shirt-mint-green",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS",
+        "New Arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06021.webp?v=1795858406",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06021copy.webp?v=1795858406",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06030.webp?v=1795858406",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06244.webp?v=1795858406"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017",
+            "175"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "MINT GREEN"
+          ]
+        }
+      ],
+      "variants": {
+        "68368076472546": {
+          "id": "68368076472546",
+          "title": "145 / MINT GREEN",
+          "options": [
+            "145",
+            "MINT GREEN"
+          ],
+          "sku": "26DS028-145-MNG",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368076505314": {
+          "id": "68368076505314",
+          "title": "015 / MINT GREEN",
+          "options": [
+            "015",
+            "MINT GREEN"
+          ],
+          "sku": "26DS028-015-MNG",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368076538082": {
+          "id": "68368076538082",
+          "title": "155 / MINT GREEN",
+          "options": [
+            "155",
+            "MINT GREEN"
+          ],
+          "sku": "26DS028-155-MNG",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368076570850": {
+          "id": "68368076570850",
+          "title": "016 / MINT GREEN",
+          "options": [
+            "016",
+            "MINT GREEN"
+          ],
+          "sku": "26DS028-016-MNG",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368076603618": {
+          "id": "68368076603618",
+          "title": "165 / MINT GREEN",
+          "options": [
+            "165",
+            "MINT GREEN"
+          ],
+          "sku": "26DS028-165-MNG",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368076636386": {
+          "id": "68368076636386",
+          "title": "017 / MINT GREEN",
+          "options": [
+            "017",
+            "MINT GREEN"
+          ],
+          "sku": "26DS028-017-MNG",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368076669154": {
+          "id": "68368076669154",
+          "title": "175 / MINT GREEN",
+          "options": [
+            "175",
+            "MINT GREEN"
+          ],
+          "sku": "26DS028-175-MNG",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        }
+      },
+      "available": true
+    },
     "8618644308194": {
       "id": "8618644308194",
       "title": "DRESS SHIRT NAVY",
@@ -309809,6 +310680,137 @@
       },
       "available": false
     },
+    "15605847130338": {
+      "id": "15605847130338",
+      "title": "DRESS SHIRT NAVY",
+      "handle": "dress-shirt-navy-4",
+      "url": "https://charcoal.com.pk/products/dress-shirt-navy-4",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06111_bf613522-b630-4171-9d57-8023d39ccd69.webp?v=1795857751",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06111copy.webp?v=1795857752",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06114_fe1b5007-268c-442d-a6a6-f40879a0f67f.webp?v=1795857751",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06202top_bottomchange.webp?v=1795857751"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017",
+            "175"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Navy"
+          ]
+        }
+      ],
+      "variants": {
+        "68367779660002": {
+          "id": "68367779660002",
+          "title": "145 / Navy",
+          "options": [
+            "145",
+            "Navy"
+          ],
+          "sku": "26DS027-145-NVY",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367779692770": {
+          "id": "68367779692770",
+          "title": "015 / Navy",
+          "options": [
+            "015",
+            "Navy"
+          ],
+          "sku": "26DS027-015-NVY",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367779725538": {
+          "id": "68367779725538",
+          "title": "155 / Navy",
+          "options": [
+            "155",
+            "Navy"
+          ],
+          "sku": "26DS027-155-NVY",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367779758306": {
+          "id": "68367779758306",
+          "title": "016 / Navy",
+          "options": [
+            "016",
+            "Navy"
+          ],
+          "sku": "26DS027-016-NVY",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367779791074": {
+          "id": "68367779791074",
+          "title": "165 / Navy",
+          "options": [
+            "165",
+            "Navy"
+          ],
+          "sku": "26DS027-165-NVY",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367779823842": {
+          "id": "68367779823842",
+          "title": "017 / Navy",
+          "options": [
+            "017",
+            "Navy"
+          ],
+          "sku": "26DS027-017-NVY",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        },
+        "68367779856610": {
+          "id": "68367779856610",
+          "title": "175 / Navy",
+          "options": [
+            "175",
+            "Navy"
+          ],
+          "sku": "26DS027-175-NVY",
+          "available": true,
+          "price": 559600,
+          "compare_at_price": 699500
+        }
+      },
+      "available": true
+    },
     "9166404747490": {
       "id": "9166404747490",
       "title": "DRESS SHIRT OFF WHITE",
@@ -310026,6 +311028,138 @@
         }
       },
       "available": false
+    },
+    "15605878915298": {
+      "id": "15605878915298",
+      "title": "DRESS SHIRT PEACH",
+      "handle": "dress-shirt-peach",
+      "url": "https://charcoal.com.pk/products/dress-shirt-peach",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS",
+        "New Arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06037.webp?v=1795858903",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06037copy.webp?v=1795858903",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06039.webp?v=1795858903",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06865_5240fec6-7144-4b2c-b884-f4e0f28a5c19.webp?v=1795858903"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017",
+            "175"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "PEACH"
+          ]
+        }
+      ],
+      "variants": {
+        "68368270852322": {
+          "id": "68368270852322",
+          "title": "145 / PEACH",
+          "options": [
+            "145",
+            "PEACH"
+          ],
+          "sku": "26DS028-145-PCH",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368270885090": {
+          "id": "68368270885090",
+          "title": "015 / PEACH",
+          "options": [
+            "015",
+            "PEACH"
+          ],
+          "sku": "26DS028-015-PCH",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368270917858": {
+          "id": "68368270917858",
+          "title": "155 / PEACH",
+          "options": [
+            "155",
+            "PEACH"
+          ],
+          "sku": "26DS028-155-PCH",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368270950626": {
+          "id": "68368270950626",
+          "title": "016 / PEACH",
+          "options": [
+            "016",
+            "PEACH"
+          ],
+          "sku": "26DS028-016-PCH",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368270983394": {
+          "id": "68368270983394",
+          "title": "165 / PEACH",
+          "options": [
+            "165",
+            "PEACH"
+          ],
+          "sku": "26DS028-165-PCH",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368271016162": {
+          "id": "68368271016162",
+          "title": "017 / PEACH",
+          "options": [
+            "017",
+            "PEACH"
+          ],
+          "sku": "26DS028-017-PCH",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368271048930": {
+          "id": "68368271048930",
+          "title": "175 / PEACH",
+          "options": [
+            "175",
+            "PEACH"
+          ],
+          "sku": "26DS028-175-PCH",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        }
+      },
+      "available": true
     },
     "6762305192133": {
       "id": "6762305192133",
@@ -311546,6 +312680,124 @@
           "available": false,
           "price": 559600,
           "compare_at_price": 699500
+        }
+      },
+      "available": true
+    },
+    "15605809512674": {
+      "id": "15605809512674",
+      "title": "DRESS SHIRT PINK",
+      "handle": "dress-shirt-pink-13",
+      "url": "https://charcoal.com.pk/products/dress-shirt-pink-13",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06077.webp?v=1795856378",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06077copy.webp?v=1795856378",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06078.webp?v=1795856378",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06793_0d44bc94-520b-4684-bd09-fdb923fa4079.webp?v=1795856378"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Pink"
+          ]
+        }
+      ],
+      "variants": {
+        "68367586001122": {
+          "id": "68367586001122",
+          "title": "145 / Pink",
+          "options": [
+            "145",
+            "Pink"
+          ],
+          "sku": "26DS025-145-PNK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367586033890": {
+          "id": "68367586033890",
+          "title": "015 / Pink",
+          "options": [
+            "015",
+            "Pink"
+          ],
+          "sku": "26DS025-015-PNK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367586066658": {
+          "id": "68367586066658",
+          "title": "155 / Pink",
+          "options": [
+            "155",
+            "Pink"
+          ],
+          "sku": "26DS025-155-PNK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367586099426": {
+          "id": "68367586099426",
+          "title": "016 / Pink",
+          "options": [
+            "016",
+            "Pink"
+          ],
+          "sku": "26DS025-016-PNK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367586132194": {
+          "id": "68367586132194",
+          "title": "165 / Pink",
+          "options": [
+            "165",
+            "Pink"
+          ],
+          "sku": "26DS025-165-PNK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
+        },
+        "68367586164962": {
+          "id": "68367586164962",
+          "title": "017 / Pink",
+          "options": [
+            "017",
+            "Pink"
+          ],
+          "sku": "26DS025-017-PNK",
+          "available": true,
+          "price": 519600,
+          "compare_at_price": 649500
         }
       },
       "available": true
@@ -315382,6 +316634,138 @@
         }
       },
       "available": false
+    },
+    "15605874524386": {
+      "id": "15605874524386",
+      "title": "DRESS SHIRT WHITE",
+      "handle": "dress-shirt-white-13",
+      "url": "https://charcoal.com.pk/products/dress-shirt-white-13",
+      "vendor": "Charcoal Clothing",
+      "type": "",
+      "description": "",
+      "tags": [
+        "ALL FORMAL SHIRTS",
+        "ALL FORMALS",
+        "ALL FORMALS SHIRTS",
+        "DRESS SHIRTS",
+        "N-DRESS SHIRTS",
+        "New Arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06040.webp?v=1795858639",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06040copy.webp?v=1795858639",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06041_49333d3a-e6d7-40d7-990c-78fa7473a81c.webp?v=1795858639",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06471-Copy.webp?v=1795858639"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "145",
+            "015",
+            "155",
+            "016",
+            "165",
+            "017",
+            "175"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "White"
+          ]
+        }
+      ],
+      "variants": {
+        "68368170615010": {
+          "id": "68368170615010",
+          "title": "145 / White",
+          "options": [
+            "145",
+            "White"
+          ],
+          "sku": "26DS028-145-WHT",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368170647778": {
+          "id": "68368170647778",
+          "title": "015 / White",
+          "options": [
+            "015",
+            "White"
+          ],
+          "sku": "26DS028-015-WHT",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368170680546": {
+          "id": "68368170680546",
+          "title": "155 / White",
+          "options": [
+            "155",
+            "White"
+          ],
+          "sku": "26DS028-155-WHT",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368170713314": {
+          "id": "68368170713314",
+          "title": "016 / White",
+          "options": [
+            "016",
+            "White"
+          ],
+          "sku": "26DS028-016-WHT",
+          "available": true,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368170746082": {
+          "id": "68368170746082",
+          "title": "165 / White",
+          "options": [
+            "165",
+            "White"
+          ],
+          "sku": "26DS028-165-WHT",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368170778850": {
+          "id": "68368170778850",
+          "title": "017 / White",
+          "options": [
+            "017",
+            "White"
+          ],
+          "sku": "26DS028-017-WHT",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        },
+        "68368170811618": {
+          "id": "68368170811618",
+          "title": "175 / White",
+          "options": [
+            "175",
+            "White"
+          ],
+          "sku": "26DS028-175-WHT",
+          "available": false,
+          "price": 719600,
+          "compare_at_price": 899500
+        }
+      },
+      "available": true
     },
     "9165980532962": {
       "id": "9165980532962",
@@ -320836,7 +322220,7 @@
             "Medium"
           ],
           "sku": "24SK014-0MD-DSB",
-          "available": true,
+          "available": false,
           "price": 411800,
           "compare_at_price": 1029500
         },
@@ -321021,12 +322405,12 @@
             "XL"
           ],
           "sku": "24SK002-0XL-OLG",
-          "available": true,
+          "available": false,
           "price": 391800,
           "compare_at_price": 979500
         }
       },
-      "available": true
+      "available": false
     },
     "8603531772130": {
       "id": "8603531772130",
@@ -357469,7 +358853,7 @@
             "Green"
           ],
           "sku": "26SF002-0LR-GRN",
-          "available": true,
+          "available": false,
           "price": 244750,
           "compare_at_price": 489500
         },
@@ -357576,7 +358960,7 @@
             "RUST"
           ],
           "sku": "26SF002-0LR-RST",
-          "available": true,
+          "available": false,
           "price": 244750,
           "compare_at_price": 489500
         },
@@ -357605,7 +358989,7 @@
           "compare_at_price": 489500
         }
       },
-      "available": true
+      "available": false
     },
     "9245802889442": {
       "id": "9245802889442",
@@ -357917,7 +359301,7 @@
             "khaki"
           ],
           "sku": "26SF008-0XL-BGE",
-          "available": true,
+          "available": false,
           "price": 324750,
           "compare_at_price": 649500
         },
@@ -357934,7 +359318,7 @@
           "compare_at_price": 649500
         }
       },
-      "available": true
+      "available": false
     },
     "9289383215330": {
       "id": "9289383215330",
@@ -404352,7 +405736,7 @@
             "32"
           ],
           "sku": "24JEN34-M32-LBL",
-          "available": true,
+          "available": false,
           "price": 195800,
           "compare_at_price": 489500
         },
@@ -414454,7 +415838,7 @@
             "OFF White"
           ],
           "sku": "25PF009-0SM-OWT",
-          "available": true,
+          "available": false,
           "price": 374750,
           "compare_at_price": 749500
         },
@@ -449187,7 +450571,7 @@
             "Medium"
           ],
           "sku": "25LES03-0MD-P01",
-          "available": true,
+          "available": false,
           "price": 234750,
           "compare_at_price": 469500
         },
@@ -449214,7 +450598,7 @@
           "compare_at_price": 469500
         }
       },
-      "available": true
+      "available": false
     },
     "8853012021474": {
       "id": "8853012021474",
@@ -467259,7 +468643,7 @@
             "VINTAGE GREY"
           ],
           "sku": "25SF025-0MD-VKG",
-          "available": true,
+          "available": false,
           "price": 274750,
           "compare_at_price": 549500
         },
@@ -471734,6 +473118,226 @@
           "available": true,
           "price": 679600,
           "compare_at_price": 849500
+        }
+      },
+      "available": true
+    },
+    "15400264925410": {
+      "id": "15400264925410",
+      "title": "LONG-SLEEVE HORIZONTAL STRIPE KNITTED SWEATER BLACK",
+      "handle": "long-sleeve-horizontal-stripe-knitted-sweater",
+      "url": "https://charcoal.com.pk/products/long-sleeve-horizontal-stripe-knitted-sweater",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "sweaters",
+      "description": "<p><strong>Fit Type :</strong> Smart  Fit<br><strong>Design Details:</strong><br>  - Fulf Sleeve shirt with rib knit cuffs<br>  - Crew neck ribknit neck band<br>  - Ribbed waistband<br><strong>Fabric :</strong> Slub textured fabric<br><strong>Hand Feel :</strong> Soft<br><strong>Colors :</strong> Black<br><strong>Size :</strong> Model wearing Medium size<br><strong>Occasion :</strong> Prefall<br><strong>Description:</strong> This premium Long-Sleeve Horizontal Stripe Knitted Sweater Black is crafted from eminent fabric in our collection. It is meticulously crafted to prioritise both comfort and durability, making it a versatile choice for any event.</p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL OUTERWEAR",
+        "ALLOUTERWEAR",
+        "NAYLON",
+        "New Arrival",
+        "POLYESTER",
+        "PRE FALL 2026",
+        "SWEATER",
+        "VISCOSE"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03472_395a85be-7d53-46ef-95a4-8d1e755437c7.webp?v=1791463581",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03472_e08193d3-0ad0-4b2a-a920-6cae3a9b788f.webp?v=1791462776",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03485.webp?v=1791462776",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03493_8d2678fc-cc74-45e3-931c-2bfd83bab4b7.webp?v=1791462776",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03503.webp?v=1791462776",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03508.webp?v=1791462776"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "variants": {
+        "67614110417122": {
+          "id": "67614110417122",
+          "title": "Small / Black",
+          "options": [
+            "Small",
+            "Black"
+          ],
+          "sku": "26SWT10-0SM-BLK",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "67614110449890": {
+          "id": "67614110449890",
+          "title": "Medium / Black",
+          "options": [
+            "Medium",
+            "Black"
+          ],
+          "sku": "26SWT10-0MD-BLK",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "67614110482658": {
+          "id": "67614110482658",
+          "title": "Large / Black",
+          "options": [
+            "Large",
+            "Black"
+          ],
+          "sku": "26SWT10-0LR-BLK",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "67614110515426": {
+          "id": "67614110515426",
+          "title": "XL / Black",
+          "options": [
+            "XL",
+            "Black"
+          ],
+          "sku": "26SWT10-0XL-BLK",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "67614110548194": {
+          "id": "67614110548194",
+          "title": "XXL / Black",
+          "options": [
+            "XXL",
+            "Black"
+          ],
+          "sku": "26SWT10-XXL-BLK",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        }
+      },
+      "available": true
+    },
+    "15400290255074": {
+      "id": "15400290255074",
+      "title": "LONG-SLEEVE HORIZONTAL STRIPE KNITTED SWEATER NAVY",
+      "handle": "long-sleeve-horizontal-stripe-knitted-sweater-navy",
+      "url": "https://charcoal.com.pk/products/long-sleeve-horizontal-stripe-knitted-sweater-navy",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "sweaters",
+      "description": "<p><strong>Fit Type :</strong> Smart  Fit<br><strong>Design Details:</strong><br>  - Fulf Sleeve shirt with rib knit cuffs<br>  - Crew neck ribknit neck band<br>  - Ribbed waistband<br><strong>Fabric :</strong> Slub textured fabric<br><strong>Hand Feel :</strong> Soft<br><strong>Colors :</strong> Navy<br><strong>Size :</strong> Model wearing Medium size<br><strong>Occasion :</strong> Prefall<br><strong>Description:</strong> This premium Long-Sleeve Horizontal Stripe Knitted Sweater Navy is crafted from eminent fabric in our collection. It is meticulously crafted to prioritise both comfort and durability, making it a versatile choice for any event.</p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL OUTERWEAR",
+        "ALLOUTERWEAR",
+        "New Arrival",
+        "POLYESTER",
+        "PRE FALL 2026",
+        "SWEATER",
+        "cotton"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04336.webp?v=1791463853",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04343_4aab9284-783e-4c6b-b32d-583e2b1c86c0.webp?v=1791463853",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04346_f3739a71-b26f-46a4-8c56-336e765f6fec.webp?v=1791463853",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04347_8fda2530-e22d-49c0-ad8a-df00cde19bda.webp?v=1791463854",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04355.webp?v=1791463854"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Navy"
+          ]
+        }
+      ],
+      "variants": {
+        "67614143840482": {
+          "id": "67614143840482",
+          "title": "Small / Navy",
+          "options": [
+            "Small",
+            "Navy"
+          ],
+          "sku": "26SWT10-0SM-NVY",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "67614147117282": {
+          "id": "67614147117282",
+          "title": "Medium / Navy",
+          "options": [
+            "Medium",
+            "Navy"
+          ],
+          "sku": "26SWT10-0MD-NVY",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "67614147150050": {
+          "id": "67614147150050",
+          "title": "Large / Navy",
+          "options": [
+            "Large",
+            "Navy"
+          ],
+          "sku": "26SWT10-0LR-NVY",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "67614147182818": {
+          "id": "67614147182818",
+          "title": "XL / Navy",
+          "options": [
+            "XL",
+            "Navy"
+          ],
+          "sku": "26SWT10-0XL-NVY",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "67614147215586": {
+          "id": "67614147215586",
+          "title": "XXL / Navy",
+          "options": [
+            "XXL",
+            "Navy"
+          ],
+          "sku": "26SWT10-XXL-NVY",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
         }
       },
       "available": true
@@ -477027,12 +478631,12 @@
             "XL"
           ],
           "sku": "24SK007-0XL-MBM",
-          "available": true,
+          "available": false,
           "price": 351800,
           "compare_at_price": 879500
         }
       },
-      "available": true
+      "available": false
     },
     "8782794359010": {
       "id": "8782794359010",
@@ -546372,7 +547976,7 @@
             "Gray"
           ],
           "sku": "25HD002-0XL-GRY",
-          "available": true,
+          "available": false,
           "price": 449750,
           "compare_at_price": 899500
         },
@@ -548748,7 +550352,7 @@
             "Medium"
           ],
           "sku": "24JKT19-0MD-NVY",
-          "available": false,
+          "available": true,
           "price": 519800,
           "compare_at_price": 1299500
         },
@@ -554448,7 +556052,7 @@
             "XL"
           ],
           "sku": "25CS035-0XL-OWT",
-          "available": true,
+          "available": false,
           "price": 274750,
           "compare_at_price": 549500
         },
@@ -555969,6 +557573,118 @@
             "Navy"
           ],
           "sku": "26CP017-M38-NVY",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        }
+      },
+      "available": true
+    },
+    "15469101383906": {
+      "id": "15469101383906",
+      "title": "REGULAR FIT CASUAL PANT NAVY",
+      "handle": "regular-fit-casual-pant-navy-1",
+      "url": "https://charcoal.com.pk/products/regular-fit-casual-pant-navy-1",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual pants",
+      "description": "<p><strong>Design Details:</strong><br>  - Regular Fit Cross Pocket Pant<br><strong>Fit :</strong> Regular Fit<br><strong>Hand Feel :</strong> Soft<br><strong>Fabric :</strong> 100% Polyester<br><strong>Size :</strong> Model wears 32,34<br><strong>Colors :</strong> Navy<br><strong>Occasion :</strong> Pre Fall / 26<br><strong>Description:</strong> Regular-fit navy casual pants featuring a cross-pocket design. Crafted from soft 100% polyester for comfortable everyday wear.</p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL PANTS",
+        "N-CASUAL PANTS",
+        "POLYESTER",
+        "PRE FALL 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC01025.webp?v=1793441054",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC01026_105ba430-f1f3-4119-bc41-70922ff40105.webp?v=1793441054",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC01027.webp?v=1793441054",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC01029.webp?v=1793441054",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06179top_bottomchange.webp?v=1793441054",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06185.webp?v=1793441054",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06187copy.webp?v=1793441054",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06188.webp?v=1793441054",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06190.webp?v=1793441054"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Navy"
+          ]
+        }
+      ],
+      "variants": {
+        "67862580232418": {
+          "id": "67862580232418",
+          "title": "30 / Navy",
+          "options": [
+            "30",
+            "Navy"
+          ],
+          "sku": "26CP022-M30-NVY",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        },
+        "67862627582178": {
+          "id": "67862627582178",
+          "title": "32 / Navy",
+          "options": [
+            "32",
+            "Navy"
+          ],
+          "sku": "26CP022-M32-NVY",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        },
+        "67862627614946": {
+          "id": "67862627614946",
+          "title": "34 / Navy",
+          "options": [
+            "34",
+            "Navy"
+          ],
+          "sku": "26CP022-M34-NVY",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        },
+        "67862627647714": {
+          "id": "67862627647714",
+          "title": "36 / Navy",
+          "options": [
+            "36",
+            "Navy"
+          ],
+          "sku": "26CP022-M36-NVY",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        },
+        "67862627680482": {
+          "id": "67862627680482",
+          "title": "38 / Navy",
+          "options": [
+            "38",
+            "Navy"
+          ],
+          "sku": "26CP022-M38-NVY",
           "available": true,
           "price": 454650,
           "compare_at_price": 649500
@@ -558003,12 +559719,12 @@
             "Beige"
           ],
           "sku": "25CT023-M38-BGE",
-          "available": true,
+          "available": false,
           "price": 299750,
           "compare_at_price": 599500
         }
       },
-      "available": true
+      "available": false
     },
     "9034880712930": {
       "id": "9034880712930",
@@ -558817,12 +560533,12 @@
             "khaki"
           ],
           "sku": "25JKT05-XXL-KHK",
-          "available": true,
+          "available": false,
           "price": 574750,
           "compare_at_price": 1149500
         }
       },
-      "available": true
+      "available": false
     },
     "8970173382882": {
       "id": "8970173382882",
@@ -586421,7 +588137,7 @@
             "36"
           ],
           "sku": "25CP017-M36-WHT",
-          "available": true,
+          "available": false,
           "price": 324750,
           "compare_at_price": 649500
         },
@@ -586437,7 +588153,7 @@
           "compare_at_price": 649500
         }
       },
-      "available": true
+      "available": false
     },
     "8524634161378": {
       "id": "8524634161378",
@@ -598338,7 +600054,7 @@
             "48"
           ],
           "sku": "24COT27-M48-NVY",
-          "available": true,
+          "available": false,
           "price": 1279800,
           "compare_at_price": 3199500
         },
@@ -598387,7 +600103,7 @@
           "compare_at_price": 3199500
         }
       },
-      "available": true
+      "available": false
     },
     "8779333632226": {
       "id": "8779333632226",
@@ -624773,7 +626489,7 @@
             "Small"
           ],
           "sku": "24SEM40-0SM-BLU",
-          "available": true,
+          "available": false,
           "price": 195800,
           "compare_at_price": 489500
         },
@@ -624822,7 +626538,7 @@
           "compare_at_price": 489500
         }
       },
-      "available": true
+      "available": false
     },
     "9312450019554": {
       "id": "9312450019554",
@@ -627678,7 +629394,7 @@
             "Medium"
           ],
           "sku": "24SEM31-0MD-BUW",
-          "available": true,
+          "available": false,
           "price": 187800,
           "compare_at_price": 469500
         },
@@ -627700,7 +629416,7 @@
             "XL"
           ],
           "sku": "24SEM31-0XL-BUW",
-          "available": true,
+          "available": false,
           "price": 187800,
           "compare_at_price": 469500
         },
@@ -633264,7 +634980,7 @@
             "Small"
           ],
           "sku": "24SEM40-0SM-GRY",
-          "available": true,
+          "available": false,
           "price": 195800,
           "compare_at_price": 489500
         },
@@ -633313,7 +635029,7 @@
           "compare_at_price": 489500
         }
       },
-      "available": true
+      "available": false
     },
     "8883389399266": {
       "id": "8883389399266",
@@ -675577,7 +677293,7 @@
             "36"
           ],
           "sku": "24JEN26-M36-DBL",
-          "available": true,
+          "available": false,
           "price": 219800,
           "compare_at_price": 549500
         },
@@ -676066,7 +677782,7 @@
             "36"
           ],
           "sku": "24JEN21-M36-MBU",
-          "available": true,
+          "available": false,
           "price": 219800,
           "compare_at_price": 549500
         },
@@ -676082,7 +677798,7 @@
           "compare_at_price": 549500
         }
       },
-      "available": true
+      "available": false
     },
     "5497141788834": {
       "id": "5497141788834",
@@ -677303,6 +679019,114 @@
       },
       "available": false
     },
+    "15605498708194": {
+      "id": "15605498708194",
+      "title": "SLEEPWEAR TROUSER BEIGE",
+      "handle": "sleepwear-trouser-beige",
+      "url": "https://charcoal.com.pk/products/sleepwear-trouser-beige",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual trouser",
+      "description": "",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL TROUSER",
+        "Co-Ord sets",
+        "N-CASUAL TROUSER",
+        "New Arrival",
+        "PRE FALL 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06971_2bfae398-7275-4cdf-85a1-e09fc6770566.webp?v=1795852064",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06974_df839d78-62e2-4fa9-a3c8-4fc871ea1114.webp?v=1795852064",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06982_38068783-0e40-4f2c-aade-37d64369688b.webp?v=1795852064",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06994_cea06c62-55f2-47f8-a836-6674d389737a.webp?v=1795852064"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Beige"
+          ]
+        }
+      ],
+      "variants": {
+        "68365722779874": {
+          "id": "68365722779874",
+          "title": "30 / Beige",
+          "options": [
+            "30",
+            "Beige"
+          ],
+          "sku": "26CT028-M30-BGE",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68365722812642": {
+          "id": "68365722812642",
+          "title": "32 / Beige",
+          "options": [
+            "32",
+            "Beige"
+          ],
+          "sku": "26CT028-M32-BGE",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68365722845410": {
+          "id": "68365722845410",
+          "title": "34 / Beige",
+          "options": [
+            "34",
+            "Beige"
+          ],
+          "sku": "26CT028-M34-BGE",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68365722878178": {
+          "id": "68365722878178",
+          "title": "36 / Beige",
+          "options": [
+            "36",
+            "Beige"
+          ],
+          "sku": "26CT028-M36-BGE",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68365722910946": {
+          "id": "68365722910946",
+          "title": "38 / Beige",
+          "options": [
+            "38",
+            "Beige"
+          ],
+          "sku": "26CT028-M38-BGE",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        }
+      },
+      "available": true
+    },
     "7751248380130": {
       "id": "7751248380130",
       "title": "SLEEPWEAR TROUSER BLACK",
@@ -677392,6 +679216,115 @@
         }
       },
       "available": false
+    },
+    "15605647442146": {
+      "id": "15605647442146",
+      "title": "SLEEPWEAR TROUSER BLACK",
+      "handle": "sleepwear-trouser-black-1",
+      "url": "https://charcoal.com.pk/products/sleepwear-trouser-black-1",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual trouser",
+      "description": "",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL TROUSER",
+        "Co-Ord sets",
+        "N-CASUAL TROUSER",
+        "New Arrival",
+        "PRE FALL 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06999_a81b9bd5-fb49-4001-852e-e5e5d6245e24.webp?v=1795852643",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC07012_4392046f-4bc9-4a0a-b332-ab359648862e.webp?v=1795852643",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC07021_f3f1f574-2919-46f7-8dec-0567c8154cfd.webp?v=1795852643",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC07023.webp?v=1795852643",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC07026_5d349976-e1f4-4f61-8643-36f106ff7900.webp?v=1795852643"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "variants": {
+        "68366268432610": {
+          "id": "68366268432610",
+          "title": "30 / Black",
+          "options": [
+            "30",
+            "Black"
+          ],
+          "sku": "26CT028-M30-BLK",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366268465378": {
+          "id": "68366268465378",
+          "title": "32 / Black",
+          "options": [
+            "32",
+            "Black"
+          ],
+          "sku": "26CT028-M32-BLK",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366268498146": {
+          "id": "68366268498146",
+          "title": "34 / Black",
+          "options": [
+            "34",
+            "Black"
+          ],
+          "sku": "26CT028-M34-BLK",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366268530914": {
+          "id": "68366268530914",
+          "title": "36 / Black",
+          "options": [
+            "36",
+            "Black"
+          ],
+          "sku": "26CT028-M36-BLK",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366268563682": {
+          "id": "68366268563682",
+          "title": "38 / Black",
+          "options": [
+            "38",
+            "Black"
+          ],
+          "sku": "26CT028-M38-BLK",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        }
+      },
+      "available": true
     },
     "7650315206882": {
       "id": "7650315206882",
@@ -677487,6 +679420,114 @@
         }
       },
       "available": false
+    },
+    "15605651996898": {
+      "id": "15605651996898",
+      "title": "SLEEPWEAR TROUSER BURGUNDY",
+      "handle": "sleepwear-trouser-burgundy",
+      "url": "https://charcoal.com.pk/products/sleepwear-trouser-burgundy",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual trouser",
+      "description": "",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL TROUSER",
+        "Co-Ord sets",
+        "N-CASUAL TROUSER",
+        "New Arrival",
+        "PRE FALL 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06939_ef6458ff-832d-4174-bd92-170cff1cb7d5.webp?v=1795852873",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06948_55c3d161-39c4-4755-90f7-977c2d9c7cb7.webp?v=1795852873",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06952_4c74c038-6c78-4bee-88b4-025c231cc74f.webp?v=1795852873",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06960_1223daa0-2f7d-450f-af4b-4acd3c4ed9d1.webp?v=1795852873"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "BURGUNDY"
+          ]
+        }
+      ],
+      "variants": {
+        "68366276395234": {
+          "id": "68366276395234",
+          "title": "30 / BURGUNDY",
+          "options": [
+            "30",
+            "BURGUNDY"
+          ],
+          "sku": "26CT028-M30-BUR",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366276428002": {
+          "id": "68366276428002",
+          "title": "32 / BURGUNDY",
+          "options": [
+            "32",
+            "BURGUNDY"
+          ],
+          "sku": "26CT028-M32-BUR",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366276460770": {
+          "id": "68366276460770",
+          "title": "34 / BURGUNDY",
+          "options": [
+            "34",
+            "BURGUNDY"
+          ],
+          "sku": "26CT028-M34-BUR",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366276493538": {
+          "id": "68366276493538",
+          "title": "36 / BURGUNDY",
+          "options": [
+            "36",
+            "BURGUNDY"
+          ],
+          "sku": "26CT028-M36-BUR",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366276526306": {
+          "id": "68366276526306",
+          "title": "38 / BURGUNDY",
+          "options": [
+            "38",
+            "BURGUNDY"
+          ],
+          "sku": "26CT028-M38-BUR",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        }
+      },
+      "available": true
     },
     "7753351102690": {
       "id": "7753351102690",
@@ -677671,6 +679712,114 @@
         }
       },
       "available": false
+    },
+    "15605660811490": {
+      "id": "15605660811490",
+      "title": "SLEEPWEAR TROUSER HEATHER GREY",
+      "handle": "sleepwear-trouser-heather-grey",
+      "url": "https://charcoal.com.pk/products/sleepwear-trouser-heather-grey",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual trouser",
+      "description": "",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL TROUSER",
+        "Co-Ord sets",
+        "N-CASUAL TROUSER",
+        "New Arrival",
+        "PRE FALL 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC07032_384fd919-5fc5-4686-8f1b-8d3c773b1ea3.webp?v=1795853082",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC07046_e0057a0d-1f7d-4cbc-af39-f4b56ca4d19a.webp?v=1795853082",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC07053_e281a695-cf41-4989-9f07-3069be0f0a2e.webp?v=1795853082",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC07065_d1ace6d9-2607-48f0-8dd5-ba8cfdbbc149.webp?v=1795853082"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "HEATHER GREY"
+          ]
+        }
+      ],
+      "variants": {
+        "68366295236834": {
+          "id": "68366295236834",
+          "title": "30 / HEATHER GREY",
+          "options": [
+            "30",
+            "HEATHER GREY"
+          ],
+          "sku": "26CT028-M30-HEG",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366295269602": {
+          "id": "68366295269602",
+          "title": "32 / HEATHER GREY",
+          "options": [
+            "32",
+            "HEATHER GREY"
+          ],
+          "sku": "26CT028-M32-HEG",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366295302370": {
+          "id": "68366295302370",
+          "title": "34 / HEATHER GREY",
+          "options": [
+            "34",
+            "HEATHER GREY"
+          ],
+          "sku": "26CT028-M34-HEG",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366295335138": {
+          "id": "68366295335138",
+          "title": "36 / HEATHER GREY",
+          "options": [
+            "36",
+            "HEATHER GREY"
+          ],
+          "sku": "26CT028-M36-HEG",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366295367906": {
+          "id": "68366295367906",
+          "title": "38 / HEATHER GREY",
+          "options": [
+            "38",
+            "HEATHER GREY"
+          ],
+          "sku": "26CT028-M38-HEG",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        }
+      },
+      "available": true
     },
     "7753351495906": {
       "id": "7753351495906",
@@ -678039,6 +680188,115 @@
         }
       },
       "available": false
+    },
+    "15605667463394": {
+      "id": "15605667463394",
+      "title": "SLEEPWEAR TROUSER NAVY",
+      "handle": "sleepwear-trouser-navy",
+      "url": "https://charcoal.com.pk/products/sleepwear-trouser-navy",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual trouser",
+      "description": "",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL TROUSER",
+        "Co-Ord sets",
+        "N-CASUAL TROUSER",
+        "New Arrival",
+        "PRE FALL 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06913_7786ca48-56b6-4957-9a55-3e10fd5e79e6.webp?v=1795853253",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06914_08f2f9b0-2084-4e9f-a519-c0a1efc0ffc8.webp?v=1795853253",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06915_4389fabf-c008-4751-9eea-4441a7707a0f.webp?v=1795853253",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06917_3c4c01cf-5871-48b8-a6dc-d92aaa8f84dc.webp?v=1795853253",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06924_1a9468a1-d1b6-4a80-9386-61fc21e6c0da.webp?v=1795853253"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Navy"
+          ]
+        }
+      ],
+      "variants": {
+        "68366312505570": {
+          "id": "68366312505570",
+          "title": "30 / Navy",
+          "options": [
+            "30",
+            "Navy"
+          ],
+          "sku": "26CT028-M30-NVY",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366312538338": {
+          "id": "68366312538338",
+          "title": "32 / Navy",
+          "options": [
+            "32",
+            "Navy"
+          ],
+          "sku": "26CT028-M32-NVY",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366312571106": {
+          "id": "68366312571106",
+          "title": "34 / Navy",
+          "options": [
+            "34",
+            "Navy"
+          ],
+          "sku": "26CT028-M34-NVY",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366312603874": {
+          "id": "68366312603874",
+          "title": "36 / Navy",
+          "options": [
+            "36",
+            "Navy"
+          ],
+          "sku": "26CT028-M36-NVY",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        },
+        "68366312636642": {
+          "id": "68366312636642",
+          "title": "38 / Navy",
+          "options": [
+            "38",
+            "Navy"
+          ],
+          "sku": "26CT028-M38-NVY",
+          "available": true,
+          "price": 349650,
+          "compare_at_price": 499500
+        }
+      },
+      "available": true
     },
     "7650320875746": {
       "id": "7650320875746",
@@ -680388,7 +682646,7 @@
             "Medium"
           ],
           "sku": "24JKT13-0MD-BLK",
-          "available": true,
+          "available": false,
           "price": 519800,
           "compare_at_price": 1299500
         },
@@ -684440,7 +686698,7 @@
             "36-1"
           ],
           "sku": "24CT018-M36-EWH",
-          "available": true,
+          "available": false,
           "price": 267800,
           "compare_at_price": 669500
         },
@@ -684456,7 +686714,7 @@
           "compare_at_price": 669500
         }
       },
-      "available": true
+      "available": false
     },
     "9034882187490": {
       "id": "9034882187490",
@@ -690404,7 +692662,7 @@
             "BROWN MELANGE"
           ],
           "sku": "25JKT01-0LR-BRM",
-          "available": false,
+          "available": true,
           "price": 449750,
           "compare_at_price": 899500
         },
@@ -691239,7 +693497,7 @@
             "OLIVE"
           ],
           "sku": "25JKT06-0LR-OLV",
-          "available": false,
+          "available": true,
           "price": 499750,
           "compare_at_price": 999500
         },
@@ -692515,7 +694773,7 @@
             "36"
           ],
           "sku": "24CP048-M36-BLK",
-          "available": true,
+          "available": false,
           "price": 247800,
           "compare_at_price": 619500
         },
@@ -692531,7 +694789,7 @@
           "compare_at_price": 619500
         }
       },
-      "available": true
+      "available": false
     },
     "8854930555106": {
       "id": "8854930555106",
@@ -703158,7 +705416,7 @@
             "32"
           ],
           "sku": "24JEN16-M32-MBU",
-          "available": true,
+          "available": false,
           "price": 179800,
           "compare_at_price": 449500
         },
@@ -703713,12 +705971,12 @@
             "MAROON"
           ],
           "sku": "25SF030-XXL-MRN",
-          "available": true,
+          "available": false,
           "price": 299750,
           "compare_at_price": 599500
         }
       },
-      "available": true
+      "available": false
     },
     "9062492274914": {
       "id": "9062492274914",
@@ -704311,6 +706569,115 @@
       },
       "available": true
     },
+    "15605323923682": {
+      "id": "15605323923682",
+      "title": "SMART FIT CASUAL PANT BEIGE",
+      "handle": "smart-fit-casual-pant-beige",
+      "url": "https://charcoal.com.pk/products/smart-fit-casual-pant-beige",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual pants",
+      "description": "<p><strong>Fit Type </strong>: Smart Fit<br><strong>Design Details</strong> :<br><strong>-</strong> Smart Fit open bottom  <br><strong>-</strong> Pant with Plates at front and front cross pocket<br><strong>Hand Feel </strong>: Soft<br><strong>Fabric</strong> : 57% Polyester,40% Rayon, 3% Spandex<br><strong>Size</strong> : Model wearing 32, 34<br><strong>Occasion</strong> : Pre Fall /26<br><span><strong>Description</strong> :</span><br><span>A refined smart-fit beige pant with a soft hand feel and a clean, open-bottom finish. Front pleats and cross pockets bring thoughtful detail to an easy-to-style silhouette. Crafted from a flexible polyester, rayon and spandex blend for everyday comfort.</span><br></p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL PANTS",
+        "N-CASUAL PANTS",
+        "POLYESTER",
+        "PRE FALL 2026",
+        "RAYON",
+        "Spandex"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04183_bf450ccd-b779-44cf-9a3b-aa35ed392e62.webp?v=1795847443",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04192_25a61742-a822-457f-aab2-9b27970160d5.webp?v=1795847443",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04197_9c007b11-c573-4944-a78b-808c05e9f9ad.webp?v=1795847443",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04200_5a1d677f-0c69-4f59-86f9-39079a706e3c.webp?v=1795847443"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Beige"
+          ]
+        }
+      ],
+      "variants": {
+        "68365115850978": {
+          "id": "68365115850978",
+          "title": "30 / Beige",
+          "options": [
+            "30",
+            "Beige"
+          ],
+          "sku": "26CP019-M30-BGE",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "68365115883746": {
+          "id": "68365115883746",
+          "title": "32 / Beige",
+          "options": [
+            "32",
+            "Beige"
+          ],
+          "sku": "26CP019-M32-BGE",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "68365115916514": {
+          "id": "68365115916514",
+          "title": "34 / Beige",
+          "options": [
+            "34",
+            "Beige"
+          ],
+          "sku": "26CP019-M34-BGE",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "68365115949282": {
+          "id": "68365115949282",
+          "title": "36 / Beige",
+          "options": [
+            "36",
+            "Beige"
+          ],
+          "sku": "26CP019-M36-BGE",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "68365115982050": {
+          "id": "68365115982050",
+          "title": "38 / Beige",
+          "options": [
+            "38",
+            "Beige"
+          ],
+          "sku": "26CP019-M38-BGE",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        }
+      },
+      "available": true
+    },
     "9070493106402": {
       "id": "9070493106402",
       "title": "SMART FIT CASUAL PANT BEIGE MELANGE",
@@ -704518,6 +706885,114 @@
           "sku": "25CP042-M38-BLK",
           "available": true,
           "price": 399750,
+          "compare_at_price": 799500
+        }
+      },
+      "available": true
+    },
+    "15605385887970": {
+      "id": "15605385887970",
+      "title": "SMART FIT CASUAL PANT BLACK",
+      "handle": "smart-fit-casual-pant-black-1",
+      "url": "https://charcoal.com.pk/products/smart-fit-casual-pant-black-1",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual pants",
+      "description": "<p><strong>Fit </strong>: Smart Fit<br><strong>Design Details</strong> :<br><strong>-</strong> Smart Fit open bottom<br><strong>-</strong> Pant with elasticated waistband at sides only and front cross pocket<br><strong>Hand Feel</strong> : Soft<br><strong>Fabric</strong> : 100% Polyester<br><strong>Size</strong> : Model wears 32,34<br><strong>Occasion </strong>: Pre Fall / 26<br><strong>Description </strong>:<br><span>A refined everyday essential, these black smart-fit trousers offer a clean, polished look. The soft fabric and open-bottom design make them easy to style for smart-casual occasions. Side-elasticated waist details add comfort, while front cross pockets keep the finish practical.</span><br></p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL PANTS",
+        "N-CASUAL PANTS",
+        "POLYESTER",
+        "PRE FALL 2026"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03992_df90ac8f-5923-44cc-8b9d-2c36c08f62b5.webp?v=1795848570",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03996_3a7d1336-244c-44d3-9a3e-1a0fe2177a56.webp?v=1795848570",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04000_4e4e38bc-9522-4c58-86a5-84828e01d30b.webp?v=1795848570",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04007_6aea7f87-ae77-45bb-aa55-1841615e6ded.webp?v=1795848570",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04013_55465c5c-4f71-494e-ab08-958087a3ed7d.webp?v=1795848570"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "variants": {
+        "68365536985314": {
+          "id": "68365536985314",
+          "title": "30 / Black",
+          "options": [
+            "30",
+            "Black"
+          ],
+          "sku": "26CP020-M30-BLK",
+          "available": false,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "68365537018082": {
+          "id": "68365537018082",
+          "title": "32 / Black",
+          "options": [
+            "32",
+            "Black"
+          ],
+          "sku": "26CP020-M32-BLK",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "68365537050850": {
+          "id": "68365537050850",
+          "title": "34 / Black",
+          "options": [
+            "34",
+            "Black"
+          ],
+          "sku": "26CP020-M34-BLK",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "68365537083618": {
+          "id": "68365537083618",
+          "title": "36 / Black",
+          "options": [
+            "36",
+            "Black"
+          ],
+          "sku": "26CP020-M36-BLK",
+          "available": true,
+          "price": 559650,
+          "compare_at_price": 799500
+        },
+        "68365537116386": {
+          "id": "68365537116386",
+          "title": "38 / Black",
+          "options": [
+            "38",
+            "Black"
+          ],
+          "sku": "26CP020-M38-BLK",
+          "available": true,
+          "price": 559650,
           "compare_at_price": 799500
         }
       },
@@ -707183,7 +709658,7 @@
             "Dark khaki"
           ],
           "sku": "26TS019-0MD-DRK",
-          "available": true,
+          "available": false,
           "price": 299750,
           "compare_at_price": 599500
         },
@@ -709726,7 +712201,7 @@
             "Beige"
           ],
           "sku": "26TS012-0XL-BGE",
-          "available": true,
+          "available": false,
           "price": 424750,
           "compare_at_price": 849500
         },
@@ -709743,7 +712218,7 @@
           "compare_at_price": 849500
         }
       },
-      "available": true
+      "available": false
     },
     "9279533875426": {
       "id": "9279533875426",
@@ -716752,6 +719227,326 @@
       },
       "available": true
     },
+    "15524356686050": {
+      "id": "15524356686050",
+      "title": "SMART FIT FULL SLEEVE SUEDE JACKET BROWN",
+      "handle": "suede-jacket-brown-2",
+      "url": "https://charcoal.com.pk/products/suede-jacket-brown-2",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "jackets",
+      "description": "<p><strong>Fit</strong> : Smart Fit<br><strong>Design Details </strong>:<br><strong>-</strong> Full Sleeve suede jacket with front pockets.<br><strong>Hand Feel</strong> : Soft<br><strong>Fabric</strong> : Suede<br><strong>Size</strong> : Model wears M,L<br><strong>Occasion</strong> : Pre Fall / 26<br><strong>Description :<br></strong><span> Ideal for pre-fall layering, this brown suede jacket pairs effortlessly with smart-casual looks.</span><br></p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL CASUAL TOPS",
+        "ALL OUTERWEAR",
+        "ALLOUTERWEAR",
+        "JACKETS",
+        "New Arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04257.webp?v=1795244038",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04261.webp?v=1795244038",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04262.webp?v=1795244038",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04269.webp?v=1795244038",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04279top.webp?v=1795244038"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Brown"
+          ]
+        }
+      ],
+      "variants": {
+        "68114503860450": {
+          "id": "68114503860450",
+          "title": "Small / Brown",
+          "options": [
+            "Small",
+            "Brown"
+          ],
+          "sku": "26JKT15-0SM-BRN",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68114503893218": {
+          "id": "68114503893218",
+          "title": "Medium / Brown",
+          "options": [
+            "Medium",
+            "Brown"
+          ],
+          "sku": "26JKT15-0MD-BRN",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68114503925986": {
+          "id": "68114503925986",
+          "title": "Large / Brown",
+          "options": [
+            "Large",
+            "Brown"
+          ],
+          "sku": "26JKT15-0LR-BRN",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68114503958754": {
+          "id": "68114503958754",
+          "title": "XL / Brown",
+          "options": [
+            "XL",
+            "Brown"
+          ],
+          "sku": "26JKT15-0XL-BRN",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68114503991522": {
+          "id": "68114503991522",
+          "title": "XXL / Brown",
+          "options": [
+            "XXL",
+            "Brown"
+          ],
+          "sku": "26JKT15-XXL-BRN",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        }
+      },
+      "available": true
+    },
+    "15605866758370": {
+      "id": "15605866758370",
+      "title": "SMART FIT FULL SLEEVE SUEDE JACKET KHAKI",
+      "handle": "smart-fit-full-sleeve-suede-jacket-khaki",
+      "url": "https://charcoal.com.pk/products/smart-fit-full-sleeve-suede-jacket-khaki",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "jackets",
+      "description": "<p><strong>Fit</strong> : Smart Fit<br><strong>Design Details </strong>:<br><strong>-</strong> Full Sleeve suede jacket with front pockets.<br><strong>Hand Feel</strong> : Soft<br><strong>Fabric</strong> : Suede<br><strong>Size</strong> : Model wears M,L<br><strong>Occasion</strong> : Pre Fall / 26<br><strong>Description :<br></strong><span> Ideal for pre-fall layering, this khaki suede jacket pairs effortlessly with smart-casual looks.</span><br></p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL CASUAL TOPS",
+        "ALL OUTERWEAR",
+        "ALLOUTERWEAR",
+        "JACKETS",
+        "New Arrival",
+        "Suede"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC01396.1.webp?v=1795858628",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC01396.webp?v=1795858628",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC01396copy.webp?v=1795858628",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03026.webp?v=1795858628"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "khaki"
+          ]
+        }
+      ],
+      "variants": {
+        "68368173301986": {
+          "id": "68368173301986",
+          "title": "Small / khaki",
+          "options": [
+            "Small",
+            "khaki"
+          ],
+          "sku": "26JKT15-0SM-KHK",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68368173334754": {
+          "id": "68368173334754",
+          "title": "Medium / khaki",
+          "options": [
+            "Medium",
+            "khaki"
+          ],
+          "sku": "26JKT15-0MD-KHK",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68368173367522": {
+          "id": "68368173367522",
+          "title": "Large / khaki",
+          "options": [
+            "Large",
+            "khaki"
+          ],
+          "sku": "26JKT15-0LR-KHK",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68368173400290": {
+          "id": "68368173400290",
+          "title": "XL / khaki",
+          "options": [
+            "XL",
+            "khaki"
+          ],
+          "sku": "26JKT15-0XL-KHK",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68368173433058": {
+          "id": "68368173433058",
+          "title": "XXL / khaki",
+          "options": [
+            "XXL",
+            "khaki"
+          ],
+          "sku": "26JKT15-XXL-KHK",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        }
+      },
+      "available": true
+    },
+    "15524361634018": {
+      "id": "15524361634018",
+      "title": "SMART FIT FULL SLEEVE SUEDE JACKET OLIVE",
+      "handle": "suede-jacket-olive-1",
+      "url": "https://charcoal.com.pk/products/suede-jacket-olive-1",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "jackets",
+      "description": "<p><strong>Fit</strong> : Smart Fit<br><strong>Design Details </strong>:<br><strong>-</strong> Full Sleeve suede jacket with front pockets.<br><strong>Hand Feel</strong> : Soft<br><strong>Fabric</strong> : Suede<br><strong>Size</strong> : Model wears M,L<br><strong>Occasion</strong> : Pre Fall / 26<br><strong>Description :<br></strong><span> Ideal for pre-fall layering, this olive</span><span> suede jacket pairs effortlessly with smart-casual looks.</span><br></p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL CASUAL TOPS",
+        "ALL OUTERWEAR",
+        "ALLOUTERWEAR",
+        "JACKETS",
+        "New Arrival"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04714.webp?v=1795244237",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04726.webp?v=1795244237",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04727_271a8a76-3887-4075-aca7-ad34d1dba97f.webp?v=1795244237",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04733.webp?v=1795244237"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "OLIVE"
+          ]
+        }
+      ],
+      "variants": {
+        "68114587353314": {
+          "id": "68114587353314",
+          "title": "Small / OLIVE",
+          "options": [
+            "Small",
+            "OLIVE"
+          ],
+          "sku": "26JKT15-0SM-OLV",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68114587386082": {
+          "id": "68114587386082",
+          "title": "Medium / OLIVE",
+          "options": [
+            "Medium",
+            "OLIVE"
+          ],
+          "sku": "26JKT15-0MD-OLV",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68114587418850": {
+          "id": "68114587418850",
+          "title": "Large / OLIVE",
+          "options": [
+            "Large",
+            "OLIVE"
+          ],
+          "sku": "26JKT15-0LR-OLV",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68114587451618": {
+          "id": "68114587451618",
+          "title": "XL / OLIVE",
+          "options": [
+            "XL",
+            "OLIVE"
+          ],
+          "sku": "26JKT15-0XL-OLV",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        },
+        "68114587484386": {
+          "id": "68114587484386",
+          "title": "XXL / OLIVE",
+          "options": [
+            "XXL",
+            "OLIVE"
+          ],
+          "sku": "26JKT15-XXL-OLV",
+          "available": true,
+          "price": 1609650,
+          "compare_at_price": 2299500
+        }
+      },
+      "available": true
+    },
     "15411099271394": {
       "id": "15411099271394",
       "title": "SMART FIT FULL SLEEVE ZIPPER POLO SHIRT BEIGE",
@@ -718337,7 +721132,7 @@
             "PISTA"
           ],
           "sku": "25JKT16-XXL-PIS",
-          "available": false,
+          "available": true,
           "price": 749750,
           "compare_at_price": 1499500
         }
@@ -731286,7 +734081,7 @@
             "see green"
           ],
           "sku": "25JKT17-0MD-GGR",
-          "available": false,
+          "available": true,
           "price": 649750,
           "compare_at_price": 1299500
         },
@@ -734651,7 +737446,7 @@
             "Black"
           ],
           "sku": "26SWT06-XXL-BLK",
-          "available": true,
+          "available": false,
           "price": 629650,
           "compare_at_price": 899500
         }
@@ -739741,7 +742536,7 @@
             "Medium"
           ],
           "sku": "24SF004-0MD-BLU",
-          "available": true,
+          "available": false,
           "price": 179800,
           "compare_at_price": 449500
         },
@@ -739779,7 +742574,7 @@
           "compare_at_price": 449500
         }
       },
-      "available": true
+      "available": false
     },
     "8371313180898": {
       "id": "8371313180898",
@@ -739940,7 +742735,7 @@
             "Large"
           ],
           "sku": "24SF021-0LR-BLU",
-          "available": true,
+          "available": false,
           "price": 187800,
           "compare_at_price": 469500
         },
@@ -747200,7 +749995,7 @@
             "Large"
           ],
           "sku": "25SF007-0LR-WHT",
-          "available": true,
+          "available": false,
           "price": 244750,
           "compare_at_price": 489500
         },
@@ -747227,7 +750022,7 @@
           "compare_at_price": 489500
         }
       },
-      "available": true
+      "available": false
     },
     "8858240057570": {
       "id": "8858240057570",
@@ -755093,7 +757888,7 @@
             "Large"
           ],
           "sku": "23SF039-0LR-GXD",
-          "available": false,
+          "available": true,
           "price": 140850,
           "compare_at_price": 469500
         },
@@ -755120,7 +757915,7 @@
           "compare_at_price": 469500
         }
       },
-      "available": false
+      "available": true
     },
     "8190384472290": {
       "id": "8190384472290",
@@ -755163,7 +757958,7 @@
             "Small"
           ],
           "sku": "23SF034-0SM-GXD",
-          "available": true,
+          "available": false,
           "price": 143850,
           "compare_at_price": 479500
         },
@@ -755212,7 +758007,7 @@
           "compare_at_price": 479500
         }
       },
-      "available": true
+      "available": false
     },
     "8379540635874": {
       "id": "8379540635874",
@@ -759097,7 +761892,7 @@
             "Large"
           ],
           "sku": "24SF031-0LR-MRN",
-          "available": true,
+          "available": false,
           "price": 179800,
           "compare_at_price": 449500
         },
@@ -759124,7 +761919,7 @@
           "compare_at_price": 449500
         }
       },
-      "available": true
+      "available": false
     },
     "9062804848866": {
       "id": "9062804848866",
@@ -760804,7 +763599,7 @@
             "XL"
           ],
           "sku": "24SF010-0XL-NVY",
-          "available": true,
+          "available": false,
           "price": 219800,
           "compare_at_price": 549500
         },
@@ -760820,7 +763615,7 @@
           "compare_at_price": 549500
         }
       },
-      "available": true
+      "available": false
     },
     "8724442513634": {
       "id": "8724442513634",
@@ -762584,7 +765379,7 @@
             "LARGE"
           ],
           "sku": "24SF010-0LR-OWT",
-          "available": true,
+          "available": false,
           "price": 219800,
           "compare_at_price": 549500
         },
@@ -762859,7 +765654,7 @@
             "Medium"
           ],
           "sku": "24SF031-0MD-OWT",
-          "available": true,
+          "available": false,
           "price": 179800,
           "compare_at_price": 449500
         },
@@ -763880,7 +766675,7 @@
             "Small"
           ],
           "sku": "24SF023-0SM-PNK",
-          "available": true,
+          "available": false,
           "price": 195800,
           "compare_at_price": 489500
         },
@@ -763902,7 +766697,7 @@
             "Large"
           ],
           "sku": "24SF023-0LR-PNK",
-          "available": true,
+          "available": false,
           "price": 195800,
           "compare_at_price": 489500
         },
@@ -765578,7 +768373,7 @@
             "Large"
           ],
           "sku": "24SF006-0LR-SBL",
-          "available": true,
+          "available": false,
           "price": 207800,
           "compare_at_price": 519500
         },
@@ -765600,7 +768395,7 @@
             "XXL"
           ],
           "sku": "24SF006-XXL-SBL",
-          "available": true,
+          "available": false,
           "price": 207800,
           "compare_at_price": 519500
         }
@@ -768199,7 +770994,7 @@
             "XL"
           ],
           "sku": "24SF024-0XL-WHT",
-          "available": true,
+          "available": false,
           "price": 195800,
           "compare_at_price": 489500
         },
@@ -768210,12 +771005,12 @@
             "XXL"
           ],
           "sku": "24SF024-XXL-WHT",
-          "available": true,
+          "available": false,
           "price": 195800,
           "compare_at_price": 489500
         }
       },
-      "available": true
+      "available": false
     },
     "8761901220066": {
       "id": "8761901220066",
@@ -768259,7 +771054,7 @@
             "Small"
           ],
           "sku": "24SF028-0SM-WHT",
-          "available": true,
+          "available": false,
           "price": 219800,
           "compare_at_price": 549500
         },
@@ -768308,7 +771103,7 @@
           "compare_at_price": 549500
         }
       },
-      "available": true
+      "available": false
     },
     "8972400460002": {
       "id": "8972400460002",
@@ -772167,6 +774962,228 @@
       },
       "available": false
     },
+    "15469073760482": {
+      "id": "15469073760482",
+      "title": "STRAIGHT FIT CASUAL PANT BEIGE",
+      "handle": "straight-fit-casual-pant-beige-1",
+      "url": "https://charcoal.com.pk/products/straight-fit-casual-pant-beige-1",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual pants",
+      "description": "<p><strong>Design Details:</strong><br>  - Straight Fit Cross Pocket Pant<br><strong>Fit :</strong> Straight Fit<br><strong>Hand Feel :</strong> Soft<br><strong>Fabric :</strong> 100% Cotton<br><strong>Size :</strong> Model wears 32,34<br><strong>Colors :</strong> Beige<br><strong>Occasion :</strong> Pre Fall / 26<br><strong><span>Description :</span></strong> A clean, versatile choice for everyday dressing, this white pant pairs easily with both relaxed and smart-casual outfits.<br><strong>Description:</strong> Shop brown straight fit cross pocket pants for men online in pakistan. Durable cotton fabric, functional pockets &amp; a smart tailored silhouette.</p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL PANTS",
+        "N-CASUAL PANTS",
+        "PRE FALL 2026",
+        "cotton"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00493.webp?v=1793438738",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00495_c499f1b3-99ac-4540-b642-4987f3d2f2c5.webp?v=1793438738",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00496.webp?v=1793438738",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00497.webp?v=1793438738",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03236_220960c1-802e-4fc0-b2db-e97b913cd923.webp?v=1793438738",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03247_ba1380fe-a590-429b-a1f8-1a7fba4a9444.webp?v=1793438738",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03248_c5c2f8b8-dde1-4db4-acbe-6df77ce4fcc4.webp?v=1793438738",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03254_67d45e02-9c98-4109-ab38-d3cff0c08081.webp?v=1793438738"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Beige"
+          ]
+        }
+      ],
+      "variants": {
+        "67862449848546": {
+          "id": "67862449848546",
+          "title": "30 / Beige",
+          "options": [
+            "30",
+            "Beige"
+          ],
+          "sku": "26CP016-M30-BGE",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67862476259554": {
+          "id": "67862476259554",
+          "title": "32 / Beige",
+          "options": [
+            "32",
+            "Beige"
+          ],
+          "sku": "26CP016-M32-BGE",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67862476292322": {
+          "id": "67862476292322",
+          "title": "34 / Beige",
+          "options": [
+            "34",
+            "Beige"
+          ],
+          "sku": "26CP016-M34-BGE",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67862476325090": {
+          "id": "67862476325090",
+          "title": "36 / Beige",
+          "options": [
+            "36",
+            "Beige"
+          ],
+          "sku": "26CP016-M36-BGE",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67862476357858": {
+          "id": "67862476357858",
+          "title": "38 / Beige",
+          "options": [
+            "38",
+            "Beige"
+          ],
+          "sku": "26CP016-M38-BGE",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        }
+      },
+      "available": true
+    },
+    "15469071270114": {
+      "id": "15469071270114",
+      "title": "STRAIGHT FIT CASUAL PANT BLACK",
+      "handle": "straight-fit-casual-pant-black",
+      "url": "https://charcoal.com.pk/products/straight-fit-casual-pant-black",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual pants",
+      "description": "<p><strong>Design Details:</strong><br>  - Straight Fit Cross Pocket Pant<br><strong>Fit :</strong> Straight Fit<br><strong>Hand Feel :</strong> Soft<br><strong>Fabric :</strong> 100% Cotton<br><strong>Size :</strong> Model wears 32,34<br><strong>Colors :</strong> Black<br><strong>Occasion :</strong> Pre Fall / 26<br><strong><span>Description :</span></strong> A clean, versatile choice for everyday dressing, this white pant pairs easily with both relaxed and smart-casual outfits.<br><strong>Description:</strong> Shop brown straight fit cross pocket pants for men online in pakistan. Durable cotton fabric, functional pockets &amp; a smart tailored silhouette.</p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL PANTS",
+        "N-CASUAL PANTS",
+        "PRE FALL 2026",
+        "cotton"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00501_991a5629-8c08-4ab8-90b5-22a38ddeb50e.webp?v=1793438379",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00502.webp?v=1793438379",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00505.webp?v=1793438379",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00507_64b75f6a-34b3-4847-8f91-b3e9962004a9.webp?v=1793438379",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03542_69ffcc87-1ccc-48f0-8459-f70b6fe386e4.webp?v=1793438379",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03546_00f81b25-7d01-40d1-a591-71a8faa6d7b2.webp?v=1793438379",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03548_30434fc5-be30-4fde-b032-759378927b9a.webp?v=1793438379",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03552_0d66b250-5d5b-4cfb-9946-01a5faa4e0bd.webp?v=1793438379"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "variants": {
+        "67862435004642": {
+          "id": "67862435004642",
+          "title": "30 / Black",
+          "options": [
+            "30",
+            "Black"
+          ],
+          "sku": "26CP016-M30-BLK",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67862447096034": {
+          "id": "67862447096034",
+          "title": "32 / Black",
+          "options": [
+            "32",
+            "Black"
+          ],
+          "sku": "26CP016-M32-BLK",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67862447128802": {
+          "id": "67862447128802",
+          "title": "34 / Black",
+          "options": [
+            "34",
+            "Black"
+          ],
+          "sku": "26CP016-M34-BLK",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67862447161570": {
+          "id": "67862447161570",
+          "title": "36 / Black",
+          "options": [
+            "36",
+            "Black"
+          ],
+          "sku": "26CP016-M36-BLK",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67862447194338": {
+          "id": "67862447194338",
+          "title": "38 / Black",
+          "options": [
+            "38",
+            "Black"
+          ],
+          "sku": "26CP016-M38-BLK",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        }
+      },
+      "available": true
+    },
     "9296260825314": {
       "id": "9296260825314",
       "title": "STRAIGHT FIT CASUAL PANT BLUE",
@@ -772279,6 +775296,231 @@
         }
       },
       "available": false
+    },
+    "15469120618722": {
+      "id": "15469120618722",
+      "title": "STRAIGHT FIT CASUAL PANT KHAKI",
+      "handle": "straight-fit-casual-pant-khaki",
+      "url": "https://charcoal.com.pk/products/straight-fit-casual-pant-khaki",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual pants",
+      "description": "<p><strong>Design Details:</strong><br>  - Straight Fit Cross pocket with elasticated waistband pant<br><strong>Fit :</strong> Straight Fit<br><strong>Hand Feel :</strong> Soft<br><strong>Fabric :</strong> 96% Polyester, 4% Spandex<br><strong>Size :</strong> Model wears 32,34<br><strong>Colors :</strong> KHAKI<br><strong>Occasion :</strong> Pre Fall / 26<br><strong><span>Description :</span></strong> Straight-fit casual pants featuring cross pockets and an elasticated waistband for a comfortable, easy-to-wear feel. <br><strong>Description:</strong> Shop brown straight fit cross pocket pants for men online in pakistan. Durable cotton fabric, functional pockets &amp; a smart tailored silhouette.</p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL PANTS",
+        "N-CASUAL PANTS",
+        "POLYESTER",
+        "PRE FALL 2026",
+        "Spandex"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00940.webp?v=1793442747",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00940copy.webp?v=1793442747",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00942.webp?v=1793442747",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00944.webp?v=1793442747",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06114top_bottomchange.webp?v=1793442747",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06115.webp?v=1793442747",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06117.webp?v=1793442747",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06120.webp?v=1793442747",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC06134_d76d33e6-d020-42da-9b56-5e6c1072d09a.webp?v=1793442747"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "khaki"
+          ]
+        }
+      ],
+      "variants": {
+        "67862655762658": {
+          "id": "67862655762658",
+          "title": "30 / khaki",
+          "options": [
+            "30",
+            "khaki"
+          ],
+          "sku": "26CP025-M30-KHK",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        },
+        "67862672343266": {
+          "id": "67862672343266",
+          "title": "32 / khaki",
+          "options": [
+            "32",
+            "khaki"
+          ],
+          "sku": "26CP025-M30-KHK",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        },
+        "67862672376034": {
+          "id": "67862672376034",
+          "title": "34 / khaki",
+          "options": [
+            "34",
+            "khaki"
+          ],
+          "sku": "26CP025-M30-KHK",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        },
+        "67862672408802": {
+          "id": "67862672408802",
+          "title": "36 / khaki",
+          "options": [
+            "36",
+            "khaki"
+          ],
+          "sku": "26CP025-M30-KHK",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        },
+        "67862672441570": {
+          "id": "67862672441570",
+          "title": "38 / khaki",
+          "options": [
+            "38",
+            "khaki"
+          ],
+          "sku": "26CP025-M30-KHK",
+          "available": true,
+          "price": 454650,
+          "compare_at_price": 649500
+        }
+      },
+      "available": true
+    },
+    "15468978110690": {
+      "id": "15468978110690",
+      "title": "STRAIGHT FIT CASUAL PANT WHITE",
+      "handle": "straight-fit-casual-pant-white",
+      "url": "https://charcoal.com.pk/products/straight-fit-casual-pant-white",
+      "vendor": "Men (Pre Fall - 2026)",
+      "type": "casual pants",
+      "description": "<p><strong>Design Details:</strong><br>  - Straight Fit Cross Pocket Pant<br><strong>Fit :</strong> Straight Fit<br><strong>Hand Feel :</strong> Soft<br><strong>Fabric :</strong> 100% Cotton<br><strong>Size :</strong> Model wears 32,34<br><strong>Colors :</strong> White<br><strong>Occasion :</strong> Pre Fall / 26<br><strong><span>Description :</span></strong> A clean, versatile choice for everyday dressing, this white pant pairs easily with both relaxed and smart-casual outfits.<br><strong>Description:</strong> Shop brown straight fit cross pocket pants for men online in pakistan. Durable cotton fabric, functional pockets &amp; a smart tailored silhouette.</p>",
+      "tags": [
+        "ALL CASUAL",
+        "ALL PANTS",
+        "All Casual bottom",
+        "CASUAL PANTS",
+        "N-CASUAL PANTS",
+        "PRE FALL 2026",
+        "cotton"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00528_9ead9289-67ee-4ceb-ad7d-2631a4156dd3.webp?v=1793434526",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00528copy.webp?v=1793434526",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00531_3d2b4093-eb36-4bff-89fb-c85f31c9f575.webp?v=1793434526",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC00532.webp?v=1793434526",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03202_11dc5e2e-2610-4091-a489-f4eaa1924fd1.webp?v=1793434526",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03205.webp?v=1793434526",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03211.webp?v=1793434526",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03216_39ede318-e610-4e88-957d-aab798c78c79.webp?v=1793434526",
+        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC03219.webp?v=1793434526"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "White"
+          ]
+        }
+      ],
+      "variants": {
+        "67861935653090": {
+          "id": "67861935653090",
+          "title": "30 / White",
+          "options": [
+            "30",
+            "White"
+          ],
+          "sku": "26CP016-M30-WHT",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67861959016674": {
+          "id": "67861959016674",
+          "title": "32 / White",
+          "options": [
+            "32",
+            "White"
+          ],
+          "sku": "26CP016-M32-WHT",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67861959049442": {
+          "id": "67861959049442",
+          "title": "34 / White",
+          "options": [
+            "34",
+            "White"
+          ],
+          "sku": "26CP016-M34-WHT",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67861959082210": {
+          "id": "67861959082210",
+          "title": "36 / White",
+          "options": [
+            "36",
+            "White"
+          ],
+          "sku": "26CP016-M36-WHT",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        },
+        "67861959114978": {
+          "id": "67861959114978",
+          "title": "38 / White",
+          "options": [
+            "38",
+            "White"
+          ],
+          "sku": "26CP016-M38-WHT",
+          "available": true,
+          "price": 440650,
+          "compare_at_price": 629500
+        }
+      },
+      "available": true
     },
     "9242072940770": {
       "id": "9242072940770",
@@ -773026,7 +776268,7 @@
             "Light Khaki"
           ],
           "sku": "26CT010-M34-LTK",
-          "available": true,
+          "available": false,
           "price": 284750,
           "compare_at_price": 569500
         },
@@ -774965,7 +778207,7 @@
             "36"
           ],
           "sku": "24JEN42-M36-DBL",
-          "available": true,
+          "available": false,
           "price": 211800,
           "compare_at_price": 529500
         },
@@ -774981,7 +778223,7 @@
           "compare_at_price": 529500
         }
       },
-      "available": true
+      "available": false
     },
     "8772722917602": {
       "id": "8772722917602",
@@ -776923,7 +780165,7 @@
             "36"
           ],
           "sku": "25CT006-M36-BGE",
-          "available": true,
+          "available": false,
           "price": 284750,
           "compare_at_price": 569500
         },
@@ -781392,7 +784634,7 @@
             "Black"
           ],
           "sku": "26JKT20-0SM-BLK",
-          "available": true,
+          "available": false,
           "price": 1049650,
           "compare_at_price": 1499500
         },
@@ -781933,113 +785175,6 @@
         }
       },
       "available": false
-    },
-    "15524356686050": {
-      "id": "15524356686050",
-      "title": "SUEDE JACKET BROWN",
-      "handle": "suede-jacket-brown-2",
-      "url": "https://charcoal.com.pk/products/suede-jacket-brown-2",
-      "vendor": "Men (Pre Fall - 2026)",
-      "type": "jackets",
-      "description": "",
-      "tags": [
-        "ALL CASUAL",
-        "ALL CASUAL TOPS",
-        "ALL OUTERWEAR",
-        "ALLOUTERWEAR",
-        "JACKETS",
-        "New Arrival"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04257.webp?v=1795244038",
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04261.webp?v=1795244038",
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04262.webp?v=1795244038",
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04269.webp?v=1795244038",
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04279top.webp?v=1795244038"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "Small",
-            "Medium",
-            "Large",
-            "XL",
-            "XXL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "Brown"
-          ]
-        }
-      ],
-      "variants": {
-        "68114503860450": {
-          "id": "68114503860450",
-          "title": "Small / Brown",
-          "options": [
-            "Small",
-            "Brown"
-          ],
-          "sku": "26JKT15-0SM-BRN",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        },
-        "68114503893218": {
-          "id": "68114503893218",
-          "title": "Medium / Brown",
-          "options": [
-            "Medium",
-            "Brown"
-          ],
-          "sku": "26JKT15-0MD-BRN",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        },
-        "68114503925986": {
-          "id": "68114503925986",
-          "title": "Large / Brown",
-          "options": [
-            "Large",
-            "Brown"
-          ],
-          "sku": "26JKT15-0LR-BRN",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        },
-        "68114503958754": {
-          "id": "68114503958754",
-          "title": "XL / Brown",
-          "options": [
-            "XL",
-            "Brown"
-          ],
-          "sku": "26JKT15-0XL-BRN",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        },
-        "68114503991522": {
-          "id": "68114503991522",
-          "title": "XXL / Brown",
-          "options": [
-            "XXL",
-            "Brown"
-          ],
-          "sku": "26JKT15-XXL-BRN",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        }
-      },
-      "available": true
     },
     "15524364353762": {
       "id": "15524364353762",
@@ -783020,112 +786155,6 @@
         }
       },
       "available": false
-    },
-    "15524361634018": {
-      "id": "15524361634018",
-      "title": "SUEDE JACKET OLIVE",
-      "handle": "suede-jacket-olive-1",
-      "url": "https://charcoal.com.pk/products/suede-jacket-olive-1",
-      "vendor": "Men (Pre Fall - 2026)",
-      "type": "jackets",
-      "description": "",
-      "tags": [
-        "ALL CASUAL",
-        "ALL CASUAL TOPS",
-        "ALL OUTERWEAR",
-        "ALLOUTERWEAR",
-        "JACKETS",
-        "New Arrival"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04714.webp?v=1795244237",
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04726.webp?v=1795244237",
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04727_271a8a76-3887-4075-aca7-ad34d1dba97f.webp?v=1795244237",
-        "https://cdn.shopify.com/s/files/1/0419/6171/7922/files/DSC04733.webp?v=1795244237"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "Small",
-            "Medium",
-            "Large",
-            "XL",
-            "XXL"
-          ]
-        },
-        {
-          "name": "Color",
-          "position": 2,
-          "values": [
-            "OLIVE"
-          ]
-        }
-      ],
-      "variants": {
-        "68114587353314": {
-          "id": "68114587353314",
-          "title": "Small / OLIVE",
-          "options": [
-            "Small",
-            "OLIVE"
-          ],
-          "sku": "26JKT15-0SM-OLV",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        },
-        "68114587386082": {
-          "id": "68114587386082",
-          "title": "Medium / OLIVE",
-          "options": [
-            "Medium",
-            "OLIVE"
-          ],
-          "sku": "26JKT15-0MD-OLV",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        },
-        "68114587418850": {
-          "id": "68114587418850",
-          "title": "Large / OLIVE",
-          "options": [
-            "Large",
-            "OLIVE"
-          ],
-          "sku": "26JKT15-0LR-OLV",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        },
-        "68114587451618": {
-          "id": "68114587451618",
-          "title": "XL / OLIVE",
-          "options": [
-            "XL",
-            "OLIVE"
-          ],
-          "sku": "26JKT15-0XL-OLV",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        },
-        "68114587484386": {
-          "id": "68114587484386",
-          "title": "XXL / OLIVE",
-          "options": [
-            "XXL",
-            "OLIVE"
-          ],
-          "sku": "26JKT15-XXL-OLV",
-          "available": true,
-          "price": 1609650,
-          "compare_at_price": 2299500
-        }
-      },
-      "available": true
     },
     "8876512411874": {
       "id": "8876512411874",
@@ -789769,7 +792798,7 @@
             "Grey"
           ],
           "sku": "26SWT02-0MD-GRY",
-          "available": false,
+          "available": true,
           "price": 549750,
           "compare_at_price": 1099500
         },
@@ -789810,7 +792839,7 @@
           "compare_at_price": 1099500
         }
       },
-      "available": false
+      "available": true
     },
     "7462213583074": {
       "id": "7462213583074",
@@ -790676,7 +793705,7 @@
             "OFF White"
           ],
           "sku": "26TS004-0XL-OWT",
-          "available": true,
+          "available": false,
           "price": 374750,
           "compare_at_price": 749500
         },
@@ -790693,7 +793722,7 @@
           "compare_at_price": 749500
         }
       },
-      "available": true
+      "available": false
     },
     "8840662221026": {
       "id": "8840662221026",
@@ -800206,7 +803235,7 @@
             "XL"
           ],
           "sku": "24SWT02-0XL-MRN",
-          "available": true,
+          "available": false,
           "price": 339800,
           "compare_at_price": 849500
         },
@@ -802544,7 +805573,7 @@
             "Large"
           ],
           "sku": "24SWT09-0LR-DMR",
-          "available": true,
+          "available": false,
           "price": 319800,
           "compare_at_price": 799500
         },
@@ -802712,7 +805741,7 @@
             "Small"
           ],
           "sku": "24SWT09-0SM-NVY",
-          "available": false,
+          "available": true,
           "price": 319800,
           "compare_at_price": 799500
         },
@@ -802761,7 +805790,7 @@
           "compare_at_price": 799500
         }
       },
-      "available": false
+      "available": true
     },
     "6103387865285": {
       "id": "6103387865285",
@@ -840122,7 +843151,7 @@
             "Large"
           ],
           "sku": "24WC011-0LR-MNY",
-          "available": true,
+          "available": false,
           "price": 459800,
           "compare_at_price": 1149500
         },
@@ -852122,7 +855151,7 @@
             "Light Khaki"
           ],
           "sku": "25SWT03-0LR-LTK",
-          "available": true,
+          "available": false,
           "price": 429750,
           "compare_at_price": 859500
         },
@@ -856858,7 +859887,7 @@
             "Light Khaki"
           ],
           "sku": "25CP025-M32-LTK",
-          "available": false,
+          "available": true,
           "price": 324750,
           "compare_at_price": 649500
         },
@@ -856899,7 +859928,7 @@
           "compare_at_price": 649500
         }
       },
-      "available": false
+      "available": true
     },
     "8869368692962": {
       "id": "8869368692962",
@@ -865907,7 +868936,7 @@
             "XL"
           ],
           "sku": "24WC014-0XL-BBA",
-          "available": true,
+          "available": false,
           "price": 459800,
           "compare_at_price": 1149500
         }
@@ -878480,7 +881509,7 @@
             "LARGE"
           ],
           "sku": "24SK003-0LR-LBL",
-          "available": true,
+          "available": false,
           "price": 351800,
           "compare_at_price": 879500
         },
@@ -878491,12 +881520,12 @@
             "XL"
           ],
           "sku": "24SK003-0XL-LBL",
-          "available": true,
+          "available": false,
           "price": 351800,
           "compare_at_price": 879500
         }
       },
-      "available": true
+      "available": false
     },
     "8356051681506": {
       "id": "8356051681506",
